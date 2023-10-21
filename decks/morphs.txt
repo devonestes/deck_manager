@@ -1,0 +1,96 @@
+1 Kadena, Slinking Sorcerer (C19) 45 *F*
+1 Ainok Survivalist (C19) 156 #!Morph
+1 All Is Dust (CMM) 800 #!Removal
+1 Aphetto Runecaster (SCG) 28 #!Card Advantage
+1 Arcane Signet (MOC) 348 #!Fixing #!Ramp
+1 Assassin's Trophy (GRN) 152 #!Removal
+1 Bane of the Living (C19) 104 #!Morph #!Removal
+1 Boseiju, Who Endures (NEO) 501 #!Green #!Removal
+1 Breeding Pool (UNF) 286 #!Blue #!Green
+1 Brine Elemental (TSP) 50 #!Morph #!Wincon
+1 Chromeshell Crab (C19) 81 #!Morph
+1 Command Tower (C19) 237 #!Any Color
+1 Craterhoof Behemoth (AVR) 172 #!Wincon
+1 Crystal Shard (MRD) 159 #!Protection #!Recursion
+1 Cyclonic Rift (RTR) 35 #!Removal #!Sweeper
+1 Darkbore Pathway // Slitherbore Pathway (KHM) 292 #!Black #!Green
+1 Deathmist Raptor (C19) 160 #!Morph #!Recursion
+1 Demonic Tutor (3ED) 105 #!Tutors
+1 Den Protector (C19) 161 #!Morph #!Recursion
+1 Dreamroot Cascade (VOW) 282 #!Blue #!Green
+1 Echo Tracer (LGN) 37 #!Morph #!Removal
+1 Elven Chorus (LTR) 160 #!Card Advantage #!Ramp
+1 Farseek (C19) 165 #!Ramp
+1 Flooded Grove (LTC) 309 #!Blue #!Green
+3 Forest (LTR) 270 #!Green
+1 Ghastly Conscription (C19) 115 #!Card Advantage
+1 Gift of Doom (C19) 17 #!Morph #!Protection #!Removal
+1 Grazilaxx, Illithid Scholar (CLB) 723 #!Card Advantage
+1 Grim Haruspex (C19) 118 #!Card Advantage #!Morph
+1 Guardian Project (RNA) 130 #!Card Advantage
+1 Heroic Intervention (LTC) 249 #!Defense
+1 Hooded Hydra (C19) 172 #!Morph
+1 Icefeather Aven (C19) 194 #!Morph #!Removal
+2 Island (MOM) 278 #!Blue
+1 Ixidron (C19) 87 #!Morph #!Removal
+1 Kadena's Silencer (C19) 8 #!Counterspell #!Morph
+1 Kheru Spellsnatcher (C19) 89 #!Counterspell #!Morph
+1 Leyline of Anticipation (CLB) 726 #!Flash
+1 Liberator, Urza's Battlethopter (BRO) 237 #!Flash
+1 Llanowar Wastes (C19) 258 #!Black #!Green
+1 Mischievous Quanar (SCG) 42 #!Counterspell #!Morph
+1 Misty Rainforest (MM3) 240 #!Blue #!Green
+1 Morphic Pool (BBD) 83 #!Black #!Blue
+1 Nantuko Vigilante (C19) 174 #!Morph #!Removal
+1 Nature's Lore (DMR) 170 #!Ramp
+1 Opulent Palace (DMC) 223 #!Black #!Blue #!Green
+1 Otawara, Soaring City (NEO) 503 #!Blue #!Protection #!Removal
+1 Overgrown Tomb (UNF) 284 #!Black #!Green
+1 Overwhelming Stampede (C19) 175 #!Wincon
+1 Polluted Delta (KTK) 239 #!Black #!Blue
+1 Rejuvenating Springs (LTC) 325 #!Blue #!Green
+1 Reliquary Tower (C19) 268 #!Colorless
+1 Rhystic Study (J22) 114 #!Card Advantage
+1 Sakura-Tribe Elder (CHK) 239 #!Fixing #!Ramp
+1 Scroll of Fate (C19) 58 #!Mana Advantage
+1 Secret Plans (C19) 201 #!Card Advantage
+1 Seedborn Muse (C19) 179 #!Mana Advantage
+1 Shipwreck Marsh (MID) 285 #!Black #!Blue
+1 Silumgar Assassin (C19) 128 #!Morph #!Removal
+1 Simic Growth Chamber (CM2) 267 #!Blue #!Green
+1 Skinthinner (C19) 129 #!Morph #!Removal
+1 Sol Ring (C19) 221 #!Ramp
+1 Stratus Dancer (C19) 96 #!Counterspell #!Morph
+1 Strionic Resonator (C19) 224 #!Utility
+1 Sunken Ruins (SHM) 280 #!Black #!Blue
+2 Swamp (MOM) 279 #!Black
+1 Swan Song (LTC) 197 #!Defense
+1 Teferi, Mage of Zhalfir (IMA) 75 #!Flash
+1 Teferi's Ageless Insight (M21) 76 #!Card Advantage
+1 Temur Sabertooth (NCC) 315 #!Recursion
+1 The Great Henge (LTC) 348 #!Card Advantage
+1 Thelonite Hermit (C19) 184 #!Morph
+1 Thieving Amalgam (C19) 21 #!Card Advantage
+1 Thousand Winds (C19) 100 #!Morph #!Removal
+1 Triumph of the Hordes (NPH) 123 #!Wincon
+1 Twilight Mire (NCC) 443 #!Black #!Green
+1 Ugin's Mastery (CMM) 718 #Card Advantage
+1 Underground River (BRO) 267 #!Black #!Blue
+1 Undergrowth Stadium (CMR) 714 #!Black #!Green
+1 Vampiric Tutor (VIS) 72 #!Tutors
+1 Vedalken Orrery (CNS) 206 #!Flash
+1 Verdant Catacombs (MM3) 249 #!Black #!Green
+1 Vesuvan Shapeshifter (C19) 101 #!Morph #!Wincon
+1 Voidmage Apprentice (LGN) 54 #!Counterspell #!Morph
+1 Watery Grave (UNF) 278 #!Black #!Blue
+1 Whisperwood Elemental (FRF) 145 #!Card Advantage #!Protection
+1 Wilderness Reclamation (RNA) 149 #!Mana Advantage
+1 Willbender (C19) 102 #!Counterspell #!Morph
+1 Winding Canyons (WTH) 167 #!Colorless
+1 Woodland Cemetery (LTC) 346 #!Black #!Green
+1 Worldly Tutor (MIR) 255 #!Tutor
+1 Yavimaya Coast (C19) 287 #!Blue #!Green
+1 Yavimaya, Cradle of Growth (MH2) 441 #!Fixing #!Green
+1 Yedora, Grave Gardener (MUL) 30 #!Recursion
+1 Zagoth Triome (IKO) 313 #!Black #!Blue #!Green
+1 Zoetic Cavern (CMD) 298 #!Colorless

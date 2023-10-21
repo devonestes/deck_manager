@@ -1,0 +1,78 @@
+1 Auntie Blyte, Bad Influence (J22) 30
+1 Acidic Soil (PLIST) 916
+1 All Will Be One (ONE) 118 #!Counters
+1 Ancient Tomb (TMP) 315 #!Colorless
+1 Ankh of Mishra (4ED) 294
+1 Arcane Signet (MOC) 348 #!Fixing #!Ramp
+1 Balduvian Trading Post (ALL) 137
+1 Blasphemous Act (BRC) 113 #!Sweeper
+1 Blood Moon (CHR) 46
+1 Brash Taunter (M21) 133
+1 Chaos Warp (BRC) 114 #!Removal
+1 City of Brass (5ED) 413 #!Any Color
+1 City on Fire (PMOM) 135p
+1 Commander's Plate (CMR) 692
+1 Defiler of Instinct (DMU) 119
+1 Deflecting Swat (C20) 50 #!Defense #!Removal
+1 Desperate Ritual (CHK) 163
+1 Disrupt Decorum (CMM) 1067 *F* #!Defense
+1 Dockside Extortionist (2X2) 360 #!Ramp
+1 Earthquake (4ED) 189 #!Removal #!Sweeper
+1 Extraplanar Lens (MRD) 169
+1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
+1 Faithless Looting (BRC) 116 #!Card Selection
+1 Fiery Emancipation (M21) 366
+1 Firebrand Archer (HOU) 92
+1 Fireslinger (J22) 130
+1 Flame Rift (MH2) 278
+1 Fury (MH2) 313 *F*
+1 Gauntlet of Might (2ED) 245
+1 Goblin Artillery (J22) 541
+1 Goldspan Dragon (J22) 550
+1 Imperial Recruiter (2XM) 131
+1 Invasion of Kaldheim // Pyre of the World Tree (MOM) 145
+1 Jeska's Will (CMR) 668
+1 Kediss, Emberclaw Familiar (CMR) 188
+1 Lightning Bolt (2ED) 162
+1 Lightning Greaves (LTC) 281 #!Protection
+1 Lithoform Engine (BRC) 146 #!Utility
+1 Loxodon Warhammer (J22) 784
+1 Mana Crypt (2XM) 270 #!Ramp
+1 Mana Geyser (PLIST) 984
+1 Mana Vault (2ED) 260 #!Ramp
+1 Manabarbs (4ED) 212
+1 Maze of Ith (DRK) 117 #!Colorless
+1 Meekstone (4ED) 335
+1 Mithril Coat (LTR) 379
+23 Mountain (J22) 107 #!Red
+1 Nykthos, Shrine to Nyx (THS) 223 #!Colorless #!Fixing #!Ramp
+1 Orcish Artillery (4ED) 214
+1 Orcish Cannoneers (ICE) 205
+1 Professional Face-Breaker (J22) 581 #!Card Advantage #!Ramp
+1 Pyroblast (5ED) 262 #!Protection #!Removal
+1 Pyrostatic Pillar (SCG) 100
+1 Ragavan, Nimble Pilferer (MUL) 21
+1 Rogue's Passage (LTC) 326 #!Colorless
+1 Ruby Medallion (CMM) 405
+1 Seething Song (MRD) 104
+1 Shadowspear (THB) 345
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354 #!Red #!Removal
+1 Shinka, the Bloodsoaked Keep (CHK) 282
+1 Shiny Impetus (CLB) 194
+1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (BOT) 6
+1 Smoke (4ED) 222
+1 Sol Ring (MOC) 381 #!Ramp
+1 Solphim, Mayhem Dominus (ONE) 312
+1 Spear Spewer (J22) 82
+1 Stuffy Doll (CLB) 875
+1 Sulfuric Vortex (DMR) 144
+1 Themberchaud (SLD) 728
+1 Thrill of Possibility (ONE) 151
+1 Urza's Saga (MH2) 259 #!Colorless
+1 Valakut, the Molten Pinnacle (ZEN) 228
+1 Virtue of Courage // Embereth Blaze (WOE) 157
+1 War Room (WHO) 330
+1 Wheel of Fortune (3ED) 185
+1 Wrenn's Resolve (MOM) 173
+1 Wurmcoil Engine (2XM) 308
+1 Zo-Zu the Punisher (CHK) 200

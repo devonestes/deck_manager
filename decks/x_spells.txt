@@ -1,0 +1,96 @@
+1 Magus Lucea Kane (40K) 174
+1 Aberrant (40K) 86 #X Spell
+1 All Will Be One (ONE) 118 #!Counters
+1 Ancient Tomb (TMP) 315 #!Colorless
+1 Animist's Awakening (ORI) 169 #!Ramp #X Spell
+1 Arcane Signet (MOC) 348 #!Fixing #!Ramp
+1 Awaken the Woods (BRO) 344 #!Ramp #!Tokens #X Spell
+1 Benevolent Hydra (J22) 38 #!Counters #X Spell
+1 Blue Sun's Twilight (ONE) 379 #X Spell
+1 Boseiju, Who Endures (NEO) 501 #!Green #!Removal
+1 Branching Evolution (JMP) 29 #!Counters
+1 Bred for the Hunt (DGM) 59 #!Card Advantage #!Counters
+1 Breeding Pool (UNF) 286 #!Blue #!Green
+1 Broodlord (40K) 89 #X Spell
+1 Cascade Bluffs (CMM) 990 #!Blue #!Red
+1 Clamavus (40K) 90 #!Anthem
+1 Command Tower (MOC) 396 #!Any Color
+1 Court of Garenbrig (WOC) 25 #!Counters
+1 Cyclonic Rift (RTR) 35 #!Removal #!Sweeper
+1 Deflecting Swat (C20) 50 #!Defense #!Removal
+1 Delighted Halfling (LTR) 158 #!Ramp
+1 Dreamroot Cascade (VOW) 282 #!Blue #!Green
+1 Elementalist's Palette (C21) 76 #X Spell
+1 Exocrine (40K) 76 #X Spell
+1 Farseek (C19) 165 #!Ramp
+1 Fierce Guardianship (C20) 35 #!Defense
+1 Finale of Devastation (WAR) 160 #X Spell
+1 Flooded Grove (LTC) 309 #!Blue #!Green
+3 Forest (J22) 110 #!Green
+1 Fractal Harness (C21) 61 #X Spell
+1 Frontier Bivouac (40K) 281 #!Blue #!Green #!Red
+1 Gyre Sage (MOC) 300 #!Counters #!Ramp
+1 Hardened Scales (WOT) 55 #!Counters
+1 Harrow (ZNC) 69 #!Fixing #!Ramp
+1 Heroic Intervention (LTC) 249 #!Defense
+1 Hinterland Harbor (LTC) 317 #!Blue #!Green
+1 Hormagaunt Horde (40K) 93 #X Spell
+1 Hydroid Krasis (RNA) 183 #!Card Advantage #X Spell
+1 Incubation Druid (MOC) 302 #!Counters #!Ramp
+1 Inspiring Call (MOC) 304 #!Card Advantage
+1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190 #!Tutor #X Spell
+2 Island (J22) 101 #!Blue
+1 Izzet Boilerworks (BRC) 188 #!Blue #!Red
+1 Kami of Whispered Hopes (MOM) 196 #!Counters #!Ramp
+1 Karn's Bastion (CMM) 1007 #!Colorless #Proliferate
+1 Ketria Triome (IKO) 310 #!Blue #!Green #!Red
+1 Kiora, Behemoth Beckoner (WAR) 232 #!Card Advantage
+1 Lightning Greaves (LTC) 281 #!Protection
+1 Misty Rainforest (MM3) 240 #!Blue #!Green
+2 Mountain (J22) 107 #!Red
+1 Novijen, Heart of Progress (C21) 305 #!Colorless #!Counters
+1 Oran-Rief, the Vastwood (NEC) 173 #Counters #!Green
+1 Otawara, Soaring City (NEO) 503 #!Blue #!Protection #!Removal
+1 Primordial Hydra (J22) 712 #!Counters
+1 Pull from Tomorrow (MOC) 230 #!Card Advantage #X Spell
+1 Rampant Growth (M12) 190 #!Ramp
+1 Ravener (40K) 138 #X Spell
+1 Rejuvenating Springs (LTC) 325 #!Blue #!Green
+1 Rhystic Study (J22) 114 #!Card Advantage
+1 Rockfall Vale (MID) 266 #!Green #!Red
+1 Runadi, Behemoth Caller (J22) 44 #!Counters #!Ramp
+1 Scalding Tarn (MM3) 244 #!Blue #!Red
+1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333 #!Blue #!Card Advantage
+1 Selvala, Heart of the Wilds (JMP) 429 #!Ramp
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354 #!Red #!Removal #X Spell
+1 Simic Growth Chamber (CM2) 267 #!Blue #!Green
+1 Sol Ring (MOC) 381 #!Ramp
+1 Song of Totentanz (WOE) 150 #X Spell
+1 Spire Garden (ZNE) 19 #!Green #!Red
+1 Starstorm (J22) 607 #!Removal #X Spell
+1 Steam Vents (UNF) 283 #!Blue #!Red
+1 Steelbane Hydra (NCC) 313 #!Removal #X Spell
+1 Stomping Ground (UNF) 280 #!Green #!Red
+1 Stonecoil Serpent (CMM) 976 #X Spell
+1 Stormcarved Coast (VOW) 284 #!Blue #!Red
+1 Sulfur Falls (LTC) 333 #!Blue #!Red
+1 Temur Ascendancy (KTK) 207 #!Card Advantage
+1 Termagant Swarm (40K) 99 #X Spell
+1 Tervigon (40K) 100 #X Spell
+1 The First Tyrannic War (40K) 121 #!Counters
+1 The Goose Mother (WOE) 204 #X Spell
+1 The Great Henge (LTC) 348 #!Card Advantage
+1 The Ozolith (LTC) 351 #!Counters
+1 Training Center (CMR) 713 #!Blue #!Red
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364 #!Green
+1 Twinning Staff (NCC) 383 #X Spell
+1 Tyrant Guard (40K) 103 #X Spell
+1 Tyvar's Stand (ONE) 190 #!Defense #X Spell
+1 Unbound Flourishing (MH1) 189 #X Spell
+1 Up the Beanstalk (WOE) 195 #Card Advantage
+1 Vorinclex, Monstrous Raider (KHM) 333 #!Counters
+1 Winged Hive Tyrant (40K) 148 #!Counters
+1 Wooded Foothills (KTK) 249 #!Green #!Red
+1 Yavimaya Hollow (UDS) 143 #!Colorless
+1 Yavimaya, Cradle of Growth (MH2) 441 #!Fixing #!Green
+1 Zoanthrope (40K) 149 #X Spell

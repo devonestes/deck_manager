@@ -1,0 +1,87 @@
+1 Chatterfang, Squirrel General (MH2) 151
+1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90 #!Black
+1 Ancient Imperiosaur (MOM) 368
+1 Animate Dead (3ED) 93
+1 Arachnogenesis (CMM) 647
+1 Ashnod's Altar (5ED) 349
+1 Assassin's Trophy (GRN) 152 #!Removal
+1 Augur of Autumn (MID) 168 #!Card Advantage
+1 Avenger of Zendikar (C13) 135 #!Wincon
+1 Awaken the Woods (BRO) 344 #!Ramp #!Tokens
+1 Beast Within (ONC) 104 #!Removal
+1 Beledros Witherbloom (STX) 163
+1 Birds of Paradise (4ED) 234
+1 Bitterblossom (MOR) 58
+1 Black Market Connections (CLB) 620 #!Card Advantage #!Ramp
+1 Circle of Dreams Druid (AFR) 176 #!Ramp
+1 Command Tower (MOC) 396 #!Any Color
+1 Craterhoof Behemoth (AVR) 172 #!Wincon
+1 Darkbore Pathway // Slitherbore Pathway (KHM) 292 #!Black #!Green
+1 Deadly Rollick (C20) 42 #!Removal
+1 Deathrite Shaman (RTR) 213
+1 Deranged Hermit (ULG) 101
+1 Doubling Season (2XM) 350 #!Counters #!Tokens
+1 Earthcraft (TMP) 222 #!Ramp
+1 Elven Chorus (LTR) 160 #!Card Advantage #!Ramp
+1 Fabled Passage (ELD) 244 #!Any Color
+1 Farseek (C19) 165 #!Ramp
+1 Finale of Devastation (WAR) 160
+1 Food Chain (MMQ) 246
+8 Forest (J22) 110 #!Green
+1 Gala Greeters (SNC) 450 *F*
+1 Galadhrim Ambush (LTC) 38 #!Tokens
+1 Golgari Rot Farm (IMA) 236
+1 Green Sun's Zenith (2X2) 150
+1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (XLN) 191 #!Green
+1 Heroic Intervention (LTC) 249 #!Defense
+1 Idol of Oblivion (BRC) 144 #!Card Advantage
+1 Ivy Lane Denizen (J22) 680
+1 Kindred Dominance (CMM) 640 #!Sweeper
+1 Liliana, Dreadhorde General (WAR) 97
+1 Llanowar Wastes (BRO) 299 #!Black #!Green
+1 Mirkwood Bats (LTR) 95
+1 Natural Order (VIS) 114 #!Tutor
+1 Nature's Lore (DMR) 170 #!Ramp
+1 Nut Collector (DMR) 171 *F*
+1 Nykthos, Shrine to Nyx (THS) 223 #!Colorless #!Fixing #!Ramp
+1 Nyxbloom Ancient (THB) 190
+1 Ohran Frostfang (SLD) 237 #!Card Advantage
+1 Old Gnawbone (AFR) 197
+1 Ophiomancer (C13) 84
+1 Oracle of Mul Daya (JMP) 415 #!Ramp
+1 Overgrown Tomb (UNF) 284 #!Black #!Green
+1 Overwhelming Stampede (C19) 175 #!Wincon
+1 Parallel Lives (ISD) 199
+1 Phyrexian Tower (JMP) 493 #!Black #!Colorless
+1 Reliquary Tower (BRC) 196 #!Colorless
+1 Return of the Wildspeaker (ELD) 172 #!Card Advantage
+1 Sakura-Tribe Elder (CHK) 239 #!Fixing #!Ramp
+1 Shamanic Revelation (NCC) 311 #!Card Advantage
+1 Sol Ring (MOC) 381 #!Ramp
+1 Squirrel Nest (DMR) 177 *F*
+7 Swamp (J22) 106 #!Black
+1 Swarmyard (TSP) 278 #!Colorless
+1 Sylvan Library (CC1) 5 #!Card Advantage #!Card Selection
+1 Sylvan Offering (LTC) 261 #!Tokens
+1 Syr Konrad, the Grim (MOC) 269
+1 Takenuma, Abandoned Mire (NEO) 416 #!Black
+1 Temple of Malady (M21) 253
+1 The Great Henge (LTC) 348 #!Card Advantage
+1 The Meathook Massacre (MID) 112
+1 The Shire (LTR) 345 *F* #!Green
+1 Tireless Provisioner (MH2) 180 #!Ramp
+1 Torment of Hailfire (HOU) 77
+1 Triumph of the Hordes (NPH) 123 #!Wincon
+1 Twilight Mire (NCC) 443 #!Black #!Green
+1 Undergrowth Stadium (CMR) 714 #!Black #!Green
+1 Urborg, Tomb of Yawgmoth (TSR) 287 #!Black
+1 Vampiric Tutor (VIS) 72 #!Tutors
+1 Verdant Catacombs (MM3) 249 #!Black #!Green
+1 Viscera Seer (FMB1) 45 *F*
+1 Volrath's Stronghold (STH) 143 #!Colorless
+1 Woodland Cemetery (LTC) 346 #!Black #!Green
+1 Worldly Tutor (MIR) 255 #!Tutor
+1 Wrenn and Realmbreaker (MOM) 217
+1 Yavimaya Hollow (UDS) 143 #!Colorless
+1 Yavimaya, Cradle of Growth (MH2) 441 #!Fixing #!Green
+1 Yawgmoth, Thran Physician (TSR) 336

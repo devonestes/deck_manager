@@ -1,0 +1,100 @@
+Wurmcoil Engine (PROXY)
+Urza's Saga (PROXY)
+Sol Ring (PROXY)
+Shadowspear (PROXY)
+Ragavan, Nimble Pilferer (PROXY)
+Professional Face-Breaker (PROXY)
+Nykthos, Shrine to Nyx (PROXY)
+Mithril Coat (PROXY)
+Mana Vault (PROXY)
+Mana Crypt (PROXY)
+Goldspan Dragon (PROXY)
+Fiery Emancipation (PROXY)
+Extraplanar Lens (PROXY)
+Dockside Extortionist (PROXY)
+Deflecting Swat (PROXY)
+City of Brass (PROXY)
+Chaos Warp (PROXY)
+Blasphemous Act (PROXY)
+Arcane Signet (PROXY)
+Ancient Tomb (PROXY)
+Zo-Zu the Punisher (chk) 200
+Wrenn's Resolve (mom) 173
+Wheel of Fortune (3ed) 185
+War Room (who) 330
+Virtue of Courage // Embereth Blaze (woe) 157
+Valakut, the Molten Pinnacle (zen) 228
+Thrill of Possibility (eld) 146
+Themberchaud (sld) 728
+Sulfuric Vortex (dmr) 144
+Stuffy Doll (clb) 875
+Spear Spewer (j22) 82
+Solphim, Mayhem Dominus (one) 312
+Smoke (4ed) 222
+Slicer, Hired Muscle // Slicer, High-Speed Antagonist (bot) 6
+Shiny Impetus (clb) 194
+Shinka, the Bloodsoaked Keep (chk) 282
+Shatterskull Smashing // Shatterskull, the Hammer Pass (znr) 354
+Seething Song (mrd) 104
+Ruby Medallion (cmm) 405
+Rogue's Passage (ltc) 326
+Pyrostatic Pillar (scg) 100
+Pyroblast (5ed) 262
+Orcish Cannoneers (ice) 205
+Orcish Artillery (4ed) 214
+Mountain (brc) 35
+Mountain (brc) 35
+Mountain (brc) 35
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Meekstone (4ed) 335
+Maze of Ith (drk) 117
+Manabarbs (4ed) 212
+Mana Geyser (plist) 984
+Loxodon Warhammer (mrd) 201
+Lithoform Engine (znr) 375
+Lightning Greaves (mrd) 199
+Lightning Bolt (sta) 105
+Kediss, Emberclaw Familiar (cmr) 188
+Jeska's Will (cmr) 668
+Invasion of Kaldheim // Pyre of the World Tree (mom) 145
+Imperial Recruiter (2xm) 131
+Goblin Artillery (j22) 541
+Gauntlet of Might (2ed) 245
+Fury (mh2) 313
+Flame Rift (mh2) 278
+Fireslinger (tmp) 173
+Firebrand Archer (hou) 92
+Faithless Looting (brc) 116
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (neo) 141
+Earthquake (4ed) 189
+Disrupt Decorum (cmm) 1067
+Desperate Ritual (chk) 163
+Defiler of Instinct (dmu) 119
+Commander's Plate (cmr) 692
+City on Fire (pmom) 135p
+Brash Taunter (m21) 133
+Blood Moon (chr) 46
+Balduvian Trading Post (all) 137
+Ankh of Mishra (4ed) 294
+All Will Be One (one) 118
+Acidic Soil (plist) 916
+Auntie Blyte, Bad Influence (j22) 30
