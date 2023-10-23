@@ -12,9 +12,8 @@ defmodule DeckManager do
     "shrines",
     "slug",
     "doctor_volo",
-    "x_spells"
-    #"chatterfang",
-    #"thalrog"
+    "x_spells",
+    "chatterfang"
   ]
 
   def run() do
