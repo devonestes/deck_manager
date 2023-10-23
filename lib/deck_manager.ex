@@ -17,10 +17,11 @@ defmodule DeckManager do
   ]
 
   def run() do
-    case System.get_env("DECK") do
-      nil -> build_decks()
-      deck -> update_deck(deck)
-    end
+    build_decks()
+  end
+
+  def run(deck) do
+    update_deck(deck)
   end
 
   defp build_decks() do
@@ -261,5 +262,3 @@ defmodule DeckManager do
     File.write!(path, formatted)
   end
 end
-
-DeckManager.run()
