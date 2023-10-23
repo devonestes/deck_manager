@@ -63,10 +63,10 @@ Swarmyard (tsp) 278
 Swamp (mom) 279
 Swamp (mom) 279
 Swamp (mom) 279
-Swamp (brc) 33
-Swamp (brc) 33
-Swamp (brc) 33
-Swamp (brc) 33
+Swamp (one) 269
+Swamp (one) 269
+Swamp (one) 264
+Swamp (one) 264
 Squirrel Nest (dmr) 177
 Shamanic Revelation (ncc) 311
 Phyrexian Tower (jmp) 493
@@ -76,7 +76,7 @@ Mirkwood Bats (ltr) 95
 Llanowar Wastes (c19) 258
 Liliana, Dreadhorde General (war) 97
 Kindred Dominance (c17) 18
-Ivy Lane Denizen (gtc) 125
+Ivy Lane Denizen (j22) 680
 Green Sun's Zenith (2x2) 150
 Golgari Rot Farm (ima) 236
 Forest (j22) 110
