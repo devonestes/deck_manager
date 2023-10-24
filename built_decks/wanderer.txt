@@ -1,100 +1,100 @@
-Yavimaya Coast (PROXY)
-Wooded Foothills (PROXY)
-Urza's Saga (PROXY)
-Training Center (PROXY)
-Terror of the Peaks (PROXY)
-Temur Sabertooth (PROXY)
-Sylvan Library (PROXY)
-Stormcarved Coast (PROXY)
-Stomping Ground (PROXY)
-Steam Vents (PROXY)
-Spire Garden (PROXY)
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Scourge of the Throne (PROXY)
-Scalding Tarn (PROXY)
-Rockfall Vale (PROXY)
-Riverglide Pathway // Lavaglide Pathway (PROXY)
-Rishkar's Expertise (PROXY)
-Rejuvenating Springs (PROXY)
-Otawara, Soaring City (PROXY)
-Oracle of Mul Daya (PROXY)
-Old Gnawbone (PROXY)
-Ohran Frostfang (PROXY)
-Nature's Lore (PROXY)
-Misty Rainforest (PROXY)
-Klauth, Unrivaled Ancient (PROXY)
-Ketria Triome (PROXY)
-Hinterland Harbor (PROXY)
-Goldspan Dragon (PROXY)
-Genesis Ultimatum (PROXY)
-Flooded Grove (PROXY)
-Fire-Lit Thicket (PROXY)
-Farseek (PROXY)
-Dreamroot Cascade (PROXY)
-Drakuseth, Maw of Flames (PROXY)
-Delighted Halfling (PROXY)
-Cascade Bluffs (PROXY)
-Breeding Pool (PROXY)
-Boseiju, Who Endures (PROXY)
-Balefire Dragon (PROXY)
-Ancient Tomb (PROXY)
-Ancient Copper Dragon (PROXY)
-Wurmcoil Engine (2xm) 308
-Vorinclex, Monstrous Raider (khm) 333
-Vorinclex // The Grand Evolution (mom) 213
-Vastwood Surge (znr) 217
-Uro, Titan of Nature's Wrath (thb) 229
-Up the Beanstalk (woe) 195
-Turntimber Symbiosis // Turntimber, Serpentine Wood (znr) 364
-Sunbird's Invocation (scd) 159
-Sulfur Falls (ltc) 333
-Sol Ring (brc) 160
-Snow-Covered Mountain (ice) 379
-Snow-Covered Island (ice) 371
-Snow-Covered Forest (ice) 383
-Snow-Covered Forest (ice) 383
-Snow-Covered Forest (ice) 383
-Skyshroud Claim (cmm) 321
-Selvala, Heart of the Wilds (jmp) 429
-Scroll Rack (tmp) 308
-Sarkhan's Unsealing (jmp) 361
-Sakura-Tribe Elder (chk) 239
-Ranger's Path (m13) 186
-Rampant Growth (tmp) 245
-Prismatic Vista (mh1) 244
-Orcish Lumberjack (ice) 210
-Nyxbloom Ancient (thb) 190
-Mountain (ltr) 268
-Mountain (ltr) 268
-Misthollow Griffin (fmb1) 26
-Migration Path (iko) 164
-Koma, Cosmos Serpent (khm) 221
-Kogla, the Titan Ape (iko) 162
-Kogla and Yidaro (mom) 244
-Kodama's Reach (clb) 826
-Island (3ed) 296
-Island (3ed) 296
-Into the North (csp) 111
-Imoti, Celebrant of Bounty (mul) 43
-Ilysian Caryatid (j22) 676
-Hullbreaker Horror (woc) 95
-Forest (j22) 112
-Forest (j22) 112
-Forest (j22) 112
-Food Chain (mmq) 246
-Fiery Emancipation (m21) 366
-Etali, Primal Storm (afc) 126
-Etali, Primal Conqueror // Etali, Primal Sickness (mom) 137
-Entish Restoration (ltr) 163
-Dockside Extortionist (2x2) 360
-Defense of the Heart (ulg) 100
-Cultivate (sta) 51
-Consecrated Sphinx (mbs) 21
-Command Tower (brc) 178
-Colossal Skyturtle (neo) 216
-Beanstalk Giant // Fertile Footsteps (eld) 149
-Avenger of Zendikar (c13) 135
-Arixmethes, Slumbering Isle (mul) 32
-Arcane Signet (moc) 348
+Dockside Extortionist (PROXY)
+Fiery Emancipation (PROXY)
+Wurmcoil Engine (PROXY)
 Aesi, Tyrant of Gyre Strait (cmr) 365
+Ancient Copper Dragon (PROXY)
+Ancient Tomb (PROXY)
+Arcane Signet (moc) 348
+Arixmethes, Slumbering Isle (mul) 32
+Avenger of Zendikar (c13) 135
+Balefire Dragon (PROXY)
+Beanstalk Giant // Fertile Footsteps (eld) 149
+Boseiju, Who Endures (PROXY)
+Breeding Pool (PROXY)
+Cascade Bluffs (PROXY)
+Colossal Skyturtle (neo) 216
+Command Tower (brc) 178
+Consecrated Sphinx (mbs) 21
+Cultivate (sta) 51
+Defense of the Heart (ulg) 100
+Delighted Halfling (PROXY)
+Drakuseth, Maw of Flames (PROXY)
+Dreamroot Cascade (PROXY)
+Entish Restoration (ltr) 163
+Etali, Primal Conqueror // Etali, Primal Sickness (mom) 137
+Etali, Primal Storm (afc) 126
+Farseek (PROXY)
+Fire-Lit Thicket (PROXY)
+Flooded Grove (PROXY)
+Food Chain (mmq) 246
+Forest (j22) 112
+Forest (j22) 112
+Forest (j22) 112
+Genesis Ultimatum (PROXY)
+Goldspan Dragon (PROXY)
+Hinterland Harbor (PROXY)
+Hullbreaker Horror (woc) 95
+Ilysian Caryatid (j22) 676
+Imoti, Celebrant of Bounty (mul) 43
+Into the North (csp) 111
+Island (3ed) 296
+Island (3ed) 296
+Ketria Triome (PROXY)
+Klauth, Unrivaled Ancient (PROXY)
+Kodama's Reach (clb) 826
+Kogla and Yidaro (mom) 244
+Kogla, the Titan Ape (iko) 162
+Koma, Cosmos Serpent (khm) 221
 Maelstrom Wanderer (cmm) 684
+Migration Path (iko) 164
+Misthollow Griffin (fmb1) 26
+Misty Rainforest (PROXY)
+Mountain (ltr) 268
+Mountain (ltr) 268
+Nature's Lore (PROXY)
+Nyxbloom Ancient (thb) 190
+Ohran Frostfang (PROXY)
+Old Gnawbone (PROXY)
+Oracle of Mul Daya (PROXY)
+Orcish Lumberjack (ice) 210
+Otawara, Soaring City (PROXY)
+Prismatic Vista (mh1) 244
+Rampant Growth (tmp) 245
+Ranger's Path (m13) 186
+Rejuvenating Springs (PROXY)
+Rishkar's Expertise (PROXY)
+Riverglide Pathway // Lavaglide Pathway (PROXY)
+Rockfall Vale (PROXY)
+Sakura-Tribe Elder (chk) 239
+Sarkhan's Unsealing (jmp) 361
+Scalding Tarn (PROXY)
+Scourge of the Throne (PROXY)
+Scroll Rack (tmp) 308
+Sea Gate Restoration // Sea Gate, Reborn (PROXY)
+Selvala, Heart of the Wilds (jmp) 429
+Skyshroud Claim (cmm) 321
+Snow-Covered Forest (ice) 383
+Snow-Covered Forest (ice) 383
+Snow-Covered Forest (ice) 383
+Snow-Covered Island (ice) 371
+Snow-Covered Mountain (ice) 379
+Sol Ring (brc) 160
+Spire Garden (PROXY)
+Steam Vents (PROXY)
+Stomping Ground (PROXY)
+Stormcarved Coast (PROXY)
+Sulfur Falls (ltc) 333
+Sunbird's Invocation (scd) 159
+Sylvan Library (PROXY)
+Temur Sabertooth (PROXY)
+Terror of the Peaks (PROXY)
+Training Center (PROXY)
+Turntimber Symbiosis // Turntimber, Serpentine Wood (znr) 364
+Up the Beanstalk (woe) 195
+Uro, Titan of Nature's Wrath (thb) 229
+Urza's Saga (PROXY)
+Vastwood Surge (znr) 217
+Vorinclex // The Grand Evolution (mom) 213
+Vorinclex, Monstrous Raider (khm) 333
+Wooded Foothills (PROXY)
+Yavimaya Coast (PROXY)

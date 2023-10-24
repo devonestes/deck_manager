@@ -1,100 +1,100 @@
-Wurmcoil Engine (PROXY)
-Watery Grave (PROXY)
-Vampiric Tutor (PROXY)
-Urza's Saga (PROXY)
-Training Center (PROXY)
-Sunken Ruins (PROXY)
-Stormcarved Coast (PROXY)
-Steam Vents (PROXY)
-Sol Ring (PROXY)
-Shipwreck Marsh (PROXY)
-Scroll Rack (PROXY)
-Scalding Tarn (PROXY)
-Riverglide Pathway // Lavaglide Pathway (PROXY)
-Rhystic Study (PROXY)
-Polluted Delta (PROXY)
-Otawara, Soaring City (PROXY)
-Morphic Pool (PROXY)
-Liberator, Urza's Battlethopter (PROXY)
-Fierce Guardianship (PROXY)
-Dockside Extortionist (PROXY)
-Demonic Tutor (PROXY)
-Deflecting Swat (PROXY)
-Command Tower (PROXY)
-Cascade Bluffs (PROXY)
-Arcane Signet (PROXY)
-Xander's Lounge (snc) 294
-Wondrous Crucible (brc) 20
-Weatherlight (dom) 237
-Vault of Whispers (brc) 211
-Urza, Lord High Artificer (cmm) 674
-Unwinding Clock (nph) 164
-Thoughtcast (mrd) 54
-The Stasis Coffin (bro) 245
-The Reality Chip (neo) 74
-The One Ring (ltr) 451
-Terisiare's Devastation (brc) 9
-Talisman of Indulgence (mrd) 255
-Talisman of Dominance (mrd) 253
-Talisman of Creativity (mh1) 231
-Swiftfoot Boots (ncc) 382
-Swamp (mom) 279
-Strionic Resonator (c19) 224
-Spire of Industry (brc) 203
-Spine of Ish Sah (brc) 162
-Solemn Simulacrum (brc) 161
-Silverbluff Bridge (brc) 200
-Sensei's Divining Top (2x2) 398
-Seat of the Synod (brc) 198
-Saheeli, Filigree Master (bro) 219
-RMS Titanic (who) 93
-Rise and Shine (mh2) 58
-Reckless Handling (mat) 19
-Portal to Phyrexia (bro) 365
-Obeka, Brute Chronologist (cmr) 289
-Mox Opal (2xm) 275
-Mox Amber (dom) 224
-Mountain (one) 270
-Mountain (mom) 280
-Mithril Coat (ltr) 379
-Mistvault Bridge (brc) 189
-Mindslaver (mrd) 206
-Metalworker (uds) 135
-Mana Drain (cmr) 80
-Machine God's Effigy (brc) 16
-Luxury Suite (zne) 18
-Lithoform Engine (brc) 146
-Lightning Greaves (mrd) 199
-Karn, Legacy Reforged (mat) 184
-Kappa Cannoneer (nec) 14
-Jhoira, Weatherlight Captain (brc) 126
-Jhoira, Ageless Innovator (dmu) 301
-Island (one) 263
-Island (one) 263
-Island (mom) 278
-Idol of Oblivion (brc) 144
-Ichor Wellspring (brc) 143
-Haunted Ridge (mid) 282
-Great Furnace (brc) 187
-Fabricate (mrd) 35
-Expressive Iteration (brc) 125
-Etherium Sculptor (ala) 42
-Emry, Lurker of the Loch (brc) 81
-Drossforge Bridge (brc) 183
-Determined Iteration (ncc) 45
-Darksteel Forge (m14) 206
-Darksteel Citadel (dst) 164
-Cursed Mirror (brc) 115
-Commander's Sphere (c21) 239
-Coldsteel Heart (2x2) 301
-Chaos Warp (brc) 114
-Brudiclad, Telchor Engineer (brc) 122
-Bloodstained Mire (ktk) 230
-Blood Crypt (unf) 279
-Blightsteel Colossus (mbs) 99
-Blasphemous Act (brc) 113
-Basalt Monolith (3ed) 235
-Badlands (3ed) 282
-Arcum Dagsson (csp) 27
+Blasphemous Act (PROXY)
+Chaos Warp (PROXY)
+Mithril Coat (PROXY)
 Academy Ruins (mma) 219
+Arcane Signet (PROXY)
+Arcum Dagsson (csp) 27
+Badlands (3ed) 282
+Basalt Monolith (3ed) 235
+Blightsteel Colossus (mbs) 99
+Blood Crypt (unf) 279
+Bloodstained Mire (ktk) 230
+Brudiclad, Telchor Engineer (brc) 122
+Cascade Bluffs (PROXY)
+Coldsteel Heart (2x2) 301
+Command Tower (PROXY)
+Commander's Sphere (c21) 239
+Cursed Mirror (brc) 115
+Darksteel Citadel (dst) 164
+Darksteel Forge (m14) 206
+Deflecting Swat (PROXY)
+Demonic Tutor (PROXY)
+Determined Iteration (ncc) 45
+Dockside Extortionist (PROXY)
+Drossforge Bridge (brc) 183
+Emry, Lurker of the Loch (brc) 81
+Etherium Sculptor (ala) 42
+Expressive Iteration (brc) 125
+Fabricate (mrd) 35
+Fierce Guardianship (PROXY)
+Great Furnace (brc) 187
+Haunted Ridge (mid) 282
+Ichor Wellspring (brc) 143
+Idol of Oblivion (brc) 144
+Island (mom) 278
+Island (one) 263
+Island (one) 263
+Jhoira, Ageless Innovator (dmu) 301
+Jhoira, Weatherlight Captain (brc) 126
+Kappa Cannoneer (nec) 14
+Karn, Legacy Reforged (mat) 184
+Liberator, Urza's Battlethopter (PROXY)
+Lightning Greaves (mrd) 199
+Lithoform Engine (brc) 146
+Luxury Suite (zne) 18
+Machine God's Effigy (brc) 16
+Mana Drain (cmr) 80
+Metalworker (uds) 135
+Mindslaver (mrd) 206
 Mishra, Eminent One (brc) 1
+Mistvault Bridge (brc) 189
+Morphic Pool (PROXY)
+Mountain (mom) 280
+Mountain (one) 270
+Mox Amber (dom) 224
+Mox Opal (2xm) 275
+Obeka, Brute Chronologist (cmr) 289
+Otawara, Soaring City (PROXY)
+Polluted Delta (PROXY)
+Portal to Phyrexia (bro) 365
+RMS Titanic (who) 93
+Reckless Handling (mat) 19
+Rhystic Study (PROXY)
+Rise and Shine (mh2) 58
+Riverglide Pathway // Lavaglide Pathway (PROXY)
+Saheeli, Filigree Master (bro) 219
+Scalding Tarn (PROXY)
+Scroll Rack (PROXY)
+Seat of the Synod (brc) 198
+Sensei's Divining Top (2x2) 398
+Shipwreck Marsh (PROXY)
+Silverbluff Bridge (brc) 200
+Sol Ring (PROXY)
+Solemn Simulacrum (brc) 161
+Spine of Ish Sah (brc) 162
+Spire of Industry (brc) 203
+Steam Vents (PROXY)
+Stormcarved Coast (PROXY)
+Strionic Resonator (c19) 224
+Sunken Ruins (PROXY)
+Swamp (mom) 279
+Swiftfoot Boots (ncc) 382
+Talisman of Creativity (mh1) 231
+Talisman of Dominance (mrd) 253
+Talisman of Indulgence (mrd) 255
+Terisiare's Devastation (brc) 9
+The One Ring (ltr) 451
+The Reality Chip (neo) 74
+The Stasis Coffin (bro) 245
+Thoughtcast (mrd) 54
+Training Center (PROXY)
+Unwinding Clock (nph) 164
+Urza's Saga (PROXY)
+Urza, Lord High Artificer (cmm) 674
+Vampiric Tutor (PROXY)
+Vault of Whispers (brc) 211
+Watery Grave (PROXY)
+Weatherlight (dom) 237
+Wondrous Crucible (brc) 20
+Wurmcoil Engine (PROXY)
+Xander's Lounge (snc) 294

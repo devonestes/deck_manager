@@ -1,8 +1,8 @@
 defmodule DeckManager do
   @decks [
+    "slug",
     "morphs",
     "humans",
-    "thrun",
     "miirym",
     "wanderer",
     "elves",
@@ -10,9 +10,9 @@ defmodule DeckManager do
     "knights",
     "mishra",
     "shrines",
-    "slug",
     "doctor_volo",
     "x_spells",
+    "thrun",
     "chatterfang"
   ]
 

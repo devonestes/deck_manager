@@ -1,23 +1,23 @@
-Wurmcoil Engine (PROXY)
-Urza's Saga (PROXY)
-Sol Ring (PROXY)
-Shadowspear (PROXY)
-Ragavan, Nimble Pilferer (PROXY)
-Professional Face-Breaker (PROXY)
-Nykthos, Shrine to Nyx (PROXY)
-Mithril Coat (PROXY)
-Mana Vault (PROXY)
-Mana Crypt (PROXY)
-Goldspan Dragon (PROXY)
-Fiery Emancipation (PROXY)
-Extraplanar Lens (PROXY)
-Dockside Extortionist (PROXY)
-Deflecting Swat (PROXY)
-City of Brass (PROXY)
-Chaos Warp (PROXY)
-Blasphemous Act (PROXY)
-Arcane Signet (PROXY)
-Ancient Tomb (PROXY)
+Wurmcoil Engine (2xm) 308
+Fiery Emancipation (m21) 366
+Dockside Extortionist (2x2) 360
+Urza's Saga (mh2) 259
+Shadowspear (thb) 345
+Nykthos, Shrine to Nyx (ths) 223
+Mana Vault (2ed) 260
+Mana Crypt (2xm) 270
+Extraplanar Lens (mrd) 169
+City of Brass (5ed) 413
+Mithril Coat (ltr) 379
+Chaos Warp (brc) 114
+Blasphemous Act (brc) 113
+Goldspan Dragon (j22) 550
+Deflecting Swat (c20) 50
+Ragavan, Nimble Pilferer (mul) 21
+Professional Face-Breaker (j22) 581
+Ancient Tomb (tmp) 315
+Sol Ring (3ed) 274
+Arcane Signet (c20) 237
 Zo-Zu the Punisher (chk) 200
 Wrenn's Resolve (mom) 173
 Wheel of Fortune (3ed) 185
