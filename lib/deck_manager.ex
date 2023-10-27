@@ -3,16 +3,17 @@ defmodule DeckManager do
     "slug",
     "morphs",
     "humans",
-    "miirym",
     "wanderer",
     "elves",
-    "aesi",
-    "knights",
     "mishra",
     "shrines",
-    "doctor_volo",
+    "miirym",
+    "aesi",
+    "knights",
     "x_spells",
+    "doctor_volo",
     "thrun",
+    "korvold",
     "chatterfang"
   ]
 
