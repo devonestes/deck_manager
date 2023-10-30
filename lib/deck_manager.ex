@@ -11,7 +11,7 @@ defmodule DeckManager do
     "aesi",
     "knights",
     "x_spells",
-    "doctor_volo",
+    #"doctor_volo",
     "thrun",
     "korvold",
     "chatterfang"
