@@ -2,6 +2,9 @@ defmodule DeckManager do
   @decks [
     "slug",
     "morphs",
+    "vampires",
+    "dinos",
+    "korvold",
     "humans",
     "wanderer",
     "elves",
@@ -11,9 +14,8 @@ defmodule DeckManager do
     "aesi",
     "knights",
     "x_spells",
-    #"doctor_volo",
+    #"merfolk",
     "thrun",
-    "korvold",
     "chatterfang"
   ]
 

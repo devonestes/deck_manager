@@ -33,9 +33,9 @@ Swamp (neo) 298
 Sunken Ruins (shm) 280
 Strionic Resonator (brc) 165
 Stratus Dancer (c19) 96
-Sol Ring (c19) 221
+Sol Ring (lcc) 313
 Skinthinner (c19) 129
-Simic Growth Chamber (c19) 274
+Simic Growth Chamber (cm2) 267
 Silumgar Assassin (c19) 128
 Shipwreck Marsh (mid) 285
 Seedborn Muse (c19) 179
@@ -71,11 +71,11 @@ Grim Haruspex (c19) 118
 Grazilaxx, Illithid Scholar (clb) 723
 Gift of Doom (c19) 17
 Ghastly Conscription (c19) 115
-Forest (one) 266
-Forest (one) 266
-Forest (one) 271
+Forest (lci) 402
+Forest (lci) 402
+Forest (lci) 402
 Flooded Grove (ltc) 309
-Farseek (c19) 165
+Farseek (lcc) 242
 Elven Chorus (ltr) 160
 Echo Tracer (lgn) 37
 Dreamroot Cascade (vow) 282
@@ -83,7 +83,7 @@ Den Protector (c19) 161
 Demonic Tutor (3ed) 105
 Deathmist Raptor (c19) 160
 Darkbore Pathway // Slitherbore Pathway (khm) 292
-Cyclonic Rift (rtr) 35
+Cyclonic Rift (2xm) 339
 Crystal Shard (mrd) 159
 Craterhoof Behemoth (avr) 172
 Command Tower (c19) 237
@@ -93,7 +93,7 @@ Breeding Pool (unf) 286
 Boseiju, Who Endures (neo) 501
 Bane of the Living (c19) 104
 Assassin's Trophy (grn) 152
-Arcane Signet (brc) 132
+Arcane Signet (moc) 348
 Aphetto Runecaster (scg) 28
 All Is Dust (cmm) 800
 Ainok Survivalist (c19) 156
