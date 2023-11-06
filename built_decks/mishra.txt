@@ -46,7 +46,7 @@ Strionic Resonator (c19) 224
 Spire of Industry (brc) 203
 Spine of Ish Sah (brc) 162
 Solemn Simulacrum (brc) 161
-Sol Ring (c19) 221
+Sol Ring (brc) 160
 Silverbluff Bridge (brc) 200
 Sensei's Divining Top (2x2) 398
 Seat of the Synod (brc) 198

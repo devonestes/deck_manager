@@ -1,101 +1,101 @@
-City of Brass (PROXY)
-Argothian Enchantress (PROXY)
-Atraxa, Grand Unifier (one) 196
-Birds of Paradise (PROXY)
-Bloom Tender (eve) 66
-Bountiful Promenade (zne) 20
-Breeding Pool (PROXY)
-Brushland (bro) 259
-Cacophony Unleashed (cmm) 730
-Calix, Destiny's Hand (thb) 211
-Command Tower (PROXY)
-Crop Rotation (PROXY)
-Cultivate (j22) 644
-Cyclonic Rift (PROXY)
-Deflecting Swat (PROXY)
-Demonic Tutor (PROXY)
-Destiny Spinner (thb) 168
-Dryad of the Ilysian Grove (PROXY)
-Eidolon of Blossoms (PROXY)
-Enchantress's Presence (PROXY)
-Enlightened Tutor (mir) 14
-Exotic Orchard (c19) 242
-Extinguish All Hope (jou) 68
-Fertile Ground (afc) 158
-Fierce Guardianship (PROXY)
-Fire-Lit Thicket (PROXY)
-Forest (j22) 110
-Ghostly Prison (onc) 71
-Ghoulish Impetus (cmm) 732
-Go-Shintai of Ancient Wars (neo) 144
-Go-Shintai of Boundless Vigor (neo) 187
-Go-Shintai of Hidden Cruelty (neo) 97
-Go-Shintai of Life's Origin (nec) 37
-Go-Shintai of Lost Wisdom (neo) 55
-Go-Shintai of Shared Purpose (neo) 14
-Hall of Heliod's Generosity (mh1) 241
-Hallowed Fountain (PROXY)
-Heroic Intervention (PROXY)
-Honden of Cleansing Fire (chk) 14
-Honden of Infinite Rage (chk) 172
-Honden of Life's Web (chk) 213
-Honden of Night's Reach (chk) 116
-Honden of Seeing Winds (chk) 69
-Idyllic Tutor (mor) 12
-Indatha Triome (iko) 309
-Island (mom) 278
-Jetmir's Garden (snc) 291
-Jukai Naturalist (neo) 225
-Ketria Triome (PROXY)
-Mirari's Wake (c17) 181
-Misty Rainforest (PROXY)
-Moat (leg) 28
-Moon-Blessed Cleric (afr) 26
-Mountain (brc) 35
-Nessian Wanderer (thb) 183
-Oracle of Mul Daya (PROXY)
-Overgrown Tomb (PROXY)
-Peacekeeper (wth) 22
-Plains (j22) 98
-Reliquary Tower (PROXY)
-Replenish (uds) 15
-Retribution of the Meek (vis) 19
-Rhystic Study (PROXY)
-Rockfall Vale (PROXY)
-Sanctum Weaver (mh2) 171
-Sanctum of All (m21) 225
-Sanctum of Calm Waters (m21) 68
-Sanctum of Fruitful Harvest (m21) 203
-Sanctum of Shattered Heights (m21) 157
-Sanctum of Stone Fangs (m21) 120
-Sanctum of Tranquil Light (m21) 33
-Savai Triome (iko) 312
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Sea of Clouds (PROXY)
-Setessan Champion (PROXY)
-Shrine Steward (neo) 259
-Sigil of the Empty Throne (j22) 244
-Smothering Tithe (rna) 22
-Sol Ring (PROXY)
-Spara's Headquarters (snc) 293
-Steam Vents (PROXY)
-Sterling Grove (mh2) 293
-Stomping Ground (PROXY)
-Swamp (mom) 279
-Swan Song (PROXY)
-Sythis, Harvest's Hand (mh2) 214
-Teferi's Protection (PROXY)
-Temple Garden (sld) 127
-The World Tree (khm) 373
-Tithe (PROXY)
-Vampiric Tutor (PROXY)
-Verdant Catacombs (PROXY)
-Verduran Enchantress (4ed) 281
-Watery Grave (PROXY)
-Windswept Heath (ktk) 248
-Wooded Bastion (shm) 281
-Wooded Foothills (PROXY)
-Yavimaya Coast (PROXY)
+Ziatora's Proving Ground (PROXY)
 Zagoth Triome (PROXY)
-Ziatora's Proving Ground (snc) 295
+Yavimaya Coast (PROXY)
+Wooded Foothills (PROXY)
+Wooded Bastion (PROXY)
+Windswept Heath (PROXY)
+Watery Grave (PROXY)
+Verdant Catacombs (PROXY)
+Vampiric Tutor (PROXY)
+Tithe (PROXY)
+Teferi's Protection (PROXY)
+Swan Song (PROXY)
+Stomping Ground (PROXY)
+Steam Vents (PROXY)
+Smothering Tithe (PROXY)
+Sea of Clouds (PROXY)
+Sea Gate Restoration // Sea Gate, Reborn (PROXY)
+Savai Triome (PROXY)
+Rockfall Vale (PROXY)
+Rhystic Study (PROXY)
+Overgrown Tomb (PROXY)
+Oracle of Mul Daya (PROXY)
+Misty Rainforest (PROXY)
+Mirari's Wake (PROXY)
+Ketria Triome (PROXY)
+Jetmir's Garden (PROXY)
+Heroic Intervention (PROXY)
+Hallowed Fountain (PROXY)
+Fire-Lit Thicket (PROXY)
+Fierce Guardianship (PROXY)
+Enlightened Tutor (PROXY)
+Demonic Tutor (PROXY)
+Deflecting Swat (PROXY)
+Cyclonic Rift (PROXY)
+Crop Rotation (PROXY)
+City of Brass (PROXY)
+Breeding Pool (PROXY)
+Bountiful Promenade (PROXY)
+Birds of Paradise (PROXY)
 Zur the Enchanter (dmr) 374
+Verduran Enchantress (4ed) 281
+The World Tree (khm) 373
+Temple Garden (unf) 281
+Sythis, Harvest's Hand (mh2) 214
+Swamp (brc) 33
+Sterling Grove (mh2) 293
+Spara's Headquarters (snc) 293
+Sol Ring (c19) 221
+Sigil of the Empty Throne (j22) 244
+Shrine Steward (neo) 259
+Setessan Champion (cmm) 912
+Sanctum Weaver (mh2) 171
+Sanctum of Tranquil Light (m21) 33
+Sanctum of Stone Fangs (m21) 120
+Sanctum of Shattered Heights (m21) 157
+Sanctum of Fruitful Harvest (m21) 203
+Sanctum of Calm Waters (m21) 68
+Sanctum of All (m21) 225
+Retribution of the Meek (vis) 19
+Replenish (uds) 15
+Reliquary Tower (lcc) 348
+Plains (j22) 98
+Peacekeeper (wth) 22
+Nessian Wanderer (thb) 183
+Mountain (j22) 107
+Moon-Blessed Cleric (afr) 26
+Moat (leg) 28
+Jukai Naturalist (neo) 225
+Island (3ed) 296
+Indatha Triome (iko) 309
+Idyllic Tutor (mor) 12
+Honden of Seeing Winds (chk) 69
+Honden of Night's Reach (chk) 116
+Honden of Life's Web (chk) 213
+Honden of Infinite Rage (chk) 172
+Honden of Cleansing Fire (chk) 14
+Hall of Heliod's Generosity (mh1) 241
+Go-Shintai of Shared Purpose (neo) 14
+Go-Shintai of Lost Wisdom (neo) 55
+Go-Shintai of Hidden Cruelty (neo) 97
+Go-Shintai of Boundless Vigor (neo) 187
+Go-Shintai of Ancient Wars (neo) 144
+Ghoulish Impetus (cmm) 732
+Ghostly Prison (onc) 71
+Forest (lci) 402
+Fertile Ground (c18) 147
+Extinguish All Hope (jou) 68
+Exotic Orchard (c19) 242
+Enchantress's Presence (mh2) 283
+Eidolon of Blossoms (jou) 122
+Dryad of the Ilysian Grove (thb) 169
+Destiny Spinner (thb) 168
+Cultivate (j22) 644
+Command Tower (lcc) 325
+Calix, Destiny's Hand (thb) 211
+Cacophony Unleashed (cmm) 730
+Brushland (bro) 259
+Bloom Tender (eve) 66
+Atraxa, Grand Unifier (one) 196
+Argothian Enchantress (usg) 234
+Go-Shintai of Life's Origin (nec) 37

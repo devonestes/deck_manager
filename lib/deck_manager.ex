@@ -7,16 +7,16 @@ defmodule DeckManager do
     "korvold",
     "humans",
     "wanderer",
-    "elves",
     "mishra",
     "shrines",
     "miirym",
-    "aesi",
-    "knights",
+    #"aesi",
+    #"knights",
     "x_spells",
-    #"merfolk",
-    "thrun",
-    "chatterfang"
+    #"thrun",
+    "merfolk",
+    "bant_tokens"
+    #"chatterfang"
   ]
 
   def run() do

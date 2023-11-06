@@ -1,100 +1,100 @@
-Deflecting Swat (PROXY)
-Goldspan Dragon (PROXY)
-Ancient Copper Dragon (clb) 161
-Ancient Silver Dragon (clb) 366
-Ancient Tomb (PROXY)
-Arcane Signet (ltc) 273
-Atarka, World Render (scd) 1
-Balefire Dragon (isd) 129
-Beast Within (onc) 104
-Breeding Pool (unf) 286
-Carnelian Orb of Dragonkind (clb) 166
-Cascade Bluffs (PROXY)
-Cavern of Souls (PROXY)
-Cyclonic Rift (PROXY)
-Defense of the Heart (ulg) 100
-Delighted Halfling (ltr) 158
-Doubling Season (2xm) 350
-Dragon's Hoard (clb) 858
-Dragonlord's Servant (ima) 126
-Dragonspeaker Shaman (j22) 525
-Drakuseth, Maw of Flames (clb) 790
-Dreamroot Cascade (PROXY)
-Earthquake (ltc) 214
-Earthquake Dragon (clb) 588
-Fabled Passage (eld) 244
-Farseek (PROXY)
-Fierce Guardianship (PROXY)
-Fire-Lit Thicket (shm) 271
-Flooded Grove (PROXY)
-Forest (j22) 112
-Forest (j22) 112
-Frontier Bivouac (40k) 281
-Ganax, Astral Hunter (clb) 176
-Genesis Ultimatum (iko) 189
-Genesis Wave (ltc) 245
-Goblin Anarchomancer (mh2) 200
-Growth Spiral (cmr) 446
-Herald's Horn (ltc) 280
-Heroic Intervention (PROXY)
-Hinterland Harbor (ltc) 317
-Icefall Regent (dtk) 58
-Island (c19) 292
-Island (c19) 292
-Iymrith, Desert Doom (afr) 62
-Ketria Triome (iko) 310
-Kindred Discovery (PROXY)
-Klauth, Unrivaled Ancient (afc) 320
-Korlessa, Scale Singer (clb) 280
-Kura, the Boundless Sky (neo) 200
-Lightning Greaves (ltc) 281
-Mana Crypt (PROXY)
-Mana Vault (PROXY)
-Miirym, Sentinel Wyrm (clb) 284
-Mind Stone (moc) 364
-Misty Rainforest (PROXY)
-Mountain (ltr) 268
-Mountain (ltr) 268
-Nykthos, Shrine to Nyx (PROXY)
-Old Gnawbone (afr) 197
-Orb of Dragonkind (afr) 157
-Otawara, Soaring City (PROXY)
-Parallel Lives (isd) 199
-Pirated Copy (j22) 16
-Raise the Palisade (ltc) 23
-Rattleclaw Mystic (ktk) 144
-Rejuvenating Springs (PROXY)
-Reliquary Tower (c19) 268
-Renari, Merchant of Marvels (clb) 90
-Rhystic Study (PROXY)
-Rishkar's Expertise (PROXY)
-Riverglide Pathway // Lavaglide Pathway (PROXY)
-Rockfall Vale (mid) 266
-Sarkhan, Fireblood (m19) 154
-Savage Ventmaw (dtk) 231
-Scalding Tarn (PROXY)
-Scourge of the Throne (cns) 35
-Secluded Courtyard (PROXY)
-Sol Ring (ltc) 284
-Spire Garden (zne) 19
-Steam Vents (PROXY)
-Stomping Ground (unf) 280
-Stormcarved Coast (PROXY)
-Swan Song (PROXY)
-Swiftfoot Boots (brc) 166
-Temple of the Dragon Queen (afr) 260
-Temur Ascendancy (ktk) 207
-Terror of the Peaks (m21) 369
-The Great Henge (PROXY)
-Thunderbreak Regent (scd) 163
-Training Center (PROXY)
-Tyrant's Familiar (scd) 165
-Urza's Incubator (c15) 273
-Urza's Saga (PROXY)
-Utvara Hellkite (c17) 144
-Vineglimmer Snarl (ltc) 343
-Wooded Foothills (ktk) 249
-Worldly Tutor (mir) 255
-Yavimaya Coast (dmu) 261
-Yavimaya Hollow (uds) 143
 Yavimaya, Cradle of Growth (PROXY)
+Yavimaya Coast (PROXY)
+Worldly Tutor (PROXY)
+Wooded Foothills (PROXY)
+Urza's Saga (PROXY)
+Urza's Incubator (PROXY)
+Training Center (PROXY)
+The Great Henge (PROXY)
+Terror of the Peaks (PROXY)
+Swan Song (PROXY)
+Stormcarved Coast (PROXY)
+Stomping Ground (PROXY)
+Steam Vents (PROXY)
+Spire Garden (PROXY)
+Scourge of the Throne (PROXY)
+Scalding Tarn (PROXY)
+Rockfall Vale (PROXY)
+Riverglide Pathway // Lavaglide Pathway (PROXY)
+Rhystic Study (PROXY)
+Rejuvenating Springs (PROXY)
+Otawara, Soaring City (PROXY)
+Old Gnawbone (PROXY)
+Nykthos, Shrine to Nyx (PROXY)
+Misty Rainforest (PROXY)
+Mana Vault (PROXY)
+Mana Crypt (PROXY)
+Lightning Greaves (PROXY)
+Klauth, Unrivaled Ancient (PROXY)
+Ketria Triome (PROXY)
+Heroic Intervention (PROXY)
+Goldspan Dragon (PROXY)
+Genesis Ultimatum (PROXY)
+Flooded Grove (PROXY)
+Fire-Lit Thicket (PROXY)
+Fierce Guardianship (PROXY)
+Farseek (PROXY)
+Fabled Passage (PROXY)
+Dreamroot Cascade (PROXY)
+Drakuseth, Maw of Flames (PROXY)
+Delighted Halfling (PROXY)
+Deflecting Swat (PROXY)
+Defense of the Heart (PROXY)
+Cyclonic Rift (PROXY)
+Cavern of Souls (PROXY)
+Cascade Bluffs (PROXY)
+Breeding Pool (PROXY)
+Balefire Dragon (PROXY)
+Ancient Tomb (PROXY)
+Ancient Copper Dragon (PROXY)
+Yavimaya Hollow (uds) 143
+Vineglimmer Snarl (lcc) 368
+Utvara Hellkite (c17) 144
+Tyrant's Familiar (scd) 165
+Thunderbreak Regent (scd) 163
+Temur Ascendancy (ktk) 207
+Temple of the Dragon Queen (afr) 260
+Swiftfoot Boots (ncc) 382
+Sol Ring (3ed) 274
+Secluded Courtyard (lcc) 350
+Savage Ventmaw (dtk) 231
+Sarkhan, Fireblood (m19) 154
+Rishkar's Expertise (nec) 127
+Renari, Merchant of Marvels (clb) 90
+Reliquary Tower (c19) 268
+Rattleclaw Mystic (ktk) 144
+Raise the Palisade (ltc) 23
+Pirated Copy (j22) 16
+Parallel Lives (isd) 199
+Orb of Dragonkind (afr) 157
+Mountain (j22) 107
+Mountain (j22) 107
+Mind Stone (moc) 364
+Kura, the Boundless Sky (neo) 200
+Korlessa, Scale Singer (clb) 280
+Kindred Discovery (lcc) 159
+Iymrith, Desert Doom (afr) 62
+Island (3ed) 296
+Island (3ed) 296
+Icefall Regent (dtk) 58
+Hinterland Harbor (ltc) 317
+Herald's Horn (lcc) 304
+Growth Spiral (cmr) 446
+Goblin Anarchomancer (mh2) 200
+Genesis Wave (ltc) 245
+Ganax, Astral Hunter (clb) 176
+Frontier Bivouac (40k) 281
+Forest (lci) 402
+Forest (lci) 402
+Earthquake Dragon (clb) 588
+Earthquake (4ed) 189
+Dragonspeaker Shaman (j22) 525
+Dragonlord's Servant (ima) 126
+Dragon's Hoard (clb) 858
+Doubling Season (2xm) 350
+Carnelian Orb of Dragonkind (clb) 166
+Beast Within (onc) 104
+Atarka, World Render (scd) 1
+Arcane Signet (ltc) 273
+Ancient Silver Dragon (clb) 366
+Miirym, Sentinel Wyrm (clb) 284
