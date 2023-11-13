@@ -50,18 +50,19 @@
 1 Nature's Lore (DMR) 170
 1 Otepec Huntmaster (LCC) 229
 1 Overgrown Farmland (WHO) 292
+1 Pantlaza, Sun-Favored (LCC) 4 *F*
 2 Plains (J22) 98
 1 Prismatic Vista (MH1) 244
 1 Progenitor's Icon (LCC) 100
 1 Quartzwood Crasher (LCC) 281
 1 Rampant Growth (LCC) 248
 1 Ranging Raptors (LCC) 249
+1 Regal Behemoth (LCC) 251
 1 Regisaur Alpha (LCC) 286
 1 Return of the Wildspeaker (ELD) 172
 1 Rhythm of the Wild (LCC) 287
 1 Ripjaw Raptor (LCC) 253
 1 Rockfall Vale (MID) 266
-1 Runic Armasaur (LCC) 256
 1 Sacred Foundry (UNF) 285
 1 Scalding Tarn (MM3) 244
 1 Scion of Calamity (LCC) 93
@@ -79,11 +80,11 @@
 1 Thrashing Brontodon (LCI) 216
 1 Tithe (VIS) 23
 1 Topiary Stomper (LCC) 261
+1 Unclaimed Territory (LCC) 366
 1 Up the Beanstalk (WOE) 195
 1 Urza's Incubator (C15) 273
 1 Urza's Saga (MH2) 259
 1 Verdant Catacombs (MM3) 249
-1 Verdant Sun's Avatar (LCC) 262
 1 Wakening Sun's Avatar (LCC) 139
 1 Wayward Swordtooth (LCC) 263
 1 Windswept Heath (KTK) 248
@@ -91,6 +92,5 @@
 1 Wooded Foothills (KTK) 249
 1 Wrathful Raptors (LCC) 88
 1 Xenagos, God of Revels (LCC) 295
-1 Yavimaya, Cradle of Growth (MH2) 441
 1 Zacama, Primal Calamity (LCC) 296
 1 Zetalpa, Primal Dawn (LCC) 141

@@ -12,11 +12,11 @@
 1 Birds of Paradise (4ED) 234
 1 Bitterblossom (MOR) 58
 1 Black Market Connections (CLB) 620
+1 Black Sun's Twilight (ONE) 383
 1 Blood Crypt (UNF) 279
 1 Blood Pet (TMP) 109
 1 Bloodstained Mire (KTK) 230
 1 Boseiju, Who Endures (NEO) 501
-1 Burnt Offering (ICE) 116
 1 Command Tower (MOC) 396
 1 Corpse Dance (TMP) 116
 1 Crop Rotation (DMR) 154
@@ -36,7 +36,6 @@
 1 Field of the Dead (M20) 247
 1 Finale of Devastation (WAR) 160
 1 Forest (J22) 110
-1 Goblin Bombardment (TMP) 179
 1 Goldspan Dragon (J22) 550
 1 Heroic Intervention (LTC) 249
 1 Ignoble Hierarch (MH2) 166
@@ -51,6 +50,7 @@
 1 Mana Crypt (2XM) 270
 1 Mana Vault (2ED) 260
 1 Marsh Flats (MM3) 239
+1 Mayhem Devil (WAR) 204
 1 Mirkwood Bats (LTR) 95
 1 Misty Rainforest (MM3) 240
 1 Mountain (J22) 107
@@ -64,13 +64,14 @@
 1 Overgrown Tomb (UNF) 284
 1 Phyrexian Altar (INV) 306
 1 Phyrexian Tower (JMP) 493
+1 Pitiless Plunderer (LCC) 208
 1 Polluted Delta (KTK) 239
 1 Professional Face-Breaker (J22) 581
 1 Ragavan, Nimble Pilferer (MUL) 21
 1 Reanimate (TMP) 151
 1 Reassembling Skeleton (J22) 125
 1 Reliquary Tower (BRC) 196
-1 Sakura-Tribe Elder (CHK) 239
+1 Rhythm of the Wild (LCC) 287
 1 Scalding Tarn (MM3) 244
 1 Shallow Grave (MIR) 141
 1 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354
@@ -94,6 +95,5 @@
 1 Wheel of Fortune (3ED) 185
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249
-1 Word of Command (2ED) 137
 1 Worldly Tutor (MIR) 255
 1 Ziatora's Proving Ground (SNC) 295

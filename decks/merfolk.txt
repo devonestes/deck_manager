@@ -21,7 +21,6 @@
 1 Deeproot Waters (LCC) 152
 1 Dreamroot Cascade (VOW) 282
 1 Emperor Mihail II (LCC) 155
-1 Evolution Sage (LCC) 240
 1 Explore (LCC) 241
 1 Fabled Passage (ELD) 244
 1 Fallowsage (J22) 297
@@ -37,13 +36,14 @@
 1 Heroic Intervention (LTC) 249
 1 Hinterland Harbor (LCC) 336
 1 Inspiring Call (LCC) 244
-9 Island (LCI) 396
+8 Island (LCI) 396
 1 Karn's Bastion (LCC) 339
 1 Kindred Discovery (LCC) 159
 1 Kodama's Reach (LCC) 245
 1 Kumena, Tyrant of Orazca (LCC) 274
 1 Lightning Greaves (LTC) 281
 1 Lord of Atlantis (4ED) 82
+1 Lórien Revealed (LTR) 60
 1 Master of the Pearl Trident (LCC) 162
 1 Merfolk Mistbinder (LCC) 276
 1 Merfolk Sovereign (LCC) 164
@@ -81,6 +81,7 @@
 1 The Ozolith (LTC) 351
 1 Thieving Skydiver (LCC) 177
 1 Thrasios, Triton Hero (C16) 46 *F*
+1 Tishana's Tidebinder (LCI) 81
 1 Tributary Instructor (LCC) 96
 1 Unclaimed Territory (LCC) 366
 1 Wave Goodbye (LCC) 79

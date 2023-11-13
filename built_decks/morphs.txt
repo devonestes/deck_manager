@@ -2,7 +2,7 @@ Zoetic Cavern (cmd) 298
 Zagoth Triome (iko) 313
 Yedora, Grave Gardener (mul) 30
 Yavimaya, Cradle of Growth (mh2) 441
-Yavimaya Coast (c19) 287
+Yavimaya Coast (dmu) 261
 Worldly Tutor (mir) 255
 Woodland Cemetery (ltc) 346
 Winding Canyons (wth) 167
@@ -23,7 +23,6 @@ Triumph of the Hordes (nph) 123
 Thousand Winds (c19) 100
 Thieving Amalgam (c19) 21
 Thelonite Hermit (c19) 184
-The Great Henge (ltc) 348
 Temur Sabertooth (ncc) 315
 Teferi's Ageless Insight (m21) 76
 Teferi, Mage of Zhalfir (ima) 75
@@ -33,7 +32,7 @@ Swamp (neo) 298
 Sunken Ruins (shm) 280
 Strionic Resonator (brc) 165
 Stratus Dancer (c19) 96
-Sol Ring (lcc) 313
+Sol Ring (ltc) 284
 Skinthinner (c19) 129
 Simic Growth Chamber (cm2) 267
 Silumgar Assassin (c19) 128
@@ -43,7 +42,7 @@ Secret Plans (c19) 201
 Scroll of Fate (c19) 58
 Sakura-Tribe Elder (c19) 177
 Rhystic Study (j22) 114
-Reliquary Tower (brc) 196
+Reliquary Tower (lcc) 348
 Rejuvenating Springs (ltc) 325
 Polluted Delta (ktk) 239
 Overwhelming Stampede (ltc) 254
@@ -71,9 +70,8 @@ Grim Haruspex (c19) 118
 Grazilaxx, Illithid Scholar (clb) 723
 Gift of Doom (c19) 17
 Ghastly Conscription (c19) 115
-Forest (lci) 402
-Forest (lci) 402
-Forest (lci) 402
+Forest (one) 271
+Forest (one) 266
 Flooded Grove (ltc) 309
 Farseek (lcc) 242
 Elven Chorus (ltr) 160
@@ -91,10 +89,12 @@ Chromeshell Crab (c19) 81
 Brine Elemental (tsp) 50
 Breeding Pool (unf) 286
 Boseiju, Who Endures (neo) 501
+Beast Whisperer (p30a) 26
 Bane of the Living (c19) 104
 Assassin's Trophy (grn) 152
 Arcane Signet (moc) 348
 Aphetto Runecaster (scg) 28
 All Is Dust (cmm) 800
+Alchemist's Refuge (lcc) 318
 Ainok Survivalist (c19) 156
 Kadena, Slinking Sorcerer (c19) 45

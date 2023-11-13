@@ -1,44 +1,44 @@
-Tithe (PROXY)
-Teferi's Protection (PROXY)
 Teferi, Mage of Zhalfir (PROXY)
 Swan Song (PROXY)
+Sundown Pass (PROXY)
 Spectator Seating (PROXY)
+Smothering Tithe (PROXY)
 Scalding Tarn (PROXY)
 Sacred Foundry (PROXY)
 Rhystic Study (PROXY)
 Ragavan, Nimble Pilferer (PROXY)
 Professional Face-Breaker (PROXY)
 Otawara, Soaring City (PROXY)
-Flooded Strand (PROXY)
-Flawless Maneuver (PROXY)
+Imperial Recruiter (PROXY)
 Cavern of Souls (PROXY)
 Arid Mesa (PROXY)
 Ancient Tomb (PROXY)
-Akroma's Will (PROXY)
+Weathered Wayfarer (ltc) 183
 Wayfarer's Bauble (brc) 171
 Vanquisher's Banner (lcc) 316
 Unbreakable Formation (ltc) 179
 Training Center (cmr) 713
+Tithe (vis) 23
 Throne of the High City (ltc) 339
 Théoden, King of Rohan (ltr) 233
 Thalia's Lieutenant (soi) 43
-Swords to Plowshares (lcc) 137
+Teferi's Protection (c17) 8
+Taunt from the Rampart (ltc) 71
+Swords to Plowshares (ltc) 178
 Stormcarved Coast (vow) 284
 Steam Vents (unf) 283
-Sol Ring (ltc) 284
+Sol Ring (lcc) 313
 Shared Animosity (lcc) 231
 Secluded Courtyard (lcc) 350
 Sea of Clouds (bbd) 84
 Sea Gate Restoration // Sea Gate, Reborn (znr) 333
 Savage Beating (dst) 67
 Rugged Prairie (cmm) 1022
-Riverglide Pathway // Lavaglide Pathway (znr) 289
-Riders of Rohan (ltc) 67
 Raugrin Triome (iko) 311
-Purphoros, God of the Forge (ths) 135
+Ranger-Captain of Eos (mh1) 21
 Pramikon, Sky Rampart (c19) 47
-Plains (j22) 98
-Plains (j22) 98
+Port Razer (lcc) 230
+Plains (mid) 380
 Plains (j22) 98
 Plains (j22) 98
 Plains (j22) 98
@@ -46,18 +46,16 @@ Path of Ancestry (lcc) 346
 Palace Jailer (ltc) 174
 Odric, Master Tactician (mic) 90
 Odric, Lunarch Marshal (mb1) 186
-Neyali, Suns' Vanguard (onc) 2
 Mystic Monastery (dmc) 221
 Mystic Gate (cmm) 1013
 Mountain (j22) 107
-Mondrak, Glory Dominus (one) 23
 Minamo, School at Water's Edge (chk) 279
 Mass Appeal (avr) 66
 Kindred Discovery (clb) 81
 Kiki-Jiki, Mirror Breaker (chk) 175
 Keeper of Keys (cn2) 34
 Island (c19) 292
-Impact Tremors (dtk) 140
+Intuition (tmp) 70
 Horn of Gondor (ltr) 240
 Hero of Bladehold (moc) 188
 Hallowed Fountain (unf) 277
@@ -65,6 +63,8 @@ Greymond, Avacyn's Stalwart (sld) 143
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (bot) 11
 Glacial Fortress (ltc) 315
 Forth Eorlingas! (ltc) 56
+Flooded Strand (ktk) 233
+Flawless Maneuver (c20) 26
 Fierce Guardianship (c20) 35
 Fealty to the Realm (ltc) 21
 Faramir, Steward of Gondor (ltc) 54
@@ -82,12 +82,11 @@ Court of Ire (ltc) 213
 Court of Grace (onc) 62
 Coppercoat Vanguard (mat) 1
 Conjurer's Mantle (moc) 12
-Command Tower (ltc) 301
+Command Tower (lcc) 325
 Combat Celebrant (ltc) 212
-Clifftop Retreat (lcc) 324
+Clifftop Retreat (ltc) 300
 Champions of Minas Tirith (ltc) 10
 Cascade Bluffs (cmm) 990
-Brave the Sands (ktk) 5
 Blade Historian (pstx) 165p
 Beregond of the Guard (ltc) 9
 Battlefield Forge (ltc) 296
@@ -95,6 +94,7 @@ Azure Fleet Admiral (lcc) 144
 Archivist of Gondor (ltc) 18
 Arcane Signet (lcc) 299
 Angelic Field Marshal (cmm) 13
+Akroma's Will (cmr) 615
 Adeline, Resplendent Cathar (moc) 167
 Adarkar Wastes (ice) 351
 Aragorn, King of Gondor (ltc) 5

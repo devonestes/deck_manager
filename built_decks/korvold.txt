@@ -1,4 +1,3 @@
-Wooded Foothills (PROXY)
 Wheel of Fortune (PROXY)
 Verdant Catacombs (PROXY)
 Vampiric Tutor (PROXY)
@@ -6,13 +5,9 @@ Urza's Saga (PROXY)
 Urborg, Tomb of Yawgmoth (PROXY)
 Undergrowth Stadium (PROXY)
 The Meathook Massacre (PROXY)
-Stomping Ground (PROXY)
-Spire Garden (PROXY)
 Skullclamp (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
-Scalding Tarn (PROXY)
 Ragavan, Nimble Pilferer (PROXY)
-Professional Face-Breaker (PROXY)
 Polluted Delta (PROXY)
 Phyrexian Tower (PROXY)
 Phyrexian Altar (PROXY)
@@ -26,11 +21,9 @@ Luxury Suite (PROXY)
 Imperial Recruiter (PROXY)
 Heroic Intervention (PROXY)
 Goldspan Dragon (PROXY)
-Finale of Devastation (PROXY)
 Dockside Extortionist (PROXY)
 Dictate of Erebos (PROXY)
 Demonic Tutor (PROXY)
-Delighted Halfling (PROXY)
 Deflecting Swat (PROXY)
 Boseiju, Who Endures (PROXY)
 Bloodstained Mire (PROXY)
@@ -41,8 +34,8 @@ Ancient Tomb (PROXY)
 Agadeem's Awakening // Agadeem, the Undercrypt (PROXY)
 Ziatora's Proving Ground (snc) 295
 Worldly Tutor (mir) 255
-Word of Command (2ed) 137
-Windswept Heath (exp) 20
+Wooded Foothills (ktk) 249
+Windswept Heath (ktk) 248
 Viscera Seer (lcc) 213
 Toxic Deluge (c13) 96
 Tireless Provisioner (mh2) 180
@@ -51,12 +44,17 @@ Taiga (3ed) 287
 Swiftfoot Boots (lcc) 314
 Swamp (c19) 294
 Swamp (c19) 294
+Stomping Ground (unf) 280
+Spire Garden (zne) 19
 Sol Ring (lcc) 313
 Shallow Grave (mir) 141
-Sakura-Tribe Elder (chk) 239
+Scalding Tarn (mm3) 244
+Rhythm of the Wild (lcc) 287
 Reliquary Tower (dmc) 227
 Reassembling Skeleton (j22) 125
 Reanimate (tmp) 151
+Professional Face-Breaker (j22) 581
+Pitiless Plunderer (lcc) 208
 Orcish Lumberjack (ice) 210
 Orcish Bowmasters (ltr) 103
 Opposition Agent (cmr) 141
@@ -65,6 +63,7 @@ Old Gnawbone (afr) 197
 Necropotence (5ed) 182
 Necromancy (vis) 64
 Mountain (j22) 107
+Mayhem Devil (war) 204
 Lotus Petal (tmp) 294
 Liliana, Dreadhorde General (war) 97
 Lightning Greaves (mrd) 199
@@ -72,11 +71,12 @@ Life from the Loam (rav) 172
 Juri, Master of the Revue (mul) 46
 Jeweled Lotus (cmr) 319
 Ignoble Hierarch (mh2) 166
-Goblin Bombardment (tmp) 179
-Forest (lci) 402
+Forest (one) 266
+Finale of Devastation (war) 160
 Field of the Dead (m20) 247
 Fabled Passage (eld) 244
 Diabolic Intent (pls) 42
+Delighted Halfling (ltr) 158
 Deathrite Shaman (rtr) 213
 Deadly Rollick (c20) 42
 Dark Ritual (3ed) 99
@@ -85,9 +85,9 @@ Culling the Weak (exo) 55
 Crucible of Worlds (10e) 319
 Crop Rotation (dmr) 154
 Corpse Dance (tmp) 116
-Command Tower (ltc) 301
-Burnt Offering (ice) 116
+Command Tower (lcc) 325
 Blood Pet (tmp) 109
+Black Sun's Twilight (one) 383
 Black Market Connections (clb) 620
 Bitterblossom (mor) 58
 Birds of Paradise (4ed) 234

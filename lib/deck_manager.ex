@@ -3,19 +3,20 @@ defmodule DeckManager do
     "slug",
     "morphs",
     "vampires",
-    "dinos",
     "korvold",
-    "humans",
+    "monarch",
+    "dinos",
     "wanderer",
     "mishra",
     "shrines",
-    "miirym",
-    #"aesi",
-    #"knights",
+    "ur_dragon",
     "x_spells",
-    #"thrun",
     "merfolk",
-    "bant_tokens"
+    "bant_tokens",
+    "aesi"
+    #"miirym",
+    #"knights",
+    #"thrun",
     #"chatterfang"
   ]
 

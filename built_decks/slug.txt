@@ -1,48 +1,47 @@
 Zo-Zu the Punisher (chk) 200
 Wurmcoil Engine (2xm) 308
 Wrenn's Resolve (mom) 173
+Wheel of Misfortune (cmr) 211
 Wheel of Fortune (3ed) 185
 War Room (who) 330
 Virtue of Courage // Embereth Blaze (woe) 157
-Valakut, the Molten Pinnacle (zen) 228
+Valakut Exploration (znr) 303
 Urza's Saga (mh2) 259
-Thrill of Possibility (eld) 146
+Torbran, Thane of Red Fell (eld) 147
 Themberchaud (sld) 728
 Sulfuric Vortex (dmr) 144
-Stuffy Doll (clb) 875
 Spear Spewer (j22) 82
 Solphim, Mayhem Dominus (one) 312
-Sol Ring (moc) 381
+Sol Ring (ltc) 284
 Smoke (4ed) 222
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (bot) 6
-Shiny Impetus (clb) 194
-Shinka, the Bloodsoaked Keep (chk) 282
+Sin Prodder (soi) 181
 Shatterskull Smashing // Shatterskull, the Hammer Pass (znr) 354
 Shadowspear (thb) 345
 Seething Song (mrd) 104
 Ruby Medallion (cmm) 405
 Rogue's Passage (ltc) 326
+Resurrection Orb (40k) 165
 Ragavan, Nimble Pilferer (mul) 21
 Pyrostatic Pillar (scg) 100
-Pyroblast (5ed) 262
-Professional Face-Breaker (j22) 581
 Orcish Cannoneers (ice) 205
 Orcish Artillery (3ed) 168
+Oliphaunt (ltr) 426
 Nykthos, Shrine to Nyx (ths) 223
+Mountain (lci) 400
+Mountain (lci) 400
+Mountain (lci) 400
+Mountain (lci) 400
+Mountain (lci) 400
+Mountain (lci) 400
+Mountain (lci) 400
+Mountain (lci) 400
+Mountain (lci) 400
 Mountain (ltr) 268
 Mountain (ltr) 268
 Mountain (ltr) 268
 Mountain (ltr) 268
 Mountain (ltr) 268
-Mountain (lci) 400
-Mountain (lci) 400
-Mountain (lci) 400
-Mountain (lci) 400
-Mountain (lci) 400
-Mountain (lci) 400
-Mountain (lci) 400
-Mountain (lci) 400
-Mountain (lci) 400
 Mountain (one) 270
 Mountain (mom) 280
 Mountain (brc) 35
@@ -52,17 +51,21 @@ Mountain (brc) 35
 Mountain (j22) 107
 Mountain (j22) 107
 Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
+Mountain (j22) 107
 Mithril Coat (ltr) 379
 Meekstone (4ed) 335
-Maze of Ith (drk) 117
+Mechanized Warfare (bro) 139
+March of Reckless Joy (neo) 386
 Manabarbs (4ed) 212
 Mana Vault (2ed) 260
 Mana Geyser (plist) 984
 Mana Crypt (2xm) 270
 Loxodon Warhammer (mrd) 201
-Lithoform Engine (brc) 146
 Lightning Greaves (ltc) 281
 Lightning Bolt (sta) 105
+Light Up the Stage (rna) 107
 Kediss, Emberclaw Familiar (cmr) 188
 Jeska's Will (cmr) 668
 Invasion of Kaldheim // Pyre of the World Tree (mom) 145
@@ -70,31 +73,28 @@ Imperial Recruiter (2xm) 131
 Goldspan Dragon (j22) 550
 Goblin Artillery (j22) 541
 Gauntlet of Might (2ed) 245
-Fury (mh2) 313
 Flame Rift (mh2) 278
 Fireslinger (tmp) 173
-Firebrand Archer (hou) 92
+Fires of Mount Doom (ltr) 294
 Fiery Emancipation (m21) 366
 Faithless Looting (lcc) 225
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (neo) 141
-Extraplanar Lens (mrd) 169
 Earthquake (ltc) 214
 Dockside Extortionist (2x2) 360
 Disrupt Decorum (cmm) 1067
-Desperate Ritual (chk) 163
 Deflecting Swat (c20) 50
 Defiler of Instinct (dmu) 119
+Commune with Lava (c20) 149
 Commander's Plate (cmr) 692
-City on Fire (pmom) 135p
 City of Brass (5ed) 413
 Chaos Warp (lcc) 221
+Chandra's Ignition (lcc) 220
 Brash Taunter (m21) 133
-Blood Moon (chr) 46
 Blasphemous Act (brc) 113
-Balduvian Trading Post (all) 137
+Basilisk Collar (clb) 300
+Barbarian Ring (plist) 811
 Arcane Signet (brc) 132
 Ankh of Mishra (4ed) 294
 Ancient Tomb (tmp) 315
-All Will Be One (one) 118
 Acidic Soil (plist) 916
 Auntie Blyte, Bad Influence (j22) 30

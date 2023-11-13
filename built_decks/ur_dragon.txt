@@ -1,0 +1,100 @@
+Ziatora's Proving Ground (PROXY)
+Zagoth Triome (PROXY)
+Wooded Foothills (PROXY)
+Windswept Heath (PROXY)
+Watery Grave (PROXY)
+Urza's Incubator (PROXY)
+The World Tree (PROXY)
+The Great Henge (PROXY)
+Terror of the Peaks (PROXY)
+Temple Garden (PROXY)
+Teferi's Protection (PROXY)
+Stomping Ground (PROXY)
+Steam Vents (PROXY)
+Spara's Headquarters (PROXY)
+Scourge of the Throne (PROXY)
+Scalding Tarn (PROXY)
+Sacred Foundry (PROXY)
+Portal to Phyrexia (PROXY)
+Polluted Delta (PROXY)
+Overgrown Tomb (PROXY)
+Old Gnawbone (PROXY)
+Nature's Lore (PROXY)
+Mithril Coat (PROXY)
+Misty Rainforest (PROXY)
+Marsh Flats (PROXY)
+Mana Vault (PROXY)
+Lightning Greaves (PROXY)
+Klauth, Unrivaled Ancient (PROXY)
+Ketria Triome (PROXY)
+Jetmir's Garden (PROXY)
+Indatha Triome (PROXY)
+Heroic Intervention (PROXY)
+Hallowed Fountain (PROXY)
+Guardian Project (PROXY)
+Goldspan Dragon (PROXY)
+Godless Shrine (PROXY)
+Flooded Strand (PROXY)
+Farseek (PROXY)
+Elven Chorus (PROXY)
+Dockside Extortionist (PROXY)
+Delighted Halfling (PROXY)
+Cyclonic Rift (PROXY)
+City of Brass (PROXY)
+Cavern of Souls (PROXY)
+Breeding Pool (PROXY)
+Bloom Tender (PROXY)
+Bloodstained Mire (PROXY)
+Blood Crypt (PROXY)
+Birds of Paradise (PROXY)
+Beledros Witherbloom (PROXY)
+Balefire Dragon (PROXY)
+Badlands (PROXY)
+Ancient Tomb (PROXY)
+Ancient Copper Dragon (PROXY)
+Utvara Hellkite (c17) 144
+Tyrant's Familiar (scd) 165
+Tiamat (afr) 298
+Thrakkus the Butcher (clb) 295
+The Kami War // O-Kagachi Made Manifest (neo) 227
+Temur Ascendancy (ktk) 207
+Temple of the Dragon Queen (afr) 260
+Swords to Plowshares (lcc) 137
+Swamp (brc) 33
+Sol Ring (3ed) 274
+Scalelord Reckoner (c17) 6
+Savage Ventmaw (dtk) 231
+Sarkhan, Fireblood (m19) 154
+Rivaz of the Claw (dmu) 215
+Rith, Liberated Primeval (dmu) 214
+Return of the Wildspeaker (lcc) 252
+Raise the Palisade (ltc) 23
+Plains (j22) 98
+Path of Ancestry (lcc) 346
+Orb of Dragonkind (afr) 157
+Mountain (j22) 107
+Morophon, the Boundless (cmm) 669
+Miirym, Sentinel Wyrm (clb) 284
+Lozhan, Dragons' Legacy (clb) 281
+Kura, the Boundless Sky (neo) 200
+Korlessa, Scale Singer (clb) 280
+Kokusho, the Evening Star (mma) 89
+Kindred Dominance (c17) 18
+Kindred Discovery (lcc) 159
+Karrthus, Tyrant of Jund (arb) 117
+Island (3ed) 296
+Herald's Horn (moc) 360
+Ganax, Astral Hunter (clb) 176
+Forest (lci) 402
+Fellwar Stone (brc) 141
+Exotic Orchard (ltc) 307
+Dragonspeaker Shaman (j22) 525
+Dragonlord's Servant (ima) 126
+Dragonlord Dromoka (dtk) 217
+Dragon's Hoard (clb) 858
+Cultivate (j22) 644
+Command Tower (ltc) 301
+Atarka, World Render (scd) 1
+Arcane Signet (ltc) 273
+Ancient Silver Dragon (clb) 366
+The Ur-Dragon (c17) 48

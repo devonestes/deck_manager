@@ -6,6 +6,7 @@
 1 Arcane Signet (MOC) 348
 1 Arwen, Weaver of Hope (LTC) 35
 1 Avenger of Zendikar (C13) 135
+1 Beast Whisperer (P30A) 26 *F*
 1 Bennie Bracks, Zoologist (NCC) 86
 1 Birds of Paradise (4ED) 234
 1 Boseiju, Who Endures (NEO) 501
@@ -17,6 +18,7 @@
 1 Command Tower (LTC) 301
 1 Court of Grace (ONC) 62
 1 Craterhoof Behemoth (AVR) 172
+1 Cultivator of Blades (KHC) 55
 1 Cyclonic Rift (RTR) 35
 1 Delighted Halfling (LTR) 158
 1 Deserted Beach (MID) 281
@@ -38,7 +40,6 @@
 1 Gala Greeters (SNC) 450 *F*
 1 Galadhrim Ambush (LTC) 38
 1 Glacial Fortress (LTC) 315
-1 Glen Elendra Archmage (WOC) 94
 1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (XLN) 191
 1 Gyre Sage (MOC) 300
 1 Hallowed Fountain (UNF) 277
@@ -47,7 +48,6 @@
 1 Heroic Intervention (LTC) 249
 1 Hinterland Harbor (LTC) 317
 1 Hornet Queen (LTC) 250
-1 Illustrious Wanderglyph (LCC) 9
 1 Imperious Perfect (J22) 677
 1 Incubation Druid (MOC) 302
 1 Inspiring Call (MOC) 304
@@ -55,6 +55,7 @@
 1 Kami of Whispered Hopes (MOM) 196
 1 Karn's Bastion (CMM) 1007
 1 Koma, Cosmos Serpent (KHM) 221
+1 Master Biomancer (2X2) 250 *F*
 1 Misty Rainforest (MM3) 240
 1 Mondrak, Glory Dominus (ONE) 23
 1 Mystic Gate (CMM) 1013
@@ -65,13 +66,12 @@
 1 Ornithopter of Paradise (MH2) 430
 1 Otawara, Soaring City (NEO) 503
 1 Overgrown Farmland (WHO) 292
-1 Perplexing Test (MOC) 229
+1 Overwhelming Stampede (LTC) 254
 1 Plains (J22) 98
 1 Primal Vigor (C13) 162
 1 Rejuvenating Springs (LTC) 325
 1 Rhystic Study (J22) 114
 1 Ripples of Potential (LCC) 77
-1 Rumor Gatherer (CLB) 705
 1 Sakashima of a Thousand Faces (CMR) 89
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Sea of Clouds (BBD) 84

@@ -36,6 +36,8 @@ Thoughtcast (mrd) 54
 The Stasis Coffin (bro) 245
 The Reality Chip (neo) 74
 The One Ring (ltr) 451
+The Master, Multiplied (who) 146
+The Belligerent (lci) 225
 Terisiare's Devastation (brc) 9
 Talisman of Indulgence (mrd) 255
 Talisman of Dominance (mrd) 253
@@ -44,18 +46,17 @@ Swiftfoot Boots (lcc) 314
 Swamp (brc) 33
 Strionic Resonator (c19) 224
 Spire of Industry (brc) 203
-Spine of Ish Sah (brc) 162
 Solemn Simulacrum (brc) 161
 Sol Ring (brc) 160
 Silverbluff Bridge (brc) 200
 Sensei's Divining Top (2x2) 398
 Seat of the Synod (brc) 198
-Saheeli, Filigree Master (bro) 219
 RMS Titanic (who) 93
 Rise and Shine (mh2) 58
 Reckless Handling (mat) 19
 Portal to Phyrexia (bro) 365
 Obeka, Brute Chronologist (cmr) 289
+Mystic Forge (cmm) 964
 Mox Opal (2xm) 275
 Mox Amber (dom) 224
 Mountain (j22) 107
@@ -65,7 +66,6 @@ Mindslaver (mrd) 206
 Metalworker (uds) 135
 Mana Drain (cmr) 80
 Machine God's Effigy (brc) 16
-Lithoform Engine (znr) 375
 Lightning Greaves (mrd) 199
 Karn, Legacy Reforged (mat) 184
 Kappa Cannoneer (nec) 14
@@ -86,7 +86,7 @@ Darksteel Forge (m14) 206
 Darksteel Citadel (dst) 164
 Cursed Mirror (brc) 115
 Commander's Sphere (c21) 239
-Command Tower (lcc) 325
+Command Tower (brc) 178
 Coldsteel Heart (2x2) 301
 Chaos Warp (brc) 114
 Brudiclad, Telchor Engineer (brc) 122

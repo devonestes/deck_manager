@@ -19,6 +19,7 @@ Savai Triome (PROXY)
 Rockfall Vale (PROXY)
 Rhystic Study (PROXY)
 Overgrown Tomb (PROXY)
+Overgrown Farmland (PROXY)
 Oracle of Mul Daya (PROXY)
 Misty Rainforest (PROXY)
 Mirari's Wake (PROXY)
@@ -26,7 +27,6 @@ Ketria Triome (PROXY)
 Jetmir's Garden (PROXY)
 Heroic Intervention (PROXY)
 Hallowed Fountain (PROXY)
-Fire-Lit Thicket (PROXY)
 Fierce Guardianship (PROXY)
 Enlightened Tutor (PROXY)
 Demonic Tutor (PROXY)
@@ -40,7 +40,7 @@ Birds of Paradise (PROXY)
 Zur the Enchanter (dmr) 374
 Verduran Enchantress (4ed) 281
 The World Tree (khm) 373
-Temple Garden (unf) 281
+Temple Garden (sld) 127
 Sythis, Harvest's Hand (mh2) 214
 Swamp (brc) 33
 Sterling Grove (mh2) 293
@@ -56,9 +56,8 @@ Sanctum of Shattered Heights (m21) 157
 Sanctum of Fruitful Harvest (m21) 203
 Sanctum of Calm Waters (m21) 68
 Sanctum of All (m21) 225
-Retribution of the Meek (vis) 19
 Replenish (uds) 15
-Reliquary Tower (lcc) 348
+Reliquary Tower (brc) 196
 Plains (j22) 98
 Peacekeeper (wth) 22
 Nessian Wanderer (thb) 183
@@ -90,8 +89,8 @@ Enchantress's Presence (mh2) 283
 Eidolon of Blossoms (jou) 122
 Dryad of the Ilysian Grove (thb) 169
 Destiny Spinner (thb) 168
-Cultivate (j22) 644
-Command Tower (lcc) 325
+Cultivate (lcc) 235
+Command Tower (ltc) 301
 Calix, Destiny's Hand (thb) 211
 Cacophony Unleashed (cmm) 730
 Brushland (bro) 259

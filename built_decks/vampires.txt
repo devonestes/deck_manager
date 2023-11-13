@@ -2,7 +2,6 @@ Vampiric Tutor (PROXY)
 Urza's Saga (PROXY)
 Demonic Tutor (PROXY)
 Ancient Tomb (PROXY)
-Yahenni, Undying Partisan (lcc) 214
 Welcoming Vampire (lcc) 140
 Vraan, Executioner Thane (one) 114
 Volrath's Stronghold (sth) 143
@@ -16,28 +15,29 @@ Twilight Prophet (lcc) 211
 The Meathook Massacre (mid) 112
 Teferi's Protection (c17) 8
 Takenuma, Abandoned Mire (neo) 416
-Swords to Plowshares (ltc) 178
+Swords to Plowshares (moc) 211
 Swamp (c19) 294
 Sundown Pass (who) 310
 Sulfurous Springs (5ed) 424
 Stromkirk Captain (voc) 157
 Spectator Seating (cmr) 711
 Sorin, Imperious Bloodlord (m20) 115
-Sol Ring (lcc) 313
+Sol Ring (moc) 381
 Smothering Tithe (rna) 22
 Skullclamp (dst) 140
 Shattered Sanctum (vow) 283
-Secluded Courtyard (ltc) 330
+Secluded Courtyard (lcc) 350
 Savai Triome (iko) 312
 Sanguine Bond (ltc) 208
 Sanctum Seeker (lcc) 209
 Sacred Foundry (unf) 285
 Rodolf Duskbringer (j22) 25
+Preacher of the Schism (lci) 113
 Plains (snc) 262
 Phyrexian Tower (jmp) 493
 Phyrexian Altar (inv) 306
 Patron of the Vein (lcc) 207
-Path to Exile (lcc) 134
+Path to Exile (onc) 84
 Path of Ancestry (ltc) 322
 Pact of the Serpent (lcc) 206
 Olivia's Wrath (lcc) 205
@@ -76,8 +76,8 @@ Crossway Troublemakers (lcc) 190
 Cordial Vampire (lcc) 189
 Command Tower (afc) 230
 Coat of Arms (exo) 131
-Clifftop Retreat (ltc) 300
-Clavileño, First of the Blessed (lcc) 2
+Clifftop Retreat (lcc) 324
+Clavileño, First of the Blessed (lcc) 27
 Charismatic Conqueror (lcc) 70
 Champion of Dusk (lcc) 188
 Caves of Koilos (md1) 14
@@ -95,6 +95,6 @@ Arid Mesa (mm3) 229
 Arcane Signet (lcc) 299
 Anowon, the Ruin Sage (voc) 118
 Anointed Procession (akh) 2
-Akroma's Will (cmr) 615
+Akroma's Will (lcc) 125
 Agadeem's Awakening // Agadeem, the Undercrypt (znr) 90
 Edgar Markov (c17) 36

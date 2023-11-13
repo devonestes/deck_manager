@@ -65,12 +65,13 @@
 1 Phyrexian Altar (INV) 306
 1 Phyrexian Tower (JMP) 493
 1 Plains (J22) 98
+1 Preacher of the Schism (LCI) 113
 1 Rodolf Duskbringer (J22) 25
 1 Sacred Foundry (UNF) 285
 1 Sanctum Seeker (LCC) 209
 1 Sanguine Bond (LTC) 208
 1 Savai Triome (IKO) 312
-1 Secluded Courtyard (LTC) 330
+1 Secluded Courtyard (LCC) 350
 1 Shattered Sanctum (VOW) 283
 1 Skullclamp (DST) 140
 1 Smothering Tithe (RNA) 22
@@ -97,4 +98,3 @@
 1 Volrath's Stronghold (STH) 143
 1 Vraan, Executioner Thane (ONE) 114
 1 Welcoming Vampire (LCC) 140
-1 Yahenni, Undying Partisan (LCC) 214

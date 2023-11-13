@@ -1,100 +1,100 @@
 Yavimaya, Cradle of Growth (PROXY)
+Yavimaya Hollow (PROXY)
 Wooded Bastion (PROXY)
 Windswept Heath (PROXY)
+Wave Goodbye (PROXY)
 Vorinclex, Monstrous Raider (PROXY)
+Verdant Embrace (PROXY)
 Urza's Saga (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
-Tireless Provisioner (PROXY)
-The Great Henge (PROXY)
+The Ozolith (PROXY)
+Temple Garden (PROXY)
 Teferi's Protection (PROXY)
 Swan Song (PROXY)
+Staff of Compleation (PROXY)
+Spara's Headquarters (PROXY)
+Sol Ring (PROXY)
 Sea of Clouds (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
+Ripples of Potential (PROXY)
 Rhystic Study (PROXY)
 Rejuvenating Springs (PROXY)
+Overgrown Farmland (PROXY)
 Otawara, Soaring City (PROXY)
 Ohran Frostfang (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
+Nadir Kraken (PROXY)
 Mystic Gate (PROXY)
 Misty Rainforest (PROXY)
+Koma, Cosmos Serpent (PROXY)
+Karn's Bastion (PROXY)
+Inspiring Call (PROXY)
+Incubation Druid (PROXY)
+Hinterland Harbor (PROXY)
 Heroic Intervention (PROXY)
+Herald of Secret Streams (PROXY)
 Hallowed Fountain (PROXY)
+Gyre Sage (PROXY)
 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (PROXY)
 Glacial Fortress (PROXY)
 Flooded Strand (PROXY)
 Flooded Grove (PROXY)
 Fierce Guardianship (PROXY)
+Farseek (PROXY)
+Faerie Mastermind (PROXY)
+Faerie Artisans (PROXY)
+Esper Sentinel (PROXY)
 Elven Chorus (PROXY)
 Dreamroot Cascade (PROXY)
 Deserted Beach (PROXY)
+Delighted Halfling (PROXY)
 Cyclonic Rift (PROXY)
 Craterhoof Behemoth (PROXY)
-Coat of Arms (PROXY)
-Cavern of Souls (PROXY)
+Court of Grace (PROXY)
+Command Tower (PROXY)
+Charismatic Conqueror (PROXY)
+Cauldron of Souls (PROXY)
 Breeding Pool (PROXY)
+Bred for the Hunt (PROXY)
 Bountiful Promenade (PROXY)
 Boseiju, Who Endures (PROXY)
+Birds of Paradise (PROXY)
+Beast Whisperer (PROXY)
+Avenger of Zendikar (PROXY)
+Arcane Signet (PROXY)
+Adeline, Resplendent Cathar (PROXY)
 Zameck Guildmage (gtc) 209
-Yavimaya Hollow (uds) 143
 Wolverine Riders (khc) 14
 Windswift Slice (ltc) 45
-Wave Goodbye (lcc) 79
-Thrummingbird (one) 288
-The Ozolith (ltc) 351
-Temple Garden (unf) 281
-Sylvan Offering (ltc) 261
-Staff of Compleation (one) 242
-Sol Ring (brc) 160
-Ripples of Potential (lcc) 77
-Reclamation Sage (ltc) 259
-Realmwalker (lcc) 250
-Raise the Palisade (ltc) 23
-Primeval Herald (j22) 42
+Sakashima of a Thousand Faces (cmr) 89
+Primal Vigor (c13) 162
 Plains (j22) 98
-Path of Ancestry (lcc) 346
-Oran-Rief, the Vastwood (nec) 173
-Nissa, Resurgent Animist (mat) 22
+Overwhelming Stampede (c19) 175
+Ornithopter of Paradise (mh2) 430
 Natural Order (vis) 114
-Metallic Mimic (lcc) 308
+Mondrak, Glory Dominus (one) 23
 Master Biomancer (2x2) 250
-Marwyn, the Nurturer (khc) 68
-Kindred Discovery (lcc) 159
-Karn's Bastion (cmm) 1007
 Kami of Whispered Hopes (mom) 196
-Island (3ed) 296
-Island (3ed) 296
-Inspiring Call (lcc) 244
-Incubation Druid (moc) 302
+Island (mom) 278
+Island (mom) 278
+Island (mom) 278
 Imperious Perfect (j22) 677
-Hinterland Harbor (ltc) 317
-Haldir, Lórien Lieutenant (ltc) 39
-Gyre Sage (moc) 300
+Hornet Queen (ltc) 250
+Helm of the Host (dom) 217
 Galadhrim Ambush (ltc) 38
 Gala Greeters (snc) 450
-Forest (lci) 402
-Forest (lci) 402
-Forest (lci) 402
-Ezuri, Renegade Leader (plist) 987
-Ezuri, Claw of Progress (mul) 38
-Evolution Sage (lcc) 240
-Emerald Medallion (cmm) 379
-Elvish Warmaster (ltc) 241
-Elvish Champion (inv) 186
-Elvish Archdruid (ltc) 237
+Forest (ltr) 270
+Forest (ltr) 270
+Forest (ltr) 270
+Felidar Retreat (cmm) 821
 Elven Ambush (khm) 391
-Eladamri, Lord of Leaves (tmp) 224
 Edric, Spymaster of Trest (cns) 187
 Earthcraft (tmp) 222
 Doubling Season (2xm) 350
 Cultivator of Blades (khc) 55
-Command Tower (lcc) 325
-Coiling Oracle (2x2) 194
-Circle of Dreams Druid (afr) 176
-Bred for the Hunt (dgm) 59
 Bennie Bracks, Zoologist (ncc) 86
 Arwen, Weaver of Hope (ltc) 35
-Arcane Signet (ltc) 273
 Arachnogenesis (cmm) 647
-Allosaurus Shepherd (jmp) 28
+Adrix and Nev, Twincasters (c21) 336
 Adarkar Wastes (ice) 351
 Galadriel, Light of Valinor (ltc) 498

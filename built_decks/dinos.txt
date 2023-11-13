@@ -1,59 +1,65 @@
-Yavimaya, Cradle of Growth (PROXY)
+Wooded Foothills (PROXY)
 Verdant Catacombs (PROXY)
 Urza's Saga (PROXY)
 Urza's Incubator (PROXY)
-The Great Henge (PROXY)
+Tithe (PROXY)
 Teferi's Protection (PROXY)
 Sundown Pass (PROXY)
+Stomping Ground (PROXY)
+Spire Garden (PROXY)
 Spectator Seating (PROXY)
+Scalding Tarn (PROXY)
 Sacred Foundry (PROXY)
+Rhythm of the Wild (PROXY)
 Nature's Lore (PROXY)
 Misty Rainforest (PROXY)
 Marsh Flats (PROXY)
 Mana Crypt (PROXY)
 Heroic Intervention (PROXY)
+Flooded Strand (PROXY)
+Flawless Maneuver (PROXY)
+Finale of Devastation (PROXY)
+Delighted Halfling (PROXY)
 Deflecting Swat (PROXY)
+Chandra's Ignition (PROXY)
 Cavern of Souls (PROXY)
 Boseiju, Who Endures (PROXY)
 Bloodstained Mire (PROXY)
 Arid Mesa (PROXY)
 Ancient Tomb (PROXY)
+Akroma's Will (PROXY)
 Zetalpa, Primal Dawn (lcc) 141
 Zacama, Primal Calamity (rix) 174
 Xenagos, God of Revels (lcc) 295
 Wrathful Raptors (lcc) 88
-Wooded Foothills (ktk) 249
 Wooded Bastion (shm) 281
-Windswept Heath (ktk) 248
+Windswept Heath (exp) 20
 Wayward Swordtooth (lcc) 263
 Wakening Sun's Avatar (lcc) 139
-Verdant Sun's Avatar (lcc) 262
 Up the Beanstalk (woe) 195
+Unclaimed Territory (lcc) 366
 Topiary Stomper (lcc) 261
-Tithe (vis) 23
 Thrashing Brontodon (lci) 216
-Temple Garden (sld) 127
+The Great Henge (ltc) 348
+Temple Garden (unf) 281
 Temple Altisaur (lcc) 138
 Sunhome, Fortress of the Legion (cmr) 496
-Stomping Ground (unf) 280
-Spire Garden (zne) 19
 Sol Ring (lcc) 313
 Secluded Courtyard (lcc) 350
 Scion of Calamity (lcc) 93
-Scalding Tarn (mm3) 244
-Runic Armasaur (lcc) 256
 Rockfall Vale (mid) 266
 Ripjaw Raptor (lcc) 253
-Rhythm of the Wild (lcc) 287
 Return of the Wildspeaker (eld) 172
 Regisaur Alpha (lcc) 286
+Regal Behemoth (lcc) 251
 Ranging Raptors (lcc) 249
 Rampant Growth (tmp) 245
 Quartzwood Crasher (lcc) 281
 Progenitor's Icon (lcc) 100
 Prismatic Vista (mh1) 244
-Plains (mid) 380
 Plains (j22) 98
+Plains (j22) 98
+Pantlaza, Sun-Favored (lcc) 4
 Overgrown Farmland (who) 292
 Otepec Huntmaster (lcc) 229
 Mountain (j22) 107
@@ -70,15 +76,12 @@ Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (xln) 191
 Ghalta, Primal Hunger (cmm) 292
 Ghalta and Mavren (mom) 225
 From the Rubble (lcc) 72
+Forest (lci) 291
 Forest (lci) 402
 Forest (lci) 402
-Forest (lci) 402
-Flooded Strand (ktk) 233
-Flawless Maneuver (c20) 26
 Fire-Lit Thicket (shm) 271
-Finale of Devastation (war) 160
 Farseek (c19) 165
-Etali, Primal Storm (lcc) 224
+Etali, Primal Storm (afc) 126
 Etali, Primal Conqueror // Etali, Primal Sickness (mom) 137
 Entish Restoration (ltr) 163
 Eladamri's Call (pls) 106
@@ -86,15 +89,12 @@ Drover of the Mighty (lcc) 239
 Doors of Durin (ltr) 199
 Dinosaurs on a Spaceship (who) 122
 Descendants' Path (lcc) 238
-Delighted Halfling (ltr) 158
 Defense of the Heart (ulg) 100
 Curious Altisaur (lcc) 90
 Cultivate (sta) 51
-Command Tower (brc) 178
-Chandra's Ignition (lcc) 220
+Command Tower (lcc) 325
 Carnage Tyrant (xln) 179
 Bountiful Promenade (zne) 20
 Arcane Signet (lcc) 299
 Apex Altisaur (c19) 31
-Akroma's Will (lcc) 125
 Gishath, Sun's Avatar (xln) 222
