@@ -1,7 +1,7 @@
-Vampiric Tutor (PROXY)
-Urza's Saga (PROXY)
-Demonic Tutor (PROXY)
-Ancient Tomb (PROXY)
+Urza's Saga (mh2) 259
+Ancient Tomb (tmp) 315
+Vampiric Tutor (vis) 72
+Demonic Tutor (3ed) 105
 Welcoming Vampire (lcc) 140
 Vraan, Executioner Thane (one) 114
 Volrath's Stronghold (sth) 143
