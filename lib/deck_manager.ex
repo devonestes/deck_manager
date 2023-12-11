@@ -1,8 +1,8 @@
 defmodule DeckManager do
   @decks [
+    "vampires",
     "slug",
     "morphs",
-    "vampires",
     "korvold",
     "monarch",
     "dinos",

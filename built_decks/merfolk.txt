@@ -1,5 +1,6 @@
 Worldly Tutor (PROXY)
 Wave Goodbye (PROXY)
+Urza's Incubator (PROXY)
 The Ozolith (PROXY)
 Swan Song (PROXY)
 Sol Ring (PROXY)
@@ -11,7 +12,6 @@ Otawara, Soaring City (PROXY)
 Novijen, Heart of Progress (PROXY)
 Misty Rainforest (PROXY)
 Lightning Greaves (PROXY)
-Kindred Discovery (PROXY)
 Hinterland Harbor (PROXY)
 Heroic Intervention (PROXY)
 Guardian Project (PROXY)
@@ -32,18 +32,18 @@ Ancient Tomb (PROXY)
 Alchemist's Refuge (PROXY)
 Zegana, Utopian Speaker (lcc) 298
 Unclaimed Territory (lcc) 366
+Twists and Turns // Mycoid Maze (lci) 217
 Tributary Instructor (lcc) 96
 Tishana's Tidebinder (lci) 81
 Thrasios, Triton Hero (c16) 46
 Thieving Skydiver (lcc) 177
 Thassa, God of the Sea (lcc) 176
-Tatyova, Benthic Druid (dmr) 203
+Tatyova, Benthic Druid (lcc) 290
 Svyelun of Sea and Sky (lcc) 175
 Stonybrook Banneret (lcc) 173
 Staff of Compleation (one) 242
 Singer of Swift Rivers (lcc) 98
 Simic Growth Chamber (c19) 274
-Simic Ascendancy (lcc) 288
 Shamanic Revelation (ncc) 311
 Secluded Courtyard (lcc) 350
 Seafloor Oracle (lcc) 170
@@ -53,48 +53,48 @@ Reflections of Littjara (lcc) 168
 Realmwalker (lcc) 250
 Prime Speaker Zegana (lcc) 278
 Path of Ancestry (lcc) 346
-Nicanzil, Current Conductor (lci) 236
+Nicanzil, Current Conductor (lci) 306
 Mist-Cloaked Herald (m19) 310
 Mist Dancer (lcc) 76
-Metallic Mimic (lcc) 308
+Mirri's Guile (tmp) 236
 Merrow Reejerey (j22) 61
 Merfolk Sovereign (lcc) 164
 Merfolk Mistbinder (lcc) 276
+Merfolk Cave-Diver (lci) 65
 Master of the Pearl Trident (lcc) 162
 Lórien Revealed (ltr) 60
 Lord of Atlantis (4ed) 82
 Kumena, Tyrant of Orazca (lcc) 274
-Kodama's Reach (clb) 826
+Kindred Discovery (lcc) 159
 Karn's Bastion (lcc) 339
 Island (3ed) 296
 Island (3ed) 296
 Island (3ed) 296
-Island (one) 263
-Island (one) 263
-Island (one) 263
-Island (mom) 278
-Island (mom) 278
+Island (lci) 396
+Island (lci) 396
+Island (lci) 396
+Island (lci) 396
+Island (lci) 396
 Inspiring Call (moc) 304
 Herald of Secret Streams (lcc) 158
-Hardened Scales (wot) 55
-Growth Spiral (cmr) 446
+Hardened Scales (lcc) 243
+Glowcap Lantern (lci) 187
 Forest (lci) 402
-Forest (lci) 402
-Forest (lci) 402
-Forest (lci) 402
-Forest (lci) 402
+Forest (one) 266
+Forest (one) 266
+Forest (one) 271
+Forest (lci) 291
 Force of Negation (mh1) 52
 Fallowsage (j22) 297
-Explore (c19) 164
+Exploration (cns) 164
 Emperor Mihail II (lcc) 155
+Deeproot Wayfinder (mom) 184
 Deeproot Waters (lcc) 152
 Deeproot Historian (lcc) 91
-Coralhelm Commander (lcc) 148
 Cold-Eyed Selkie (lcc) 266
-Bygone Marvels (lcc) 89
 Branching Evolution (jmp) 29
 Bident of Thassa (lcc) 146
-Beast Within (onc) 104
+Beast Within (lcc) 233
 Alandra, Sky Dreamer (j22) 9
 Aetherize (lcc) 142
 Hakbal of the Surging Soul (lcc) 3

@@ -25,7 +25,6 @@ Nykthos, Shrine to Nyx (PROXY)
 Misty Rainforest (PROXY)
 Last March of the Ents (PROXY)
 Koma, Cosmos Serpent (PROXY)
-Kodama's Reach (PROXY)
 Imoti, Celebrant of Bounty (PROXY)
 Hydroid Krasis (PROXY)
 Hinterland Harbor (PROXY)
@@ -57,7 +56,7 @@ Thespian's Stage (c19) 282
 Thawing Glaciers (all) 144
 Temple of Mystery (m20) 255
 Tatyova, Steward of Tides (dmu) 222
-Tatyova, Benthic Druid (lcc) 290
+Tatyova, Benthic Druid (dmr) 203
 Storm Cauldron (all) 134
 Snow-Covered Island (ice) 371
 Snow-Covered Forest (ice) 383
@@ -74,12 +73,13 @@ Mystic Sanctuary (eld) 247
 Mana Breach (exo) 38
 Lotus Vale (wth) 165
 Llanowar Scout (dom) 170
+Kodama's Reach (clb) 826
 Jungle Basin (vis) 164
-Island (mom) 278
-Island (ltr) 264
-Island (ltr) 264
+Island (lci) 396
+Island (lci) 396
+Island (lci) 396
 Halimar Depths (c18) 253
-Growth Spiral (lcc) 270
+Growth Spiral (cmr) 446
 Green Sun's Twilight (one) 169
 Great Whale (usg) 77
 Forest (ltr) 270

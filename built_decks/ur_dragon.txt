@@ -59,8 +59,8 @@ Thrakkus the Butcher (clb) 295
 The Kami War // O-Kagachi Made Manifest (neo) 227
 Temur Ascendancy (ktk) 207
 Temple of the Dragon Queen (afr) 260
-Swords to Plowshares (lcc) 137
-Swamp (brc) 33
+Swords to Plowshares (moc) 211
+Swamp (lci) 397
 Sol Ring (3ed) 274
 Scalelord Reckoner (c17) 6
 Savage Ventmaw (dtk) 231
@@ -69,7 +69,7 @@ Rivaz of the Claw (dmu) 215
 Rith, Liberated Primeval (dmu) 214
 Return of the Wildspeaker (lcc) 252
 Raise the Palisade (ltc) 23
-Plains (j22) 98
+Plains (lci) 393
 Path of Ancestry (lcc) 346
 Orb of Dragonkind (afr) 157
 Mountain (j22) 107
@@ -80,10 +80,10 @@ Kura, the Boundless Sky (neo) 200
 Korlessa, Scale Singer (clb) 280
 Kokusho, the Evening Star (mma) 89
 Kindred Dominance (c17) 18
-Kindred Discovery (lcc) 159
+Kindred Discovery (clb) 81
 Karrthus, Tyrant of Jund (arb) 117
 Island (3ed) 296
-Herald's Horn (moc) 360
+Herald's Horn (lcc) 304
 Ganax, Astral Hunter (clb) 176
 Forest (lci) 402
 Fellwar Stone (brc) 141

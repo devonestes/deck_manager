@@ -35,6 +35,7 @@
 1 Ghalta, Primal Hunger (CMM) 292
 1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (XLN) 191
 1 Heroic Intervention (LTC) 249
+1 Hulking Raptor (LCI) 327
 1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190
 1 Jetmir's Garden (SNC) 291
 1 Kinjalli's Sunwing (LCC) 130
@@ -53,7 +54,6 @@
 1 Pantlaza, Sun-Favored (LCC) 4 *F*
 2 Plains (J22) 98
 1 Prismatic Vista (MH1) 244
-1 Progenitor's Icon (LCC) 100
 1 Quartzwood Crasher (LCC) 281
 1 Rampant Growth (LCC) 248
 1 Ranging Raptors (LCC) 249

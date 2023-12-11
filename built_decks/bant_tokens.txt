@@ -4,7 +4,6 @@ Wooded Bastion (PROXY)
 Windswept Heath (PROXY)
 Wave Goodbye (PROXY)
 Vorinclex, Monstrous Raider (PROXY)
-Verdant Embrace (PROXY)
 Urza's Saga (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 The Ozolith (PROXY)
@@ -59,7 +58,6 @@ Bred for the Hunt (PROXY)
 Bountiful Promenade (PROXY)
 Boseiju, Who Endures (PROXY)
 Birds of Paradise (PROXY)
-Beast Whisperer (PROXY)
 Avenger of Zendikar (PROXY)
 Arcane Signet (PROXY)
 Adeline, Resplendent Cathar (PROXY)
@@ -67,23 +65,25 @@ Zameck Guildmage (gtc) 209
 Wolverine Riders (khc) 14
 Windswift Slice (ltc) 45
 Sakashima of a Thousand Faces (cmr) 89
+Rumor Gatherer (snc) 29
 Primal Vigor (c13) 162
-Plains (j22) 98
+Plains (lci) 393
 Overwhelming Stampede (c19) 175
-Ornithopter of Paradise (mh2) 430
+Noble Hierarch (2xm) 177
 Natural Order (vis) 114
+Mystic Remora (ice) 87
 Mondrak, Glory Dominus (one) 23
 Master Biomancer (2x2) 250
 Kami of Whispered Hopes (mom) 196
-Island (mom) 278
-Island (mom) 278
-Island (mom) 278
+Island (lci) 396
+Island (lci) 396
+Island (lci) 396
 Imperious Perfect (j22) 677
 Hornet Queen (ltc) 250
 Helm of the Host (dom) 217
 Galadhrim Ambush (ltc) 38
 Gala Greeters (snc) 450
-Forest (ltr) 270
+Forest (lci) 291
 Forest (ltr) 270
 Forest (ltr) 270
 Felidar Retreat (cmm) 821
@@ -93,8 +93,8 @@ Earthcraft (tmp) 222
 Doubling Season (2xm) 350
 Cultivator of Blades (khc) 55
 Bennie Bracks, Zoologist (ncc) 86
+Beast Whisperer (p30a) 26
 Arwen, Weaver of Hope (ltc) 35
 Arachnogenesis (cmm) 647
-Adrix and Nev, Twincasters (c21) 336
 Adarkar Wastes (ice) 351
 Galadriel, Light of Valinor (ltc) 498

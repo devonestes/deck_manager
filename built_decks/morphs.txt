@@ -1,100 +1,100 @@
-Demonic Tutor (PROXY)
 Vampiric Tutor (PROXY)
-Ainok Survivalist (c19) 156
-Alchemist's Refuge (lcc) 318
-All Is Dust (cmm) 800
-Aphetto Runecaster (scg) 28
-Arcane Signet (moc) 348
-Assassin's Trophy (grn) 152
-Bane of the Living (c19) 104
-Beast Whisperer (p30a) 26
-Boseiju, Who Endures (neo) 501
-Breeding Pool (unf) 286
-Brine Elemental (tsp) 50
-Chromeshell Crab (c19) 81
-Command Tower (c19) 237
-Craterhoof Behemoth (avr) 172
-Crystal Shard (mrd) 159
-Cyclonic Rift (2xm) 339
-Darkbore Pathway // Slitherbore Pathway (khm) 292
-Deathmist Raptor (c19) 160
-Den Protector (c19) 161
-Dreamroot Cascade (vow) 282
-Echo Tracer (lgn) 37
-Elven Chorus (ltr) 160
-Farseek (lcc) 242
-Flooded Grove (ltc) 309
-Forest (one) 266
-Forest (one) 271
-Ghastly Conscription (c19) 115
-Gift of Doom (c19) 17
-Grazilaxx, Illithid Scholar (clb) 723
-Grim Haruspex (c19) 118
-Guardian Project (rna) 130
-Heroic Intervention (ltc) 249
-Hooded Hydra (c19) 172
-Icefeather Aven (c19) 194
-Island (c19) 292
-Island (c19) 292
-Ixidron (c19) 87
-Kadena's Silencer (c19) 8
-Kadena, Slinking Sorcerer (c19) 45
-Kheru Spellsnatcher (c19) 89
-Leyline of Anticipation (clb) 726
-Liberator, Urza's Battlethopter (bro) 237
-Llanowar Wastes (bro) 299
-Mischievous Quanar (scg) 42
-Misty Rainforest (mm3) 240
-Morphic Pool (bbd) 83
-Nantuko Vigilante (c19) 174
-Nature's Lore (dmr) 170
-Opulent Palace (dmc) 223
-Otawara, Soaring City (neo) 503
-Overgrown Tomb (unf) 284
-Overwhelming Stampede (ltc) 254
-Polluted Delta (ktk) 239
-Rejuvenating Springs (ltc) 325
-Reliquary Tower (lcc) 348
-Rhystic Study (j22) 114
-Sakura-Tribe Elder (c19) 177
-Scroll of Fate (c19) 58
-Secret Plans (c19) 201
-Seedborn Muse (c19) 179
-Shipwreck Marsh (mid) 285
-Silumgar Assassin (c19) 128
-Simic Growth Chamber (cm2) 267
-Skinthinner (c19) 129
-Sol Ring (ltc) 284
-Stratus Dancer (c19) 96
-Strionic Resonator (brc) 165
-Sunken Ruins (shm) 280
-Swamp (neo) 298
-Swamp (neo) 298
-Swan Song (ltc) 197
+Demonic Tutor (PROXY)
+Zoetic Cavern (cmd) 298
+Zagoth Triome (iko) 313
+Yedora, Grave Gardener (mul) 30
+Yavimaya, Cradle of Growth (mh2) 441
+Yavimaya Coast (dmu) 261
+Worldly Tutor (mir) 255
+Woodland Cemetery (ltc) 346
+Winding Canyons (wth) 167
+Willbender (c19) 102
+Wilderness Reclamation (rna) 149
+Whisperwood Elemental (frf) 145
+Watery Grave (unf) 278
+Voidmage Apprentice (lgn) 54
+Vesuvan Shapeshifter (c19) 101
+Verdant Catacombs (mm3) 249
+Vedalken Orrery (cns) 206
+Undergrowth Stadium (cmr) 714
+Underground River (bro) 267
+Ugin's Mastery (cmm) 718
+Twilight Mire (ncc) 443
+Triumph of the Hordes (nph) 123
+Thousand Winds (c19) 100
+Thieving Amalgam (c19) 21
+Thelonite Hermit (c19) 184
+Temur Sabertooth (ncc) 315
 Teferi's Ageless Insight (m21) 76
 Teferi, Mage of Zhalfir (ima) 75
-Temur Sabertooth (ncc) 315
-Thelonite Hermit (c19) 184
-Thieving Amalgam (c19) 21
-Thousand Winds (c19) 100
-Triumph of the Hordes (nph) 123
-Twilight Mire (ncc) 443
-Ugin's Mastery (cmm) 718
-Underground River (bro) 267
-Undergrowth Stadium (cmr) 714
-Vedalken Orrery (cns) 206
-Verdant Catacombs (mm3) 249
-Vesuvan Shapeshifter (c19) 101
-Voidmage Apprentice (lgn) 54
-Watery Grave (unf) 278
-Whisperwood Elemental (frf) 145
-Wilderness Reclamation (rna) 149
-Willbender (c19) 102
-Winding Canyons (wth) 167
-Woodland Cemetery (ltc) 346
-Worldly Tutor (mir) 255
-Yavimaya Coast (dmu) 261
-Yavimaya, Cradle of Growth (mh2) 441
-Yedora, Grave Gardener (mul) 30
-Zagoth Triome (iko) 313
-Zoetic Cavern (cmd) 298
+Swan Song (ltc) 197
+Swamp (c19) 294
+Swamp (c19) 294
+Sunken Ruins (shm) 280
+Strionic Resonator (brc) 165
+Stratus Dancer (c19) 96
+Sol Ring (lcc) 313
+Skinthinner (c19) 129
+Simic Growth Chamber (cm2) 267
+Silumgar Assassin (c19) 128
+Shipwreck Marsh (mid) 285
+Seedborn Muse (c19) 179
+Secret Plans (c19) 201
+Scroll of Fate (c19) 58
+Sakura-Tribe Elder (c19) 177
+Rhystic Study (j22) 114
+Reliquary Tower (lcc) 348
+Rejuvenating Springs (ltc) 325
+Polluted Delta (ktk) 239
+Overwhelming Stampede (ltc) 254
+Overgrown Tomb (unf) 284
+Otawara, Soaring City (neo) 271
+Opulent Palace (dmc) 223
+Nature's Lore (dmr) 170
+Nantuko Vigilante (c19) 174
+Morphic Pool (bbd) 83
+Misty Rainforest (mm3) 240
+Mischievous Quanar (scg) 42
+Llanowar Wastes (bro) 299
+Liberator, Urza's Battlethopter (bro) 237
+Leyline of Anticipation (clb) 726
+Kheru Spellsnatcher (c19) 89
+Kadena's Silencer (c19) 8
+Ixidron (c19) 87
+Island (c19) 292
+Island (c19) 292
+Icefeather Aven (c19) 194
+Hooded Hydra (c19) 172
+Heroic Intervention (ltc) 249
+Guardian Project (rna) 130
+Grim Haruspex (c19) 118
+Grazilaxx, Illithid Scholar (clb) 723
+Gift of Doom (c19) 17
+Ghastly Conscription (c19) 115
+Forest (lci) 402
+Forest (lci) 402
+Flooded Grove (ltc) 309
+Farseek (lcc) 242
+Elven Chorus (ltr) 160
+Echo Tracer (lgn) 37
+Dreamroot Cascade (vow) 282
+Den Protector (c19) 161
+Deathmist Raptor (c19) 160
+Darkbore Pathway // Slitherbore Pathway (khm) 292
+Cyclonic Rift (rtr) 35
+Crystal Shard (mrd) 159
+Craterhoof Behemoth (avr) 172
+Command Tower (afc) 230
+Chromeshell Crab (c19) 81
+Brine Elemental (tsp) 50
+Breeding Pool (unf) 286
+Boseiju, Who Endures (neo) 501
+Beast Whisperer (p30a) 26
+Bane of the Living (c19) 104
+Assassin's Trophy (grn) 152
+Arcane Signet (lcc) 299
+Aphetto Runecaster (scg) 28
+All Is Dust (cmm) 800
+Alchemist's Refuge (lcc) 318
+Ainok Survivalist (c19) 156
+Kadena, Slinking Sorcerer (c19) 45

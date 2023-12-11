@@ -21,7 +21,6 @@ Otawara, Soaring City (PROXY)
 Misty Rainforest (PROXY)
 Lightning Greaves (PROXY)
 Ketria Triome (PROXY)
-Invasion of Ikoria // Zilortha, Apex of Ikoria (PROXY)
 Heroic Intervention (PROXY)
 Flooded Grove (PROXY)
 Finale of Devastation (PROXY)
@@ -69,12 +68,13 @@ Kami of Whispered Hopes (mom) 196
 Izzet Boilerworks (brc) 188
 Island (3ed) 296
 Island (3ed) 296
+Invasion of Ikoria // Zilortha, Apex of Ikoria (mom) 190
 Inspiring Call (lcc) 244
 Incubation Druid (moc) 302
 Hydroid Krasis (rna) 183
 Hormagaunt Horde (40k) 93
 Hinterland Harbor (ltc) 317
-Hardened Scales (lcc) 243
+Hardened Scales (wot) 55
 Gyre Sage (moc) 300
 Frontier Bivouac (40k) 281
 Fractal Harness (c21) 61
@@ -85,7 +85,7 @@ Exocrine (40k) 76
 Elementalist's Palette (c21) 76
 Curse of the Swine (lcc) 150
 Court of Garenbrig (woc) 25
-Command Tower (moc) 396
+Command Tower (ltc) 301
 Clamavus (40k) 90
 Broodlord (40k) 89
 Bred for the Hunt (dgm) 59

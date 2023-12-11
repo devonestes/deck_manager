@@ -1,62 +1,57 @@
-Urza's Saga (mh2) 259
-Ancient Tomb (tmp) 315
-Vampiric Tutor (vis) 72
-Demonic Tutor (3ed) 105
 Welcoming Vampire (lcc) 140
 Vraan, Executioner Thane (one) 114
 Volrath's Stronghold (sth) 143
 Voldaren Estate (lcc) 369
 Viscera Seer (fmb1) 45
 Vault of Champions (cmr) 715
-Urza's Incubator (c15) 273
+Vampiric Tutor (vis) 72
+Urza's Saga (mh2) 259
 Urborg, Tomb of Yawgmoth (tsr) 287
 Unclaimed Territory (lcc) 366
-Twilight Prophet (lcc) 211
+Twilight Prophet (rix) 88
 The Meathook Massacre (mid) 112
 Teferi's Protection (c17) 8
 Takenuma, Abandoned Mire (neo) 416
-Swords to Plowshares (moc) 211
-Swamp (c19) 294
+Swords to Plowshares (lcc) 137
+Swamp (afr) 273
 Sundown Pass (who) 310
 Sulfurous Springs (5ed) 424
 Stromkirk Captain (voc) 157
 Spectator Seating (cmr) 711
 Sorin, Imperious Bloodlord (m20) 115
-Sol Ring (moc) 381
+Sol Ring (lcc) 313
 Smothering Tithe (rna) 22
 Skullclamp (dst) 140
 Shattered Sanctum (vow) 283
-Secluded Courtyard (lcc) 350
 Savai Triome (iko) 312
 Sanguine Bond (ltc) 208
-Sanctum Seeker (lcc) 209
 Sacred Foundry (unf) 285
-Rodolf Duskbringer (j22) 25
+Redemption Choir (lcc) 74
+Queen's Bay Paladin (lci) 115
 Preacher of the Schism (lci) 113
-Plains (snc) 262
+Plains (lci) 394
 Phyrexian Tower (jmp) 493
 Phyrexian Altar (inv) 306
 Patron of the Vein (lcc) 207
-Path to Exile (onc) 84
-Path of Ancestry (ltc) 322
+Path to Exile (lcc) 134
+Path of Ancestry (lcc) 346
 Pact of the Serpent (lcc) 206
 Olivia's Wrath (lcc) 205
-Nomad Outpost (dmc) 222
 Nighthawk Scavenger (lcc) 203
 New Blood (lcc) 202
-Mountain (j22) 107
-Mirkwood Bats (ltr) 95
+Mountain (lci) 400
+Metallic Mimic (lcc) 308
 Mavren Fein, Dusk Apostle (lcc) 133
 Master of Dark Rites (lcc) 83
 Marsh Flats (mm3) 239
 Markov Baron (mat) 14
+Mana Vault (2ed) 260
+Mana Crypt (2xm) 270
 Luxury Suite (zne) 18
-Legion Lieutenant (lcc) 275
 Kindred Dominance (cmm) 640
 Isolated Chapel (lcc) 337
 Indulgent Aristocrat (lcc) 200
 Immersturm Predator (khm) 214
-Idol of Oblivion (brc) 144
 Haunted Ridge (mid) 282
 Godless Shrine (unf) 282
 Florian, Voldaren Scion (mid) 223
@@ -69,15 +64,18 @@ Dusk Legion Duelist (mom) 11
 Drana, Liberator of Malakir (lcc) 193
 Drana and Linvala (pmom) 222p
 Dictate of Erebos (jou) 65
+Diabolic Intent (pls) 42
 Descendants' Fury (cmm) 736
+Demonic Tutor (3ed) 105
+Dark Ritual (3ed) 99
 Damn (lcc) 191
 Cruel Celebrant (lcc) 267
-Crossway Troublemakers (lcc) 190
 Cordial Vampire (lcc) 189
-Command Tower (afc) 230
+Conjurer's Mantle (moc) 12
+Command Tower (c19) 237
 Coat of Arms (exo) 131
 Clifftop Retreat (lcc) 324
-Clavileño, First of the Blessed (lcc) 27
+Clavileño, First of the Blessed (lcc) 2
 Charismatic Conqueror (lcc) 70
 Champion of Dusk (lcc) 188
 Caves of Koilos (md1) 14
@@ -89,12 +87,14 @@ Bloodghast (lcc) 184
 Blood Crypt (unf) 279
 Blood Artist (lcc) 182
 Black Market Connections (lcc) 181
+Beseech the Mirror (woe) 336
 Battlefield Forge (bro) 257
+Austere Command (lcc) 126
 Ashnod's Altar (5ed) 349
 Arid Mesa (mm3) 229
 Arcane Signet (lcc) 299
-Anowon, the Ruin Sage (voc) 118
 Anointed Procession (akh) 2
+Ancient Tomb (tmp) 315
 Akroma's Will (lcc) 125
 Agadeem's Awakening // Agadeem, the Undercrypt (znr) 90
 Edgar Markov (c17) 36

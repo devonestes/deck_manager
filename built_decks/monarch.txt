@@ -8,14 +8,13 @@ Sacred Foundry (PROXY)
 Rhystic Study (PROXY)
 Ragavan, Nimble Pilferer (PROXY)
 Professional Face-Breaker (PROXY)
-Otawara, Soaring City (PROXY)
 Imperial Recruiter (PROXY)
+Conjurer's Mantle (PROXY)
 Cavern of Souls (PROXY)
 Arid Mesa (PROXY)
 Ancient Tomb (PROXY)
 Weathered Wayfarer (ltc) 183
 Wayfarer's Bauble (brc) 171
-Vanquisher's Banner (lcc) 316
 Unbreakable Formation (ltc) 179
 Training Center (cmr) 713
 Tithe (vis) 23
@@ -24,26 +23,32 @@ Théoden, King of Rohan (ltr) 233
 Thalia's Lieutenant (soi) 43
 Teferi's Protection (c17) 8
 Taunt from the Rampart (ltc) 71
+Talisman of Progress (ltc) 286
+Talisman of Creativity (mh1) 231
+Talisman of Conviction (ltc) 285
 Swords to Plowshares (ltc) 178
 Stormcarved Coast (vow) 284
 Steam Vents (unf) 283
-Sol Ring (lcc) 313
-Shared Animosity (lcc) 231
+Sol Ring (moc) 381
+Shared Animosity (ltc) 226
 Secluded Courtyard (lcc) 350
 Sea of Clouds (bbd) 84
 Sea Gate Restoration // Sea Gate, Reborn (znr) 333
 Savage Beating (dst) 67
 Rugged Prairie (cmm) 1022
+Retribution of the Meek (vis) 19
+Recruiter of the Guard (cn2) 22
 Raugrin Triome (iko) 311
 Ranger-Captain of Eos (mh1) 21
-Pramikon, Sky Rampart (c19) 47
+Prince Imrahil the Fair (ltr) 219
 Port Razer (lcc) 230
-Plains (mid) 380
-Plains (j22) 98
-Plains (j22) 98
-Plains (j22) 98
+Plains (lci) 394
+Plains (lci) 394
+Plains (lci) 394
+Plains (lci) 393
 Path of Ancestry (lcc) 346
 Palace Jailer (ltc) 174
+Otawara, Soaring City (neo) 503
 Odric, Master Tactician (mic) 90
 Odric, Lunarch Marshal (mb1) 186
 Mystic Monastery (dmc) 221
@@ -51,13 +56,10 @@ Mystic Gate (cmm) 1013
 Mountain (j22) 107
 Minamo, School at Water's Edge (chk) 279
 Mass Appeal (avr) 66
-Kindred Discovery (clb) 81
 Kiki-Jiki, Mirror Breaker (chk) 175
 Keeper of Keys (cn2) 34
 Island (c19) 292
-Intuition (tmp) 70
 Horn of Gondor (ltr) 240
-Hero of Bladehold (moc) 188
 Hallowed Fountain (unf) 277
 Greymond, Avacyn's Stalwart (sld) 143
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (bot) 11
@@ -71,17 +73,15 @@ Faramir, Steward of Gondor (ltc) 54
 Faramir, Prince of Ithilien (ltr) 319
 Faerie Mastermind (pmom) 58p
 Esper Sentinel (mh2) 12
-Éowyn, Shieldmaiden (ltc) 1
 Éomer, King of Rohan (ltc) 52
 Elesh Norn, Grand Cenobite (nph) 9
 Deserted Beach (mid) 281
 Denethor, Stone Seer (ltc) 20
-Cyclonic Rift (rtr) 35
+Cyclonic Rift (2xm) 339
 Court of Vantress (woc) 22
 Court of Ire (ltc) 213
 Court of Grace (onc) 62
 Coppercoat Vanguard (mat) 1
-Conjurer's Mantle (moc) 12
 Command Tower (lcc) 325
 Combat Celebrant (ltc) 212
 Clifftop Retreat (ltc) 300

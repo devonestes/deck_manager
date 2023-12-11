@@ -42,7 +42,7 @@ Verduran Enchantress (4ed) 281
 The World Tree (khm) 373
 Temple Garden (sld) 127
 Sythis, Harvest's Hand (mh2) 214
-Swamp (brc) 33
+Swamp (lci) 397
 Sterling Grove (mh2) 293
 Spara's Headquarters (snc) 293
 Sol Ring (c19) 221
@@ -57,8 +57,8 @@ Sanctum of Fruitful Harvest (m21) 203
 Sanctum of Calm Waters (m21) 68
 Sanctum of All (m21) 225
 Replenish (uds) 15
-Reliquary Tower (brc) 196
-Plains (j22) 98
+Reliquary Tower (dmc) 227
+Plains (lci) 393
 Peacekeeper (wth) 22
 Nessian Wanderer (thb) 183
 Mountain (j22) 107
@@ -84,13 +84,13 @@ Ghostly Prison (onc) 71
 Forest (lci) 402
 Fertile Ground (c18) 147
 Extinguish All Hope (jou) 68
-Exotic Orchard (c19) 242
+Exotic Orchard (ltc) 307
 Enchantress's Presence (mh2) 283
 Eidolon of Blossoms (jou) 122
 Dryad of the Ilysian Grove (thb) 169
 Destiny Spinner (thb) 168
 Cultivate (lcc) 235
-Command Tower (ltc) 301
+Command Tower (moc) 396
 Calix, Destiny's Hand (thb) 211
 Cacophony Unleashed (cmm) 730
 Brushland (bro) 259

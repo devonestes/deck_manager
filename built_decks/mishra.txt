@@ -3,6 +3,7 @@ Watery Grave (PROXY)
 Vampiric Tutor (PROXY)
 Urza's Saga (PROXY)
 Training Center (PROXY)
+Talisman of Creativity (PROXY)
 Sunken Ruins (PROXY)
 Stormcarved Coast (PROXY)
 Steam Vents (PROXY)
@@ -17,7 +18,6 @@ Morphic Pool (PROXY)
 Mithril Coat (PROXY)
 Luxury Suite (PROXY)
 Liberator, Urza's Battlethopter (PROXY)
-Idol of Oblivion (PROXY)
 Haunted Ridge (PROXY)
 Fierce Guardianship (PROXY)
 Dockside Extortionist (PROXY)
@@ -41,9 +41,8 @@ The Belligerent (lci) 225
 Terisiare's Devastation (brc) 9
 Talisman of Indulgence (mrd) 255
 Talisman of Dominance (mrd) 253
-Talisman of Creativity (mh1) 231
 Swiftfoot Boots (lcc) 314
-Swamp (brc) 33
+Swamp (lci) 397
 Strionic Resonator (c19) 224
 Spire of Industry (brc) 203
 Solemn Simulacrum (brc) 161
@@ -66,7 +65,7 @@ Mindslaver (mrd) 206
 Metalworker (uds) 135
 Mana Drain (cmr) 80
 Machine God's Effigy (brc) 16
-Lightning Greaves (mrd) 199
+Lightning Greaves (ltc) 281
 Karn, Legacy Reforged (mat) 184
 Kappa Cannoneer (nec) 14
 Jhoira, Weatherlight Captain (brc) 126
@@ -74,6 +73,7 @@ Jhoira, Ageless Innovator (dmu) 301
 Island (3ed) 296
 Island (3ed) 296
 Island (3ed) 296
+Idol of Oblivion (brc) 144
 Ichor Wellspring (brc) 143
 Great Furnace (brc) 187
 Fabricate (mrd) 35

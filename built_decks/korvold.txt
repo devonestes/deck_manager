@@ -13,7 +13,6 @@ Phyrexian Tower (PROXY)
 Phyrexian Altar (PROXY)
 Overgrown Tomb (PROXY)
 Misty Rainforest (PROXY)
-Mirkwood Bats (PROXY)
 Marsh Flats (PROXY)
 Mana Vault (PROXY)
 Mana Crypt (PROXY)
@@ -23,6 +22,7 @@ Heroic Intervention (PROXY)
 Goldspan Dragon (PROXY)
 Dockside Extortionist (PROXY)
 Dictate of Erebos (PROXY)
+Diabolic Intent (PROXY)
 Demonic Tutor (PROXY)
 Deflecting Swat (PROXY)
 Boseiju, Who Endures (PROXY)
@@ -43,14 +43,14 @@ Tinder Wall (ice) 270
 Taiga (3ed) 287
 Swiftfoot Boots (lcc) 314
 Swamp (c19) 294
-Swamp (c19) 294
+Swamp (lci) 397
 Stomping Ground (unf) 280
 Spire Garden (zne) 19
 Sol Ring (lcc) 313
 Shallow Grave (mir) 141
 Scalding Tarn (mm3) 244
 Rhythm of the Wild (lcc) 287
-Reliquary Tower (dmc) 227
+Reliquary Tower (brc) 196
 Reassembling Skeleton (j22) 125
 Reanimate (tmp) 151
 Professional Face-Breaker (j22) 581
@@ -63,6 +63,7 @@ Old Gnawbone (afr) 197
 Necropotence (5ed) 182
 Necromancy (vis) 64
 Mountain (j22) 107
+Mirkwood Bats (ltr) 95
 Mayhem Devil (war) 204
 Lotus Petal (tmp) 294
 Liliana, Dreadhorde General (war) 97
@@ -71,11 +72,10 @@ Life from the Loam (rav) 172
 Juri, Master of the Revue (mul) 46
 Jeweled Lotus (cmr) 319
 Ignoble Hierarch (mh2) 166
-Forest (one) 266
+Forest (lci) 402
 Finale of Devastation (war) 160
 Field of the Dead (m20) 247
 Fabled Passage (eld) 244
-Diabolic Intent (pls) 42
 Delighted Halfling (ltr) 158
 Deathrite Shaman (rtr) 213
 Deadly Rollick (c20) 42

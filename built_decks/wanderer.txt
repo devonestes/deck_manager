@@ -42,7 +42,7 @@ Terror of the Peaks (m21) 369
 Sylvan Library (cc1) 5
 Sunbird's Invocation (scd) 159
 Sulfur Falls (ltc) 333
-Sol Ring (lcc) 313
+Sol Ring (ltc) 284
 Snow-Covered Mountain (ice) 379
 Snow-Covered Island (ice) 371
 Snow-Covered Forest (ice) 383
@@ -95,6 +95,6 @@ Beanstalk Giant // Fertile Footsteps (eld) 149
 Balefire Dragon (isd) 129
 Avenger of Zendikar (c13) 135
 Arixmethes, Slumbering Isle (mul) 32
-Arcane Signet (lcc) 299
+Arcane Signet (moc) 348
 Aesi, Tyrant of Gyre Strait (cmr) 365
 Maelstrom Wanderer (cmm) 684
