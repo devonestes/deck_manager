@@ -4,7 +4,7 @@ Zoetic Cavern (cmd) 298
 Zagoth Triome (iko) 313
 Yedora, Grave Gardener (mul) 30
 Yavimaya, Cradle of Growth (mh2) 441
-Yavimaya Coast (dmu) 261
+Yavimaya Coast (c19) 287
 Worldly Tutor (mir) 255
 Woodland Cemetery (ltc) 346
 Winding Canyons (wth) 167
@@ -71,8 +71,8 @@ Grim Haruspex (c19) 118
 Grazilaxx, Illithid Scholar (clb) 723
 Gift of Doom (c19) 17
 Ghastly Conscription (c19) 115
-Forest (lci) 402
-Forest (lci) 402
+Forest (one) 266
+Forest (one) 266
 Flooded Grove (ltc) 309
 Farseek (lcc) 242
 Elven Chorus (ltr) 160
@@ -81,10 +81,10 @@ Dreamroot Cascade (vow) 282
 Den Protector (c19) 161
 Deathmist Raptor (c19) 160
 Darkbore Pathway // Slitherbore Pathway (khm) 292
-Cyclonic Rift (rtr) 35
+Cyclonic Rift (2xm) 339
 Crystal Shard (mrd) 159
 Craterhoof Behemoth (avr) 172
-Command Tower (afc) 230
+Command Tower (lcc) 325
 Chromeshell Crab (c19) 81
 Brine Elemental (tsp) 50
 Breeding Pool (unf) 286

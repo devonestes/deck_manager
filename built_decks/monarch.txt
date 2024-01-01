@@ -2,7 +2,6 @@ Teferi, Mage of Zhalfir (PROXY)
 Swan Song (PROXY)
 Sundown Pass (PROXY)
 Spectator Seating (PROXY)
-Smothering Tithe (PROXY)
 Scalding Tarn (PROXY)
 Sacred Foundry (PROXY)
 Rhystic Study (PROXY)
@@ -19,7 +18,6 @@ Unbreakable Formation (ltc) 179
 Training Center (cmr) 713
 Tithe (vis) 23
 Throne of the High City (ltc) 339
-Théoden, King of Rohan (ltr) 233
 Thalia's Lieutenant (soi) 43
 Teferi's Protection (c17) 8
 Taunt from the Rampart (ltc) 71
@@ -29,9 +27,11 @@ Talisman of Conviction (ltc) 285
 Swords to Plowshares (ltc) 178
 Stormcarved Coast (vow) 284
 Steam Vents (unf) 283
-Sol Ring (moc) 381
+Sol Ring (lcc) 313
+Smothering Tithe (rna) 22
 Shared Animosity (ltc) 226
-Secluded Courtyard (lcc) 350
+Serra Ascendant (ima) 31
+Secluded Courtyard (ltc) 330
 Sea of Clouds (bbd) 84
 Sea Gate Restoration // Sea Gate, Reborn (znr) 333
 Savage Beating (dst) 67
@@ -46,7 +46,7 @@ Plains (lci) 394
 Plains (lci) 394
 Plains (lci) 394
 Plains (lci) 393
-Path of Ancestry (lcc) 346
+Path of Ancestry (ltc) 322
 Palace Jailer (ltc) 174
 Otawara, Soaring City (neo) 503
 Odric, Master Tactician (mic) 90
@@ -57,7 +57,6 @@ Mountain (j22) 107
 Minamo, School at Water's Edge (chk) 279
 Mass Appeal (avr) 66
 Kiki-Jiki, Mirror Breaker (chk) 175
-Keeper of Keys (cn2) 34
 Island (c19) 292
 Horn of Gondor (ltr) 240
 Hallowed Fountain (unf) 277
@@ -76,8 +75,7 @@ Esper Sentinel (mh2) 12
 Éomer, King of Rohan (ltc) 52
 Elesh Norn, Grand Cenobite (nph) 9
 Deserted Beach (mid) 281
-Denethor, Stone Seer (ltc) 20
-Cyclonic Rift (2xm) 339
+Cyclonic Rift (rtr) 35
 Court of Vantress (woc) 22
 Court of Ire (ltc) 213
 Court of Grace (onc) 62
@@ -86,11 +84,13 @@ Command Tower (lcc) 325
 Combat Celebrant (ltc) 212
 Clifftop Retreat (ltc) 300
 Champions of Minas Tirith (ltc) 10
+Cathars' Crusade (avr) 10
 Cascade Bluffs (cmm) 990
 Blade Historian (pstx) 165p
 Beregond of the Guard (ltc) 9
 Battlefield Forge (ltc) 296
 Azure Fleet Admiral (lcc) 144
+Aurelia, the Warleader (gtc) 143
 Archivist of Gondor (ltc) 18
 Arcane Signet (lcc) 299
 Angelic Field Marshal (cmm) 13

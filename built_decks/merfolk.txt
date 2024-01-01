@@ -15,7 +15,6 @@ Lightning Greaves (PROXY)
 Hinterland Harbor (PROXY)
 Heroic Intervention (PROXY)
 Guardian Project (PROXY)
-Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (PROXY)
 Flooded Grove (PROXY)
 Fierce Guardianship (PROXY)
 Fabled Passage (PROXY)
@@ -49,10 +48,10 @@ Secluded Courtyard (lcc) 350
 Seafloor Oracle (lcc) 170
 Rogue's Passage (lcc) 349
 Reliquary Tower (c19) 268
-Reflections of Littjara (lcc) 168
+Reflections of Littjara (clb) 733
 Realmwalker (lcc) 250
 Prime Speaker Zegana (lcc) 278
-Path of Ancestry (lcc) 346
+Path of Ancestry (brc) 192
 Nicanzil, Current Conductor (lci) 306
 Mist-Cloaked Herald (m19) 310
 Mist Dancer (lcc) 76
@@ -78,12 +77,13 @@ Island (lci) 396
 Inspiring Call (moc) 304
 Herald of Secret Streams (lcc) 158
 Hardened Scales (lcc) 243
+Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (xln) 191
 Glowcap Lantern (lci) 187
-Forest (lci) 402
-Forest (one) 266
-Forest (one) 266
-Forest (one) 271
-Forest (lci) 291
+Forest (ltr) 270
+Forest (ltr) 270
+Forest (ltr) 270
+Forest (ltr) 270
+Forest (j22) 112
 Force of Negation (mh1) 52
 Fallowsage (j22) 297
 Exploration (cns) 164
@@ -94,7 +94,7 @@ Deeproot Historian (lcc) 91
 Cold-Eyed Selkie (lcc) 266
 Branching Evolution (jmp) 29
 Bident of Thassa (lcc) 146
-Beast Within (lcc) 233
+Beast Within (onc) 104
 Alandra, Sky Dreamer (j22) 9
 Aetherize (lcc) 142
 Hakbal of the Surging Soul (lcc) 3

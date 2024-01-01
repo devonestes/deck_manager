@@ -1,5 +1,6 @@
 1 Korvold, Fae-Cursed King (ELD) 329
 1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+1 Ancient Brass Dragon (CLB) 367
 1 Ancient Copper Dragon (CLB) 161
 1 Ancient Tomb (TMP) 315
 1 Animate Dead (3ED) 93
@@ -78,9 +79,9 @@
 1 Skullclamp (DST) 140
 1 Sol Ring (MOC) 381
 1 Spire Garden (ZNE) 19
+1 Squandered Resources (VIS) 137
 1 Stomping Ground (UNF) 280
-2 Swamp (J22) 106
-1 Swiftfoot Boots (BRC) 166
+1 Swamp (J22) 106
 1 Taiga (3ED) 287
 1 The Meathook Massacre (MID) 112
 1 Tinder Wall (ICE) 270

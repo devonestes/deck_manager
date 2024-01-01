@@ -3,7 +3,6 @@ Vorinclex, Monstrous Raider (PROXY)
 Up the Beanstalk (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Training Center (PROXY)
-The Great Henge (PROXY)
 Temur Ascendancy (PROXY)
 Stormcarved Coast (PROXY)
 Stomping Ground (PROXY)
@@ -42,6 +41,7 @@ Unbound Flourishing (mh1) 189
 Tyvar's Stand (one) 190
 Tyrant Guard (40k) 103
 Twinning Staff (ncc) 383
+Thousand-Year Elixir (c13) 266
 The Ozolith (ltc) 351
 The Goose Mother (woe) 204
 The First Tyrannic War (40k) 121
@@ -71,6 +71,7 @@ Island (3ed) 296
 Invasion of Ikoria // Zilortha, Apex of Ikoria (mom) 190
 Inspiring Call (lcc) 244
 Incubation Druid (moc) 302
+Illusionist's Bracers (gtc) 231
 Hydroid Krasis (rna) 183
 Hormagaunt Horde (40k) 93
 Hinterland Harbor (ltc) 317
@@ -78,12 +79,11 @@ Hardened Scales (wot) 55
 Gyre Sage (moc) 300
 Frontier Bivouac (40k) 281
 Fractal Harness (c21) 61
-Forest (lci) 402
-Forest (lci) 402
-Forest (lci) 402
+Forest (ltr) 270
+Forest (ltr) 270
 Exocrine (40k) 76
 Elementalist's Palette (c21) 76
-Curse of the Swine (lcc) 150
+Crackle with Power (stx) 308
 Court of Garenbrig (woc) 25
 Command Tower (ltc) 301
 Clamavus (40k) 90

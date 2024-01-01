@@ -7,11 +7,13 @@
 1 Arcane Signet (LTC) 273
 1 Archivist of Gondor (LTC) 18
 1 Arid Mesa (MM3) 229
+1 Aurelia, the Warleader (GTC) 143
 1 Azure Fleet Admiral (CMR) 58
 1 Battlefield Forge (LTC) 296
 1 Beregond of the Guard (LTC) 9
 1 Blade Historian (PSTX) 165p
 1 Cascade Bluffs (CMM) 990
+1 Cathars' Crusade (AVR) 10
 1 Cavern of Souls (AVR) 226
 1 Champions of Minas Tirith (LTC) 10
 1 Clifftop Retreat (LTC) 300
@@ -23,7 +25,6 @@
 1 Court of Ire (LTC) 213
 1 Court of Vantress (WOC) 22
 1 Cyclonic Rift (RTR) 35
-1 Denethor, Stone Seer (LTC) 20
 1 Deserted Beach (MID) 281
 1 Elesh Norn, Grand Cenobite (NPH) 9
 1 Éomer, King of Rohan (LTC) 52
@@ -43,7 +44,6 @@
 1 Horn of Gondor (LTR) 240
 1 Imperial Recruiter (2XM) 131
 1 Island (LTR) 264
-1 Keeper of Keys (CN2) 34
 1 Kiki-Jiki, Mirror Breaker (CHK) 175
 1 Mass Appeal (AVR) 66
 1 Minamo, School at Water's Edge (CHK) 279
@@ -72,6 +72,7 @@
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Sea of Clouds (BBD) 84
 1 Secluded Courtyard (LTC) 330
+1 Serra Ascendant (IMA) 31
 1 Shared Animosity (LTC) 226
 1 Smothering Tithe (RNA) 22
 1 Sol Ring (LTC) 284
@@ -88,7 +89,6 @@
 1 Teferi, Mage of Zhalfir (IMA) 75
 1 Teferi's Protection (C17) 8
 1 Thalia's Lieutenant (SOI) 43
-1 Théoden, King of Rohan (LTR) 233
 1 Throne of the High City (LTC) 339
 1 Tithe (VIS) 23
 1 Training Center (CMR) 713

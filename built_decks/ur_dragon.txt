@@ -59,18 +59,18 @@ Thrakkus the Butcher (clb) 295
 The Kami War // O-Kagachi Made Manifest (neo) 227
 Temur Ascendancy (ktk) 207
 Temple of the Dragon Queen (afr) 260
-Swords to Plowshares (moc) 211
+Swords to Plowshares (lcc) 137
 Swamp (lci) 397
-Sol Ring (3ed) 274
+Sol Ring (brc) 160
 Scalelord Reckoner (c17) 6
 Savage Ventmaw (dtk) 231
 Sarkhan, Fireblood (m19) 154
 Rivaz of the Claw (dmu) 215
 Rith, Liberated Primeval (dmu) 214
-Return of the Wildspeaker (lcc) 252
+Return of the Wildspeaker (eld) 172
 Raise the Palisade (ltc) 23
 Plains (lci) 393
-Path of Ancestry (lcc) 346
+Path of Ancestry (clb) 907
 Orb of Dragonkind (afr) 157
 Mountain (j22) 107
 Morophon, the Boundless (cmm) 669
@@ -79,15 +79,15 @@ Lozhan, Dragons' Legacy (clb) 281
 Kura, the Boundless Sky (neo) 200
 Korlessa, Scale Singer (clb) 280
 Kokusho, the Evening Star (mma) 89
-Kindred Dominance (c17) 18
+Kindred Dominance (cmm) 640
 Kindred Discovery (clb) 81
 Karrthus, Tyrant of Jund (arb) 117
 Island (3ed) 296
-Herald's Horn (lcc) 304
+Herald's Horn (moc) 360
 Ganax, Astral Hunter (clb) 176
-Forest (lci) 402
-Fellwar Stone (brc) 141
-Exotic Orchard (ltc) 307
+Forest (ltr) 270
+Fellwar Stone (moc) 356
+Exotic Orchard (lcc) 329
 Dragonspeaker Shaman (j22) 525
 Dragonlord's Servant (ima) 126
 Dragonlord Dromoka (dtk) 217
@@ -95,6 +95,6 @@ Dragon's Hoard (clb) 858
 Cultivate (j22) 644
 Command Tower (ltc) 301
 Atarka, World Render (scd) 1
-Arcane Signet (ltc) 273
+Arcane Signet (brc) 132
 Ancient Silver Dragon (clb) 366
 The Ur-Dragon (c17) 48

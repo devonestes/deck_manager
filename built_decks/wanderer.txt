@@ -1,9 +1,7 @@
 Wurmcoil Engine (PROXY)
 Wooded Foothills (PROXY)
 Urza's Saga (PROXY)
-Up the Beanstalk (PROXY)
 Training Center (PROXY)
-Three Visits (PROXY)
 Temur Sabertooth (PROXY)
 Stormcarved Coast (PROXY)
 Stomping Ground (PROXY)
@@ -17,7 +15,6 @@ Prismatic Vista (PROXY)
 Otawara, Soaring City (PROXY)
 Old Gnawbone (PROXY)
 Misty Rainforest (PROXY)
-Kogla and Yidaro (PROXY)
 Goldspan Dragon (PROXY)
 Flooded Grove (PROXY)
 Fire-Lit Thicket (PROXY)
@@ -32,43 +29,48 @@ Cascade Bluffs (PROXY)
 Boseiju, Who Endures (PROXY)
 Ancient Tomb (PROXY)
 Ancient Copper Dragon (PROXY)
-Yavimaya Coast (c19) 287
+Yavimaya Coast (dmu) 261
 Vorinclex, Monstrous Raider (khm) 333
 Vorinclex // The Grand Evolution (mom) 213
 Vastwood Surge (znr) 217
 Uro, Titan of Nature's Wrath (thb) 229
+Up the Beanstalk (woe) 195
 Turntimber Symbiosis // Turntimber, Serpentine Wood (znr) 364
+Time Spiral (usg) 103
+Three Visits (ptk) 153
 Terror of the Peaks (m21) 369
 Sylvan Library (cc1) 5
 Sunbird's Invocation (scd) 159
+Sun Quan, Lord of Wu (cmm) 123
 Sulfur Falls (ltc) 333
 Sol Ring (ltc) 284
 Snow-Covered Mountain (ice) 379
 Snow-Covered Island (ice) 371
 Snow-Covered Forest (ice) 383
 Snow-Covered Forest (ice) 383
-Snow-Covered Forest (ice) 383
 Skyshroud Claim (cmm) 321
+Selvala's Stampede (cn2) 71
 Selvala, Heart of the Wilds (jmp) 429
 Scroll Rack (tmp) 308
 Scourge of the Throne (cns) 35
 Sarkhan's Unsealing (jmp) 361
 Sakura-Tribe Elder (chk) 239
 Riverglide Pathway // Lavaglide Pathway (znr) 289
-Rishkar's Expertise (lcc) 254
+Rishkar's Expertise (nec) 127
 Ranger's Path (m13) 186
 Rampant Growth (m12) 190
+Pathbreaker Ibex (sld) 307
 Orcish Lumberjack (ice) 210
 Oracle of Mul Daya (jmp) 415
-Ohran Frostfang (sld) 237
 Nyxbloom Ancient (thb) 190
 Mountain (j22) 107
 Mountain (j22) 107
 Misthollow Griffin (fmb1) 26
-Migration Path (lcc) 246
+Migration Path (iko) 164
 Koma, Cosmos Serpent (khm) 221
 Kogla, the Titan Ape (iko) 162
-Kodama's Reach (lcc) 245
+Kogla and Yidaro (mom) 244
+Kodama's Reach (clb) 826
 Klauth, Unrivaled Ancient (afc) 320
 Ketria Triome (iko) 310
 Island (c19) 292
@@ -79,22 +81,20 @@ Ilysian Caryatid (j22) 676
 Hullbreaker Horror (woc) 95
 Hinterland Harbor (lcc) 336
 Genesis Ultimatum (iko) 189
-Forest (lci) 402
-Forest (lci) 402
-Forest (lci) 402
+Forest (ltr) 270
+Forest (ltr) 270
+Forest (ltr) 270
 Food Chain (mmq) 246
-Etali, Primal Storm (lcc) 224
+Etali, Primal Storm (afc) 126
 Drakuseth, Maw of Flames (clb) 790
 Defense of the Heart (ulg) 100
 Cultivate (sta) 51
 Consecrated Sphinx (mbs) 21
-Command Tower (lcc) 325
+Command Tower (afc) 230
 Colossal Skyturtle (neo) 216
 Breeding Pool (unf) 286
 Beanstalk Giant // Fertile Footsteps (eld) 149
 Balefire Dragon (isd) 129
-Avenger of Zendikar (c13) 135
 Arixmethes, Slumbering Isle (mul) 32
-Arcane Signet (moc) 348
-Aesi, Tyrant of Gyre Strait (cmr) 365
+Arcane Signet (ltc) 273
 Maelstrom Wanderer (cmm) 684

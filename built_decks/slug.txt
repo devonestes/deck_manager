@@ -1,3 +1,4 @@
+Wheel of Fortune (PROXY)
 Urza's Saga (PROXY)
 Mana Vault (PROXY)
 Mana Crypt (PROXY)
@@ -6,12 +7,13 @@ Zo-Zu the Punisher (chk) 200
 Wurmcoil Engine (2xm) 308
 Wrenn's Resolve (mom) 173
 Wheel of Misfortune (cmr) 211
-Wheel of Fortune (3ed) 185
 War Room (who) 330
 Virtue of Courage // Embereth Blaze (woe) 157
 Valakut Exploration (znr) 303
+Valakut Awakening // Valakut Stoneforge (znr) 174
 Torbran, Thane of Red Fell (eld) 147
 Themberchaud (sld) 728
+Tarnished Citadel (ody) 329
 Sulfuric Vortex (dmr) 144
 Spear Spewer (j22) 82
 Solphim, Mayhem Dominus (one) 312
@@ -23,13 +25,16 @@ Shatterskull Smashing // Shatterskull, the Hammer Pass (znr) 354
 Shadowspear (thb) 345
 Seething Song (mrd) 104
 Ruby Medallion (cmm) 405
-Rogue's Passage (lcc) 349
+Rogue's Passage (ltc) 326
 Resurrection Orb (40k) 165
+Reckless Impulse (vow) 174
 Ragavan, Nimble Pilferer (mul) 21
 Pyrostatic Pillar (scg) 100
+Platinum Emperion (som) 193
 Orcish Cannoneers (ice) 205
 Orcish Artillery (3ed) 168
 Oliphaunt (ltr) 426
+Ojer Axonil, Deepest Might // Temple of Power (lci) 158
 Nykthos, Shrine to Nyx (ths) 223
 Mountain (lci) 400
 Mountain (lci) 400
@@ -39,18 +44,16 @@ Mountain (lci) 400
 Mountain (lci) 400
 Mountain (lci) 400
 Mountain (lci) 400
-Mountain (one) 270
-Mountain (mom) 280
-Mountain (ltr) 268
-Mountain (ltr) 268
-Mountain (ltr) 268
-Mountain (ltr) 268
-Mountain (ltr) 268
+Mountain (woe) 273
 Mountain (lci) 290
-Mountain (brc) 35
-Mountain (brc) 35
-Mountain (brc) 35
-Mountain (brc) 35
+Mountain (ltr) 268
+Mountain (ltr) 268
+Mountain (ltr) 268
+Mountain (ltr) 268
+Mountain (ltr) 268
+Mountain (mom) 288
+Mountain (mom) 280
+Mountain (one) 270
 Mountain (j22) 107
 Mountain (j22) 107
 Mountain (j22) 107
@@ -62,9 +65,8 @@ Meekstone (4ed) 335
 Mechanized Warfare (bro) 139
 March of Reckless Joy (neo) 386
 Manabarbs (4ed) 212
-Mana Geyser (plist) 984
 Loxodon Warhammer (mrd) 201
-Lightning Greaves (mrd) 199
+Lightning Greaves (ltc) 281
 Lightning Bolt (sta) 105
 Light Up the Stage (rna) 107
 Kediss, Emberclaw Familiar (cmr) 188
@@ -78,17 +80,15 @@ Flame Rift (mh2) 278
 Fireslinger (tmp) 173
 Fires of Mount Doom (ltr) 294
 Fiery Emancipation (m21) 366
-Faithless Looting (lcc) 225
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (neo) 141
 Earthquake (ltc) 214
 Dockside Extortionist (2x2) 360
 Disrupt Decorum (cmm) 1067
 Deflecting Swat (c20) 50
 Defiler of Instinct (dmu) 119
-Commune with Lava (c20) 149
 Commander's Plate (cmr) 692
 City of Brass (5ed) 413
-Chaos Warp (lcc) 221
+Chaos Warp (brc) 114
 Chandra's Ignition (lcc) 220
 Brash Taunter (m21) 133
 Blasphemous Act (brc) 113

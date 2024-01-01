@@ -16,7 +16,7 @@
 1 Clamavus (40K) 90
 1 Command Tower (MOC) 396
 1 Court of Garenbrig (WOC) 25
-1 Curse of the Swine (LCC) 150
+1 Crackle with Power (STX) 308
 1 Cyclonic Rift (RTR) 35
 1 Deflecting Swat (C20) 50
 1 Delighted Halfling (LTR) 158
@@ -27,7 +27,7 @@
 1 Fierce Guardianship (C20) 35
 1 Finale of Devastation (WAR) 160
 1 Flooded Grove (LTC) 309
-3 Forest (J22) 110
+2 Forest (J22) 110
 1 Fractal Harness (C21) 61
 1 Frontier Bivouac (40K) 281
 1 Gyre Sage (MOC) 300
@@ -36,6 +36,7 @@
 1 Hinterland Harbor (LTC) 317
 1 Hormagaunt Horde (40K) 93
 1 Hydroid Krasis (RNA) 183
+1 Illusionist's Bracers (GTC) 231
 1 Incubation Druid (MOC) 302
 1 Inspiring Call (MOC) 304
 1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190
@@ -79,8 +80,8 @@
 1 Tervigon (40K) 100
 1 The First Tyrannic War (40K) 121
 1 The Goose Mother (WOE) 204
-1 The Great Henge (LTC) 348
 1 The Ozolith (LTC) 351
+1 Thousand-Year Elixir (C13) 266
 1 Training Center (CMR) 713
 1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
 1 Twinning Staff (NCC) 383

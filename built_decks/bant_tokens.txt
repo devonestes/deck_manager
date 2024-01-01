@@ -22,7 +22,6 @@ Overgrown Farmland (PROXY)
 Otawara, Soaring City (PROXY)
 Ohran Frostfang (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
-Nadir Kraken (PROXY)
 Mystic Gate (PROXY)
 Misty Rainforest (PROXY)
 Koma, Cosmos Serpent (PROXY)
@@ -41,7 +40,6 @@ Flooded Grove (PROXY)
 Fierce Guardianship (PROXY)
 Farseek (PROXY)
 Faerie Mastermind (PROXY)
-Faerie Artisans (PROXY)
 Esper Sentinel (PROXY)
 Elven Chorus (PROXY)
 Dreamroot Cascade (PROXY)
@@ -71,6 +69,7 @@ Plains (lci) 393
 Overwhelming Stampede (c19) 175
 Noble Hierarch (2xm) 177
 Natural Order (vis) 114
+Nadir Kraken (ncc) 228
 Mystic Remora (ice) 87
 Mondrak, Glory Dominus (one) 23
 Master Biomancer (2x2) 250
@@ -83,10 +82,11 @@ Hornet Queen (ltc) 250
 Helm of the Host (dom) 217
 Galadhrim Ambush (ltc) 38
 Gala Greeters (snc) 450
-Forest (lci) 291
-Forest (ltr) 270
-Forest (ltr) 270
+Forest (j22) 112
+Forest (j22) 112
+Forest (j22) 112
 Felidar Retreat (cmm) 821
+Faerie Artisans (cmm) 92
 Elven Ambush (khm) 391
 Edric, Spymaster of Trest (cns) 187
 Earthcraft (tmp) 222

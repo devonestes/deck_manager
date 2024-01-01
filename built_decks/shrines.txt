@@ -40,12 +40,12 @@ Birds of Paradise (PROXY)
 Zur the Enchanter (dmr) 374
 Verduran Enchantress (4ed) 281
 The World Tree (khm) 373
-Temple Garden (sld) 127
+Temple Garden (unf) 281
 Sythis, Harvest's Hand (mh2) 214
 Swamp (lci) 397
 Sterling Grove (mh2) 293
 Spara's Headquarters (snc) 293
-Sol Ring (c19) 221
+Sol Ring (3ed) 274
 Sigil of the Empty Throne (j22) 244
 Shrine Steward (neo) 259
 Setessan Champion (cmm) 912
@@ -74,6 +74,7 @@ Honden of Life's Web (chk) 213
 Honden of Infinite Rage (chk) 172
 Honden of Cleansing Fire (chk) 14
 Hall of Heliod's Generosity (mh1) 241
+Greater Auramancy (wot) 64
 Go-Shintai of Shared Purpose (neo) 14
 Go-Shintai of Lost Wisdom (neo) 55
 Go-Shintai of Hidden Cruelty (neo) 97
@@ -81,17 +82,16 @@ Go-Shintai of Boundless Vigor (neo) 187
 Go-Shintai of Ancient Wars (neo) 144
 Ghoulish Impetus (cmm) 732
 Ghostly Prison (onc) 71
-Forest (lci) 402
+Forest (ltr) 270
 Fertile Ground (c18) 147
 Extinguish All Hope (jou) 68
-Exotic Orchard (ltc) 307
+Exotic Orchard (c19) 242
 Enchantress's Presence (mh2) 283
 Eidolon of Blossoms (jou) 122
 Dryad of the Ilysian Grove (thb) 169
 Destiny Spinner (thb) 168
 Cultivate (lcc) 235
 Command Tower (moc) 396
-Calix, Destiny's Hand (thb) 211
 Cacophony Unleashed (cmm) 730
 Brushland (bro) 259
 Bloom Tender (eve) 66

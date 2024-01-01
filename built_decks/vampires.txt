@@ -1,7 +1,9 @@
+Wheel of Fortune (3ed) 185
 Welcoming Vampire (lcc) 140
 Vraan, Executioner Thane (one) 114
 Volrath's Stronghold (sth) 143
 Voldaren Estate (lcc) 369
+Vito, Thorn of the Dusk Rose (m21) 127
 Viscera Seer (fmb1) 45
 Vault of Champions (cmr) 715
 Vampiric Tutor (vis) 72
@@ -12,43 +14,39 @@ Twilight Prophet (rix) 88
 The Meathook Massacre (mid) 112
 Teferi's Protection (c17) 8
 Takenuma, Abandoned Mire (neo) 416
-Swords to Plowshares (lcc) 137
+Swords to Plowshares (moc) 211
 Swamp (afr) 273
 Sundown Pass (who) 310
 Sulfurous Springs (5ed) 424
 Stromkirk Captain (voc) 157
 Spectator Seating (cmr) 711
 Sorin, Imperious Bloodlord (m20) 115
-Sol Ring (lcc) 313
-Smothering Tithe (rna) 22
+Sol Ring (c19) 221
 Skullclamp (dst) 140
 Shattered Sanctum (vow) 283
 Savai Triome (iko) 312
 Sanguine Bond (ltc) 208
 Sacred Foundry (unf) 285
+Roaming Throne (lci) 344
 Redemption Choir (lcc) 74
-Queen's Bay Paladin (lci) 115
 Preacher of the Schism (lci) 113
 Plains (lci) 394
 Phyrexian Tower (jmp) 493
 Phyrexian Altar (inv) 306
-Patron of the Vein (lcc) 207
-Path to Exile (lcc) 134
-Path of Ancestry (lcc) 346
+Patriarch's Bidding (mh2) 275
+Path of Ancestry (moc) 418
 Pact of the Serpent (lcc) 206
 Olivia's Wrath (lcc) 205
 Nighthawk Scavenger (lcc) 203
 New Blood (lcc) 202
 Mountain (lci) 400
-Metallic Mimic (lcc) 308
-Mavren Fein, Dusk Apostle (lcc) 133
 Master of Dark Rites (lcc) 83
 Marsh Flats (mm3) 239
 Markov Baron (mat) 14
 Mana Vault (2ed) 260
 Mana Crypt (2xm) 270
 Luxury Suite (zne) 18
-Kindred Dominance (cmm) 640
+Kindred Dominance (c17) 18
 Isolated Chapel (lcc) 337
 Indulgent Aristocrat (lcc) 200
 Immersturm Predator (khm) 214
@@ -56,7 +54,7 @@ Haunted Ridge (mid) 282
 Godless Shrine (unf) 282
 Florian, Voldaren Scion (mid) 223
 Fetid Heath (ncc) 401
-Exquisite Blood (lcc) 195
+Exquisite Blood (avr) 102
 Enlightened Tutor (mir) 14
 Elenda, the Dusk Rose (rix) 157
 Edgar, Charmed Groom // Edgar Markov's Coffin (dbl) 503
@@ -80,20 +78,22 @@ Charismatic Conqueror (lcc) 70
 Champion of Dusk (lcc) 188
 Caves of Koilos (md1) 14
 Cavern of Souls (avr) 226
+Captivating Vampire (m11) 87
 Bojuka Bog (c19) 232
 Bloodstained Mire (ktk) 230
 Bloodline Keeper // Lord of Lineage (isd) 90
+Bloodletter of Aclazotz (lci) 336
 Bloodghast (lcc) 184
+Bloodchief Ascension (cmm) 636
 Blood Crypt (unf) 279
-Blood Artist (lcc) 182
-Black Market Connections (lcc) 181
+Black Market Connections (clb) 620
 Beseech the Mirror (woe) 336
 Battlefield Forge (bro) 257
 Austere Command (lcc) 126
 Ashnod's Altar (5ed) 349
 Arid Mesa (mm3) 229
 Arcane Signet (lcc) 299
-Anointed Procession (akh) 2
+Anguished Unmaking (sld) 138
 Ancient Tomb (tmp) 315
 Akroma's Will (lcc) 125
 Agadeem's Awakening // Agadeem, the Undercrypt (znr) 90

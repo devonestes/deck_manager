@@ -9,6 +9,7 @@
 1 Avenger of Zendikar (C13) 135
 1 Awaken the Woods (BRO) 344
 1 Azusa, Lost but Seeking (A25) 161
+1 Blossoming Tortoise (WOE) 163
 1 Breeding Pool (UNF) 286
 1 Brokers Hideout (SNC) 248
 1 Command Tower (MOC) 396
@@ -17,13 +18,11 @@
 1 Craterhoof Behemoth (AVR) 172
 1 Crop Rotation (DMR) 154
 1 Crucible of Worlds (10E) 319
-1 Cultivate (J22) 644
 1 Cultivator Colossus (VOW) 195
 1 Cyclonic Rift (RTR) 35
 1 Delighted Halfling (LTR) 158
 1 Dryad of the Ilysian Grove (THB) 169
 1 Elven Chorus (LTR) 160
-1 Emerald Medallion (CMM) 379
 1 Entish Restoration (LTR) 163
 1 Fabled Passage (ELD) 244
 1 Field of the Dead (M20) 247
@@ -56,6 +55,7 @@
 1 Oboro, Palace in the Clouds (LTC) 371
 1 Oracle of Mul Daya (JMP) 415
 1 Otawara, Soaring City (NEO) 503
+1 Overburden (PCY) 39
 1 Palinchron (ULG) 38
 1 Prismatic Vista (MH1) 244
 1 Rampaging Baloths (C19) 176

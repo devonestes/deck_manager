@@ -13,7 +13,10 @@ defmodule DeckManager do
     "x_spells",
     "merfolk",
     "bant_tokens",
-    "aesi"
+    "aesi",
+    "meria",
+    "eldrazi",
+    "slivers"
     #"miirym",
     #"knights",
     #"thrun",

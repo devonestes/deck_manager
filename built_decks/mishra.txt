@@ -46,7 +46,7 @@ Swamp (lci) 397
 Strionic Resonator (c19) 224
 Spire of Industry (brc) 203
 Solemn Simulacrum (brc) 161
-Sol Ring (brc) 160
+Sol Ring (ltc) 284
 Silverbluff Bridge (brc) 200
 Sensei's Divining Top (2x2) 398
 Seat of the Synod (brc) 198
@@ -65,7 +65,7 @@ Mindslaver (mrd) 206
 Metalworker (uds) 135
 Mana Drain (cmr) 80
 Machine God's Effigy (brc) 16
-Lightning Greaves (ltc) 281
+Lightning Greaves (mrd) 199
 Karn, Legacy Reforged (mat) 184
 Kappa Cannoneer (nec) 14
 Jhoira, Weatherlight Captain (brc) 126
@@ -77,7 +77,6 @@ Idol of Oblivion (brc) 144
 Ichor Wellspring (brc) 143
 Great Furnace (brc) 187
 Fabricate (mrd) 35
-Expressive Iteration (brc) 125
 Etherium Sculptor (ala) 42
 Emry, Lurker of the Loch (brc) 81
 Drossforge Bridge (brc) 183
@@ -88,13 +87,14 @@ Cursed Mirror (brc) 115
 Commander's Sphere (c21) 239
 Command Tower (brc) 178
 Coldsteel Heart (2x2) 301
-Chaos Warp (brc) 114
+Chimil, the Inner Sun (lci) 249
+Chaos Warp (lcc) 221
 Brudiclad, Telchor Engineer (brc) 122
 Blightsteel Colossus (mbs) 99
 Blasphemous Act (lcc) 216
 Basalt Monolith (3ed) 235
 Badlands (3ed) 282
 Arcum Dagsson (csp) 27
-Arcane Signet (ltc) 273
+Arcane Signet (moc) 348
 Academy Ruins (mma) 219
 Mishra, Eminent One (brc) 1

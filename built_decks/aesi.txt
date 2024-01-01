@@ -73,7 +73,7 @@ Mystic Sanctuary (eld) 247
 Mana Breach (exo) 38
 Lotus Vale (wth) 165
 Llanowar Scout (dom) 170
-Kodama's Reach (clb) 826
+Kodama's Reach (lcc) 245
 Jungle Basin (vis) 164
 Island (lci) 396
 Island (lci) 396
@@ -82,10 +82,10 @@ Halimar Depths (c18) 253
 Growth Spiral (cmr) 446
 Green Sun's Twilight (one) 169
 Great Whale (usg) 77
-Forest (ltr) 270
-Forest (ltr) 270
-Forest (ltr) 270
-Forest (ltr) 270
+Forest (j22) 112
+Forest (j22) 112
+Forest (j22) 112
+Forest (j22) 112
 Emerald Medallion (cmm) 379
 Cultivator Colossus (vow) 195
 Cultivate (ltc) 236

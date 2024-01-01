@@ -7,7 +7,6 @@
 1 Breeding Pool (UNF) 286
 1 Brushland (BRO) 259
 1 Cacophony Unleashed (CMM) 730
-1 Calix, Destiny's Hand (THB) 211
 1 City of Brass (5ED) 413
 1 Command Tower (MOC) 396
 1 Crop Rotation (DMR) 154
@@ -32,6 +31,7 @@
 1 Go-Shintai of Hidden Cruelty (NEO) 97
 1 Go-Shintai of Lost Wisdom (NEO) 55
 1 Go-Shintai of Shared Purpose (NEO) 14
+1 Greater Auramancy (WOT) 64
 1 Hall of Heliod's Generosity (MH1) 241
 1 Hallowed Fountain (UNF) 277
 1 Heroic Intervention (LTC) 249

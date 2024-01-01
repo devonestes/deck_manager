@@ -11,14 +11,12 @@
 1 Chaos Warp (BRC) 114
 1 City of Brass (5ED) 413
 1 Commander's Plate (CMR) 692
-1 Commune with Lava (C20) 149
 1 Defiler of Instinct (DMU) 119
 1 Deflecting Swat (C20) 50
 1 Disrupt Decorum (CMM) 1067 *F*
 1 Dockside Extortionist (2X2) 360
 1 Earthquake (4ED) 189
 1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
-1 Faithless Looting (BRC) 116
 1 Fiery Emancipation (M21) 366
 1 Fires of Mount Doom (LTR) 294
 1 Fireslinger (J22) 130
@@ -35,20 +33,22 @@
 1 Lightning Greaves (LTC) 281
 1 Loxodon Warhammer (MRD) 201
 1 Mana Crypt (2XM) 270
-1 Mana Geyser (PLIST) 984
 1 Mana Vault (2ED) 260
 1 Manabarbs (4ED) 212
 1 March of Reckless Joy (NEO) 386
 1 Mechanized Warfare (BRO) 139
 1 Meekstone (4ED) 335
 1 Mithril Coat (LTR) 379
-26 Mountain (J22) 107
+24 Mountain (J22) 107
 1 Nykthos, Shrine to Nyx (THS) 223
+1 Ojer Axonil, Deepest Might // Temple of Power (LCI) 158
 1 Oliphaunt (LTR) 426
 1 Orcish Artillery (4ED) 214
 1 Orcish Cannoneers (ICE) 205
+1 Platinum Emperion (SOM) 193
 1 Pyrostatic Pillar (SCG) 100
 1 Ragavan, Nimble Pilferer (MUL) 21
+1 Reckless Impulse (VOW) 174
 1 Resurrection Orb (40K) 165
 1 Rogue's Passage (LTC) 326
 1 Ruby Medallion (CMM) 405
@@ -62,9 +62,11 @@
 1 Solphim, Mayhem Dominus (ONE) 312
 1 Spear Spewer (J22) 82
 1 Sulfuric Vortex (DMR) 144
+1 Tarnished Citadel (ODY) 329
 1 Themberchaud (SLD) 728
 1 Torbran, Thane of Red Fell (ELD) 147
 1 Urza's Saga (MH2) 259
+1 Valakut Awakening // Valakut Stoneforge (ZNR) 174
 1 Valakut Exploration (ZNR) 303
 1 Virtue of Courage // Embereth Blaze (WOE) 157
 1 War Room (WHO) 330
