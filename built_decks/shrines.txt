@@ -1,6 +1,5 @@
 Ziatora's Proving Ground (PROXY)
 Zagoth Triome (PROXY)
-Yavimaya Coast (PROXY)
 Wooded Foothills (PROXY)
 Wooded Bastion (PROXY)
 Windswept Heath (PROXY)
@@ -26,7 +25,6 @@ Mirari's Wake (PROXY)
 Ketria Triome (PROXY)
 Jetmir's Garden (PROXY)
 Heroic Intervention (PROXY)
-Hallowed Fountain (PROXY)
 Fierce Guardianship (PROXY)
 Enlightened Tutor (PROXY)
 Demonic Tutor (PROXY)
@@ -45,7 +43,7 @@ Sythis, Harvest's Hand (mh2) 214
 Swamp (lci) 397
 Sterling Grove (mh2) 293
 Spara's Headquarters (snc) 293
-Sol Ring (3ed) 274
+Sol Ring (brc) 160
 Sigil of the Empty Throne (j22) 244
 Shrine Steward (neo) 259
 Setessan Champion (cmm) 912
@@ -57,7 +55,7 @@ Sanctum of Fruitful Harvest (m21) 203
 Sanctum of Calm Waters (m21) 68
 Sanctum of All (m21) 225
 Replenish (uds) 15
-Reliquary Tower (dmc) 227
+Reliquary Tower (lcc) 348
 Plains (lci) 393
 Peacekeeper (wth) 22
 Nessian Wanderer (thb) 183
@@ -73,6 +71,7 @@ Honden of Night's Reach (chk) 116
 Honden of Life's Web (chk) 213
 Honden of Infinite Rage (chk) 172
 Honden of Cleansing Fire (chk) 14
+Hallowed Fountain (unf) 277
 Hall of Heliod's Generosity (mh1) 241
 Greater Auramancy (wot) 64
 Go-Shintai of Shared Purpose (neo) 14
@@ -83,6 +82,7 @@ Go-Shintai of Ancient Wars (neo) 144
 Ghoulish Impetus (cmm) 732
 Ghostly Prison (onc) 71
 Forest (ltr) 270
+Forbidden Orchard (c16) 296
 Fertile Ground (c18) 147
 Extinguish All Hope (jou) 68
 Exotic Orchard (c19) 242
@@ -91,7 +91,7 @@ Eidolon of Blossoms (jou) 122
 Dryad of the Ilysian Grove (thb) 169
 Destiny Spinner (thb) 168
 Cultivate (lcc) 235
-Command Tower (moc) 396
+Command Tower (afc) 230
 Cacophony Unleashed (cmm) 730
 Brushland (bro) 259
 Bloom Tender (eve) 66

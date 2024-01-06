@@ -11,7 +11,6 @@
 1 Azusa, Lost but Seeking (A25) 161
 1 Blossoming Tortoise (WOE) 163
 1 Breeding Pool (UNF) 286
-1 Brokers Hideout (SNC) 248
 1 Command Tower (MOC) 396
 1 Conduit of Worlds (ONE) 163
 1 Coral Atoll (VIS) 160
@@ -30,8 +29,8 @@
 1 Finale of Devastation (WAR) 160
 1 Flooded Grove (LTC) 309
 4 Forest (J22) 110
-1 Great Whale (USG) 77
 1 Green Sun's Twilight (ONE) 169
+1 Greensleeves, Maro-Sorcerer (DMC) 77
 1 Growth Spiral (CMR) 446
 1 Halimar Depths (C18) 253
 1 Heroic Intervention (LTC) 249
@@ -89,6 +88,7 @@
 1 Vorinclex // The Grand Evolution (MOM) 213
 1 Vorinclex, Monstrous Raider (KHM) 333
 1 Vorinclex, Voice of Hunger (IMA) 189
+1 Waterlogged Grove (MH1) 249
 1 Wayward Swordtooth (LCC) 263
 1 Winding Canyons (WTH) 167
 1 Wooded Foothills (KTK) 249

@@ -14,7 +14,7 @@ Twilight Prophet (rix) 88
 The Meathook Massacre (mid) 112
 Teferi's Protection (c17) 8
 Takenuma, Abandoned Mire (neo) 416
-Swords to Plowshares (moc) 211
+Swords to Plowshares (4ed) 52
 Swamp (afr) 273
 Sundown Pass (who) 310
 Sulfurous Springs (5ed) 424
@@ -29,17 +29,17 @@ Sanguine Bond (ltc) 208
 Sacred Foundry (unf) 285
 Roaming Throne (lci) 344
 Redemption Choir (lcc) 74
+Queen's Bay Paladin (lci) 115
 Preacher of the Schism (lci) 113
 Plains (lci) 394
 Phyrexian Tower (jmp) 493
 Phyrexian Altar (inv) 306
-Patriarch's Bidding (mh2) 275
 Path of Ancestry (moc) 418
 Pact of the Serpent (lcc) 206
 Olivia's Wrath (lcc) 205
 Nighthawk Scavenger (lcc) 203
 New Blood (lcc) 202
-Mountain (lci) 400
+Mountain (lci) 290
 Master of Dark Rites (lcc) 83
 Marsh Flats (mm3) 239
 Markov Baron (mat) 14
@@ -92,7 +92,7 @@ Battlefield Forge (bro) 257
 Austere Command (lcc) 126
 Ashnod's Altar (5ed) 349
 Arid Mesa (mm3) 229
-Arcane Signet (lcc) 299
+Arcane Signet (ltc) 273
 Anguished Unmaking (sld) 138
 Ancient Tomb (tmp) 315
 Akroma's Will (lcc) 125

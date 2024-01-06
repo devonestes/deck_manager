@@ -62,11 +62,11 @@
 1 Olivia's Wrath (LCC) 205
 1 Pact of the Serpent (LCC) 206
 1 Path of Ancestry (MOC) 418
-1 Patriarch's Bidding (MH2) 275
 1 Phyrexian Altar (INV) 306
 1 Phyrexian Tower (JMP) 493
 1 Plains (J22) 98
 1 Preacher of the Schism (LCI) 113
+1 Queen's Bay Paladin (LCI) 115
 1 Redemption Choir (LCC) 74
 1 Roaming Throne (LCI) 344
 1 Sacred Foundry (UNF) 285

@@ -12,6 +12,7 @@
 1 Cascade Bluffs (CMM) 990
 1 Chaos Warp (BRC) 114
 1 Chimil, the Inner Sun (LCI) 249
+1 Cityscape Leveler (BRO) 363
 1 Coldsteel Heart (2X2) 301 *F*
 1 Command Tower (BRC) 178
 1 Commander's Sphere (MOC) 352
@@ -31,7 +32,7 @@
 1 Haunted Ridge (MID) 282
 1 Ichor Wellspring (BRC) 143
 1 Idol of Oblivion (BRC) 144
-3 Island (MOM) 278
+2 Island (MOM) 278
 1 Jhoira, Ageless Innovator (DMU) 301
 1 Jhoira, Weatherlight Captain (BRC) 126
 1 Kappa Cannoneer (NEC) 14
@@ -77,7 +78,6 @@
 1 Talisman of Creativity (MH1) 231
 1 Talisman of Dominance (MRD) 253
 1 Talisman of Indulgence (MRD) 255
-1 Terisiare's Devastation (BRC) 9
 1 The Belligerent (LCI) 225
 1 The Master, Multiplied (WHO) 146
 1 The One Ring (LTR) 451
@@ -85,6 +85,7 @@
 1 The Stasis Coffin (BRO) 245 *F*
 1 Thoughtcast (BRC) 99
 1 Training Center (CMR) 713
+1 Troll of Khazad-dûm (LTR) 111
 1 Unwinding Clock (NPH) 164
 1 Urza, Lord High Artificer (CMM) 674
 1 Urza's Saga (MH2) 259

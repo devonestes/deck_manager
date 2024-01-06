@@ -23,6 +23,7 @@
 1 Extinguish All Hope (JOU) 68
 1 Fertile Ground (AFC) 158
 1 Fierce Guardianship (C20) 35
+1 Forbidden Orchard (C16) 296
 1 Forest (ONE) 266
 1 Ghostly Prison (ONC) 71
 1 Ghoulish Impetus (CMM) 732
@@ -94,7 +95,6 @@
 1 Windswept Heath (EXP) 20 *F*
 1 Wooded Bastion (SHM) 281
 1 Wooded Foothills (KTK) 249
-1 Yavimaya Coast (DMU) 261 *F*
 1 Zagoth Triome (IKO) 313
 1 Ziatora's Proving Ground (SNC) 295
 1 Zur the Enchanter (DMR) 374

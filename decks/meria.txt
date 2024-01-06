@@ -3,6 +3,7 @@
 1 Basilisk Collar (CLB) 300
 1 Beamtown Beatstick (MOM) 131
 1 Beast Within (ONC) 104
+1 Berserk (CN2) 175
 1 Bitterthorn, Nissa's Animus (MOC) 45
 1 Blackblade Reforged (DMC) 178
 1 Blightsteel Colossus (MBS) 99
@@ -41,7 +42,6 @@
 1 Inventors' Fair (KLD) 247
 1 Jeska's Will (CMR) 668
 1 Kessig Wolf Run (LCC) 340
-1 Kodama of the West Tree (NEO) 392
 1 Kozilek, Butcher of Truth (ROE) 6
 1 Lightning Greaves (LTC) 281
 1 Lothlórien Blade (LTC) 77

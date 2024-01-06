@@ -8,6 +8,7 @@
 1 Basalt Monolith (3ED) 235
 1 Blightsteel Colossus (MBS) 99
 1 Bonders' Enclave (CMM) 988
+1 Bottled Cloister (RVR) 389
 1 Breaker of Armies (BFZ) 3
 1 Buried Ruin (BRC) 177
 1 Burnished Hart (CLB) 303
@@ -67,7 +68,6 @@
 1 Swiftfoot Boots (BRC) 166
 1 Temple of the False God (MOC) 437
 1 The Irencrag (WOE) 248
-1 The One Ring (LTR) 451
 1 Thought Vessel (PLG22) 2 *F*
 1 Thran Dynamo (BRC) 168
 1 Titan's Presence (J22) 749

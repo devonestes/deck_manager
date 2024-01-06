@@ -9,6 +9,7 @@ Spire Garden (PROXY)
 Spectator Seating (PROXY)
 Scalding Tarn (PROXY)
 Sacred Foundry (PROXY)
+Roaming Throne (PROXY)
 Rhythm of the Wild (PROXY)
 Nature's Lore (PROXY)
 Misty Rainforest (PROXY)
@@ -46,11 +47,10 @@ Temple Garden (sld) 127
 Temple Altisaur (lcc) 138
 Sunhome, Fortress of the Legion (cmr) 496
 Sunfrill Imitator (lcc) 94
-Sol Ring (moc) 381
+Sol Ring (lcc) 313
 Secluded Courtyard (lcc) 350
 Scion of Calamity (lcc) 93
 Rockfall Vale (mid) 266
-Roaming Throne (lci) 344
 Ripjaw Raptor (lcc) 253
 Return of the Wildspeaker (lcc) 252
 Regisaur Alpha (lcc) 286
@@ -96,5 +96,5 @@ Command Tower (lcc) 325
 Carnage Tyrant (xln) 179
 Bountiful Promenade (zne) 20
 Bonehoard Dracosaur (lci) 321
-Arcane Signet (ltc) 273
+Arcane Signet (lcc) 299
 Gishath, Sun's Avatar (lci) 229

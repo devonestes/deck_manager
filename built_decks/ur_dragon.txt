@@ -15,12 +15,11 @@ Spara's Headquarters (PROXY)
 Scourge of the Throne (PROXY)
 Scalding Tarn (PROXY)
 Sacred Foundry (PROXY)
-Portal to Phyrexia (PROXY)
+Roaming Throne (PROXY)
 Polluted Delta (PROXY)
 Overgrown Tomb (PROXY)
 Old Gnawbone (PROXY)
 Nature's Lore (PROXY)
-Mithril Coat (PROXY)
 Misty Rainforest (PROXY)
 Marsh Flats (PROXY)
 Mana Vault (PROXY)
@@ -34,15 +33,16 @@ Hallowed Fountain (PROXY)
 Guardian Project (PROXY)
 Goldspan Dragon (PROXY)
 Godless Shrine (PROXY)
+Forbidden Orchard (PROXY)
 Flooded Strand (PROXY)
 Farseek (PROXY)
-Elven Chorus (PROXY)
 Dockside Extortionist (PROXY)
 Delighted Halfling (PROXY)
 Cyclonic Rift (PROXY)
 City of Brass (PROXY)
 Cavern of Souls (PROXY)
 Breeding Pool (PROXY)
+Bonehoard Dracosaur (PROXY)
 Bloom Tender (PROXY)
 Bloodstained Mire (PROXY)
 Blood Crypt (PROXY)
@@ -52,16 +52,15 @@ Balefire Dragon (PROXY)
 Badlands (PROXY)
 Ancient Tomb (PROXY)
 Ancient Copper Dragon (PROXY)
+Zurgo and Ojutai (pmom) 258p
 Utvara Hellkite (c17) 144
-Tyrant's Familiar (scd) 165
 Tiamat (afr) 298
-Thrakkus the Butcher (clb) 295
 The Kami War // O-Kagachi Made Manifest (neo) 227
 Temur Ascendancy (ktk) 207
 Temple of the Dragon Queen (afr) 260
-Swords to Plowshares (lcc) 137
+Swords to Plowshares (ice) 54
 Swamp (lci) 397
-Sol Ring (brc) 160
+Sol Ring (3ed) 274
 Scalelord Reckoner (c17) 6
 Savage Ventmaw (dtk) 231
 Sarkhan, Fireblood (m19) 154
@@ -72,19 +71,19 @@ Raise the Palisade (ltc) 23
 Plains (lci) 393
 Path of Ancestry (clb) 907
 Orb of Dragonkind (afr) 157
+Omniscience (wot) 70
 Mountain (j22) 107
 Morophon, the Boundless (cmm) 669
 Miirym, Sentinel Wyrm (clb) 284
-Lozhan, Dragons' Legacy (clb) 281
 Kura, the Boundless Sky (neo) 200
-Korlessa, Scale Singer (clb) 280
 Kokusho, the Evening Star (mma) 89
 Kindred Dominance (cmm) 640
 Kindred Discovery (clb) 81
 Karrthus, Tyrant of Jund (arb) 117
 Island (3ed) 296
-Herald's Horn (moc) 360
-Ganax, Astral Hunter (clb) 176
+Herald's Horn (lcc) 304
+Hellkite Tyrant (c16) 128
+Hellkite Courser (cmr) 183
 Forest (ltr) 270
 Fellwar Stone (moc) 356
 Exotic Orchard (lcc) 329
@@ -92,8 +91,9 @@ Dragonspeaker Shaman (j22) 525
 Dragonlord's Servant (ima) 126
 Dragonlord Dromoka (dtk) 217
 Dragon's Hoard (clb) 858
-Cultivate (j22) 644
-Command Tower (ltc) 301
+Dragon Tempest (dtk) 136
+Command Tower (brc) 178
+Cavern-Hoard Dragon (ltc) 114
 Atarka, World Render (scd) 1
 Arcane Signet (brc) 132
 Ancient Silver Dragon (clb) 366

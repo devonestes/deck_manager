@@ -43,12 +43,12 @@ Secret Plans (c19) 201
 Scroll of Fate (c19) 58
 Sakura-Tribe Elder (c19) 177
 Rhystic Study (j22) 114
-Reliquary Tower (lcc) 348
+Reliquary Tower (brc) 196
 Rejuvenating Springs (ltc) 325
 Polluted Delta (ktk) 239
 Overwhelming Stampede (ltc) 254
 Overgrown Tomb (unf) 284
-Otawara, Soaring City (neo) 271
+Otawara, Soaring City (neo) 503
 Opulent Palace (dmc) 223
 Nature's Lore (dmr) 170
 Nantuko Vigilante (c19) 174
@@ -71,7 +71,7 @@ Grim Haruspex (c19) 118
 Grazilaxx, Illithid Scholar (clb) 723
 Gift of Doom (c19) 17
 Ghastly Conscription (c19) 115
-Forest (one) 266
+Forest (one) 271
 Forest (one) 266
 Flooded Grove (ltc) 309
 Farseek (lcc) 242

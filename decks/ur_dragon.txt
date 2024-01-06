@@ -17,7 +17,6 @@
 1 Cavern-Hoard Dragon (LTC) 114
 1 City of Brass (5ED) 413
 1 Command Tower (MOC) 396
-1 Cultivate (J22) 644
 1 Cyclonic Rift (RTR) 35
 1 Delighted Halfling (LTR) 158
 1 Dockside Extortionist (2X2) 360
@@ -30,6 +29,7 @@
 1 Farseek (C19) 165
 1 Fellwar Stone (MOC) 356
 1 Flooded Strand (KTK) 233
+1 Forbidden Orchard (C16) 296
 1 Forest (ONE) 266
 1 Godless Shrine (UNF) 282
 1 Goldspan Dragon (J22) 550

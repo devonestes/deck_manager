@@ -14,9 +14,9 @@ defmodule DeckManager do
     "merfolk",
     "bant_tokens",
     "aesi",
-    "meria",
     "eldrazi",
-    "slivers"
+    "slivers",
+    "meria"
     #"miirym",
     #"knights",
     #"thrun",

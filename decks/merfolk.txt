@@ -9,6 +9,7 @@
 1 Boseiju, Who Endures (NEO) 501
 1 Branching Evolution (LCC) 234
 1 Breeding Pool (UNF) 286
+1 Burgeoning (STH) 102
 1 Cavern of Souls (AVR) 226
 1 Coat of Arms (EXO) 131
 1 Cold-Eyed Selkie (LCC) 266
@@ -56,7 +57,6 @@
 1 Prime Speaker Zegana (LCC) 278
 1 Raise the Palisade (LTC) 23
 1 Realmwalker (LCC) 250
-1 Reflections of Littjara (LCC) 168
 1 Rejuvenating Springs (LTC) 325
 1 Reliquary Tower (LCC) 348
 1 Rhystic Study (J22) 114

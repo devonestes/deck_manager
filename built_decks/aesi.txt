@@ -45,10 +45,8 @@ Craterhoof Behemoth (PROXY)
 Command Tower (PROXY)
 Breeding Pool (PROXY)
 Awaken the Woods (PROXY)
-Avenger of Zendikar (PROXY)
-Arixmethes, Slumbering Isle (PROXY)
 Ancient Tomb (PROXY)
-Aesi, Tyrant of Gyre Strait (PROXY)
+Waterlogged Grove (mh1) 249
 Vorinclex, Voice of Hunger (ima) 189
 Undiscovered Paradise (vis) 167
 Titania, Protector of Argoth (cma) 157
@@ -66,6 +64,7 @@ Roil Elemental (zen) 62
 Retreat to Coralhelm (bfz) 82
 Rampaging Baloths (c19) 176
 Palinchron (ulg) 38
+Overburden (pcy) 39
 Oboro, Palace in the Clouds (ltc) 371
 Nissa, Steward of Elements (c20) 224
 Nissa, Resurgent Animist (mat) 22
@@ -80,21 +79,22 @@ Island (lci) 396
 Island (lci) 396
 Halimar Depths (c18) 253
 Growth Spiral (cmr) 446
+Greensleeves, Maro-Sorcerer (dmc) 77
 Green Sun's Twilight (one) 169
-Great Whale (usg) 77
 Forest (j22) 112
 Forest (j22) 112
 Forest (j22) 112
 Forest (j22) 112
-Emerald Medallion (cmm) 379
 Cultivator Colossus (vow) 195
-Cultivate (ltc) 236
 Coral Atoll (vis) 160
 Conduit of Worlds (one) 163
-Brokers Hideout (snc) 248
+Blossoming Tortoise (woe) 163
 Azusa, Lost but Seeking (a25) 161
+Avenger of Zendikar (c13) 135
 Augur of Autumn (mid) 168
 Ashaya, Soul of the Wild (znr) 179
+Arixmethes, Slumbering Isle (mul) 32
 Apex Devastator (cmr) 674
 Ancient Greenwarden (znr) 178
 Abundance (40k) 210
+Aesi, Tyrant of Gyre Strait (cmr) 365

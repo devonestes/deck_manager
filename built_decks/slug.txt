@@ -9,15 +9,15 @@ Wrenn's Resolve (mom) 173
 Wheel of Misfortune (cmr) 211
 War Room (who) 330
 Virtue of Courage // Embereth Blaze (woe) 157
-Valakut Exploration (znr) 303
 Valakut Awakening // Valakut Stoneforge (znr) 174
 Torbran, Thane of Red Fell (eld) 147
 Themberchaud (sld) 728
 Tarnished Citadel (ody) 329
 Sulfuric Vortex (dmr) 144
+Spellshock (exo) 104
 Spear Spewer (j22) 82
 Solphim, Mayhem Dominus (one) 312
-Sol Ring (lcc) 313
+Sol Ring (moc) 381
 Smoke (4ed) 222
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (bot) 6
 Sin Prodder (soi) 181
@@ -44,8 +44,8 @@ Mountain (lci) 400
 Mountain (lci) 400
 Mountain (lci) 400
 Mountain (lci) 400
+Mountain (lci) 400
 Mountain (woe) 273
-Mountain (lci) 290
 Mountain (ltr) 268
 Mountain (ltr) 268
 Mountain (ltr) 268
@@ -94,7 +94,7 @@ Brash Taunter (m21) 133
 Blasphemous Act (brc) 113
 Basilisk Collar (clb) 300
 Barbarian Ring (plist) 811
-Arcane Signet (lcc) 299
+Arcane Signet (ltc) 273
 Ankh of Mishra (4ed) 294
 Acidic Soil (plist) 916
 Auntie Blyte, Bad Influence (j22) 30

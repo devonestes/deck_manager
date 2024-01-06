@@ -2,7 +2,6 @@
 1 Ancient Copper Dragon (CLB) 161
 1 Ancient Tomb (TMP) 315
 1 Arcane Signet (MOC) 348
-1 Arixmethes, Slumbering Isle (MUL) 32
 1 Balefire Dragon (ISD) 129
 1 Beanstalk Giant // Fertile Footsteps (ELD) 149
 1 Boseiju, Who Endures (NEO) 501
@@ -44,6 +43,7 @@
 1 Misthollow Griffin (FMB1) 26 *F*
 1 Misty Rainforest (MM3) 240
 2 Mountain (LTR) 268
+1 Nissa, Ascended Animist (ONE) 339
 1 Nyxbloom Ancient (THB) 190
 1 Old Gnawbone (AFR) 197
 1 Oracle of Mul Daya (JMP) 415

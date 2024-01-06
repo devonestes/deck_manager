@@ -32,13 +32,13 @@ Weatherlight (dom) 237
 Vault of Whispers (brc) 211
 Urza, Lord High Artificer (cmm) 674
 Unwinding Clock (nph) 164
+Troll of Khazad-dûm (ltr) 111
 Thoughtcast (mrd) 54
 The Stasis Coffin (bro) 245
 The Reality Chip (neo) 74
 The One Ring (ltr) 451
 The Master, Multiplied (who) 146
 The Belligerent (lci) 225
-Terisiare's Devastation (brc) 9
 Talisman of Indulgence (mrd) 255
 Talisman of Dominance (mrd) 253
 Swiftfoot Boots (lcc) 314
@@ -72,7 +72,6 @@ Jhoira, Weatherlight Captain (brc) 126
 Jhoira, Ageless Innovator (dmu) 301
 Island (3ed) 296
 Island (3ed) 296
-Island (3ed) 296
 Idol of Oblivion (brc) 144
 Ichor Wellspring (brc) 143
 Great Furnace (brc) 187
@@ -82,11 +81,12 @@ Emry, Lurker of the Loch (brc) 81
 Drossforge Bridge (brc) 183
 Determined Iteration (ncc) 45
 Darksteel Forge (m14) 206
-Darksteel Citadel (dst) 164
+Darksteel Citadel (mm2) 238
 Cursed Mirror (brc) 115
 Commander's Sphere (c21) 239
-Command Tower (brc) 178
+Command Tower (ltc) 301
 Coldsteel Heart (2x2) 301
+Cityscape Leveler (bro) 363
 Chimil, the Inner Sun (lci) 249
 Chaos Warp (lcc) 221
 Brudiclad, Telchor Engineer (brc) 122

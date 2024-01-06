@@ -1,9 +1,9 @@
 Worldly Tutor (PROXY)
 Wave Goodbye (PROXY)
-Urza's Incubator (PROXY)
 The Ozolith (PROXY)
 Swan Song (PROXY)
 Sol Ring (PROXY)
+Roaming Throne (PROXY)
 Ripples of Potential (PROXY)
 Rhystic Study (PROXY)
 Rejuvenating Springs (PROXY)
@@ -30,13 +30,15 @@ Arcane Signet (PROXY)
 Ancient Tomb (PROXY)
 Alchemist's Refuge (PROXY)
 Zegana, Utopian Speaker (lcc) 298
+Vodalian Hexcatcher (dmu) 398
 Unclaimed Territory (lcc) 366
 Twists and Turns // Mycoid Maze (lci) 217
-Tributary Instructor (lcc) 96
+Topography Tracker (lcc) 95
 Tishana's Tidebinder (lci) 81
 Thrasios, Triton Hero (c16) 46
 Thieving Skydiver (lcc) 177
 Thassa, God of the Sea (lcc) 176
+Thada Adel, Acquisitor (wwk) 40
 Tatyova, Benthic Druid (lcc) 290
 Svyelun of Sea and Sky (lcc) 175
 Stonybrook Banneret (lcc) 173
@@ -48,17 +50,15 @@ Secluded Courtyard (lcc) 350
 Seafloor Oracle (lcc) 170
 Rogue's Passage (lcc) 349
 Reliquary Tower (c19) 268
-Reflections of Littjara (clb) 733
 Realmwalker (lcc) 250
 Prime Speaker Zegana (lcc) 278
-Path of Ancestry (brc) 192
+Path of Ancestry (ltc) 322
 Nicanzil, Current Conductor (lci) 306
 Mist-Cloaked Herald (m19) 310
 Mist Dancer (lcc) 76
 Mirri's Guile (tmp) 236
 Merrow Reejerey (j22) 61
 Merfolk Sovereign (lcc) 164
-Merfolk Mistbinder (lcc) 276
 Merfolk Cave-Diver (lci) 65
 Master of the Pearl Trident (lcc) 162
 Lórien Revealed (ltr) 60
@@ -69,21 +69,20 @@ Karn's Bastion (lcc) 339
 Island (3ed) 296
 Island (3ed) 296
 Island (3ed) 296
+Island (3ed) 296
+Island (lci) 288
+Island (lci) 288
 Island (lci) 396
 Island (lci) 396
-Island (lci) 396
-Island (lci) 396
-Island (lci) 396
-Inspiring Call (moc) 304
+Inspiring Call (lcc) 244
 Herald of Secret Streams (lcc) 158
-Hardened Scales (lcc) 243
-Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (xln) 191
+Hardened Scales (wot) 55
 Glowcap Lantern (lci) 187
 Forest (ltr) 270
 Forest (ltr) 270
 Forest (ltr) 270
 Forest (ltr) 270
-Forest (j22) 112
+Forest (ltr) 270
 Force of Negation (mh1) 52
 Fallowsage (j22) 297
 Exploration (cns) 164
@@ -92,6 +91,7 @@ Deeproot Wayfinder (mom) 184
 Deeproot Waters (lcc) 152
 Deeproot Historian (lcc) 91
 Cold-Eyed Selkie (lcc) 266
+Burgeoning (sth) 102
 Branching Evolution (jmp) 29
 Bident of Thassa (lcc) 146
 Beast Within (onc) 104

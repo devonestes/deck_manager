@@ -1,0 +1,100 @@
+Ziatora's Proving Ground (PROXY)
+Wooded Foothills (PROXY)
+Windswept Heath (PROXY)
+Watery Grave (PROXY)
+Verdant Catacombs (PROXY)
+Vampiric Tutor (PROXY)
+Three Visits (PROXY)
+Temple Garden (PROXY)
+Teferi's Protection (PROXY)
+Stomping Ground (PROXY)
+Steam Vents (PROXY)
+Spara's Headquarters (PROXY)
+Sol Ring (PROXY)
+Scalding Tarn (PROXY)
+Sacred Foundry (PROXY)
+Rhystic Study (PROXY)
+Overgrown Tomb (PROXY)
+Nature's Lore (PROXY)
+Misty Rainforest (PROXY)
+Marsh Flats (PROXY)
+Kindred Discovery (PROXY)
+Jetmir's Garden (PROXY)
+Heroic Intervention (PROXY)
+Hallowed Fountain (PROXY)
+Godless Shrine (PROXY)
+Flooded Strand (PROXY)
+Farseek (PROXY)
+Elven Chorus (PROXY)
+Eladamri's Call (PROXY)
+Demonic Tutor (PROXY)
+Cyclonic Rift (PROXY)
+Command Tower (PROXY)
+Cavern of Souls (PROXY)
+Breeding Pool (PROXY)
+Blood Crypt (PROXY)
+Arid Mesa (PROXY)
+Arcane Signet (PROXY)
+Winged Sliver (tmp) 106
+Virulent Sliver (plist) 993
+Venom Sliver (mb1) 1367
+Vanquisher's Banner (ltc) 289
+Unclaimed Territory (lcc) 366
+Two-Headed Sliver (cmm) 883
+Timeless Lotus (dmu) 239
+Talon Sliver (tmp) 50
+Syphon Sliver (cmm) 870
+Synapse Sliver (cmm) 857
+Swamp (lci) 397
+Striking Sliver (cmm) 882
+Spiteful Sliver (cmm) 881
+Sliver Queen (sth) 129
+Sliver Overlord (scg) 139
+Sliver Legion (fut) 158
+Sliver Hivelord (m15) 211
+Sliver Hive (m15) 247
+Sliver Gravemother (cmm) 777
+Sinew Sliver (cmm) 837
+Shifting Sliver (cmm) 855
+Shared Animosity (ltc) 226
+Sentinel Sliver (cmm) 835
+Secluded Courtyard (lcc) 350
+Reflections of Littjara (clb) 733
+Quick Sliver (cmm) 907
+Predatory Sliver (m14) 189
+Plains (lci) 393
+Patriarch's Bidding (mh2) 275
+Path of Ancestry (lcc) 346
+Necrotic Sliver (cmm) 932
+Muscle Sliver (tmp) 238
+Mountain (j22) 107
+Might Sliver (cmm) 903
+Manaweft Sliver (cmm) 900
+Mana Echoes (ons) 218
+Lazotep Sliver (cmm) 733
+Island (lci) 396
+Hibernation Sliver (cmm) 925
+Herald's Horn (moc) 360
+Heart Sliver (tmp) 182
+Harmonic Sliver (cmm) 924
+Gemhide Sliver (cmm) 896
+Galerider Sliver (cmm) 849
+Forest (j22) 112
+Forest (j22) 112
+Fellwar Stone (brc) 141
+Exotic Orchard (ltc) 307
+Distant Melody (moc) 220
+Diffusion Sliver (cmm) 845
+Cultivate (ltc) 236
+Crystalline Sliver (cmm) 920
+Crypt Sliver (cmm) 863
+Cloudshredder Sliver (cmm) 919
+Cleaving Sliver (mh1) 121
+Chromatic Lantern (rtr) 226
+Capricious Sliver (cmm) 765
+Brood Sliver (cmm) 887
+Bonescythe Sliver (cmm) 815
+Blade Sliver (cmm) 871
+Belligerent Sliver (m15) 129
+Basal Sliver (tsp) 96
+The First Sliver (mh1) 200

@@ -14,7 +14,6 @@ Arid Mesa (PROXY)
 Ancient Tomb (PROXY)
 Weathered Wayfarer (ltc) 183
 Wayfarer's Bauble (brc) 171
-Unbreakable Formation (ltc) 179
 Training Center (cmr) 713
 Tithe (vis) 23
 Throne of the High City (ltc) 339
@@ -24,14 +23,14 @@ Taunt from the Rampart (ltc) 71
 Talisman of Progress (ltc) 286
 Talisman of Creativity (mh1) 231
 Talisman of Conviction (ltc) 285
-Swords to Plowshares (ltc) 178
+Swords to Plowshares (ice) 54
 Stormcarved Coast (vow) 284
 Steam Vents (unf) 283
 Sol Ring (lcc) 313
 Smothering Tithe (rna) 22
-Shared Animosity (ltc) 226
+Shared Animosity (lcc) 231
 Serra Ascendant (ima) 31
-Secluded Courtyard (ltc) 330
+Secluded Courtyard (lcc) 350
 Sea of Clouds (bbd) 84
 Sea Gate Restoration // Sea Gate, Reborn (znr) 333
 Savage Beating (dst) 67
@@ -45,10 +44,9 @@ Port Razer (lcc) 230
 Plains (lci) 394
 Plains (lci) 394
 Plains (lci) 394
-Plains (lci) 393
-Path of Ancestry (ltc) 322
+Path of Ancestry (brc) 192
 Palace Jailer (ltc) 174
-Otawara, Soaring City (neo) 503
+Otawara, Soaring City (neo) 271
 Odric, Master Tactician (mic) 90
 Odric, Lunarch Marshal (mb1) 186
 Mystic Monastery (dmc) 221
@@ -56,10 +54,11 @@ Mystic Gate (cmm) 1013
 Mountain (j22) 107
 Minamo, School at Water's Edge (chk) 279
 Mass Appeal (avr) 66
+Loran of the Third Path (bro) 12
 Kiki-Jiki, Mirror Breaker (chk) 175
 Island (c19) 292
 Horn of Gondor (ltr) 240
-Hallowed Fountain (unf) 277
+Hallowed Fountain (rvr) 280
 Greymond, Avacyn's Stalwart (sld) 143
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (bot) 11
 Glacial Fortress (ltc) 315
@@ -74,15 +73,16 @@ Faerie Mastermind (pmom) 58p
 Esper Sentinel (mh2) 12
 Éomer, King of Rohan (ltc) 52
 Elesh Norn, Grand Cenobite (nph) 9
+Dolmen Gate (lrw) 256
 Deserted Beach (mid) 281
 Cyclonic Rift (rtr) 35
 Court of Vantress (woc) 22
-Court of Ire (ltc) 213
 Court of Grace (onc) 62
 Coppercoat Vanguard (mat) 1
 Command Tower (lcc) 325
 Combat Celebrant (ltc) 212
 Clifftop Retreat (ltc) 300
+Clever Concealment (onc) 5
 Champions of Minas Tirith (ltc) 10
 Cathars' Crusade (avr) 10
 Cascade Bluffs (cmm) 990

@@ -8,6 +8,7 @@
 1 Birds of Paradise (4ED) 234
 1 Bloom Tender (EVE) 66
 1 Boseiju, Who Endures (NEO) 501
+1 Boseiju, Who Shelters All (CHK) 273
 1 Bountiful Promenade (ZNE) 20
 1 Breeding Pool (UNF) 286
 1 Carpet of Flowers (USG) 240
@@ -79,7 +80,6 @@
 1 Silence (M11) 30
 1 Sol Ring (MOC) 381
 1 Solitude (MH2) 32
-1 Spara's Headquarters (SNC) 293
 1 Spellseeker (BBD) 41
 1 Survival of the Fittest (EXO) 129
 1 Swan Song (LTC) 197

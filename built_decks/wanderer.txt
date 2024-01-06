@@ -63,6 +63,7 @@ Pathbreaker Ibex (sld) 307
 Orcish Lumberjack (ice) 210
 Oracle of Mul Daya (jmp) 415
 Nyxbloom Ancient (thb) 190
+Nissa, Ascended Animist (one) 339
 Mountain (j22) 107
 Mountain (j22) 107
 Misthollow Griffin (fmb1) 26
@@ -79,22 +80,21 @@ Into the North (csp) 111
 Imoti, Celebrant of Bounty (mul) 43
 Ilysian Caryatid (j22) 676
 Hullbreaker Horror (woc) 95
-Hinterland Harbor (lcc) 336
+Hinterland Harbor (ltc) 317
 Genesis Ultimatum (iko) 189
 Forest (ltr) 270
 Forest (ltr) 270
 Forest (ltr) 270
 Food Chain (mmq) 246
-Etali, Primal Storm (afc) 126
+Etali, Primal Storm (lcc) 224
 Drakuseth, Maw of Flames (clb) 790
 Defense of the Heart (ulg) 100
 Cultivate (sta) 51
 Consecrated Sphinx (mbs) 21
-Command Tower (afc) 230
+Command Tower (ltc) 301
 Colossal Skyturtle (neo) 216
 Breeding Pool (unf) 286
 Beanstalk Giant // Fertile Footsteps (eld) 149
 Balefire Dragon (isd) 129
-Arixmethes, Slumbering Isle (mul) 32
-Arcane Signet (ltc) 273
+Arcane Signet (lcc) 299
 Maelstrom Wanderer (cmm) 684

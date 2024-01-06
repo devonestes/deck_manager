@@ -37,6 +37,7 @@ Worldly Tutor (mir) 255
 Wooded Foothills (ktk) 249
 Windswept Heath (ktk) 248
 Viscera Seer (lcc) 213
+Troll of Khazad-dûm (ltr) 111
 Toxic Deluge (c13) 96
 Tireless Provisioner (mh2) 180
 Tinder Wall (ice) 270
@@ -49,7 +50,7 @@ Sol Ring (lcc) 313
 Shallow Grave (mir) 141
 Scalding Tarn (mm3) 244
 Rhythm of the Wild (lcc) 287
-Reliquary Tower (brc) 196
+Reliquary Tower (dmc) 227
 Reassembling Skeleton (j22) 125
 Reanimate (tmp) 151
 Professional Face-Breaker (j22) 581
@@ -68,10 +69,9 @@ Lotus Petal (tmp) 294
 Liliana, Dreadhorde General (war) 97
 Lightning Greaves (mrd) 199
 Life from the Loam (rav) 172
-Juri, Master of the Revue (mul) 46
 Jeweled Lotus (cmr) 319
 Ignoble Hierarch (mh2) 166
-Forest (one) 271
+Forest (one) 266
 Finale of Devastation (war) 160
 Field of the Dead (m20) 247
 Fabled Passage (eld) 244

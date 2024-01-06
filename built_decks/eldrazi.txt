@@ -1,0 +1,100 @@
+Wondrous Crucible (PROXY)
+War Room (PROXY)
+Urza's Saga (PROXY)
+Urza's Incubator (PROXY)
+Ugin's Mastery (PROXY)
+Solemn Simulacrum (PROXY)
+Sol Ring (PROXY)
+Roaming Throne (PROXY)
+Reliquary Tower (PROXY)
+Portal to Phyrexia (PROXY)
+Mystic Forge (PROXY)
+Mana Vault (PROXY)
+Mana Crypt (PROXY)
+Lightning Greaves (PROXY)
+Liberator, Urza's Battlethopter (PROXY)
+Commander's Plate (PROXY)
+Cavern of Souls (PROXY)
+Blightsteel Colossus (PROXY)
+Ancient Tomb (PROXY)
+All Is Dust (PROXY)
+Zhalfirin Void (afc) 273
+Worn Powerstone (ltc) 293
+Wastes (cmm) 1055
+Wastes (cmm) 1055
+Wastes (cmm) 1055
+Wastes (cmm) 1055
+Wastes (cmm) 1056
+Wastes (cmm) 1056
+Warping Wail (cmm) 812
+Void Winnower (bfz) 17
+Urza's Workshop (brc) 51
+Urza's Tower (chr) 116d
+Urza's Power Plant (5ed) 428
+Urza's Mine (chr) 114a
+Unstable Obelisk (jmp) 489
+Ulamog's Crusher (cmm) 6
+Ulamog, the Infinite Gyre (roe) 12
+Ulamog, the Ceaseless Hunger (bfz) 15
+Ugin, the Spirit Dragon (m21) 1
+Ugin, the Ineffable (war) 2
+Tyrite Sanctum (cmm) 1049
+Tomb of the Spirit Dragon (cmm) 1048
+Titan's Presence (j22) 749
+Thran Dynamo (c19) 225
+Thought Vessel (ltc) 287
+The Irencrag (woe) 248
+Temple of the False God (c19) 280
+Swiftfoot Boots (lcc) 314
+Spawnsire of Ulamog (roe) 11
+Shrine of the Forsaken Gods (c19) 273
+Sea Gate Wreckage (cmm) 1028
+Scorched Ruins (wth) 166
+Sanctum of Ugin (bfz) 242
+Rogue's Passage (lcc) 349
+Rise of the Eldrazi (cmm) 716
+Reality Smasher (ogw) 7
+Progenitor's Icon (lcc) 100
+Palladium Myr (cmm) 967
+Ornithopter of Paradise (mh2) 430
+Oblivion Sower (cmm) 808
+Not of This World (cmm) 807
+Myriad Landscape (lcc) 343
+Mishra's Factory (4ed) 361
+Mirrorpool (cmm) 1010
+Mirage Mirror (cmm) 962
+Mind Stone (moc) 364
+Matter Reshaper (cmm) 806
+Mage-Ring Network (c21) 300
+Kozilek, the Great Distortion (cmm) 668
+Kozilek, Butcher of Truth (roe) 6
+It That Betrays (roe) 7
+Hedron Archive (brc) 142
+Guildless Commons (cmm) 1003
+Geier Reach Sanitarium (lcc) 335
+Forsaken Monument (cmm) 950
+Field of Ruin (ltc) 308
+Eye of Ugin (wwk) 136
+Expedition Map (zen) 201
+Everflowing Chalice (ltc) 278
+Endbringer (j22) 748
+Emrakul, the Promised End (emn) 6
+Eldrazi Temple (roe) 227
+Doubling Cube (5dn) 116
+Desolation Twin (c19) 60
+Deceiver of Form (ogw) 1
+Darksteel Monolith (cmm) 743
+Darksteel Citadel (dst) 164
+Crystal Vein (mir) 325
+Calamity of the Titans (cmm) 713
+Burnished Hart (clb) 303
+Buried Ruin (brc) 177
+Breaker of Armies (bfz) 3
+Bottled Cloister (rvr) 389
+Bonders' Enclave (cmm) 988
+Basalt Monolith (3ed) 235
+Bane of Bala Ged (cmm) 802
+Artisan of Kozilek (cmm) 801
+Arch of Orazca (lcc) 319
+Akroma's Memorial (fut) 159
+Zhulodok, Void Gorger (cmm) 752

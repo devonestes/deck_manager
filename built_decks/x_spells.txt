@@ -69,13 +69,13 @@ Izzet Boilerworks (brc) 188
 Island (3ed) 296
 Island (3ed) 296
 Invasion of Ikoria // Zilortha, Apex of Ikoria (mom) 190
-Inspiring Call (lcc) 244
+Inspiring Call (moc) 304
 Incubation Druid (moc) 302
 Illusionist's Bracers (gtc) 231
 Hydroid Krasis (rna) 183
 Hormagaunt Horde (40k) 93
-Hinterland Harbor (ltc) 317
-Hardened Scales (wot) 55
+Hinterland Harbor (lcc) 336
+Hardened Scales (lcc) 243
 Gyre Sage (moc) 300
 Frontier Bivouac (40k) 281
 Fractal Harness (c21) 61
@@ -85,7 +85,7 @@ Exocrine (40k) 76
 Elementalist's Palette (c21) 76
 Crackle with Power (stx) 308
 Court of Garenbrig (woc) 25
-Command Tower (ltc) 301
+Command Tower (moc) 396
 Clamavus (40k) 90
 Broodlord (40k) 89
 Bred for the Hunt (dgm) 59

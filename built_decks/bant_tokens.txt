@@ -1,100 +1,100 @@
-Yavimaya, Cradle of Growth (PROXY)
-Yavimaya Hollow (PROXY)
-Wooded Bastion (PROXY)
+Wooded Foothills (PROXY)
 Windswept Heath (PROXY)
-Wave Goodbye (PROXY)
-Vorinclex, Monstrous Raider (PROXY)
-Urza's Saga (PROXY)
-Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
-The Ozolith (PROXY)
+Weathered Wayfarer (PROXY)
+Verdant Catacombs (PROXY)
 Temple Garden (PROXY)
-Teferi's Protection (PROXY)
 Swan Song (PROXY)
-Staff of Compleation (PROXY)
-Spara's Headquarters (PROXY)
 Sol Ring (PROXY)
-Sea of Clouds (PROXY)
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Ripples of Potential (PROXY)
+Scalding Tarn (PROXY)
 Rhystic Study (PROXY)
 Rejuvenating Springs (PROXY)
-Overgrown Farmland (PROXY)
+Ranger-Captain of Eos (PROXY)
+Polluted Delta (PROXY)
 Otawara, Soaring City (PROXY)
-Ohran Frostfang (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
-Mystic Gate (PROXY)
+Moon-Blessed Cleric (PROXY)
 Misty Rainforest (PROXY)
-Koma, Cosmos Serpent (PROXY)
-Karn's Bastion (PROXY)
-Inspiring Call (PROXY)
-Incubation Druid (PROXY)
-Hinterland Harbor (PROXY)
-Heroic Intervention (PROXY)
-Herald of Secret Streams (PROXY)
+Misthollow Griffin (PROXY)
+Marsh Flats (PROXY)
+Mana Crypt (PROXY)
+Mana Confluence (PROXY)
+Invasion of Ikoria // Zilortha, Apex of Ikoria (PROXY)
 Hallowed Fountain (PROXY)
-Gyre Sage (PROXY)
-Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (PROXY)
-Glacial Fortress (PROXY)
+Force of Negation (PROXY)
+Forbidden Orchard (PROXY)
+Food Chain (PROXY)
 Flooded Strand (PROXY)
-Flooded Grove (PROXY)
+Finale of Devastation (PROXY)
 Fierce Guardianship (PROXY)
-Farseek (PROXY)
 Faerie Mastermind (PROXY)
 Esper Sentinel (PROXY)
-Elven Chorus (PROXY)
-Dreamroot Cascade (PROXY)
-Deserted Beach (PROXY)
+Enlightened Tutor (PROXY)
 Delighted Halfling (PROXY)
 Cyclonic Rift (PROXY)
-Craterhoof Behemoth (PROXY)
-Court of Grace (PROXY)
+Crop Rotation (PROXY)
 Command Tower (PROXY)
-Charismatic Conqueror (PROXY)
-Cauldron of Souls (PROXY)
+City of Brass (PROXY)
 Breeding Pool (PROXY)
-Bred for the Hunt (PROXY)
 Bountiful Promenade (PROXY)
 Boseiju, Who Endures (PROXY)
+Bloom Tender (PROXY)
 Birds of Paradise (PROXY)
-Avenger of Zendikar (PROXY)
-Arcane Signet (PROXY)
-Adeline, Resplendent Cathar (PROXY)
-Zameck Guildmage (gtc) 209
-Wolverine Riders (khc) 14
-Windswift Slice (ltc) 45
-Sakashima of a Thousand Faces (cmr) 89
-Rumor Gatherer (snc) 29
-Primal Vigor (c13) 162
-Plains (lci) 393
-Overwhelming Stampede (c19) 175
+Arid Mesa (PROXY)
+Ancient Tomb (PROXY)
+Yisan, the Wanderer Bard (cmm) 334
+Wild Growth (dmr) 184
+Whitemane Lion (dmr) 277
+Village Bell-Ringer (ltc) 181
+Veil of Summer (m20) 198
+Tundra (3ed) 289
+Tropical Island (3ed) 288
+Touch the Spirit Realm (neo) 40
+Tendershoot Dryad (rix) 147
+Swords to Plowshares (3ed) 41
+Survival of the Fittest (exo) 129
+Spellseeker (bbd) 41
+Solitude (mh2) 32
+Silence (m11) 30
+Scryb Ranger (tsp) 215
+Quirion Ranger (vis) 117
+Prime Speaker Vannifar (rna) 195
+Priest of Titania (usg) 270
+Peregrine Drake (dmr) 65
+Pact of Negation (fut) 42
 Noble Hierarch (2xm) 177
-Natural Order (vis) 114
-Nadir Kraken (ncc) 228
+Neoform (war) 206
 Mystic Remora (ice) 87
-Mondrak, Glory Dominus (one) 23
-Master Biomancer (2x2) 250
-Kami of Whispered Hopes (mom) 196
-Island (lci) 396
-Island (lci) 396
-Island (lci) 396
-Imperious Perfect (j22) 677
-Hornet Queen (ltc) 250
-Helm of the Host (dom) 217
-Galadhrim Ambush (ltc) 38
-Gala Greeters (snc) 450
+Mindbreak Trap (zen) 57
+Llanowar Elves (3ed) 211
+Kutzil, Malamet Exemplar (lci) 304
+Kinnan, Bonder Prodigy (iko) 338
+Jeweled Lotus (cmr) 319
+Green Sun's Zenith (2x2) 150
+Grand Abolisher (sld) 1285
+Gemstone Caverns (tsp) 274
+Fyndhorn Elves (ice) 244
 Forest (j22) 112
-Forest (j22) 112
-Forest (j22) 112
-Felidar Retreat (cmm) 821
-Faerie Artisans (cmm) 92
-Elven Ambush (khm) 391
-Edric, Spymaster of Trest (cns) 187
-Earthcraft (tmp) 222
-Doubling Season (2xm) 350
-Cultivator of Blades (khc) 55
-Bennie Bracks, Zoologist (ncc) 86
-Beast Whisperer (p30a) 26
-Arwen, Weaver of Hope (ltc) 35
-Arachnogenesis (cmm) 647
-Adarkar Wastes (ice) 351
+Force of Will (all) 28
+Flusterstorm (mh1) 255
+Flesh Duplicate (who) 359
+Exotic Orchard (ltc) 307
+Eternal Scourge (emn) 7
+Endurance (mh2) 157
+Emiel the Blessed (j22) 180
+Elvish Mystic (ltc) 238
+Eldritch Evolution (emn) 155
+Eladamri's Call (pls) 106
+Dryad Arbor (fut) 174
+Drannith Magistrate (iko) 314
+Derevi, Empyrial Tactician (c13) 186
+Deafening Silence (eld) 10
+Collector Ouphe (plist) 927
+Cloud of Faeries (dmr) 43
+Chord of Calling (rav) 156
+Carpet of Flowers (usg) 240
+Boseiju, Who Shelters All (chk) 273
+Biomancer's Familiar (rna) 158
+Avacyn's Pilgrim (isd) 170
+An Offer You Can't Refuse (slp) 7
+Aether Vial (mma) 197
 Galadriel, Light of Valinor (ltc) 498
