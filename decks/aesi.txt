@@ -1,95 +1,95 @@
 1 Aesi, Tyrant of Gyre Strait (CMR) 365 *F*
 1 Abundance (40K) 210
-1 Ancient Greenwarden (ZNR) 178 #!Recursion
-1 Ancient Tomb (TMP) 315 #!Colorless
+1 Ancient Greenwarden (ZNR) 178
+1 Ancient Tomb (TMP) 315
 1 Apex Devastator (CMR) 674
-1 Arcane Denial (ALL) 22a #!Protection
 1 Arixmethes, Slumbering Isle (MUL) 32
-1 Ashaya, Soul of the Wild (ZNR) 179 #!Ramp
-1 Augur of Autumn (MID) 168 #!Card Advantage
-1 Avenger of Zendikar (C13) 135 #!Wincon
-1 Awaken the Woods (BRO) 344 #!Ramp #!Tokens
-1 Azusa, Lost but Seeking (A25) 161 #!Ramp
-1 Breeding Pool (UNF) 286 #!Blue #!Green
-1 Brokers Hideout (SNC) 248 #!Blue #!Green #!White
-1 Command Tower (MOC) 396 #!Any Color
-1 Conduit of Worlds (ONE) 163 #!Recursion
-1 Coral Atoll (VIS) 160 #!Blue
-1 Craterhoof Behemoth (AVR) 172 #!Wincon
-1 Crop Rotation (DMR) 154 #!Fixing
-1 Crucible of Worlds (10E) 319 #!Recursion
-1 Cultivate (J22) 644 #!Fixing #!Ramp
-1 Cultivator Colossus (VOW) 195 #!Ramp
-1 Cyclonic Rift (RTR) 35 #!Removal #!Sweeper
-1 Delighted Halfling (LTR) 158 #!Ramp
-1 Dryad of the Ilysian Grove (THB) 169 #!Fixing #!Ramp
-1 Elven Chorus (LTR) 160 #!Card Advantage #!Ramp
-1 Emerald Medallion (CMM) 379 #!Ramp
+1 Ashaya, Soul of the Wild (ZNR) 179
+1 Augur of Autumn (MID) 168
+1 Avenger of Zendikar (C13) 135
+1 Awaken the Woods (BRO) 344
+1 Azusa, Lost but Seeking (A25) 161
+1 Blossoming Tortoise (WOE) 163
+1 Breeding Pool (UNF) 286
+1 Command Tower (MOC) 396
+1 Conduit of Worlds (ONE) 163
+1 Coral Atoll (VIS) 160
+1 Craterhoof Behemoth (AVR) 172
+1 Crop Rotation (DMR) 154
+1 Crucible of Worlds (10E) 319
+1 Cultivator Colossus (VOW) 195
+1 Cyclonic Rift (RTR) 35
+1 Delighted Halfling (LTR) 158
+1 Dryad of the Ilysian Grove (THB) 169
+1 Elven Chorus (LTR) 160
 1 Entish Restoration (LTR) 163
-1 Fabled Passage (ELD) 244 #!Any Color
-1 Field of the Dead (M20) 247 #!Colorless #!Tokens
-1 Fierce Guardianship (C20) 35 #!Defense
+1 Fabled Passage (ELD) 244
+1 Field of the Dead (M20) 247
+1 Fierce Guardianship (C20) 35
 1 Finale of Devastation (WAR) 160
-1 Flooded Grove (LTC) 309 #!Blue #!Green
-4 Forest (J22) 110 #!Green
-1 Great Whale (USG) 77
-1 Green Sun's Twilight (ONE) 169 #!Tutor
-1 Growth Spiral (CMR) 446 #!Ramp
-1 Halimar Depths (C18) 253 #!Blue
-1 Heroic Intervention (LTC) 249 #!Defense
-1 Hinterland Harbor (LTC) 317 #!Blue #!Green
-1 Hydroid Krasis (RNA) 183 #!Card Advantage
+1 Flooded Grove (LTC) 309
+4 Forest (J22) 110
+1 Green Sun's Twilight (ONE) 169
+1 Greensleeves, Maro-Sorcerer (DMC) 77
+1 Growth Spiral (CMR) 446
+1 Halimar Depths (C18) 253
+1 Heroic Intervention (LTC) 249
+1 Hinterland Harbor (LTC) 317
+1 Hydroid Krasis (RNA) 183
 1 Imoti, Celebrant of Bounty (MUL) 43
-3 Island (MOM) 278 #!Blue
-1 Jungle Basin (VIS) 164 #!Green
-1 Kodama's Reach (CLB) 826 #!Fixing #!Ramp
-1 Koma, Cosmos Serpent (KHM) 221 #!Wincon
+3 Island (MOM) 278
+1 Jungle Basin (VIS) 164
+1 Kodama's Reach (CLB) 826
+1 Koma, Cosmos Serpent (KHM) 221
 1 Last March of the Ents (LTR) 418
 1 Llanowar Scout (DOM) 170
-1 Lotus Vale (WTH) 165 #!Any Color
+1 Lotus Vale (WTH) 165
 1 Mana Breach (EXO) 38
-1 Misty Rainforest (MM3) 240 #!Blue #!Green
-1 Mystic Sanctuary (ELD) 247 #!Blue
-1 Nissa, Resurgent Animist (MAT) 22 #!Ramp
-1 Nissa, Steward of Elements (C20) 224 #!Card Advantage
-1 Nykthos, Shrine to Nyx (THS) 223 #!Colorless #!Fixing #!Ramp
+1 Misty Rainforest (MM3) 240
+1 Mystic Sanctuary (ELD) 247
+1 Nissa, Resurgent Animist (MAT) 22
+1 Nissa, Steward of Elements (C20) 224
+1 Nykthos, Shrine to Nyx (THS) 223
 1 Nyxbloom Ancient (THB) 190
-1 Oboro, Palace in the Clouds (LTC) 371 #!Blue
-1 Oracle of Mul Daya (JMP) 415 #!Ramp
-1 Otawara, Soaring City (NEO) 503 #!Blue #!Protection #!Removal
+1 Oboro, Palace in the Clouds (LTC) 371
+1 Oracle of Mul Daya (JMP) 415
+1 Otawara, Soaring City (NEO) 503
+1 Overburden (PCY) 39
 1 Palinchron (ULG) 38
-1 Prismatic Vista (MH1) 244 #!Any Color
-1 Rampaging Baloths (C19) 176 #!Wincon
-1 Rejuvenating Springs (LTC) 325 #!Blue #!Green
-1 Reliquary Tower (BRC) 196 #!Colorless
+1 Prismatic Vista (MH1) 244
+1 Rampaging Baloths (C19) 176
+1 Rejuvenating Springs (LTC) 325
+1 Reliquary Tower (BRC) 196
 1 Retreat to Coralhelm (BFZ) 82
-1 Return of the Wildspeaker (ELD) 172 #!Card Advantage
-1 Rhystic Study (J22) 114 #!Card Advantage
-1 Roil Elemental (ZEN) 62 #!Wincon
-1 Scapeshift (M19) 201 #!Card Advantage #!Ramp
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333 #!Blue #!Card Advantage
-1 Simic Growth Chamber (CM2) 267 #!Blue #!Green
+1 Return of the Wildspeaker (ELD) 172
+1 Rhystic Study (J22) 114
+1 Roil Elemental (ZEN) 62
+1 Scapeshift (M19) 201
+1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+1 Simic Growth Chamber (CM2) 267
 1 Skyshroud Claim (CMM) 321
 1 Skyshroud Ranger (TMP) 256
-1 Snow-Covered Forest (ICE) 383 #!Green
-1 Snow-Covered Island (ICE) 371 #!Blue
-1 Sol Ring (MOC) 381 #!Ramp
-1 Storm Cauldron (ALL) 134 #!Wincon
-1 Swan Song (LTC) 197 #!Defense
-1 Tatyova, Benthic Druid (DMR) 203 #!Card Advantage
-1 Tatyova, Steward of Tides (DMU) 222 *F* #!Wincon
-1 Temple of Mystery (M20) 255 #!Blue #!Green
-1 Thawing Glaciers (ALL) 144 #!Any Color
-1 The Great Henge (LTC) 348 #!Card Advantage
-1 Thespian's Stage (C19) 282 #!Colorless
-1 Tireless Provisioner (MH2) 180 #!Ramp
+1 Snow-Covered Forest (ICE) 383
+1 Snow-Covered Island (ICE) 371
+1 Sol Ring (MOC) 381
+1 Storm Cauldron (ALL) 134
+1 Swan Song (LTC) 197
+1 Tatyova, Benthic Druid (DMR) 203
+1 Tatyova, Steward of Tides (DMU) 222 *F*
+1 Temple of Mystery (M20) 255
+1 Thawing Glaciers (ALL) 144
+1 The Great Henge (LTC) 348
+1 Thespian's Stage (C19) 282
+1 Tireless Provisioner (MH2) 180
 1 Titania, Protector of Argoth (CMA) 157
-1 Undiscovered Paradise (VIS) 167 #!Any Color
-1 Uro, Titan of Nature's Wrath (THB) 229 #!Ramp
-1 Urza's Saga (MH2) 259 #!Colorless
+1 Undiscovered Paradise (VIS) 167
+1 Uro, Titan of Nature's Wrath (THB) 229
+1 Urza's Saga (MH2) 259
 1 Vorinclex // The Grand Evolution (MOM) 213
-1 Vorinclex, Monstrous Raider (KHM) 333 #!Counters
+1 Vorinclex, Monstrous Raider (KHM) 333
 1 Vorinclex, Voice of Hunger (IMA) 189
-1 Winding Canyons (WTH) 167 #!Colorless
-1 Wooded Foothills (KTK) 249 #!Green #!Red
-1 Yavimaya Hollow (UDS) 143 #!Colorless
+1 Waterlogged Grove (MH1) 249
+1 Wayward Swordtooth (LCC) 263
+1 Winding Canyons (WTH) 167
+1 Wooded Foothills (KTK) 249
+1 Yavimaya Hollow (UDS) 143

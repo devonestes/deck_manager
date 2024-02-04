@@ -1,0 +1,100 @@
+1 The Ur-Dragon (C17) 48 *F*
+1 Ancient Copper Dragon (CLB) 161
+1 Ancient Silver Dragon (CLB) 366
+1 Ancient Tomb (TMP) 315
+1 Arcane Signet (MOC) 348
+1 Atarka, World Render (SCD) 1 *E*
+1 Badlands (3ED) 282
+1 Balefire Dragon (ISD) 129
+1 Beledros Witherbloom (STX) 163
+1 Birds of Paradise (4ED) 234
+1 Blood Crypt (UNF) 279
+1 Bloodstained Mire (KTK) 230
+1 Bloom Tender (EVE) 66
+1 Bonehoard Dracosaur (LCI) 321
+1 Breeding Pool (UNF) 286
+1 Cavern of Souls (AVR) 226
+1 Cavern-Hoard Dragon (LTC) 114
+1 City of Brass (5ED) 413
+1 Command Tower (MOC) 396
+1 Cyclonic Rift (RTR) 35
+1 Delighted Halfling (LTR) 158
+1 Dockside Extortionist (2X2) 360
+1 Dragon Tempest (DTK) 136
+1 Dragon's Hoard (CLB) 858
+1 Dragonlord Dromoka (DTK) 217
+1 Dragonlord's Servant (IMA) 126
+1 Dragonspeaker Shaman (J22) 525
+1 Exotic Orchard (MOC) 398
+1 Farseek (C19) 165
+1 Fellwar Stone (MOC) 356
+1 Flooded Strand (KTK) 233
+1 Forbidden Orchard (C16) 296
+1 Forest (ONE) 266
+1 Godless Shrine (UNF) 282
+1 Goldspan Dragon (J22) 550
+1 Guardian Project (RNA) 130
+1 Hallowed Fountain (UNF) 277
+1 Hellkite Courser (CMR) 183
+1 Hellkite Tyrant (C16) 128
+1 Herald's Horn (LTC) 280
+1 Heroic Intervention (LTC) 249
+1 Indatha Triome (IKO) 309
+1 Island (MOM) 278
+1 Jetmir's Garden (SNC) 291
+1 Karrthus, Tyrant of Jund (ARB) 117
+1 Ketria Triome (IKO) 310
+1 Kindred Discovery (CLB) 81
+1 Kindred Dominance (CMM) 640
+1 Klauth, Unrivaled Ancient (AFC) 320
+1 Kokusho, the Evening Star (MMA) 89
+1 Kura, the Boundless Sky (NEO) 200
+1 Lightning Greaves (LTC) 281
+1 Mana Vault (2ED) 260
+1 Marsh Flats (MM3) 239
+1 Miirym, Sentinel Wyrm (CLB) 284 *F*
+1 Misty Rainforest (MM3) 240
+1 Morophon, the Boundless (CMM) 669
+1 Mountain (J22) 107
+1 Nature's Lore (DMR) 170
+1 Old Gnawbone (AFR) 197
+1 Omniscience (WOT) 70
+1 Orb of Dragonkind (AFR) 157
+1 Overgrown Tomb (UNF) 284
+1 Path of Ancestry (MOC) 418
+1 Plains (J22) 98
+1 Polluted Delta (KTK) 239
+1 Raise the Palisade (LTC) 23
+1 Return of the Wildspeaker (ELD) 172
+1 Rith, Liberated Primeval (DMU) 214
+1 Rivaz of the Claw (DMU) 215
+1 Roaming Throne (LCI) 344
+1 Sacred Foundry (UNF) 285
+1 Sarkhan, Fireblood (M19) 154
+1 Savage Ventmaw (DTK) 231
+1 Scalding Tarn (MM3) 244
+1 Scalelord Reckoner (C17) 6
+1 Scourge of the Throne (CNS) 35
+1 Sol Ring (MOC) 381
+1 Spara's Headquarters (SNC) 293
+1 Steam Vents (UNF) 283
+1 Stomping Ground (UNF) 280
+1 Swamp (J22) 106
+1 Swords to Plowshares (MOC) 211
+1 Teferi's Protection (C17) 8
+1 Temple Garden (UNF) 281
+1 Temple of the Dragon Queen (AFR) 260
+1 Temur Ascendancy (KTK) 207
+1 Terror of the Peaks (M21) 369
+1 The Great Henge (LTC) 348
+1 The Kami War // O-Kagachi Made Manifest (NEO) 227 *F*
+1 The World Tree (KHM) 373
+1 Tiamat (AFR) 298
+1 Urza's Incubator (C15) 273
+1 Utvara Hellkite (C17) 144
+1 Watery Grave (UNF) 278
+1 Windswept Heath (KTK) 248
+1 Wooded Foothills (KTK) 249
+1 Zagoth Triome (IKO) 313
+1 Ziatora's Proving Ground (SNC) 295
+1 Zurgo and Ojutai (PMOM) 258p

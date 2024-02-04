@@ -1,97 +1,98 @@
 1 Mishra, Eminent One (BRC) 1 *F*
-1 Academy Ruins (MMA) 219 #!Colorless #!Utility Land
-1 Arcane Signet (BRC) 132 #!Fixing #!Ramp
+1 Academy Ruins (MMA) 219
+1 Arcane Signet (BRC) 132
 1 Arcum Dagsson (CSP) 27
-1 Badlands (3ED) 282 #!Black #!Red
+1 Badlands (3ED) 282
 1 Basalt Monolith (3ED) 235
-1 Blasphemous Act (BRC) 113 #!Sweeper
+1 Blasphemous Act (BRC) 113
 1 Blightsteel Colossus (MBS) 99
-1 Blood Crypt (UNF) 279 #!Black #!Red
-1 Bloodstained Mire (KTK) 230 #!Black #!Red
-1 Brudiclad, Telchor Engineer (BRC) 122 #!Tokens
-1 Cascade Bluffs (CMM) 990 #!Blue #!Red
-1 Chaos Warp (BRC) 114 #!Removal
+1 Blood Crypt (UNF) 279
+1 Bloodstained Mire (KTK) 230
+1 Brudiclad, Telchor Engineer (BRC) 122
+1 Cascade Bluffs (CMM) 990
+1 Chaos Warp (BRC) 114
+1 Chimil, the Inner Sun (LCI) 249
+1 Cityscape Leveler (BRO) 363
 1 Coldsteel Heart (2X2) 301 *F*
-1 Command Tower (BRC) 178 #!Any Color
+1 Command Tower (BRC) 178
 1 Commander's Sphere (MOC) 352
-1 Cursed Mirror (BRC) 115 #!Ramp
-1 Darksteel Citadel (DST) 164 #!Colorless
+1 Cursed Mirror (BRC) 115
+1 Darksteel Citadel (DST) 164
 1 Darksteel Forge (M14) 206
-1 Deflecting Swat (C20) 50 #!Defense #!Removal
-1 Demonic Tutor (3ED) 105 #!Tutors
-1 Determined Iteration (NCC) 45 #!Tokens
-1 Dockside Extortionist (2X2) 360 #!Ramp
-1 Drossforge Bridge (BRC) 183 #!Black #!Red
-1 Emry, Lurker of the Loch (BRC) 81 #!Graveyard
-1 Etherium Sculptor (ALA) 42 #!Ramp
-1 Expressive Iteration (BRC) 125 #!Card Advantage
-1 Fabricate (MRD) 35 #!Tutor
-1 Fierce Guardianship (C20) 35 #!Defense
-1 Great Furnace (BRC) 187 #!Red
-1 Haunted Ridge (MID) 282 #!Black #!Red
-1 Ichor Wellspring (BRC) 143 #!Card Advantage
-1 Idol of Oblivion (BRC) 144 #!Card Advantage
-3 Island (MOM) 278 #!Blue
+1 Deflecting Swat (C20) 50
+1 Demonic Tutor (3ED) 105
+1 Determined Iteration (NCC) 45
+1 Dockside Extortionist (2X2) 360
+1 Drossforge Bridge (BRC) 183
+1 Emry, Lurker of the Loch (BRC) 81
+1 Etherium Sculptor (ALA) 42
+1 Fabricate (MRD) 35
+1 Fierce Guardianship (C20) 35
+1 Great Furnace (BRC) 187
+1 Haunted Ridge (MID) 282
+1 Ichor Wellspring (BRC) 143
+1 Idol of Oblivion (BRC) 144
+2 Island (MOM) 278
 1 Jhoira, Ageless Innovator (DMU) 301
-1 Jhoira, Weatherlight Captain (BRC) 126 #!Card Advantage
-1 Kappa Cannoneer (NEC) 14 #!Threat
+1 Jhoira, Weatherlight Captain (BRC) 126
+1 Kappa Cannoneer (NEC) 14
 1 Karn, Legacy Reforged (MAT) 184
-1 Liberator, Urza's Battlethopter (BRO) 237 #!Flash
-1 Lightning Greaves (LTC) 281 #!Protection
-1 Lithoform Engine (BRC) 146 #!Utility
-1 Luxury Suite (ZNE) 18 #!Black #!Red
+1 Liberator, Urza's Battlethopter (BRO) 237
+1 Lightning Greaves (LTC) 281
+1 Luxury Suite (ZNE) 18
 1 Machine God's Effigy (BRC) 16
-1 Mana Drain (CMR) 80 #!Protection
+1 Mana Drain (CMR) 80
 1 Metalworker (UDS) 135
-1 Mindslaver (MRD) 206 #!Threat
-1 Mistvault Bridge (BRC) 189 #!Black #!Blue
+1 Mindslaver (MRD) 206
+1 Mistvault Bridge (BRC) 189
 1 Mithril Coat (LTR) 379
-1 Morphic Pool (BBD) 83 #!Black #!Blue
-2 Mountain (BRC) 35 #!Red
+1 Morphic Pool (BBD) 83
+2 Mountain (BRC) 35
 1 Mox Amber (DOM) 224
 1 Mox Opal (2XM) 275
+1 Mystic Forge (CMM) 964
 1 Obeka, Brute Chronologist (CMR) 289
-1 Otawara, Soaring City (NEO) 503 #!Blue #!Protection #!Removal
-1 Polluted Delta (KTK) 239 #!Black #!Blue
-1 Portal to Phyrexia (BRO) 365 #!Removal #!Threat
+1 Otawara, Soaring City (NEO) 503
+1 Polluted Delta (KTK) 239
+1 Portal to Phyrexia (BRO) 365
 1 Reckless Handling (MAT) 19
-1 Rhystic Study (J22) 114 #!Card Advantage
+1 Rhystic Study (J22) 114
 1 Rise and Shine (MH2) 58
-1 Riverglide Pathway // Lavaglide Pathway (ZNR) 289 #!Blue #!Red
+1 Riverglide Pathway // Lavaglide Pathway (ZNR) 289
 1 RMS Titanic (WHO) 93
-1 Saheeli, Filigree Master (BRO) 219 #!Card Advantage #!Ramp
-1 Scalding Tarn (MM3) 244 #!Blue #!Red
+1 Scalding Tarn (MM3) 244
 1 Scroll Rack (TMP) 308
-1 Seat of the Synod (BRC) 198 #!Blue
-1 Sensei's Divining Top (2X2) 398 #!Card Selection
-1 Shipwreck Marsh (MID) 285 #!Black #!Blue
-1 Silverbluff Bridge (BRC) 200 #!Blue #!Red
-1 Sol Ring (BRC) 160 #!Ramp
+1 Seat of the Synod (BRC) 198
+1 Sensei's Divining Top (2X2) 398
+1 Shipwreck Marsh (MID) 285
+1 Silverbluff Bridge (BRC) 200
+1 Sol Ring (BRC) 160
 1 Solemn Simulacrum (BRC) 161
-1 Spine of Ish Sah (BRC) 162
-1 Spire of Industry (BRC) 203 #!Any Color
-1 Steam Vents (UNF) 283 #!Blue #!Red
-1 Stormcarved Coast (VOW) 284 #!Blue #!Red
-1 Strionic Resonator (BRC) 165 #!Utility
-1 Sunken Ruins (SHM) 280 #!Black #!Blue
-1 Swamp (MOM) 279 #!Black
-1 Swiftfoot Boots (NCC) 382 #!Protection
-1 Talisman of Creativity (MH1) 231 #!Ramp
-1 Talisman of Dominance (MRD) 253 #!Ramp
-1 Talisman of Indulgence (MRD) 255 #!Ramp
-1 Terisiare's Devastation (BRC) 9 #!Sweeper
+1 Spire of Industry (BRC) 203
+1 Steam Vents (UNF) 283
+1 Stormcarved Coast (VOW) 284
+1 Strionic Resonator (BRC) 165
+1 Sunken Ruins (SHM) 280
+1 Swamp (MOM) 279
+1 Swiftfoot Boots (NCC) 382
+1 Talisman of Creativity (MH1) 231
+1 Talisman of Dominance (MRD) 253
+1 Talisman of Indulgence (MRD) 255
+1 The Belligerent (LCI) 225
+1 The Master, Multiplied (WHO) 146
 1 The One Ring (LTR) 451
-1 The Reality Chip (NEO) 74 #!Card Advantage
-1 The Stasis Coffin (BRO) 245 *F* #!Protection
-1 Thoughtcast (BRC) 99 #!Card Advantage
-1 Training Center (CMR) 713 #!Blue #!Red
+1 The Reality Chip (NEO) 74
+1 The Stasis Coffin (BRO) 245 *F*
+1 Thoughtcast (BRC) 99
+1 Training Center (CMR) 713
+1 Troll of Khazad-dûm (LTR) 111
 1 Unwinding Clock (NPH) 164
 1 Urza, Lord High Artificer (CMM) 674
-1 Urza's Saga (MH2) 259 #!Colorless
-1 Vampiric Tutor (VIS) 72 #!Tutors
-1 Vault of Whispers (BRC) 211 #!Black
-1 Watery Grave (UNF) 278 #!Black #!Blue
-1 Weatherlight (DOM) 237 #!Card Advantage
+1 Urza's Saga (MH2) 259
+1 Vampiric Tutor (VIS) 72
+1 Vault of Whispers (BRC) 211
+1 Watery Grave (UNF) 278
+1 Weatherlight (DOM) 237
 1 Wondrous Crucible (BRC) 20
 1 Wurmcoil Engine (2XM) 308
-1 Xander's Lounge (SNC) 294 #!Black #!Blue #!Red
+1 Xander's Lounge (SNC) 294

@@ -1,0 +1,96 @@
+1 Gishath, Sun's Avatar (XLN) 222
+1 Akroma's Will (LCC) 125
+1 Ancient Tomb (TMP) 315
+1 Arcane Signet (MOC) 348
+1 Arid Mesa (MM3) 229
+1 Bloodstained Mire (KTK) 230
+1 Bonehoard Dracosaur (LCI) 321
+1 Boseiju, Who Endures (NEO) 501
+1 Bountiful Promenade (ZNE) 20
+1 Carnage Tyrant (XLN) 179
+1 Cavern of Souls (AVR) 226
+1 Chandra's Ignition (LCC) 220
+1 Command Tower (MOC) 396
+1 Cultivate (LCC) 235
+1 Curious Altisaur (LCC) 90
+1 Defense of the Heart (ULG) 100
+1 Deflecting Swat (C20) 50
+1 Delighted Halfling (LTR) 158
+1 Descendants' Path (LCC) 238
+1 Dinosaurs on a Spaceship (WHO) 122
+1 Doors of Durin (LTR) 199
+1 Drover of the Mighty (LCC) 239
+1 Entish Restoration (LTR) 163
+1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
+1 Farseek (LCC) 242
+1 Finale of Devastation (WAR) 160
+1 Fire-Lit Thicket (SHM) 271
+1 Flawless Maneuver (C20) 26
+1 Flooded Strand (KTK) 233
+3 Forest (J22) 110
+1 Ghalta and Mavren (MOM) 225
+1 Ghalta, Primal Hunger (CMM) 292
+1 Ghalta, Stampede Tyrant (LCI) 326
+1 Heroic Intervention (LTC) 249
+1 Hulking Raptor (LCI) 327
+1 Hunting Velociraptor (REX) 4
+1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190
+1 Jetmir's Garden (SNC) 291
+1 Kogla and Yidaro (MOM) 244
+1 Last March of the Ents (LTR) 418
+1 Mana Confluence (JOU) 163
+1 Mana Crypt (2XM) 270
+1 Marauding Raptor (LCC) 228
+1 Marsh Flats (MM3) 239
+1 Mirari's Wake (C17) 181
+1 Misty Rainforest (MM3) 240
+2 Mountain (J22) 107
+1 Nature's Lore (DMR) 170
+1 Otepec Huntmaster (LCC) 229
+1 Overgrown Farmland (WHO) 292
+1 Pantlaza, Sun-Favored (LCC) 4 *F*
+2 Plains (J22) 98
+1 Polyraptor (RIX) 144
+1 Prismatic Vista (MH1) 244
+1 Quartzwood Crasher (LCC) 281
+1 Rampant Growth (LCC) 248
+1 Regal Behemoth (LCC) 251
+1 Regisaur Alpha (LCC) 286
+1 Return of the Wildspeaker (ELD) 172
+1 Rhythm of the Wild (LCC) 287
+1 Ripjaw Raptor (LCC) 253
+1 Roaming Throne (LCI) 344
+1 Rockfall Vale (MID) 266
+1 Sacred Foundry (UNF) 285
+1 Scalding Tarn (MM3) 244
+1 Scion of Calamity (LCC) 93
+1 Secluded Courtyard (LTC) 330
+1 Sol Ring (MOC) 381
+1 Spectator Seating (CMR) 711
+1 Spire Garden (ZNE) 19
+1 Stomping Ground (UNF) 280
+1 Sundown Pass (WHO) 310
+1 Sunfrill Imitator (LCC) 94
+1 Sunhome, Fortress of the Legion (CMR) 496
+1 Teferi's Protection (C17) 8
+1 Temple Altisaur (LCC) 138
+1 Temple Garden (UNF) 281
+1 The Great Henge (LTC) 348
+1 The Skullspore Nexus (LCI) 212
+1 Thrashing Brontodon (LCI) 216
+1 Tithe (VIS) 23
+1 Topiary Stomper (LCC) 261
+1 Trapjaw Tyrant (RIX) 29
+1 Unclaimed Territory (LCC) 366
+1 Urza's Incubator (C15) 273
+1 Urza's Saga (MH2) 259
+1 Verdant Catacombs (MM3) 249
+1 Wakening Sun's Avatar (LCC) 139
+1 Wayward Swordtooth (LCC) 263
+1 Welcome to . . . // Jurassic Park (REX) 7
+1 Windswept Heath (KTK) 248
+1 Wooded Bastion (SHM) 281
+1 Wooded Foothills (KTK) 249
+1 Wrathful Raptors (LCC) 88
+1 Xenagos, God of Revels (LCC) 295
+1 Zacama, Primal Calamity (LCC) 296

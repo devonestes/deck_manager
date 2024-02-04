@@ -2,11 +2,12 @@ Wurmcoil Engine (PROXY)
 Watery Grave (PROXY)
 Vampiric Tutor (PROXY)
 Urza's Saga (PROXY)
+Troll of Khazad-dûm (PROXY)
 Training Center (PROXY)
+Talisman of Creativity (PROXY)
 Sunken Ruins (PROXY)
 Stormcarved Coast (PROXY)
 Steam Vents (PROXY)
-Sol Ring (PROXY)
 Shipwreck Marsh (PROXY)
 Scroll Rack (PROXY)
 Scalding Tarn (PROXY)
@@ -15,86 +16,85 @@ Rhystic Study (PROXY)
 Polluted Delta (PROXY)
 Otawara, Soaring City (PROXY)
 Morphic Pool (PROXY)
+Mithril Coat (PROXY)
+Luxury Suite (PROXY)
 Liberator, Urza's Battlethopter (PROXY)
+Haunted Ridge (PROXY)
 Fierce Guardianship (PROXY)
 Dockside Extortionist (PROXY)
 Demonic Tutor (PROXY)
 Deflecting Swat (PROXY)
-Command Tower (PROXY)
 Cascade Bluffs (PROXY)
-Arcane Signet (PROXY)
-Xander's Lounge (snc) 294
-Wondrous Crucible (brc) 20
-Weatherlight (dom) 237
-Vault of Whispers (brc) 211
-Urza, Lord High Artificer (cmm) 674
-Unwinding Clock (nph) 164
-Thoughtcast (mrd) 54
-The Stasis Coffin (bro) 245
-The Reality Chip (neo) 74
-The One Ring (ltr) 451
-Terisiare's Devastation (brc) 9
-Talisman of Indulgence (mrd) 255
-Talisman of Dominance (mrd) 253
-Talisman of Creativity (mh1) 231
-Swiftfoot Boots (ncc) 382
-Swamp (mom) 279
-Strionic Resonator (c19) 224
-Spire of Industry (brc) 203
-Spine of Ish Sah (brc) 162
-Solemn Simulacrum (brc) 161
-Silverbluff Bridge (brc) 200
-Sensei's Divining Top (2x2) 398
-Seat of the Synod (brc) 198
-Saheeli, Filigree Master (bro) 219
-RMS Titanic (who) 93
-Rise and Shine (mh2) 58
-Reckless Handling (mat) 19
-Portal to Phyrexia (bro) 365
-Obeka, Brute Chronologist (cmr) 289
-Mox Opal (2xm) 275
-Mox Amber (dom) 224
-Mountain (one) 270
-Mountain (mom) 280
-Mithril Coat (ltr) 379
-Mistvault Bridge (brc) 189
-Mindslaver (mrd) 206
-Metalworker (uds) 135
-Mana Drain (cmr) 80
-Machine God's Effigy (brc) 16
-Luxury Suite (zne) 18
-Lithoform Engine (brc) 146
-Lightning Greaves (mrd) 199
-Karn, Legacy Reforged (mat) 184
-Kappa Cannoneer (nec) 14
-Jhoira, Weatherlight Captain (brc) 126
-Jhoira, Ageless Innovator (dmu) 301
-Island (one) 263
-Island (one) 263
-Island (mom) 278
-Idol of Oblivion (brc) 144
-Ichor Wellspring (brc) 143
-Haunted Ridge (mid) 282
-Great Furnace (brc) 187
-Fabricate (mrd) 35
-Expressive Iteration (brc) 125
-Etherium Sculptor (ala) 42
-Emry, Lurker of the Loch (brc) 81
-Drossforge Bridge (brc) 183
-Determined Iteration (ncc) 45
-Darksteel Forge (m14) 206
-Darksteel Citadel (dst) 164
-Cursed Mirror (brc) 115
-Commander's Sphere (c21) 239
-Coldsteel Heart (2x2) 301
-Chaos Warp (brc) 114
-Brudiclad, Telchor Engineer (brc) 122
-Bloodstained Mire (ktk) 230
-Blood Crypt (unf) 279
-Blightsteel Colossus (mbs) 99
-Blasphemous Act (brc) 113
-Basalt Monolith (3ed) 235
-Badlands (3ed) 282
-Arcum Dagsson (csp) 27
-Academy Ruins (mma) 219
-Mishra, Eminent One (brc) 1
+Bloodstained Mire (PROXY)
+Blood Crypt (PROXY)
+Xander's Lounge
+Wondrous Crucible
+Weatherlight
+Vault of Whispers
+Urza, Lord High Artificer
+Unwinding Clock
+Thoughtcast
+The Stasis Coffin
+The Reality Chip
+The One Ring
+The Master, Multiplied
+The Belligerent
+Talisman of Indulgence
+Talisman of Dominance
+Swiftfoot Boots
+Swamp
+Strionic Resonator
+Spire of Industry
+Solemn Simulacrum
+Sol Ring
+Silverbluff Bridge
+Sensei's Divining Top
+Seat of the Synod
+RMS Titanic
+Rise and Shine
+Reckless Handling
+Portal to Phyrexia
+Obeka, Brute Chronologist
+Mystic Forge
+Mox Opal
+Mox Amber
+Mountain
+Mountain
+Mistvault Bridge
+Mindslaver
+Metalworker
+Mana Drain
+Machine God's Effigy
+Lightning Greaves
+Karn, Legacy Reforged
+Kappa Cannoneer
+Jhoira, Weatherlight Captain
+Jhoira, Ageless Innovator
+Island
+Island
+Idol of Oblivion
+Ichor Wellspring
+Great Furnace
+Fabricate
+Etherium Sculptor
+Emry, Lurker of the Loch
+Drossforge Bridge
+Determined Iteration
+Darksteel Forge
+Darksteel Citadel
+Cursed Mirror
+Commander's Sphere
+Command Tower
+Coldsteel Heart
+Cityscape Leveler
+Chimil, the Inner Sun
+Chaos Warp
+Brudiclad, Telchor Engineer
+Blightsteel Colossus
+Blasphemous Act
+Basalt Monolith
+Badlands
+Arcum Dagsson
+Arcane Signet
+Academy Ruins
+Mishra, Eminent One

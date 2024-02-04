@@ -1,101 +1,100 @@
 1 Go-Shintai of Life's Origin (NEC) 37
-1 Argothian Enchantress (USG) 234 #!Card Advantage
-1 Atraxa, Grand Unifier (ONE) 196 #!Card Advantage
-1 Birds of Paradise (4ED) 234 #Fixing #Ramp
-1 Bloom Tender (EVE) 66 #!Ramp
-1 Bountiful Promenade (ZNE) 20 #!Green #!White
-1 Breeding Pool (UNF) 286 #!Blue #!Green
-1 Brushland (BRO) 259 #!Green #!White
-1 Cacophony Unleashed (CMM) 730 #!Sweeper
-1 Calix, Destiny's Hand (THB) 211 #Card Advantage #Recursion
-1 City of Brass (5ED) 413 #!Any Color
-1 Command Tower (MOC) 396 #!Any Color
-1 Crop Rotation (DMR) 154 #!Fixing
-1 Cultivate (J22) 644 #!Fixing #!Ramp
-1 Cyclonic Rift (RTR) 35 #!Removal #!Sweeper
-1 Deflecting Swat (C20) 50 #!Defense #!Removal
-1 Demonic Tutor (3ED) 105 #!Tutors
-1 Destiny Spinner (THB) 168 #Defense
-1 Dryad of the Ilysian Grove (THB) 169 #!Fixing #!Ramp
-1 Eidolon of Blossoms (JOU) 122 #Card Advantage
-1 Enchantress's Presence (MH2) 283 #Card Advantage
-1 Enlightened Tutor (MIR) 14 #!Tutors
-1 Exotic Orchard (C19) 242 #!Any Color
-1 Extinguish All Hope (JOU) 68 #!Sweeper
-1 Fertile Ground (AFC) 158 #Fixing #Ramp
-1 Fierce Guardianship (C20) 35 #!Defense
-1 Fire-Lit Thicket (SHM) 271 #!Green #!Red
-1 Forest (ONE) 266 #!Green
-1 Ghostly Prison (ONC) 71 #!Defense
-1 Ghoulish Impetus (CMM) 732 #!Removal
-1 Go-Shintai of Ancient Wars (NEO) 144 #Shrines
-1 Go-Shintai of Boundless Vigor (NEO) 187 #Shrines
-1 Go-Shintai of Hidden Cruelty (NEO) 97 #Shrines
-1 Go-Shintai of Lost Wisdom (NEO) 55 #Shrines
-1 Go-Shintai of Shared Purpose (NEO) 14 #Shrines
-1 Hall of Heliod's Generosity (MH1) 241 #!Colorless
-1 Hallowed Fountain (UNF) 277 #!Blue #!White
-1 Heroic Intervention (LTC) 249 #!Defense
-1 Honden of Cleansing Fire (CHK) 14 #Shrines
-1 Honden of Infinite Rage (CHK) 172 #Shrines
-1 Honden of Life's Web (CHK) 213 #Shrines
-1 Honden of Night's Reach (CHK) 116 #Shrines
-1 Honden of Seeing Winds (CHK) 69 #Shrines
-1 Idyllic Tutor (MOR) 12 #!Tutors
-1 Indatha Triome (IKO) 309 #!Black #!Green #!White
-1 Island (ONE) 263 #!Blue
-1 Jetmir's Garden (SNC) 291 #!Green #!Red #!White
-1 Jukai Naturalist (NEO) 225 #Ramp
-1 Ketria Triome (IKO) 310 #!Blue #!Green #!Red
-1 Mirari's Wake (C17) 181 #!Anthem #!Ramp
-1 Misty Rainforest (MM3) 240 #!Blue #!Green
+1 Argothian Enchantress (USG) 234
+1 Atraxa, Grand Unifier (ONE) 196
+1 Birds of Paradise (4ED) 234
+1 Bloom Tender (EVE) 66
+1 Bountiful Promenade (ZNE) 20
+1 Breeding Pool (UNF) 286
+1 Brushland (BRO) 259
+1 Cacophony Unleashed (CMM) 730
+1 City of Brass (5ED) 413
+1 Command Tower (MOC) 396
+1 Crop Rotation (DMR) 154
+1 Cultivate (J22) 644
+1 Cyclonic Rift (RTR) 35
+1 Deflecting Swat (C20) 50
+1 Demonic Tutor (3ED) 105
+1 Destiny Spinner (THB) 168
+1 Dryad of the Ilysian Grove (THB) 169
+1 Eidolon of Blossoms (JOU) 122
+1 Enchantress's Presence (MH2) 283
+1 Enlightened Tutor (MIR) 14
+1 Exotic Orchard (C19) 242
+1 Extinguish All Hope (JOU) 68
+1 Fertile Ground (AFC) 158
+1 Fierce Guardianship (C20) 35
+1 Forbidden Orchard (C16) 296
+1 Forest (ONE) 266
+1 Ghostly Prison (ONC) 71
+1 Ghoulish Impetus (CMM) 732
+1 Go-Shintai of Ancient Wars (NEO) 144
+1 Go-Shintai of Boundless Vigor (NEO) 187
+1 Go-Shintai of Hidden Cruelty (NEO) 97
+1 Go-Shintai of Lost Wisdom (NEO) 55
+1 Go-Shintai of Shared Purpose (NEO) 14
+1 Greater Auramancy (WOT) 64
+1 Hall of Heliod's Generosity (MH1) 241
+1 Hallowed Fountain (UNF) 277
+1 Heroic Intervention (LTC) 249
+1 Honden of Cleansing Fire (CHK) 14
+1 Honden of Infinite Rage (CHK) 172
+1 Honden of Life's Web (CHK) 213
+1 Honden of Night's Reach (CHK) 116
+1 Honden of Seeing Winds (CHK) 69
+1 Idyllic Tutor (MOR) 12
+1 Indatha Triome (IKO) 309
+1 Island (ONE) 263
+1 Jetmir's Garden (SNC) 291
+1 Jukai Naturalist (NEO) 225
+1 Ketria Triome (IKO) 310
+1 Mirari's Wake (C17) 181
+1 Misty Rainforest (MM3) 240
 1 Moat (LEG) 28
-1 Moon-Blessed Cleric (AFR) 26 #Tutors
-1 Mountain (ONE) 270 #!Red
-1 Nessian Wanderer (THB) 183 #Card Advantage #Ramp
-1 Oracle of Mul Daya (JMP) 415 #!Ramp
-1 Overgrown Tomb (UNF) 284 #!Black #!Green
-1 Peacekeeper (WTH) 22 #!Defense
-1 Plains (3ED) 292 #!White
-1 Reliquary Tower (BRC) 196 #!Colorless
-1 Replenish (UDS) 15 #!Recursion
-1 Retribution of the Meek (VIS) 19 #!Sweeper
-1 Rhystic Study (J22) 114 #!Card Advantage
-1 Rockfall Vale (MID) 266 #!Green #!Red
-1 Sanctum of All (M21) 225 *F* #Shrines
-1 Sanctum of Calm Waters (M21) 68 *F* #Shrines
-1 Sanctum of Fruitful Harvest (M21) 203 #Shrines
-1 Sanctum of Shattered Heights (M21) 157 #Shrines
-1 Sanctum of Stone Fangs (M21) 120 *F* #Shrines
-1 Sanctum of Tranquil Light (M21) 33 #Shrines
-1 Sanctum Weaver (MH2) 171 #Ramp
-1 Savai Triome (IKO) 312 #!Black #!Red #!White
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333 #!Blue #!Card Advantage
-1 Sea of Clouds (BBD) 84 #!Blue #!White
+1 Moon-Blessed Cleric (AFR) 26
+1 Mountain (ONE) 270
+1 Nessian Wanderer (THB) 183
+1 Oracle of Mul Daya (JMP) 415
+1 Overgrown Farmland (WHO) 292
+1 Overgrown Tomb (UNF) 284
+1 Peacekeeper (WTH) 22
+1 Plains (3ED) 292
+1 Reliquary Tower (BRC) 196
+1 Replenish (UDS) 15
+1 Rhystic Study (J22) 114
+1 Rockfall Vale (MID) 266
+1 Sanctum of All (M21) 225 *F*
+1 Sanctum of Calm Waters (M21) 68 *F*
+1 Sanctum of Fruitful Harvest (M21) 203
+1 Sanctum of Shattered Heights (M21) 157
+1 Sanctum of Stone Fangs (M21) 120 *F*
+1 Sanctum of Tranquil Light (M21) 33
+1 Sanctum Weaver (MH2) 171
+1 Savai Triome (IKO) 312
+1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+1 Sea of Clouds (BBD) 84
 1 Setessan Champion (CMM) 912
-1 Shrine Steward (NEO) 259 *F* #Tutors
-1 Sigil of the Empty Throne (J22) 244 #Utility
-1 Smothering Tithe (RNA) 22 #!Fixing #!Ramp
-1 Sol Ring (3ED) 274 #!Ramp
-1 Spara's Headquarters (SNC) 293 #!Blue #!Green #!White
-1 Steam Vents (UNF) 283 #!Blue #!Red
-1 Sterling Grove (MH2) 293 #!Defense #!Tutors
-1 Stomping Ground (UNF) 280 #!Green #!Red
-1 Swamp (MOM) 279 #!Black
-1 Swan Song (LTC) 197 #!Defense
-1 Sythis, Harvest's Hand (MH2) 214 #Card Advantage
-1 Teferi's Protection (C17) 8 #!Defense
-1 Temple Garden (UNF) 281 #!Green #!White
-1 The World Tree (KHM) 373 #!Fixing #!Green
-1 Tithe (VIS) 23 #!Card Advantage
-1 Vampiric Tutor (VIS) 72 #!Tutors
-1 Verdant Catacombs (MM3) 249 #!Black #!Green
-1 Verduran Enchantress (4ED) 281 #Card Advantage
-1 Watery Grave (UNF) 278 #!Black #!Blue
-1 Windswept Heath (EXP) 20 *F* #!Green #!White
-1 Wooded Bastion (SHM) 281 #!Green #!White
-1 Wooded Foothills (KTK) 249 #!Green #!Red
-1 Yavimaya Coast (DMU) 261 *F* #!Blue #!Green
-1 Zagoth Triome (IKO) 313 #!Black #!Blue #!Green
-1 Ziatora's Proving Ground (SNC) 295 #!Black #!Green #!Red
-1 Zur the Enchanter (DMR) 374 #Card Advantage #Utility
+1 Shrine Steward (NEO) 259 *F*
+1 Sigil of the Empty Throne (J22) 244
+1 Smothering Tithe (RNA) 22
+1 Sol Ring (3ED) 274
+1 Spara's Headquarters (SNC) 293
+1 Steam Vents (UNF) 283
+1 Sterling Grove (MH2) 293
+1 Stomping Ground (UNF) 280
+1 Swamp (MOM) 279
+1 Swan Song (LTC) 197
+1 Sythis, Harvest's Hand (MH2) 214
+1 Teferi's Protection (C17) 8
+1 Temple Garden (UNF) 281
+1 The World Tree (KHM) 373
+1 Tithe (VIS) 23
+1 Vampiric Tutor (VIS) 72
+1 Verdant Catacombs (MM3) 249
+1 Verduran Enchantress (4ED) 281
+1 Watery Grave (UNF) 278
+1 Windswept Heath (EXP) 20 *F*
+1 Wooded Bastion (SHM) 281
+1 Wooded Foothills (KTK) 249
+1 Zagoth Triome (IKO) 313
+1 Ziatora's Proving Ground (SNC) 295
+1 Zur the Enchanter (DMR) 374

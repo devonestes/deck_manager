@@ -1,0 +1,96 @@
+1 Zhulodok, Void Gorger (CMM) 752
+1 Akroma's Memorial (FUT) 159
+1 All Is Dust (CMM) 800
+1 Ancient Tomb (TMP) 315
+1 Arch of Orazca (LCC) 319
+1 Artisan of Kozilek (CMM) 801
+1 Bane of Bala Ged (CMM) 802
+1 Basalt Monolith (3ED) 235
+1 Blightsteel Colossus (MBS) 99
+1 Bonders' Enclave (CMM) 988
+1 Bottled Cloister (RVR) 389
+1 Breaker of Armies (BFZ) 3
+1 Buried Ruin (BRC) 177
+1 Burnished Hart (CLB) 303
+1 Calamity of the Titans (CMM) 713
+1 Cavern of Souls (AVR) 226
+1 Commander's Plate (CMR) 692
+1 Crystal Vein (MIR) 325
+1 Darksteel Citadel (MM2) 238
+1 Darksteel Monolith (CMM) 743
+1 Deceiver of Form (OGW) 1
+1 Desolation Twin (C19) 60
+1 Doubling Cube (5DN) 116
+1 Eldrazi Temple (ROE) 227
+1 Emrakul, the Promised End (EMN) 6
+1 Endbringer (J22) 748
+1 Everflowing Chalice (LTC) 278
+1 Expedition Map (ZEN) 201
+1 Eye of Ugin (WWK) 136
+1 Field of Ruin (LTC) 308
+1 Forsaken Monument (CMM) 950
+1 Geier Reach Sanitarium (LCC) 335
+1 Guildless Commons (CMM) 1003
+1 Hedron Archive (BRC) 142
+1 It That Betrays (ROE) 7
+1 Kozilek, Butcher of Truth (ROE) 6
+1 Kozilek, the Great Distortion (CMM) 668
+1 Liberator, Urza's Battlethopter (BRO) 237
+1 Lightning Greaves (LTC) 281
+1 Mage-Ring Network (C21) 300
+1 Mana Crypt (2XM) 270
+1 Mana Vault (2ED) 260
+1 Matter Reshaper (CMM) 806
+1 Mind Stone (MOC) 364
+1 Mirage Mirror (CMM) 962
+1 Mirrorpool (CMM) 1010
+1 Mishra's Factory (4ED) 361
+1 Myriad Landscape (MOC) 416
+1 Mystic Forge (CMM) 964
+1 Not of This World (CMM) 807
+1 Oblivion Sower (CMM) 808
+1 Ornithopter of Paradise (MH2) 430
+1 Palladium Myr (CMM) 967
+1 Portal to Phyrexia (BRO) 365
+1 Progenitor's Icon (LCC) 100
+1 Reality Smasher (OGW) 7
+1 Reliquary Tower (BRC) 196
+1 Rise of the Eldrazi (CMM) 716
+1 Roaming Throne (LCI) 344
+1 Rogue's Passage (LTC) 326
+1 Sanctum of Ugin (BFZ) 242
+1 Scorched Ruins (WTH) 166
+1 Sea Gate Wreckage (CMM) 1028
+1 Shrine of the Forsaken Gods (C19) 273
+1 Sol Ring (MOC) 381
+1 Solemn Simulacrum (BRC) 161
+1 Spawnsire of Ulamog (ROE) 11
+1 Swiftfoot Boots (BRC) 166
+1 Temple of the False God (MOC) 437
+1 The Irencrag (WOE) 248
+1 Thought Vessel (PLG22) 2 *F*
+1 Thran Dynamo (BRC) 168
+1 Titan's Presence (J22) 749
+1 Tomb of the Spirit Dragon (CMM) 1048
+1 Tyrite Sanctum (CMM) 1049
+1 Ugin, the Ineffable (WAR) 2
+1 Ugin, the Spirit Dragon (M21) 1
+1 Ugin's Mastery (CMM) 718
+1 Ulamog, the Ceaseless Hunger (BFZ) 15
+1 Ulamog, the Infinite Gyre (ROE) 12
+1 Ulamog's Crusher (CMM) 6
+1 Unstable Obelisk (JMP) 489
+1 Urza's Incubator (C15) 273
+1 Urza's Mine (5ED) 427
+1 Urza's Power Plant (5ED) 428
+1 Urza's Saga (MH2) 259
+1 Urza's Tower (CHR) 116b
+1 Urza's Workshop (BRC) 51
+1 Void Winnower (BFZ) 17
+1 War Room (WHO) 330
+1 Warping Wail (CMM) 812
+3 Wastes (CMM) 1056
+3 Wastes (CMM) 1055
+1 Wondrous Crucible (BRC) 20
+1 Worn Powerstone (LTC) 293
+1 Zhalfirin Void (AFC) 273

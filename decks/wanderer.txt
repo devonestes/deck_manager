@@ -1,94 +1,95 @@
 1 Maelstrom Wanderer (CMM) 684
-1 Aesi, Tyrant of Gyre Strait (CMR) 365 *F*
 1 Ancient Copper Dragon (CLB) 161
-1 Ancient Tomb (TMP) 315 #!Colorless
-1 Arcane Signet (MOC) 348 #!Fixing #!Ramp
-1 Arixmethes, Slumbering Isle (MUL) 32
-1 Avenger of Zendikar (C13) 135 #!Wincon
+1 Ancient Tomb (TMP) 315
+1 Arcane Signet (MOC) 348
 1 Balefire Dragon (ISD) 129
 1 Beanstalk Giant // Fertile Footsteps (ELD) 149
-1 Boseiju, Who Endures (NEO) 501 #!Green #!Removal
-1 Breeding Pool (UNF) 286 #!Blue #!Green
-1 Cascade Bluffs (CMM) 990 #!Blue #!Red
+1 Boseiju, Who Endures (NEO) 501
+1 Breeding Pool (UNF) 286
+1 Cascade Bluffs (CMM) 990
 1 Colossal Skyturtle (NEO) 216
-1 Command Tower (MOC) 396 #!Any Color
+1 Command Tower (MOC) 396
 1 Consecrated Sphinx (MBS) 21
-1 Cultivate (J22) 644 #!Fixing #!Ramp
+1 Cultivate (J22) 644
 1 Defense of the Heart (ULG) 100
-1 Delighted Halfling (LTR) 158 #!Ramp
-1 Dockside Extortionist (2X2) 360 #!Ramp
+1 Delighted Halfling (LTR) 158
+1 Dockside Extortionist (2X2) 360
 1 Drakuseth, Maw of Flames (CLB) 790
-1 Dreamroot Cascade (VOW) 282 #!Blue #!Green
+1 Dreamroot Cascade (VOW) 282
 1 Entish Restoration (LTR) 163
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
-1 Farseek (C19) 165 #!Ramp
+1 Farseek (C19) 165
 1 Fiery Emancipation (M21) 366
-1 Fire-Lit Thicket (SHM) 271 #!Green #!Red
-1 Flooded Grove (LTC) 309 #!Blue #!Green
+1 Fire-Lit Thicket (SHM) 271
+1 Flooded Grove (LTC) 309
 1 Food Chain (MMQ) 246
-3 Forest (J22) 110 #!Green
+3 Forest (J22) 110
 1 Genesis Ultimatum (IKO) 189
 1 Goldspan Dragon (J22) 550
-1 Hinterland Harbor (LTC) 317 #!Blue #!Green
+1 Hinterland Harbor (LTC) 317
 1 Hullbreaker Horror (WOC) 95
 1 Ilysian Caryatid (J22) 676
 1 Imoti, Celebrant of Bounty (MUL) 43
 1 Into the North (CSP) 111
-2 Island (MOM) 278 #!Blue
-1 Ketria Triome (IKO) 310 #!Blue #!Green #!Red
+2 Island (MOM) 278
+1 Ketria Triome (IKO) 310
 1 Klauth, Unrivaled Ancient (AFC) 320
-1 Kodama's Reach (CLB) 826 #!Fixing #!Ramp
+1 Kodama's Reach (CLB) 826
 1 Kogla and Yidaro (MOM) 244
 1 Kogla, the Titan Ape (IKO) 162
-1 Koma, Cosmos Serpent (KHM) 221 #!Wincon
+1 Koma, Cosmos Serpent (KHM) 221
 1 Migration Path (IKO) 164
 1 Misthollow Griffin (FMB1) 26 *F*
-1 Misty Rainforest (MM3) 240 #!Blue #!Green
-2 Mountain (LTR) 268 #!Red
-1 Nature's Lore (DMR) 170 #!Ramp
+1 Misty Rainforest (MM3) 240
+2 Mountain (LTR) 268
+1 Nissa, Ascended Animist (ONE) 339
 1 Nyxbloom Ancient (THB) 190
-1 Ohran Frostfang (SLD) 237 #!Card Advantage
 1 Old Gnawbone (AFR) 197
-1 Oracle of Mul Daya (JMP) 415 #!Ramp
+1 Oracle of Mul Daya (JMP) 415
 1 Orcish Lumberjack (ICE) 210
-1 Otawara, Soaring City (NEO) 503 #!Blue #!Protection #!Removal
-1 Prismatic Vista (MH1) 244 #!Any Color
-1 Rampant Growth (M12) 190 #!Ramp
+1 Otawara, Soaring City (NEO) 503
+1 Pathbreaker Ibex (SLD) 307
+1 Prismatic Vista (MH1) 244
+1 Rampant Growth (M12) 190
 1 Ranger's Path (M13) 186
-1 Rejuvenating Springs (LTC) 325 #!Blue #!Green
+1 Rejuvenating Springs (LTC) 325
 1 Rishkar's Expertise (NEC) 127
-1 Riverglide Pathway // Lavaglide Pathway (ZNR) 289 #!Blue #!Red
-1 Rockfall Vale (MID) 266 #!Green #!Red
-1 Sakura-Tribe Elder (CHK) 239 #!Fixing #!Ramp
+1 Riverglide Pathway // Lavaglide Pathway (ZNR) 289
+1 Rockfall Vale (MID) 266
+1 Sakura-Tribe Elder (CHK) 239
 1 Sarkhan's Unsealing (JMP) 361
-1 Scalding Tarn (MM3) 244 #!Blue #!Red
+1 Scalding Tarn (MM3) 244
 1 Scourge of the Throne (CNS) 35
 1 Scroll Rack (TMP) 308
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333 #!Blue #!Card Advantage
-1 Selvala, Heart of the Wilds (JMP) 429 #!Ramp
+1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+1 Selvala, Heart of the Wilds (JMP) 429
+1 Selvala's Stampede (CN2) 71
 1 Skyshroud Claim (CMM) 321
-3 Snow-Covered Forest (ICE) 383 #!Green
-1 Snow-Covered Island (ICE) 371 #!Blue
-1 Snow-Covered Mountain (ICE) 379 #!Red
-1 Sol Ring (MOC) 381 #!Ramp
-1 Spire Garden (ZNE) 19 #!Green #!Red
-1 Steam Vents (UNF) 283 #!Blue #!Red
-1 Stomping Ground (UNF) 280 #!Green #!Red
-1 Stormcarved Coast (VOW) 284 #!Blue #!Red
-1 Sulfur Falls (LTC) 333 #!Blue #!Red
+2 Snow-Covered Forest (ICE) 383
+1 Snow-Covered Island (ICE) 371
+1 Snow-Covered Mountain (ICE) 379
+1 Sol Ring (MOC) 381
+1 Spire Garden (ZNE) 19
+1 Steam Vents (UNF) 283
+1 Stomping Ground (UNF) 280
+1 Stormcarved Coast (VOW) 284
+1 Sulfur Falls (LTC) 333
+1 Sun Quan, Lord of Wu (CMM) 123
 1 Sunbird's Invocation (SCD) 159
-1 Sylvan Library (CC1) 5 #!Card Advantage #!Card Selection
-1 Temur Sabertooth (NCC) 315 #!Recursion
+1 Sylvan Library (CC1) 5
+1 Temur Sabertooth (NCC) 315
 1 Terror of the Peaks (M21) 369
-1 Training Center (CMR) 713 #!Blue #!Red
-1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364 #!Green
+1 Three Visits (CMR) 261
+1 Time Spiral (USG) 103
+1 Training Center (CMR) 713
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
 1 Up the Beanstalk (WOE) 195
-1 Uro, Titan of Nature's Wrath (THB) 229 #!Ramp
-1 Urza's Saga (MH2) 259 #!Colorless
+1 Uro, Titan of Nature's Wrath (THB) 229
+1 Urza's Saga (MH2) 259
 1 Vastwood Surge (ZNR) 217
 1 Vorinclex // The Grand Evolution (MOM) 213
-1 Vorinclex, Monstrous Raider (KHM) 333 #!Counters
-1 Wooded Foothills (KTK) 249 #!Green #!Red
+1 Vorinclex, Monstrous Raider (KHM) 333
+1 Wooded Foothills (KTK) 249
 1 Wurmcoil Engine (2XM) 308
-1 Yavimaya Coast (DMU) 261 *F* #!Blue #!Green
+1 Yavimaya Coast (DMU) 261 *F*

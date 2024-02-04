@@ -7,7 +7,8 @@ defmodule DeckManager.MixProject do
       version: "0.1.0",
       elixir: "~> 1.13",
       start_permanent: Mix.env() == :prod,
-      deps: deps()
+      deps: deps(),
+      aliases: aliases()
     ]
   end
 
@@ -16,6 +17,22 @@ defmodule DeckManager.MixProject do
     [
       extra_applications: [:logger]
     ]
+  end
+
+  defp aliases do
+    [
+      build: &build/1
+    ]
+  end
+
+  defp build([]) do
+    Mix.Task.run("app.start")
+    DeckManager.run()
+  end
+
+  defp build([deck]) do
+    Mix.Task.run("app.start")
+    DeckManager.run(deck)
   end
 
   # Run "mix help deps" to learn about dependencies.

@@ -1,22 +1,14 @@
-Yavimaya, Cradle of Growth (PROXY)
-Yavimaya Hollow (PROXY)
 Wooded Foothills (PROXY)
 Vorinclex, Monstrous Raider (PROXY)
 Up the Beanstalk (PROXY)
-Twinning Staff (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Training Center (PROXY)
-The Ozolith (PROXY)
-The Great Henge (PROXY)
-The Goose Mother (PROXY)
 Temur Ascendancy (PROXY)
-Sulfur Falls (PROXY)
 Stormcarved Coast (PROXY)
 Stomping Ground (PROXY)
 Steam Vents (PROXY)
 Spire Garden (PROXY)
 Sol Ring (PROXY)
-Simic Growth Chamber (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
 Selvala, Heart of the Wilds (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
@@ -24,22 +16,11 @@ Scalding Tarn (PROXY)
 Rockfall Vale (PROXY)
 Rhystic Study (PROXY)
 Rejuvenating Springs (PROXY)
-Primordial Hydra (PROXY)
 Otawara, Soaring City (PROXY)
-Oran-Rief, the Vastwood (PROXY)
-Novijen, Heart of Progress (PROXY)
 Misty Rainforest (PROXY)
 Lightning Greaves (PROXY)
 Ketria Triome (PROXY)
-Karn's Bastion (PROXY)
-Invasion of Ikoria // Zilortha, Apex of Ikoria (PROXY)
-Inspiring Call (PROXY)
-Incubation Druid (PROXY)
-Hydroid Krasis (PROXY)
-Hinterland Harbor (PROXY)
 Heroic Intervention (PROXY)
-Gyre Sage (PROXY)
-Frontier Bivouac (PROXY)
 Flooded Grove (PROXY)
 Finale of Devastation (PROXY)
 Fierce Guardianship (PROXY)
@@ -48,53 +29,72 @@ Dreamroot Cascade (PROXY)
 Delighted Halfling (PROXY)
 Deflecting Swat (PROXY)
 Cyclonic Rift (PROXY)
-Command Tower (PROXY)
 Cascade Bluffs (PROXY)
 Breeding Pool (PROXY)
-Bred for the Hunt (PROXY)
 Boseiju, Who Endures (PROXY)
-Benevolent Hydra (PROXY)
-Awaken the Woods (PROXY)
-Arcane Signet (PROXY)
 Ancient Tomb (PROXY)
-All Will Be One (PROXY)
-Zoanthrope (40k) 149
-Winged Hive Tyrant (40k) 148
-Unbound Flourishing (mh1) 189
-Tyvar's Stand (one) 190
-Tyrant Guard (40k) 103
-The First Tyrannic War (40k) 121
-Tervigon (40k) 100
-Termagant Swarm (40k) 99
-Stonecoil Serpent (cmm) 976
-Steelbane Hydra (ncc) 313
-Starstorm (j22) 607
-Song of Totentanz (woe) 150
-Runadi, Behemoth Caller (j22) 44
-Ravener (40k) 138
-Rampant Growth (m12) 190
-Pull from Tomorrow (moc) 230
-Mountain (j22) 107
-Mountain (j22) 107
-Kiora, Behemoth Beckoner (war) 232
-Kami of Whispered Hopes (mom) 196
-Izzet Boilerworks (brc) 188
-Island (mom) 278
-Island (ltr) 264
-Hormagaunt Horde (40k) 93
-Harrow (znc) 69
-Hardened Scales (wot) 55
-Fractal Harness (c21) 61
-Forest (j22) 110
-Forest (j22) 110
-Forest (j22) 110
-Exocrine (40k) 76
-Elementalist's Palette (c21) 76
-Court of Garenbrig (woc) 25
-Clamavus (40k) 90
-Broodlord (40k) 89
-Branching Evolution (jmp) 29
-Blue Sun's Twilight (one) 379
-Animist's Awakening (ori) 169
-Aberrant (40k) 86
-Magus Lucea Kane (40k) 174
+Zoanthrope
+Yavimaya Hollow
+Winged Hive Tyrant
+Wave Goodbye
+Unbound Flourishing
+Tyvar's Stand
+Tyrant Guard
+Twinning Staff
+Thousand-Year Elixir
+The Ozolith
+The Goose Mother
+The First Tyrannic War
+Tervigon
+Termagant Swarm
+Sulfur Falls
+Stonecoil Serpent
+Steelbane Hydra
+Song of Totentanz
+Simic Growth Chamber
+Runadi, Behemoth Caller
+Ripples of Potential
+Ravener
+Rampant Growth
+Pull from Tomorrow
+Primordial Hydra
+Oran-Rief, the Vastwood
+Novijen, Heart of Progress
+Mountain
+Mountain
+Kiora, Behemoth Beckoner
+Karn's Bastion
+Kami of Whispered Hopes
+Izzet Boilerworks
+Island
+Island
+Invasion of Ikoria // Zilortha, Apex of Ikoria
+Inspiring Call
+Incubation Druid
+Illusionist's Bracers
+Hydroid Krasis
+Hormagaunt Horde
+Hinterland Harbor
+Hardened Scales
+Gyre Sage
+Frontier Bivouac
+Fractal Harness
+Forest
+Forest
+Exocrine
+Elementalist's Palette
+Crackle with Power
+Court of Garenbrig
+Command Tower
+Clamavus
+Broodlord
+Bred for the Hunt
+Branching Evolution
+Blue Sun's Twilight
+Benevolent Hydra
+Awaken the Woods
+Arcane Signet
+Animist's Awakening
+All Will Be One
+Aberrant
+Magus Lucea Kane

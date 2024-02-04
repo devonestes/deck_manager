@@ -1,16 +1,17 @@
 Yavimaya Hollow (PROXY)
 Wooded Foothills (PROXY)
 Winding Canyons (PROXY)
+Wayward Swordtooth (PROXY)
 Vorinclex, Monstrous Raider (PROXY)
 Vorinclex // The Grand Evolution (PROXY)
 Urza's Saga (PROXY)
 Uro, Titan of Nature's Wrath (PROXY)
 Tireless Provisioner (PROXY)
 The Great Henge (PROXY)
-Temple of Mystery (PROXY)
 Swan Song (PROXY)
 Sol Ring (PROXY)
 Skyshroud Claim (PROXY)
+Simic Growth Chamber (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Rhystic Study (PROXY)
 Return of the Wildspeaker (PROXY)
@@ -21,80 +22,79 @@ Otawara, Soaring City (PROXY)
 Oracle of Mul Daya (PROXY)
 Nyxbloom Ancient (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
-Nissa, Resurgent Animist (PROXY)
 Misty Rainforest (PROXY)
+Last March of the Ents (PROXY)
 Koma, Cosmos Serpent (PROXY)
-Kodama's Reach (PROXY)
 Imoti, Celebrant of Bounty (PROXY)
+Hydroid Krasis (PROXY)
 Hinterland Harbor (PROXY)
 Heroic Intervention (PROXY)
-Growth Spiral (PROXY)
 Flooded Grove (PROXY)
+Finale of Devastation (PROXY)
 Fierce Guardianship (PROXY)
+Field of the Dead (PROXY)
 Fabled Passage (PROXY)
 Entish Restoration (PROXY)
-Emerald Medallion (PROXY)
 Elven Chorus (PROXY)
+Dryad of the Ilysian Grove (PROXY)
 Delighted Halfling (PROXY)
 Cyclonic Rift (PROXY)
+Crucible of Worlds (PROXY)
+Crop Rotation (PROXY)
 Craterhoof Behemoth (PROXY)
+Command Tower (PROXY)
 Breeding Pool (PROXY)
-Avenger of Zendikar (PROXY)
-Augur of Autumn (PROXY)
-Arixmethes, Slumbering Isle (PROXY)
+Awaken the Woods (PROXY)
 Ancient Tomb (PROXY)
-Abundance (PROXY)
-Aesi, Tyrant of Gyre Strait (PROXY)
-Vorinclex, Voice of Hunger (ima) 189
-Undiscovered Paradise (vis) 167
-Titania, Protector of Argoth (cma) 157
-Thespian's Stage (c19) 282
-Thawing Glaciers (all) 144
-Tatyova, Steward of Tides (dmu) 222
-Tatyova, Benthic Druid (dmr) 203
-Storm Cauldron (all) 134
-Snow-Covered Island (ice) 371
-Snow-Covered Forest (ice) 383
-Skyshroud Ranger (tmp) 256
-Simic Growth Chamber (cm2) 267
-Scapeshift (m19) 201
-Roil Elemental (zen) 62
-Retreat to Coralhelm (bfz) 82
-Rampaging Baloths (c19) 176
-Palinchron (ulg) 38
-Oboro, Palace in the Clouds (ltc) 371
-Nissa, Steward of Elements (c20) 224
-Mystic Sanctuary (eld) 247
-Mana Breach (exo) 38
-Lotus Vale (wth) 165
-Llanowar Scout (dom) 170
-Last March of the Ents (ltr) 418
-Jungle Basin (vis) 164
-Island (3ed) 296
-Island (3ed) 296
-Island (3ed) 296
-Hydroid Krasis (rna) 183
-Halimar Depths (c18) 253
-Green Sun's Twilight (one) 169
-Great Whale (usg) 77
-Forest (j22) 112
-Forest (j22) 112
-Forest (j22) 112
-Forest (j22) 110
-Finale of Devastation (war) 160
-Field of the Dead (m20) 247
-Dryad of the Ilysian Grove (thb) 169
-Cultivator Colossus (vow) 195
-Cultivate (sta) 51
-Crucible of Worlds (10e) 319
-Crop Rotation (dmr) 154
-Coral Atoll (vis) 160
-Conduit of Worlds (one) 163
-Command Tower (ltc) 301
-Brokers Hideout (snc) 248
-Azusa, Lost but Seeking (a25) 161
-Awaken the Woods (bro) 344
-Ashaya, Soul of the Wild (znr) 179
-Arcane Denial (all) 22b
-Apex Devastator (cmr) 674
-Ancient Greenwarden (znr) 178
+Waterlogged Grove
+Vorinclex, Voice of Hunger
+Undiscovered Paradise
+Titania, Protector of Argoth
+Thespian's Stage
+Thawing Glaciers
+Temple of Mystery
+Tatyova, Steward of Tides
+Tatyova, Benthic Druid
+Storm Cauldron
+Snow-Covered Island
+Snow-Covered Forest
+Skyshroud Ranger
+Scapeshift
+Roil Elemental
+Retreat to Coralhelm
+Rampaging Baloths
+Palinchron
+Overburden
+Oboro, Palace in the Clouds
+Nissa, Steward of Elements
+Nissa, Resurgent Animist
+Mystic Sanctuary
+Mana Breach
+Lotus Vale
+Llanowar Scout
+Kodama's Reach
+Jungle Basin
+Island
+Island
+Island
+Halimar Depths
+Growth Spiral
+Greensleeves, Maro-Sorcerer
+Green Sun's Twilight
+Forest
+Forest
+Forest
+Forest
+Cultivator Colossus
+Coral Atoll
+Conduit of Worlds
+Blossoming Tortoise
+Azusa, Lost but Seeking
+Avenger of Zendikar
+Augur of Autumn
+Ashaya, Soul of the Wild
+Arixmethes, Slumbering Isle
+Apex Devastator
+Ancient Greenwarden
+Abundance
+Aesi, Tyrant of Gyre Strait
