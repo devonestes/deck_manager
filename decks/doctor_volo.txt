@@ -1,0 +1,97 @@
+1 Clara Oswald (WHO) 9
+1 The Sixth Doctor (WHO) 159
+1 Ancient Tomb (TMP) 315 #!Colorless
+1 Arcane Signet (MOC) 348 #!Fixing #!Ramp
+1 Basalt Monolith (3ED) 235 #Historic
+1 Blightsteel Colossus (MBS) 99 #Historic
+1 Boseiju, Who Endures (NEO) 501 #!Green #!Removal
+1 Breeding Pool (UNF) 286 #!Blue #!Green
+1 Brudiclad, Telchor Engineer (BRC) 122 #Historic #!Tokens
+1 Cackling Counterpart (ISD) 46
+1 Cascade Bluffs (CMM) 990 #!Blue #!Red
+1 Chromatic Orrery (M21) 382 #Historic
+1 Crystal Shard (MRD) 159 #Historic #!Protection #!Recursion
+1 Cultivate (J22) 644 #!Fixing #!Ramp
+1 Cyclonic Rift (RTR) 35 #!Removal #!Sweeper
+1 Delighted Halfling (LTR) 158 #!Ramp
+1 Determined Iteration (NCC) 45 #!Tokens
+1 Dreamroot Cascade (VOW) 282 #!Blue #!Green
+1 Dutiful Replicator (J22) 48 #Historic
+1 Entish Restoration (LTR) 163
+1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137 #Historic
+1 Fabled Passage (ELD) 244 #!Any Color
+1 Fblthp, the Lost (WAR) 50 #Historic
+1 Fierce Guardianship (C20) 35 #!Defense
+1 Fire-Lit Thicket (SHM) 271 #!Green #!Red
+1 Flooded Grove (LTC) 309 #!Blue #!Green
+2 Forest (J22) 110 #!Green
+1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (XLN) 191 #!Green #Historic
+1 Hedron Archive (BRC) 142 #!Card Advantage #Historic #!Ramp
+1 Helm of the Host (DOM) 217 #Historic
+1 Heroic Intervention (LTC) 249 #!Defense
+1 Hinterland Harbor (LTC) 317 #!Blue #!Green
+1 Idol of Oblivion (BRC) 144 #!Card Advantage #Historic
+1 Inga and Esika (MOM) 229 #Historic
+1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190 #Historic #!Tutor
+3 Island (J22) 101 #!Blue
+1 Jhoira, Weatherlight Captain (BRC) 126 #!Card Advantage #Historic
+1 Keruga, the Macrosage (MUL) 48 #Historic
+1 Ketria Triome (IKO) 310 #!Blue #!Green #!Red
+1 Koma, Cosmos Serpent (KHM) 221 #Historic #!Wincon
+1 Kozilek, Butcher of Truth (ROE) 6 #Historic
+1 Lifecrafter's Bestiary (PW23) 2 *F* #Historic
+1 Maelstrom Wanderer (CMM) 684 #Historic
+1 Minamo, School at Water's Edge (CHK) 279 #!Blue
+1 Mind Stone (MOC) 364 #Historic #!Ramp
+1 Misty Rainforest (MM3) 240 #!Blue #!Green
+1 Mithril Coat (LTR) 379 #Historic
+1 Mountain (J22) 107 #!Red
+1 Mox Amber (DOM) 224 #Historic
+1 Mystic Sanctuary (ELD) 247 #!Blue
+1 Old Gnawbone (AFR) 197 #Historic
+1 Ornithopter of Paradise (MH2) 430 #Historic
+1 Otawara, Soaring City (NEO) 503 #!Blue #!Protection #!Removal
+1 Perplexing Test (MOC) 229
+1 Plaza of Heroes (DMU) 421 #!Colorless
+1 Portal to Phyrexia (BRO) 365 #Historic #!Removal #!Threat
+1 Prismatic Vista (MH1) 244 #!Any Color
+1 Radagast the Brown (LTR) 184 #Historic
+1 Rejuvenating Springs (LTC) 325 #!Blue #!Green
+1 Rhystic Study (J22) 114 #!Card Advantage
+1 Rockfall Vale (MID) 266 #!Green #!Red
+1 Sakashima of a Thousand Faces (CMR) 89 #Historic
+1 Sakashima the Impostor (SOK) 53 #Historic
+1 Scalding Tarn (MM3) 244 #!Blue #!Red
+1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333 #!Blue #!Card Advantage
+1 See Double (MOM) 353
+1 Selvala, Heart of the Wilds (JMP) 429 #Historic #!Ramp
+1 Simic Growth Chamber (CM2) 267 #!Blue #!Green
+1 Skyshroud Claim (CMM) 321
+1 Sol Ring (MOC) 381 #!Ramp
+1 Soldevi Excavations (ALL) 143 #!Blue
+1 Solemn Simulacrum (BRC) 161 #Historic
+1 Spire Garden (ZNE) 19 #!Green #!Red
+1 Steam Vents (UNF) 283 #!Blue #!Red
+1 Stomping Ground (UNF) 280 #!Green #!Red
+1 Strionic Resonator (BRC) 165 #Historic #!Utility
+1 Tatyova, Benthic Druid (DMR) 203 #!Card Advantage #Historic
+1 Temur Sabertooth (NCC) 315 #!Recursion
+1 The Goose Mother (WOE) 204 #Historic
+1 The Great Henge (LTC) 348 #!Card Advantage #Historic
+1 The Immortal Sun (RIX) 180 #Historic
+1 Thran Dynamo (BRC) 168 #Historic #!Ramp
+1 Traxos, Scourge of Kroog (BRC) 170 #Historic
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364 #!Green
+1 Twinning Staff (NCC) 383 #Historic
+1 Ulamog, the Ceaseless Hunger (BFZ) 15 #Historic
+1 Uro, Titan of Nature's Wrath (THB) 229 #Historic #!Ramp
+1 Urza's Saga (MH2) 259 #!Colorless
+1 Volo, Guide to Monsters (AFR) 238 #Historic
+1 Volo, Itinerant Scholar (CLB) 103 #Historic
+1 Windswept Heath (KTK) 248 #!Green #!White
+1 Wooded Foothills (KTK) 249 #!Green #!Red
+1 Worldly Tutor (MIR) 255 #!Tutor
+1 Wurmcoil Engine (2XM) 308 #Historic
+1 Yavimaya Coast (DMU) 261 *F* #!Blue #!Green
+1 Yavimaya Hollow (UDS) 143 #!Colorless
+1 Yavimaya, Cradle of Growth (MH2) 441 #!Fixing #!Green

@@ -1,0 +1,96 @@
+1 Aragorn, King of Gondor (LTC) 5 *F*
+1 Adarkar Wastes (ICE) 351 #!Blue #!White
+1 Adeline, Resplendent Cathar (MOC) 167 #Human #Tokens
+1 Akroma's Will (CMR) 615 #!Defense #!Wincon
+1 Ancient Tomb (TMP) 315 #!Colorless
+1 Angelic Field Marshal (CMM) 13 #!Defense
+1 Arcane Signet (LTC) 273 #!Fixing #!Ramp
+1 Archivist of Gondor (LTC) 18 #Card Advantage #Human #Monarch
+1 Arid Mesa (MM3) 229 #!Red #!White
+1 Azure Fleet Admiral (CMR) 58 #Human #Monarch
+1 Battlefield Forge (LTC) 296 #!Red #!White
+1 Beregond of the Guard (LTC) 9 #Anthem #Defense #Human
+1 Blade Historian (PSTX) 165p #Anthem #Human
+1 Brave the Sands (KTK) 5 #!Defense
+1 Cascade Bluffs (CMM) 990 #!Blue #!Red
+1 Cavern of Souls (AVR) 226 #!Colorless
+1 Champions of Minas Tirith (LTC) 10 #Defense #Human #Monarch
+1 Clifftop Retreat (LTC) 300 #!Red #!White
+1 Combat Celebrant (LTC) 212 #Extra Attacks #Human
+1 Command Tower (LTC) 301 #!Any Color
+1 Conjurer's Mantle (MOC) 12 #!Card Advantage
+1 Coppercoat Vanguard (MAT) 1 *F* #!Anthem #Human
+1 Court of Grace (ONC) 62 #Monarch #Tokens
+1 Court of Ire (LTC) 213 #Monarch #!Removal
+1 Court of Vantress (WOC) 22
+1 Cyclonic Rift (RTR) 35 #!Removal #!Sweeper
+1 Denethor, Stone Seer (LTC) 20 #!Monarch
+1 Deserted Beach (MID) 281 #!Blue #!White
+1 Elesh Norn, Grand Cenobite (NPH) 9 #!Anthem
+1 Éomer, King of Rohan (LTC) 52 #Human #Monarch
+1 Éowyn, Shieldmaiden (LTC) 1 *F* #!Card Advantage #Human #!Tokens
+1 Esper Sentinel (MH2) 12 #!Card Advantage #Human
+1 Faerie Mastermind (PMOM) 58p #!Card Advantage
+1 Faramir, Prince of Ithilien (LTR) 319 #!Card Advantage #Human #!Tokens
+1 Faramir, Steward of Gondor (LTC) 54 #Human #Monarch #Tokens
+1 Fealty to the Realm (LTC) 21 #Monarch #!Removal
+1 Fierce Guardianship (C20) 35 #!Defense
+1 Flawless Maneuver (C20) 26 #!Defense
+1 Flooded Strand (KTK) 233 #!Blue #!White
+1 Forth Eorlingas! (LTC) 56 #Human #Monarch #!Tokens
+1 Glacial Fortress (LTC) 315 #!Blue #!White
+1 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (BOT) 11 *F* #Defense
+1 Greymond, Avacyn's Stalwart (SLD) 143 *F* #!Anthem #Human
+1 Hallowed Fountain (UNF) 277 #!Blue #!White
+1 Hero of Bladehold (MOC) 188 #Human #!Tokens
+1 Horn of Gondor (LTR) 240 #Human #!Tokens
+1 Impact Tremors (DTK) 140 #Tokens
+1 Island (LTR) 264 #!Blue
+1 Keeper of Keys (CN2) 34 #Human #Monarch
+1 Kiki-Jiki, Mirror Breaker (CHK) 175 #!Tokens #!Wincon
+1 Kindred Discovery (CLB) 81 #!Card Advantage
+1 Mass Appeal (AVR) 66 #!Card Advantage
+1 Minamo, School at Water's Edge (CHK) 279 #!Blue
+1 Mondrak, Glory Dominus (ONE) 23 #!Tokens
+1 Mountain (LTR) 268 #!Red
+1 Mystic Gate (CMM) 1013 #!Blue #!White
+1 Mystic Monastery (DMC) 221 #!Blue #!Red #!White
+1 Neyali, Suns' Vanguard (ONC) 2 #Human #!Tokens
+1 Odric, Lunarch Marshal (MB1) 186 #Defense #Human
+1 Odric, Master Tactician (MIC) 90 #Evasion #Human #Removal
+1 Otawara, Soaring City (NEO) 503 #!Blue #!Protection #!Removal
+1 Palace Jailer (LTC) 174 #Human #Monarch
+1 Path of Ancestry (LTC) 322 #!Any Color
+5 Plains (LTR) 263 #!White
+1 Pramikon, Sky Rampart (C19) 47 *F* #Defense
+1 Professional Face-Breaker (J22) 581 #!Card Advantage #Human #!Ramp
+1 Purphoros, God of the Forge (THS) 135 #!Wincon
+1 Ragavan, Nimble Pilferer (MUL) 21 #Card Advantage #Ramp
+1 Raugrin Triome (IKO) 311 #!Blue #!Red #!White
+1 Rhystic Study (J22) 114 #!Card Advantage
+1 Riders of Rohan (LTC) 67 #Human #!Tokens
+1 Riverglide Pathway // Lavaglide Pathway (ZNR) 289 #!Blue #!Red
+1 Rugged Prairie (CMM) 1022 #!Red #!White
+1 Sacred Foundry (UNF) 285 #!Red #!White
+1 Savage Beating (DST) 67 #!Wincon
+1 Scalding Tarn (MM3) 244 #!Blue #!Red
+1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333 #!Blue #!Card Advantage
+1 Sea of Clouds (BBD) 84 #!Blue #!White
+1 Secluded Courtyard (LTC) 330 #!Any Color
+1 Shared Animosity (LTC) 226 #!Anthem
+1 Sol Ring (LTC) 284 #!Ramp
+1 Spectator Seating (CMR) 711 #!Red #!White
+1 Steam Vents (UNF) 283 #!Blue #!Red
+1 Stormcarved Coast (VOW) 284 #!Blue #!Red
+1 Swan Song (LTC) 197 #!Defense
+1 Swords to Plowshares (LTC) 178 #!Removal
+1 Teferi, Mage of Zhalfir (IMA) 75 #!Flash #Human
+1 Teferi's Protection (C17) 8 #!Defense
+1 Thalia's Lieutenant (SOI) 43 #!Anthem #Human
+1 Théoden, King of Rohan (LTR) 233 #Human
+1 Throne of the High City (LTC) 339 #!Colorless #Monarch
+1 Tithe (VIS) 23 #!Card Advantage
+1 Training Center (CMR) 713 #!Blue #!Red
+1 Unbreakable Formation (LTC) 179 #!Protection
+1 Vanquisher's Banner (LTC) 289 #!Anthem #!Card Advantage
+1 Wayfarer's Bauble (LTC) 290 #!Ramp

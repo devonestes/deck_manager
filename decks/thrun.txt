@@ -1,0 +1,73 @@
+1 Thrun, Breaker of Silence (ONE) 186
+1 Abundance (40K) 210
+1 Ancestral Mask (EMA) 157
+1 Ancient Tomb (TMP) 315 #!Colorless
+1 Apex Altisaur (C19) 31
+1 Argothian Enchantress (USG) 234 #!Card Advantage
+1 Audacity (BRO) 169
+1 Augur of Autumn (MID) 168 #!Card Advantage
+1 Bear Umbra (WOC) 121
+1 Beast Within (ONC) 104 #!Removal
+1 Benevolent Hydra (J22) 38 #!Counters
+1 Birds of Paradise (4ED) 234
+1 Blanchwood Armor (BRO) 171
+1 Bone Sabres (40K) 88
+1 Boseiju, Who Endures (NEO) 501 #!Green #!Removal
+1 Cartouche of Strength (AKH) 158
+1 Colossal Majesty (M19) 173
+1 Eidolon of Blossoms (JOU) 122
+1 Emerald Medallion (CMM) 379 #!Ramp
+1 Enchantress's Presence (MH2) 283
+1 Exploration (CNS) 164 #!Ramp
+1 Extraplanar Lens (MRD) 169
+1 Fertile Ground (AFC) 158
+1 Fireshrieker (NEC) 151
+1 Font of Fertility (JOU) 123
+28 Forest (J22) 110 #!Green
+1 Forgotten Ancient (NCC) 291
+1 Ghalta, Primal Hunger (CMM) 292
+1 Heroic Intervention (LTC) 249 #!Defense
+1 Hunter's Insight (NEC) 119
+1 Hydra's Growth (J22) 89
+1 Indomitable Might (AFC) 40
+1 Jeweled Lotus (CMR) 319 #!Fixing #!Ramp
+1 Keen Sense (TSR) 213
+1 Kozilek, Butcher of Truth (ROE) 6
+1 Mana Crypt (2XM) 270 #!Ramp
+1 Mana Vault (2ED) 260 #!Ramp
+1 Mask of Memory (MRD) 203
+1 Mirri's Guile (TMP) 236
+1 Nykthos, Shrine to Nyx (THS) 223 #!Colorless #!Fixing #!Ramp
+1 Ohran Frostfang (SLD) 237 #!Card Advantage
+1 Oracle of Mul Daya (JMP) 415 #!Ramp
+1 Primal Bellow (ZEN) 176
+1 Primal Might (M21) 197
+1 Primordial Hydra (J22) 712 #!Counters
+1 Ram Through (J22) 91
+1 Rancor (2X2) 156
+1 Reliquary Tower (DMC) 227 #!Colorless
+1 Return of the Wildspeaker (ELD) 172 #!Card Advantage
+1 Rishkar's Expertise (NEC) 127
+1 Scavenging Ooze (ONC) 112
+1 Setessan Champion (CMM) 912
+1 Shadowspear (THB) 345
+1 Shigeki, Jukai Visionary (NEO) 206 *F*
+1 Sixth Sense (AKH) 187
+1 Snake Umbra (NEC) 130
+1 Sol Ring (BRC) 160 #!Ramp
+1 Spider Umbra (UMA) 184
+1 Sword of Feast and Famine (2XM) 296 #!Protection #!Ramp
+1 Sword of Fire and Ice (2XM) 297
+1 Sword of Forge and Frontier (PONE) 244s *F* #!Card Advantage #!Ramp
+1 Sword of the Animist (AFC) 218
+1 Sylvan Library (CC1) 5 #!Card Advantage #!Card Selection
+1 Tanuki Transplanter (NEC) 30
+1 Thrun, the Last Troll (MBS) 92
+1 Triumph of the Hordes (NPH) 123 #!Wincon
+1 Unnatural Growth (PMID) 206p #!Anthem
+1 Urza's Saga (MH2) 259 #!Colorless
+1 Utopia Sprawl (WOT) 63
+1 Wild Growth (ICE) 277
+1 Wolfwillow Haven (J22) 742
+1 Worldslayer (M12) 222
+1 Yavimaya, Cradle of Growth (MH2) 441 #!Fixing #!Green
