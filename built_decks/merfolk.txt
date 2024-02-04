@@ -2,7 +2,6 @@ Worldly Tutor (PROXY)
 Wave Goodbye (PROXY)
 The Ozolith (PROXY)
 Swan Song (PROXY)
-Sol Ring (PROXY)
 Roaming Throne (PROXY)
 Ripples of Potential (PROXY)
 Rhystic Study (PROXY)
@@ -21,12 +20,10 @@ Fabled Passage (PROXY)
 Dreamroot Cascade (PROXY)
 Cyclonic Rift (PROXY)
 Court of Garenbrig (PROXY)
-Command Tower (PROXY)
 Coat of Arms (PROXY)
 Cavern of Souls (PROXY)
 Breeding Pool (PROXY)
 Boseiju, Who Endures (PROXY)
-Arcane Signet (PROXY)
 Ancient Tomb (PROXY)
 Alchemist's Refuge (PROXY)
 Zegana, Utopian Speaker
@@ -43,6 +40,7 @@ Tatyova, Benthic Druid
 Svyelun of Sea and Sky
 Stonybrook Banneret
 Staff of Compleation
+Sol Ring
 Singer of Swift Rivers
 Simic Growth Chamber
 Shamanic Revelation
@@ -90,11 +88,13 @@ Emperor Mihail II
 Deeproot Wayfinder
 Deeproot Waters
 Deeproot Historian
+Command Tower
 Cold-Eyed Selkie
 Burgeoning
 Branching Evolution
 Bident of Thassa
 Beast Within
+Arcane Signet
 Alandra, Sky Dreamer
 Aetherize
 Hakbal of the Surging Soul

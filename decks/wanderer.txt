@@ -24,7 +24,7 @@
 1 Fire-Lit Thicket (SHM) 271
 1 Flooded Grove (LTC) 309
 1 Food Chain (MMQ) 246
-3 Forest (J22) 110
+2 Forest (J22) 110
 1 Genesis Ultimatum (IKO) 189
 1 Goldspan Dragon (J22) 550
 1 Hinterland Harbor (LTC) 317
@@ -40,7 +40,7 @@
 1 Kogla, the Titan Ape (IKO) 162
 1 Koma, Cosmos Serpent (KHM) 221
 1 Migration Path (IKO) 164
-1 Misthollow Griffin (FMB1) 26 *F*
+1 Misthollow Griffin (PLST) AVR-68 *F*
 1 Misty Rainforest (MM3) 240
 2 Mountain (LTR) 268
 1 Nissa, Ascended Animist (ONE) 339
@@ -66,7 +66,7 @@
 1 Selvala, Heart of the Wilds (JMP) 429
 1 Selvala's Stampede (CN2) 71
 1 Skyshroud Claim (CMM) 321
-2 Snow-Covered Forest (ICE) 383
+3 Snow-Covered Forest (ICE) 383
 1 Snow-Covered Island (ICE) 371
 1 Snow-Covered Mountain (ICE) 379
 1 Sol Ring (MOC) 381

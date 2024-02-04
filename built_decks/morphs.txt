@@ -8,7 +8,6 @@ Yavimaya Coast
 Worldly Tutor
 Woodland Cemetery
 Winding Canyons
-Willbender
 Wilderness Reclamation
 Whisperwood Elemental
 Watery Grave
@@ -31,7 +30,6 @@ Swan Song
 Swamp
 Swamp
 Sunken Ruins
-Strionic Resonator
 Stratus Dancer
 Sol Ring
 Skinthinner
@@ -41,15 +39,17 @@ Shipwreck Marsh
 Seedborn Muse
 Secret Plans
 Scroll of Fate
-Sakura-Tribe Elder
 Rhystic Study
 Reliquary Tower
 Rejuvenating Springs
+Printlifter Ooze
 Polluted Delta
 Overwhelming Stampede
 Overgrown Tomb
 Otawara, Soaring City
 Opulent Palace
+On the Trail
+Nervous Gardener
 Nature's Lore
 Nantuko Vigilante
 Morphic Pool
@@ -74,13 +74,13 @@ Ghastly Conscription
 Forest
 Forest
 Flooded Grove
+Final-Word Phantom
 Farseek
 Elven Chorus
 Echo Tracer
 Dreamroot Cascade
 Den Protector
 Deathmist Raptor
-Darkbore Pathway // Slitherbore Pathway
 Cyclonic Rift
 Crystal Shard
 Craterhoof Behemoth
@@ -88,9 +88,9 @@ Command Tower
 Chromeshell Crab
 Brine Elemental
 Breeding Pool
+Branch of Vitu-Ghazi
 Boseiju, Who Endures
 Beast Whisperer
-Bane of the Living
 Assassin's Trophy
 Arcane Signet
 Aphetto Runecaster

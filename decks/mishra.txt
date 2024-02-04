@@ -3,6 +3,7 @@
 1 Arcane Signet (BRC) 132
 1 Arcum Dagsson (CSP) 27
 1 Badlands (3ED) 282
+1 Baleful Strix (MKC) 200
 1 Basalt Monolith (3ED) 235
 1 Blasphemous Act (BRC) 113
 1 Blightsteel Colossus (MBS) 99
@@ -24,7 +25,6 @@
 1 Determined Iteration (NCC) 45
 1 Dockside Extortionist (2X2) 360
 1 Drossforge Bridge (BRC) 183
-1 Emry, Lurker of the Loch (BRC) 81
 1 Etherium Sculptor (ALA) 42
 1 Fabricate (MRD) 35
 1 Fierce Guardianship (C20) 35

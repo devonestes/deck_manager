@@ -1,4 +1,3 @@
-Teferi, Mage of Zhalfir (PROXY)
 Swan Song (PROXY)
 Sundown Pass (PROXY)
 Spectator Seating (PROXY)
@@ -91,6 +90,7 @@ Beregond of the Guard
 Battlefield Forge
 Azure Fleet Admiral
 Aurelia, the Warleader
+Aurelia, the Law Above
 Archivist of Gondor
 Arcane Signet
 Angelic Field Marshal

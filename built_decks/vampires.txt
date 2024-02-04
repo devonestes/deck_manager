@@ -11,6 +11,7 @@ Urza's Saga
 Urborg, Tomb of Yawgmoth
 Unclaimed Territory
 Twilight Prophet
+Treacherous Greed
 The Meathook Massacre
 Teferi's Protection
 Takenuma, Abandoned Mire
@@ -33,7 +34,6 @@ Queen's Bay Paladin
 Preacher of the Schism
 Plains
 Phyrexian Tower
-Phyrexian Altar
 Path of Ancestry
 Pact of the Serpent
 Olivia's Wrath

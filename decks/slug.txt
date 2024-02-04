@@ -1,9 +1,9 @@
 1 Auntie Blyte, Bad Influence (J22) 30
-1 Acidic Soil (PLIST) 916
+1 Acidic Soil (PLST) USG-172
 1 Ancient Tomb (TMP) 315
 1 Ankh of Mishra (4ED) 294
 1 Arcane Signet (MOC) 348
-1 Barbarian Ring (PLIST) 811
+1 Barbarian Ring (PLST) ODY-313
 1 Basilisk Collar (CLB) 300
 1 Blasphemous Act (BRC) 113
 1 Brash Taunter (M21) 133
@@ -13,10 +13,10 @@
 1 Commander's Plate (CMR) 692
 1 Defiler of Instinct (DMU) 119
 1 Deflecting Swat (C20) 50
-1 Disrupt Decorum (CMM) 1067 *F*
 1 Dockside Extortionist (2X2) 360
 1 Earthquake (4ED) 189
 1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
+1 Fiendish Duo (MKC) 153
 1 Fiery Emancipation (M21) 366
 1 Fires of Mount Doom (LTR) 294
 1 Fireslinger (J22) 130

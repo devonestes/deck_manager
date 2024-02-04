@@ -2,7 +2,6 @@ Wurmcoil Engine (PROXY)
 Wooded Foothills (PROXY)
 Urza's Saga (PROXY)
 Training Center (PROXY)
-Temur Sabertooth (PROXY)
 Stormcarved Coast (PROXY)
 Stomping Ground (PROXY)
 Steam Vents (PROXY)
@@ -37,6 +36,7 @@ Turntimber Symbiosis // Turntimber, Serpentine Wood
 Time Spiral
 Three Visits
 Terror of the Peaks
+Temur Sabertooth
 Sylvan Library
 Sunbird's Invocation
 Sun Quan, Lord of Wu
@@ -44,6 +44,7 @@ Sulfur Falls
 Sol Ring
 Snow-Covered Mountain
 Snow-Covered Island
+Snow-Covered Forest
 Snow-Covered Forest
 Snow-Covered Forest
 Skyshroud Claim
@@ -80,7 +81,6 @@ Ilysian Caryatid
 Hullbreaker Horror
 Hinterland Harbor
 Genesis Ultimatum
-Forest
 Forest
 Forest
 Food Chain

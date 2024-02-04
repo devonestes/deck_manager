@@ -89,9 +89,9 @@
 1 Unclaimed Territory (LCC) 366
 1 Vampiric Tutor (VIS) 72
 1 Vanquisher's Banner (MOC) 388
-1 Venom Sliver (MB1) 1367
+1 Venom Sliver (PLST) M15-205
 1 Verdant Catacombs (MM3) 249
-1 Virulent Sliver (PLIST) 993
+1 Virulent Sliver (PLST) FUT-155
 1 Watery Grave (UNF) 278
 1 Windswept Heath (KTK) 248
 1 Winged Sliver (TMP) 106

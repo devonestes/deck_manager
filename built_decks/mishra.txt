@@ -77,7 +77,6 @@ Ichor Wellspring
 Great Furnace
 Fabricate
 Etherium Sculptor
-Emry, Lurker of the Loch
 Drossforge Bridge
 Determined Iteration
 Darksteel Forge
@@ -93,6 +92,7 @@ Brudiclad, Telchor Engineer
 Blightsteel Colossus
 Blasphemous Act
 Basalt Monolith
+Baleful Strix
 Badlands
 Arcum Dagsson
 Arcane Signet

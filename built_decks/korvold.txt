@@ -5,12 +5,10 @@ Urza's Saga (PROXY)
 Urborg, Tomb of Yawgmoth (PROXY)
 Undergrowth Stadium (PROXY)
 The Meathook Massacre (PROXY)
-Skullclamp (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
 Ragavan, Nimble Pilferer (PROXY)
 Polluted Delta (PROXY)
 Phyrexian Tower (PROXY)
-Phyrexian Altar (PROXY)
 Overgrown Tomb (PROXY)
 Misty Rainforest (PROXY)
 Mana Vault (PROXY)
@@ -46,6 +44,7 @@ Stomping Ground
 Squandered Resources
 Spire Garden
 Sol Ring
+Skullclamp
 Shallow Grave
 Scalding Tarn
 Rhythm of the Wild
@@ -54,12 +53,12 @@ Reassembling Skeleton
 Reanimate
 Professional Face-Breaker
 Pitiless Plunderer
+Phyrexian Altar
 Orcish Lumberjack
 Orcish Bowmasters
 Opposition Agent
 Oni-Cult Anvil
 Old Gnawbone
-Necropotence
 Necromancy
 Mountain
 Mirkwood Bats
@@ -85,6 +84,7 @@ Crucible of Worlds
 Crop Rotation
 Corpse Dance
 Command Tower
+Case of the Stashed Skeleton
 Blood Pet
 Black Sun's Twilight
 Black Market Connections

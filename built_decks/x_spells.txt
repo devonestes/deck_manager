@@ -8,7 +8,6 @@ Stormcarved Coast (PROXY)
 Stomping Ground (PROXY)
 Steam Vents (PROXY)
 Spire Garden (PROXY)
-Sol Ring (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
 Selvala, Heart of the Wilds (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
@@ -44,13 +43,13 @@ Twinning Staff
 Thousand-Year Elixir
 The Ozolith
 The Goose Mother
-The First Tyrannic War
 Tervigon
 Termagant Swarm
 Sulfur Falls
 Stonecoil Serpent
 Steelbane Hydra
 Song of Totentanz
+Sol Ring
 Simic Growth Chamber
 Runadi, Behemoth Caller
 Ripples of Potential
@@ -83,6 +82,7 @@ Forest
 Forest
 Exocrine
 Elementalist's Palette
+Doppelgang
 Crackle with Power
 Court of Garenbrig
 Command Tower

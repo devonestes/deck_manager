@@ -11,7 +11,6 @@ Scalding Tarn (PROXY)
 Sacred Foundry (PROXY)
 Roaming Throne (PROXY)
 Rhythm of the Wild (PROXY)
-Nature's Lore (PROXY)
 Misty Rainforest (PROXY)
 Marsh Flats (PROXY)
 Mana Crypt (PROXY)
@@ -64,6 +63,7 @@ Plains
 Pantlaza, Sun-Favored
 Overgrown Farmland
 Otepec Huntmaster
+Nature's Lore
 Mountain
 Mountain
 Mirari's Wake

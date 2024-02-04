@@ -18,6 +18,7 @@
 1 Blood Pet (TMP) 109
 1 Bloodstained Mire (KTK) 230
 1 Boseiju, Who Endures (NEO) 501
+1 Case of the Stashed Skeleton (MKM) 80
 1 Command Tower (MOC) 396
 1 Corpse Dance (TMP) 116
 1 Crop Rotation (DMR) 154
@@ -55,7 +56,6 @@
 1 Misty Rainforest (MM3) 240
 1 Mountain (J22) 107
 1 Necromancy (VIS) 64
-1 Necropotence (5ED) 182
 1 Old Gnawbone (AFR) 197
 1 Oni-Cult Anvil (BRC) 127
 1 Opposition Agent (CMR) 141
@@ -92,7 +92,7 @@
 1 Urza's Saga (MH2) 259
 1 Vampiric Tutor (VIS) 72
 1 Verdant Catacombs (MM3) 249
-1 Viscera Seer (FMB1) 45 *F*
+1 Viscera Seer (PLST) M11-120 *F*
 1 Wheel of Fortune (3ED) 185
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249

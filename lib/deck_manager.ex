@@ -12,13 +12,15 @@ defmodule DeckManager do
     "ur_dragon",
     "x_spells",
     "merfolk",
-    "bant_tokens",
+    "galadriel",
     "aesi",
     "eldrazi",
     "slivers",
     "meria",
     "henzie",
-    "nazgul"
+    "jetmir",
+    "clues",
+    "mirko"
   ]
 
   def run() do

@@ -7,6 +7,7 @@
 1 Breeding Pool (UNF) 286
 1 Brushland (BRO) 259
 1 Cacophony Unleashed (CMM) 730
+1 Case of the Stashed Skeleton (MKM) 80
 1 City of Brass (5ED) 413
 1 Command Tower (MOC) 396
 1 Crop Rotation (DMR) 154
@@ -21,7 +22,6 @@
 1 Enlightened Tutor (MIR) 14
 1 Exotic Orchard (C19) 242
 1 Extinguish All Hope (JOU) 68
-1 Fertile Ground (AFC) 158
 1 Fierce Guardianship (C20) 35
 1 Forbidden Orchard (C16) 296
 1 Forest (ONE) 266

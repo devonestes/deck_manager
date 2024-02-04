@@ -15,7 +15,7 @@
 1 Chord of Calling (RAV) 156
 1 City of Brass (5ED) 413
 1 Cloud of Faeries (DMR) 43
-1 Collector Ouphe (PLIST) 927
+1 Collector Ouphe (PLST) MH1-158
 1 Command Tower (MOC) 396
 1 Crop Rotation (DMR) 154
 1 Cyclonic Rift (2XM) 339 *F*
@@ -58,7 +58,7 @@
 1 Mana Crypt (2XM) 270
 1 Marsh Flats (MM3) 239
 1 Mindbreak Trap (ZEN) 57
-1 Misthollow Griffin (FMB1) 26 *F*
+1 Misthollow Griffin (PLST) AVR-68 *F*
 1 Misty Rainforest (MM3) 240
 1 Moon-Blessed Cleric (AFR) 26
 1 Mystic Remora (ICE) 87

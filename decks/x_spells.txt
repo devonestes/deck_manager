@@ -20,6 +20,7 @@
 1 Cyclonic Rift (RTR) 35
 1 Deflecting Swat (C20) 50
 1 Delighted Halfling (LTR) 158
+1 Doppelgang (MKM) 198
 1 Dreamroot Cascade (VOW) 282
 1 Elementalist's Palette (C21) 76
 1 Exocrine (40K) 76
@@ -78,7 +79,6 @@
 1 Temur Ascendancy (KTK) 207
 1 Termagant Swarm (40K) 99
 1 Tervigon (40K) 100
-1 The First Tyrannic War (40K) 121
 1 The Goose Mother (WOE) 204
 1 The Ozolith (LTC) 351
 1 Thousand-Year Elixir (C13) 266

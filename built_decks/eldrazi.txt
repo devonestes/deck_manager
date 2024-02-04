@@ -1,12 +1,7 @@
 Wondrous Crucible (PROXY)
-War Room (PROXY)
 Urza's Saga (PROXY)
 Urza's Incubator (PROXY)
-Ugin's Mastery (PROXY)
-Solemn Simulacrum (PROXY)
-Sol Ring (PROXY)
 Roaming Throne (PROXY)
-Reliquary Tower (PROXY)
 Portal to Phyrexia (PROXY)
 Mystic Forge (PROXY)
 Mana Vault (PROXY)
@@ -27,6 +22,7 @@ Wastes
 Wastes
 Wastes
 Warping Wail
+War Room
 Void Winnower
 Urza's Workshop
 Urza's Tower
@@ -36,6 +32,7 @@ Unstable Obelisk
 Ulamog's Crusher
 Ulamog, the Infinite Gyre
 Ulamog, the Ceaseless Hunger
+Ugin's Mastery
 Ugin, the Spirit Dragon
 Ugin, the Ineffable
 Tyrite Sanctum
@@ -47,12 +44,15 @@ The Irencrag
 Temple of the False God
 Swiftfoot Boots
 Spawnsire of Ulamog
+Solemn Simulacrum
+Sol Ring
 Shrine of the Forsaken Gods
 Sea Gate Wreckage
 Scorched Ruins
 Sanctum of Ugin
 Rogue's Passage
 Rise of the Eldrazi
+Reliquary Tower
 Reality Smasher
 Progenitor's Icon
 Palladium Myr

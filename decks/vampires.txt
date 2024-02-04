@@ -62,7 +62,6 @@
 1 Olivia's Wrath (LCC) 205
 1 Pact of the Serpent (LCC) 206
 1 Path of Ancestry (MOC) 418
-1 Phyrexian Altar (INV) 306
 1 Phyrexian Tower (JMP) 493
 1 Plains (J22) 98
 1 Preacher of the Schism (LCI) 113
@@ -85,6 +84,7 @@
 1 Takenuma, Abandoned Mire (NEO) 416
 1 Teferi's Protection (C17) 8
 1 The Meathook Massacre (MID) 112
+1 Treacherous Greed (MKM) 237
 1 Twilight Prophet (RIX) 88
 1 Unclaimed Territory (LCC) 366
 1 Urborg, Tomb of Yawgmoth (TSR) 287

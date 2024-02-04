@@ -1,9 +1,11 @@
 1 Meria, Scholar of Antiquity (DMU) 206
+1 Academy Manufactor (MH2) 219
 1 Apex Altisaur (C19) 31
 1 Basilisk Collar (CLB) 300
 1 Beamtown Beatstick (MOM) 131
 1 Beast Within (ONC) 104
 1 Berserk (CN2) 175
+1 Birds of Paradise (4ED) 234
 1 Bitterthorn, Nissa's Animus (MOC) 45
 1 Blackblade Reforged (DMC) 178
 1 Blightsteel Colossus (MBS) 99
@@ -20,17 +22,15 @@
 1 Darksteel Plate (2X2) 304
 1 Deflecting Swat (C20) 50
 1 Diamond Pick-Axe (LCI) 143 *F*
-1 Dragonwing Glider (PONE) 128p
-1 Elder Gargaroth (M21) 373
 1 Emrakul, the Promised End (SLD) 1160
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
+1 Finale of Devastation (WAR) 160
 1 Fire-Lit Thicket (SHM) 271
 1 Fireshrieker (NEC) 151
 6 Forest (J22) 110
 1 Foundry Inspector (BRR) 79
 1 Game Trail (LCC) 334
 1 Glowcap Lantern (LCI) 187
-1 Goldvein Pick (J22) 769
 1 Great Furnace (BRC) 187
 1 Gruul Turf (C20) 279
 1 Hammer of Nazahn (C17) 51
@@ -47,11 +47,12 @@
 1 Lothlórien Blade (LTC) 77
 1 Mask of Memory (MRD) 203
 1 Mithril Coat (LTR) 379
-7 Mountain (J22) 107
+6 Mountain (J22) 107
+1 Nettlecyst (MKC) 233
+1 Neurok Hoversail (MRD) 218
 1 Ornithopter (MRD) 224
-1 Passionate Archaeologist (CLB) 633
-1 Portal to Phyrexia (BRO) 365
 1 Rebel Salvo (ONE) 144
+1 Reckless Fireweaver (J22) 587
 1 Restless Ridgeline (LCI) 350
 1 Return of the Wildspeaker (ELD) 172
 1 Ring of Kalonia (M13) 212
@@ -70,7 +71,6 @@
 1 Sword of Fire and Ice (2XM) 297
 1 Sword of Forge and Frontier (PONE) 244s *F*
 1 Sword of the Animist (AFC) 218
-1 Sword of Truth and Justice (MH1) 229
 1 Sword of Vengeance (NEC) 164
 1 Tanuki Transplanter (NEC) 30
 1 Tenza, Godo's Maul (DMC) 193
@@ -79,11 +79,12 @@
 1 Thrun, Breaker of Silence (ONE) 186
 1 Thrun, the Last Troll (MBS) 92
 1 Toski, Bearer of Secrets (KHM) 197
-1 Traxos, Scourge of Kroog (BRC) 170
 1 Tree of Tales (MRD) 285
 1 Ulamog, the Infinite Gyre (ROE) 12
+1 Unwinding Clock (NPH) 164
 1 Urza's Saga (MH2) 259
 1 Vorrac Battlehorns (MRD) 271
+1 Walking Ballista (AER) 181
 1 Wooded Foothills (KTK) 249
 1 Yavimaya, Cradle of Growth (MH2) 441
 1 Zoyowa's Justice (LCI) 173

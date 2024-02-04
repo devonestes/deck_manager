@@ -20,6 +20,7 @@
 1 Cultivator Colossus (VOW) 195
 1 Cyclonic Rift (RTR) 35
 1 Delighted Halfling (LTR) 158
+1 Doppelgang (MKM) 198
 1 Dryad of the Ilysian Grove (THB) 169
 1 Elven Chorus (LTR) 160
 1 Entish Restoration (LTR) 163
@@ -36,7 +37,6 @@
 1 Heroic Intervention (LTC) 249
 1 Hinterland Harbor (LTC) 317
 1 Hydroid Krasis (RNA) 183
-1 Imoti, Celebrant of Bounty (MUL) 43
 3 Island (MOM) 278
 1 Jungle Basin (VIS) 164
 1 Kodama's Reach (CLB) 826
@@ -52,6 +52,7 @@
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Nyxbloom Ancient (THB) 190
 1 Oboro, Palace in the Clouds (LTC) 371
+1 On the Trail (MKC) 39
 1 Oracle of Mul Daya (JMP) 415
 1 Otawara, Soaring City (NEO) 503
 1 Overburden (PCY) 39
@@ -78,7 +79,6 @@
 1 Tatyova, Steward of Tides (DMU) 222 *F*
 1 Temple of Mystery (M20) 255
 1 Thawing Glaciers (ALL) 144
-1 The Great Henge (LTC) 348
 1 Thespian's Stage (C19) 282
 1 Tireless Provisioner (MH2) 180
 1 Titania, Protector of Argoth (CMA) 157

@@ -4,7 +4,6 @@ Windswept Heath (PROXY)
 Watery Grave (PROXY)
 Verdant Catacombs (PROXY)
 Vampiric Tutor (PROXY)
-Three Visits (PROXY)
 Temple Garden (PROXY)
 Teferi's Protection (PROXY)
 Stomping Ground (PROXY)
@@ -29,12 +28,10 @@ Elven Chorus (PROXY)
 Eladamri's Call (PROXY)
 Demonic Tutor (PROXY)
 Cyclonic Rift (PROXY)
-Command Tower (PROXY)
 Cavern of Souls (PROXY)
 Breeding Pool (PROXY)
 Blood Crypt (PROXY)
 Arid Mesa (PROXY)
-Arcane Signet (PROXY)
 Winged Sliver
 Virulent Sliver
 Venom Sliver
@@ -42,6 +39,7 @@ Vanquisher's Banner
 Unclaimed Territory
 Two-Headed Sliver
 Timeless Lotus
+Three Visits
 Talon Sliver
 Syphon Sliver
 Synapse Sliver
@@ -88,6 +86,7 @@ Diffusion Sliver
 Cultivate
 Crystalline Sliver
 Crypt Sliver
+Command Tower
 Cloudshredder Sliver
 Cleaving Sliver
 Chromatic Lantern
@@ -97,4 +96,5 @@ Bonescythe Sliver
 Blade Sliver
 Belligerent Sliver
 Basal Sliver
+Arcane Signet
 The First Sliver

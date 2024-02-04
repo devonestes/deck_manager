@@ -12,14 +12,12 @@ Teferi's Protection (PROXY)
 Stomping Ground (PROXY)
 Steam Vents (PROXY)
 Spara's Headquarters (PROXY)
-Scourge of the Throne (PROXY)
 Scalding Tarn (PROXY)
 Sacred Foundry (PROXY)
 Roaming Throne (PROXY)
 Polluted Delta (PROXY)
 Overgrown Tomb (PROXY)
 Old Gnawbone (PROXY)
-Nature's Lore (PROXY)
 Misty Rainforest (PROXY)
 Marsh Flats (PROXY)
 Mana Vault (PROXY)
@@ -35,7 +33,6 @@ Goldspan Dragon (PROXY)
 Godless Shrine (PROXY)
 Forbidden Orchard (PROXY)
 Flooded Strand (PROXY)
-Farseek (PROXY)
 Dockside Extortionist (PROXY)
 Delighted Halfling (PROXY)
 Cyclonic Rift (PROXY)
@@ -61,6 +58,7 @@ Temple of the Dragon Queen
 Swords to Plowshares
 Swamp
 Sol Ring
+Scourge of the Throne
 Scalelord Reckoner
 Savage Ventmaw
 Sarkhan, Fireblood
@@ -72,6 +70,7 @@ Plains
 Path of Ancestry
 Orb of Dragonkind
 Omniscience
+Nature's Lore
 Mountain
 Morophon, the Boundless
 Miirym, Sentinel Wyrm
@@ -86,6 +85,7 @@ Hellkite Tyrant
 Hellkite Courser
 Forest
 Fellwar Stone
+Farseek
 Exotic Orchard
 Dragonspeaker Shaman
 Dragonlord's Servant

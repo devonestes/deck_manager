@@ -7,6 +7,7 @@
 1 Arcane Signet (LTC) 273
 1 Archivist of Gondor (LTC) 18
 1 Arid Mesa (MM3) 229
+1 Aurelia, the Law Above (MKM) 188 *F*
 1 Aurelia, the Warleader (GTC) 143
 1 Azure Fleet Admiral (CMR) 58
 1 Battlefield Forge (LTC) 296
@@ -52,7 +53,7 @@
 1 Mountain (LTR) 268
 1 Mystic Gate (CMM) 1013
 1 Mystic Monastery (DMC) 221
-1 Odric, Lunarch Marshal (MB1) 186
+1 Odric, Lunarch Marshal (PLST) SOI-31
 1 Odric, Master Tactician (MIC) 90
 1 Otawara, Soaring City (NEO) 503
 1 Palace Jailer (LTC) 174
@@ -88,7 +89,6 @@
 1 Talisman of Creativity (MH1) 231
 1 Talisman of Progress (LTC) 286
 1 Taunt from the Rampart (LTC) 71
-1 Teferi, Mage of Zhalfir (IMA) 75
 1 Teferi's Protection (C17) 8
 1 Thalia's Lieutenant (SOI) 43
 1 Throne of the High City (LTC) 339
