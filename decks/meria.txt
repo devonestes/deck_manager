@@ -21,7 +21,7 @@
 1 Darksteel Citadel (MM2) 238
 1 Darksteel Plate (2X2) 304
 1 Deflecting Swat (C20) 50
-1 Diamond Pick-Axe (LCI) 143 *F*
+1 Diamond Pick-Axe (LCI) 143
 1 Emrakul, the Promised End (SLD) 1160
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
 1 Finale of Devastation (WAR) 160
@@ -59,7 +59,7 @@
 1 Rishkar's Expertise (NEC) 127
 1 Rockfall Vale (MID) 266
 1 Rootbound Crag (SLD) 459
-1 Sarinth Steelseeker (BRO) 189 *F*
+1 Sarinth Steelseeker (BRO) 189
 1 Shadowspear (THB) 345
 1 Silkguard (NEC) 29
 1 Slagwoods Bridge (MH2) 256
@@ -69,7 +69,7 @@
 1 Swiftfoot Boots (BRC) 166
 1 Sword of Feast and Famine (2XM) 296
 1 Sword of Fire and Ice (2XM) 297
-1 Sword of Forge and Frontier (PONE) 244s *F*
+1 Sword of Forge and Frontier (PONE) 244s
 1 Sword of the Animist (AFC) 218
 1 Sword of Vengeance (NEC) 164
 1 Tanuki Transplanter (NEC) 30

@@ -40,7 +40,7 @@
 1 Kogla, the Titan Ape (IKO) 162
 1 Koma, Cosmos Serpent (KHM) 221
 1 Migration Path (IKO) 164
-1 Misthollow Griffin (PLST) AVR-68 *F*
+1 Misthollow Griffin (PLST) AVR-68
 1 Misty Rainforest (MM3) 240
 2 Mountain (LTR) 268
 1 Nissa, Ascended Animist (ONE) 339
@@ -92,4 +92,4 @@
 1 Vorinclex, Monstrous Raider (KHM) 333
 1 Wooded Foothills (KTK) 249
 1 Wurmcoil Engine (2XM) 308
-1 Yavimaya Coast (DMU) 261 *F*
+1 Yavimaya Coast (DMU) 261

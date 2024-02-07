@@ -1,4 +1,4 @@
-1 Mishra, Eminent One (BRC) 1 *F*
+1 Mishra, Eminent One (BRC) 1
 1 Academy Ruins (MMA) 219
 1 Arcane Signet (BRC) 132
 1 Arcum Dagsson (CSP) 27
@@ -14,7 +14,7 @@
 1 Chaos Warp (BRC) 114
 1 Chimil, the Inner Sun (LCI) 249
 1 Cityscape Leveler (BRO) 363
-1 Coldsteel Heart (2X2) 301 *F*
+1 Coldsteel Heart (2X2) 301
 1 Command Tower (BRC) 178
 1 Commander's Sphere (MOC) 352
 1 Cursed Mirror (BRC) 115
@@ -82,7 +82,7 @@
 1 The Master, Multiplied (WHO) 146
 1 The One Ring (LTR) 451
 1 The Reality Chip (NEO) 74
-1 The Stasis Coffin (BRO) 245 *F*
+1 The Stasis Coffin (BRO) 245
 1 Thoughtcast (BRC) 99
 1 Training Center (CMR) 713
 1 Troll of Khazad-dûm (LTR) 111

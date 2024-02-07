@@ -1,11 +1,11 @@
-1 Kadena, Slinking Sorcerer (C19) 45 *F*
+1 Kadena, Slinking Sorcerer (C19) 45
 1 Ainok Survivalist (C19) 156
 1 Alchemist's Refuge (LCC) 318
 1 All Is Dust (CMM) 800
 1 Aphetto Runecaster (SCG) 28
 1 Arcane Signet (MOC) 348
 1 Assassin's Trophy (GRN) 152
-1 Beast Whisperer (P30A) 26 *F*
+1 Beast Whisperer (P30A) 26
 1 Boseiju, Who Endures (NEO) 501
 1 Branch of Vitu-Ghazi (MKM) 258
 1 Breeding Pool (UNF) 286

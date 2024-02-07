@@ -1,4 +1,4 @@
-1 Mirko, Obsessive Theorist (MKC) 2 *F*
+1 Mirko, Obsessive Theorist (MKC) 2
 1 Ancient Tomb (TMP) 315
 1 Animate Dead (MKC) 125
 1 Arcane Signet (MKC) 223
@@ -20,7 +20,7 @@
 1 Consecrated Sphinx (MBS) 21
 1 Copy Catchers (MKC) 20
 1 Curate (MKC) 99
-1 Cyclonic Rift (2XM) 339 *F*
+1 Cyclonic Rift (2XM) 339
 1 Damnation (TSR) 106
 1 Darkwater Catacombs (MKC) 257
 1 Deadly Rollick (C20) 42

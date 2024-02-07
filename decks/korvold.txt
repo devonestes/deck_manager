@@ -92,7 +92,7 @@
 1 Urza's Saga (MH2) 259
 1 Vampiric Tutor (VIS) 72
 1 Verdant Catacombs (MM3) 249
-1 Viscera Seer (PLST) M11-120 *F*
+1 Viscera Seer (PLST) M11-120
 1 Wheel of Fortune (3ED) 185
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249

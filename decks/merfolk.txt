@@ -1,4 +1,4 @@
-1 Hakbal of the Surging Soul (LCC) 3 *F*
+1 Hakbal of the Surging Soul (LCC) 3
 1 Aetherize (LCC) 142
 1 Alandra, Sky Dreamer (J22) 9
 1 Alchemist's Refuge (LCC) 318
@@ -15,7 +15,7 @@
 1 Cold-Eyed Selkie (LCC) 266
 1 Command Tower (LCC) 325
 1 Court of Garenbrig (WOC) 25
-1 Cyclonic Rift (2XM) 339 *F*
+1 Cyclonic Rift (2XM) 339
 1 Deeproot Historian (LCC) 91
 1 Deeproot Waters (LCC) 152
 1 Deeproot Wayfinder (MOM) 184
@@ -78,7 +78,7 @@
 1 Thassa, God of the Sea (LCC) 176
 1 The Ozolith (LTC) 351
 1 Thieving Skydiver (LCC) 177
-1 Thrasios, Triton Hero (C16) 46 *F*
+1 Thrasios, Triton Hero (C16) 46
 1 Tishana's Tidebinder (LCI) 81
 1 Topography Tracker (LCC) 95
 1 Twists and Turns // Mycoid Maze (LCI) 217

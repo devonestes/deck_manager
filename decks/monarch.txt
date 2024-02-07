@@ -1,4 +1,4 @@
-1 Aragorn, King of Gondor (LTC) 5 *F*
+1 Aragorn, King of Gondor (LTC) 5
 1 Adarkar Wastes (ICE) 351
 1 Adeline, Resplendent Cathar (MOC) 167
 1 Akroma's Will (CMR) 615
@@ -7,7 +7,7 @@
 1 Arcane Signet (LTC) 273
 1 Archivist of Gondor (LTC) 18
 1 Arid Mesa (MM3) 229
-1 Aurelia, the Law Above (MKM) 188 *F*
+1 Aurelia, the Law Above (MKM) 188
 1 Aurelia, the Warleader (GTC) 143
 1 Azure Fleet Admiral (CMR) 58
 1 Battlefield Forge (LTC) 296
@@ -22,7 +22,7 @@
 1 Combat Celebrant (LTC) 212
 1 Command Tower (LTC) 301
 1 Conjurer's Mantle (MOC) 12
-1 Coppercoat Vanguard (MAT) 1 *F*
+1 Coppercoat Vanguard (MAT) 1
 1 Court of Grace (ONC) 62
 1 Court of Vantress (WOC) 22
 1 Cyclonic Rift (RTR) 35
@@ -40,8 +40,8 @@
 1 Flooded Strand (KTK) 233
 1 Forth Eorlingas! (LTC) 56
 1 Glacial Fortress (LTC) 315
-1 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (BOT) 11 *F*
-1 Greymond, Avacyn's Stalwart (SLD) 143 *F*
+1 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (BOT) 11
+1 Greymond, Avacyn's Stalwart (SLD) 143
 1 Hallowed Fountain (UNF) 277
 1 Horn of Gondor (LTR) 240
 1 Imperial Recruiter (2XM) 131

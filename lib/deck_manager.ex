@@ -1,30 +1,64 @@
 defmodule DeckManager do
   @decks [
-    "vampires",
-    "slug",
-    "morphs",
-    "korvold",
-    "monarch",
-    "dinos",
-    "wanderer",
-    "mishra",
-    "shrines",
-    "ur_dragon",
-    "x_spells",
-    "merfolk",
-    "galadriel",
-    "aesi",
-    "eldrazi",
-    "slivers",
-    "meria",
-    "henzie",
-    "jetmir",
-    "clues",
-    "mirko"
+    {"vampires", "jOUImhiaykKSYanHfKmkLA", "28309948-82fd-41f6-ab59-c18e3689e77d"},
+    {"slug", "3F4O9kcJ1Ea6YK0wPlUSSw", "eb09e94c-031d-411f-8301-0592285445cf"},
+    {"morphs", "RX85WnSoI0KVaeQhOJ8wQA", "cbc7f5e6-9ec9-4a65-9308-4a529df379be"},
+    {"korvold", "z3o8vEq1lEm0sk7cGP9_9g", "74060e7a-59a6-4e84-877f-9ff761c4237b"},
+    {"monarch", "aHQmX2i_i0-hUQpdq0ta5w", "d5af5f3f-60ef-442e-a378-ac21792a1471"},
+    {"dinos", "3Ekcem0mLk6xskQ8U5FJBg", "b80cc791-fcd2-4abc-af12-e7d8b18240f0"},
+    {"wanderer", "IoR8Jb5aB0ulmNOtWs5RZg", "e59cf956-680f-436a-b200-068f5962eaf1"},
+    {"mishra", "ynyDvRw8G0Kmrajlp_UegA", "a735961f-9d0e-4fa7-8ca8-7035e88b06d6"},
+    {"shrines", "YontiLZZZEmugFVEqOhXKA", "828cf477-a6f5-450d-b14b-7b74f1dde4cb"},
+    {"ur_dragon", "KSVzZ4Os-UKKFXud4-5Vnw", "acc8bcd4-3eea-4ada-9a4e-a70b43623366"},
+    {"x_spells", "i1LRiXwbGEy1FC6weByOdQ", "f9c228f7-a0fa-4043-ab01-6505e1218c64"},
+    {"merfolk", "ekHtx3vytky4yfEHOIpi2A", "0e516b67-5914-40fe-8bc3-31aaf4d63b73"},
+    {"galadriel", "WT-etujvYUWLAa_ux-wUgA", "c20fbf07-be33-482f-996f-3a8d9800ff9b"},
+    {"aesi", "x3NtuV2jeEKPVA8YJVwkjA", "10f01741-98b9-4741-a9ad-7d31419ec516"},
+    {"eldrazi", "sB9e88BQ5UqFwb6tBUS2_w", "ae56d72e-baeb-4dee-9719-befc8c4d2256"},
+    {"slivers", "G69IYzuFrkKvwQMumlgJog", "0c02b3ee-7672-4446-8178-b1fe4005a0ae"},
+    {"meria", "Bu_ZwfjumUuFD1KuH2_FqQ", "40faed00-3b8a-4fbc-a711-aa8f753f1ab0"},
+    {"henzie","l4YgSzpNmkG-UpBAuusAhg",  "1d47b6aa-b250-48e0-abd6-29b83286d34d"},
+    {"jetmir","4T4sW6V7JUSmN7OpnQ_hrQ", "a89a5213-f8c6-4d19-a5d1-bed98927932a"},
+    {"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
+    {"mirko", "yYJUeFoCNEaoTg8kBQgt6w", "cfcdd050-f39b-4302-8689-5b244bb2ddfd"}
   ]
 
   def run() do
     build_decks()
+  end
+
+  def download() do
+    Enum.each(@decks, fn {deck, id, export_id} ->
+      deck_list =
+        id
+        |> list_url(export_id)
+        |> Req.get!()
+        |> Map.get(:body)
+        |> String.split("SIDEBOARD:")
+        |> case do
+          [deck_list] -> deck_list
+          [deck_list, _] -> deck_list
+        end
+        |> String.trim_trailing()
+
+      count =
+        deck_list
+        |> String.split("\n")
+        |> Enum.reduce(0, fn card, acc ->
+          regex = ~r/(\d*) (.*) \((.*)\) (\d*)/
+          [_, count, _, _set, _collector_number] = Regex.run(regex, card)
+          {count, _} = Integer.parse(count)
+          count + acc
+        end)
+
+      if count == 100 do
+        File.write!("decks/#{deck}.txt", deck_list)
+      else
+        IO.puts("Could not download #{deck} - Invalid number of cards: #{count}")
+      end
+
+      :timer.sleep(1000)
+    end)
   end
 
   def run(deck) do
@@ -34,7 +68,7 @@ defmodule DeckManager do
   defp build_decks() do
     collection = read_csv("decks/collection.csv")
 
-    Enum.reduce(@decks, collection, fn deck, updated_collection ->
+    Enum.reduce(@decks, collection, fn {deck, _, _}, updated_collection ->
       file = read_txt("decks/#{deck}.txt")
 
       case build(updated_collection, file) do
@@ -267,5 +301,9 @@ defmodule DeckManager do
       end)
 
     File.write!(path, formatted)
+  end
+
+  defp list_url(deck_id, export_id) do
+    "https://api2.moxfield.com/v2/decks/all/#{deck_id}/export?format=full&exportId=#{export_id}"
   end
 end

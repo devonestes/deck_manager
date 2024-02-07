@@ -1,9 +1,9 @@
-1 The Ur-Dragon (C17) 48 *F*
+1 The Ur-Dragon (C17) 48
 1 Ancient Copper Dragon (CLB) 161
 1 Ancient Silver Dragon (CLB) 366
 1 Ancient Tomb (TMP) 315
 1 Arcane Signet (MOC) 348
-1 Atarka, World Render (SCD) 1 *E*
+1 Atarka, World Render (SCD) 1
 1 Badlands (3ED) 282
 1 Balefire Dragon (ISD) 129
 1 Beledros Witherbloom (STX) 163
@@ -52,7 +52,7 @@
 1 Lightning Greaves (LTC) 281
 1 Mana Vault (2ED) 260
 1 Marsh Flats (MM3) 239
-1 Miirym, Sentinel Wyrm (CLB) 284 *F*
+1 Miirym, Sentinel Wyrm (CLB) 284
 1 Misty Rainforest (MM3) 240
 1 Morophon, the Boundless (CMM) 669
 1 Mountain (J22) 107
@@ -87,7 +87,7 @@
 1 Temur Ascendancy (KTK) 207
 1 Terror of the Peaks (M21) 369
 1 The Great Henge (LTC) 348
-1 The Kami War // O-Kagachi Made Manifest (NEO) 227 *F*
+1 The Kami War // O-Kagachi Made Manifest (NEO) 227
 1 The World Tree (KHM) 373
 1 Tiamat (AFR) 298
 1 Urza's Incubator (C15) 273

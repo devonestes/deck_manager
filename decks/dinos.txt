@@ -48,7 +48,7 @@
 1 Nature's Lore (DMR) 170
 1 Otepec Huntmaster (LCC) 229
 1 Overgrown Farmland (WHO) 292
-1 Pantlaza, Sun-Favored (LCC) 4 *F*
+1 Pantlaza, Sun-Favored (LCC) 4
 2 Plains (J22) 98
 1 Polyraptor (RIX) 144
 1 Prismatic Vista (MH1) 244

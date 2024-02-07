@@ -68,7 +68,7 @@
 1 Swiftfoot Boots (BRC) 166
 1 Temple of the False God (MOC) 437
 1 The Irencrag (WOE) 248
-1 Thought Vessel (PLG22) 2 *F*
+1 Thought Vessel (PLG22) 2
 1 Thran Dynamo (BRC) 168
 1 Titan's Presence (J22) 749
 1 Tomb of the Spirit Dragon (CMM) 1048

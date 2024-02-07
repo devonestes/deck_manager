@@ -62,18 +62,18 @@
 1 Replenish (UDS) 15
 1 Rhystic Study (J22) 114
 1 Rockfall Vale (MID) 266
-1 Sanctum of All (M21) 225 *F*
-1 Sanctum of Calm Waters (M21) 68 *F*
+1 Sanctum of All (M21) 225
+1 Sanctum of Calm Waters (M21) 68
 1 Sanctum of Fruitful Harvest (M21) 203
 1 Sanctum of Shattered Heights (M21) 157
-1 Sanctum of Stone Fangs (M21) 120 *F*
+1 Sanctum of Stone Fangs (M21) 120
 1 Sanctum of Tranquil Light (M21) 33
 1 Sanctum Weaver (MH2) 171
 1 Savai Triome (IKO) 312
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Sea of Clouds (BBD) 84
 1 Setessan Champion (CMM) 912
-1 Shrine Steward (NEO) 259 *F*
+1 Shrine Steward (NEO) 259
 1 Sigil of the Empty Throne (J22) 244
 1 Smothering Tithe (RNA) 22
 1 Sol Ring (3ED) 274
@@ -92,7 +92,7 @@
 1 Verdant Catacombs (MM3) 249
 1 Verduran Enchantress (4ED) 281
 1 Watery Grave (UNF) 278
-1 Windswept Heath (EXP) 20 *F*
+1 Windswept Heath (EXP) 20
 1 Wooded Bastion (SHM) 281
 1 Wooded Foothills (KTK) 249
 1 Zagoth Triome (IKO) 313

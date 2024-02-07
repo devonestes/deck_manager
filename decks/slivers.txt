@@ -17,7 +17,7 @@
 1 Crypt Sliver (CMM) 863
 1 Crystalline Sliver (CMM) 920
 1 Cultivate (J22) 644
-1 Cyclonic Rift (2XM) 339 *F*
+1 Cyclonic Rift (2XM) 339
 1 Demonic Tutor (3ED) 105
 1 Diffusion Sliver (CMM) 845
 1 Distant Melody (MOC) 220
@@ -77,7 +77,7 @@
 1 Steam Vents (UNF) 283
 1 Stomping Ground (UNF) 280
 1 Striking Sliver (CMM) 882
-1 Swamp (MOM) 287 *F*
+1 Swamp (MOM) 287
 1 Synapse Sliver (CMM) 857
 1 Syphon Sliver (CMM) 870
 1 Talon Sliver (TMP) 50

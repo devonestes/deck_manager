@@ -1,4 +1,4 @@
-1 Aesi, Tyrant of Gyre Strait (CMR) 365 *F*
+1 Aesi, Tyrant of Gyre Strait (CMR) 365
 1 Abundance (40K) 210
 1 Ancient Greenwarden (ZNR) 178
 1 Ancient Tomb (TMP) 315
@@ -76,7 +76,7 @@
 1 Storm Cauldron (ALL) 134
 1 Swan Song (LTC) 197
 1 Tatyova, Benthic Druid (DMR) 203
-1 Tatyova, Steward of Tides (DMU) 222 *F*
+1 Tatyova, Steward of Tides (DMU) 222
 1 Temple of Mystery (M20) 255
 1 Thawing Glaciers (ALL) 144
 1 Thespian's Stage (C19) 282

@@ -21,7 +21,8 @@ defmodule DeckManager.MixProject do
 
   defp aliases do
     [
-      build: &build/1
+      build: &build/1,
+      download: &download/1
     ]
   end
 
@@ -35,10 +36,16 @@ defmodule DeckManager.MixProject do
     DeckManager.run(deck)
   end
 
+  defp download([]) do
+    Mix.Task.run("app.start")
+    DeckManager.download()
+  end
+
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:csv, "~> 3.0"}
+      {:csv, "~> 3.0"},
+      {:req, "~> 0.4.8"}
       # {:dep_from_hexpm, "~> 0.3.0"},
       # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"}
     ]

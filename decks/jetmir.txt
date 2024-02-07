@@ -1,8 +1,8 @@
-1 Jetmir, Nexus of Revels (SLD) 1509 *F*
+1 Jetmir, Nexus of Revels (SLD) 1509
 1 Adeline, Resplendent Cathar (MOC) 167
 1 Arbor Elf (M13) 160
 1 Arid Mesa (MM3) 229
-1 Aurelia, the Law Above (MKM) 188 *F*
+1 Aurelia, the Law Above (MKM) 188
 1 Avacyn's Pilgrim (ISD) 170
 1 Aven Mindcensor (CLB) 688
 1 Birds of Paradise (4ED) 234
@@ -21,20 +21,21 @@
 1 Collector Ouphe (PLST) MH1-158
 1 Combat Celebrant (LTC) 212
 1 Command Tower (MOC) 396
+1 Craterhoof Behemoth (AVR) 172
 1 Deafening Silence (ELD) 10
 1 Delighted Halfling (LTR) 158
 1 Dockside Extortionist (2X2) 360
-1 Doorkeeper Thrull (MKM) 338 *F*
+1 Doorkeeper Thrull (MKM) 338
 1 Drannith Magistrate (IKO) 314
 1 Eiganjo, Seat of the Empire (NEO) 413
-1 Eladamri's Call (PLS) 106
-1 Eldritch Evolution (EMN) 155
 1 Elesh Norn, Grand Cenobite (NPH) 9
 1 Elvish Mystic (M15) 173
 1 Esper Sentinel (MH2) 12
 1 Exotic Orchard (MOC) 398
+1 Final Fortune (MIR) 173
 1 Finale of Devastation (WAR) 160
 1 Flooded Strand (KTK) 233
+1 Forbidden Orchard (C16) 296
 1 Forest (J22) 110
 1 Forth Eorlingas! (LTC) 56
 1 Fyndhorn Elves (ICE) 244
@@ -46,13 +47,11 @@
 1 Hushbringer (ELD) 18
 1 Hushwing Gryff (M15) 15
 1 Imperial Recruiter (2XM) 131
-1 Jetmir's Garden (SNC) 291
 1 Joven's Ferrets (HML) 89
 1 Kutzil, Malamet Exemplar (LCI) 304
 1 Legolas's Quick Reflexes (LTC) 493
 1 Linvala, Keeper of Silence (ROE) 33
 1 Llanowar Elves (M12) 182
-1 Loran of the Third Path (BRO) 12
 1 Mana Confluence (JOU) 163
 1 Mana Crypt (2XM) 270
 1 Marsh Flats (MM3) 239
@@ -60,6 +59,7 @@
 1 Mother of Runes (ULG) 14
 1 Mountain (J22) 107
 1 Myrel, Shield of Argive (BRO) 305
+1 Natural Order (VIS) 114
 1 Ohran Frostfang (SLD) 237
 1 Path to Exile (MOC) 198
 1 Plains (J22) 98
@@ -75,6 +75,7 @@
 1 Skullclamp (DST) 140
 1 Skyhunter Strike Force (PLST) ONC-21
 1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (BOT) 6
+1 Sol Ring (MOC) 381
 1 Song of Totentanz (WOE) 150
 1 Stomping Ground (UNF) 280
 1 Sunbaked Canyon (MH1) 247
@@ -87,7 +88,6 @@
 1 Tesak, Judith's Hellhound (MKC) 36
 1 Thalia, Guardian of Thraben (VOW) 38
 1 Toski, Bearer of Secrets (KHM) 197
-1 Trouble in Pairs (MKC) 15
 1 Utopia Sprawl (RVR) 159
 1 Varchild's War-Riders (ALL) 83
 1 Verdant Catacombs (MM3) 249
