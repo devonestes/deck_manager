@@ -13,6 +13,7 @@
 1 Chromeshell Crab (C19) 81
 1 Command Tower (C19) 237
 1 Craterhoof Behemoth (AVR) 172
+1 Cryptic Coat (MKM) 50
 1 Crystal Shard (MRD) 159
 1 Cyclonic Rift (RTR) 35
 1 Deathmist Raptor (C19) 160
@@ -24,13 +25,14 @@
 1 Farseek (C19) 165
 1 Final-Word Phantom (MKC) 22
 1 Flooded Grove (LTC) 309
+1 Flourishing Bloom-Kin (MKM) 160
 2 Forest (LTR) 270
-1 Ghastly Conscription (C19) 115
 1 Gift of Doom (C19) 17
 1 Grazilaxx, Illithid Scholar (CLB) 723
 1 Grim Haruspex (C19) 118
 1 Guardian Project (RNA) 130
 1 Heroic Intervention (LTC) 249
+1 Hide in Plain Sight (MKM) 166
 1 Hooded Hydra (C19) 172
 1 Icefeather Aven (C19) 194
 2 Island (MOM) 278
@@ -50,7 +52,6 @@
 1 Opulent Palace (DMC) 223
 1 Otawara, Soaring City (NEO) 503
 1 Overgrown Tomb (UNF) 284
-1 Overwhelming Stampede (C19) 175
 1 Polluted Delta (KTK) 239
 1 Printlifter Ooze (MKC) 40
 1 Rejuvenating Springs (LTC) 325
@@ -62,7 +63,6 @@
 1 Shipwreck Marsh (MID) 285
 1 Silumgar Assassin (C19) 128
 1 Simic Growth Chamber (CM2) 267
-1 Skinthinner (C19) 129
 1 Sol Ring (C19) 221
 1 Stratus Dancer (C19) 96
 1 Sunken Ruins (SHM) 280

@@ -7,26 +7,19 @@ Vorinclex // The Grand Evolution (PROXY)
 Urza's Saga (PROXY)
 Uro, Titan of Nature's Wrath (PROXY)
 Tireless Provisioner (PROXY)
-The Great Henge (PROXY)
 Swan Song (PROXY)
-Sol Ring (PROXY)
 Skyshroud Claim (PROXY)
-Simic Growth Chamber (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Rhystic Study (PROXY)
-Return of the Wildspeaker (PROXY)
-Reliquary Tower (PROXY)
 Rejuvenating Springs (PROXY)
 Prismatic Vista (PROXY)
 Otawara, Soaring City (PROXY)
 Oracle of Mul Daya (PROXY)
+On the Trail (PROXY)
 Nyxbloom Ancient (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Misty Rainforest (PROXY)
 Last March of the Ents (PROXY)
-Koma, Cosmos Serpent (PROXY)
-Imoti, Celebrant of Bounty (PROXY)
-Hydroid Krasis (PROXY)
 Hinterland Harbor (PROXY)
 Heroic Intervention (PROXY)
 Flooded Grove (PROXY)
@@ -42,7 +35,6 @@ Cyclonic Rift (PROXY)
 Crucible of Worlds (PROXY)
 Crop Rotation (PROXY)
 Craterhoof Behemoth (PROXY)
-Command Tower (PROXY)
 Breeding Pool (PROXY)
 Awaken the Woods (PROXY)
 Ancient Tomb (PROXY)
@@ -56,12 +48,16 @@ Temple of Mystery
 Tatyova, Steward of Tides
 Tatyova, Benthic Druid
 Storm Cauldron
+Sol Ring
 Snow-Covered Island
 Snow-Covered Forest
 Skyshroud Ranger
+Simic Growth Chamber
 Scapeshift
 Roil Elemental
+Return of the Wildspeaker
 Retreat to Coralhelm
+Reliquary Tower
 Rampaging Baloths
 Palinchron
 Overburden
@@ -72,11 +68,13 @@ Mystic Sanctuary
 Mana Breach
 Lotus Vale
 Llanowar Scout
+Koma, Cosmos Serpent
 Kodama's Reach
 Jungle Basin
 Island
 Island
 Island
+Hydroid Krasis
 Halimar Depths
 Growth Spiral
 Greensleeves, Maro-Sorcerer
@@ -85,9 +83,11 @@ Forest
 Forest
 Forest
 Forest
+Doppelgang
 Cultivator Colossus
 Coral Atoll
 Conduit of Worlds
+Command Tower
 Blossoming Tortoise
 Azusa, Lost but Seeking
 Avenger of Zendikar

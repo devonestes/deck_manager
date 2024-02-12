@@ -19,8 +19,9 @@ defmodule DeckManager do
     {"meria", "Bu_ZwfjumUuFD1KuH2_FqQ", "40faed00-3b8a-4fbc-a711-aa8f753f1ab0"},
     {"henzie","l4YgSzpNmkG-UpBAuusAhg",  "1d47b6aa-b250-48e0-abd6-29b83286d34d"},
     {"jetmir","4T4sW6V7JUSmN7OpnQ_hrQ", "a89a5213-f8c6-4d19-a5d1-bed98927932a"},
-    {"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
-    {"mirko", "yYJUeFoCNEaoTg8kBQgt6w", "cfcdd050-f39b-4302-8689-5b244bb2ddfd"}
+    {"aristocats", "TYqGCS46qEaJMRKsasgcCQ", "be34ece7-5d32-44c3-b0e4-fa452b151cbc"},
+    #{"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
+    #{"mirko", "yYJUeFoCNEaoTg8kBQgt6w", "cfcdd050-f39b-4302-8689-5b244bb2ddfd"}
   ]
 
   def run() do

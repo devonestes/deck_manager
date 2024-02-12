@@ -7,29 +7,26 @@ Spire Garden (PROXY)
 Sol Ring (PROXY)
 Shadowspear (PROXY)
 Rockfall Vale (PROXY)
-Return of the Wildspeaker (PROXY)
-Portal to Phyrexia (PROXY)
+Resurrection Orb (PROXY)
 Mithril Coat (PROXY)
 Lightning Greaves (PROXY)
 Kozilek, Butcher of Truth (PROXY)
-Jeska's Will (PROXY)
 Great Furnace (PROXY)
 Fire-Lit Thicket (PROXY)
+Finale of Devastation (PROXY)
 Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
 Deflecting Swat (PROXY)
 Darksteel Citadel (PROXY)
 Commander's Plate (PROXY)
-Command Tower (PROXY)
-Chaos Warp (PROXY)
 Chandra's Ignition (PROXY)
 Buried Ruin (PROXY)
 Boseiju, Who Endures (PROXY)
 Blightsteel Colossus (PROXY)
-Basilisk Collar (PROXY)
+Birds of Paradise (PROXY)
 Zoyowa's Justice
+Walking Ballista
 Vorrac Battlehorns
 Tree of Tales
-Traxos, Scourge of Kroog
 Toski, Bearer of Secrets
 Thrun, the Last Troll
 Thrun, Breaker of Silence
@@ -38,7 +35,6 @@ The Reaver Cleaver
 Tenza, Godo's Maul
 Tanuki Transplanter
 Sword of Vengeance
-Sword of Truth and Justice
 Sword of the Animist
 Sword of Forge and Frontier
 Sword of Fire and Ice
@@ -47,14 +43,16 @@ Swiftfoot Boots
 Slagwoods Bridge
 Silkguard
 Sarinth Steelseeker
+Rope
 Rootbound Crag
 Rishkar's Expertise
-Ring of Kalonia
+Return of the Wildspeaker
 Restless Ridgeline
+Reckless Fireweaver
 Rebel Salvo
-Passionate Archaeologist
 Ornithopter
-Mountain
+Neurok Hoversail
+Nettlecyst
 Mountain
 Mountain
 Mountain
@@ -63,16 +61,16 @@ Mountain
 Mountain
 Mask of Memory
 Lothlórien Blade
+Komainu Battle Armor
 Kessig Wolf Run
+Jeska's Will
 Inventors' Fair
 Infiltration Lens
-Illusionist's Bracers
 Hunter's Insight
 Howling Mine
 Helm of the Host
 Hammer of Nazahn
 Gruul Turf
-Goldvein Pick
 Glowcap Lantern
 Game Trail
 Foundry Inspector
@@ -84,17 +82,19 @@ Forest
 Forest
 Fireshrieker
 Emrakul, the Promised End
-Elder Gargaroth
-Dragonwing Glider
+Dire Flail // Dire Blunderbuss
 Diamond Pick-Axe
 Darksteel Plate
 Cragcrown Pathway // Timbercrown Pathway
+Command Tower
 Cinder Glade
-Bone Sabres
+Chaos Warp
 Blackblade Reforged
 Bitterthorn, Nissa's Animus
 Berserk
 Beast Within
 Beamtown Beatstick
+Basilisk Collar
 Apex Altisaur
+Academy Manufactor
 Meria, Scholar of Antiquity

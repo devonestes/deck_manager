@@ -35,7 +35,6 @@ Demonic Tutor (PROXY)
 Delighted Halfling (PROXY)
 Deadly Rollick (PROXY)
 Command Tower (PROXY)
-Chaos Warp (PROXY)
 Boseiju, Who Endures (PROXY)
 Blossoming Tortoise (PROXY)
 Bloodstained Mire (PROXY)
@@ -90,6 +89,7 @@ Etali, Primal Storm
 Entomb
 Cultivate
 Cinder Glade
+Chaos Warp
 Buried Alive
 Bringer of the Last Gift
 Atsushi, the Blazing Sky

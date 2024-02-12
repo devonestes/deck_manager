@@ -23,7 +23,6 @@ Oracle of Mul Daya (PROXY)
 Misty Rainforest (PROXY)
 Mirari's Wake (PROXY)
 Ketria Triome (PROXY)
-Jetmir's Garden (PROXY)
 Heroic Intervention (PROXY)
 Fierce Guardianship (PROXY)
 Enlightened Tutor (PROXY)
@@ -32,6 +31,7 @@ Deflecting Swat (PROXY)
 Cyclonic Rift (PROXY)
 Crop Rotation (PROXY)
 City of Brass (PROXY)
+Case of the Stashed Skeleton (PROXY)
 Breeding Pool (PROXY)
 Bountiful Promenade (PROXY)
 Birds of Paradise (PROXY)
@@ -63,6 +63,7 @@ Mountain
 Moon-Blessed Cleric
 Moat
 Jukai Naturalist
+Jetmir's Garden
 Island
 Indatha Triome
 Idyllic Tutor
@@ -83,7 +84,6 @@ Ghoulish Impetus
 Ghostly Prison
 Forest
 Forbidden Orchard
-Fertile Ground
 Extinguish All Hope
 Exotic Orchard
 Enchantress's Presence

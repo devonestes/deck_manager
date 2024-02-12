@@ -32,7 +32,6 @@ Swamp
 Sunken Ruins
 Stratus Dancer
 Sol Ring
-Skinthinner
 Simic Growth Chamber
 Silumgar Assassin
 Shipwreck Marsh
@@ -44,7 +43,6 @@ Reliquary Tower
 Rejuvenating Springs
 Printlifter Ooze
 Polluted Delta
-Overwhelming Stampede
 Overgrown Tomb
 Otawara, Soaring City
 Opulent Palace
@@ -65,14 +63,15 @@ Island
 Island
 Icefeather Aven
 Hooded Hydra
+Hide in Plain Sight
 Heroic Intervention
 Guardian Project
 Grim Haruspex
 Grazilaxx, Illithid Scholar
 Gift of Doom
-Ghastly Conscription
 Forest
 Forest
+Flourishing Bloom-Kin
 Flooded Grove
 Final-Word Phantom
 Farseek
@@ -83,6 +82,7 @@ Den Protector
 Deathmist Raptor
 Cyclonic Rift
 Crystal Shard
+Cryptic Coat
 Craterhoof Behemoth
 Command Tower
 Chromeshell Crab

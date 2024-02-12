@@ -11,7 +11,6 @@ Polluted Delta (PROXY)
 Phyrexian Tower (PROXY)
 Overgrown Tomb (PROXY)
 Misty Rainforest (PROXY)
-Mana Vault (PROXY)
 Mana Crypt (PROXY)
 Luxury Suite (PROXY)
 Imperial Recruiter (PROXY)
@@ -33,7 +32,6 @@ Ziatora's Proving Ground
 Worldly Tutor
 Wooded Foothills
 Windswept Heath
-Viscera Seer
 Troll of Khazad-dûm
 Toxic Deluge
 Tireless Provisioner
@@ -77,6 +75,7 @@ Fabled Passage
 Delighted Halfling
 Deathrite Shaman
 Deadly Rollick
+Deadly Dispute
 Dark Ritual
 Damnation
 Culling the Weak
@@ -84,8 +83,8 @@ Crucible of Worlds
 Crop Rotation
 Corpse Dance
 Command Tower
+Chatterfang, Squirrel General
 Case of the Stashed Skeleton
-Blood Pet
 Black Sun's Twilight
 Black Market Connections
 Bitterblossom
@@ -97,4 +96,5 @@ Ashnod's Altar
 Animate Dead
 Ancient Copper Dragon
 Ancient Brass Dragon
+Academy Manufactor
 Korvold, Fae-Cursed King

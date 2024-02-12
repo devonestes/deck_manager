@@ -1,26 +1,24 @@
-1 Morska, Undersea Sleuth (MKC) 3 *F*
+1 Morska, Undersea Sleuth (MKC) 3
 1 Academy Manufactor (MH2) 219
 1 Adarkar Wastes (ICE) 351
-1 Adrix and Nev, Twincasters (C21) 336
+1 Adrix and Nev, Twincasters (MKC) 198
 1 Alchemist's Refuge (LCC) 318
 1 Alquist Proft, Master Sleuth (MKM) 185
 1 Ancient Tomb (TMP) 315
 1 Anointed Procession (AKH) 2
 1 Arcane Denial (ALL) 22a
 1 Arcane Signet (MOC) 348
-1 Beastmaster Ascension (PLST) CMA-92
 1 Bennie Bracks, Zoologist (NCC) 86
 1 Birds of Paradise (4ED) 234
 1 Boseiju, Who Endures (NEO) 501
 1 Bountiful Promenade (ZNE) 20
-1 Brainstorm (ICE) 61
 1 Breeding Pool (UNF) 286
 1 Chord of Calling (RAV) 156
 1 Command Tower (MOC) 396
 1 Craterhoof Behemoth (AVR) 172
 1 Crystal Shard (MRD) 159
 1 Cultivate (J22) 644
-1 Cyclonic Rift (2XM) 339 *F*
+1 Cyclonic Rift (2XM) 339
 1 Deserted Beach (MID) 281
 1 Detective of the Month (MKC) 21
 1 Disorder in the Court (MKC) 209
@@ -28,6 +26,7 @@
 1 Doppelgang (MKM) 198
 1 Dreamroot Cascade (VOW) 282
 1 Erdwal Illuminator (MKC) 104
+1 Ethereal Investigator (MKC) 105
 1 Faerie Mastermind (PMOM) 58p
 1 Farewell (NEO) 365
 1 Farseek (RVR) 138
@@ -41,6 +40,7 @@
 1 Heroic Intervention (LTC) 249
 1 Hinterland Harbor (LTC) 317
 1 Idol of Oblivion (BRC) 144
+1 Innocuous Researcher (MKC) 38
 1 Inspiring Statuary (MKC) 230
 2 Island (J22) 101
 1 Kappa Cannoneer (NEC) 14
@@ -51,12 +51,14 @@
 1 Lonis, Cryptozoologist (MKC) 215
 1 Mechanized Production (J22) 320
 1 Misty Rainforest (MM3) 240
+1 Mondrak, Glory Dominus (ONE) 23
 1 Mystic Gate (CMM) 1013
 1 Mystic Remora (ICE) 87
 1 Nature's Lore (DMR) 170
+1 Noble Hierarch (2XM) 177
 1 Nykthos, Shrine to Nyx (THS) 223
-1 Omen Hawker (MOM) 70
 1 On the Trail (MKC) 39
+1 Ongoing Investigation (MKC) 114
 1 Otawara, Soaring City (NEO) 503
 1 Parallel Lives (ISD) 199
 2 Plains (J22) 98
@@ -65,7 +67,7 @@
 1 Reliquary Tower (BRC) 196
 1 Rhystic Study (J22) 114
 1 Rise and Shine (MH2) 58
-1 Sarinth Steelseeker (BRO) 189 *F*
+1 Sarinth Steelseeker (BRO) 189
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Sea of Clouds (BBD) 84
 1 Seedborn Muse (C19) 179
@@ -80,7 +82,6 @@
 1 Teferi's Protection (C17) 8
 1 Temple Garden (UNF) 281
 1 Tezzeret, Betrayer of Flesh (MKC) 120
-1 The Enigma Jewel // Locus of Enlightenment (LCI) 55
 1 Thought Monitor (MKC) 121
 1 Thoughtcast (BRC) 99
 1 Three Visits (PTK) 153
@@ -92,6 +93,5 @@
 1 Winding Canyons (WTH) 167
 1 Windswept Heath (KTK) 248
 1 Wooded Bastion (SHM) 281
-1 Worldly Tutor (MIR) 255
 1 Yavimaya Hollow (UDS) 143
 1 Yavimaya, Cradle of Growth (MH2) 441
