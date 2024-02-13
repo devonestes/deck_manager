@@ -15,7 +15,6 @@
 1 Castle Locthwain (ELD) 389
 1 Caves of Koilos (MD1) 14
 1 Charismatic Conqueror (LCC) 70
-1 Clay-Fired Bricks // Cosmium Kiln (LCI) 6
 1 Command Tower (MOC) 396
 1 Corpse Knight (MOC) 321
 1 Cruel Celebrant (LCC) 267
@@ -33,7 +32,6 @@
 1 Fanatical Offering (LCI) 105
 1 Fetid Heath (NCC) 401
 1 Godless Shrine (UNF) 282
-1 Grand Abolisher (SLD) 1285
 1 Greedy Freebooter (LCI) 109
 1 Helping Hand (LCI) 17
 1 Ichor Wellspring (BRC) 143
@@ -41,10 +39,12 @@
 1 Isolated Chapel (LCC) 337
 1 Land Tax (2XM) 20
 1 Leonin Relic-Warder (MBS) 10
+1 Luminarch Ascension (ZEN) 25
 1 Marsh Flats (MM3) 239
 1 Metallic Mimic (LCC) 308
 1 Mind Stone (MOC) 364
 1 Mother of Runes (ULG) 14
+1 Mox Amber (DOM) 224
 1 Orcish Bowmasters (LTR) 103
 1 Phyrexian Reclamation (J22) 124
 1 Phyrexian Tower (JMP) 493

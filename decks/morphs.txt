@@ -20,7 +20,6 @@
 1 Demonic Tutor (3ED) 105
 1 Den Protector (C19) 161
 1 Dreamroot Cascade (VOW) 282
-1 Echo Tracer (LGN) 37
 1 Elven Chorus (LTR) 160
 1 Farseek (C19) 165
 1 Final-Word Phantom (MKC) 22
@@ -74,6 +73,7 @@
 1 Thelonite Hermit (C19) 184
 1 Thieving Amalgam (C19) 21
 1 Thousand Winds (C19) 100
+1 Three Visits (MKC) 189
 1 Triumph of the Hordes (NPH) 123
 1 Twilight Mire (NCC) 443
 1 Ugin's Mastery (CMM) 718

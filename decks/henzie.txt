@@ -25,6 +25,7 @@
 1 Demonic Tutor (3ED) 105
 1 Dockside Extortionist (2X2) 360
 1 Doors of Durin (LTR) 199
+1 Dragonskull Summit (SLD) 458
 1 Entomb (EMA) 87
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
@@ -64,7 +65,6 @@
 1 Sakura-Tribe Elder (CHK) 239
 1 Shadow in the Warp (40K) 140
 1 Skullclamp (DST) 140
-1 Smoldering Marsh (BRC) 202
 1 Sol Ring (MOC) 381
 1 Solemn Simulacrum (BRC) 161
 1 Spire Garden (ZNE) 19
