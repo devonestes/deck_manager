@@ -16,11 +16,11 @@ Reanimate (PROXY)
 Phyrexian Tower (PROXY)
 Phyrexian Reclamation (PROXY)
 Orcish Bowmasters (PROXY)
+Mox Amber (PROXY)
 Mother of Runes (PROXY)
 Marsh Flats (PROXY)
 Isolated Chapel (PROXY)
 Ichor Wellspring (PROXY)
-Grand Abolisher (PROXY)
 Godless Shrine (PROXY)
 Fetid Heath (PROXY)
 Esper Sentinel (PROXY)
@@ -77,6 +77,7 @@ Plains
 Plains
 Mind Stone
 Metallic Mimic
+Luminarch Ascension
 Leonin Relic-Warder
 Land Tax
 Inkshield
@@ -89,7 +90,6 @@ Dross Skullbomb
 Dark Confidant
 Dance of the Dead
 Corpse Knight
-Clay-Fired Bricks // Cosmium Kiln
 Castle Locthwain
 Castle Ardenvale
 Brightclimb Pathway // Grimclimb Pathway

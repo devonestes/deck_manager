@@ -1,0 +1,94 @@
+1 Thalia and The Gitrog Monster (MOM) 255
+1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+1 Ancient Greenwarden (ZNR) 178
+1 Arcane Signet (MOC) 348
+1 Archaeomancer's Map (C21) 339
+1 Assassin's Trophy (GRN) 152
+1 Augur of Autumn (MID) 168
+1 Avacyn, Angel of Hope (2XM) 8
+1 Avenger of Zendikar (C13) 135
+1 Awaken the Woods (BRO) 344
+1 Beast Within (ONC) 104
+1 Beledros Witherbloom (STX) 163
+1 Birds of Paradise (4ED) 234
+1 Bitterblossom (MOR) 58
+1 Bloom Tender (EVE) 66
+1 Boseiju, Who Endures (NEO) 501
+1 Bountiful Promenade (ZNE) 20
+1 Command Tower (MOC) 396
+1 Conduit of Worlds (ONE) 163
+1 Crucible of Worlds (10E) 319
+1 Deadly Rollick (C20) 42
+1 Deathcap Glade (VOW) 281
+1 Deathrite Shaman (RTR) 213
+1 Delighted Halfling (LTR) 158
+1 Demonic Tutor (3ED) 105
+1 Drana and Linvala (PMOM) 222p
+1 Elesh Norn, Grand Cenobite (NPH) 9
+1 Esper Sentinel (MH2) 12
+1 Ezuri's Predation (CLB) 824
+1 Fabled Passage (ELD) 244
+1 Felidar Retreat (CMM) 821
+1 Fetid Heath (NCC) 401
+1 Field of the Dead (M20) 247
+1 Finale of Devastation (WAR) 160
+1 Flagstones of Trokair (TSP) 272
+1 Flawless Maneuver (C20) 26
+3 Forest (J22) 110
+1 Glissa Sunslayer (ONE) 202
+1 Godless Shrine (UNF) 282
+1 Greensleeves, Maro-Sorcerer (DMC) 77
+1 Guardian Project (RNA) 130
+1 Heroic Intervention (LTC) 249
+1 Indatha Triome (IKO) 309
+1 Land Tax (2XM) 20
+1 Lightning Greaves (LTC) 281
+1 Liliana, Dreadhorde General (WAR) 97
+1 Loran of the Third Path (BRO) 12
+1 Lotus Vale (WTH) 165
+1 Marsh Flats (MM3) 239
+1 Mirari's Wake (C17) 181
+1 Natural Order (VIS) 114
+1 Nissa, Resurgent Animist (MAT) 22
+1 Ohran Frostfang (SLD) 237
+1 Ophiomancer (C13) 84
+1 Oracle of Mul Daya (JMP) 415
+1 Overgrown Farmland (WHO) 292
+1 Overgrown Tomb (UNF) 284
+4 Plains (J22) 98
+1 Prismatic Vista (MH1) 244
+1 Serra Paragon (DMU) 388
+1 Sevinne's Reclamation (CLB) 707
+1 Shadowspear (THB) 345
+1 Shattered Sanctum (VOW) 283
+1 Smothering Tithe (RNA) 22
+1 Snow-Covered Forest (ICE) 383
+1 Snow-Covered Plains (ICE) 367
+1 Snow-Covered Swamp (ICE) 372
+1 Sol Ring (MOC) 381
+1 Solemn Simulacrum (BRC) 161
+1 Sun Titan (MKC) 87
+2 Swamp (J22) 106
+1 Swiftfoot Boots (BRC) 166
+1 Sword of Fire and Ice (2XM) 297
+1 Sword of Light and Shadow (MMA) 217
+1 Takenuma, Abandoned Mire (NEO) 416
+1 Teferi's Protection (C17) 8
+1 Temple Garden (UNF) 281
+1 The Meathook Massacre (MID) 112
+1 Tireless Provisioner (MH2) 180
+1 Tireless Tracker (MKC) 190
+1 Titania, Protector of Argoth (CMA) 157
+1 Tithe (VIS) 23
+1 Toski, Bearer of Secrets (KHM) 197
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
+1 Tymna the Weaver (C16) 48
+1 Undergrowth Stadium (CMR) 714
+1 Urza's Saga (MH2) 259
+1 Vault of Champions (CMR) 715
+1 Verdant Catacombs (MM3) 249
+1 Windswept Heath (KTK) 248
+1 Woodland Cemetery (LTC) 346
+1 Wrenn and Realmbreaker (MOM) 217
+1 Yawgmoth, Thran Physician (TSR) 336
+1 Zulaport Cutthroat (CLB) 775

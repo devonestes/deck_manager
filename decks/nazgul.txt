@@ -1,0 +1,86 @@
+1 Lord of the Nazgûl (LTC) 60
+1 An Offer You Can't Refuse (SLP) 7
+1 Ancient Tomb (TMP) 315
+1 Arcane Denial (ALL) 22a
+1 Arcane Signet (MOC) 348
+1 Black Market Connections (CLB) 620
+1 Brainstorm (ICE) 61
+1 Capture of Jingzhou (CMM) 79
+1 Cavern of Souls (AVR) 226
+1 Changeling Outcast (MH1) 82
+1 Clearwater Pathway // Murkwater Pathway (ZNR) 286
+1 Command Tower (MOC) 396
+1 Counterspell (TMP) 57
+1 Cyclonic Rift (2XM) 339
+1 Damnation (TSR) 106
+1 Dark Ritual (3ED) 99
+1 Deadly Rollick (C20) 42
+1 Demonic Tutor (3ED) 105
+1 Dimir Signet (BRC) 138
+1 Drowned Catacomb (SLD) 457
+1 Feed the Swarm (BRC) 106
+1 Fellwar Stone (MOC) 356
+1 Fierce Guardianship (C20) 35
+1 Force of Negation (MH1) 52
+1 Force of Will (ALL) 28
+1 Frantic Search (UMA) 57
+1 Go for the Throat (BRO) 102
+1 Impulse (VIS) 34
+9 Island (J22) 101
+1 Isochron Scepter (MRD) 188
+1 Jeweled Lotus (CMR) 319
+1 Kindred Discovery (CLB) 81
+1 Lightning Greaves (LTC) 281
+1 Lim-Dûl's Vault (ALL) 107
+1 Lórien Revealed (LTR) 60
+1 Mana Crypt (2XM) 270
+1 Mana Drain (CMR) 80
+1 Mana Vault (2ED) 260
+1 Misty Rainforest (MM3) 240
+1 Morphic Pool (BBD) 83
+1 Mystical Tutor (MIR) 80
+1 Nazgûl (LTR) 100
+1 Nazgûl (LTR) 332
+1 Nazgûl (LTR) 333
+1 Nazgûl (LTR) 334
+1 Nazgûl (LTR) 335
+1 Nazgûl (LTR) 336
+1 Nazgûl (LTR) 337
+1 Nazgûl (LTR) 338
+1 Nazgûl (LTR) 339
+1 Negate (STA) 18
+1 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time (LCI) 67
+1 Opposition Agent (CMR) 141
+1 Opt (LTC) 194
+1 Orcish Bowmasters (LTR) 103
+1 Otawara, Soaring City (NEO) 271
+1 Pact of Negation (FUT) 42
+1 Polluted Delta (KTK) 239
+1 Preordain (LTC) 196
+1 Rapid Hybridization (LCC) 166
+1 Reanimate (TMP) 151
+1 Reliquary Tower (BRC) 196
+1 Rhystic Study (J22) 114
+1 Roaming Throne (LCI) 344
+1 Sakashima of a Thousand Faces (CMR) 89
+1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+1 See Double (MOM) 353
+1 Shadow Rift (TMP) 86
+1 Shipwreck Marsh (MID) 285
+1 Snuff Out (GVL) 53
+1 Sol Ring (MOC) 381
+1 Spark Double (RVR) 319
+1 Sunken Hollow (MOC) 428
+1 Sunken Ruins (SHM) 280
+7 Swamp (J22) 106
+1 Swan Song (LTC) 197
+1 Talisman of Dominance (MRD) 253
+1 The One Ring (LTR) 451
+1 Time Warp (STA) 22
+1 Toxic Deluge (C13) 96
+1 Underground River (BRO) 267
+1 Underground Sea (3ED) 290
+1 Urborg, Tomb of Yawgmoth (TSR) 287
+1 Vampiric Tutor (VIS) 72
+1 Watery Grave (UNF) 278
+1 Witch-king of Angmar (LTR) 423

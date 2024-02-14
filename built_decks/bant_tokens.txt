@@ -1,100 +1,100 @@
-Wooded Foothills (PROXY)
+Yavimaya, Cradle of Growth (PROXY)
+Yavimaya Hollow (PROXY)
+Wooded Bastion (PROXY)
 Windswept Heath (PROXY)
-Weathered Wayfarer (PROXY)
-Verdant Catacombs (PROXY)
+Wave Goodbye (PROXY)
+Vorinclex, Monstrous Raider (PROXY)
+Urza's Saga (PROXY)
+Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
+The Ozolith (PROXY)
+Tendershoot Dryad (PROXY)
 Temple Garden (PROXY)
+Teferi's Protection (PROXY)
 Swan Song (PROXY)
+Staff of Compleation (PROXY)
+Spara's Headquarters (PROXY)
 Sol Ring (PROXY)
-Scalding Tarn (PROXY)
+Sea of Clouds (PROXY)
+Sea Gate Restoration // Sea Gate, Reborn (PROXY)
+Ripples of Potential (PROXY)
 Rhystic Study (PROXY)
 Rejuvenating Springs (PROXY)
-Ranger-Captain of Eos (PROXY)
-Polluted Delta (PROXY)
+Overgrown Farmland (PROXY)
 Otawara, Soaring City (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
-Moon-Blessed Cleric (PROXY)
+Natural Order (PROXY)
+Mystic Gate (PROXY)
 Misty Rainforest (PROXY)
-Misthollow Griffin (PROXY)
-Marsh Flats (PROXY)
-Mana Crypt (PROXY)
-Mana Confluence (PROXY)
-Invasion of Ikoria // Zilortha, Apex of Ikoria (PROXY)
+Koma, Cosmos Serpent (PROXY)
+Karn's Bastion (PROXY)
+Inspiring Call (PROXY)
+Incubation Druid (PROXY)
+Hinterland Harbor (PROXY)
+Heroic Intervention (PROXY)
+Herald of Secret Streams (PROXY)
 Hallowed Fountain (PROXY)
-Force of Negation (PROXY)
-Forbidden Orchard (PROXY)
-Food Chain (PROXY)
+Gyre Sage (PROXY)
+Gruff Triplets (PROXY)
+Glacial Fortress (PROXY)
 Flooded Strand (PROXY)
-Finale of Devastation (PROXY)
+Flooded Grove (PROXY)
 Fierce Guardianship (PROXY)
+Farseek (PROXY)
 Faerie Mastermind (PROXY)
 Esper Sentinel (PROXY)
-Enlightened Tutor (PROXY)
+Elven Chorus (PROXY)
+Dreamroot Cascade (PROXY)
+Deserted Beach (PROXY)
 Delighted Halfling (PROXY)
 Cyclonic Rift (PROXY)
-Crop Rotation (PROXY)
+Craterhoof Behemoth (PROXY)
+Court of Grace (PROXY)
 Command Tower (PROXY)
-City of Brass (PROXY)
+Charismatic Conqueror (PROXY)
+Cathars' Crusade (PROXY)
 Breeding Pool (PROXY)
 Bountiful Promenade (PROXY)
 Boseiju, Who Endures (PROXY)
-Bloom Tender (PROXY)
 Birds of Paradise (PROXY)
-Arid Mesa (PROXY)
-Ancient Tomb (PROXY)
-Yisan, the Wanderer Bard
-Wild Growth
-Whitemane Lion
-Village Bell-Ringer
-Veil of Summer
-Tundra
-Tropical Island
-Touch the Spirit Realm
-Tendershoot Dryad
-Swords to Plowshares
-Survival of the Fittest
-Spellseeker
-Solitude
-Silence
-Scryb Ranger
-Quirion Ranger
-Prime Speaker Vannifar
-Priest of Titania
-Peregrine Drake
-Pact of Negation
+Avenger of Zendikar (PROXY)
+Adeline, Resplendent Cathar (PROXY)
+Zameck Guildmage
+Wolverine Riders
+Windswift Slice
+Tocasia's Welcome
+Sakashima of a Thousand Faces
+Rumor Gatherer
+Plains
+Overwhelming Stampede
+Ohran Frostfang
 Noble Hierarch
-Neoform
+Nadir Kraken
 Mystic Remora
-Mindbreak Trap
-Llanowar Elves
-Kutzil, Malamet Exemplar
-Kinnan, Bonder Prodigy
-Jeweled Lotus
-Green Sun's Zenith
-Grand Abolisher
-Gemstone Caverns
-Fyndhorn Elves
+Mondrak, Glory Dominus
+Master Biomancer
+Kami of Whispered Hopes
+Island
+Island
+Imperious Perfect
+Herd Baloth
+Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+Galadhrim Ambush
+Gala Greeters
 Forest
-Force of Will
-Flusterstorm
-Flesh Duplicate
-Exotic Orchard
-Eternal Scourge
-Endurance
-Emiel the Blessed
-Elvish Mystic
-Eldritch Evolution
-Eladamri's Call
-Dryad Arbor
-Drannith Magistrate
-Derevi, Empyrial Tactician
-Deafening Silence
-Collector Ouphe
-Cloud of Faeries
-Chord of Calling
-Carpet of Flowers
-Boseiju, Who Shelters All
-Biomancer's Familiar
-Avacyn's Pilgrim
-An Offer You Can't Refuse
-Aether Vial
+Forest
+Forest
+Felidar Retreat
+Faerie Artisans
+Edric, Spymaster of Trest
+Earthcraft
+Doubling Season
+Cultivator of Blades
+Bramble Sovereign
+Bennie Bracks, Zoologist
+Beast Whisperer
+Arwen, Weaver of Hope
+Arcane Signet
+Arachnogenesis
+Adrix and Nev, Twincasters
+Adarkar Wastes
 Galadriel, Light of Valinor

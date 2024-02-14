@@ -9,7 +9,6 @@ Teferi's Protection (PROXY)
 Stomping Ground (PROXY)
 Steam Vents (PROXY)
 Spara's Headquarters (PROXY)
-Sol Ring (PROXY)
 Scalding Tarn (PROXY)
 Sacred Foundry (PROXY)
 Rhystic Study (PROXY)
@@ -25,7 +24,6 @@ Godless Shrine (PROXY)
 Flooded Strand (PROXY)
 Farseek (PROXY)
 Elven Chorus (PROXY)
-Eladamri's Call (PROXY)
 Demonic Tutor (PROXY)
 Cyclonic Rift (PROXY)
 Cavern of Souls (PROXY)
@@ -46,6 +44,7 @@ Synapse Sliver
 Swamp
 Striking Sliver
 Spiteful Sliver
+Sol Ring
 Sliver Queen
 Sliver Overlord
 Sliver Legion
@@ -81,6 +80,7 @@ Forest
 Forest
 Fellwar Stone
 Exotic Orchard
+Eladamri's Call
 Distant Melody
 Diffusion Sliver
 Cultivate

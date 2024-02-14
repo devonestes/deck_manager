@@ -34,7 +34,6 @@ Dockside Extortionist (PROXY)
 Demonic Tutor (PROXY)
 Delighted Halfling (PROXY)
 Deadly Rollick (PROXY)
-Command Tower (PROXY)
 Boseiju, Who Endures (PROXY)
 Blossoming Tortoise (PROXY)
 Bloodstained Mire (PROXY)
@@ -54,7 +53,6 @@ Swamp
 Swamp
 Swamp
 Sundial of the Infinite
-Smoldering Marsh
 Shadow in the Warp
 Sakura-Tribe Elder
 Riveteers Ascendancy
@@ -87,7 +85,9 @@ Forest
 Exotic Orchard
 Etali, Primal Storm
 Entomb
+Dragonskull Summit
 Cultivate
+Command Tower
 Cinder Glade
 Chaos Warp
 Buried Alive

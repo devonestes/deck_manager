@@ -4,7 +4,6 @@ Wooded Foothills (PROXY)
 Windswept Heath (PROXY)
 Weathered Wayfarer (PROXY)
 Verdant Catacombs (PROXY)
-Tendershoot Dryad (PROXY)
 Temple Garden (PROXY)
 Tarnished Citadel (PROXY)
 Taiga (PROXY)
@@ -26,26 +25,19 @@ Marsh Flats (PROXY)
 Mana Crypt (PROXY)
 Mana Confluence (PROXY)
 Imperial Recruiter (PROXY)
-Green Sun's Zenith (PROXY)
-Grand Abolisher (PROXY)
-Gemstone Caverns (PROXY)
 Forth Eorlingas! (PROXY)
 Forbidden Orchard (PROXY)
 Flooded Strand (PROXY)
 Finale of Devastation (PROXY)
 Esper Sentinel (PROXY)
 Elesh Norn, Grand Cenobite (PROXY)
-Drannith Magistrate (PROXY)
 Dockside Extortionist (PROXY)
 Delighted Halfling (PROXY)
-Deafening Silence (PROXY)
 Craterhoof Behemoth (PROXY)
 Command Tower (PROXY)
 Combat Celebrant (PROXY)
-Collector Ouphe (PROXY)
 Clever Concealment (PROXY)
 City of Brass (PROXY)
-Chord of Calling (PROXY)
 Charismatic Conqueror (PROXY)
 Brushland (PROXY)
 Bountiful Promenade (PROXY)
@@ -53,7 +45,6 @@ Boseiju, Who Endures (PROXY)
 Bloom Tender (PROXY)
 Bloodstained Mire (PROXY)
 Birds of Paradise (PROXY)
-Avacyn's Pilgrim (PROXY)
 Aurelia, the Law Above (PROXY)
 Arid Mesa (PROXY)
 Adeline, Resplendent Cathar (PROXY)
@@ -64,6 +55,7 @@ Utopia Sprawl
 Toski, Bearer of Secrets
 Thalia, Guardian of Thraben
 Tesak, Judith's Hellhound
+Tendershoot Dryad
 Sylvan Safekeeper
 Sunbaked Canyon
 Skyhunter Strike Force
@@ -84,17 +76,25 @@ Joven's Ferrets
 Hushwing Gryff
 Hushbringer
 Horizon Canopy
+Green Sun's Zenith
+Grand Abolisher
 Giver of Runes
+Gemstone Caverns
 Fyndhorn Elves
 Forest
 Final Fortune
 Exotic Orchard
 Elvish Mystic
 Eiganjo, Seat of the Empire
+Drannith Magistrate
 Doorkeeper Thrull
+Deafening Silence
+Collector Ouphe
+Chord of Calling
 Champion of Lambholt
 Captain Sisay
 Brimaz, King of Oreskos
 Aven Mindcensor
+Avacyn's Pilgrim
 Arbor Elf
 Jetmir, Nexus of Revels

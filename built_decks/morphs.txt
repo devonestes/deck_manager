@@ -20,6 +20,7 @@ Underground River
 Ugin's Mastery
 Twilight Mire
 Triumph of the Hordes
+Three Visits
 Thousand Winds
 Thieving Amalgam
 Thelonite Hermit
@@ -76,7 +77,6 @@ Flooded Grove
 Final-Word Phantom
 Farseek
 Elven Chorus
-Echo Tracer
 Dreamroot Cascade
 Den Protector
 Deathmist Raptor
