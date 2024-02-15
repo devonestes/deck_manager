@@ -24,7 +24,6 @@ Misty Rainforest (PROXY)
 Marsh Flats (PROXY)
 Mana Crypt (PROXY)
 Mana Confluence (PROXY)
-Imperial Recruiter (PROXY)
 Forth Eorlingas! (PROXY)
 Forbidden Orchard (PROXY)
 Flooded Strand (PROXY)
@@ -59,6 +58,7 @@ Tendershoot Dryad
 Sylvan Safekeeper
 Sunbaked Canyon
 Skyhunter Strike Force
+Sanguine Evangelist
 Rhys the Redeemed
 Plateau
 Plains

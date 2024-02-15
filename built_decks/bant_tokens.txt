@@ -1,11 +1,9 @@
-Yavimaya, Cradle of Growth (PROXY)
-Yavimaya Hollow (PROXY)
-Wooded Bastion (PROXY)
 Windswept Heath (PROXY)
 Wave Goodbye (PROXY)
 Vorinclex, Monstrous Raider (PROXY)
 Urza's Saga (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
+Three Visits (PROXY)
 The Ozolith (PROXY)
 Tendershoot Dryad (PROXY)
 Temple Garden (PROXY)
@@ -16,14 +14,12 @@ Spara's Headquarters (PROXY)
 Sol Ring (PROXY)
 Sea of Clouds (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Ripples of Potential (PROXY)
 Rhystic Study (PROXY)
 Rejuvenating Springs (PROXY)
 Overgrown Farmland (PROXY)
 Otawara, Soaring City (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Natural Order (PROXY)
-Mystic Gate (PROXY)
 Misty Rainforest (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Karn's Bastion (PROXY)
@@ -37,9 +33,7 @@ Gyre Sage (PROXY)
 Gruff Triplets (PROXY)
 Glacial Fortress (PROXY)
 Flooded Strand (PROXY)
-Flooded Grove (PROXY)
 Fierce Guardianship (PROXY)
-Farseek (PROXY)
 Faerie Mastermind (PROXY)
 Esper Sentinel (PROXY)
 Elven Chorus (PROXY)
@@ -48,7 +42,6 @@ Deserted Beach (PROXY)
 Delighted Halfling (PROXY)
 Cyclonic Rift (PROXY)
 Craterhoof Behemoth (PROXY)
-Court of Grace (PROXY)
 Command Tower (PROXY)
 Charismatic Conqueror (PROXY)
 Cathars' Crusade (PROXY)
@@ -57,6 +50,7 @@ Bountiful Promenade (PROXY)
 Boseiju, Who Endures (PROXY)
 Birds of Paradise (PROXY)
 Avenger of Zendikar (PROXY)
+Ancient Tomb (PROXY)
 Adeline, Resplendent Cathar (PROXY)
 Zameck Guildmage
 Wolverine Riders
@@ -65,6 +59,8 @@ Tocasia's Welcome
 Sakashima of a Thousand Faces
 Rumor Gatherer
 Plains
+Plains
+Plains
 Overwhelming Stampede
 Ohran Frostfang
 Noble Hierarch
@@ -72,14 +68,18 @@ Nadir Kraken
 Mystic Remora
 Mondrak, Glory Dominus
 Master Biomancer
+Kodama of the West Tree
 Kami of Whispered Hopes
+Island
 Island
 Island
 Imperious Perfect
 Herd Baloth
 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+Glen Elendra Archmage
 Galadhrim Ambush
 Gala Greeters
+Forest
 Forest
 Forest
 Forest
@@ -87,6 +87,7 @@ Felidar Retreat
 Faerie Artisans
 Edric, Spymaster of Trest
 Earthcraft
+Dryad Arbor
 Doubling Season
 Cultivator of Blades
 Bramble Sovereign
@@ -96,5 +97,4 @@ Arwen, Weaver of Hope
 Arcane Signet
 Arachnogenesis
 Adrix and Nev, Twincasters
-Adarkar Wastes
 Galadriel, Light of Valinor

@@ -1,7 +1,7 @@
 1 Galadriel, Light of Valinor (LTC) 498
-1 Adarkar Wastes (ICE) 351
 1 Adeline, Resplendent Cathar (MOC) 167
 1 Adrix and Nev, Twincasters (C21) 336
+1 Ancient Tomb (TMP) 315
 1 Arachnogenesis (CMM) 647
 1 Arcane Signet (MOC) 348
 1 Arwen, Weaver of Hope (LTC) 35
@@ -16,7 +16,6 @@
 1 Cathars' Crusade (AVR) 10
 1 Charismatic Conqueror (LCC) 70
 1 Command Tower (LTC) 301
-1 Court of Grace (ONC) 62
 1 Craterhoof Behemoth (AVR) 172
 1 Cultivator of Blades (KHC) 55
 1 Cyclonic Rift (RTR) 35
@@ -24,21 +23,21 @@
 1 Deserted Beach (MID) 281
 1 Doubling Season (2XM) 350
 1 Dreamroot Cascade (VOW) 282
+1 Dryad Arbor (FUT) 174
 1 Earthcraft (TMP) 222
 1 Edric, Spymaster of Trest (CNS) 187
 1 Elven Chorus (LTR) 160
 1 Esper Sentinel (MH2) 12
 1 Faerie Artisans (CMM) 92
 1 Faerie Mastermind (PMOM) 58p
-1 Farseek (C19) 165
 1 Felidar Retreat (CMM) 821
 1 Fierce Guardianship (C20) 35
-1 Flooded Grove (LTC) 309
 1 Flooded Strand (KTK) 233
-3 Forest (LTR) 270
+4 Forest (LTR) 270
 1 Gala Greeters (SNC) 450
 1 Galadhrim Ambush (LTC) 38
 1 Glacial Fortress (LTC) 315
+1 Glen Elendra Archmage (MMA) 47
 1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (XLN) 191
 1 Gruff Triplets (WOE) 172
 1 Gyre Sage (MOC) 300
@@ -50,14 +49,14 @@
 1 Imperious Perfect (J22) 677
 1 Incubation Druid (MOC) 302
 1 Inspiring Call (MOC) 304
-2 Island (LTR) 264
+3 Island (LTR) 264
 1 Kami of Whispered Hopes (MOM) 196
 1 Karn's Bastion (CMM) 1007
+1 Kodama of the West Tree (NEO) 392
 1 Koma, Cosmos Serpent (KHM) 221
 1 Master Biomancer (2X2) 250
 1 Misty Rainforest (MM3) 240
 1 Mondrak, Glory Dominus (ONE) 23
-1 Mystic Gate (CMM) 1013
 1 Mystic Remora (ICE) 87
 1 Nadir Kraken (NCC) 228
 1 Natural Order (VIS) 114
@@ -67,10 +66,9 @@
 1 Otawara, Soaring City (NEO) 503
 1 Overgrown Farmland (WHO) 292
 1 Overwhelming Stampede (LTC) 254
-1 Plains (J22) 98
+3 Plains (J22) 98
 1 Rejuvenating Springs (LTC) 325
 1 Rhystic Study (J22) 114
-1 Ripples of Potential (LCC) 77
 1 Rumor Gatherer (SNC) 29
 1 Sakashima of a Thousand Faces (CMR) 89
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
@@ -83,6 +81,7 @@
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147
 1 The Ozolith (LTC) 351
+1 Three Visits (MKC) 189
 1 Tocasia's Welcome (PLST) BRO-30
 1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
 1 Urza's Saga (MH2) 259
@@ -91,7 +90,4 @@
 1 Windswept Heath (KTK) 248
 1 Windswift Slice (LTC) 45
 1 Wolverine Riders (KHC) 14
-1 Wooded Bastion (SHM) 281
-1 Yavimaya Hollow (UDS) 143
-1 Yavimaya, Cradle of Growth (MH2) 441
 1 Zameck Guildmage (GTC) 209
