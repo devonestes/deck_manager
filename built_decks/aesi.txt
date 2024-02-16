@@ -27,14 +27,15 @@ Finale of Devastation (PROXY)
 Fierce Guardianship (PROXY)
 Field of the Dead (PROXY)
 Fabled Passage (PROXY)
+Exploration (PROXY)
 Entish Restoration (PROXY)
 Elven Chorus (PROXY)
 Dryad of the Ilysian Grove (PROXY)
 Delighted Halfling (PROXY)
 Cyclonic Rift (PROXY)
 Crucible of Worlds (PROXY)
-Crop Rotation (PROXY)
 Craterhoof Behemoth (PROXY)
+Burgeoning (PROXY)
 Breeding Pool (PROXY)
 Awaken the Woods (PROXY)
 Ancient Tomb (PROXY)
@@ -55,7 +56,6 @@ Skyshroud Ranger
 Simic Growth Chamber
 Scapeshift
 Roil Elemental
-Return of the Wildspeaker
 Retreat to Coralhelm
 Reliquary Tower
 Rampaging Baloths
