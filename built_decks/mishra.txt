@@ -52,7 +52,6 @@ Sensei's Divining Top
 Seat of the Synod
 RMS Titanic
 Rise and Shine
-Reckless Handling
 Portal to Phyrexia
 Obeka, Brute Chronologist
 Mystic Forge
@@ -64,6 +63,7 @@ Mistvault Bridge
 Mindslaver
 Metalworker
 Mana Drain
+Magmatic Galleon
 Machine God's Effigy
 Lightning Greaves
 Karn, Legacy Reforged

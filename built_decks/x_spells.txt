@@ -35,7 +35,6 @@ Ancient Tomb (PROXY)
 Zoanthrope
 Yavimaya Hollow
 Winged Hive Tyrant
-Wave Goodbye
 Unbound Flourishing
 Tyvar's Stand
 Tyrant Guard
@@ -61,6 +60,7 @@ Oran-Rief, the Vastwood
 Novijen, Heart of Progress
 Mountain
 Mountain
+Kiora's Follower
 Kiora, Behemoth Beckoner
 Karn's Bastion
 Kami of Whispered Hopes
@@ -68,9 +68,9 @@ Izzet Boilerworks
 Island
 Island
 Invasion of Ikoria // Zilortha, Apex of Ikoria
+Instill Energy
 Inspiring Call
 Incubation Druid
-Illusionist's Bracers
 Hydroid Krasis
 Hormagaunt Horde
 Hinterland Harbor

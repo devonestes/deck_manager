@@ -1,5 +1,6 @@
 1 Jetmir, Nexus of Revels (SLD) 1509
 1 Adeline, Resplendent Cathar (MOC) 167
+1 Anim Pakal, Thousandth Moon (LCI) 223
 1 Arbor Elf (M13) 160
 1 Arid Mesa (MM3) 229
 1 Aurelia, the Law Above (MKM) 188
@@ -85,7 +86,6 @@
 1 Tarnished Citadel (ODY) 329
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147
-1 Tesak, Judith's Hellhound (MKC) 36
 1 Thalia, Guardian of Thraben (VOW) 38
 1 Toski, Bearer of Secrets (KHM) 197
 1 Utopia Sprawl (RVR) 159

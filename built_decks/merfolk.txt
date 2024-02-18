@@ -1,5 +1,4 @@
 Worldly Tutor (PROXY)
-Wave Goodbye (PROXY)
 The Ozolith (PROXY)
 Swan Song (PROXY)
 Roaming Throne (PROXY)
@@ -27,6 +26,7 @@ Boseiju, Who Endures (PROXY)
 Ancient Tomb (PROXY)
 Alchemist's Refuge (PROXY)
 Zegana, Utopian Speaker
+Wave Goodbye
 Vodalian Hexcatcher
 Unclaimed Territory
 Twists and Turns // Mycoid Maze

@@ -37,9 +37,9 @@
 1 Hinterland Harbor (LTC) 317
 1 Hormagaunt Horde (40K) 93
 1 Hydroid Krasis (RNA) 183
-1 Illusionist's Bracers (GTC) 231
 1 Incubation Druid (MOC) 302
 1 Inspiring Call (MOC) 304
+1 Instill Energy (5ED) 304
 1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190
 2 Island (J22) 101
 1 Izzet Boilerworks (BRC) 188
@@ -47,6 +47,7 @@
 1 Karn's Bastion (CMM) 1007
 1 Ketria Triome (IKO) 310
 1 Kiora, Behemoth Beckoner (WAR) 232
+1 Kiora's Follower (LCC) 273
 1 Lightning Greaves (LTC) 281
 1 Misty Rainforest (MM3) 240
 2 Mountain (J22) 107
@@ -90,7 +91,6 @@
 1 Unbound Flourishing (MH1) 189
 1 Up the Beanstalk (WOE) 195
 1 Vorinclex, Monstrous Raider (KHM) 333
-1 Wave Goodbye (LCC) 79
 1 Winged Hive Tyrant (40K) 148
 1 Wooded Foothills (KTK) 249
 1 Yavimaya Hollow (UDS) 143

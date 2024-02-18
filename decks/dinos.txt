@@ -19,7 +19,6 @@
 1 Descendants' Path (LCC) 238
 1 Dinosaurs on a Spaceship (WHO) 122
 1 Doors of Durin (LTR) 199
-1 Drover of the Mighty (LCC) 239
 1 Entish Restoration (LTR) 163
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
 1 Farseek (LCC) 242
@@ -48,6 +47,7 @@
 1 Nature's Lore (DMR) 170
 1 Otepec Huntmaster (LCC) 229
 1 Overgrown Farmland (WHO) 292
+1 Palani's Hatcher (LCI) 237
 1 Pantlaza, Sun-Favored (LCC) 4
 2 Plains (J22) 98
 1 Polyraptor (RIX) 144

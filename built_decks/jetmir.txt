@@ -53,7 +53,6 @@ Varchild's War-Riders
 Utopia Sprawl
 Toski, Bearer of Secrets
 Thalia, Guardian of Thraben
-Tesak, Judith's Hellhound
 Tendershoot Dryad
 Sylvan Safekeeper
 Sunbaked Canyon
@@ -97,4 +96,5 @@ Brimaz, King of Oreskos
 Aven Mindcensor
 Avacyn's Pilgrim
 Arbor Elf
+Anim Pakal, Thousandth Moon
 Jetmir, Nexus of Revels

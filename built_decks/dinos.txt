@@ -61,6 +61,7 @@ Polyraptor
 Plains
 Plains
 Pantlaza, Sun-Favored
+Palani's Hatcher
 Overgrown Farmland
 Otepec Huntmaster
 Nature's Lore
@@ -85,7 +86,6 @@ Fire-Lit Thicket
 Farseek
 Etali, Primal Conqueror // Etali, Primal Sickness
 Entish Restoration
-Drover of the Mighty
 Doors of Durin
 Dinosaurs on a Spaceship
 Descendants' Path

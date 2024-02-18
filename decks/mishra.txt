@@ -41,6 +41,7 @@
 1 Lightning Greaves (LTC) 281
 1 Luxury Suite (ZNE) 18
 1 Machine God's Effigy (BRC) 16
+1 Magmatic Galleon (LCI) 157
 1 Mana Drain (CMR) 80
 1 Metalworker (UDS) 135
 1 Mindslaver (MRD) 206
@@ -55,7 +56,6 @@
 1 Otawara, Soaring City (NEO) 503
 1 Polluted Delta (KTK) 239
 1 Portal to Phyrexia (BRO) 365
-1 Reckless Handling (MAT) 19
 1 Rhystic Study (J22) 114
 1 Rise and Shine (MH2) 58
 1 Riverglide Pathway // Lavaglide Pathway (ZNR) 289
