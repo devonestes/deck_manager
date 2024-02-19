@@ -20,15 +20,15 @@ defmodule DeckManager do
     {"jetmir","4T4sW6V7JUSmN7OpnQ_hrQ", "a89a5213-f8c6-4d19-a5d1-bed98927932a"},
     {"aristocats", "TYqGCS46qEaJMRKsasgcCQ", "be34ece7-5d32-44c3-b0e4-fa452b151cbc"},
     {"bant_tokens", "1CtjbDS54kOSqeGlg2t22Q", "ff27a0e1-a95e-4d84-951e-a491ab20f1e4"},
-    #{"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
-    #{"galadriel_cedh", "WT-etujvYUWLAa_ux-wUgA", "c20fbf07-be33-482f-996f-3a8d9800ff9b"},
+    {"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
+    {"mw_control", "j8XE7zIQ70O5vRXmD5Ua3g", "bcad72f6-57ea-474d-aef7-a19a9f74931f"},
     #{"mirko", "yYJUeFoCNEaoTg8kBQgt6w", "cfcdd050-f39b-4302-8689-5b244bb2ddfd"},
-    #{"mw_control", "j8XE7zIQ70O5vRXmD5Ua3g", "bcad72f6-57ea-474d-aef7-a19a9f74931f"},
     #{"doric", "r-Uw7LJz-EC5xeTvSLxcqg", "abd873c1-6927-422e-aef8-269d4d6e92d4"},
     #{"chatterfang", "qEQ49yCVEUqgPw9CG6w3cw", "e6c047ef-21c6-45d6-91a9-a7217d324de0"},
     #{"nazgul", "qp4inpYaK0Sm0gpwS0XXqQ", "80b455f0-e71b-4cb2-8186-1d594c8504ea"},
     #{"thalrog", "pXSEOh3nJUun86gLXS-DmQ", "710dd6ff-eebe-40c8-b4ef-ab416d2b616c"},
     #{"knights", "5F_piVq7KUKAwdAP2tw9Rw", "f4990f31-316c-4447-991d-a6aa77fabb7e"},
+    #{"galadriel_cedh", "WT-etujvYUWLAa_ux-wUgA", "c20fbf07-be33-482f-996f-3a8d9800ff9b"},
   ]
 
   def run() do
