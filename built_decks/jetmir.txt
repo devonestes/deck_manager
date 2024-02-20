@@ -10,9 +10,7 @@ Taiga (PROXY)
 Sylvan Library (PROXY)
 Stomping Ground (PROXY)
 Song of Totentanz (PROXY)
-Sol Ring (PROXY)
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
-Skullclamp (PROXY)
 Serra Ascendant (PROXY)
 Scalding Tarn (PROXY)
 Sacred Foundry (PROXY)
@@ -33,7 +31,6 @@ Elesh Norn, Grand Cenobite (PROXY)
 Dockside Extortionist (PROXY)
 Delighted Halfling (PROXY)
 Craterhoof Behemoth (PROXY)
-Command Tower (PROXY)
 Combat Celebrant (PROXY)
 Clever Concealment (PROXY)
 City of Brass (PROXY)
@@ -56,7 +53,9 @@ Thalia, Guardian of Thraben
 Tendershoot Dryad
 Sylvan Safekeeper
 Sunbaked Canyon
+Sol Ring
 Skyhunter Strike Force
+Skullclamp
 Sanguine Evangelist
 Rhys the Redeemed
 Plateau
@@ -88,6 +87,7 @@ Eiganjo, Seat of the Empire
 Drannith Magistrate
 Doorkeeper Thrull
 Deafening Silence
+Command Tower
 Collector Ouphe
 Chord of Calling
 Champion of Lambholt

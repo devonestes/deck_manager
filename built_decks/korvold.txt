@@ -5,6 +5,7 @@ Urza's Saga (PROXY)
 Urborg, Tomb of Yawgmoth (PROXY)
 Undergrowth Stadium (PROXY)
 The Meathook Massacre (PROXY)
+Skullclamp (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
 Ragavan, Nimble Pilferer (PROXY)
 Polluted Delta (PROXY)
@@ -42,7 +43,6 @@ Stomping Ground
 Squandered Resources
 Spire Garden
 Sol Ring
-Skullclamp
 Shallow Grave
 Scalding Tarn
 Rhythm of the Wild
