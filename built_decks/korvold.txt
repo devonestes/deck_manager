@@ -1,100 +1,100 @@
+Ziatora's Proving Ground (PROXY)
+Worldly Tutor (PROXY)
+Wooded Foothills (PROXY)
+Windswept Heath (PROXY)
 Wheel of Fortune (PROXY)
 Verdant Catacombs (PROXY)
 Vampiric Tutor (PROXY)
 Urza's Saga (PROXY)
 Urborg, Tomb of Yawgmoth (PROXY)
 Undergrowth Stadium (PROXY)
+Troll of Khazad-dûm (PROXY)
+Tireless Provisioner (PROXY)
 The Meathook Massacre (PROXY)
+Taiga (PROXY)
+Stomping Ground (PROXY)
+Spire Garden (PROXY)
+Sol Ring (PROXY)
 Skullclamp (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
+Scalding Tarn (PROXY)
+Rhythm of the Wild (PROXY)
+Reassembling Skeleton (PROXY)
+Reanimate (PROXY)
 Ragavan, Nimble Pilferer (PROXY)
+Professional Face-Breaker (PROXY)
 Polluted Delta (PROXY)
 Phyrexian Tower (PROXY)
 Overgrown Tomb (PROXY)
+Orcish Bowmasters (PROXY)
+Old Gnawbone (PROXY)
 Misty Rainforest (PROXY)
+Marsh Flats (PROXY)
 Mana Crypt (PROXY)
 Luxury Suite (PROXY)
+Lightning Greaves (PROXY)
 Imperial Recruiter (PROXY)
+Ignoble Hierarch (PROXY)
 Heroic Intervention (PROXY)
 Goldspan Dragon (PROXY)
+Finale of Devastation (PROXY)
+Field of the Dead (PROXY)
+Fabled Passage (PROXY)
 Dockside Extortionist (PROXY)
 Dictate of Erebos (PROXY)
 Diabolic Intent (PROXY)
 Demonic Tutor (PROXY)
+Delighted Halfling (PROXY)
 Deflecting Swat (PROXY)
+Deadly Rollick (PROXY)
+Deadly Dispute (PROXY)
+Crucible of Worlds (PROXY)
+Crop Rotation (PROXY)
+Command Tower (PROXY)
+Case of the Stashed Skeleton (PROXY)
 Boseiju, Who Endures (PROXY)
 Bloodstained Mire (PROXY)
 Blood Crypt (PROXY)
+Bitterblossom (PROXY)
+Birds of Paradise (PROXY)
+Beledros Witherbloom (PROXY)
+Badlands (PROXY)
 Assassin's Trophy (PROXY)
 Arid Mesa (PROXY)
+Animate Dead (PROXY)
 Ancient Tomb (PROXY)
+Ancient Copper Dragon (PROXY)
+Ancient Brass Dragon (PROXY)
 Agadeem's Awakening // Agadeem, the Undercrypt (PROXY)
-Ziatora's Proving Ground
-Worldly Tutor
-Wooded Foothills
-Windswept Heath
-Troll of Khazad-dûm
 Toxic Deluge
-Tireless Provisioner
 Tinder Wall
-Taiga
 Swamp
-Stomping Ground
 Squandered Resources
-Spire Garden
-Sol Ring
 Shallow Grave
-Scalding Tarn
-Rhythm of the Wild
 Reliquary Tower
-Reassembling Skeleton
-Reanimate
-Professional Face-Breaker
 Pitiless Plunderer
 Phyrexian Altar
 Orcish Lumberjack
-Orcish Bowmasters
 Opposition Agent
 Oni-Cult Anvil
-Old Gnawbone
 Necromancy
 Mountain
 Mirkwood Bats
 Mayhem Devil
-Marsh Flats
 Lotus Petal
 Liliana, Dreadhorde General
-Lightning Greaves
 Life from the Loam
 Jeweled Lotus
-Ignoble Hierarch
 Forest
-Finale of Devastation
-Field of the Dead
-Fabled Passage
-Delighted Halfling
 Deathrite Shaman
-Deadly Rollick
-Deadly Dispute
 Dark Ritual
 Damnation
 Culling the Weak
-Crucible of Worlds
-Crop Rotation
 Corpse Dance
-Command Tower
 Chatterfang, Squirrel General
-Case of the Stashed Skeleton
 Black Sun's Twilight
 Black Market Connections
-Bitterblossom
-Birds of Paradise
-Beledros Witherbloom
 Bayou
-Badlands
 Ashnod's Altar
-Animate Dead
-Ancient Copper Dragon
-Ancient Brass Dragon
 Academy Manufactor
 Korvold, Fae-Cursed King

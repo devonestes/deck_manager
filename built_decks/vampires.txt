@@ -1,3 +1,8 @@
+Sacred Foundry (PROXY)
+Mana Crypt (PROXY)
+Charismatic Conqueror (PROXY)
+Bloodstained Mire (PROXY)
+Arid Mesa (PROXY)
 Wheel of Fortune
 Welcoming Vampire
 Vraan, Executioner Thane
@@ -27,7 +32,6 @@ Skullclamp
 Shattered Sanctum
 Savai Triome
 Sanguine Bond
-Sacred Foundry
 Roaming Throne
 Redemption Choir
 Queen's Bay Paladin
@@ -44,7 +48,6 @@ Master of Dark Rites
 Marsh Flats
 Markov Baron
 Mana Vault
-Mana Crypt
 Luxury Suite
 Kindred Dominance
 Isolated Chapel
@@ -74,13 +77,11 @@ Command Tower
 Coat of Arms
 Clifftop Retreat
 Clavileño, First of the Blessed
-Charismatic Conqueror
 Champion of Dusk
 Caves of Koilos
 Cavern of Souls
 Captivating Vampire
 Bojuka Bog
-Bloodstained Mire
 Bloodline Keeper // Lord of Lineage
 Bloodletter of Aclazotz
 Bloodghast
@@ -91,7 +92,6 @@ Beseech the Mirror
 Battlefield Forge
 Austere Command
 Ashnod's Altar
-Arid Mesa
 Arcane Signet
 Anguished Unmaking
 Ancient Tomb

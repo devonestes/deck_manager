@@ -1,7 +1,14 @@
 Wooded Foothills (PROXY)
+Wooded Bastion (PROXY)
+Windswept Heath (PROXY)
+Wayward Swordtooth (PROXY)
 Verdant Catacombs (PROXY)
 Urza's Saga (PROXY)
+Urza's Incubator (PROXY)
 Tithe (PROXY)
+The Skullspore Nexus (PROXY)
+The Great Henge (PROXY)
+Temple Garden (PROXY)
 Teferi's Protection (PROXY)
 Sundown Pass (PROXY)
 Stomping Ground (PROXY)
@@ -9,20 +16,34 @@ Spire Garden (PROXY)
 Spectator Seating (PROXY)
 Scalding Tarn (PROXY)
 Sacred Foundry (PROXY)
+Rockfall Vale (PROXY)
 Roaming Throne (PROXY)
-Rhythm of the Wild (PROXY)
+Prismatic Vista (PROXY)
+Overgrown Farmland (PROXY)
 Misty Rainforest (PROXY)
+Mirari's Wake (PROXY)
 Marsh Flats (PROXY)
 Mana Crypt (PROXY)
+Mana Confluence (PROXY)
+Last March of the Ents (PROXY)
+Kogla and Yidaro (PROXY)
+Jetmir's Garden (PROXY)
 Heroic Intervention (PROXY)
 Flooded Strand (PROXY)
 Flawless Maneuver (PROXY)
+Fire-Lit Thicket (PROXY)
 Finale of Devastation (PROXY)
+Farseek (PROXY)
+Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
+Entish Restoration (PROXY)
+Doors of Durin (PROXY)
 Delighted Halfling (PROXY)
 Deflecting Swat (PROXY)
 Chandra's Ignition (PROXY)
 Cavern of Souls (PROXY)
+Bountiful Promenade (PROXY)
 Boseiju, Who Endures (PROXY)
+Bonehoard Dracosaur (PROXY)
 Bloodstained Mire (PROXY)
 Arid Mesa (PROXY)
 Ancient Tomb (PROXY)
@@ -30,49 +51,35 @@ Akroma's Will (PROXY)
 Zacama, Primal Calamity
 Xenagos, God of Revels
 Wrathful Raptors
-Wooded Bastion
-Windswept Heath
 Welcome to . . . // Jurassic Park
-Wayward Swordtooth
 Wakening Sun's Avatar
-Urza's Incubator
 Unclaimed Territory
 Trapjaw Tyrant
 Topiary Stomper
 Thrashing Brontodon
-The Skullspore Nexus
-The Great Henge
-Temple Garden
 Temple Altisaur
 Sunhome, Fortress of the Legion
 Sunfrill Imitator
 Sol Ring
 Secluded Courtyard
 Scion of Calamity
-Rockfall Vale
 Ripjaw Raptor
+Rhythm of the Wild
 Return of the Wildspeaker
 Regisaur Alpha
 Regal Behemoth
 Rampant Growth
 Quartzwood Crasher
-Prismatic Vista
 Polyraptor
 Plains
 Plains
 Pantlaza, Sun-Favored
 Palani's Hatcher
-Overgrown Farmland
 Otepec Huntmaster
 Nature's Lore
 Mountain
 Mountain
-Mirari's Wake
 Marauding Raptor
-Mana Confluence
-Last March of the Ents
-Kogla and Yidaro
-Jetmir's Garden
 Invasion of Ikoria // Zilortha, Apex of Ikoria
 Hunting Velociraptor
 Hulking Raptor
@@ -82,11 +89,6 @@ Ghalta and Mavren
 Forest
 Forest
 Forest
-Fire-Lit Thicket
-Farseek
-Etali, Primal Conqueror // Etali, Primal Sickness
-Entish Restoration
-Doors of Durin
 Dinosaurs on a Spaceship
 Descendants' Path
 Defense of the Heart
@@ -94,7 +96,5 @@ Curious Altisaur
 Cultivate
 Command Tower
 Carnage Tyrant
-Bountiful Promenade
-Bonehoard Dracosaur
 Arcane Signet
 Gishath, Sun's Avatar

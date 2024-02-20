@@ -1,5 +1,6 @@
 Weathered Wayfarer (PROXY)
 Vraan, Executioner Thane (PROXY)
+Village Rites (PROXY)
 Vault of Champions (PROXY)
 Vampiric Tutor (PROXY)
 Urza's Saga (PROXY)
@@ -7,15 +8,11 @@ Urborg, Tomb of Yawgmoth (PROXY)
 The Meathook Massacre (PROXY)
 Teferi's Protection (PROXY)
 Takenuma, Abandoned Mire (PROXY)
-Sol Ring (PROXY)
 Skullclamp (PROXY)
 Shattered Sanctum (PROXY)
 Serra Ascendant (PROXY)
-Reassembling Skeleton (PROXY)
-Reanimate (PROXY)
 Phyrexian Tower (PROXY)
 Phyrexian Reclamation (PROXY)
-Orcish Bowmasters (PROXY)
 Mox Amber (PROXY)
 Mother of Runes (PROXY)
 Marsh Flats (PROXY)
@@ -27,23 +24,18 @@ Esper Sentinel (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
 Demonic Tutor (PROXY)
 Deadly Rollick (PROXY)
-Deadly Dispute (PROXY)
 Damn (PROXY)
 Cruel Celebrant (PROXY)
-Command Tower (PROXY)
 Charismatic Conqueror (PROXY)
 Caves of Koilos (PROXY)
 Bloodghast (PROXY)
 Bloodchief Ascension (PROXY)
-Bitterblossom (PROXY)
-Animate Dead (PROXY)
 Anguished Unmaking (PROXY)
 Ancient Tomb (PROXY)
 Agadeem's Awakening // Agadeem, the Undercrypt (PROXY)
 Zulaport Cutthroat
 Westfold Rider
 Viscera Seer
-Village Rites
 Vat of Rebirth
 Urza's Bauble
 Triarch Praetorian
@@ -60,6 +52,7 @@ Swamp
 Swamp
 Stitcher's Supplier
 Spirited Companion
+Sol Ring
 Snuff Out
 Silent Clearing
 Sevinne's Reclamation
@@ -67,6 +60,8 @@ Selfless Spirit
 Selfless Savior
 Rogue's Passage
 Restoration Specialist
+Reassembling Skeleton
+Reanimate
 Putrid Goblin
 Priest of Forgotten Gods
 Plains
@@ -75,6 +70,7 @@ Plains
 Plains
 Plains
 Plains
+Orcish Bowmasters
 Mind Stone
 Metallic Mimic
 Luminarch Ascension
@@ -87,14 +83,18 @@ Fanatical Offering
 Elas il-Kor, Sadistic Pilgrim
 Dusk // Dawn
 Dross Skullbomb
+Deadly Dispute
 Dark Confidant
 Dance of the Dead
 Corpse Knight
+Command Tower
 Castle Locthwain
 Castle Ardenvale
 Brightclimb Pathway // Grimclimb Pathway
 Blood Artist
 Blade of the Bloodchief
+Bitterblossom
 Benalish Sleeper
 Arcane Signet
+Animate Dead
 Bartolomé del Presidio

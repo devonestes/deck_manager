@@ -1,9 +1,13 @@
+Yavimaya, Cradle of Growth (PROXY)
+Verdant Catacombs (PROXY)
 Vampiric Tutor (PROXY)
+Misty Rainforest (PROXY)
 Demonic Tutor (PROXY)
+Craterhoof Behemoth (PROXY)
+Boseiju, Who Endures (PROXY)
 Zoetic Cavern
 Zagoth Triome
 Yedora, Grave Gardener
-Yavimaya, Cradle of Growth
 Yavimaya Coast
 Worldly Tutor
 Woodland Cemetery
@@ -13,7 +17,6 @@ Whisperwood Elemental
 Watery Grave
 Voidmage Apprentice
 Vesuvan Shapeshifter
-Verdant Catacombs
 Vedalken Orrery
 Undergrowth Stadium
 Underground River
@@ -52,7 +55,6 @@ Nervous Gardener
 Nature's Lore
 Nantuko Vigilante
 Morphic Pool
-Misty Rainforest
 Mischievous Quanar
 Llanowar Wastes
 Liberator, Urza's Battlethopter
@@ -83,13 +85,11 @@ Deathmist Raptor
 Cyclonic Rift
 Crystal Shard
 Cryptic Coat
-Craterhoof Behemoth
 Command Tower
 Chromeshell Crab
 Brine Elemental
 Breeding Pool
 Branch of Vitu-Ghazi
-Boseiju, Who Endures
 Beast Whisperer
 Assassin's Trophy
 Arcane Signet

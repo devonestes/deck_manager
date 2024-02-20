@@ -12,7 +12,6 @@
 1 Boseiju, Who Endures (NEO) 501
 1 Bountiful Promenade (ZNE) 20
 1 Brimaz, King of Oreskos (BNG) 5
-1 Brushland (BRO) 259
 1 Captain Sisay (INV) 237
 1 Champion of Lambholt (NCC) 284
 1 Charismatic Conqueror (LCC) 70
@@ -28,6 +27,7 @@
 1 Dockside Extortionist (2X2) 360
 1 Doorkeeper Thrull (MKM) 338
 1 Drannith Magistrate (IKO) 314
+1 Dryad Arbor (FUT) 174
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Elesh Norn, Grand Cenobite (NPH) 9
 1 Elvish Mystic (M15) 173

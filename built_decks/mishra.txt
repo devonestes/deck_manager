@@ -2,7 +2,6 @@ Wurmcoil Engine (PROXY)
 Watery Grave (PROXY)
 Vampiric Tutor (PROXY)
 Urza's Saga (PROXY)
-Troll of Khazad-dûm (PROXY)
 Training Center (PROXY)
 Talisman of Creativity (PROXY)
 Sunken Ruins (PROXY)
@@ -27,12 +26,14 @@ Deflecting Swat (PROXY)
 Cascade Bluffs (PROXY)
 Bloodstained Mire (PROXY)
 Blood Crypt (PROXY)
+Blasphemous Act (PROXY)
 Xander's Lounge
 Wondrous Crucible
 Weatherlight
 Vault of Whispers
 Urza, Lord High Artificer
 Unwinding Clock
+Troll of Khazad-dûm
 Thoughtcast
 The Stasis Coffin
 The Reality Chip
@@ -90,7 +91,6 @@ Chimil, the Inner Sun
 Chaos Warp
 Brudiclad, Telchor Engineer
 Blightsteel Colossus
-Blasphemous Act
 Basalt Monolith
 Baleful Strix
 Badlands

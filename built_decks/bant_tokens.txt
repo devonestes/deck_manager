@@ -1,15 +1,13 @@
+Yavimaya Hollow (PROXY)
 Windswept Heath (PROXY)
-Wave Goodbye (PROXY)
 Vorinclex, Monstrous Raider (PROXY)
 Urza's Saga (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Three Visits (PROXY)
-The Ozolith (PROXY)
 Tendershoot Dryad (PROXY)
 Temple Garden (PROXY)
 Teferi's Protection (PROXY)
 Swan Song (PROXY)
-Staff of Compleation (PROXY)
 Spara's Headquarters (PROXY)
 Sol Ring (PROXY)
 Sea of Clouds (PROXY)
@@ -22,14 +20,9 @@ Nykthos, Shrine to Nyx (PROXY)
 Natural Order (PROXY)
 Misty Rainforest (PROXY)
 Koma, Cosmos Serpent (PROXY)
-Karn's Bastion (PROXY)
-Inspiring Call (PROXY)
-Incubation Druid (PROXY)
 Hinterland Harbor (PROXY)
 Heroic Intervention (PROXY)
-Herald of Secret Streams (PROXY)
 Hallowed Fountain (PROXY)
-Gyre Sage (PROXY)
 Gruff Triplets (PROXY)
 Glacial Fortress (PROXY)
 Flooded Strand (PROXY)
@@ -42,7 +35,6 @@ Deserted Beach (PROXY)
 Delighted Halfling (PROXY)
 Cyclonic Rift (PROXY)
 Craterhoof Behemoth (PROXY)
-Command Tower (PROXY)
 Charismatic Conqueror (PROXY)
 Cathars' Crusade (PROXY)
 Breeding Pool (PROXY)
@@ -55,7 +47,10 @@ Adeline, Resplendent Cathar (PROXY)
 Zameck Guildmage
 Wolverine Riders
 Windswift Slice
+Wave Goodbye
 Tocasia's Welcome
+The Ozolith
+Staff of Compleation
 Sakashima of a Thousand Faces
 Rumor Gatherer
 Plains
@@ -69,12 +64,17 @@ Mystic Remora
 Mondrak, Glory Dominus
 Master Biomancer
 Kodama of the West Tree
+Karn's Bastion
 Kami of Whispered Hopes
 Island
 Island
 Island
+Inspiring Call
+Incubation Druid
 Imperious Perfect
 Herd Baloth
+Herald of Secret Streams
+Gyre Sage
 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
 Glen Elendra Archmage
 Galadhrim Ambush
@@ -87,9 +87,9 @@ Felidar Retreat
 Faerie Artisans
 Edric, Spymaster of Trest
 Earthcraft
-Dryad Arbor
 Doubling Season
 Cultivator of Blades
+Command Tower
 Bramble Sovereign
 Bennie Bracks, Zoologist
 Beast Whisperer

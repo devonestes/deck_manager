@@ -17,6 +17,7 @@
 1 Coral Atoll (VIS) 160
 1 Craterhoof Behemoth (AVR) 172
 1 Crucible of Worlds (10E) 319
+1 Cultivate (J22) 644
 1 Cultivator Colossus (VOW) 195
 1 Cyclonic Rift (RTR) 35
 1 Delighted Halfling (LTR) 158
@@ -40,7 +41,6 @@
 1 Hydroid Krasis (RNA) 183
 3 Island (MOM) 278
 1 Jungle Basin (VIS) 164
-1 Kodama's Reach (CLB) 826
 1 Koma, Cosmos Serpent (KHM) 221
 1 Last March of the Ents (LTR) 418
 1 Llanowar Scout (DOM) 170

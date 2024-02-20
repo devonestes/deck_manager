@@ -5,6 +5,7 @@ Watery Grave (PROXY)
 Verdant Catacombs (PROXY)
 Vampiric Tutor (PROXY)
 Temple Garden (PROXY)
+Three Visits (PROXY)
 Teferi's Protection (PROXY)
 Stomping Ground (PROXY)
 Steam Vents (PROXY)
@@ -16,7 +17,6 @@ Overgrown Tomb (PROXY)
 Nature's Lore (PROXY)
 Misty Rainforest (PROXY)
 Marsh Flats (PROXY)
-Kindred Discovery (PROXY)
 Jetmir's Garden (PROXY)
 Heroic Intervention (PROXY)
 Hallowed Fountain (PROXY)
@@ -37,7 +37,6 @@ Vanquisher's Banner
 Unclaimed Territory
 Two-Headed Sliver
 Timeless Lotus
-Three Visits
 Talon Sliver
 Syphon Sliver
 Synapse Sliver
@@ -69,6 +68,7 @@ Might Sliver
 Manaweft Sliver
 Mana Echoes
 Lazotep Sliver
+Kindred Discovery
 Island
 Hibernation Sliver
 Herald's Horn

@@ -1,17 +1,28 @@
+Weathered Wayfarer (PROXY)
 Swan Song (PROXY)
 Sundown Pass (PROXY)
 Spectator Seating (PROXY)
+Serra Ascendant (PROXY)
 Scalding Tarn (PROXY)
 Sacred Foundry (PROXY)
 Rhystic Study (PROXY)
+Recruiter of the Guard (PROXY)
+Ranger-Captain of Eos (PROXY)
 Ragavan, Nimble Pilferer (PROXY)
 Professional Face-Breaker (PROXY)
 Imperial Recruiter (PROXY)
+Forth Eorlingas! (PROXY)
+Flooded Strand (PROXY)
+Esper Sentinel (PROXY)
+Elesh Norn, Grand Cenobite (PROXY)
 Conjurer's Mantle (PROXY)
+Combat Celebrant (PROXY)
+Clever Concealment (PROXY)
 Cavern of Souls (PROXY)
+Aurelia, the Law Above (PROXY)
 Arid Mesa (PROXY)
 Ancient Tomb (PROXY)
-Weathered Wayfarer
+Adeline, Resplendent Cathar (PROXY)
 Wayfarer's Bauble
 Training Center
 Tithe
@@ -28,16 +39,13 @@ Steam Vents
 Sol Ring
 Smothering Tithe
 Shared Animosity
-Serra Ascendant
 Secluded Courtyard
 Sea of Clouds
 Sea Gate Restoration // Sea Gate, Reborn
 Savage Beating
 Rugged Prairie
 Retribution of the Meek
-Recruiter of the Guard
 Raugrin Triome
-Ranger-Captain of Eos
 Prince Imrahil the Fair
 Port Razer
 Plains
@@ -61,17 +69,13 @@ Hallowed Fountain
 Greymond, Avacyn's Stalwart
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout
 Glacial Fortress
-Forth Eorlingas!
-Flooded Strand
 Flawless Maneuver
 Fierce Guardianship
 Fealty to the Realm
 Faramir, Steward of Gondor
 Faramir, Prince of Ithilien
 Faerie Mastermind
-Esper Sentinel
 Éomer, King of Rohan
-Elesh Norn, Grand Cenobite
 Dolmen Gate
 Deserted Beach
 Cyclonic Rift
@@ -79,9 +83,7 @@ Court of Vantress
 Court of Grace
 Coppercoat Vanguard
 Command Tower
-Combat Celebrant
 Clifftop Retreat
-Clever Concealment
 Champions of Minas Tirith
 Cathars' Crusade
 Cascade Bluffs
@@ -90,11 +92,9 @@ Beregond of the Guard
 Battlefield Forge
 Azure Fleet Admiral
 Aurelia, the Warleader
-Aurelia, the Law Above
 Archivist of Gondor
 Arcane Signet
 Angelic Field Marshal
 Akroma's Will
-Adeline, Resplendent Cathar
 Adarkar Wastes
 Aragorn, King of Gondor

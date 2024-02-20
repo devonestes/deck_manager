@@ -3,7 +3,6 @@ Zagoth Triome (PROXY)
 Wooded Foothills (PROXY)
 Windswept Heath (PROXY)
 Watery Grave (PROXY)
-Urza's Incubator (PROXY)
 The World Tree (PROXY)
 The Great Henge (PROXY)
 Terror of the Peaks (PROXY)
@@ -21,10 +20,10 @@ Old Gnawbone (PROXY)
 Misty Rainforest (PROXY)
 Marsh Flats (PROXY)
 Mana Vault (PROXY)
-Lightning Greaves (PROXY)
+Kura, the Boundless Sky (PROXY)
+Kokusho, the Evening Star (PROXY)
 Klauth, Unrivaled Ancient (PROXY)
 Ketria Triome (PROXY)
-Jetmir's Garden (PROXY)
 Indatha Triome (PROXY)
 Heroic Intervention (PROXY)
 Hallowed Fountain (PROXY)
@@ -39,18 +38,17 @@ Cyclonic Rift (PROXY)
 City of Brass (PROXY)
 Cavern of Souls (PROXY)
 Breeding Pool (PROXY)
-Bonehoard Dracosaur (PROXY)
 Bloom Tender (PROXY)
 Bloodstained Mire (PROXY)
 Blood Crypt (PROXY)
 Birds of Paradise (PROXY)
-Beledros Witherbloom (PROXY)
-Balefire Dragon (PROXY)
 Badlands (PROXY)
+Balefire Dragon (PROXY)
 Ancient Tomb (PROXY)
 Ancient Copper Dragon (PROXY)
 Zurgo and Ojutai
 Utvara Hellkite
+Urza's Incubator
 Tiamat
 The Kami War // O-Kagachi Made Manifest
 Temur Ascendancy
@@ -74,11 +72,11 @@ Nature's Lore
 Mountain
 Morophon, the Boundless
 Miirym, Sentinel Wyrm
-Kura, the Boundless Sky
-Kokusho, the Evening Star
+Lightning Greaves
 Kindred Dominance
 Kindred Discovery
 Karrthus, Tyrant of Jund
+Jetmir's Garden
 Island
 Herald's Horn
 Hellkite Tyrant
@@ -94,6 +92,8 @@ Dragon's Hoard
 Dragon Tempest
 Command Tower
 Cavern-Hoard Dragon
+Bonehoard Dracosaur
+Beledros Witherbloom
 Atarka, World Render
 Arcane Signet
 Ancient Silver Dragon

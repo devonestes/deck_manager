@@ -1,6 +1,9 @@
 Worldly Tutor (PROXY)
+Wave Goodbye (PROXY)
 The Ozolith (PROXY)
 Swan Song (PROXY)
+Staff of Compleation (PROXY)
+Sol Ring (PROXY)
 Roaming Throne (PROXY)
 Ripples of Potential (PROXY)
 Rhystic Study (PROXY)
@@ -10,23 +13,29 @@ Otawara, Soaring City (PROXY)
 Novijen, Heart of Progress (PROXY)
 Misty Rainforest (PROXY)
 Lightning Greaves (PROXY)
+Kindred Discovery (PROXY)
+Karn's Bastion (PROXY)
+Inspiring Call (PROXY)
 Hinterland Harbor (PROXY)
 Heroic Intervention (PROXY)
+Herald of Secret Streams (PROXY)
 Guardian Project (PROXY)
 Flooded Grove (PROXY)
 Fierce Guardianship (PROXY)
 Fabled Passage (PROXY)
+Exploration (PROXY)
 Dreamroot Cascade (PROXY)
 Cyclonic Rift (PROXY)
 Court of Garenbrig (PROXY)
+Command Tower (PROXY)
 Coat of Arms (PROXY)
 Cavern of Souls (PROXY)
+Burgeoning (PROXY)
 Breeding Pool (PROXY)
 Boseiju, Who Endures (PROXY)
 Ancient Tomb (PROXY)
 Alchemist's Refuge (PROXY)
 Zegana, Utopian Speaker
-Wave Goodbye
 Vodalian Hexcatcher
 Unclaimed Territory
 Twists and Turns // Mycoid Maze
@@ -39,8 +48,6 @@ Thada Adel, Acquisitor
 Tatyova, Benthic Druid
 Svyelun of Sea and Sky
 Stonybrook Banneret
-Staff of Compleation
-Sol Ring
 Singer of Swift Rivers
 Simic Growth Chamber
 Shamanic Revelation
@@ -62,8 +69,6 @@ Master of the Pearl Trident
 Lórien Revealed
 Lord of Atlantis
 Kumena, Tyrant of Orazca
-Kindred Discovery
-Karn's Bastion
 Island
 Island
 Island
@@ -72,8 +77,6 @@ Island
 Island
 Island
 Island
-Inspiring Call
-Herald of Secret Streams
 Hardened Scales
 Glowcap Lantern
 Forest
@@ -83,14 +86,11 @@ Forest
 Forest
 Force of Negation
 Fallowsage
-Exploration
 Emperor Mihail II
 Deeproot Wayfinder
 Deeproot Waters
 Deeproot Historian
-Command Tower
 Cold-Eyed Selkie
-Burgeoning
 Branching Evolution
 Bident of Thassa
 Beast Within

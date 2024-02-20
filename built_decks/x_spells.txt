@@ -1,13 +1,17 @@
+Yavimaya Hollow (PROXY)
 Wooded Foothills (PROXY)
 Vorinclex, Monstrous Raider (PROXY)
 Up the Beanstalk (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Training Center (PROXY)
+The Ozolith (PROXY)
 Temur Ascendancy (PROXY)
 Stormcarved Coast (PROXY)
 Stomping Ground (PROXY)
 Steam Vents (PROXY)
 Spire Garden (PROXY)
+Song of Totentanz (PROXY)
+Sol Ring (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
 Selvala, Heart of the Wilds (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
@@ -19,7 +23,10 @@ Otawara, Soaring City (PROXY)
 Misty Rainforest (PROXY)
 Lightning Greaves (PROXY)
 Ketria Triome (PROXY)
+Incubation Druid (PROXY)
+Hinterland Harbor (PROXY)
 Heroic Intervention (PROXY)
+Gyre Sage (PROXY)
 Flooded Grove (PROXY)
 Finale of Devastation (PROXY)
 Fierce Guardianship (PROXY)
@@ -28,27 +35,25 @@ Dreamroot Cascade (PROXY)
 Delighted Halfling (PROXY)
 Deflecting Swat (PROXY)
 Cyclonic Rift (PROXY)
+Command Tower (PROXY)
 Cascade Bluffs (PROXY)
 Breeding Pool (PROXY)
 Boseiju, Who Endures (PROXY)
+Awaken the Woods (PROXY)
 Ancient Tomb (PROXY)
 Zoanthrope
-Yavimaya Hollow
 Winged Hive Tyrant
 Unbound Flourishing
 Tyvar's Stand
 Tyrant Guard
 Twinning Staff
 Thousand-Year Elixir
-The Ozolith
 The Goose Mother
 Tervigon
 Termagant Swarm
 Sulfur Falls
 Stonecoil Serpent
 Steelbane Hydra
-Song of Totentanz
-Sol Ring
 Simic Growth Chamber
 Runadi, Behemoth Caller
 Ripples of Potential
@@ -70,12 +75,9 @@ Island
 Invasion of Ikoria // Zilortha, Apex of Ikoria
 Instill Energy
 Inspiring Call
-Incubation Druid
 Hydroid Krasis
 Hormagaunt Horde
-Hinterland Harbor
 Hardened Scales
-Gyre Sage
 Frontier Bivouac
 Fractal Harness
 Forest
@@ -85,14 +87,12 @@ Elementalist's Palette
 Doppelgang
 Crackle with Power
 Court of Garenbrig
-Command Tower
 Clamavus
 Broodlord
 Bred for the Hunt
 Branching Evolution
 Blue Sun's Twilight
 Benevolent Hydra
-Awaken the Woods
 Arcane Signet
 Animist's Awakening
 All Will Be One

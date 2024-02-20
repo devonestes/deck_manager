@@ -1,8 +1,6 @@
 Ziatora's Proving Ground (PROXY)
 Zagoth Triome (PROXY)
 Wooded Foothills (PROXY)
-Wooded Bastion (PROXY)
-Windswept Heath (PROXY)
 Watery Grave (PROXY)
 Verdant Catacombs (PROXY)
 Vampiric Tutor (PROXY)
@@ -18,24 +16,25 @@ Savai Triome (PROXY)
 Rockfall Vale (PROXY)
 Rhystic Study (PROXY)
 Overgrown Tomb (PROXY)
-Overgrown Farmland (PROXY)
 Oracle of Mul Daya (PROXY)
 Misty Rainforest (PROXY)
-Mirari's Wake (PROXY)
 Ketria Triome (PROXY)
 Heroic Intervention (PROXY)
+Forbidden Orchard (PROXY)
 Fierce Guardianship (PROXY)
 Enlightened Tutor (PROXY)
+Dryad of the Ilysian Grove (PROXY)
 Demonic Tutor (PROXY)
 Deflecting Swat (PROXY)
 Cyclonic Rift (PROXY)
-Crop Rotation (PROXY)
 City of Brass (PROXY)
-Case of the Stashed Skeleton (PROXY)
 Breeding Pool (PROXY)
 Bountiful Promenade (PROXY)
+Bloom Tender (PROXY)
 Birds of Paradise (PROXY)
 Zur the Enchanter
+Wooded Bastion
+Windswept Heath
 Verduran Enchantress
 The World Tree
 Temple Garden
@@ -58,10 +57,12 @@ Replenish
 Reliquary Tower
 Plains
 Peacekeeper
+Overgrown Farmland
 Nessian Wanderer
 Mountain
 Moon-Blessed Cleric
 Moat
+Mirari's Wake
 Jukai Naturalist
 Jetmir's Garden
 Island
@@ -83,18 +84,17 @@ Go-Shintai of Ancient Wars
 Ghoulish Impetus
 Ghostly Prison
 Forest
-Forbidden Orchard
 Extinguish All Hope
 Exotic Orchard
 Enchantress's Presence
 Eidolon of Blossoms
-Dryad of the Ilysian Grove
 Destiny Spinner
 Cultivate
+Crop Rotation
 Command Tower
+Case of the Stashed Skeleton
 Cacophony Unleashed
 Brushland
-Bloom Tender
 Atraxa, Grand Unifier
 Argothian Enchantress
 Go-Shintai of Life's Origin

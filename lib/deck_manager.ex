@@ -1,27 +1,27 @@
 defmodule DeckManager do
   @decks [
+    {"jetmir","4T4sW6V7JUSmN7OpnQ_hrQ", "a89a5213-f8c6-4d19-a5d1-bed98927932a"},
     {"vampires", "jOUImhiaykKSYanHfKmkLA", "28309948-82fd-41f6-ab59-c18e3689e77d"},
-    {"slug", "3F4O9kcJ1Ea6YK0wPlUSSw", "eb09e94c-031d-411f-8301-0592285445cf"},
     {"morphs", "RX85WnSoI0KVaeQhOJ8wQA", "cbc7f5e6-9ec9-4a65-9308-4a529df379be"},
-    {"korvold", "z3o8vEq1lEm0sk7cGP9_9g", "74060e7a-59a6-4e84-877f-9ff761c4237b"},
+    {"henzie","l4YgSzpNmkG-UpBAuusAhg",  "1d47b6aa-b250-48e0-abd6-29b83286d34d"},
+    {"slug", "3F4O9kcJ1Ea6YK0wPlUSSw", "eb09e94c-031d-411f-8301-0592285445cf"},
     {"monarch", "aHQmX2i_i0-hUQpdq0ta5w", "d5af5f3f-60ef-442e-a378-ac21792a1471"},
-    {"dinos", "3Ekcem0mLk6xskQ8U5FJBg", "b80cc791-fcd2-4abc-af12-e7d8b18240f0"},
+    {"aesi", "x3NtuV2jeEKPVA8YJVwkjA", "10f01741-98b9-4741-a9ad-7d31419ec516"},
     {"wanderer", "IoR8Jb5aB0ulmNOtWs5RZg", "e59cf956-680f-436a-b200-068f5962eaf1"},
     {"mishra", "ynyDvRw8G0Kmrajlp_UegA", "a735961f-9d0e-4fa7-8ca8-7035e88b06d6"},
+    {"aristocats", "TYqGCS46qEaJMRKsasgcCQ", "be34ece7-5d32-44c3-b0e4-fa452b151cbc"},
     {"shrines", "YontiLZZZEmugFVEqOhXKA", "828cf477-a6f5-450d-b14b-7b74f1dde4cb"},
     {"ur_dragon", "KSVzZ4Os-UKKFXud4-5Vnw", "acc8bcd4-3eea-4ada-9a4e-a70b43623366"},
-    {"x_spells", "i1LRiXwbGEy1FC6weByOdQ", "f9c228f7-a0fa-4043-ab01-6505e1218c64"},
-    {"merfolk", "ekHtx3vytky4yfEHOIpi2A", "0e516b67-5914-40fe-8bc3-31aaf4d63b73"},
-    {"aesi", "x3NtuV2jeEKPVA8YJVwkjA", "10f01741-98b9-4741-a9ad-7d31419ec516"},
+    {"dinos", "3Ekcem0mLk6xskQ8U5FJBg", "b80cc791-fcd2-4abc-af12-e7d8b18240f0"},
     {"eldrazi", "sB9e88BQ5UqFwb6tBUS2_w", "ae56d72e-baeb-4dee-9719-befc8c4d2256"},
     {"slivers", "G69IYzuFrkKvwQMumlgJog", "0c02b3ee-7672-4446-8178-b1fe4005a0ae"},
     {"meria", "Bu_ZwfjumUuFD1KuH2_FqQ", "40faed00-3b8a-4fbc-a711-aa8f753f1ab0"},
-    {"henzie","l4YgSzpNmkG-UpBAuusAhg",  "1d47b6aa-b250-48e0-abd6-29b83286d34d"},
-    {"jetmir","4T4sW6V7JUSmN7OpnQ_hrQ", "a89a5213-f8c6-4d19-a5d1-bed98927932a"},
-    {"aristocats", "TYqGCS46qEaJMRKsasgcCQ", "be34ece7-5d32-44c3-b0e4-fa452b151cbc"},
     {"bant_tokens", "1CtjbDS54kOSqeGlg2t22Q", "ff27a0e1-a95e-4d84-951e-a491ab20f1e4"},
-    {"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
-    {"mw_control", "j8XE7zIQ70O5vRXmD5Ua3g", "bcad72f6-57ea-474d-aef7-a19a9f74931f"},
+    {"korvold", "z3o8vEq1lEm0sk7cGP9_9g", "74060e7a-59a6-4e84-877f-9ff761c4237b"},
+    {"x_spells", "i1LRiXwbGEy1FC6weByOdQ", "f9c228f7-a0fa-4043-ab01-6505e1218c64"},
+    {"merfolk", "ekHtx3vytky4yfEHOIpi2A", "0e516b67-5914-40fe-8bc3-31aaf4d63b73"},
+    #{"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
+    #{"mw_control", "j8XE7zIQ70O5vRXmD5Ua3g", "bcad72f6-57ea-474d-aef7-a19a9f74931f"},
     #{"mirko", "yYJUeFoCNEaoTg8kBQgt6w", "cfcdd050-f39b-4302-8689-5b244bb2ddfd"},
     #{"doric", "r-Uw7LJz-EC5xeTvSLxcqg", "abd873c1-6927-422e-aef8-269d4d6e92d4"},
     #{"chatterfang", "qEQ49yCVEUqgPw9CG6w3cw", "e6c047ef-21c6-45d6-91a9-a7217d324de0"},
@@ -106,7 +106,8 @@ defmodule DeckManager do
   end
 
   defp update_deck(deck) do
-    decks = Enum.reverse(@decks) -- [deck]
+    deck_names = Enum.map(@decks, fn {name, _, _} -> name end)
+    decks = Enum.reverse(deck_names) -- [deck]
     path = "built_decks/#{deck}.txt"
 
     {:ok, built_deck} = File.read(path)
@@ -126,8 +127,10 @@ defmodule DeckManager do
               other
               |> Enum.reject(fn line -> String.ends_with?(line, "(PROXY)") end)
               |> Enum.map(fn line ->
-                [card, _] = String.split(line, " (")
-                card
+                case String.split(line, " (") do
+                  [card, _] -> card
+                  [card] -> card
+                end
               end)
 
             if Enum.member?(non_proxies, card) do
@@ -174,7 +177,12 @@ defmodule DeckManager do
       |> String.trim()
       |> String.split("\n")
       |> Enum.map(fn line ->
-        [card, _] = String.split(line, " (")
+        card =
+          case String.split(line, " (") do
+            [card, _] -> card
+            [card] -> card
+          end
+
         if Enum.member?(cards, card) do
           {line, true, card <> " (PROXY)"}
         else

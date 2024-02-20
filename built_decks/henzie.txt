@@ -1,58 +1,41 @@
-Ziatora's Proving Ground (PROXY)
-Wurmcoil Engine (PROXY)
 Wooded Foothills (PROXY)
 Wheel of Fortune (PROXY)
 Verdant Catacombs (PROXY)
 Vampiric Tutor (PROXY)
 Urza's Saga (PROXY)
 Urborg, Tomb of Yawgmoth (PROXY)
-Up the Beanstalk (PROXY)
 Undergrowth Stadium (PROXY)
 Twilight Mire (PROXY)
-The Skullspore Nexus (PROXY)
-The Great Henge (PROXY)
 Takenuma, Abandoned Mire (PROXY)
 Stomping Ground (PROXY)
-Spire Garden (PROXY)
-Solemn Simulacrum (PROXY)
-Sol Ring (PROXY)
 Skullclamp (PROXY)
 Overgrown Tomb (PROXY)
-Old Gnawbone (PROXY)
 Luxury Suite (PROXY)
-Kura, the Boundless Sky (PROXY)
-Kokusho, the Evening Star (PROXY)
-Kogla, the Titan Ape (PROXY)
-Kogla and Yidaro (PROXY)
-Kodama's Reach (PROXY)
-Ignoble Hierarch (PROXY)
-Fire-Lit Thicket (PROXY)
-Farseek (PROXY)
-Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
-Doors of Durin (PROXY)
 Dockside Extortionist (PROXY)
 Demonic Tutor (PROXY)
 Delighted Halfling (PROXY)
-Deadly Rollick (PROXY)
 Boseiju, Who Endures (PROXY)
-Blossoming Tortoise (PROXY)
 Bloodstained Mire (PROXY)
 Blood Crypt (PROXY)
-Blasphemous Act (PROXY)
 Assassin's Trophy (PROXY)
-Artisan of Kozilek (PROXY)
 Ancient Tomb (PROXY)
-Ancient Copper Dragon (PROXY)
-Ancient Brass Dragon (PROXY)
+Ziatora's Proving Ground
+Wurmcoil Engine
 Vivien on the Hunt
 Virtue of Persistence // Locthwain Scorn
 Village Rites
 Victimize
+Up the Beanstalk
 Toxic Deluge
+The Skullspore Nexus
+The Great Henge
 Swamp
 Swamp
 Swamp
 Sundial of the Infinite
+Spire Garden
+Solemn Simulacrum
+Sol Ring
 Shadow in the Warp
 Sakura-Tribe Elder
 Riveteers Ascendancy
@@ -60,6 +43,7 @@ Rise of the Dark Realms
 Reanimate
 Primeval Herald
 Phyrexian Reclamation
+Old Gnawbone
 Ojer Kaslem, Deepest Growth // Temple of Cultivation
 Noxious Gearhulk
 Necromancy
@@ -67,10 +51,16 @@ Mountain
 Mountain
 Mountain
 Living Death
+Kura, the Boundless Sky
+Kokusho, the Evening Star
+Kogla, the Titan Ape
+Kogla and Yidaro
+Kodama's Reach
 Kethek, Crucible Goliath
 Kessig Wolf Run
 Junji, the Midnight Sky
 Industrial Advancement
+Ignoble Hierarch
 Gruff Triplets
 Grist, the Hunger Tide
 Graven Cairns
@@ -82,19 +72,29 @@ Forest
 Forest
 Forest
 Forest
+Fire-Lit Thicket
+Farseek
 Exotic Orchard
 Etali, Primal Storm
+Etali, Primal Conqueror // Etali, Primal Sickness
 Entomb
 Dragonskull Summit
+Doors of Durin
+Deadly Rollick
 Cultivate
 Command Tower
 Cinder Glade
 Chaos Warp
 Buried Alive
 Bringer of the Last Gift
+Blossoming Tortoise
+Blasphemous Act
 Atsushi, the Blazing Sky
+Artisan of Kozilek
 Archpriest of Shadows
 Archon of Cruelty
 Arcane Signet
 Animate Dead
+Ancient Copper Dragon
+Ancient Brass Dragon
 Henzie "Toolbox" Torre

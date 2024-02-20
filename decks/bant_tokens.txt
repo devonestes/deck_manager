@@ -23,7 +23,6 @@
 1 Deserted Beach (MID) 281
 1 Doubling Season (2XM) 350
 1 Dreamroot Cascade (VOW) 282
-1 Dryad Arbor (FUT) 174
 1 Earthcraft (TMP) 222
 1 Edric, Spymaster of Trest (CNS) 187
 1 Elven Chorus (LTR) 160
@@ -90,4 +89,5 @@
 1 Windswept Heath (KTK) 248
 1 Windswift Slice (LTC) 45
 1 Wolverine Riders (KHC) 14
+1 Yavimaya Hollow (UDS) 143
 1 Zameck Guildmage (GTC) 209

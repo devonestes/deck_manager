@@ -1,19 +1,27 @@
 Wurmcoil Engine (PROXY)
 Wooded Foothills (PROXY)
+Vorinclex, Monstrous Raider (PROXY)
+Vorinclex // The Grand Evolution (PROXY)
 Urza's Saga (PROXY)
+Uro, Titan of Nature's Wrath (PROXY)
+Up the Beanstalk (PROXY)
 Training Center (PROXY)
+Sylvan Library (PROXY)
 Stormcarved Coast (PROXY)
 Stomping Ground (PROXY)
 Steam Vents (PROXY)
 Spire Garden (PROXY)
+Skyshroud Claim (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Scalding Tarn (PROXY)
-Rockfall Vale (PROXY)
 Rejuvenating Springs (PROXY)
 Prismatic Vista (PROXY)
 Otawara, Soaring City (PROXY)
+Oracle of Mul Daya (PROXY)
 Old Gnawbone (PROXY)
+Nyxbloom Ancient (PROXY)
 Misty Rainforest (PROXY)
+Kogla, the Titan Ape (PROXY)
 Goldspan Dragon (PROXY)
 Flooded Grove (PROXY)
 Fire-Lit Thicket (PROXY)
@@ -23,21 +31,17 @@ Entish Restoration (PROXY)
 Dreamroot Cascade (PROXY)
 Dockside Extortionist (PROXY)
 Delighted Halfling (PROXY)
+Breeding Pool (PROXY)
 Boseiju, Who Endures (PROXY)
 Ancient Tomb (PROXY)
 Ancient Copper Dragon (PROXY)
 Yavimaya Coast
-Vorinclex, Monstrous Raider
-Vorinclex // The Grand Evolution
 Vastwood Surge
-Uro, Titan of Nature's Wrath
-Up the Beanstalk
 Turntimber Symbiosis // Turntimber, Serpentine Wood
 Time Spiral
 Three Visits
 Terror of the Peaks
 Temur Sabertooth
-Sylvan Library
 Sunbird's Invocation
 Sun Quan, Lord of Wu
 Sulfur Falls
@@ -47,28 +51,25 @@ Snow-Covered Island
 Snow-Covered Forest
 Snow-Covered Forest
 Snow-Covered Forest
-Skyshroud Claim
 Selvala's Stampede
 Selvala, Heart of the Wilds
 Scroll Rack
 Scourge of the Throne
 Sarkhan's Unsealing
 Sakura-Tribe Elder
+Rockfall Vale
 Riverglide Pathway // Lavaglide Pathway
 Rishkar's Expertise
 Ranger's Path
 Rampant Growth
 Pathbreaker Ibex
 Orcish Lumberjack
-Oracle of Mul Daya
-Nyxbloom Ancient
 Nissa, Ascended Animist
 Mountain
 Mountain
 Misthollow Griffin
 Migration Path
 Koma, Cosmos Serpent
-Kogla, the Titan Ape
 Kogla and Yidaro
 Kodama's Reach
 Klauth, Unrivaled Ancient
@@ -93,7 +94,6 @@ Consecrated Sphinx
 Command Tower
 Colossal Skyturtle
 Cascade Bluffs
-Breeding Pool
 Beanstalk Giant // Fertile Footsteps
 Balefire Dragon
 Arcane Signet

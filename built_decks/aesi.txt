@@ -1,48 +1,34 @@
-Yavimaya Hollow (PROXY)
 Wooded Foothills (PROXY)
 Winding Canyons (PROXY)
-Wayward Swordtooth (PROXY)
-Vorinclex, Monstrous Raider (PROXY)
-Vorinclex // The Grand Evolution (PROXY)
 Urza's Saga (PROXY)
-Uro, Titan of Nature's Wrath (PROXY)
-Tireless Provisioner (PROXY)
 Swan Song (PROXY)
-Skyshroud Claim (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Rhystic Study (PROXY)
 Rejuvenating Springs (PROXY)
-Prismatic Vista (PROXY)
 Otawara, Soaring City (PROXY)
-Oracle of Mul Daya (PROXY)
 On the Trail (PROXY)
-Nyxbloom Ancient (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Misty Rainforest (PROXY)
-Last March of the Ents (PROXY)
-Hinterland Harbor (PROXY)
 Heroic Intervention (PROXY)
 Flooded Grove (PROXY)
 Finale of Devastation (PROXY)
 Fierce Guardianship (PROXY)
-Field of the Dead (PROXY)
-Fabled Passage (PROXY)
-Exploration (PROXY)
-Entish Restoration (PROXY)
 Elven Chorus (PROXY)
-Dryad of the Ilysian Grove (PROXY)
 Delighted Halfling (PROXY)
 Cyclonic Rift (PROXY)
-Crucible of Worlds (PROXY)
 Craterhoof Behemoth (PROXY)
-Burgeoning (PROXY)
-Breeding Pool (PROXY)
-Awaken the Woods (PROXY)
+Blossoming Tortoise (PROXY)
 Ancient Tomb (PROXY)
+Yavimaya Hollow
+Wayward Swordtooth
 Waterlogged Grove
 Vorinclex, Voice of Hunger
+Vorinclex, Monstrous Raider
+Vorinclex // The Grand Evolution
+Uro, Titan of Nature's Wrath
 Undiscovered Paradise
 Titania, Protector of Argoth
+Tireless Provisioner
 Thespian's Stage
 Thawing Glaciers
 Temple of Mystery
@@ -53,28 +39,33 @@ Sol Ring
 Snow-Covered Island
 Snow-Covered Forest
 Skyshroud Ranger
+Skyshroud Claim
 Simic Growth Chamber
 Scapeshift
 Roil Elemental
 Retreat to Coralhelm
 Reliquary Tower
 Rampaging Baloths
+Prismatic Vista
 Palinchron
 Overburden
+Oracle of Mul Daya
 Oboro, Palace in the Clouds
+Nyxbloom Ancient
 Nissa, Steward of Elements
 Nissa, Resurgent Animist
 Mystic Sanctuary
 Mana Breach
 Lotus Vale
 Llanowar Scout
+Last March of the Ents
 Koma, Cosmos Serpent
-Kodama's Reach
 Jungle Basin
 Island
 Island
 Island
 Hydroid Krasis
+Hinterland Harbor
 Halimar Depths
 Growth Spiral
 Greensleeves, Maro-Sorcerer
@@ -83,13 +74,22 @@ Forest
 Forest
 Forest
 Forest
+Field of the Dead
+Fabled Passage
+Exploration
+Entish Restoration
+Dryad of the Ilysian Grove
 Doppelgang
 Cultivator Colossus
+Cultivate
+Crucible of Worlds
 Coral Atoll
 Conduit of Worlds
 Command Tower
-Blossoming Tortoise
+Burgeoning
+Breeding Pool
 Azusa, Lost but Seeking
+Awaken the Woods
 Avenger of Zendikar
 Augur of Autumn
 Ashaya, Soul of the Wild

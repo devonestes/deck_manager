@@ -1,6 +1,7 @@
 Wondrous Crucible (PROXY)
 Urza's Saga (PROXY)
 Urza's Incubator (PROXY)
+Solemn Simulacrum (PROXY)
 Roaming Throne (PROXY)
 Portal to Phyrexia (PROXY)
 Mystic Forge (PROXY)
@@ -11,6 +12,7 @@ Liberator, Urza's Battlethopter (PROXY)
 Commander's Plate (PROXY)
 Cavern of Souls (PROXY)
 Blightsteel Colossus (PROXY)
+Artisan of Kozilek (PROXY)
 Ancient Tomb (PROXY)
 All Is Dust (PROXY)
 Zhalfirin Void
@@ -44,7 +46,6 @@ The Irencrag
 Temple of the False God
 Swiftfoot Boots
 Spawnsire of Ulamog
-Solemn Simulacrum
 Sol Ring
 Shrine of the Forsaken Gods
 Sea Gate Wreckage
@@ -94,7 +95,6 @@ Bottled Cloister
 Bonders' Enclave
 Basalt Monolith
 Bane of Bala Ged
-Artisan of Kozilek
 Arch of Orazca
 Akroma's Memorial
 Zhulodok, Void Gorger

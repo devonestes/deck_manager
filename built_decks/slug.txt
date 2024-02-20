@@ -1,10 +1,15 @@
+Wurmcoil Engine (PROXY)
 Wheel of Fortune (PROXY)
 Urza's Saga (PROXY)
+Tarnished Citadel (PROXY)
+Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
+Ragavan, Nimble Pilferer (PROXY)
 Mana Vault (PROXY)
 Mana Crypt (PROXY)
+Dockside Extortionist (PROXY)
+City of Brass (PROXY)
 Ancient Tomb (PROXY)
 Zo-Zu the Punisher
-Wurmcoil Engine
 Wrenn's Resolve
 Wheel of Misfortune
 War Room
@@ -12,14 +17,12 @@ Virtue of Courage // Embereth Blaze
 Valakut Awakening // Valakut Stoneforge
 Torbran, Thane of Red Fell
 Themberchaud
-Tarnished Citadel
 Sulfuric Vortex
 Spellshock
 Spear Spewer
 Solphim, Mayhem Dominus
 Sol Ring
 Smoke
-Slicer, Hired Muscle // Slicer, High-Speed Antagonist
 Sin Prodder
 Shatterskull Smashing // Shatterskull, the Hammer Pass
 Shadowspear
@@ -28,7 +31,6 @@ Ruby Medallion
 Rogue's Passage
 Resurrection Orb
 Reckless Impulse
-Ragavan, Nimble Pilferer
 Pyrostatic Pillar
 Platinum Emperion
 Orcish Cannoneers
@@ -83,11 +85,9 @@ Fiery Emancipation
 Fiendish Duo
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 Earthquake
-Dockside Extortionist
 Deflecting Swat
 Defiler of Instinct
 Commander's Plate
-City of Brass
 Chaos Warp
 Chandra's Ignition
 Brash Taunter
