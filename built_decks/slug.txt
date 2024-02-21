@@ -1,100 +1,100 @@
-Wurmcoil Engine (PROXY)
-Wheel of Fortune (PROXY)
-Urza's Saga (PROXY)
-Tarnished Citadel (PROXY)
-Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
-Ragavan, Nimble Pilferer (PROXY)
-Mana Vault (PROXY)
-Mana Crypt (PROXY)
-Dockside Extortionist (PROXY)
-City of Brass (PROXY)
 Ancient Tomb (PROXY)
-Zo-Zu the Punisher
-Wrenn's Resolve
-Wheel of Misfortune
-War Room
-Virtue of Courage // Embereth Blaze
-Valakut Awakening // Valakut Stoneforge
-Torbran, Thane of Red Fell
-Themberchaud
-Sulfuric Vortex
-Spellshock
-Spear Spewer
-Solphim, Mayhem Dominus
-Sol Ring
-Smoke
-Sin Prodder
-Shatterskull Smashing // Shatterskull, the Hammer Pass
-Shadowspear
-Seething Song
-Ruby Medallion
-Rogue's Passage
-Resurrection Orb
-Reckless Impulse
-Pyrostatic Pillar
-Platinum Emperion
-Orcish Cannoneers
-Orcish Artillery
-Oliphaunt
-Ojer Axonil, Deepest Might // Temple of Power
-Nykthos, Shrine to Nyx
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mithril Coat
-Meekstone
-Mechanized Warfare
-March of Reckless Joy
-Manabarbs
-Loxodon Warhammer
-Lightning Greaves
-Lightning Bolt
-Light Up the Stage
-Kediss, Emberclaw Familiar
-Jeska's Will
-Invasion of Kaldheim // Pyre of the World Tree
-Imperial Recruiter
-Goldspan Dragon
-Goblin Artillery
-Gauntlet of Might
-Flame Rift
-Fireslinger
-Fires of Mount Doom
-Fiery Emancipation
-Fiendish Duo
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-Earthquake
-Deflecting Swat
-Defiler of Instinct
-Commander's Plate
-Chaos Warp
-Chandra's Ignition
-Brash Taunter
-Blasphemous Act
-Basilisk Collar
-Barbarian Ring
-Arcane Signet
-Ankh of Mishra
-Acidic Soil
+City of Brass (PROXY)
+Dockside Extortionist (PROXY)
+Mana Crypt (PROXY)
+Mana Vault (PROXY)
+Ragavan, Nimble Pilferer (PROXY)
+Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
+Tarnished Citadel (PROXY)
+Urza's Saga (PROXY)
+Wheel of Fortune (PROXY)
+Wurmcoil Engine (PROXY)
 Auntie Blyte, Bad Influence
+Acidic Soil
+Ankh of Mishra
+Arcane Signet
+Barbarian Ring
+Basilisk Collar
+Blasphemous Act
+Brash Taunter
+Chandra's Ignition
+Chaos Warp
+Commander's Plate
+Defiler of Instinct
+Deflecting Swat
+Earthquake
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+Fiendish Duo
+Fiery Emancipation
+Fires of Mount Doom
+Fireslinger
+Flame Rift
+Gauntlet of Might
+Goblin Artillery
+Goldspan Dragon
+Imperial Recruiter
+Invasion of Kaldheim // Pyre of the World Tree
+Jeska's Will
+Kediss, Emberclaw Familiar
+Light Up the Stage
+Lightning Bolt
+Lightning Greaves
+Loxodon Warhammer
+Manabarbs
+March of Reckless Joy
+Mechanized Warfare
+Meekstone
+Mithril Coat
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Nykthos, Shrine to Nyx
+Ojer Axonil, Deepest Might // Temple of Power
+Oliphaunt
+Orcish Artillery
+Orcish Cannoneers
+Platinum Emperion
+Pyrostatic Pillar
+Reckless Impulse
+Resurrection Orb
+Rogue's Passage
+Ruby Medallion
+Seething Song
+Shadowspear
+Shatterskull Smashing // Shatterskull, the Hammer Pass
+Sin Prodder
+Smoke
+Sol Ring
+Solphim, Mayhem Dominus
+Spear Spewer
+Spellshock
+Sulfuric Vortex
+Themberchaud
+Torbran, Thane of Red Fell
+Valakut Awakening // Valakut Stoneforge
+Virtue of Courage // Embereth Blaze
+War Room
+Wheel of Misfortune
+Wrenn's Resolve
+Zo-Zu the Punisher

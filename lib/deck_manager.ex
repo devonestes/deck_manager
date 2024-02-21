@@ -306,6 +306,8 @@ defmodule DeckManager do
 
   defp write_deck(deck, path) do
     {proxies, real} = Enum.split_with(deck, fn card -> card["Proxy"] end)
+    proxies = Enum.reverse(proxies)
+    real = Enum.reverse(real)
     deck = real ++ proxies
 
     formatted =

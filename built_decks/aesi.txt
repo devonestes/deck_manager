@@ -1,100 +1,100 @@
-Wooded Foothills (PROXY)
-Winding Canyons (PROXY)
-Urza's Saga (PROXY)
-Swan Song (PROXY)
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Rhystic Study (PROXY)
-Rejuvenating Springs (PROXY)
-Otawara, Soaring City (PROXY)
-On the Trail (PROXY)
-Nykthos, Shrine to Nyx (PROXY)
-Misty Rainforest (PROXY)
-Heroic Intervention (PROXY)
-Flooded Grove (PROXY)
-Finale of Devastation (PROXY)
-Fierce Guardianship (PROXY)
-Elven Chorus (PROXY)
-Delighted Halfling (PROXY)
-Cyclonic Rift (PROXY)
-Craterhoof Behemoth (PROXY)
-Blossoming Tortoise (PROXY)
 Ancient Tomb (PROXY)
-Yavimaya Hollow
-Wayward Swordtooth
-Waterlogged Grove
-Vorinclex, Voice of Hunger
-Vorinclex, Monstrous Raider
-Vorinclex // The Grand Evolution
-Uro, Titan of Nature's Wrath
-Undiscovered Paradise
-Titania, Protector of Argoth
-Tireless Provisioner
-Thespian's Stage
-Thawing Glaciers
-Temple of Mystery
-Tatyova, Steward of Tides
-Tatyova, Benthic Druid
-Storm Cauldron
-Sol Ring
-Snow-Covered Island
-Snow-Covered Forest
-Skyshroud Ranger
-Skyshroud Claim
-Simic Growth Chamber
-Scapeshift
-Roil Elemental
-Retreat to Coralhelm
-Reliquary Tower
-Rampaging Baloths
-Prismatic Vista
-Palinchron
-Overburden
-Oracle of Mul Daya
-Oboro, Palace in the Clouds
-Nyxbloom Ancient
-Nissa, Steward of Elements
-Nissa, Resurgent Animist
-Mystic Sanctuary
-Mana Breach
-Lotus Vale
-Llanowar Scout
-Last March of the Ents
-Koma, Cosmos Serpent
-Jungle Basin
-Island
-Island
-Island
-Hydroid Krasis
-Hinterland Harbor
-Halimar Depths
-Growth Spiral
-Greensleeves, Maro-Sorcerer
-Green Sun's Twilight
-Forest
-Forest
-Forest
-Forest
-Field of the Dead
-Fabled Passage
-Exploration
-Entish Restoration
-Dryad of the Ilysian Grove
-Doppelgang
-Cultivator Colossus
-Cultivate
-Crucible of Worlds
-Coral Atoll
-Conduit of Worlds
-Command Tower
-Burgeoning
-Breeding Pool
-Azusa, Lost but Seeking
-Awaken the Woods
-Avenger of Zendikar
-Augur of Autumn
-Ashaya, Soul of the Wild
-Arixmethes, Slumbering Isle
-Apex Devastator
-Ancient Greenwarden
-Abundance
+Blossoming Tortoise (PROXY)
+Craterhoof Behemoth (PROXY)
+Cyclonic Rift (PROXY)
+Delighted Halfling (PROXY)
+Elven Chorus (PROXY)
+Fierce Guardianship (PROXY)
+Finale of Devastation (PROXY)
+Flooded Grove (PROXY)
+Heroic Intervention (PROXY)
+Misty Rainforest (PROXY)
+Nykthos, Shrine to Nyx (PROXY)
+On the Trail (PROXY)
+Otawara, Soaring City (PROXY)
+Rejuvenating Springs (PROXY)
+Rhystic Study (PROXY)
+Sea Gate Restoration // Sea Gate, Reborn (PROXY)
+Swan Song (PROXY)
+Urza's Saga (PROXY)
+Winding Canyons (PROXY)
+Wooded Foothills (PROXY)
 Aesi, Tyrant of Gyre Strait
+Abundance
+Ancient Greenwarden
+Apex Devastator
+Arixmethes, Slumbering Isle
+Ashaya, Soul of the Wild
+Augur of Autumn
+Avenger of Zendikar
+Awaken the Woods
+Azusa, Lost but Seeking
+Breeding Pool
+Burgeoning
+Command Tower
+Conduit of Worlds
+Coral Atoll
+Crucible of Worlds
+Cultivate
+Cultivator Colossus
+Doppelgang
+Dryad of the Ilysian Grove
+Entish Restoration
+Exploration
+Fabled Passage
+Field of the Dead
+Forest
+Forest
+Forest
+Forest
+Green Sun's Twilight
+Greensleeves, Maro-Sorcerer
+Growth Spiral
+Halimar Depths
+Hinterland Harbor
+Hydroid Krasis
+Island
+Island
+Island
+Jungle Basin
+Koma, Cosmos Serpent
+Last March of the Ents
+Llanowar Scout
+Lotus Vale
+Mana Breach
+Mystic Sanctuary
+Nissa, Resurgent Animist
+Nissa, Steward of Elements
+Nyxbloom Ancient
+Oboro, Palace in the Clouds
+Oracle of Mul Daya
+Overburden
+Palinchron
+Prismatic Vista
+Rampaging Baloths
+Reliquary Tower
+Retreat to Coralhelm
+Roil Elemental
+Scapeshift
+Simic Growth Chamber
+Skyshroud Claim
+Skyshroud Ranger
+Snow-Covered Forest
+Snow-Covered Island
+Sol Ring
+Storm Cauldron
+Tatyova, Benthic Druid
+Tatyova, Steward of Tides
+Temple of Mystery
+Thawing Glaciers
+Thespian's Stage
+Tireless Provisioner
+Titania, Protector of Argoth
+Undiscovered Paradise
+Uro, Titan of Nature's Wrath
+Vorinclex // The Grand Evolution
+Vorinclex, Monstrous Raider
+Vorinclex, Voice of Hunger
+Waterlogged Grove
+Wayward Swordtooth
+Yavimaya Hollow

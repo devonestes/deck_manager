@@ -1,100 +1,100 @@
-Yavimaya, Cradle of Growth
-Worldly Tutor
-Wooded Foothills
-Windswept Heath
-Wild Growth
-Weathered Wayfarer
-Vryn Wingmare
-Verdant Catacombs
-Varchild's War-Riders
-Utopia Sprawl
-Toski, Bearer of Secrets
-Thalia, Guardian of Thraben
-Tendershoot Dryad
-Temple Garden
-Tarnished Citadel
-Taiga
-Sylvan Safekeeper
-Sylvan Library
-Sunbaked Canyon
-Stomping Ground
-Song of Totentanz
-Sol Ring
-Slicer, Hired Muscle // Slicer, High-Speed Antagonist
-Skyhunter Strike Force
-Skullclamp
-Serra Ascendant
-Scalding Tarn
-Sanguine Evangelist
-Sacred Foundry
-Rhys the Redeemed
-Recruiter of the Guard
-Ranger-Captain of Eos
-Ragavan, Nimble Pilferer
-Professional Face-Breaker
-Plateau
-Plains
-Path to Exile
-Ohran Frostfang
-Natural Order
-Myrel, Shield of Argive
-Mountain
-Mother of Runes
-Misty Rainforest
-Marsh Flats
-Mana Crypt
-Mana Confluence
-Llanowar Elves
-Linvala, Keeper of Silence
-Legolas's Quick Reflexes
-Kutzil, Malamet Exemplar
-Joven's Ferrets
-Hushwing Gryff
-Hushbringer
-Horizon Canopy
-Green Sun's Zenith
-Grand Abolisher
-Giver of Runes
-Gemstone Caverns
-Fyndhorn Elves
-Forth Eorlingas!
-Forest
-Forbidden Orchard
-Flooded Strand
-Finale of Devastation
-Final Fortune
-Exotic Orchard
-Esper Sentinel
-Elvish Mystic
-Elesh Norn, Grand Cenobite
-Eiganjo, Seat of the Empire
-Dryad Arbor
-Drannith Magistrate
-Doorkeeper Thrull
-Dockside Extortionist
-Delighted Halfling
-Deafening Silence
-Craterhoof Behemoth
-Command Tower
-Combat Celebrant
-Collector Ouphe
-Clever Concealment
-City of Brass
-Chord of Calling
-Charismatic Conqueror
-Champion of Lambholt
-Captain Sisay
-Brimaz, King of Oreskos
-Bountiful Promenade
-Boseiju, Who Endures
-Bloom Tender
-Bloodstained Mire
-Birds of Paradise
-Aven Mindcensor
-Avacyn's Pilgrim
-Aurelia, the Law Above
-Arid Mesa
-Arbor Elf
-Anim Pakal, Thousandth Moon
-Adeline, Resplendent Cathar
 Jetmir, Nexus of Revels
+Adeline, Resplendent Cathar
+Anim Pakal, Thousandth Moon
+Arbor Elf
+Arid Mesa
+Aurelia, the Law Above
+Avacyn's Pilgrim
+Aven Mindcensor
+Birds of Paradise
+Bloodstained Mire
+Bloom Tender
+Boseiju, Who Endures
+Bountiful Promenade
+Brimaz, King of Oreskos
+Captain Sisay
+Champion of Lambholt
+Charismatic Conqueror
+Chord of Calling
+City of Brass
+Clever Concealment
+Collector Ouphe
+Combat Celebrant
+Command Tower
+Craterhoof Behemoth
+Deafening Silence
+Delighted Halfling
+Dockside Extortionist
+Doorkeeper Thrull
+Drannith Magistrate
+Dryad Arbor
+Eiganjo, Seat of the Empire
+Elesh Norn, Grand Cenobite
+Elvish Mystic
+Esper Sentinel
+Exotic Orchard
+Final Fortune
+Finale of Devastation
+Flooded Strand
+Forbidden Orchard
+Forest
+Forth Eorlingas!
+Fyndhorn Elves
+Gemstone Caverns
+Giver of Runes
+Grand Abolisher
+Green Sun's Zenith
+Horizon Canopy
+Hushbringer
+Hushwing Gryff
+Joven's Ferrets
+Kutzil, Malamet Exemplar
+Legolas's Quick Reflexes
+Linvala, Keeper of Silence
+Llanowar Elves
+Mana Confluence
+Mana Crypt
+Marsh Flats
+Misty Rainforest
+Mother of Runes
+Mountain
+Myrel, Shield of Argive
+Natural Order
+Ohran Frostfang
+Path to Exile
+Plains
+Plateau
+Professional Face-Breaker
+Ragavan, Nimble Pilferer
+Ranger-Captain of Eos
+Recruiter of the Guard
+Rhys the Redeemed
+Sacred Foundry
+Sanguine Evangelist
+Scalding Tarn
+Serra Ascendant
+Skullclamp
+Skyhunter Strike Force
+Slicer, Hired Muscle // Slicer, High-Speed Antagonist
+Sol Ring
+Song of Totentanz
+Stomping Ground
+Sunbaked Canyon
+Sylvan Library
+Sylvan Safekeeper
+Taiga
+Tarnished Citadel
+Temple Garden
+Tendershoot Dryad
+Thalia, Guardian of Thraben
+Toski, Bearer of Secrets
+Utopia Sprawl
+Varchild's War-Riders
+Verdant Catacombs
+Vryn Wingmare
+Weathered Wayfarer
+Wild Growth
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth

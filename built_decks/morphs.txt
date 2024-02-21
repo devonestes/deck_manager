@@ -1,100 +1,100 @@
-Yavimaya, Cradle of Growth (PROXY)
-Verdant Catacombs (PROXY)
-Vampiric Tutor (PROXY)
-Misty Rainforest (PROXY)
-Demonic Tutor (PROXY)
-Craterhoof Behemoth (PROXY)
 Boseiju, Who Endures (PROXY)
-Zoetic Cavern
-Zagoth Triome
-Yedora, Grave Gardener
-Yavimaya Coast
-Worldly Tutor
-Woodland Cemetery
-Winding Canyons
-Wilderness Reclamation
-Whisperwood Elemental
-Watery Grave
-Voidmage Apprentice
-Vesuvan Shapeshifter
-Vedalken Orrery
-Undergrowth Stadium
-Underground River
-Ugin's Mastery
-Twilight Mire
-Triumph of the Hordes
-Three Visits
-Thousand Winds
-Thieving Amalgam
-Thelonite Hermit
-Temur Sabertooth
-Teferi's Ageless Insight
-Teferi, Mage of Zhalfir
-Swan Song
-Swamp
-Swamp
-Sunken Ruins
-Stratus Dancer
-Sol Ring
-Simic Growth Chamber
-Silumgar Assassin
-Shipwreck Marsh
-Seedborn Muse
-Secret Plans
-Scroll of Fate
-Rhystic Study
-Reliquary Tower
-Rejuvenating Springs
-Printlifter Ooze
-Polluted Delta
-Overgrown Tomb
-Otawara, Soaring City
-Opulent Palace
-On the Trail
-Nervous Gardener
-Nature's Lore
-Nantuko Vigilante
-Morphic Pool
-Mischievous Quanar
-Llanowar Wastes
-Liberator, Urza's Battlethopter
-Leyline of Anticipation
-Kheru Spellsnatcher
-Kadena's Silencer
-Ixidron
-Island
-Island
-Icefeather Aven
-Hooded Hydra
-Hide in Plain Sight
-Heroic Intervention
-Guardian Project
-Grim Haruspex
-Grazilaxx, Illithid Scholar
-Gift of Doom
-Forest
-Forest
-Flourishing Bloom-Kin
-Flooded Grove
-Final-Word Phantom
-Farseek
-Elven Chorus
-Dreamroot Cascade
-Den Protector
-Deathmist Raptor
-Cyclonic Rift
-Crystal Shard
-Cryptic Coat
-Command Tower
-Chromeshell Crab
-Brine Elemental
-Breeding Pool
-Branch of Vitu-Ghazi
-Beast Whisperer
-Assassin's Trophy
-Arcane Signet
-Aphetto Runecaster
-All Is Dust
-Alchemist's Refuge
-Ainok Survivalist
+Craterhoof Behemoth (PROXY)
+Demonic Tutor (PROXY)
+Misty Rainforest (PROXY)
+Vampiric Tutor (PROXY)
+Verdant Catacombs (PROXY)
+Yavimaya, Cradle of Growth (PROXY)
 Kadena, Slinking Sorcerer
+Ainok Survivalist
+Alchemist's Refuge
+All Is Dust
+Aphetto Runecaster
+Arcane Signet
+Assassin's Trophy
+Beast Whisperer
+Branch of Vitu-Ghazi
+Breeding Pool
+Brine Elemental
+Chromeshell Crab
+Command Tower
+Cryptic Coat
+Crystal Shard
+Cyclonic Rift
+Deathmist Raptor
+Den Protector
+Dreamroot Cascade
+Elven Chorus
+Farseek
+Final-Word Phantom
+Flooded Grove
+Flourishing Bloom-Kin
+Forest
+Forest
+Gift of Doom
+Grazilaxx, Illithid Scholar
+Grim Haruspex
+Guardian Project
+Heroic Intervention
+Hide in Plain Sight
+Hooded Hydra
+Icefeather Aven
+Island
+Island
+Ixidron
+Kadena's Silencer
+Kheru Spellsnatcher
+Leyline of Anticipation
+Liberator, Urza's Battlethopter
+Llanowar Wastes
+Mischievous Quanar
+Morphic Pool
+Nantuko Vigilante
+Nature's Lore
+Nervous Gardener
+On the Trail
+Opulent Palace
+Otawara, Soaring City
+Overgrown Tomb
+Polluted Delta
+Printlifter Ooze
+Rejuvenating Springs
+Reliquary Tower
+Rhystic Study
+Scroll of Fate
+Secret Plans
+Seedborn Muse
+Shipwreck Marsh
+Silumgar Assassin
+Simic Growth Chamber
+Sol Ring
+Stratus Dancer
+Sunken Ruins
+Swamp
+Swamp
+Swan Song
+Teferi, Mage of Zhalfir
+Teferi's Ageless Insight
+Temur Sabertooth
+Thelonite Hermit
+Thieving Amalgam
+Thousand Winds
+Three Visits
+Triumph of the Hordes
+Twilight Mire
+Ugin's Mastery
+Underground River
+Undergrowth Stadium
+Vedalken Orrery
+Vesuvan Shapeshifter
+Voidmage Apprentice
+Watery Grave
+Whisperwood Elemental
+Wilderness Reclamation
+Winding Canyons
+Woodland Cemetery
+Worldly Tutor
+Yavimaya Coast
+Yedora, Grave Gardener
+Zagoth Triome
+Zoetic Cavern

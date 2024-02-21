@@ -1,100 +1,100 @@
-Yavimaya Hollow (PROXY)
-Windswept Heath (PROXY)
-Vorinclex, Monstrous Raider (PROXY)
-Urza's Saga (PROXY)
-Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
-Three Visits (PROXY)
-Tendershoot Dryad (PROXY)
-Temple Garden (PROXY)
-Teferi's Protection (PROXY)
-Swan Song (PROXY)
-Spara's Headquarters (PROXY)
-Sol Ring (PROXY)
-Sea of Clouds (PROXY)
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Rhystic Study (PROXY)
-Rejuvenating Springs (PROXY)
-Overgrown Farmland (PROXY)
-Otawara, Soaring City (PROXY)
-Nykthos, Shrine to Nyx (PROXY)
-Natural Order (PROXY)
-Misty Rainforest (PROXY)
-Koma, Cosmos Serpent (PROXY)
-Hinterland Harbor (PROXY)
-Heroic Intervention (PROXY)
-Hallowed Fountain (PROXY)
-Gruff Triplets (PROXY)
-Glacial Fortress (PROXY)
-Flooded Strand (PROXY)
-Fierce Guardianship (PROXY)
-Faerie Mastermind (PROXY)
-Esper Sentinel (PROXY)
-Elven Chorus (PROXY)
-Dreamroot Cascade (PROXY)
-Deserted Beach (PROXY)
-Delighted Halfling (PROXY)
-Cyclonic Rift (PROXY)
-Craterhoof Behemoth (PROXY)
-Charismatic Conqueror (PROXY)
-Cathars' Crusade (PROXY)
-Breeding Pool (PROXY)
-Bountiful Promenade (PROXY)
-Boseiju, Who Endures (PROXY)
-Birds of Paradise (PROXY)
-Avenger of Zendikar (PROXY)
-Ancient Tomb (PROXY)
 Adeline, Resplendent Cathar (PROXY)
-Zameck Guildmage
-Wolverine Riders
-Windswift Slice
-Wave Goodbye
-Tocasia's Welcome
-The Ozolith
-Staff of Compleation
-Sakashima of a Thousand Faces
-Rumor Gatherer
-Plains
-Plains
-Plains
-Overwhelming Stampede
-Ohran Frostfang
-Noble Hierarch
-Nadir Kraken
-Mystic Remora
-Mondrak, Glory Dominus
-Master Biomancer
-Kodama of the West Tree
-Karn's Bastion
-Kami of Whispered Hopes
-Island
-Island
-Island
-Inspiring Call
-Incubation Druid
-Imperious Perfect
-Herd Baloth
-Herald of Secret Streams
-Gyre Sage
-Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
-Glen Elendra Archmage
-Galadhrim Ambush
-Gala Greeters
-Forest
-Forest
-Forest
-Forest
-Felidar Retreat
-Faerie Artisans
-Edric, Spymaster of Trest
-Earthcraft
-Doubling Season
-Cultivator of Blades
-Command Tower
-Bramble Sovereign
-Bennie Bracks, Zoologist
-Beast Whisperer
-Arwen, Weaver of Hope
-Arcane Signet
-Arachnogenesis
-Adrix and Nev, Twincasters
+Ancient Tomb (PROXY)
+Avenger of Zendikar (PROXY)
+Birds of Paradise (PROXY)
+Boseiju, Who Endures (PROXY)
+Bountiful Promenade (PROXY)
+Breeding Pool (PROXY)
+Cathars' Crusade (PROXY)
+Charismatic Conqueror (PROXY)
+Craterhoof Behemoth (PROXY)
+Cyclonic Rift (PROXY)
+Delighted Halfling (PROXY)
+Deserted Beach (PROXY)
+Dreamroot Cascade (PROXY)
+Earthcraft (PROXY)
+Elven Chorus (PROXY)
+Esper Sentinel (PROXY)
+Faerie Mastermind (PROXY)
+Fierce Guardianship (PROXY)
+Flooded Strand (PROXY)
+Glacial Fortress (PROXY)
+Gruff Triplets (PROXY)
+Hallowed Fountain (PROXY)
+Heroic Intervention (PROXY)
+Hinterland Harbor (PROXY)
+Koma, Cosmos Serpent (PROXY)
+Misty Rainforest (PROXY)
+Natural Order (PROXY)
+Nykthos, Shrine to Nyx (PROXY)
+Otawara, Soaring City (PROXY)
+Overgrown Farmland (PROXY)
+Rejuvenating Springs (PROXY)
+Rhystic Study (PROXY)
+Sea Gate Restoration // Sea Gate, Reborn (PROXY)
+Sea of Clouds (PROXY)
+Sol Ring (PROXY)
+Spara's Headquarters (PROXY)
+Swan Song (PROXY)
+Teferi's Protection (PROXY)
+Temple Garden (PROXY)
+Tendershoot Dryad (PROXY)
+Three Visits (PROXY)
+Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
+Urza's Saga (PROXY)
+Vorinclex, Monstrous Raider (PROXY)
+Windswept Heath (PROXY)
+Yavimaya Hollow (PROXY)
 Galadriel, Light of Valinor
+Adrix and Nev, Twincasters
+Arachnogenesis
+Arcane Signet
+Arwen, Weaver of Hope
+Beast Whisperer
+Bennie Bracks, Zoologist
+Bramble Sovereign
+Command Tower
+Cultivator of Blades
+Doubling Season
+Edric, Spymaster of Trest
+Faerie Artisans
+Felidar Retreat
+Forest
+Forest
+Forest
+Forest
+Gala Greeters
+Galadhrim Ambush
+Glen Elendra Archmage
+Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+Gyre Sage
+Herald of Secret Streams
+Herd Baloth
+Imperious Perfect
+Incubation Druid
+Inspiring Call
+Island
+Island
+Island
+Kami of Whispered Hopes
+Karn's Bastion
+Kodama of the West Tree
+Master Biomancer
+Mondrak, Glory Dominus
+Mystic Remora
+Nadir Kraken
+Noble Hierarch
+Ohran Frostfang
+Overwhelming Stampede
+Plains
+Plains
+Plains
+Rumor Gatherer
+Sakashima of a Thousand Faces
+Staff of Compleation
+The Ozolith
+Tocasia's Welcome
+Wave Goodbye
+Windswift Slice
+Wolverine Riders
+Zameck Guildmage

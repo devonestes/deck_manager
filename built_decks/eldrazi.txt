@@ -1,100 +1,100 @@
-Wondrous Crucible (PROXY)
-Urza's Saga (PROXY)
-Urza's Incubator (PROXY)
-Solemn Simulacrum (PROXY)
-Roaming Throne (PROXY)
-Portal to Phyrexia (PROXY)
-Mystic Forge (PROXY)
-Mana Vault (PROXY)
-Mana Crypt (PROXY)
-Lightning Greaves (PROXY)
-Liberator, Urza's Battlethopter (PROXY)
-Commander's Plate (PROXY)
-Cavern of Souls (PROXY)
-Blightsteel Colossus (PROXY)
-Artisan of Kozilek (PROXY)
-Ancient Tomb (PROXY)
 All Is Dust (PROXY)
-Zhalfirin Void
-Worn Powerstone
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Warping Wail
-War Room
-Void Winnower
-Urza's Workshop
-Urza's Tower
-Urza's Power Plant
-Urza's Mine
-Unstable Obelisk
-Ulamog's Crusher
-Ulamog, the Infinite Gyre
-Ulamog, the Ceaseless Hunger
-Ugin's Mastery
-Ugin, the Spirit Dragon
-Ugin, the Ineffable
-Tyrite Sanctum
-Tomb of the Spirit Dragon
-Titan's Presence
-Thran Dynamo
-Thought Vessel
-The Irencrag
-Temple of the False God
-Swiftfoot Boots
-Spawnsire of Ulamog
-Sol Ring
-Shrine of the Forsaken Gods
-Sea Gate Wreckage
-Scorched Ruins
-Sanctum of Ugin
-Rogue's Passage
-Rise of the Eldrazi
-Reliquary Tower
-Reality Smasher
-Progenitor's Icon
-Palladium Myr
-Ornithopter of Paradise
-Oblivion Sower
-Not of This World
-Myriad Landscape
-Mishra's Factory
-Mirrorpool
-Mirage Mirror
-Mind Stone
-Matter Reshaper
-Mage-Ring Network
-Kozilek, the Great Distortion
-Kozilek, Butcher of Truth
-It That Betrays
-Hedron Archive
-Guildless Commons
-Geier Reach Sanitarium
-Forsaken Monument
-Field of Ruin
-Eye of Ugin
-Expedition Map
-Everflowing Chalice
-Endbringer
-Emrakul, the Promised End
-Eldrazi Temple
-Doubling Cube
-Desolation Twin
-Deceiver of Form
-Darksteel Monolith
-Darksteel Citadel
-Crystal Vein
-Calamity of the Titans
-Burnished Hart
-Buried Ruin
-Breaker of Armies
-Bottled Cloister
-Bonders' Enclave
-Basalt Monolith
-Bane of Bala Ged
-Arch of Orazca
-Akroma's Memorial
+Ancient Tomb (PROXY)
+Artisan of Kozilek (PROXY)
+Blightsteel Colossus (PROXY)
+Cavern of Souls (PROXY)
+Commander's Plate (PROXY)
+Liberator, Urza's Battlethopter (PROXY)
+Mana Crypt (PROXY)
+Mana Vault (PROXY)
+Mystic Forge (PROXY)
+Portal to Phyrexia (PROXY)
+Roaming Throne (PROXY)
+Solemn Simulacrum (PROXY)
+Urza's Incubator (PROXY)
+Urza's Saga (PROXY)
+Wondrous Crucible (PROXY)
 Zhulodok, Void Gorger
+Akroma's Memorial
+Arch of Orazca
+Bane of Bala Ged
+Basalt Monolith
+Bonders' Enclave
+Bottled Cloister
+Breaker of Armies
+Buried Ruin
+Burnished Hart
+Calamity of the Titans
+Crystal Vein
+Darksteel Citadel
+Darksteel Monolith
+Deceiver of Form
+Desolation Twin
+Doubling Cube
+Eldrazi Temple
+Emrakul, the Promised End
+Endbringer
+Everflowing Chalice
+Expedition Map
+Eye of Ugin
+Field of Ruin
+Forsaken Monument
+Geier Reach Sanitarium
+Guildless Commons
+Hedron Archive
+It That Betrays
+Kozilek, Butcher of Truth
+Kozilek, the Great Distortion
+Lightning Greaves
+Mage-Ring Network
+Matter Reshaper
+Mind Stone
+Mirage Mirror
+Mirrorpool
+Mishra's Factory
+Myriad Landscape
+Not of This World
+Oblivion Sower
+Ornithopter of Paradise
+Palladium Myr
+Progenitor's Icon
+Reality Smasher
+Reliquary Tower
+Rise of the Eldrazi
+Rogue's Passage
+Sanctum of Ugin
+Scorched Ruins
+Sea Gate Wreckage
+Shrine of the Forsaken Gods
+Sol Ring
+Spawnsire of Ulamog
+Swiftfoot Boots
+Temple of the False God
+The Irencrag
+Thought Vessel
+Thran Dynamo
+Titan's Presence
+Tomb of the Spirit Dragon
+Tyrite Sanctum
+Ugin, the Ineffable
+Ugin, the Spirit Dragon
+Ugin's Mastery
+Ulamog, the Ceaseless Hunger
+Ulamog, the Infinite Gyre
+Ulamog's Crusher
+Unstable Obelisk
+Urza's Mine
+Urza's Power Plant
+Urza's Tower
+Urza's Workshop
+Void Winnower
+War Room
+Warping Wail
+Wastes
+Wastes
+Wastes
+Wastes
+Wastes
+Wastes
+Worn Powerstone
+Zhalfirin Void

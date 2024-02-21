@@ -1,100 +1,100 @@
-Yavimaya Hollow (PROXY)
-Wooded Foothills (PROXY)
-Vorinclex, Monstrous Raider (PROXY)
-Up the Beanstalk (PROXY)
-Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
-Training Center (PROXY)
-The Ozolith (PROXY)
-Temur Ascendancy (PROXY)
-Stormcarved Coast (PROXY)
-Stomping Ground (PROXY)
-Steam Vents (PROXY)
-Spire Garden (PROXY)
-Song of Totentanz (PROXY)
-Sol Ring (PROXY)
-Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
-Selvala, Heart of the Wilds (PROXY)
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Scalding Tarn (PROXY)
-Rockfall Vale (PROXY)
-Rhystic Study (PROXY)
-Rejuvenating Springs (PROXY)
-Otawara, Soaring City (PROXY)
-Misty Rainforest (PROXY)
-Lightning Greaves (PROXY)
-Ketria Triome (PROXY)
-Incubation Druid (PROXY)
-Hinterland Harbor (PROXY)
-Heroic Intervention (PROXY)
-Gyre Sage (PROXY)
-Flooded Grove (PROXY)
-Finale of Devastation (PROXY)
-Fierce Guardianship (PROXY)
-Farseek (PROXY)
-Dreamroot Cascade (PROXY)
-Delighted Halfling (PROXY)
-Deflecting Swat (PROXY)
-Cyclonic Rift (PROXY)
-Command Tower (PROXY)
-Cascade Bluffs (PROXY)
-Breeding Pool (PROXY)
-Boseiju, Who Endures (PROXY)
-Awaken the Woods (PROXY)
 Ancient Tomb (PROXY)
-Zoanthrope
-Winged Hive Tyrant
-Unbound Flourishing
-Tyvar's Stand
-Tyrant Guard
-Twinning Staff
-Thousand-Year Elixir
-The Goose Mother
-Tervigon
-Termagant Swarm
-Sulfur Falls
-Stonecoil Serpent
-Steelbane Hydra
-Simic Growth Chamber
-Runadi, Behemoth Caller
-Ripples of Potential
-Ravener
-Rampant Growth
-Pull from Tomorrow
-Primordial Hydra
-Oran-Rief, the Vastwood
-Novijen, Heart of Progress
-Mountain
-Mountain
-Kiora's Follower
-Kiora, Behemoth Beckoner
-Karn's Bastion
-Kami of Whispered Hopes
-Izzet Boilerworks
-Island
-Island
-Invasion of Ikoria // Zilortha, Apex of Ikoria
-Instill Energy
-Inspiring Call
-Hydroid Krasis
-Hormagaunt Horde
-Hardened Scales
-Frontier Bivouac
-Fractal Harness
-Forest
-Forest
-Exocrine
-Elementalist's Palette
-Doppelgang
-Crackle with Power
-Court of Garenbrig
-Clamavus
-Broodlord
-Bred for the Hunt
-Branching Evolution
-Blue Sun's Twilight
-Benevolent Hydra
-Arcane Signet
-Animist's Awakening
-All Will Be One
-Aberrant
+Awaken the Woods (PROXY)
+Boseiju, Who Endures (PROXY)
+Breeding Pool (PROXY)
+Cascade Bluffs (PROXY)
+Command Tower (PROXY)
+Cyclonic Rift (PROXY)
+Deflecting Swat (PROXY)
+Delighted Halfling (PROXY)
+Dreamroot Cascade (PROXY)
+Farseek (PROXY)
+Fierce Guardianship (PROXY)
+Finale of Devastation (PROXY)
+Flooded Grove (PROXY)
+Gyre Sage (PROXY)
+Heroic Intervention (PROXY)
+Hinterland Harbor (PROXY)
+Incubation Druid (PROXY)
+Ketria Triome (PROXY)
+Lightning Greaves (PROXY)
+Misty Rainforest (PROXY)
+Otawara, Soaring City (PROXY)
+Rejuvenating Springs (PROXY)
+Rhystic Study (PROXY)
+Rockfall Vale (PROXY)
+Scalding Tarn (PROXY)
+Sea Gate Restoration // Sea Gate, Reborn (PROXY)
+Selvala, Heart of the Wilds (PROXY)
+Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
+Sol Ring (PROXY)
+Song of Totentanz (PROXY)
+Spire Garden (PROXY)
+Steam Vents (PROXY)
+Stomping Ground (PROXY)
+Stormcarved Coast (PROXY)
+Temur Ascendancy (PROXY)
+The Ozolith (PROXY)
+Training Center (PROXY)
+Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
+Up the Beanstalk (PROXY)
+Vorinclex, Monstrous Raider (PROXY)
+Wooded Foothills (PROXY)
+Yavimaya Hollow (PROXY)
 Magus Lucea Kane
+Aberrant
+All Will Be One
+Animist's Awakening
+Arcane Signet
+Benevolent Hydra
+Blue Sun's Twilight
+Branching Evolution
+Bred for the Hunt
+Broodlord
+Clamavus
+Court of Garenbrig
+Crackle with Power
+Doppelgang
+Elementalist's Palette
+Exocrine
+Forest
+Forest
+Fractal Harness
+Frontier Bivouac
+Hardened Scales
+Hormagaunt Horde
+Hydroid Krasis
+Inspiring Call
+Instill Energy
+Invasion of Ikoria // Zilortha, Apex of Ikoria
+Island
+Island
+Izzet Boilerworks
+Kami of Whispered Hopes
+Karn's Bastion
+Kiora, Behemoth Beckoner
+Kiora's Follower
+Mountain
+Mountain
+Novijen, Heart of Progress
+Oran-Rief, the Vastwood
+Primordial Hydra
+Pull from Tomorrow
+Rampant Growth
+Ravener
+Ripples of Potential
+Runadi, Behemoth Caller
+Simic Growth Chamber
+Steelbane Hydra
+Stonecoil Serpent
+Sulfur Falls
+Termagant Swarm
+Tervigon
+The Goose Mother
+Thousand-Year Elixir
+Twinning Staff
+Tyrant Guard
+Tyvar's Stand
+Unbound Flourishing
+Winged Hive Tyrant
+Zoanthrope

@@ -1,100 +1,100 @@
-Weathered Wayfarer (PROXY)
-Swan Song (PROXY)
-Sundown Pass (PROXY)
-Spectator Seating (PROXY)
-Serra Ascendant (PROXY)
-Scalding Tarn (PROXY)
-Sacred Foundry (PROXY)
-Rhystic Study (PROXY)
-Recruiter of the Guard (PROXY)
-Ranger-Captain of Eos (PROXY)
-Ragavan, Nimble Pilferer (PROXY)
-Professional Face-Breaker (PROXY)
-Imperial Recruiter (PROXY)
-Forth Eorlingas! (PROXY)
-Flooded Strand (PROXY)
-Esper Sentinel (PROXY)
-Elesh Norn, Grand Cenobite (PROXY)
-Conjurer's Mantle (PROXY)
-Combat Celebrant (PROXY)
-Clever Concealment (PROXY)
-Cavern of Souls (PROXY)
-Aurelia, the Law Above (PROXY)
-Arid Mesa (PROXY)
-Ancient Tomb (PROXY)
 Adeline, Resplendent Cathar (PROXY)
-Wayfarer's Bauble
-Training Center
-Tithe
-Throne of the High City
-Thalia's Lieutenant
-Teferi's Protection
-Taunt from the Rampart
-Talisman of Progress
-Talisman of Creativity
-Talisman of Conviction
-Swords to Plowshares
-Stormcarved Coast
-Steam Vents
-Sol Ring
-Smothering Tithe
-Shared Animosity
-Secluded Courtyard
-Sea of Clouds
-Sea Gate Restoration // Sea Gate, Reborn
-Savage Beating
-Rugged Prairie
-Retribution of the Meek
-Raugrin Triome
-Prince Imrahil the Fair
-Port Razer
-Plains
-Plains
-Plains
-Path of Ancestry
-Palace Jailer
-Otawara, Soaring City
-Odric, Master Tactician
-Odric, Lunarch Marshal
-Mystic Monastery
-Mystic Gate
-Mountain
-Minamo, School at Water's Edge
-Mass Appeal
-Loran of the Third Path
-Kiki-Jiki, Mirror Breaker
-Island
-Horn of Gondor
-Hallowed Fountain
-Greymond, Avacyn's Stalwart
-Goldbug, Humanity's Ally // Goldbug, Scrappy Scout
-Glacial Fortress
-Flawless Maneuver
-Fierce Guardianship
-Fealty to the Realm
-Faramir, Steward of Gondor
-Faramir, Prince of Ithilien
-Faerie Mastermind
-Éomer, King of Rohan
-Dolmen Gate
-Deserted Beach
-Cyclonic Rift
-Court of Vantress
-Court of Grace
-Coppercoat Vanguard
-Command Tower
-Clifftop Retreat
-Champions of Minas Tirith
-Cathars' Crusade
-Cascade Bluffs
-Blade Historian
-Beregond of the Guard
-Battlefield Forge
-Azure Fleet Admiral
-Aurelia, the Warleader
-Archivist of Gondor
-Arcane Signet
-Angelic Field Marshal
-Akroma's Will
-Adarkar Wastes
+Ancient Tomb (PROXY)
+Arid Mesa (PROXY)
+Aurelia, the Law Above (PROXY)
+Cavern of Souls (PROXY)
+Clever Concealment (PROXY)
+Combat Celebrant (PROXY)
+Conjurer's Mantle (PROXY)
+Elesh Norn, Grand Cenobite (PROXY)
+Esper Sentinel (PROXY)
+Flooded Strand (PROXY)
+Forth Eorlingas! (PROXY)
+Imperial Recruiter (PROXY)
+Professional Face-Breaker (PROXY)
+Ragavan, Nimble Pilferer (PROXY)
+Ranger-Captain of Eos (PROXY)
+Recruiter of the Guard (PROXY)
+Rhystic Study (PROXY)
+Sacred Foundry (PROXY)
+Scalding Tarn (PROXY)
+Serra Ascendant (PROXY)
+Spectator Seating (PROXY)
+Sundown Pass (PROXY)
+Swan Song (PROXY)
+Weathered Wayfarer (PROXY)
 Aragorn, King of Gondor
+Adarkar Wastes
+Akroma's Will
+Angelic Field Marshal
+Arcane Signet
+Archivist of Gondor
+Aurelia, the Warleader
+Azure Fleet Admiral
+Battlefield Forge
+Beregond of the Guard
+Blade Historian
+Cascade Bluffs
+Cathars' Crusade
+Champions of Minas Tirith
+Clifftop Retreat
+Command Tower
+Coppercoat Vanguard
+Court of Grace
+Court of Vantress
+Cyclonic Rift
+Deserted Beach
+Dolmen Gate
+Éomer, King of Rohan
+Faerie Mastermind
+Faramir, Prince of Ithilien
+Faramir, Steward of Gondor
+Fealty to the Realm
+Fierce Guardianship
+Flawless Maneuver
+Glacial Fortress
+Goldbug, Humanity's Ally // Goldbug, Scrappy Scout
+Greymond, Avacyn's Stalwart
+Hallowed Fountain
+Horn of Gondor
+Island
+Kiki-Jiki, Mirror Breaker
+Loran of the Third Path
+Mass Appeal
+Minamo, School at Water's Edge
+Mountain
+Mystic Gate
+Mystic Monastery
+Odric, Lunarch Marshal
+Odric, Master Tactician
+Otawara, Soaring City
+Palace Jailer
+Path of Ancestry
+Plains
+Plains
+Plains
+Port Razer
+Prince Imrahil the Fair
+Raugrin Triome
+Retribution of the Meek
+Rugged Prairie
+Savage Beating
+Sea Gate Restoration // Sea Gate, Reborn
+Sea of Clouds
+Secluded Courtyard
+Shared Animosity
+Smothering Tithe
+Sol Ring
+Steam Vents
+Stormcarved Coast
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Progress
+Taunt from the Rampart
+Teferi's Protection
+Thalia's Lieutenant
+Throne of the High City
+Tithe
+Training Center
+Wayfarer's Bauble

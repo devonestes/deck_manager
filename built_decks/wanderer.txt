@@ -1,100 +1,100 @@
-Wurmcoil Engine (PROXY)
-Wooded Foothills (PROXY)
-Vorinclex, Monstrous Raider (PROXY)
-Vorinclex // The Grand Evolution (PROXY)
-Urza's Saga (PROXY)
-Uro, Titan of Nature's Wrath (PROXY)
-Up the Beanstalk (PROXY)
-Training Center (PROXY)
-Sylvan Library (PROXY)
-Stormcarved Coast (PROXY)
-Stomping Ground (PROXY)
-Steam Vents (PROXY)
-Spire Garden (PROXY)
-Skyshroud Claim (PROXY)
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Scalding Tarn (PROXY)
-Rejuvenating Springs (PROXY)
-Prismatic Vista (PROXY)
-Otawara, Soaring City (PROXY)
-Oracle of Mul Daya (PROXY)
-Old Gnawbone (PROXY)
-Nyxbloom Ancient (PROXY)
-Misty Rainforest (PROXY)
-Kogla, the Titan Ape (PROXY)
-Goldspan Dragon (PROXY)
-Flooded Grove (PROXY)
-Fire-Lit Thicket (PROXY)
-Fiery Emancipation (PROXY)
-Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
-Entish Restoration (PROXY)
-Dreamroot Cascade (PROXY)
-Dockside Extortionist (PROXY)
-Delighted Halfling (PROXY)
-Breeding Pool (PROXY)
-Boseiju, Who Endures (PROXY)
-Ancient Tomb (PROXY)
 Ancient Copper Dragon (PROXY)
-Yavimaya Coast
-Vastwood Surge
-Turntimber Symbiosis // Turntimber, Serpentine Wood
-Time Spiral
-Three Visits
-Terror of the Peaks
-Temur Sabertooth
-Sunbird's Invocation
-Sun Quan, Lord of Wu
-Sulfur Falls
-Sol Ring
-Snow-Covered Mountain
-Snow-Covered Island
-Snow-Covered Forest
-Snow-Covered Forest
-Snow-Covered Forest
-Selvala's Stampede
-Selvala, Heart of the Wilds
-Scroll Rack
-Scourge of the Throne
-Sarkhan's Unsealing
-Sakura-Tribe Elder
-Rockfall Vale
-Riverglide Pathway // Lavaglide Pathway
-Rishkar's Expertise
-Ranger's Path
-Rampant Growth
-Pathbreaker Ibex
-Orcish Lumberjack
-Nissa, Ascended Animist
-Mountain
-Mountain
-Misthollow Griffin
-Migration Path
-Koma, Cosmos Serpent
-Kogla and Yidaro
-Kodama's Reach
-Klauth, Unrivaled Ancient
-Ketria Triome
-Island
-Island
-Into the North
-Imoti, Celebrant of Bounty
-Ilysian Caryatid
-Hullbreaker Horror
-Hinterland Harbor
-Genesis Ultimatum
-Forest
-Forest
-Food Chain
-Farseek
-Etali, Primal Storm
-Drakuseth, Maw of Flames
-Defense of the Heart
-Cultivate
-Consecrated Sphinx
-Command Tower
-Colossal Skyturtle
-Cascade Bluffs
-Beanstalk Giant // Fertile Footsteps
-Balefire Dragon
-Arcane Signet
+Ancient Tomb (PROXY)
+Boseiju, Who Endures (PROXY)
+Breeding Pool (PROXY)
+Delighted Halfling (PROXY)
+Dockside Extortionist (PROXY)
+Dreamroot Cascade (PROXY)
+Entish Restoration (PROXY)
+Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
+Fiery Emancipation (PROXY)
+Fire-Lit Thicket (PROXY)
+Flooded Grove (PROXY)
+Goldspan Dragon (PROXY)
+Kogla, the Titan Ape (PROXY)
+Misty Rainforest (PROXY)
+Nyxbloom Ancient (PROXY)
+Old Gnawbone (PROXY)
+Oracle of Mul Daya (PROXY)
+Otawara, Soaring City (PROXY)
+Prismatic Vista (PROXY)
+Rejuvenating Springs (PROXY)
+Scalding Tarn (PROXY)
+Sea Gate Restoration // Sea Gate, Reborn (PROXY)
+Skyshroud Claim (PROXY)
+Spire Garden (PROXY)
+Steam Vents (PROXY)
+Stomping Ground (PROXY)
+Stormcarved Coast (PROXY)
+Sylvan Library (PROXY)
+Training Center (PROXY)
+Up the Beanstalk (PROXY)
+Uro, Titan of Nature's Wrath (PROXY)
+Urza's Saga (PROXY)
+Vorinclex // The Grand Evolution (PROXY)
+Vorinclex, Monstrous Raider (PROXY)
+Wooded Foothills (PROXY)
+Wurmcoil Engine (PROXY)
 Maelstrom Wanderer
+Arcane Signet
+Balefire Dragon
+Beanstalk Giant // Fertile Footsteps
+Cascade Bluffs
+Colossal Skyturtle
+Command Tower
+Consecrated Sphinx
+Cultivate
+Defense of the Heart
+Drakuseth, Maw of Flames
+Etali, Primal Storm
+Farseek
+Food Chain
+Forest
+Forest
+Genesis Ultimatum
+Hinterland Harbor
+Hullbreaker Horror
+Ilysian Caryatid
+Imoti, Celebrant of Bounty
+Into the North
+Island
+Island
+Ketria Triome
+Klauth, Unrivaled Ancient
+Kodama's Reach
+Kogla and Yidaro
+Koma, Cosmos Serpent
+Migration Path
+Misthollow Griffin
+Mountain
+Mountain
+Nissa, Ascended Animist
+Orcish Lumberjack
+Pathbreaker Ibex
+Rampant Growth
+Ranger's Path
+Rishkar's Expertise
+Riverglide Pathway // Lavaglide Pathway
+Rockfall Vale
+Sakura-Tribe Elder
+Sarkhan's Unsealing
+Scourge of the Throne
+Scroll Rack
+Selvala, Heart of the Wilds
+Selvala's Stampede
+Snow-Covered Forest
+Snow-Covered Forest
+Snow-Covered Forest
+Snow-Covered Island
+Snow-Covered Mountain
+Sol Ring
+Sulfur Falls
+Sun Quan, Lord of Wu
+Sunbird's Invocation
+Temur Sabertooth
+Terror of the Peaks
+Three Visits
+Time Spiral
+Turntimber Symbiosis // Turntimber, Serpentine Wood
+Vastwood Surge
+Yavimaya Coast

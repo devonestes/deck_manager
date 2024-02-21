@@ -1,100 +1,100 @@
-Wooded Foothills (PROXY)
-Wheel of Fortune (PROXY)
-Verdant Catacombs (PROXY)
-Vampiric Tutor (PROXY)
-Urza's Saga (PROXY)
-Urborg, Tomb of Yawgmoth (PROXY)
-Undergrowth Stadium (PROXY)
-Twilight Mire (PROXY)
-Takenuma, Abandoned Mire (PROXY)
-Stomping Ground (PROXY)
-Skullclamp (PROXY)
-Overgrown Tomb (PROXY)
-Luxury Suite (PROXY)
-Dockside Extortionist (PROXY)
-Demonic Tutor (PROXY)
-Delighted Halfling (PROXY)
-Boseiju, Who Endures (PROXY)
-Bloodstained Mire (PROXY)
-Blood Crypt (PROXY)
-Assassin's Trophy (PROXY)
 Ancient Tomb (PROXY)
-Ziatora's Proving Ground
-Wurmcoil Engine
-Vivien on the Hunt
-Virtue of Persistence // Locthwain Scorn
-Village Rites
-Victimize
-Up the Beanstalk
-Toxic Deluge
-The Skullspore Nexus
-The Great Henge
-Swamp
-Swamp
-Swamp
-Sundial of the Infinite
-Spire Garden
-Solemn Simulacrum
-Sol Ring
-Shadow in the Warp
-Sakura-Tribe Elder
-Riveteers Ascendancy
-Rise of the Dark Realms
-Reanimate
-Primeval Herald
-Phyrexian Reclamation
-Old Gnawbone
-Ojer Kaslem, Deepest Growth // Temple of Cultivation
-Noxious Gearhulk
-Necromancy
-Mountain
-Mountain
-Mountain
-Living Death
-Kura, the Boundless Sky
-Kokusho, the Evening Star
-Kogla, the Titan Ape
-Kogla and Yidaro
-Kodama's Reach
-Kethek, Crucible Goliath
-Kessig Wolf Run
-Junji, the Midnight Sky
-Industrial Advancement
-Ignoble Hierarch
-Gruff Triplets
-Grist, the Hunger Tide
-Graven Cairns
-Grave Pact
-Goreclaw, Terror of Qal Sisma
-Garruk's Uprising
-Forest
-Forest
-Forest
-Forest
-Forest
-Fire-Lit Thicket
-Farseek
-Exotic Orchard
-Etali, Primal Storm
-Etali, Primal Conqueror // Etali, Primal Sickness
-Entomb
-Dragonskull Summit
-Doors of Durin
-Deadly Rollick
-Cultivate
-Command Tower
-Cinder Glade
-Chaos Warp
-Buried Alive
-Bringer of the Last Gift
-Blossoming Tortoise
-Blasphemous Act
-Atsushi, the Blazing Sky
-Artisan of Kozilek
-Archpriest of Shadows
-Archon of Cruelty
-Arcane Signet
-Animate Dead
-Ancient Copper Dragon
-Ancient Brass Dragon
+Assassin's Trophy (PROXY)
+Blood Crypt (PROXY)
+Bloodstained Mire (PROXY)
+Boseiju, Who Endures (PROXY)
+Delighted Halfling (PROXY)
+Demonic Tutor (PROXY)
+Dockside Extortionist (PROXY)
+Luxury Suite (PROXY)
+Overgrown Tomb (PROXY)
+Skullclamp (PROXY)
+Stomping Ground (PROXY)
+Takenuma, Abandoned Mire (PROXY)
+Twilight Mire (PROXY)
+Undergrowth Stadium (PROXY)
+Urborg, Tomb of Yawgmoth (PROXY)
+Urza's Saga (PROXY)
+Vampiric Tutor (PROXY)
+Verdant Catacombs (PROXY)
+Wheel of Fortune (PROXY)
+Wooded Foothills (PROXY)
 Henzie "Toolbox" Torre
+Ancient Brass Dragon
+Ancient Copper Dragon
+Animate Dead
+Arcane Signet
+Archon of Cruelty
+Archpriest of Shadows
+Artisan of Kozilek
+Atsushi, the Blazing Sky
+Blasphemous Act
+Blossoming Tortoise
+Bringer of the Last Gift
+Buried Alive
+Chaos Warp
+Cinder Glade
+Command Tower
+Cultivate
+Deadly Rollick
+Doors of Durin
+Dragonskull Summit
+Entomb
+Etali, Primal Conqueror // Etali, Primal Sickness
+Etali, Primal Storm
+Exotic Orchard
+Farseek
+Fire-Lit Thicket
+Forest
+Forest
+Forest
+Forest
+Forest
+Garruk's Uprising
+Goreclaw, Terror of Qal Sisma
+Grave Pact
+Graven Cairns
+Grist, the Hunger Tide
+Gruff Triplets
+Ignoble Hierarch
+Industrial Advancement
+Junji, the Midnight Sky
+Kessig Wolf Run
+Kethek, Crucible Goliath
+Kodama's Reach
+Kogla and Yidaro
+Kogla, the Titan Ape
+Kokusho, the Evening Star
+Kura, the Boundless Sky
+Living Death
+Mountain
+Mountain
+Mountain
+Necromancy
+Noxious Gearhulk
+Ojer Kaslem, Deepest Growth // Temple of Cultivation
+Old Gnawbone
+Phyrexian Reclamation
+Primeval Herald
+Reanimate
+Rise of the Dark Realms
+Riveteers Ascendancy
+Sakura-Tribe Elder
+Shadow in the Warp
+Sol Ring
+Solemn Simulacrum
+Spire Garden
+Sundial of the Infinite
+Swamp
+Swamp
+Swamp
+The Great Henge
+The Skullspore Nexus
+Toxic Deluge
+Up the Beanstalk
+Victimize
+Village Rites
+Virtue of Persistence // Locthwain Scorn
+Vivien on the Hunt
+Wurmcoil Engine
+Ziatora's Proving Ground

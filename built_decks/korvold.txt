@@ -1,100 +1,100 @@
-Ziatora's Proving Ground (PROXY)
-Worldly Tutor (PROXY)
-Wooded Foothills (PROXY)
-Windswept Heath (PROXY)
-Wheel of Fortune (PROXY)
-Verdant Catacombs (PROXY)
-Vampiric Tutor (PROXY)
-Urza's Saga (PROXY)
-Urborg, Tomb of Yawgmoth (PROXY)
-Undergrowth Stadium (PROXY)
-Troll of Khazad-dûm (PROXY)
-Tireless Provisioner (PROXY)
-The Meathook Massacre (PROXY)
-Taiga (PROXY)
-Stomping Ground (PROXY)
-Spire Garden (PROXY)
-Sol Ring (PROXY)
-Skullclamp (PROXY)
-Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
-Scalding Tarn (PROXY)
-Rhythm of the Wild (PROXY)
-Reassembling Skeleton (PROXY)
-Reanimate (PROXY)
-Ragavan, Nimble Pilferer (PROXY)
-Professional Face-Breaker (PROXY)
-Polluted Delta (PROXY)
-Phyrexian Tower (PROXY)
-Overgrown Tomb (PROXY)
-Orcish Bowmasters (PROXY)
-Old Gnawbone (PROXY)
-Misty Rainforest (PROXY)
-Marsh Flats (PROXY)
-Mana Crypt (PROXY)
-Luxury Suite (PROXY)
-Lightning Greaves (PROXY)
-Imperial Recruiter (PROXY)
-Ignoble Hierarch (PROXY)
-Heroic Intervention (PROXY)
-Goldspan Dragon (PROXY)
-Finale of Devastation (PROXY)
-Field of the Dead (PROXY)
-Fabled Passage (PROXY)
-Dockside Extortionist (PROXY)
-Dictate of Erebos (PROXY)
-Diabolic Intent (PROXY)
-Demonic Tutor (PROXY)
-Delighted Halfling (PROXY)
-Deflecting Swat (PROXY)
-Deadly Rollick (PROXY)
-Deadly Dispute (PROXY)
-Crucible of Worlds (PROXY)
-Crop Rotation (PROXY)
-Command Tower (PROXY)
-Case of the Stashed Skeleton (PROXY)
-Boseiju, Who Endures (PROXY)
-Bloodstained Mire (PROXY)
-Blood Crypt (PROXY)
-Bitterblossom (PROXY)
-Birds of Paradise (PROXY)
-Beledros Witherbloom (PROXY)
-Badlands (PROXY)
-Assassin's Trophy (PROXY)
-Arid Mesa (PROXY)
-Animate Dead (PROXY)
-Ancient Tomb (PROXY)
-Ancient Copper Dragon (PROXY)
-Ancient Brass Dragon (PROXY)
 Agadeem's Awakening // Agadeem, the Undercrypt (PROXY)
-Toxic Deluge
-Tinder Wall
-Swamp
-Squandered Resources
-Shallow Grave
-Reliquary Tower
-Pitiless Plunderer
-Phyrexian Altar
-Orcish Lumberjack
-Opposition Agent
-Oni-Cult Anvil
-Necromancy
-Mountain
-Mirkwood Bats
-Mayhem Devil
-Lotus Petal
-Liliana, Dreadhorde General
-Life from the Loam
-Jeweled Lotus
-Forest
-Deathrite Shaman
-Dark Ritual
-Damnation
-Culling the Weak
-Corpse Dance
-Chatterfang, Squirrel General
-Black Sun's Twilight
-Black Market Connections
-Bayou
-Ashnod's Altar
-Academy Manufactor
+Ancient Brass Dragon (PROXY)
+Ancient Copper Dragon (PROXY)
+Ancient Tomb (PROXY)
+Animate Dead (PROXY)
+Arid Mesa (PROXY)
+Assassin's Trophy (PROXY)
+Badlands (PROXY)
+Beledros Witherbloom (PROXY)
+Birds of Paradise (PROXY)
+Bitterblossom (PROXY)
+Blood Crypt (PROXY)
+Bloodstained Mire (PROXY)
+Boseiju, Who Endures (PROXY)
+Case of the Stashed Skeleton (PROXY)
+Command Tower (PROXY)
+Crop Rotation (PROXY)
+Crucible of Worlds (PROXY)
+Deadly Dispute (PROXY)
+Deadly Rollick (PROXY)
+Deflecting Swat (PROXY)
+Delighted Halfling (PROXY)
+Demonic Tutor (PROXY)
+Diabolic Intent (PROXY)
+Dictate of Erebos (PROXY)
+Dockside Extortionist (PROXY)
+Fabled Passage (PROXY)
+Field of the Dead (PROXY)
+Finale of Devastation (PROXY)
+Goldspan Dragon (PROXY)
+Heroic Intervention (PROXY)
+Ignoble Hierarch (PROXY)
+Imperial Recruiter (PROXY)
+Lightning Greaves (PROXY)
+Luxury Suite (PROXY)
+Mana Crypt (PROXY)
+Marsh Flats (PROXY)
+Misty Rainforest (PROXY)
+Old Gnawbone (PROXY)
+Orcish Bowmasters (PROXY)
+Overgrown Tomb (PROXY)
+Phyrexian Tower (PROXY)
+Polluted Delta (PROXY)
+Professional Face-Breaker (PROXY)
+Ragavan, Nimble Pilferer (PROXY)
+Reanimate (PROXY)
+Reassembling Skeleton (PROXY)
+Rhythm of the Wild (PROXY)
+Scalding Tarn (PROXY)
+Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
+Skullclamp (PROXY)
+Sol Ring (PROXY)
+Spire Garden (PROXY)
+Stomping Ground (PROXY)
+Taiga (PROXY)
+The Meathook Massacre (PROXY)
+Tireless Provisioner (PROXY)
+Troll of Khazad-dûm (PROXY)
+Undergrowth Stadium (PROXY)
+Urborg, Tomb of Yawgmoth (PROXY)
+Urza's Saga (PROXY)
+Vampiric Tutor (PROXY)
+Verdant Catacombs (PROXY)
+Wheel of Fortune (PROXY)
+Windswept Heath (PROXY)
+Wooded Foothills (PROXY)
+Worldly Tutor (PROXY)
+Ziatora's Proving Ground (PROXY)
 Korvold, Fae-Cursed King
+Academy Manufactor
+Ashnod's Altar
+Bayou
+Black Market Connections
+Black Sun's Twilight
+Chatterfang, Squirrel General
+Corpse Dance
+Culling the Weak
+Damnation
+Dark Ritual
+Deathrite Shaman
+Forest
+Jeweled Lotus
+Life from the Loam
+Liliana, Dreadhorde General
+Lotus Petal
+Mayhem Devil
+Mirkwood Bats
+Mountain
+Necromancy
+Oni-Cult Anvil
+Opposition Agent
+Orcish Lumberjack
+Phyrexian Altar
+Pitiless Plunderer
+Reliquary Tower
+Shallow Grave
+Squandered Resources
+Swamp
+Tinder Wall
+Toxic Deluge

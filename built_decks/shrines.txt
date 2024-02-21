@@ -1,100 +1,100 @@
-Ziatora's Proving Ground (PROXY)
-Zagoth Triome (PROXY)
-Wooded Foothills (PROXY)
-Watery Grave (PROXY)
-Verdant Catacombs (PROXY)
-Vampiric Tutor (PROXY)
-Tithe (PROXY)
-Teferi's Protection (PROXY)
-Swan Song (PROXY)
-Stomping Ground (PROXY)
-Steam Vents (PROXY)
-Smothering Tithe (PROXY)
-Sea of Clouds (PROXY)
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Savai Triome (PROXY)
-Rockfall Vale (PROXY)
-Rhystic Study (PROXY)
-Overgrown Tomb (PROXY)
-Oracle of Mul Daya (PROXY)
-Misty Rainforest (PROXY)
-Ketria Triome (PROXY)
-Heroic Intervention (PROXY)
-Forbidden Orchard (PROXY)
-Fierce Guardianship (PROXY)
-Enlightened Tutor (PROXY)
-Dryad of the Ilysian Grove (PROXY)
-Demonic Tutor (PROXY)
-Deflecting Swat (PROXY)
-Cyclonic Rift (PROXY)
-City of Brass (PROXY)
-Breeding Pool (PROXY)
-Bountiful Promenade (PROXY)
-Bloom Tender (PROXY)
 Birds of Paradise (PROXY)
-Zur the Enchanter
-Wooded Bastion
-Windswept Heath
-Verduran Enchantress
-The World Tree
-Temple Garden
-Sythis, Harvest's Hand
-Swamp
-Sterling Grove
-Spara's Headquarters
-Sol Ring
-Sigil of the Empty Throne
-Shrine Steward
-Setessan Champion
-Sanctum Weaver
-Sanctum of Tranquil Light
-Sanctum of Stone Fangs
-Sanctum of Shattered Heights
-Sanctum of Fruitful Harvest
-Sanctum of Calm Waters
-Sanctum of All
-Replenish
-Reliquary Tower
-Plains
-Peacekeeper
-Overgrown Farmland
-Nessian Wanderer
-Mountain
-Moon-Blessed Cleric
-Moat
-Mirari's Wake
-Jukai Naturalist
-Jetmir's Garden
-Island
-Indatha Triome
-Idyllic Tutor
-Honden of Seeing Winds
-Honden of Night's Reach
-Honden of Life's Web
-Honden of Infinite Rage
-Honden of Cleansing Fire
-Hallowed Fountain
-Hall of Heliod's Generosity
-Greater Auramancy
-Go-Shintai of Shared Purpose
-Go-Shintai of Lost Wisdom
-Go-Shintai of Hidden Cruelty
-Go-Shintai of Boundless Vigor
-Go-Shintai of Ancient Wars
-Ghoulish Impetus
-Ghostly Prison
-Forest
-Extinguish All Hope
-Exotic Orchard
-Enchantress's Presence
-Eidolon of Blossoms
-Destiny Spinner
-Cultivate
-Crop Rotation
-Command Tower
-Case of the Stashed Skeleton
-Cacophony Unleashed
-Brushland
-Atraxa, Grand Unifier
-Argothian Enchantress
+Bloom Tender (PROXY)
+Bountiful Promenade (PROXY)
+Breeding Pool (PROXY)
+City of Brass (PROXY)
+Cyclonic Rift (PROXY)
+Deflecting Swat (PROXY)
+Demonic Tutor (PROXY)
+Dryad of the Ilysian Grove (PROXY)
+Enlightened Tutor (PROXY)
+Fierce Guardianship (PROXY)
+Forbidden Orchard (PROXY)
+Heroic Intervention (PROXY)
+Ketria Triome (PROXY)
+Misty Rainforest (PROXY)
+Oracle of Mul Daya (PROXY)
+Overgrown Tomb (PROXY)
+Rhystic Study (PROXY)
+Rockfall Vale (PROXY)
+Savai Triome (PROXY)
+Sea Gate Restoration // Sea Gate, Reborn (PROXY)
+Sea of Clouds (PROXY)
+Smothering Tithe (PROXY)
+Steam Vents (PROXY)
+Stomping Ground (PROXY)
+Swan Song (PROXY)
+Teferi's Protection (PROXY)
+Tithe (PROXY)
+Vampiric Tutor (PROXY)
+Verdant Catacombs (PROXY)
+Watery Grave (PROXY)
+Wooded Foothills (PROXY)
+Zagoth Triome (PROXY)
+Ziatora's Proving Ground (PROXY)
 Go-Shintai of Life's Origin
+Argothian Enchantress
+Atraxa, Grand Unifier
+Brushland
+Cacophony Unleashed
+Case of the Stashed Skeleton
+Command Tower
+Crop Rotation
+Cultivate
+Destiny Spinner
+Eidolon of Blossoms
+Enchantress's Presence
+Exotic Orchard
+Extinguish All Hope
+Forest
+Ghostly Prison
+Ghoulish Impetus
+Go-Shintai of Ancient Wars
+Go-Shintai of Boundless Vigor
+Go-Shintai of Hidden Cruelty
+Go-Shintai of Lost Wisdom
+Go-Shintai of Shared Purpose
+Greater Auramancy
+Hall of Heliod's Generosity
+Hallowed Fountain
+Honden of Cleansing Fire
+Honden of Infinite Rage
+Honden of Life's Web
+Honden of Night's Reach
+Honden of Seeing Winds
+Idyllic Tutor
+Indatha Triome
+Island
+Jetmir's Garden
+Jukai Naturalist
+Mirari's Wake
+Moat
+Moon-Blessed Cleric
+Mountain
+Nessian Wanderer
+Overgrown Farmland
+Peacekeeper
+Plains
+Reliquary Tower
+Replenish
+Sanctum of All
+Sanctum of Calm Waters
+Sanctum of Fruitful Harvest
+Sanctum of Shattered Heights
+Sanctum of Stone Fangs
+Sanctum of Tranquil Light
+Sanctum Weaver
+Setessan Champion
+Shrine Steward
+Sigil of the Empty Throne
+Sol Ring
+Spara's Headquarters
+Sterling Grove
+Swamp
+Sythis, Harvest's Hand
+Temple Garden
+The World Tree
+Verduran Enchantress
+Windswept Heath
+Wooded Bastion
+Zur the Enchanter

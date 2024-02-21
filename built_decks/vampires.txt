@@ -1,100 +1,100 @@
-Sacred Foundry (PROXY)
-Mana Crypt (PROXY)
-Charismatic Conqueror (PROXY)
-Bloodstained Mire (PROXY)
 Arid Mesa (PROXY)
-Wheel of Fortune
-Welcoming Vampire
-Vraan, Executioner Thane
-Volrath's Stronghold
-Voldaren Estate
-Vito, Thorn of the Dusk Rose
-Viscera Seer
-Vault of Champions
-Vampiric Tutor
-Urza's Saga
-Urborg, Tomb of Yawgmoth
-Unclaimed Territory
-Twilight Prophet
-Treacherous Greed
-The Meathook Massacre
-Teferi's Protection
-Takenuma, Abandoned Mire
-Swords to Plowshares
-Swamp
-Sundown Pass
-Sulfurous Springs
-Stromkirk Captain
-Spectator Seating
-Sorin, Imperious Bloodlord
-Sol Ring
-Skullclamp
-Shattered Sanctum
-Savai Triome
-Sanguine Bond
-Roaming Throne
-Redemption Choir
-Queen's Bay Paladin
-Preacher of the Schism
-Plains
-Phyrexian Tower
-Path of Ancestry
-Pact of the Serpent
-Olivia's Wrath
-Nighthawk Scavenger
-New Blood
-Mountain
-Master of Dark Rites
-Marsh Flats
-Markov Baron
-Mana Vault
-Luxury Suite
-Kindred Dominance
-Isolated Chapel
-Indulgent Aristocrat
-Immersturm Predator
-Haunted Ridge
-Godless Shrine
-Florian, Voldaren Scion
-Fetid Heath
-Exquisite Blood
-Enlightened Tutor
-Elenda, the Dusk Rose
-Edgar, Charmed Groom // Edgar Markov's Coffin
-Dusk Legion Duelist
-Drana, Liberator of Malakir
-Drana and Linvala
-Dictate of Erebos
-Diabolic Intent
-Descendants' Fury
-Demonic Tutor
-Dark Ritual
-Damn
-Cruel Celebrant
-Cordial Vampire
-Conjurer's Mantle
-Command Tower
-Coat of Arms
-Clifftop Retreat
-Clavileño, First of the Blessed
-Champion of Dusk
-Caves of Koilos
-Cavern of Souls
-Captivating Vampire
-Bojuka Bog
-Bloodline Keeper // Lord of Lineage
-Bloodletter of Aclazotz
-Bloodghast
-Bloodchief Ascension
-Blood Crypt
-Black Market Connections
-Beseech the Mirror
-Battlefield Forge
-Austere Command
-Ashnod's Altar
-Arcane Signet
-Anguished Unmaking
-Ancient Tomb
-Akroma's Will
-Agadeem's Awakening // Agadeem, the Undercrypt
+Bloodstained Mire (PROXY)
+Charismatic Conqueror (PROXY)
+Mana Crypt (PROXY)
+Sacred Foundry (PROXY)
 Edgar Markov
+Agadeem's Awakening // Agadeem, the Undercrypt
+Akroma's Will
+Ancient Tomb
+Anguished Unmaking
+Arcane Signet
+Ashnod's Altar
+Austere Command
+Battlefield Forge
+Beseech the Mirror
+Black Market Connections
+Blood Crypt
+Bloodchief Ascension
+Bloodghast
+Bloodletter of Aclazotz
+Bloodline Keeper // Lord of Lineage
+Bojuka Bog
+Captivating Vampire
+Cavern of Souls
+Caves of Koilos
+Champion of Dusk
+Clavileño, First of the Blessed
+Clifftop Retreat
+Coat of Arms
+Command Tower
+Conjurer's Mantle
+Cordial Vampire
+Cruel Celebrant
+Damn
+Dark Ritual
+Demonic Tutor
+Descendants' Fury
+Diabolic Intent
+Dictate of Erebos
+Drana and Linvala
+Drana, Liberator of Malakir
+Dusk Legion Duelist
+Edgar, Charmed Groom // Edgar Markov's Coffin
+Elenda, the Dusk Rose
+Enlightened Tutor
+Exquisite Blood
+Fetid Heath
+Florian, Voldaren Scion
+Godless Shrine
+Haunted Ridge
+Immersturm Predator
+Indulgent Aristocrat
+Isolated Chapel
+Kindred Dominance
+Luxury Suite
+Mana Vault
+Markov Baron
+Marsh Flats
+Master of Dark Rites
+Mountain
+New Blood
+Nighthawk Scavenger
+Olivia's Wrath
+Pact of the Serpent
+Path of Ancestry
+Phyrexian Tower
+Plains
+Preacher of the Schism
+Queen's Bay Paladin
+Redemption Choir
+Roaming Throne
+Sanguine Bond
+Savai Triome
+Shattered Sanctum
+Skullclamp
+Sol Ring
+Sorin, Imperious Bloodlord
+Spectator Seating
+Stromkirk Captain
+Sulfurous Springs
+Sundown Pass
+Swamp
+Swords to Plowshares
+Takenuma, Abandoned Mire
+Teferi's Protection
+The Meathook Massacre
+Treacherous Greed
+Twilight Prophet
+Unclaimed Territory
+Urborg, Tomb of Yawgmoth
+Urza's Saga
+Vampiric Tutor
+Vault of Champions
+Viscera Seer
+Vito, Thorn of the Dusk Rose
+Voldaren Estate
+Volrath's Stronghold
+Vraan, Executioner Thane
+Welcoming Vampire
+Wheel of Fortune

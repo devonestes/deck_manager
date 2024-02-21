@@ -1,100 +1,100 @@
-Worldly Tutor (PROXY)
-Wave Goodbye (PROXY)
-The Ozolith (PROXY)
-Swan Song (PROXY)
-Staff of Compleation (PROXY)
-Sol Ring (PROXY)
-Roaming Throne (PROXY)
-Ripples of Potential (PROXY)
-Rhystic Study (PROXY)
-Rejuvenating Springs (PROXY)
-Raise the Palisade (PROXY)
-Otawara, Soaring City (PROXY)
-Novijen, Heart of Progress (PROXY)
-Misty Rainforest (PROXY)
-Lightning Greaves (PROXY)
-Kindred Discovery (PROXY)
-Karn's Bastion (PROXY)
-Inspiring Call (PROXY)
-Hinterland Harbor (PROXY)
-Heroic Intervention (PROXY)
-Herald of Secret Streams (PROXY)
-Guardian Project (PROXY)
-Flooded Grove (PROXY)
-Fierce Guardianship (PROXY)
-Fabled Passage (PROXY)
-Exploration (PROXY)
-Dreamroot Cascade (PROXY)
-Cyclonic Rift (PROXY)
-Court of Garenbrig (PROXY)
-Command Tower (PROXY)
-Coat of Arms (PROXY)
-Cavern of Souls (PROXY)
-Burgeoning (PROXY)
-Breeding Pool (PROXY)
-Boseiju, Who Endures (PROXY)
-Ancient Tomb (PROXY)
 Alchemist's Refuge (PROXY)
-Zegana, Utopian Speaker
-Vodalian Hexcatcher
-Unclaimed Territory
-Twists and Turns // Mycoid Maze
-Topography Tracker
-Tishana's Tidebinder
-Thrasios, Triton Hero
-Thieving Skydiver
-Thassa, God of the Sea
-Thada Adel, Acquisitor
-Tatyova, Benthic Druid
-Svyelun of Sea and Sky
-Stonybrook Banneret
-Singer of Swift Rivers
-Simic Growth Chamber
-Shamanic Revelation
-Secluded Courtyard
-Seafloor Oracle
-Rogue's Passage
-Reliquary Tower
-Realmwalker
-Prime Speaker Zegana
-Path of Ancestry
-Nicanzil, Current Conductor
-Mist-Cloaked Herald
-Mist Dancer
-Mirri's Guile
-Merrow Reejerey
-Merfolk Sovereign
-Merfolk Cave-Diver
-Master of the Pearl Trident
-Lórien Revealed
-Lord of Atlantis
-Kumena, Tyrant of Orazca
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Hardened Scales
-Glowcap Lantern
-Forest
-Forest
-Forest
-Forest
-Forest
-Force of Negation
-Fallowsage
-Emperor Mihail II
-Deeproot Wayfinder
-Deeproot Waters
-Deeproot Historian
-Cold-Eyed Selkie
-Branching Evolution
-Bident of Thassa
-Beast Within
-Arcane Signet
-Alandra, Sky Dreamer
-Aetherize
+Ancient Tomb (PROXY)
+Boseiju, Who Endures (PROXY)
+Breeding Pool (PROXY)
+Burgeoning (PROXY)
+Cavern of Souls (PROXY)
+Coat of Arms (PROXY)
+Command Tower (PROXY)
+Court of Garenbrig (PROXY)
+Cyclonic Rift (PROXY)
+Dreamroot Cascade (PROXY)
+Exploration (PROXY)
+Fabled Passage (PROXY)
+Fierce Guardianship (PROXY)
+Flooded Grove (PROXY)
+Guardian Project (PROXY)
+Herald of Secret Streams (PROXY)
+Heroic Intervention (PROXY)
+Hinterland Harbor (PROXY)
+Inspiring Call (PROXY)
+Karn's Bastion (PROXY)
+Kindred Discovery (PROXY)
+Lightning Greaves (PROXY)
+Misty Rainforest (PROXY)
+Novijen, Heart of Progress (PROXY)
+Otawara, Soaring City (PROXY)
+Raise the Palisade (PROXY)
+Rejuvenating Springs (PROXY)
+Rhystic Study (PROXY)
+Ripples of Potential (PROXY)
+Roaming Throne (PROXY)
+Sol Ring (PROXY)
+Staff of Compleation (PROXY)
+Swan Song (PROXY)
+The Ozolith (PROXY)
+Wave Goodbye (PROXY)
+Worldly Tutor (PROXY)
 Hakbal of the Surging Soul
+Aetherize
+Alandra, Sky Dreamer
+Arcane Signet
+Beast Within
+Bident of Thassa
+Branching Evolution
+Cold-Eyed Selkie
+Deeproot Historian
+Deeproot Waters
+Deeproot Wayfinder
+Emperor Mihail II
+Fallowsage
+Force of Negation
+Forest
+Forest
+Forest
+Forest
+Forest
+Glowcap Lantern
+Hardened Scales
+Island
+Island
+Island
+Island
+Island
+Island
+Island
+Island
+Kumena, Tyrant of Orazca
+Lord of Atlantis
+Lórien Revealed
+Master of the Pearl Trident
+Merfolk Cave-Diver
+Merfolk Sovereign
+Merrow Reejerey
+Mirri's Guile
+Mist Dancer
+Mist-Cloaked Herald
+Nicanzil, Current Conductor
+Path of Ancestry
+Prime Speaker Zegana
+Realmwalker
+Reliquary Tower
+Rogue's Passage
+Seafloor Oracle
+Secluded Courtyard
+Shamanic Revelation
+Simic Growth Chamber
+Singer of Swift Rivers
+Stonybrook Banneret
+Svyelun of Sea and Sky
+Tatyova, Benthic Druid
+Thada Adel, Acquisitor
+Thassa, God of the Sea
+Thieving Skydiver
+Thrasios, Triton Hero
+Tishana's Tidebinder
+Topography Tracker
+Twists and Turns // Mycoid Maze
+Unclaimed Territory
+Vodalian Hexcatcher
+Zegana, Utopian Speaker

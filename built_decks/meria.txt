@@ -1,100 +1,100 @@
-Yavimaya, Cradle of Growth (PROXY)
-Wooded Foothills (PROXY)
-Urza's Saga (PROXY)
-Ulamog, the Infinite Gyre (PROXY)
-Stomping Ground (PROXY)
-Spire Garden (PROXY)
-Sol Ring (PROXY)
-Shadowspear (PROXY)
-Rockfall Vale (PROXY)
-Resurrection Orb (PROXY)
-Mithril Coat (PROXY)
-Lightning Greaves (PROXY)
-Kozilek, Butcher of Truth (PROXY)
-Great Furnace (PROXY)
-Fire-Lit Thicket (PROXY)
-Finale of Devastation (PROXY)
-Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
-Deflecting Swat (PROXY)
-Darksteel Citadel (PROXY)
-Commander's Plate (PROXY)
-Chandra's Ignition (PROXY)
-Buried Ruin (PROXY)
-Boseiju, Who Endures (PROXY)
-Blightsteel Colossus (PROXY)
 Birds of Paradise (PROXY)
-Zoyowa's Justice
-Walking Ballista
-Vorrac Battlehorns
-Tree of Tales
-Toski, Bearer of Secrets
-Thrun, the Last Troll
-Thrun, Breaker of Silence
-Thran Power Suit
-The Reaver Cleaver
-Tenza, Godo's Maul
-Tanuki Transplanter
-Sword of Vengeance
-Sword of the Animist
-Sword of Forge and Frontier
-Sword of Fire and Ice
-Sword of Feast and Famine
-Swiftfoot Boots
-Slagwoods Bridge
-Silkguard
-Sarinth Steelseeker
-Rope
-Rootbound Crag
-Rishkar's Expertise
-Return of the Wildspeaker
-Restless Ridgeline
-Reckless Fireweaver
-Rebel Salvo
-Ornithopter
-Neurok Hoversail
-Nettlecyst
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mask of Memory
-Lothlórien Blade
-Komainu Battle Armor
-Kessig Wolf Run
-Jeska's Will
-Inventors' Fair
-Infiltration Lens
-Hunter's Insight
-Howling Mine
-Helm of the Host
-Hammer of Nazahn
-Gruul Turf
-Glowcap Lantern
-Game Trail
-Foundry Inspector
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Fireshrieker
-Emrakul, the Promised End
-Dire Flail // Dire Blunderbuss
-Diamond Pick-Axe
-Darksteel Plate
-Cragcrown Pathway // Timbercrown Pathway
-Command Tower
-Cinder Glade
-Chaos Warp
-Blackblade Reforged
-Bitterthorn, Nissa's Animus
-Berserk
-Beast Within
-Beamtown Beatstick
-Basilisk Collar
-Apex Altisaur
-Academy Manufactor
+Blightsteel Colossus (PROXY)
+Boseiju, Who Endures (PROXY)
+Buried Ruin (PROXY)
+Chandra's Ignition (PROXY)
+Commander's Plate (PROXY)
+Darksteel Citadel (PROXY)
+Deflecting Swat (PROXY)
+Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
+Finale of Devastation (PROXY)
+Fire-Lit Thicket (PROXY)
+Great Furnace (PROXY)
+Kozilek, Butcher of Truth (PROXY)
+Lightning Greaves (PROXY)
+Mithril Coat (PROXY)
+Resurrection Orb (PROXY)
+Rockfall Vale (PROXY)
+Shadowspear (PROXY)
+Sol Ring (PROXY)
+Spire Garden (PROXY)
+Stomping Ground (PROXY)
+Ulamog, the Infinite Gyre (PROXY)
+Urza's Saga (PROXY)
+Wooded Foothills (PROXY)
+Yavimaya, Cradle of Growth (PROXY)
 Meria, Scholar of Antiquity
+Academy Manufactor
+Apex Altisaur
+Basilisk Collar
+Beamtown Beatstick
+Beast Within
+Berserk
+Bitterthorn, Nissa's Animus
+Blackblade Reforged
+Chaos Warp
+Cinder Glade
+Command Tower
+Cragcrown Pathway // Timbercrown Pathway
+Darksteel Plate
+Diamond Pick-Axe
+Dire Flail // Dire Blunderbuss
+Emrakul, the Promised End
+Fireshrieker
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Foundry Inspector
+Game Trail
+Glowcap Lantern
+Gruul Turf
+Hammer of Nazahn
+Helm of the Host
+Howling Mine
+Hunter's Insight
+Infiltration Lens
+Inventors' Fair
+Jeska's Will
+Kessig Wolf Run
+Komainu Battle Armor
+Lothlórien Blade
+Mask of Memory
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Nettlecyst
+Neurok Hoversail
+Ornithopter
+Rebel Salvo
+Reckless Fireweaver
+Restless Ridgeline
+Return of the Wildspeaker
+Rishkar's Expertise
+Rootbound Crag
+Rope
+Sarinth Steelseeker
+Silkguard
+Slagwoods Bridge
+Swiftfoot Boots
+Sword of Feast and Famine
+Sword of Fire and Ice
+Sword of Forge and Frontier
+Sword of the Animist
+Sword of Vengeance
+Tanuki Transplanter
+Tenza, Godo's Maul
+The Reaver Cleaver
+Thran Power Suit
+Thrun, Breaker of Silence
+Thrun, the Last Troll
+Toski, Bearer of Secrets
+Tree of Tales
+Vorrac Battlehorns
+Walking Ballista
+Zoyowa's Justice

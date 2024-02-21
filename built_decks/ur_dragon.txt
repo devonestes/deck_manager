@@ -1,100 +1,100 @@
-Ziatora's Proving Ground (PROXY)
-Zagoth Triome (PROXY)
-Wooded Foothills (PROXY)
-Windswept Heath (PROXY)
-Watery Grave (PROXY)
-The World Tree (PROXY)
-The Great Henge (PROXY)
-Terror of the Peaks (PROXY)
-Temple Garden (PROXY)
-Teferi's Protection (PROXY)
-Stomping Ground (PROXY)
-Steam Vents (PROXY)
-Spara's Headquarters (PROXY)
-Scalding Tarn (PROXY)
-Sacred Foundry (PROXY)
-Roaming Throne (PROXY)
-Polluted Delta (PROXY)
-Overgrown Tomb (PROXY)
-Old Gnawbone (PROXY)
-Misty Rainforest (PROXY)
-Marsh Flats (PROXY)
-Mana Vault (PROXY)
-Kura, the Boundless Sky (PROXY)
-Kokusho, the Evening Star (PROXY)
-Klauth, Unrivaled Ancient (PROXY)
-Ketria Triome (PROXY)
-Indatha Triome (PROXY)
-Heroic Intervention (PROXY)
-Hallowed Fountain (PROXY)
-Guardian Project (PROXY)
-Goldspan Dragon (PROXY)
-Godless Shrine (PROXY)
-Forbidden Orchard (PROXY)
-Flooded Strand (PROXY)
-Dockside Extortionist (PROXY)
-Delighted Halfling (PROXY)
-Cyclonic Rift (PROXY)
-City of Brass (PROXY)
-Cavern of Souls (PROXY)
-Breeding Pool (PROXY)
-Bloom Tender (PROXY)
-Bloodstained Mire (PROXY)
-Blood Crypt (PROXY)
-Birds of Paradise (PROXY)
-Badlands (PROXY)
-Balefire Dragon (PROXY)
-Ancient Tomb (PROXY)
 Ancient Copper Dragon (PROXY)
-Zurgo and Ojutai
-Utvara Hellkite
-Urza's Incubator
-Tiamat
-The Kami War // O-Kagachi Made Manifest
-Temur Ascendancy
-Temple of the Dragon Queen
-Swords to Plowshares
-Swamp
-Sol Ring
-Scourge of the Throne
-Scalelord Reckoner
-Savage Ventmaw
-Sarkhan, Fireblood
-Rivaz of the Claw
-Rith, Liberated Primeval
-Return of the Wildspeaker
-Raise the Palisade
-Plains
-Path of Ancestry
-Orb of Dragonkind
-Omniscience
-Nature's Lore
-Mountain
-Morophon, the Boundless
-Miirym, Sentinel Wyrm
-Lightning Greaves
-Kindred Dominance
-Kindred Discovery
-Karrthus, Tyrant of Jund
-Jetmir's Garden
-Island
-Herald's Horn
-Hellkite Tyrant
-Hellkite Courser
-Forest
-Fellwar Stone
-Farseek
-Exotic Orchard
-Dragonspeaker Shaman
-Dragonlord's Servant
-Dragonlord Dromoka
-Dragon's Hoard
-Dragon Tempest
-Command Tower
-Cavern-Hoard Dragon
-Bonehoard Dracosaur
-Beledros Witherbloom
-Atarka, World Render
-Arcane Signet
-Ancient Silver Dragon
+Ancient Tomb (PROXY)
+Balefire Dragon (PROXY)
+Birds of Paradise (PROXY)
+Blood Crypt (PROXY)
+Bloodstained Mire (PROXY)
+Bloom Tender (PROXY)
+Breeding Pool (PROXY)
+Cavern of Souls (PROXY)
+City of Brass (PROXY)
+Cyclonic Rift (PROXY)
+Delighted Halfling (PROXY)
+Dockside Extortionist (PROXY)
+Flooded Strand (PROXY)
+Forbidden Orchard (PROXY)
+Godless Shrine (PROXY)
+Goldspan Dragon (PROXY)
+Guardian Project (PROXY)
+Hallowed Fountain (PROXY)
+Heroic Intervention (PROXY)
+Indatha Triome (PROXY)
+Ketria Triome (PROXY)
+Klauth, Unrivaled Ancient (PROXY)
+Kokusho, the Evening Star (PROXY)
+Kura, the Boundless Sky (PROXY)
+Mana Vault (PROXY)
+Marsh Flats (PROXY)
+Misty Rainforest (PROXY)
+Old Gnawbone (PROXY)
+Overgrown Tomb (PROXY)
+Polluted Delta (PROXY)
+Roaming Throne (PROXY)
+Sacred Foundry (PROXY)
+Scalding Tarn (PROXY)
+Spara's Headquarters (PROXY)
+Steam Vents (PROXY)
+Stomping Ground (PROXY)
+Teferi's Protection (PROXY)
+Temple Garden (PROXY)
+Terror of the Peaks (PROXY)
+The Great Henge (PROXY)
+The World Tree (PROXY)
+Watery Grave (PROXY)
+Windswept Heath (PROXY)
+Wooded Foothills (PROXY)
+Zagoth Triome (PROXY)
+Ziatora's Proving Ground (PROXY)
 The Ur-Dragon
+Ancient Silver Dragon
+Arcane Signet
+Atarka, World Render
+Badlands
+Beledros Witherbloom
+Bonehoard Dracosaur
+Cavern-Hoard Dragon
+Command Tower
+Dragon Tempest
+Dragon's Hoard
+Dragonlord Dromoka
+Dragonlord's Servant
+Dragonspeaker Shaman
+Exotic Orchard
+Farseek
+Fellwar Stone
+Forest
+Hellkite Courser
+Hellkite Tyrant
+Herald's Horn
+Island
+Jetmir's Garden
+Karrthus, Tyrant of Jund
+Kindred Discovery
+Kindred Dominance
+Lightning Greaves
+Miirym, Sentinel Wyrm
+Morophon, the Boundless
+Mountain
+Nature's Lore
+Omniscience
+Orb of Dragonkind
+Path of Ancestry
+Plains
+Raise the Palisade
+Return of the Wildspeaker
+Rith, Liberated Primeval
+Rivaz of the Claw
+Sarkhan, Fireblood
+Savage Ventmaw
+Scalelord Reckoner
+Scourge of the Throne
+Sol Ring
+Swamp
+Swords to Plowshares
+Temple of the Dragon Queen
+Temur Ascendancy
+The Kami War // O-Kagachi Made Manifest
+Tiamat
+Urza's Incubator
+Utvara Hellkite
+Zurgo and Ojutai

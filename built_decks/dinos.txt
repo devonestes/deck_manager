@@ -1,100 +1,100 @@
-Wooded Foothills (PROXY)
-Wooded Bastion (PROXY)
-Windswept Heath (PROXY)
-Wayward Swordtooth (PROXY)
-Verdant Catacombs (PROXY)
-Urza's Saga (PROXY)
-Urza's Incubator (PROXY)
-Tithe (PROXY)
-The Skullspore Nexus (PROXY)
-The Great Henge (PROXY)
-Temple Garden (PROXY)
-Teferi's Protection (PROXY)
-Sundown Pass (PROXY)
-Stomping Ground (PROXY)
-Spire Garden (PROXY)
-Spectator Seating (PROXY)
-Scalding Tarn (PROXY)
-Sacred Foundry (PROXY)
-Rockfall Vale (PROXY)
-Roaming Throne (PROXY)
-Prismatic Vista (PROXY)
-Overgrown Farmland (PROXY)
-Misty Rainforest (PROXY)
-Mirari's Wake (PROXY)
-Marsh Flats (PROXY)
-Mana Crypt (PROXY)
-Mana Confluence (PROXY)
-Last March of the Ents (PROXY)
-Kogla and Yidaro (PROXY)
-Jetmir's Garden (PROXY)
-Heroic Intervention (PROXY)
-Flooded Strand (PROXY)
-Flawless Maneuver (PROXY)
-Fire-Lit Thicket (PROXY)
-Finale of Devastation (PROXY)
-Farseek (PROXY)
-Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
-Entish Restoration (PROXY)
-Doors of Durin (PROXY)
-Delighted Halfling (PROXY)
-Deflecting Swat (PROXY)
-Chandra's Ignition (PROXY)
-Cavern of Souls (PROXY)
-Bountiful Promenade (PROXY)
-Boseiju, Who Endures (PROXY)
-Bonehoard Dracosaur (PROXY)
-Bloodstained Mire (PROXY)
-Arid Mesa (PROXY)
-Ancient Tomb (PROXY)
 Akroma's Will (PROXY)
-Zacama, Primal Calamity
-Xenagos, God of Revels
-Wrathful Raptors
-Welcome to . . . // Jurassic Park
-Wakening Sun's Avatar
-Unclaimed Territory
-Trapjaw Tyrant
-Topiary Stomper
-Thrashing Brontodon
-Temple Altisaur
-Sunhome, Fortress of the Legion
-Sunfrill Imitator
-Sol Ring
-Secluded Courtyard
-Scion of Calamity
-Ripjaw Raptor
-Rhythm of the Wild
-Return of the Wildspeaker
-Regisaur Alpha
-Regal Behemoth
-Rampant Growth
-Quartzwood Crasher
-Polyraptor
-Plains
-Plains
-Pantlaza, Sun-Favored
-Palani's Hatcher
-Otepec Huntmaster
-Nature's Lore
-Mountain
-Mountain
-Marauding Raptor
-Invasion of Ikoria // Zilortha, Apex of Ikoria
-Hunting Velociraptor
-Hulking Raptor
-Ghalta, Stampede Tyrant
-Ghalta, Primal Hunger
-Ghalta and Mavren
-Forest
-Forest
-Forest
-Dinosaurs on a Spaceship
-Descendants' Path
-Defense of the Heart
-Curious Altisaur
-Cultivate
-Command Tower
-Carnage Tyrant
-Arcane Signet
+Ancient Tomb (PROXY)
+Arid Mesa (PROXY)
+Bloodstained Mire (PROXY)
+Bonehoard Dracosaur (PROXY)
+Boseiju, Who Endures (PROXY)
+Bountiful Promenade (PROXY)
+Cavern of Souls (PROXY)
+Chandra's Ignition (PROXY)
+Deflecting Swat (PROXY)
+Delighted Halfling (PROXY)
+Doors of Durin (PROXY)
+Entish Restoration (PROXY)
+Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
+Farseek (PROXY)
+Finale of Devastation (PROXY)
+Fire-Lit Thicket (PROXY)
+Flawless Maneuver (PROXY)
+Flooded Strand (PROXY)
+Heroic Intervention (PROXY)
+Jetmir's Garden (PROXY)
+Kogla and Yidaro (PROXY)
+Last March of the Ents (PROXY)
+Mana Confluence (PROXY)
+Mana Crypt (PROXY)
+Marsh Flats (PROXY)
+Mirari's Wake (PROXY)
+Misty Rainforest (PROXY)
+Overgrown Farmland (PROXY)
+Prismatic Vista (PROXY)
+Roaming Throne (PROXY)
+Rockfall Vale (PROXY)
+Sacred Foundry (PROXY)
+Scalding Tarn (PROXY)
+Spectator Seating (PROXY)
+Spire Garden (PROXY)
+Stomping Ground (PROXY)
+Sundown Pass (PROXY)
+Teferi's Protection (PROXY)
+Temple Garden (PROXY)
+The Great Henge (PROXY)
+The Skullspore Nexus (PROXY)
+Tithe (PROXY)
+Urza's Incubator (PROXY)
+Urza's Saga (PROXY)
+Verdant Catacombs (PROXY)
+Wayward Swordtooth (PROXY)
+Windswept Heath (PROXY)
+Wooded Bastion (PROXY)
+Wooded Foothills (PROXY)
 Gishath, Sun's Avatar
+Arcane Signet
+Carnage Tyrant
+Command Tower
+Cultivate
+Curious Altisaur
+Defense of the Heart
+Descendants' Path
+Dinosaurs on a Spaceship
+Forest
+Forest
+Forest
+Ghalta and Mavren
+Ghalta, Primal Hunger
+Ghalta, Stampede Tyrant
+Hulking Raptor
+Hunting Velociraptor
+Invasion of Ikoria // Zilortha, Apex of Ikoria
+Marauding Raptor
+Mountain
+Mountain
+Nature's Lore
+Otepec Huntmaster
+Palani's Hatcher
+Pantlaza, Sun-Favored
+Plains
+Plains
+Polyraptor
+Quartzwood Crasher
+Rampant Growth
+Regal Behemoth
+Regisaur Alpha
+Return of the Wildspeaker
+Rhythm of the Wild
+Ripjaw Raptor
+Scion of Calamity
+Secluded Courtyard
+Sol Ring
+Sunfrill Imitator
+Sunhome, Fortress of the Legion
+Temple Altisaur
+Thrashing Brontodon
+Topiary Stomper
+Trapjaw Tyrant
+Unclaimed Territory
+Wakening Sun's Avatar
+Welcome to . . . // Jurassic Park
+Wrathful Raptors
+Xenagos, God of Revels
+Zacama, Primal Calamity
