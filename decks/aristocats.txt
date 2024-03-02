@@ -50,6 +50,7 @@
 1 Phyrexian Tower (JMP) 493
 6 Plains (J22) 98
 1 Priest of Forgotten Gods (RVR) 90
+1 Promise of Aclazotz // Foul Rebirth (LCC) 84
 1 Putrid Goblin (MH1) 101
 1 Reanimate (TMP) 151
 1 Reassembling Skeleton (J22) 125
@@ -66,7 +67,7 @@
 1 Sol Ring (MOC) 381
 1 Spirited Companion (NEO) 38
 1 Stitcher's Supplier (J22) 472
-8 Swamp (J22) 106
+7 Swamp (J22) 106
 1 Swiftfoot Boots (BRC) 166
 1 Swords to Plowshares (MOC) 211
 1 Takenuma, Abandoned Mire (NEO) 416
