@@ -10,7 +10,6 @@ Luxury Suite (PROXY)
 Overgrown Tomb (PROXY)
 Skullclamp (PROXY)
 Stomping Ground (PROXY)
-Takenuma, Abandoned Mire (PROXY)
 Twilight Mire (PROXY)
 Undergrowth Stadium (PROXY)
 Urborg, Tomb of Yawgmoth (PROXY)
@@ -88,6 +87,7 @@ Sundial of the Infinite
 Swamp
 Swamp
 Swamp
+Takenuma, Abandoned Mire
 The Great Henge
 The Skullspore Nexus
 Toxic Deluge

@@ -12,7 +12,6 @@ Cyclonic Rift (PROXY)
 Delighted Halfling (PROXY)
 Deserted Beach (PROXY)
 Dreamroot Cascade (PROXY)
-Earthcraft (PROXY)
 Elven Chorus (PROXY)
 Esper Sentinel (PROXY)
 Faerie Mastermind (PROXY)
@@ -56,6 +55,7 @@ Bramble Sovereign
 Command Tower
 Cultivator of Blades
 Doubling Season
+Earthcraft
 Edric, Spymaster of Trest
 Faerie Artisans
 Felidar Retreat
