@@ -65,6 +65,7 @@
 1 Rogue's Passage (LCC) 349
 1 Seafloor Oracle (LCC) 170
 1 Secluded Courtyard (LCC) 350
+1 Sentinel of the Nameless City (LCI) 211
 1 Shamanic Revelation (NCC) 311
 1 Simic Growth Chamber (LCC) 352
 1 Singer of Swift Rivers (LCC) 98
@@ -75,7 +76,6 @@
 1 Swan Song (LTC) 197
 1 Tatyova, Benthic Druid (LCC) 290
 1 Thada Adel, Acquisitor (WWK) 40
-1 Thassa, God of the Sea (LCC) 176
 1 The Ozolith (LTC) 351
 1 Thieving Skydiver (LCC) 177
 1 Thrasios, Triton Hero (C16) 46

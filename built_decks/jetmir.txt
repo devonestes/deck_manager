@@ -1,7 +1,6 @@
 Jetmir, Nexus of Revels
 Adeline, Resplendent Cathar
 Anim Pakal, Thousandth Moon
-Arbor Elf
 Arid Mesa
 Aurelia, the Law Above
 Avacyn's Pilgrim
@@ -12,7 +11,6 @@ Bloom Tender
 Boseiju, Who Endures
 Bountiful Promenade
 Brimaz, King of Oreskos
-Captain Sisay
 Champion of Lambholt
 Charismatic Conqueror
 Chord of Calling
@@ -22,7 +20,6 @@ Collector Ouphe
 Combat Celebrant
 Command Tower
 Craterhoof Behemoth
-Deafening Silence
 Delighted Halfling
 Dockside Extortionist
 Doorkeeper Thrull
@@ -48,6 +45,7 @@ Horizon Canopy
 Hushbringer
 Hushwing Gryff
 Joven's Ferrets
+Kellan, Daring Traveler // Journey On
 Kutzil, Malamet Exemplar
 Legolas's Quick Reflexes
 Linvala, Keeper of Silence
@@ -61,6 +59,7 @@ Mountain
 Myrel, Shield of Argive
 Natural Order
 Ohran Frostfang
+Paladin Elizabeth Taggerdy
 Path to Exile
 Plains
 Plateau
@@ -72,6 +71,7 @@ Rhys the Redeemed
 Sacred Foundry
 Sanguine Evangelist
 Scalding Tarn
+Secure the Wastes
 Serra Ascendant
 Skullclamp
 Skyhunter Strike Force

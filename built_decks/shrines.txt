@@ -6,7 +6,6 @@ City of Brass (PROXY)
 Cyclonic Rift (PROXY)
 Deflecting Swat (PROXY)
 Demonic Tutor (PROXY)
-Dryad of the Ilysian Grove (PROXY)
 Enlightened Tutor (PROXY)
 Fierce Guardianship (PROXY)
 Forbidden Orchard (PROXY)
@@ -42,6 +41,7 @@ Command Tower
 Crop Rotation
 Cultivate
 Destiny Spinner
+Dryad of the Ilysian Grove
 Eidolon of Blossoms
 Enchantress's Presence
 Exotic Orchard

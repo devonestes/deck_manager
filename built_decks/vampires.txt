@@ -10,7 +10,6 @@ Ancient Tomb
 Anguished Unmaking
 Arcane Signet
 Ashnod's Altar
-Austere Command
 Battlefield Forge
 Beseech the Mirror
 Black Market Connections
@@ -37,6 +36,7 @@ Demonic Tutor
 Descendants' Fury
 Diabolic Intent
 Dictate of Erebos
+Dragonskull Summit
 Drana and Linvala
 Drana, Liberator of Malakir
 Dusk Legion Duelist
@@ -69,12 +69,12 @@ Preacher of the Schism
 Queen's Bay Paladin
 Redemption Choir
 Roaming Throne
+Ruinous Ultimatum
 Sanguine Bond
 Savai Triome
 Shattered Sanctum
 Skullclamp
 Sol Ring
-Sorin, Imperious Bloodlord
 Spectator Seating
 Stromkirk Captain
 Sulfurous Springs
@@ -86,7 +86,6 @@ Teferi's Protection
 The Meathook Massacre
 Treacherous Greed
 Twilight Prophet
-Unclaimed Territory
 Urborg, Tomb of Yawgmoth
 Urza's Saga
 Vampiric Tutor
@@ -98,3 +97,4 @@ Volrath's Stronghold
 Vraan, Executioner Thane
 Welcoming Vampire
 Wheel of Fortune
+Word of Command

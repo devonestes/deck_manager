@@ -12,6 +12,7 @@
 1 Blossoming Tortoise (WOE) 163
 1 Breeding Pool (UNF) 286
 1 Burgeoning (STH) 102
+1 Case of the Locked Hothouse (MKM) 155
 1 Command Tower (MOC) 396
 1 Conduit of Worlds (ONE) 163
 1 Coral Atoll (VIS) 160
@@ -22,7 +23,6 @@
 1 Cyclonic Rift (RTR) 35
 1 Delighted Halfling (LTR) 158
 1 Doppelgang (MKM) 198
-1 Dryad of the Ilysian Grove (THB) 169
 1 Elven Chorus (LTR) 160
 1 Entish Restoration (LTR) 163
 1 Exploration (CNS) 164

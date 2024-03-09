@@ -3,7 +3,6 @@
 1 Apex Altisaur (C19) 31
 1 Basilisk Collar (CLB) 300
 1 Beamtown Beatstick (MOM) 131
-1 Beast Within (ONC) 104
 1 Berserk (CN2) 175
 1 Birds of Paradise (4ED) 234
 1 Bitterthorn, Nissa's Animus (MOC) 45
@@ -11,6 +10,7 @@
 1 Blightsteel Colossus (MBS) 99
 1 Boseiju, Who Endures (NEO) 501
 1 Buried Ruin (BRC) 177
+1 Champion's Helm (PIP) 228
 1 Chandra's Ignition (LCC) 220
 1 Chaos Warp (BRC) 114
 1 Cinder Glade (DMC) 203
@@ -51,7 +51,7 @@
 1 Nettlecyst (MKC) 233
 1 Neurok Hoversail (MRD) 218
 1 Ornithopter (MRD) 224
-1 Rebel Salvo (ONE) 144
+1 Pip-Boy 3000 (PIP) 140
 1 Reckless Fireweaver (J22) 587
 1 Restless Ridgeline (LCI) 350
 1 Resurrection Orb (40K) 165
@@ -59,14 +59,15 @@
 1 Rishkar's Expertise (NEC) 127
 1 Rockfall Vale (MID) 266
 1 Rootbound Crag (SLD) 459
-1 Rope (MKM) 173
 1 Sarinth Steelseeker (BRO) 189
 1 Shadowspear (THB) 345
 1 Silkguard (NEC) 29
+1 Silver Shroud Costume (PIP) 142
 1 Slagwoods Bridge (MH2) 256
 1 Sol Ring (MOC) 381
 1 Spire Garden (ZNE) 19
 1 Stomping Ground (UNF) 280
+1 Strong Back (PIP) 83
 1 Swiftfoot Boots (BRC) 166
 1 Sword of Feast and Famine (2XM) 296
 1 Sword of Fire and Ice (2XM) 297
@@ -74,7 +75,6 @@
 1 Sword of the Animist (AFC) 218
 1 Sword of Vengeance (NEC) 164
 1 Tanuki Transplanter (NEC) 30
-1 Tenza, Godo's Maul (DMC) 193
 1 The Reaver Cleaver (DMC) 8
 1 Thran Power Suit (BRO) 253
 1 Thrun, Breaker of Silence (ONE) 186

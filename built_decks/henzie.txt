@@ -6,6 +6,7 @@ Boseiju, Who Endures (PROXY)
 Delighted Halfling (PROXY)
 Demonic Tutor (PROXY)
 Dockside Extortionist (PROXY)
+Dragonskull Summit (PROXY)
 Luxury Suite (PROXY)
 Overgrown Tomb (PROXY)
 Skullclamp (PROXY)
@@ -37,7 +38,6 @@ Command Tower
 Cultivate
 Deadly Rollick
 Doors of Durin
-Dragonskull Summit
 Entomb
 Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm

@@ -6,7 +6,6 @@
 1 Arcane Signet (MOC) 348
 1 Arid Mesa (MM3) 229
 1 Ashnod's Altar (5ED) 349
-1 Austere Command (LCC) 126
 1 Battlefield Forge (BRO) 257
 1 Beseech the Mirror (WOE) 336
 1 Black Market Connections (LCC) 181
@@ -35,6 +34,7 @@
 1 Descendants' Fury (CMM) 736
 1 Diabolic Intent (PLS) 42
 1 Dictate of Erebos (JOU) 65
+1 Dragonskull Summit (SLD) 458
 1 Drana and Linvala (PMOM) 222p
 1 Drana, Liberator of Malakir (LCC) 193
 1 Dusk Legion Duelist (MOM) 11
@@ -68,13 +68,13 @@
 1 Queen's Bay Paladin (LCI) 115
 1 Redemption Choir (LCC) 74
 1 Roaming Throne (LCI) 344
+1 Ruinous Ultimatum (PIP) 220
 1 Sacred Foundry (UNF) 285
 1 Sanguine Bond (LTC) 208
 1 Savai Triome (IKO) 312
 1 Shattered Sanctum (VOW) 283
 1 Skullclamp (DST) 140
 1 Sol Ring (MOC) 381
-1 Sorin, Imperious Bloodlord (M20) 115
 1 Spectator Seating (CMR) 711
 1 Stromkirk Captain (VOC) 157
 1 Sulfurous Springs (5ED) 424
@@ -86,7 +86,6 @@
 1 The Meathook Massacre (MID) 112
 1 Treacherous Greed (MKM) 237
 1 Twilight Prophet (RIX) 88
-1 Unclaimed Territory (LCC) 366
 1 Urborg, Tomb of Yawgmoth (TSR) 287
 1 Urza's Saga (MH2) 259
 1 Vampiric Tutor (VIS) 72
@@ -98,3 +97,4 @@
 1 Vraan, Executioner Thane (ONE) 114
 1 Welcoming Vampire (LCC) 140
 1 Wheel of Fortune (3ED) 185
+1 Word of Command (2ED) 137

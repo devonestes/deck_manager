@@ -31,6 +31,7 @@ Awaken the Woods
 Azusa, Lost but Seeking
 Breeding Pool
 Burgeoning
+Case of the Locked Hothouse
 Command Tower
 Conduit of Worlds
 Coral Atoll
@@ -38,7 +39,6 @@ Crucible of Worlds
 Cultivate
 Cultivator Colossus
 Doppelgang
-Dryad of the Ilysian Grove
 Entish Restoration
 Exploration
 Fabled Passage

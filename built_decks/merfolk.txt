@@ -82,6 +82,7 @@ Reliquary Tower
 Rogue's Passage
 Seafloor Oracle
 Secluded Courtyard
+Sentinel of the Nameless City
 Shamanic Revelation
 Simic Growth Chamber
 Singer of Swift Rivers
@@ -89,7 +90,6 @@ Stonybrook Banneret
 Svyelun of Sea and Sky
 Tatyova, Benthic Druid
 Thada Adel, Acquisitor
-Thassa, God of the Sea
 Thieving Skydiver
 Thrasios, Triton Hero
 Tishana's Tidebinder
