@@ -31,7 +31,6 @@
 1 Damn (LCC) 191
 1 Dark Ritual (3ED) 99
 1 Demonic Tutor (3ED) 105
-1 Descendants' Fury (CMM) 736
 1 Diabolic Intent (PLS) 42
 1 Dictate of Erebos (JOU) 65
 1 Dragonskull Summit (SLD) 458
@@ -41,6 +40,7 @@
 1 Edgar, Charmed Groom // Edgar Markov's Coffin (DBL) 503
 1 Elenda, the Dusk Rose (RIX) 157
 1 Enlightened Tutor (MIR) 14
+1 Everything Comes to Dust (WHO) 19
 1 Exquisite Blood (AVR) 102
 1 Fetid Heath (NCC) 401
 1 Florian, Voldaren Scion (MID) 223

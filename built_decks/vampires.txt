@@ -33,7 +33,6 @@ Cruel Celebrant
 Damn
 Dark Ritual
 Demonic Tutor
-Descendants' Fury
 Diabolic Intent
 Dictate of Erebos
 Dragonskull Summit
@@ -43,6 +42,7 @@ Dusk Legion Duelist
 Edgar, Charmed Groom // Edgar Markov's Coffin
 Elenda, the Dusk Rose
 Enlightened Tutor
+Everything Comes to Dust
 Exquisite Blood
 Fetid Heath
 Florian, Voldaren Scion

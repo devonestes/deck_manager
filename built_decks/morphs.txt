@@ -52,12 +52,11 @@ Morphic Pool
 Nantuko Vigilante
 Nature's Lore
 Nervous Gardener
-On the Trail
-Opulent Palace
 Otawara, Soaring City
 Overgrown Tomb
 Polluted Delta
 Printlifter Ooze
+Rampant Growth
 Rejuvenating Springs
 Reliquary Tower
 Rhystic Study
@@ -85,6 +84,7 @@ Twilight Mire
 Ugin's Mastery
 Underground River
 Undergrowth Stadium
+Vannifar, Evolved Enigma
 Vedalken Orrery
 Vesuvan Shapeshifter
 Voidmage Apprentice

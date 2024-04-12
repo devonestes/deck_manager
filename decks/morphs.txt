@@ -47,12 +47,11 @@
 1 Nantuko Vigilante (C19) 174
 1 Nature's Lore (DMR) 170
 1 Nervous Gardener (MKM) 169
-1 On the Trail (MKC) 39
-1 Opulent Palace (DMC) 223
 1 Otawara, Soaring City (NEO) 503
 1 Overgrown Tomb (UNF) 284
 1 Polluted Delta (KTK) 239
 1 Printlifter Ooze (MKC) 40
+1 Rampant Growth (M12) 190
 1 Rejuvenating Springs (LTC) 325
 1 Reliquary Tower (C19) 268
 1 Rhystic Study (J22) 114
@@ -80,6 +79,7 @@
 1 Underground River (BRO) 267
 1 Undergrowth Stadium (CMR) 714
 1 Vampiric Tutor (VIS) 72
+1 Vannifar, Evolved Enigma (MKM) 241
 1 Vedalken Orrery (CNS) 206
 1 Verdant Catacombs (MM3) 249
 1 Vesuvan Shapeshifter (C19) 101

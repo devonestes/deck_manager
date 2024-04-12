@@ -1,7 +1,6 @@
 Blasphemous Act (PROXY)
 Blood Crypt (PROXY)
 Bloodstained Mire (PROXY)
-Cascade Bluffs (PROXY)
 Deflecting Swat (PROXY)
 Demonic Tutor (PROXY)
 Dockside Extortionist (PROXY)
@@ -36,12 +35,12 @@ Baleful Strix
 Basalt Monolith
 Blightsteel Colossus
 Brudiclad, Telchor Engineer
+Cascade Bluffs
 Chaos Warp
 Chimil, the Inner Sun
 Cityscape Leveler
 Coldsteel Heart
 Command Tower
-Commander's Sphere
 Cursed Mirror
 Darksteel Citadel
 Darksteel Forge
@@ -58,6 +57,7 @@ Jhoira, Ageless Innovator
 Jhoira, Weatherlight Captain
 Kappa Cannoneer
 Karn, Legacy Reforged
+Knight Paladin
 Lightning Greaves
 Machine God's Effigy
 Magmatic Galleon

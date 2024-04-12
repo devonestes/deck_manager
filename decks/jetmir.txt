@@ -26,20 +26,18 @@
 1 Drannith Magistrate (IKO) 314
 1 Dryad Arbor (FUT) 174
 1 Eiganjo, Seat of the Empire (NEO) 413
-1 Elesh Norn, Grand Cenobite (NPH) 9
 1 Elvish Mystic (M15) 173
 1 Esper Sentinel (MH2) 12
 1 Exotic Orchard (MOC) 398
 1 Final Fortune (MIR) 173
-1 Finale of Devastation (WAR) 160
 1 Flooded Strand (KTK) 233
 1 Forbidden Orchard (C16) 296
 1 Forest (J22) 110
 1 Forth Eorlingas! (LTC) 56
 1 Fyndhorn Elves (ICE) 244
 1 Gemstone Caverns (TSP) 274
+1 Genasi Enforcers (CLB) 177
 1 Giver of Runes (MH1) 13
-1 Grand Abolisher (SLD) 1285
 1 Green Sun's Zenith (2X2) 150
 1 Horizon Canopy (LTC) 366
 1 Hushbringer (ELD) 18
@@ -70,6 +68,7 @@
 1 Rhys the Redeemed (SHM) 237
 1 Sacred Foundry (UNF) 285
 1 Sanguine Evangelist (LCI) 34
+1 Saryth, the Viper's Fang (MKC) 185
 1 Scalding Tarn (MM3) 244
 1 Secure the Wastes (PIP) 171
 1 Serra Ascendant (IMA) 31
@@ -97,4 +96,5 @@
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249
 1 Worldly Tutor (MIR) 255
+1 Wyrm's Crossing Patrol (CLB) 51
 1 Yavimaya, Cradle of Growth (MH2) 441

@@ -26,20 +26,18 @@ Doorkeeper Thrull
 Drannith Magistrate
 Dryad Arbor
 Eiganjo, Seat of the Empire
-Elesh Norn, Grand Cenobite
 Elvish Mystic
 Esper Sentinel
 Exotic Orchard
 Final Fortune
-Finale of Devastation
 Flooded Strand
 Forbidden Orchard
 Forest
 Forth Eorlingas!
 Fyndhorn Elves
 Gemstone Caverns
+Genasi Enforcers
 Giver of Runes
-Grand Abolisher
 Green Sun's Zenith
 Horizon Canopy
 Hushbringer
@@ -70,6 +68,7 @@ Recruiter of the Guard
 Rhys the Redeemed
 Sacred Foundry
 Sanguine Evangelist
+Saryth, the Viper's Fang
 Scalding Tarn
 Secure the Wastes
 Serra Ascendant
@@ -97,4 +96,5 @@ Wild Growth
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
+Wyrm's Crossing Patrol
 Yavimaya, Cradle of Growth

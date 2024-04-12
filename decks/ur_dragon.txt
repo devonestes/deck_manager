@@ -23,7 +23,7 @@
 1 Dragon Tempest (DTK) 136
 1 Dragon's Hoard (CLB) 858
 1 Dragonlord Dromoka (DTK) 217
-1 Dragonlord's Servant (IMA) 126
+1 Dragonlord's Servant (PL24) 1
 1 Dragonspeaker Shaman (J22) 525
 1 Exotic Orchard (MOC) 398
 1 Farseek (C19) 165

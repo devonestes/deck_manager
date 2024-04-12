@@ -6,7 +6,6 @@ Cavern of Souls (PROXY)
 Clever Concealment (PROXY)
 Combat Celebrant (PROXY)
 Conjurer's Mantle (PROXY)
-Elesh Norn, Grand Cenobite (PROXY)
 Esper Sentinel (PROXY)
 Flooded Strand (PROXY)
 Forth Eorlingas! (PROXY)
@@ -45,6 +44,7 @@ Court of Vantress
 Cyclonic Rift
 Deserted Beach
 Dolmen Gate
+Elesh Norn, Grand Cenobite
 Éomer, King of Rohan
 Faerie Mastermind
 Faramir, Prince of Ithilien

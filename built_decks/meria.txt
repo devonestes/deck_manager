@@ -16,7 +16,6 @@ Mithril Coat (PROXY)
 Resurrection Orb (PROXY)
 Rockfall Vale (PROXY)
 Shadowspear (PROXY)
-Sol Ring (PROXY)
 Spire Garden (PROXY)
 Stomping Ground (PROXY)
 Ulamog, the Infinite Gyre (PROXY)
@@ -81,6 +80,7 @@ Sarinth Steelseeker
 Silkguard
 Silver Shroud Costume
 Slagwoods Bridge
+Sol Ring
 Strong Back
 Swiftfoot Boots
 Sword of Feast and Famine

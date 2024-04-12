@@ -5,12 +5,10 @@ Cyclonic Rift (PROXY)
 Delighted Halfling (PROXY)
 Elven Chorus (PROXY)
 Fierce Guardianship (PROXY)
-Finale of Devastation (PROXY)
 Flooded Grove (PROXY)
 Heroic Intervention (PROXY)
 Misty Rainforest (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
-On the Trail (PROXY)
 Otawara, Soaring City (PROXY)
 Rejuvenating Springs (PROXY)
 Rhystic Study (PROXY)
@@ -43,6 +41,7 @@ Entish Restoration
 Exploration
 Fabled Passage
 Field of the Dead
+Finale of Devastation
 Forest
 Forest
 Forest
@@ -67,6 +66,7 @@ Nissa, Resurgent Animist
 Nissa, Steward of Elements
 Nyxbloom Ancient
 Oboro, Palace in the Clouds
+On the Trail
 Oracle of Mul Daya
 Overburden
 Palinchron

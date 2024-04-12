@@ -16,7 +16,6 @@
 1 Cityscape Leveler (BRO) 363
 1 Coldsteel Heart (2X2) 301
 1 Command Tower (BRC) 178
-1 Commander's Sphere (MOC) 352
 1 Cursed Mirror (BRC) 115
 1 Darksteel Citadel (DST) 164
 1 Darksteel Forge (M14) 206
@@ -37,6 +36,7 @@
 1 Jhoira, Weatherlight Captain (BRC) 126
 1 Kappa Cannoneer (NEC) 14
 1 Karn, Legacy Reforged (MAT) 184
+1 Knight Paladin (40K) 160
 1 Liberator, Urza's Battlethopter (BRO) 237
 1 Lightning Greaves (LTC) 281
 1 Luxury Suite (ZNE) 18

@@ -24,7 +24,6 @@ Heroic Intervention (PROXY)
 Hinterland Harbor (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
-Natural Order (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Otawara, Soaring City (PROXY)
 Overgrown Farmland (PROXY)
@@ -34,7 +33,6 @@ Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Sea of Clouds (PROXY)
 Sol Ring (PROXY)
 Spara's Headquarters (PROXY)
-Swan Song (PROXY)
 Teferi's Protection (PROXY)
 Temple Garden (PROXY)
 Tendershoot Dryad (PROXY)
@@ -52,6 +50,7 @@ Arwen, Weaver of Hope
 Beast Whisperer
 Bennie Bracks, Zoologist
 Bramble Sovereign
+Cauldron of Souls
 Command Tower
 Cultivator of Blades
 Doubling Season
@@ -89,6 +88,7 @@ Overwhelming Stampede
 Plains
 Plains
 Plains
+Ripples of Potential
 Rumor Gatherer
 Sakashima of a Thousand Faces
 Staff of Compleation

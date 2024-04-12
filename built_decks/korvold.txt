@@ -13,7 +13,6 @@ Blood Crypt (PROXY)
 Bloodstained Mire (PROXY)
 Boseiju, Who Endures (PROXY)
 Case of the Stashed Skeleton (PROXY)
-Command Tower (PROXY)
 Crop Rotation (PROXY)
 Crucible of Worlds (PROXY)
 Deadly Dispute (PROXY)
@@ -73,6 +72,7 @@ Bayou
 Black Market Connections
 Black Sun's Twilight
 Chatterfang, Squirrel General
+Command Tower
 Corpse Dance
 Culling the Weak
 Damnation
