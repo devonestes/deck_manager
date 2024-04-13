@@ -40,8 +40,10 @@ Bitterblossom
 Blade of the Bloodchief
 Blood Artist
 Brightclimb Pathway // Grimclimb Pathway
+Case of the Stashed Skeleton
 Castle Ardenvale
 Castle Locthwain
+Caustic Bronco
 Command Tower
 Corpse Knight
 Dance of the Dead
@@ -67,14 +69,13 @@ Plains
 Plains
 Plains
 Priest of Forgotten Gods
-Promise of Aclazotz // Foul Rebirth
 Putrid Goblin
 Reanimate
-Reassembling Skeleton
 Restoration Specialist
 Rogue's Passage
 Selfless Savior
 Selfless Spirit
+Servant of the Stinger
 Sevinne's Reclamation
 Silent Clearing
 Snuff Out
@@ -93,7 +94,6 @@ Swords to Plowshares
 Transmogrant's Crown
 Triarch Praetorian
 Urza's Bauble
-Vat of Rebirth
 Village Rites
 Viscera Seer
 Westfold Rider

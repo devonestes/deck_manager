@@ -45,7 +45,7 @@
 1 Otawara, Soaring City (NEO) 271
 1 Paragon of Gathering Mists (M15) 73
 1 Phyrexian Metamorph (2XM) 341
-1 Propaganda (C20) 123
+1 Propaganda (OTC) 108
 1 Psychosis Crawler (MKC) 234
 1 Reliquary Tower (BRC) 196
 1 Rhystic Study (J22) 114

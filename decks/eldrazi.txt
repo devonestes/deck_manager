@@ -15,6 +15,7 @@
 1 Calamity of the Titans (CMM) 713
 1 Cavern of Souls (AVR) 226
 1 Commander's Plate (CMR) 692
+1 Conduit Pylons (OTJ) 254
 1 Crystal Vein (MIR) 325
 1 Darksteel Citadel (MM2) 238
 1 Darksteel Monolith (CMM) 743
@@ -90,7 +91,7 @@
 1 War Room (WHO) 330
 1 Warping Wail (CMM) 812
 3 Wastes (CMM) 1056
-3 Wastes (CMM) 1055
+2 Wastes (CMM) 1055
 1 Wondrous Crucible (BRC) 20
 1 Worn Powerstone (LTC) 293
 1 Zhalfirin Void (AFC) 273

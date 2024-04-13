@@ -24,6 +24,7 @@ Heroic Intervention (PROXY)
 Hinterland Harbor (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
+Natural Order (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Otawara, Soaring City (PROXY)
 Overgrown Farmland (PROXY)
@@ -88,7 +89,6 @@ Overwhelming Stampede
 Plains
 Plains
 Plains
-Ripples of Potential
 Rumor Gatherer
 Sakashima of a Thousand Faces
 Staff of Compleation

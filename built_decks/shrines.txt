@@ -2,6 +2,7 @@ Birds of Paradise (PROXY)
 Bloom Tender (PROXY)
 Bountiful Promenade (PROXY)
 Breeding Pool (PROXY)
+Case of the Stashed Skeleton (PROXY)
 City of Brass (PROXY)
 Cyclonic Rift (PROXY)
 Deflecting Swat (PROXY)
@@ -36,7 +37,6 @@ Argothian Enchantress
 Atraxa, Grand Unifier
 Brushland
 Cacophony Unleashed
-Case of the Stashed Skeleton
 Command Tower
 Crop Rotation
 Cultivate

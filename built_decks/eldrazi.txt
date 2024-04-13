@@ -25,6 +25,7 @@ Breaker of Armies
 Buried Ruin
 Burnished Hart
 Calamity of the Titans
+Conduit Pylons
 Crystal Vein
 Darksteel Citadel
 Darksteel Monolith
@@ -90,7 +91,6 @@ Urza's Workshop
 Void Winnower
 War Room
 Warping Wail
-Wastes
 Wastes
 Wastes
 Wastes

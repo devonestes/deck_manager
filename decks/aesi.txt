@@ -34,7 +34,6 @@
 4 Forest (J22) 110
 1 Green Sun's Twilight (ONE) 169
 1 Greensleeves, Maro-Sorcerer (DMC) 77
-1 Growth Spiral (CMR) 446
 1 Halimar Depths (C18) 253
 1 Heroic Intervention (LTC) 249
 1 Hinterland Harbor (LTC) 317
@@ -53,6 +52,7 @@
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Nyxbloom Ancient (THB) 190
 1 Oboro, Palace in the Clouds (LTC) 371
+1 Omenpath Journey (BIG) 18
 1 On the Trail (MKC) 39
 1 Oracle of Mul Daya (JMP) 415
 1 Otawara, Soaring City (NEO) 503

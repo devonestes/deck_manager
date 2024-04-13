@@ -17,10 +17,11 @@ defmodule DeckManager do
     {"slivers", "G69IYzuFrkKvwQMumlgJog", "0c02b3ee-7672-4446-8178-b1fe4005a0ae"},
     {"meria", "Bu_ZwfjumUuFD1KuH2_FqQ", "40faed00-3b8a-4fbc-a711-aa8f753f1ab0"},
     {"bant_tokens", "1CtjbDS54kOSqeGlg2t22Q", "ff27a0e1-a95e-4d84-951e-a491ab20f1e4"},
+    {"izzet_spells", "HDyCBqmROkW0McecXAyHlQ", "87941965-d7b5-4e8b-996c-438ad40c6933"},
+    {"mono_blue_aggro", "v9iSDv4nO0im3LQ2sgpm0g", "3c6ed9e8-51d7-449e-be16-dbed52c101d8"},
     {"korvold", "z3o8vEq1lEm0sk7cGP9_9g", "74060e7a-59a6-4e84-877f-9ff761c4237b"},
     {"x_spells", "i1LRiXwbGEy1FC6weByOdQ", "f9c228f7-a0fa-4043-ab01-6505e1218c64"},
     {"merfolk", "ekHtx3vytky4yfEHOIpi2A", "0e516b67-5914-40fe-8bc3-31aaf4d63b73"},
-    {"mono_blue_aggro", "v9iSDv4nO0im3LQ2sgpm0g", "3c6ed9e8-51d7-449e-be16-dbed52c101d8"}
     #{"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
     #{"mw_control", "j8XE7zIQ70O5vRXmD5Ua3g", "bcad72f6-57ea-474d-aef7-a19a9f74931f"},
     #{"mirko", "yYJUeFoCNEaoTg8kBQgt6w", "cfcdd050-f39b-4302-8689-5b244bb2ddfd"},

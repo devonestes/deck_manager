@@ -59,6 +59,7 @@
 1 Mondrak, Glory Dominus (ONE) 23
 1 Mystic Remora (ICE) 87
 1 Nadir Kraken (NCC) 228
+1 Natural Order (VIS) 114
 1 Noble Hierarch (2XM) 177
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Ohran Frostfang (SLD) 237
@@ -68,7 +69,6 @@
 3 Plains (J22) 98
 1 Rejuvenating Springs (LTC) 325
 1 Rhystic Study (J22) 114
-1 Ripples of Potential (LCC) 77
 1 Rumor Gatherer (SNC) 29
 1 Sakashima of a Thousand Faces (CMR) 89
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333

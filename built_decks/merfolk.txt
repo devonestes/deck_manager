@@ -1,5 +1,7 @@
 Alchemist's Refuge (PROXY)
 Ancient Tomb (PROXY)
+Arcane Signet (PROXY)
+Bident of Thassa (PROXY)
 Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
 Burgeoning (PROXY)
@@ -21,6 +23,7 @@ Inspiring Call (PROXY)
 Karn's Bastion (PROXY)
 Kindred Discovery (PROXY)
 Lightning Greaves (PROXY)
+Lórien Revealed (PROXY)
 Misty Rainforest (PROXY)
 Novijen, Heart of Progress (PROXY)
 Otawara, Soaring City (PROXY)
@@ -32,15 +35,14 @@ Roaming Throne (PROXY)
 Sol Ring (PROXY)
 Staff of Compleation (PROXY)
 Swan Song (PROXY)
+Thada Adel, Acquisitor (PROXY)
 The Ozolith (PROXY)
 Wave Goodbye (PROXY)
 Worldly Tutor (PROXY)
 Hakbal of the Surging Soul
 Aetherize
 Alandra, Sky Dreamer
-Arcane Signet
 Beast Within
-Bident of Thassa
 Branching Evolution
 Cold-Eyed Selkie
 Deeproot Historian
@@ -66,7 +68,6 @@ Island
 Island
 Kumena, Tyrant of Orazca
 Lord of Atlantis
-Lórien Revealed
 Master of the Pearl Trident
 Merfolk Cave-Diver
 Merfolk Sovereign
@@ -89,7 +90,6 @@ Singer of Swift Rivers
 Stonybrook Banneret
 Svyelun of Sea and Sky
 Tatyova, Benthic Druid
-Thada Adel, Acquisitor
 Thieving Skydiver
 Thrasios, Triton Hero
 Tishana's Tidebinder

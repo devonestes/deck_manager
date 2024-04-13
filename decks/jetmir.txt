@@ -57,6 +57,7 @@
 1 Myrel, Shield of Argive (BRO) 305
 1 Natural Order (VIS) 114
 1 Ohran Frostfang (SLD) 237
+1 Oltec Matterweaver (PW24) 12
 1 Paladin Elizabeth Taggerdy (PIP) 114
 1 Path to Exile (MOC) 198
 1 Plains (J22) 98
@@ -90,7 +91,6 @@
 1 Utopia Sprawl (RVR) 159
 1 Varchild's War-Riders (ALL) 83
 1 Verdant Catacombs (MM3) 249
-1 Vryn Wingmare (PLST) M21-43
 1 Weathered Wayfarer (LTC) 183
 1 Wild Growth (DMR) 184
 1 Windswept Heath (KTK) 248

@@ -48,7 +48,6 @@ Forest
 Forest
 Green Sun's Twilight
 Greensleeves, Maro-Sorcerer
-Growth Spiral
 Halimar Depths
 Hinterland Harbor
 Hydroid Krasis
@@ -66,6 +65,7 @@ Nissa, Resurgent Animist
 Nissa, Steward of Elements
 Nyxbloom Ancient
 Oboro, Palace in the Clouds
+Omenpath Journey
 On the Trail
 Oracle of Mul Daya
 Overburden

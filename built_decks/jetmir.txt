@@ -57,6 +57,7 @@ Mountain
 Myrel, Shield of Argive
 Natural Order
 Ohran Frostfang
+Oltec Matterweaver
 Paladin Elizabeth Taggerdy
 Path to Exile
 Plains
@@ -90,7 +91,6 @@ Toski, Bearer of Secrets
 Utopia Sprawl
 Varchild's War-Riders
 Verdant Catacombs
-Vryn Wingmare
 Weathered Wayfarer
 Wild Growth
 Windswept Heath

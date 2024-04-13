@@ -13,6 +13,7 @@ Blood Crypt (PROXY)
 Bloodstained Mire (PROXY)
 Boseiju, Who Endures (PROXY)
 Case of the Stashed Skeleton (PROXY)
+Command Tower (PROXY)
 Crop Rotation (PROXY)
 Crucible of Worlds (PROXY)
 Deadly Dispute (PROXY)
@@ -42,8 +43,6 @@ Phyrexian Tower (PROXY)
 Polluted Delta (PROXY)
 Professional Face-Breaker (PROXY)
 Ragavan, Nimble Pilferer (PROXY)
-Reanimate (PROXY)
-Reassembling Skeleton (PROXY)
 Rhythm of the Wild (PROXY)
 Scalding Tarn (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
@@ -72,7 +71,6 @@ Bayou
 Black Market Connections
 Black Sun's Twilight
 Chatterfang, Squirrel General
-Command Tower
 Corpse Dance
 Culling the Weak
 Damnation
@@ -92,6 +90,8 @@ Opposition Agent
 Orcish Lumberjack
 Phyrexian Altar
 Pitiless Plunderer
+Reanimate
+Reassembling Skeleton
 Reliquary Tower
 Shallow Grave
 Squandered Resources

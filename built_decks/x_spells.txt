@@ -1,5 +1,6 @@
 Ancient Tomb (PROXY)
 Awaken the Woods (PROXY)
+Blue Sun's Twilight (PROXY)
 Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
 Cascade Bluffs (PROXY)
@@ -22,7 +23,6 @@ Misty Rainforest (PROXY)
 Otawara, Soaring City (PROXY)
 Rejuvenating Springs (PROXY)
 Rhystic Study (PROXY)
-Ripples of Potential (PROXY)
 Rockfall Vale (PROXY)
 Scalding Tarn (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
@@ -48,7 +48,6 @@ All Will Be One
 Animist's Awakening
 Arcane Signet
 Benevolent Hydra
-Blue Sun's Twilight
 Branching Evolution
 Bred for the Hunt
 Broodlord
@@ -83,6 +82,7 @@ Primordial Hydra
 Pull from Tomorrow
 Rampant Growth
 Ravener
+Ripples of Potential
 Runadi, Behemoth Caller
 Simic Growth Chamber
 Steelbane Hydra
