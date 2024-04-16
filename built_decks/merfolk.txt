@@ -1,6 +1,5 @@
 Alchemist's Refuge (PROXY)
 Ancient Tomb (PROXY)
-Arcane Signet (PROXY)
 Bident of Thassa (PROXY)
 Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
@@ -42,6 +41,7 @@ Worldly Tutor (PROXY)
 Hakbal of the Surging Soul
 Aetherize
 Alandra, Sky Dreamer
+Arcane Signet
 Beast Within
 Branching Evolution
 Cold-Eyed Selkie

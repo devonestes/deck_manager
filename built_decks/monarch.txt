@@ -20,7 +20,6 @@ Scalding Tarn (PROXY)
 Serra Ascendant (PROXY)
 Spectator Seating (PROXY)
 Sundown Pass (PROXY)
-Swan Song (PROXY)
 Weathered Wayfarer (PROXY)
 Aragorn, King of Gondor
 Adarkar Wastes
@@ -87,6 +86,7 @@ Smothering Tithe
 Sol Ring
 Steam Vents
 Stormcarved Coast
+Swan Song
 Swords to Plowshares
 Talisman of Conviction
 Talisman of Creativity

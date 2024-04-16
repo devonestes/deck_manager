@@ -1,6 +1,7 @@
 1 Sun Quan, Lord of Wu (CMM) 123
 1 Ancient Silver Dragon (CLB) 366
-1 Arcane Signet (MOC) 348
+1 Apprentice Wizard (4ED) 61
+1 Arcane Heist (OTC) 13
 1 Bident of Thassa (LCC) 146
 1 Blightsteel Colossus (MBS) 99
 1 Blue Sun's Twilight (ONE) 379
@@ -21,8 +22,9 @@
 1 Grazilaxx, Illithid Scholar (CLB) 723
 1 Halimar Depths (C18) 253
 1 High Tide (FEM) 18c
+1 Horn of the Mark (LTR) 241
 1 Horned Loch-Whale // Lagoon Breach (WOE) 53
-25 Island (J22) 101
+23 Island (J22) 101
 1 Jeweled Lotus (CMR) 319
 1 Kefnet's Monument (AKH) 231
 1 Kukemssa Pirates (MIR) 71
@@ -38,7 +40,6 @@
 1 Mischievous Catgeist // Catlike Curiosity (VOW) 69
 1 Myriad Landscape (MOC) 416
 1 Mystic Remora (ICE) 87
-1 Mystic Sanctuary (ELD) 247
 1 Nadir Kraken (NCC) 228
 1 Neurok Commando (MBS) 28
 1 Nykthos, Shrine to Nyx (THS) 223
@@ -53,6 +54,7 @@
 1 Schema Thief (MOC) 24
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Sol Ring (MOC) 381
+1 Soldevi Excavations (ALL) 143
 1 Soulknife Spy (AFR) 75
 1 Spark Double (RVR) 319
 1 Stealer of Secrets (DDM) 11
@@ -73,4 +75,4 @@
 1 Time Warp (STA) 22
 1 Treachery (UDS) 50
 1 Vanguard Suppressor (40K) 27
-1 Windfall (LCC) 180
+1 War Room (WHO) 330

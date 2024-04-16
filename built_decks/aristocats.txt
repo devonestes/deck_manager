@@ -34,7 +34,6 @@ Vraan, Executioner Thane (PROXY)
 Weathered Wayfarer (PROXY)
 Bartolomé del Presidio
 Animate Dead
-Arcane Signet
 Benalish Sleeper
 Bitterblossom
 Blade of the Bloodchief
@@ -51,6 +50,7 @@ Dark Confidant
 Deadly Dispute
 Dross Skullbomb
 Dusk // Dawn
+Dust Animus
 Elas il-Kor, Sadistic Pilgrim
 Fanatical Offering
 Greedy Freebooter

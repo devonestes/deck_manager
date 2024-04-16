@@ -24,7 +24,9 @@ Sword of the Animist (PROXY)
 Teferi's Ageless Insight (PROXY)
 The One Ring (PROXY)
 Time Warp (PROXY)
-Arcane Signet
+War Room (PROXY)
+Apprentice Wizard
+Arcane Heist
 Bident of Thassa
 Blue Sun's Twilight
 Brainstorm
@@ -35,9 +37,8 @@ Chasm Skulker
 Curiosity
 Defiler of Dreams
 High Tide
+Horn of the Mark
 Horned Loch-Whale // Lagoon Breach
-Island
-Island
 Island
 Island
 Island
@@ -73,7 +74,6 @@ Mind Stone
 Mischievous Catgeist // Catlike Curiosity
 Myriad Landscape
 Mystic Remora
-Mystic Sanctuary
 Nadir Kraken
 Neurok Commando
 Paragon of Gathering Mists
@@ -83,6 +83,7 @@ Psychosis Crawler
 Reliquary Tower
 Sapphire Medallion
 Schema Thief
+Soldevi Excavations
 Soulknife Spy
 Spark Double
 Stealer of Secrets
@@ -97,4 +98,3 @@ Thought Vessel
 Throne of Eldraine
 Treachery
 Vanguard Suppressor
-Windfall

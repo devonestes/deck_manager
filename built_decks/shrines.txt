@@ -29,6 +29,7 @@ Tithe (PROXY)
 Vampiric Tutor (PROXY)
 Verdant Catacombs (PROXY)
 Watery Grave (PROXY)
+Windswept Heath (PROXY)
 Wooded Foothills (PROXY)
 Zagoth Triome (PROXY)
 Ziatora's Proving Ground (PROXY)
@@ -95,6 +96,5 @@ Sythis, Harvest's Hand
 Temple Garden
 The World Tree
 Verduran Enchantress
-Windswept Heath
 Wooded Bastion
 Zur the Enchanter

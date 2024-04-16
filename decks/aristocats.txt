@@ -3,7 +3,6 @@
 1 Ancient Tomb (TMP) 315
 1 Anguished Unmaking (SLD) 138
 1 Animate Dead (3ED) 93
-1 Arcane Signet (MOC) 348
 1 Benalish Sleeper (DMU) 8
 1 Bitterblossom (MOR) 58
 1 Blade of the Bloodchief (LCC) 300
@@ -28,6 +27,7 @@
 1 Demonic Tutor (3ED) 105
 1 Dross Skullbomb (ONE) 225
 1 Dusk // Dawn (PLST) CLB-691
+1 Dust Animus (OTJ) 9
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
 1 Esper Sentinel (MH2) 12

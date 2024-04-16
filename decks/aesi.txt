@@ -10,6 +10,7 @@
 1 Awaken the Woods (BRO) 344
 1 Azusa, Lost but Seeking (A25) 161
 1 Blossoming Tortoise (WOE) 163
+1 Bonny Pall, Clearcutter (OTJ) 196
 1 Breeding Pool (UNF) 286
 1 Burgeoning (STH) 102
 1 Case of the Locked Hothouse (MKM) 155
@@ -23,14 +24,13 @@
 1 Cyclonic Rift (RTR) 35
 1 Delighted Halfling (LTR) 158
 1 Doppelgang (MKM) 198
-1 Elven Chorus (LTR) 160
 1 Entish Restoration (LTR) 163
 1 Exploration (CNS) 164
 1 Fabled Passage (ELD) 244
 1 Field of the Dead (M20) 247
 1 Fierce Guardianship (C20) 35
 1 Finale of Devastation (WAR) 160
-1 Flooded Grove (LTC) 309
+1 Flooded Strand (KTK) 233
 4 Forest (J22) 110
 1 Green Sun's Twilight (ONE) 169
 1 Greensleeves, Maro-Sorcerer (DMC) 77
@@ -65,7 +65,9 @@
 1 Retreat to Coralhelm (BFZ) 82
 1 Rhystic Study (J22) 114
 1 Roil Elemental (ZEN) 62
+1 Scalding Tarn (MM3) 244
 1 Scapeshift (M19) 201
+1 Scute Swarm (OTC) 205
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Simic Growth Chamber (CM2) 267
 1 Skyshroud Claim (CMM) 321
@@ -77,7 +79,6 @@
 1 Swan Song (LTC) 197
 1 Tatyova, Benthic Druid (DMR) 203
 1 Tatyova, Steward of Tides (DMU) 222
-1 Temple of Mystery (M20) 255
 1 Thawing Glaciers (ALL) 144
 1 Thespian's Stage (C19) 282
 1 Tireless Provisioner (MH2) 180
@@ -86,10 +87,9 @@
 1 Uro, Titan of Nature's Wrath (THB) 229
 1 Urza's Saga (MH2) 259
 1 Vorinclex // The Grand Evolution (MOM) 213
-1 Vorinclex, Monstrous Raider (KHM) 333
 1 Vorinclex, Voice of Hunger (IMA) 189
 1 Waterlogged Grove (MH1) 249
 1 Wayward Swordtooth (LCC) 263
-1 Winding Canyons (WTH) 167
+1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249
 1 Yavimaya Hollow (UDS) 143

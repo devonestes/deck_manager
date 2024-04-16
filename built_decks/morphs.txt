@@ -52,6 +52,7 @@ Morphic Pool
 Nantuko Vigilante
 Nature's Lore
 Nervous Gardener
+Orochi Soul-Reaver
 Otawara, Soaring City
 Overgrown Tomb
 Polluted Delta
@@ -71,7 +72,6 @@ Stratus Dancer
 Sunken Ruins
 Swamp
 Swamp
-Swan Song
 Teferi, Mage of Zhalfir
 Teferi's Ageless Insight
 Temur Sabertooth

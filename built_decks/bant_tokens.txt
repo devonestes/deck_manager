@@ -12,10 +12,12 @@ Cyclonic Rift (PROXY)
 Delighted Halfling (PROXY)
 Deserted Beach (PROXY)
 Dreamroot Cascade (PROXY)
+Dryad Arbor (PROXY)
 Elven Chorus (PROXY)
 Esper Sentinel (PROXY)
 Faerie Mastermind (PROXY)
 Fierce Guardianship (PROXY)
+Flooded Grove (PROXY)
 Flooded Strand (PROXY)
 Glacial Fortress (PROXY)
 Gruff Triplets (PROXY)
@@ -26,10 +28,12 @@ Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
 Natural Order (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
+Oltec Matterweaver (PROXY)
 Otawara, Soaring City (PROXY)
 Overgrown Farmland (PROXY)
 Rejuvenating Springs (PROXY)
 Rhystic Study (PROXY)
+Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Sea of Clouds (PROXY)
 Sol Ring (PROXY)
@@ -62,11 +66,9 @@ Felidar Retreat
 Forest
 Forest
 Forest
-Forest
 Gala Greeters
 Galadhrim Ambush
 Glen Elendra Archmage
-Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
 Gyre Sage
 Herald of Secret Streams
 Herd Baloth
@@ -75,10 +77,8 @@ Incubation Druid
 Inspiring Call
 Island
 Island
-Island
 Kami of Whispered Hopes
 Karn's Bastion
-Kodama of the West Tree
 Master Biomancer
 Mondrak, Glory Dominus
 Mystic Remora
@@ -89,7 +89,7 @@ Overwhelming Stampede
 Plains
 Plains
 Plains
-Rumor Gatherer
+Ripples of Potential
 Sakashima of a Thousand Faces
 Staff of Compleation
 The Ozolith

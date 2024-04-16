@@ -32,7 +32,6 @@ Up the Beanstalk (PROXY)
 Uro, Titan of Nature's Wrath (PROXY)
 Urza's Saga (PROXY)
 Vorinclex // The Grand Evolution (PROXY)
-Vorinclex, Monstrous Raider (PROXY)
 Wooded Foothills (PROXY)
 Wurmcoil Engine (PROXY)
 Maelstrom Wanderer
@@ -97,4 +96,5 @@ Three Visits
 Time Spiral
 Turntimber Symbiosis // Turntimber, Serpentine Wood
 Vastwood Surge
+Vorinclex, Monstrous Raider
 Yavimaya Coast

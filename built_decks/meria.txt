@@ -23,7 +23,6 @@ Urza's Saga (PROXY)
 Wooded Foothills (PROXY)
 Yavimaya, Cradle of Growth (PROXY)
 Meria, Scholar of Antiquity
-Academy Manufactor
 Apex Altisaur
 Basilisk Collar
 Beamtown Beatstick
@@ -76,6 +75,7 @@ Restless Ridgeline
 Return of the Wildspeaker
 Rishkar's Expertise
 Rootbound Crag
+Sarinth Greatwurm
 Sarinth Steelseeker
 Silkguard
 Silver Shroud Costume

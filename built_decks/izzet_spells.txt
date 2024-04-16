@@ -4,6 +4,7 @@ Deflecting Swat (PROXY)
 Fierce Guardianship (PROXY)
 Jeska's Will (PROXY)
 Mana Drain (PROXY)
+Ojer Axonil, Deepest Might // Temple of Power (PROXY)
 Otawara, Soaring City (PROXY)
 Reckless Impulse (PROXY)
 Rhystic Study (PROXY)
@@ -12,6 +13,7 @@ Scalding Tarn (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
 Sol Ring (PROXY)
+Solphim, Mayhem Dominus (PROXY)
 Steam Vents (PROXY)
 Stormcarved Coast (PROXY)
 Training Center (PROXY)
@@ -51,8 +53,6 @@ Island
 Island
 Island
 Island
-Island
-Isochron Scepter
 Lightning Bolt
 Lórien Revealed
 Mana Geyser
@@ -66,6 +66,7 @@ Mountain
 Mountain
 Mountain
 Mystic Remora
+Mystic Sanctuary
 Niv-Mizzet, Parun
 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time
 Opt
@@ -73,18 +74,16 @@ Ponder
 Pongify
 Preordain
 Prisoner's Dilemma
-Pyretic Charge
 Reliquary Tower
 Restless Spire
+Rousing Refrain
 Seething Song
 Serum Visions
 Shadow Rift
-Shark Typhoon
 Shivan Reef
 Snap
 Snapcaster Mage
 Soldevi Excavations
-Spellseeker
 Storm-Kiln Artist
 Sulfur Falls
 Teferi's Ageless Insight
@@ -93,8 +92,9 @@ The One Ring
 Thunderclap Drake
 Time Warp
 Treasure Cruise
+Twisted Fealty
+Twitch
 Urabrask // The Great Work
 Vandalblast
 Veyran, Voice of Duality
 Volcanic Island
-Windfall

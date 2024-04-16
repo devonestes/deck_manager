@@ -47,6 +47,7 @@
 1 Nantuko Vigilante (C19) 174
 1 Nature's Lore (DMR) 170
 1 Nervous Gardener (MKM) 169
+1 Orochi Soul-Reaver (OTC) 22
 1 Otawara, Soaring City (NEO) 503
 1 Overgrown Tomb (UNF) 284
 1 Polluted Delta (KTK) 239
@@ -65,7 +66,6 @@
 1 Stratus Dancer (C19) 96
 1 Sunken Ruins (SHM) 280
 2 Swamp (MOM) 279
-1 Swan Song (LTC) 197
 1 Teferi, Mage of Zhalfir (IMA) 75
 1 Teferi's Ageless Insight (M21) 76
 1 Temur Sabertooth (NCC) 315
