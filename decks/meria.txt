@@ -29,7 +29,6 @@
 6 Forest (J22) 110
 1 Foundry Inspector (BRR) 79
 1 Game Trail (LCC) 334
-1 Glowcap Lantern (LCI) 187
 1 Great Furnace (BRC) 187
 1 Gruul Turf (C20) 279
 1 Hammer of Nazahn (C17) 51
@@ -42,6 +41,7 @@
 1 Kessig Wolf Run (LCC) 340
 1 Komainu Battle Armor (PLST) NEC-21
 1 Kozilek, Butcher of Truth (ROE) 6
+1 Lavaspur Boots (OTJ) 243
 1 Lightning Greaves (LTC) 281
 1 Lothlórien Blade (LTC) 77
 1 Mask of Memory (MRD) 203

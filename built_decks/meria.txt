@@ -47,7 +47,6 @@ Forest
 Forest
 Foundry Inspector
 Game Trail
-Glowcap Lantern
 Gruul Turf
 Hammer of Nazahn
 Helm of the Host
@@ -58,6 +57,7 @@ Inventors' Fair
 Jeska's Will
 Kessig Wolf Run
 Komainu Battle Armor
+Lavaspur Boots
 Lothlórien Blade
 Mask of Memory
 Mountain
