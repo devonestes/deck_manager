@@ -15,7 +15,6 @@
 1 Cyclonic Rift (2XM) 339
 1 Deflecting Swat (C20) 50
 1 Dig Through Time (OTC) 95
-1 Echo of Eons (MH1) 46
 1 Electrostatic Field (GRN) 97
 1 Expressive Iteration (OTC) 224
 1 Faithless Looting (BRC) 116
@@ -27,8 +26,10 @@
 1 Galvanic Iteration (OTC) 227
 1 Goblin Electromancer (OTC) 228
 1 Grapeshot (STA) 39
+1 Gut Shot (NPH) 86
 1 Guttersnipe (IMA) 131
 1 Haughty Djinn (OTC) 99
+1 Hidden Strings (Q06) 5
 1 Impulse (VIS) 34
 6 Island (J22) 101
 1 Jeska's Will (CMR) 668
@@ -39,6 +40,7 @@
 1 Merchant Scroll (HML) 33
 1 Mindsplice Apparatus (ONE) 63
 1 Mizzix's Mastery (OTC) 175
+1 Mogg Salvage (MH2) 282
 6 Mountain (J22) 107
 1 Mystic Remora (ICE) 87
 1 Mystic Sanctuary (MKC) 277
@@ -50,8 +52,7 @@
 1 Ponder (OTC) 105
 1 Pongify (OTC) 106
 1 Preordain (LTC) 196
-1 Prisoner's Dilemma (MKC) 34
-1 Reckless Impulse (VOW) 174
+1 Refocus (FRF) 47
 1 Reliquary Tower (BRC) 196
 1 Restless Spire (PWOE) 260p
 1 Rhystic Study (J22) 114
@@ -61,9 +62,9 @@
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Seething Song (MRD) 104
 1 Serum Visions (OTC) 112
-1 Shadow Rift (TMP) 86
 1 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354
 1 Shivan Reef (OTC) 320
+1 Shore Up (DMU) 64
 1 Snap (DMR) 66
 1 Snapcaster Mage (ISD) 78
 1 Sol Ring (MOC) 381
@@ -84,7 +85,6 @@
 1 Twitch (TMP) 99
 1 Urabrask // The Great Work (MOM) 169
 1 Urza's Saga (MH2) 259
-1 Vandalblast (OTC) 183
 1 Veyran, Voice of Duality (OTC) 248
 1 Volcanic Island (3ED) 291
 1 Wheel of Fortune (3ED) 185

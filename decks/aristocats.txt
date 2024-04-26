@@ -1,5 +1,6 @@
 1 Bartolomé del Presidio (LCI) 224
 1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+1 Amalia Benavides Aguirre (LCI) 221
 1 Ancient Tomb (TMP) 315
 1 Anguished Unmaking (SLD) 138
 1 Animate Dead (3ED) 93
@@ -16,6 +17,7 @@
 1 Caustic Bronco (OTJ) 82
 1 Caves of Koilos (MD1) 14
 1 Charismatic Conqueror (LCC) 70
+1 Clay-Fired Bricks // Cosmium Kiln (LCI) 6
 1 Command Tower (MOC) 396
 1 Corpse Knight (MOC) 321
 1 Cruel Celebrant (LCC) 267
@@ -26,7 +28,6 @@
 1 Deadly Rollick (C20) 42
 1 Demonic Tutor (3ED) 105
 1 Dross Skullbomb (ONE) 225
-1 Dusk // Dawn (PLST) CLB-691
 1 Dust Animus (OTJ) 9
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
@@ -69,7 +70,6 @@
 1 Spirited Companion (NEO) 38
 1 Stitcher's Supplier (J22) 472
 7 Swamp (J22) 106
-1 Swiftfoot Boots (BRC) 166
 1 Swords to Plowshares (MOC) 211
 1 Takenuma, Abandoned Mire (NEO) 416
 1 Teferi's Protection (C17) 8

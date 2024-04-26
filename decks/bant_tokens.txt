@@ -18,8 +18,8 @@
 1 Charismatic Conqueror (LCC) 70
 1 Command Tower (LTC) 301
 1 Craterhoof Behemoth (AVR) 172
-1 Cultivator of Blades (KHC) 55
 1 Cyclonic Rift (RTR) 35
+1 Danny Pink (WHO) 39
 1 Delighted Halfling (LTR) 158
 1 Deserted Beach (MID) 281
 1 Doubling Season (2XM) 350
@@ -67,8 +67,10 @@
 1 Otawara, Soaring City (NEO) 503
 1 Overgrown Farmland (WHO) 292
 1 Overwhelming Stampede (LTC) 254
+1 Peregrine Drake (DMR) 65
 3 Plains (J22) 98
 1 Rejuvenating Springs (LTC) 325
+1 Rhys the Redeemed (SHM) 237
 1 Rhystic Study (J22) 114
 1 Ripples of Potential (LCC) 77
 1 Sakashima of a Thousand Faces (CMR) 89
@@ -86,10 +88,8 @@
 1 Tocasia's Welcome (PLST) BRO-30
 1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
 1 Urza's Saga (MH2) 259
-1 Vorinclex, Monstrous Raider (KHM) 333
 1 Wave Goodbye (LCC) 79
 1 Windswept Heath (KTK) 248
 1 Windswift Slice (LTC) 45
 1 Wolverine Riders (KHC) 14
 1 Yavimaya Hollow (UDS) 143
-1 Zameck Guildmage (GTC) 209

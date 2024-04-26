@@ -6,7 +6,6 @@ Jeska's Will (PROXY)
 Mana Drain (PROXY)
 Ojer Axonil, Deepest Might // Temple of Power (PROXY)
 Otawara, Soaring City (PROXY)
-Reckless Impulse (PROXY)
 Rhystic Study (PROXY)
 Riverglide Pathway // Lavaglide Pathway (PROXY)
 Scalding Tarn (PROXY)
@@ -33,7 +32,6 @@ Command Tower
 Consider
 Curiosity
 Dig Through Time
-Echo of Eons
 Electrostatic Field
 Expressive Iteration
 Faithless Looting
@@ -44,8 +42,10 @@ Frantic Search
 Galvanic Iteration
 Goblin Electromancer
 Grapeshot
+Gut Shot
 Guttersnipe
 Haughty Djinn
+Hidden Strings
 Impulse
 Island
 Island
@@ -59,6 +59,7 @@ Mana Geyser
 Merchant Scroll
 Mindsplice Apparatus
 Mizzix's Mastery
+Mogg Salvage
 Mountain
 Mountain
 Mountain
@@ -73,14 +74,14 @@ Opt
 Ponder
 Pongify
 Preordain
-Prisoner's Dilemma
+Refocus
 Reliquary Tower
 Restless Spire
 Rousing Refrain
 Seething Song
 Serum Visions
-Shadow Rift
 Shivan Reef
+Shore Up
 Snap
 Snapcaster Mage
 Soldevi Excavations
@@ -95,6 +96,5 @@ Treasure Cruise
 Twisted Fealty
 Twitch
 Urabrask // The Great Work
-Vandalblast
 Veyran, Voice of Duality
 Volcanic Island

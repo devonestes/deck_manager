@@ -22,6 +22,7 @@ defmodule DeckManager do
     {"korvold", "z3o8vEq1lEm0sk7cGP9_9g", "74060e7a-59a6-4e84-877f-9ff761c4237b"},
     {"x_spells", "i1LRiXwbGEy1FC6weByOdQ", "f9c228f7-a0fa-4043-ab01-6505e1218c64"},
     {"merfolk", "ekHtx3vytky4yfEHOIpi2A", "0e516b67-5914-40fe-8bc3-31aaf4d63b73"},
+    {"optimus_prime", "pLyCNHUPG02p0v5oY7HJLQ", "1f758cc9-15db-47c5-b78d-2b8f62e83a72"},
     #{"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
     #{"mw_control", "j8XE7zIQ70O5vRXmD5Ua3g", "bcad72f6-57ea-474d-aef7-a19a9f74931f"},
     #{"mirko", "yYJUeFoCNEaoTg8kBQgt6w", "cfcdd050-f39b-4302-8689-5b244bb2ddfd"},

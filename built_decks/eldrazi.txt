@@ -10,7 +10,6 @@ Mana Vault (PROXY)
 Mystic Forge (PROXY)
 Portal to Phyrexia (PROXY)
 Roaming Throne (PROXY)
-Solemn Simulacrum (PROXY)
 Urza's Incubator (PROXY)
 Urza's Saga (PROXY)
 Wondrous Crucible (PROXY)
@@ -68,6 +67,7 @@ Scorched Ruins
 Sea Gate Wreckage
 Shrine of the Forsaken Gods
 Sol Ring
+Solemn Simulacrum
 Spawnsire of Ulamog
 Swiftfoot Boots
 Temple of the False God

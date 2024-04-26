@@ -18,7 +18,6 @@ Otawara, Soaring City (PROXY)
 Rhystic Study (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Sol Ring (PROXY)
-Swiftfoot Boots (PROXY)
 Sword of Fire and Ice (PROXY)
 Sword of the Animist (PROXY)
 Teferi's Ageless Insight (PROXY)
@@ -80,6 +79,7 @@ Paragon of Gathering Mists
 Phyrexian Metamorph
 Propaganda
 Psychosis Crawler
+Reconnaissance Mission
 Reliquary Tower
 Sapphire Medallion
 Schema Thief

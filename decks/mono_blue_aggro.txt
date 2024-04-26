@@ -48,6 +48,7 @@
 1 Phyrexian Metamorph (2XM) 341
 1 Propaganda (OTC) 108
 1 Psychosis Crawler (MKC) 234
+1 Reconnaissance Mission (WOC) 105
 1 Reliquary Tower (BRC) 196
 1 Rhystic Study (J22) 114
 1 Sapphire Medallion (TMP) 306
@@ -61,7 +62,6 @@
 1 Stolen Identity (ZNC) 37
 1 Sturmgeist (ISD) 82
 1 Sunken City (4ED) 106
-1 Swiftfoot Boots (BRC) 166
 1 Sword of Feast and Famine (2XM) 296
 1 Sword of Fire and Ice (2XM) 297
 1 Sword of the Animist (AFC) 218

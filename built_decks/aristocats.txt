@@ -33,6 +33,7 @@ Vault of Champions (PROXY)
 Vraan, Executioner Thane (PROXY)
 Weathered Wayfarer (PROXY)
 Bartolomé del Presidio
+Amalia Benavides Aguirre
 Animate Dead
 Benalish Sleeper
 Bitterblossom
@@ -43,13 +44,13 @@ Case of the Stashed Skeleton
 Castle Ardenvale
 Castle Locthwain
 Caustic Bronco
+Clay-Fired Bricks // Cosmium Kiln
 Command Tower
 Corpse Knight
 Dance of the Dead
 Dark Confidant
 Deadly Dispute
 Dross Skullbomb
-Dusk // Dawn
 Dust Animus
 Elas il-Kor, Sadistic Pilgrim
 Fanatical Offering
@@ -89,7 +90,6 @@ Swamp
 Swamp
 Swamp
 Swamp
-Swiftfoot Boots
 Swords to Plowshares
 Transmogrant's Crown
 Triarch Praetorian

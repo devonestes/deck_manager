@@ -32,11 +32,11 @@ Oltec Matterweaver (PROXY)
 Otawara, Soaring City (PROXY)
 Overgrown Farmland (PROXY)
 Rejuvenating Springs (PROXY)
+Rhys the Redeemed (PROXY)
 Rhystic Study (PROXY)
 Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Sea of Clouds (PROXY)
-Sol Ring (PROXY)
 Spara's Headquarters (PROXY)
 Teferi's Protection (PROXY)
 Temple Garden (PROXY)
@@ -44,7 +44,6 @@ Tendershoot Dryad (PROXY)
 Three Visits (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Urza's Saga (PROXY)
-Vorinclex, Monstrous Raider (PROXY)
 Windswept Heath (PROXY)
 Yavimaya Hollow (PROXY)
 Galadriel, Light of Valinor
@@ -57,7 +56,7 @@ Bennie Bracks, Zoologist
 Bramble Sovereign
 Cauldron of Souls
 Command Tower
-Cultivator of Blades
+Danny Pink
 Doubling Season
 Earthcraft
 Edric, Spymaster of Trest
@@ -86,15 +85,16 @@ Nadir Kraken
 Noble Hierarch
 Ohran Frostfang
 Overwhelming Stampede
+Peregrine Drake
 Plains
 Plains
 Plains
 Ripples of Potential
 Sakashima of a Thousand Faces
+Sol Ring
 Staff of Compleation
 The Ozolith
 Tocasia's Welcome
 Wave Goodbye
 Windswift Slice
 Wolverine Riders
-Zameck Guildmage
