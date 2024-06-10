@@ -1,0 +1,100 @@
+1 Satya, Aetherflux Genius (M3C) 3
+1 Adarkar Wastes (ICE) 351
+1 Aerial Extortionist (MKC) 54
+1 Aether Hub (M3C) 317
+1 Akroma's Will (LCC) 125
+1 An Offer You Can't Refuse (SLP) 7
+1 Ancient Tomb (TMP) 315
+1 Anointed Procession (AKH) 2
+1 Arcane Signet (MOC) 348
+1 Arid Mesa (MM3) 229
+1 Battle Angels of Tyr (CLB) 9
+1 Battlefield Forge (BRO) 257
+1 Blade Splicer (MOC) 175
+1 Cataclysmic Gearhulk (NEC) 81
+1 Circuit Mender (NEO) 242
+1 Combat Celebrant (LTC) 212
+1 Combustible Gearhulk (M3C) 210
+1 Command Tower (MOC) 396
+1 Cyclonic Rift (2XM) 339
+1 Deflecting Swat (C20) 50
+1 Deserted Beach (MID) 281
+1 Displacer Kitten (CLB) 63
+1 Dockside Extortionist (2X2) 360
+1 Dust Animus (OTJ) 9
+1 Eiganjo, Seat of the Empire (NEO) 413
+1 Elesh Norn, Mother of Machines (ONE) 10
+1 Enlightened Tutor (MIR) 14
+1 Éomer, Marshal of Rohan (LTR) 120
+1 Esper Sentinel (MH2) 12
+1 Exotic Orchard (MOC) 398
+1 Faerie Mastermind (PMOM) 58p
+1 Fellwar Stone (MOC) 356
+1 Fierce Guardianship (C20) 35
+1 Final Fortune (MIR) 173
+1 Flesh Duplicate (WHO) 359
+1 Flooded Strand (KTK) 233
+1 Force of Negation (MH1) 52
+1 Hallowed Fountain (RVR) 280
+1 Imperial Recruiter (2XM) 131
+1 Inspiring Overseer (J22) 200
+1 Island (J22) 101
+1 Jeska's Will (CMR) 668
+1 Kiki-Jiki, Mirror Breaker (CHK) 175
+1 Ledger Shredder (PSNC) 46p
+1 Localized Destruction (M3C) 93
+1 Lotus Petal (TMP) 294
+1 Mountain (J22) 107
+1 Mulldrifter (LRW) 76
+1 Mystic Remora (ICE) 87
+1 Mystical Tutor (MIR) 80
+1 Ogre-Head Helm (NEO) 155
+1 Otawara, Soaring City (NEO) 271
+1 Pact of Negation (FUT) 42
+1 Palace Jailer (LTC) 174
+1 Panharmonicon (TSR) 399
+1 Peregrine Drake (DMR) 65
+1 Phyrexian Metamorph (2XM) 341
+1 Plains (J22) 98
+1 Port Razer (LCC) 230
+1 Professional Face-Breaker (J22) 581
+1 Pyroblast (5ED) 262
+1 Ragavan, Nimble Pilferer (MUL) 21
+1 Ranger-Captain of Eos (MH1) 21
+1 Raugrin Triome (IKO) 311
+1 Recruiter of the Guard (CN2) 22
+1 Rhystic Study (J22) 114
+1 Sacred Foundry (UNF) 285
+1 Scalding Tarn (MM3) 244
+1 Scourge of the Throne (CNS) 35
+1 Sea of Clouds (BBD) 84
+1 Serra Ascendant (IMA) 31
+1 Sevinne's Reclamation (CLB) 707
+1 Shivan Reef (OTC) 320
+1 Skyclave Apparition (M3C) 172
+1 Smothering Tithe (RNA) 22
+1 Snap (DMR) 66
+1 Sol Ring (MOC) 381
+1 Solemn Simulacrum (BRC) 161
+1 Spark Double (RVR) 319
+1 Spectator Seating (CMR) 711
+1 Spellseeker (BBD) 41
+1 Sphinx of the Revelation (M3C) 127
+1 Steam Vents (UNF) 283
+1 Stormcarved Coast (VOW) 284
+1 Sundown Pass (WHO) 310
+1 Swan Song (LTC) 197
+1 Swords to Plowshares (MOC) 211
+1 Talisman of Creativity (MH1) 231
+1 Talisman of Progress (LTC) 286
+1 Teferi's Protection (C17) 8
+1 The One Ring (LTR) 451
+1 Training Center (CMR) 713
+1 Trinket Mage (PLST) DDU-41
+1 Tune the Narrative (MH3) 75
+1 Urza's Saga (MH2) 259
+1 Venerable Warsinger (STX) 246
+1 Wheel of Fortune (3ED) 185
+1 White Plume Adventurer (CLB) 49
+1 Windfall (LCC) 180
+1 Wurmcoil Engine (2XM) 308

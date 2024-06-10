@@ -6,6 +6,7 @@
 1 Arcane Signet (MOC) 348
 1 Arwen, Weaver of Hope (LTC) 35
 1 Avenger of Zendikar (C13) 135
+1 Basking Broodscale (MH3) 145
 1 Beast Whisperer (P30A) 26
 1 Bennie Bracks, Zoologist (NCC) 86
 1 Birds of Paradise (4ED) 234
@@ -29,14 +30,15 @@
 1 Edric, Spymaster of Trest (CNS) 187
 1 Elven Chorus (LTR) 160
 1 Esper Sentinel (MH2) 12
+1 Evolution Witness (MH3) 151
 1 Faerie Artisans (CMM) 92
 1 Faerie Mastermind (PMOM) 58p
+1 Fanatic of Rhonas (MH3) 458
 1 Felidar Retreat (CMM) 821
 1 Fierce Guardianship (C20) 35
 1 Flooded Grove (LTC) 309
 1 Flooded Strand (KTK) 233
 3 Forest (LTR) 270
-1 Gala Greeters (SNC) 450
 1 Galadhrim Ambush (LTC) 38
 1 Glacial Fortress (LTC) 315
 1 Glen Elendra Archmage (MMA) 47
@@ -48,7 +50,6 @@
 1 Heroic Intervention (LTC) 249
 1 Hinterland Harbor (LTC) 317
 1 Imperious Perfect (J22) 677
-1 Incubation Druid (MOC) 302
 1 Inspiring Call (MOC) 304
 2 Island (LTR) 264
 1 Kami of Whispered Hopes (MOM) 196
@@ -79,7 +80,6 @@
 1 Sea of Clouds (BBD) 84
 1 Sol Ring (LTC) 284
 1 Spara's Headquarters (SNC) 293
-1 Staff of Compleation (ONE) 242
 1 Teferi's Protection (C17) 8
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147

@@ -1,12 +1,10 @@
 Alchemist's Refuge (PROXY)
 Ancient Tomb (PROXY)
-Bident of Thassa (PROXY)
 Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
 Burgeoning (PROXY)
 Cavern of Souls (PROXY)
 Coat of Arms (PROXY)
-Command Tower (PROXY)
 Court of Garenbrig (PROXY)
 Cyclonic Rift (PROXY)
 Dreamroot Cascade (PROXY)
@@ -32,7 +30,6 @@ Rhystic Study (PROXY)
 Ripples of Potential (PROXY)
 Roaming Throne (PROXY)
 Sol Ring (PROXY)
-Staff of Compleation (PROXY)
 Swan Song (PROXY)
 Thada Adel, Acquisitor (PROXY)
 The Ozolith (PROXY)
@@ -43,20 +40,22 @@ Aetherize
 Alandra, Sky Dreamer
 Arcane Signet
 Beast Within
+Bident of Thassa
 Branching Evolution
 Cold-Eyed Selkie
+Command Tower
 Deeproot Historian
 Deeproot Waters
 Deeproot Wayfinder
 Emperor Mihail II
 Fallowsage
+Flare of Denial
 Force of Negation
 Forest
 Forest
 Forest
 Forest
 Forest
-Glowcap Lantern
 Hardened Scales
 Island
 Island
@@ -87,6 +86,7 @@ Sentinel of the Nameless City
 Shamanic Revelation
 Simic Growth Chamber
 Singer of Swift Rivers
+Staff of Compleation
 Stonybrook Banneret
 Svyelun of Sea and Sky
 Tatyova, Benthic Druid

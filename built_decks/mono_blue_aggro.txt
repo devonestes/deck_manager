@@ -2,7 +2,6 @@ Sun Quan, Lord of Wu (PROXY)
 Ancient Silver Dragon (PROXY)
 Blightsteel Colossus (PROXY)
 Capture of Jingzhou (PROXY)
-Castle Vantress (PROXY)
 Commander's Plate (PROXY)
 Consecrated Sphinx (PROXY)
 Cyclonic Rift (PROXY)
@@ -17,7 +16,6 @@ Nykthos, Shrine to Nyx (PROXY)
 Otawara, Soaring City (PROXY)
 Rhystic Study (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Sol Ring (PROXY)
 Sword of Fire and Ice (PROXY)
 Sword of the Animist (PROXY)
 Teferi's Ageless Insight (PROXY)
@@ -32,6 +30,7 @@ Brainstorm
 Brazen Borrower // Petty Theft
 Bribery
 Broodbirth Viper
+Castle Vantress
 Chasm Skulker
 Curiosity
 Defiler of Dreams
@@ -83,6 +82,7 @@ Reconnaissance Mission
 Reliquary Tower
 Sapphire Medallion
 Schema Thief
+Sol Ring
 Soldevi Excavations
 Soulknife Spy
 Spark Double

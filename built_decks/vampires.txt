@@ -44,6 +44,7 @@ Elenda, the Dusk Rose
 Enlightened Tutor
 Everything Comes to Dust
 Exquisite Blood
+Fell the Profane // Fell Mire
 Fetid Heath
 Florian, Voldaren Scion
 Godless Shrine
@@ -84,7 +85,6 @@ Swords to Plowshares
 Takenuma, Abandoned Mire
 Teferi's Protection
 The Meathook Massacre
-Treacherous Greed
 Twilight Prophet
 Urborg, Tomb of Yawgmoth
 Urza's Saga

@@ -25,10 +25,10 @@
 1 Fabled Passage (ELD) 244
 1 Fallowsage (J22) 297
 1 Fierce Guardianship (C20) 35
+1 Flare of Denial (MH3) 62
 1 Flooded Grove (LTC) 309
 1 Force of Negation (MH1) 52
 5 Forest (LCI) 402
-1 Glowcap Lantern (LCI) 187
 1 Guardian Project (RNA) 130
 1 Hardened Scales (LCC) 243
 1 Herald of Secret Streams (LCC) 158

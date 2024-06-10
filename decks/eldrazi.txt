@@ -3,6 +3,7 @@
 1 All Is Dust (CMM) 800
 1 Ancient Tomb (TMP) 315
 1 Arch of Orazca (LCC) 319
+1 Arid Archway (OTJ) 252
 1 Artisan of Kozilek (CMM) 801
 1 Bane of Bala Ged (CMM) 802
 1 Basalt Monolith (3ED) 235
@@ -22,25 +23,27 @@
 1 Deceiver of Form (OGW) 1
 1 Desolation Twin (C19) 60
 1 Doubling Cube (5DN) 116
+1 Eldrazi Confluence (M3C) 32
 1 Eldrazi Temple (ROE) 227
+1 Eldritch Immunity (M3C) 33
 1 Emrakul, the Promised End (EMN) 6
 1 Endbringer (J22) 748
 1 Everflowing Chalice (LTC) 278
 1 Expedition Map (ZEN) 201
 1 Eye of Ugin (WWK) 136
-1 Field of Ruin (LTC) 308
 1 Forsaken Monument (CMM) 950
 1 Geier Reach Sanitarium (LCC) 335
 1 Guildless Commons (CMM) 1003
 1 Hedron Archive (BRC) 142
 1 It That Betrays (ROE) 7
+1 It That Heralds the End (MH3) 385
 1 Kozilek, Butcher of Truth (ROE) 6
 1 Kozilek, the Great Distortion (CMM) 668
+1 Kozilek's Command (MH3) 11
 1 Liberator, Urza's Battlethopter (BRO) 237
 1 Lightning Greaves (LTC) 281
 1 Mage-Ring Network (C21) 300
 1 Mana Crypt (2XM) 270
-1 Mana Vault (2ED) 260
 1 Matter Reshaper (CMM) 806
 1 Mind Stone (MOC) 364
 1 Mirage Mirror (CMM) 962
@@ -71,7 +74,6 @@
 1 The Irencrag (WOE) 248
 1 Thought Vessel (PLG22) 2
 1 Thran Dynamo (BRC) 168
-1 Titan's Presence (J22) 749
 1 Tomb of the Spirit Dragon (CMM) 1048
 1 Tyrite Sanctum (CMM) 1049
 1 Ugin, the Ineffable (WAR) 2
@@ -80,7 +82,6 @@
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 1 Ulamog, the Infinite Gyre (ROE) 12
 1 Ulamog's Crusher (CMM) 6
-1 Unstable Obelisk (JMP) 489
 1 Urza's Incubator (C15) 273
 1 Urza's Mine (5ED) 427
 1 Urza's Power Plant (5ED) 428
@@ -89,7 +90,6 @@
 1 Urza's Workshop (BRC) 51
 1 Void Winnower (BFZ) 17
 1 War Room (WHO) 330
-1 Warping Wail (CMM) 812
 3 Wastes (CMM) 1056
 2 Wastes (CMM) 1055
 1 Wondrous Crucible (BRC) 20

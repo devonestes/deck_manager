@@ -7,7 +7,6 @@
 1 Archon of Cruelty (MH2) 75
 1 Archpriest of Shadows (MOM) 89
 1 Artisan of Kozilek (CMM) 801
-1 Assassin's Trophy (GRN) 152
 1 Atsushi, the Blazing Sky (NEO) 410
 1 Blasphemous Act (BRC) 113
 1 Blood Crypt (UNF) 279
@@ -26,12 +25,13 @@
 1 Dockside Extortionist (2X2) 360
 1 Doors of Durin (LTR) 199
 1 Dragonskull Summit (SLD) 458
-1 Entomb (EMA) 87
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
 1 Exotic Orchard (MOC) 398
 1 Farseek (RVR) 138
+1 Fell the Profane // Fell Mire (MH3) 244
 1 Fire-Lit Thicket (SHM) 271
+1 Flare of Cultivation (MH3) 154
 5 Forest (J22) 110
 1 Garruk's Uprising (WOT) 53
 1 Goreclaw, Terror of Qal Sisma (MUL) 27

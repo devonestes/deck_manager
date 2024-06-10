@@ -42,6 +42,7 @@
 1 Enlightened Tutor (MIR) 14
 1 Everything Comes to Dust (WHO) 19
 1 Exquisite Blood (AVR) 102
+1 Fell the Profane // Fell Mire (MH3) 244
 1 Fetid Heath (NCC) 401
 1 Florian, Voldaren Scion (MID) 223
 1 Godless Shrine (UNF) 282
@@ -84,7 +85,6 @@
 1 Takenuma, Abandoned Mire (NEO) 416
 1 Teferi's Protection (C17) 8
 1 The Meathook Massacre (MID) 112
-1 Treacherous Greed (MKM) 237
 1 Twilight Prophet (RIX) 88
 1 Urborg, Tomb of Yawgmoth (TSR) 287
 1 Urza's Saga (MH2) 259

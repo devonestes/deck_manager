@@ -11,7 +11,6 @@ Riverglide Pathway // Lavaglide Pathway (PROXY)
 Scalding Tarn (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
-Sol Ring (PROXY)
 Solphim, Mayhem Dominus (PROXY)
 Steam Vents (PROXY)
 Stormcarved Coast (PROXY)
@@ -84,6 +83,7 @@ Shivan Reef
 Shore Up
 Snap
 Snapcaster Mage
+Sol Ring
 Soldevi Excavations
 Storm-Kiln Artist
 Sulfur Falls

@@ -16,7 +16,6 @@ Charismatic Conqueror
 Chord of Calling
 City of Brass
 Clever Concealment
-Collector Ouphe
 Combat Celebrant
 Command Tower
 Craterhoof Behemoth
@@ -29,7 +28,9 @@ Eiganjo, Seat of the Empire
 Elvish Mystic
 Esper Sentinel
 Exotic Orchard
+Fanatic of Rhonas
 Final Fortune
+Flare of Cultivation
 Flooded Strand
 Forbidden Orchard
 Forest
@@ -41,7 +42,6 @@ Giver of Runes
 Green Sun's Zenith
 Horizon Canopy
 Hushbringer
-Hushwing Gryff
 Joven's Ferrets
 Kellan, Daring Traveler // Journey On
 Kutzil, Malamet Exemplar
@@ -62,6 +62,7 @@ Paladin Elizabeth Taggerdy
 Path to Exile
 Plains
 Plateau
+Polygoyf
 Professional Face-Breaker
 Ragavan, Nimble Pilferer
 Ranger-Captain of Eos
@@ -74,7 +75,6 @@ Scalding Tarn
 Secure the Wastes
 Serra Ascendant
 Skullclamp
-Skyhunter Strike Force
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist
 Sol Ring
 Song of Totentanz

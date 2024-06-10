@@ -28,7 +28,6 @@ Marsh Flats (PROXY)
 Misty Rainforest (PROXY)
 Old Gnawbone (PROXY)
 Overgrown Tomb (PROXY)
-Polluted Delta (PROXY)
 Roaming Throne (PROXY)
 Sacred Foundry (PROXY)
 Scalding Tarn (PROXY)
@@ -80,6 +79,7 @@ Omniscience
 Orb of Dragonkind
 Path of Ancestry
 Plains
+Polluted Delta
 Raise the Palisade
 Return of the Wildspeaker
 Rith, Liberated Primeval

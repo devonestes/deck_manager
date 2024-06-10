@@ -21,6 +21,7 @@
 1 Doors of Durin (LTR) 199
 1 Entish Restoration (LTR) 163
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
+1 Fanatic of Rhonas (MH3) 458
 1 Farseek (LCC) 242
 1 Finale of Devastation (WAR) 160
 1 Fire-Lit Thicket (SHM) 271
@@ -53,7 +54,6 @@
 1 Polyraptor (RIX) 144
 1 Prismatic Vista (MH1) 244
 1 Quartzwood Crasher (LCC) 281
-1 Rampant Growth (LCC) 248
 1 Regal Behemoth (LCC) 251
 1 Regisaur Alpha (LCC) 286
 1 Return of the Wildspeaker (ELD) 172

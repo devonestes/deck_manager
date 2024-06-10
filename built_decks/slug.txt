@@ -30,7 +30,7 @@ Fires of Mount Doom
 Fireslinger
 Flame Rift
 Gauntlet of Might
-Goblin Artillery
+Ghostfire Slice
 Goldspan Dragon
 Imperial Recruiter
 Invasion of Kaldheim // Pyre of the World Tree
@@ -93,8 +93,8 @@ Sulfuric Vortex
 Themberchaud
 Torbran, Thane of Red Fell
 Valakut Awakening // Valakut Stoneforge
-Virtue of Courage // Embereth Blaze
 War Room
 Wheel of Misfortune
+Winter Moon
 Wrenn's Resolve
 Zo-Zu the Punisher

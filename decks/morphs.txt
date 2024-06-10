@@ -4,7 +4,6 @@
 1 All Is Dust (CMM) 800
 1 Aphetto Runecaster (SCG) 28
 1 Arcane Signet (MOC) 348
-1 Assassin's Trophy (GRN) 152
 1 Beast Whisperer (P30A) 26
 1 Boseiju, Who Endures (NEO) 501
 1 Branch of Vitu-Ghazi (MKM) 258
@@ -22,6 +21,7 @@
 1 Dreamroot Cascade (VOW) 282
 1 Elven Chorus (LTR) 160
 1 Farseek (C19) 165
+1 Fell the Profane // Fell Mire (MH3) 244
 1 Final-Word Phantom (MKC) 22
 1 Flooded Grove (LTC) 309
 1 Flourishing Bloom-Kin (MKM) 160

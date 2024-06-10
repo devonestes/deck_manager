@@ -2,9 +2,7 @@ Akroma's Will (PROXY)
 Ancient Den (PROXY)
 Anim Pakal, Thousandth Moon (PROXY)
 Arcee, Sharpshooter // Arcee, Acrobatic Coupe (PROXY)
-Battlefield Forge (PROXY)
 Blasphemous Act (PROXY)
-Command Tower (PROXY)
 Cyclonic Rift (PROXY)
 Danny Pink (PROXY)
 Darksteel Citadel (PROXY)
@@ -25,19 +23,15 @@ Mana Drain (PROXY)
 Mystic Remora (PROXY)
 Otawara, Soaring City (PROXY)
 Raugrin Triome (PROXY)
-Razortide Bridge (PROXY)
 Rhystic Study (PROXY)
 Ripples of Potential (PROXY)
-Rustvale Bridge (PROXY)
 Sacred Foundry (PROXY)
 Sea of Clouds (PROXY)
 Seat of the Synod (PROXY)
-Shivan Reef (PROXY)
 Silverbluff Bridge (PROXY)
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
 Smothering Tithe (PROXY)
 Sol Ring (PROXY)
-Solemn Simulacrum (PROXY)
 Spectator Seating (PROXY)
 Steam Vents (PROXY)
 Steel Overseer (PROXY)
@@ -56,7 +50,9 @@ Arcbound Mouser
 Arcbound Shikari
 Arcbound Slasher
 Arcbound Tracker
+Battlefield Forge
 Chaos Warp
+Command Tower
 Dispatch
 Enthusiastic Mechanaut
 Etherium Sculptor
@@ -80,12 +76,16 @@ Plains
 Plains
 Plains
 Plains
+Power Depot
 Prowl, Stoic Strategist // Prowl, Pursuit Vehicle
 Ratchet, Field Medic // Ratchet, Rescue Racer
+Razortide Bridge
 Saheeli, Filigree Master
+Shivan Reef
 Shorikai, Genesis Engine
 Skysovereign, Consul Flagship
 Smuggler's Copter
+Solemn Simulacrum
 Spire of Industry
 Sword of Truth and Justice
 Swords to Plowshares

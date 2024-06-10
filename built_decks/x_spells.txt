@@ -4,7 +4,6 @@ Blue Sun's Twilight (PROXY)
 Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
 Cascade Bluffs (PROXY)
-Command Tower (PROXY)
 Cyclonic Rift (PROXY)
 Deflecting Swat (PROXY)
 Delighted Halfling (PROXY)
@@ -16,7 +15,6 @@ Flooded Grove (PROXY)
 Gyre Sage (PROXY)
 Heroic Intervention (PROXY)
 Hinterland Harbor (PROXY)
-Incubation Druid (PROXY)
 Ketria Triome (PROXY)
 Lightning Greaves (PROXY)
 Misty Rainforest (PROXY)
@@ -27,9 +25,7 @@ Ripples of Potential (PROXY)
 Rockfall Vale (PROXY)
 Scalding Tarn (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Selvala, Heart of the Wilds (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
-Sol Ring (PROXY)
 Song of Totentanz (PROXY)
 Spire Garden (PROXY)
 Steam Vents (PROXY)
@@ -53,6 +49,7 @@ Branching Evolution
 Bred for the Hunt
 Broodlord
 Clamavus
+Command Tower
 Court of Garenbrig
 Crackle with Power
 Doppelgang
@@ -65,6 +62,7 @@ Frontier Bivouac
 Hardened Scales
 Hormagaunt Horde
 Hydroid Krasis
+Incubation Druid
 Inspiring Call
 Instill Energy
 Invasion of Ikoria // Zilortha, Apex of Ikoria
@@ -84,7 +82,9 @@ Pull from Tomorrow
 Rampant Growth
 Ravener
 Runadi, Behemoth Caller
+Selvala, Heart of the Wilds
 Simic Growth Chamber
+Sol Ring
 Steelbane Hydra
 Stonecoil Serpent
 Sulfur Falls

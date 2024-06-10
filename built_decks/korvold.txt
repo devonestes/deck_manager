@@ -4,7 +4,6 @@ Ancient Copper Dragon (PROXY)
 Ancient Tomb (PROXY)
 Animate Dead (PROXY)
 Arid Mesa (PROXY)
-Assassin's Trophy (PROXY)
 Badlands (PROXY)
 Beledros Witherbloom (PROXY)
 Birds of Paradise (PROXY)
@@ -28,8 +27,6 @@ Field of the Dead (PROXY)
 Finale of Devastation (PROXY)
 Goldspan Dragon (PROXY)
 Heroic Intervention (PROXY)
-Ignoble Hierarch (PROXY)
-Imperial Recruiter (PROXY)
 Lightning Greaves (PROXY)
 Luxury Suite (PROXY)
 Mana Crypt (PROXY)
@@ -46,7 +43,6 @@ Rhythm of the Wild (PROXY)
 Scalding Tarn (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
 Skullclamp (PROXY)
-Sol Ring (PROXY)
 Spire Garden (PROXY)
 Stomping Ground (PROXY)
 Taiga (PROXY)
@@ -66,6 +62,7 @@ Ziatora's Proving Ground (PROXY)
 Korvold, Fae-Cursed King
 Academy Manufactor
 Ashnod's Altar
+Assassin's Trophy
 Bayou
 Black Market Connections
 Black Sun's Twilight
@@ -76,7 +73,9 @@ Culling the Weak
 Damnation
 Dark Ritual
 Deathrite Shaman
+Eldrazi Repurposer
 Forest
+Ignoble Hierarch
 Jeweled Lotus
 Life from the Loam
 Liliana, Dreadhorde General
@@ -94,6 +93,7 @@ Reanimate
 Reassembling Skeleton
 Reliquary Tower
 Shallow Grave
+Sol Ring
 Squandered Resources
 Swamp
 Tinder Wall

@@ -3,7 +3,6 @@
 1 Arcane Signet (BRC) 132
 1 Arcum Dagsson (CSP) 27
 1 Badlands (3ED) 282
-1 Baleful Strix (MKC) 200
 1 Basalt Monolith (3ED) 235
 1 Blasphemous Act (BRC) 113
 1 Blightsteel Colossus (MBS) 99
@@ -11,7 +10,6 @@
 1 Bloodstained Mire (KTK) 230
 1 Brudiclad, Telchor Engineer (BRC) 122
 1 Cascade Bluffs (CMM) 990
-1 Chaos Warp (BRC) 114
 1 Chimil, the Inner Sun (LCI) 249
 1 Cityscape Leveler (BRO) 363
 1 Coldsteel Heart (2X2) 301
@@ -26,7 +24,9 @@
 1 Drossforge Bridge (BRC) 183
 1 Etherium Sculptor (ALA) 42
 1 Fabricate (MRD) 35
+1 Fell the Profane // Fell Mire (MH3) 244
 1 Fierce Guardianship (C20) 35
+1 Gonti's Aether Heart (M3C) 294
 1 Great Furnace (BRC) 187
 1 Haunted Ridge (MID) 282
 1 Ichor Wellspring (BRC) 143

@@ -48,13 +48,13 @@
 1 Organic Extinction (MKC) 76
 1 Otawara, Soaring City (NEO) 271
 4 Plains (J22) 98
+1 Power Depot (MH2) 251
 1 Prowl, Stoic Strategist // Prowl, Pursuit Vehicle (BOT) 1
 1 Ratchet, Field Medic // Ratchet, Rescue Racer (BOT) 2
 1 Raugrin Triome (IKO) 311
 1 Razortide Bridge (MH2) 252
 1 Rhystic Study (J22) 114
 1 Ripples of Potential (LCC) 77
-1 Rustvale Bridge (MH2) 253
 1 Sacred Foundry (UNF) 285
 1 Saheeli, Filigree Master (BRO) 219
 1 Sea of Clouds (BBD) 84

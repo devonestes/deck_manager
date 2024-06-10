@@ -1,0 +1,95 @@
+1 Omo, Queen of Vesuva (M3C) 2
+1 Aggressive Biomancy (M3C) 121
+1 Allosaurus Shepherd (JMP) 28
+1 An Offer You Can't Refuse (SLP) 7
+1 Animist's Awakening (ORI) 169
+1 Arbor Elf (M13) 160
+1 Arcane Signet (MOC) 348
+1 Baldur's Gate (CLB) 345
+1 Birds of Paradise (4ED) 234
+1 Blossoming Tortoise (WOE) 163
+1 Boseiju, Who Endures (NEO) 501
+1 Breeding Pool (UNF) 286
+1 Burgeoning (STH) 102
+1 Cloudpost (M3C) 330
+1 Command Tower (MOC) 396
+1 Copy Land (M3C) 99
+1 Crop Rotation (DMR) 154
+1 Crucible of Worlds (10E) 319
+1 Cyclonic Rift (2XM) 339
+1 Doppelgang (MKM) 198
+1 Eladamri, Lord of Leaves (TMP) 224
+1 Elvish Archdruid (LTC) 237
+1 Elvish Mystic (M15) 173
+1 Eternal Witness (M3C) 227
+1 Expand the Sphere (ONE) 168
+1 Expedition Map (ZEN) 201
+1 Exploration (CNS) 164
+1 Faerie Mastermind (PMOM) 58p
+1 Field of the Dead (M20) 247
+1 Fierce Guardianship (C20) 35
+1 Finale of Devastation (WAR) 160
+1 Finale of Revelation (MKC) 106
+1 Flooded Strand (KTK) 233
+1 Force of Negation (MH1) 52
+4 Forest (J22) 110
+1 Fyndhorn Elves (ICE) 244
+1 Glimmerpost (M3C) 346
+1 Hakbal of the Surging Soul (LCC) 3
+1 Hour of Promise (M3C) 232
+1 Hydra Broodmaster (M3C) 233
+1 Hydroelectric Specimen // Hydroelectric Laboratory (MH3) 240
+1 Hydroid Krasis (RNA) 183
+3 Island (J22) 101
+1 Kozilek, Butcher of Truth (ROE) 6
+1 Kozilek, the Great Distortion (CMM) 668
+1 Kura, the Boundless Sky (NEO) 200
+1 Lightning Greaves (LTC) 281
+1 Llanowar Elves (M12) 182
+1 Mana Drain (CMR) 80
+1 Mana Reflection (M3C) 237
+1 Manaweft Sliver (CMM) 900
+1 Mass Appeal (AVR) 66
+1 Master of the Pearl Trident (LCC) 162
+1 Misty Rainforest (MM3) 240
+1 Mystic Remora (ICE) 87
+1 Omenpath Journey (BIG) 18
+1 Otawara, Soaring City (NEO) 271
+1 Planar Nexus (M3C) 132
+1 Polluted Delta (KTK) 239
+1 Priest of Titania (USG) 270
+1 Rampant Frogantua (M3C) 118
+1 Ramunap Excavator (M3C) 241
+1 Realm Seekers (LTC) 258
+1 Rejuvenating Springs (LTC) 325
+1 Rhystic Study (J22) 114
+1 Roaming Throne (LCI) 344
+1 Scalding Tarn (MM3) 244
+1 Scute Swarm (OTC) 205
+1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+1 Snow-Covered Forest (ICE) 383
+1 Snow-Covered Island (ICE) 371
+1 Sol Ring (MOC) 381
+1 Sowing Mycospawn (MH3) 340
+1 Swan Song (LTC) 197
+1 Swarmyard (TSP) 278
+1 Sylvan Library (CC1) 5
+1 Sylvan Scrying (MRD) 130
+1 Tempt with Discovery (C19) 183
+1 Thespian's Stage (C19) 282
+1 Thrasios, Triton Hero (C16) 46
+1 Tropical Island (3ED) 288
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
+1 Ulamog, the Ceaseless Hunger (BFZ) 15
+1 Ulvenwald Hydra (M3C) 250
+1 Urza's Mine (5ED) 427
+1 Urza's Power Plant (5ED) 428
+1 Urza's Tower (CHR) 116b
+1 Verdant Catacombs (MM3) 249
+1 Vesuva (M3C) 404
+1 Windswept Heath (KTK) 248
+1 Wooded Foothills (KTK) 249
+1 Worldly Tutor (MIR) 255
+1 Xolatoyac, the Smiling Flood (LCC) 8
+1 Yavimaya Coast (DMU) 261
+1 Yavimaya, Cradle of Growth (MH2) 441
