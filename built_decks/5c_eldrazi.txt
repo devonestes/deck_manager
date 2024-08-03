@@ -1,0 +1,100 @@
+Ancient Tomb (PROXY)
+Bloodstained Mire (PROXY)
+Breeding Pool (PROXY)
+Cavern of Souls (PROXY)
+Cyclonic Rift (PROXY)
+Dockside Extortionist (PROXY)
+Fierce Guardianship (PROXY)
+Flooded Strand (PROXY)
+Liberator, Urza's Battlethopter (PROXY)
+Mana Confluence (PROXY)
+Marsh Flats (PROXY)
+Misty Rainforest (PROXY)
+Nature's Lore (PROXY)
+Roaming Throne (PROXY)
+Scalding Tarn (PROXY)
+Stomping Ground (PROXY)
+The Great Henge (PROXY)
+Urza's Incubator (PROXY)
+Urza's Saga (PROXY)
+Verdant Catacombs (PROXY)
+Windswept Heath (PROXY)
+Wooded Foothills (PROXY)
+Worldly Tutor (PROXY)
+Ulalek, Fused Atrocity
+All Is Dust
+Arcane Signet
+Artisan of Kozilek
+Awakening Zone
+Bismuth Mindrender
+Blood Crypt
+Breaker of Creation
+Command Tower
+Darksteel Monolith
+Echoes of Eternity
+Eldrazi Confluence
+Eldrazi Linebreaker
+Eldrazi Temple
+Eldritch Immunity
+Emrakul, the Promised End
+Emrakul, the World Anew
+Eye of Ugin
+Forest
+Forest
+Forsaken Monument
+Herald's Horn
+Hideous Taskmaster
+Hydroelectric Specimen // Hydroelectric Laboratory
+Island
+Island
+It That Betrays
+It That Heralds the End
+Karplusan Forest
+Kindred Discovery
+Kozilek, Butcher of Truth
+Kozilek, the Broken Reality
+Kozilek, the Great Distortion
+Kozilek's Command
+Kozilek's Unsealing
+Llanowar Wastes
+Mana Drain
+Mountain
+Mountain
+Mystic Forge
+Null Elemental Blast
+Oblivion Sower
+Overgrown Tomb
+Path of Annihilation
+Polluted Delta
+Progenitor's Icon
+Propagator Drone
+Rise of the Eldrazi
+Sanctum of Ugin
+Shrine of the Forsaken Gods
+Sire of Stagnation
+Snapping Voidcraw
+Sol Ring
+Spawnbed Protector
+Sundering Eruption // Volcanic Fissure
+Swamp
+Territory Culler
+Thief of Existence
+Thought-Knot Seer
+Thran Dynamo
+Three Visits
+Titans' Vanguard
+Twins of Discord
+Ugin, the Ineffable
+Ugin's Binding
+Ugin's Labyrinth
+Ulamog, the Ceaseless Hunger
+Ulamog, the Defiler
+Ulamog, the Infinite Gyre
+Ulamog's Dreadsire
+Urza's Power Plant
+Urza's Tower
+Void Winnower
+Watery Grave
+Writhing Chrysalis
+Yavimaya Coast
+Zhulodok, Void Gorger

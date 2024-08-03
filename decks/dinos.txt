@@ -21,7 +21,6 @@
 1 Doors of Durin (LTR) 199
 1 Entish Restoration (LTR) 163
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
-1 Fanatic of Rhonas (MH3) 458
 1 Farseek (LCC) 242
 1 Finale of Devastation (WAR) 160
 1 Fire-Lit Thicket (SHM) 271
@@ -84,6 +83,7 @@
 1 Unclaimed Territory (LCC) 366
 1 Urza's Incubator (C15) 273
 1 Urza's Saga (MH2) 259
+1 Vaultborn Tyrant (BIG) 50
 1 Verdant Catacombs (MM3) 249
 1 Wakening Sun's Avatar (LCC) 139
 1 Wayward Swordtooth (LCC) 263

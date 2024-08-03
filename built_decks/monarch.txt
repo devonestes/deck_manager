@@ -1,24 +1,24 @@
 Adeline, Resplendent Cathar (PROXY)
 Ancient Tomb (PROXY)
-Arid Mesa (PROXY)
 Aurelia, the Law Above (PROXY)
 Cavern of Souls (PROXY)
 Clever Concealment (PROXY)
-Combat Celebrant (PROXY)
 Conjurer's Mantle (PROXY)
+Cyclonic Rift (PROXY)
 Esper Sentinel (PROXY)
-Flooded Strand (PROXY)
+Fierce Guardianship (PROXY)
 Forth Eorlingas! (PROXY)
 Imperial Recruiter (PROXY)
+Otawara, Soaring City (PROXY)
 Ragavan, Nimble Pilferer (PROXY)
 Ranger-Captain of Eos (PROXY)
 Recruiter of the Guard (PROXY)
 Rhystic Study (PROXY)
-Sacred Foundry (PROXY)
-Scalding Tarn (PROXY)
+Sea of Clouds (PROXY)
 Serra Ascendant (PROXY)
 Spectator Seating (PROXY)
 Sundown Pass (PROXY)
+Swan Song (PROXY)
 Weathered Wayfarer (PROXY)
 Aragorn, King of Gondor
 Adarkar Wastes
@@ -26,6 +26,7 @@ Akroma's Will
 Angelic Field Marshal
 Arcane Signet
 Archivist of Gondor
+Arid Mesa
 Aurelia, the Warleader
 Azure Fleet Admiral
 Battlefield Forge
@@ -35,11 +36,11 @@ Cascade Bluffs
 Cathars' Crusade
 Champions of Minas Tirith
 Clifftop Retreat
+Combat Celebrant
 Command Tower
 Coppercoat Vanguard
 Court of Grace
 Court of Vantress
-Cyclonic Rift
 Deserted Beach
 Dolmen Gate
 Elesh Norn, Grand Cenobite
@@ -48,8 +49,8 @@ Faerie Mastermind
 Faramir, Prince of Ithilien
 Faramir, Steward of Gondor
 Fealty to the Realm
-Fierce Guardianship
 Flawless Maneuver
+Flooded Strand
 Glacial Fortress
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout
 Greymond, Avacyn's Stalwart
@@ -65,7 +66,6 @@ Mystic Gate
 Mystic Monastery
 Odric, Lunarch Marshal
 Odric, Master Tactician
-Otawara, Soaring City
 Palace Jailer
 Path of Ancestry
 Plains
@@ -77,16 +77,16 @@ Professional Face-Breaker
 Raugrin Triome
 Retribution of the Meek
 Rugged Prairie
+Sacred Foundry
 Savage Beating
+Scalding Tarn
 Sea Gate Restoration // Sea Gate, Reborn
-Sea of Clouds
 Secluded Courtyard
 Shared Animosity
 Smothering Tithe
 Sol Ring
 Steam Vents
 Stormcarved Coast
-Swan Song
 Swords to Plowshares
 Talisman of Conviction
 Talisman of Creativity

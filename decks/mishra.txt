@@ -24,14 +24,15 @@
 1 Drossforge Bridge (BRC) 183
 1 Etherium Sculptor (ALA) 42
 1 Fabricate (MRD) 35
-1 Fell the Profane // Fell Mire (MH3) 244
 1 Fierce Guardianship (C20) 35
+1 Fomori Vault (BIG) 59
 1 Gonti's Aether Heart (M3C) 294
 1 Great Furnace (BRC) 187
 1 Haunted Ridge (MID) 282
 1 Ichor Wellspring (BRC) 143
 1 Idol of Oblivion (BRC) 144
 2 Island (MOM) 278
+1 Jackdaw (ACR) 58
 1 Jhoira, Ageless Innovator (DMU) 301
 1 Jhoira, Weatherlight Captain (BRC) 126
 1 Kappa Cannoneer (NEC) 14
@@ -40,7 +41,6 @@
 1 Liberator, Urza's Battlethopter (BRO) 237
 1 Lightning Greaves (LTC) 281
 1 Luxury Suite (ZNE) 18
-1 Machine God's Effigy (BRC) 16
 1 Magmatic Galleon (LCI) 157
 1 Mana Drain (CMR) 80
 1 Metalworker (UDS) 135

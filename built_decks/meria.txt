@@ -1,10 +1,8 @@
 Birds of Paradise (PROXY)
 Blightsteel Colossus (PROXY)
 Boseiju, Who Endures (PROXY)
-Buried Ruin (PROXY)
 Chandra's Ignition (PROXY)
 Commander's Plate (PROXY)
-Darksteel Citadel (PROXY)
 Deflecting Swat (PROXY)
 Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
 Finale of Devastation (PROXY)
@@ -24,15 +22,16 @@ Yavimaya, Cradle of Growth (PROXY)
 Meria, Scholar of Antiquity
 Apex Altisaur
 Basilisk Collar
-Beamtown Beatstick
 Berserk
 Bitterthorn, Nissa's Animus
 Blackblade Reforged
+Buried Ruin
 Champion's Helm
 Chaos Warp
 Cinder Glade
 Command Tower
 Cragcrown Pathway // Timbercrown Pathway
+Darksteel Citadel
 Darksteel Plate
 Diamond Pick-Axe
 Dire Flail // Dire Blunderbuss
@@ -58,6 +57,7 @@ Kessig Wolf Run
 Komainu Battle Armor
 Lavaspur Boots
 Lightning Greaves
+Lost Jitte
 Lothlórien Blade
 Mask of Memory
 Mountain
@@ -67,7 +67,6 @@ Mountain
 Mountain
 Mountain
 Nettlecyst
-Neurok Hoversail
 Ornithopter
 Pip-Boy 3000
 Reckless Fireweaver
@@ -95,6 +94,7 @@ Thrun, Breaker of Silence
 Thrun, the Last Troll
 Toski, Bearer of Secrets
 Tree of Tales
+Umezawa's Jitte
 Vorrac Battlehorns
 Walking Ballista
 Zoyowa's Justice

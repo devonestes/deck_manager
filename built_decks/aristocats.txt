@@ -1,9 +1,7 @@
 Agadeem's Awakening // Agadeem, the Undercrypt (PROXY)
-Ancient Tomb (PROXY)
 Anguished Unmaking (PROXY)
 Bloodchief Ascension (PROXY)
 Bloodghast (PROXY)
-Caves of Koilos (PROXY)
 Charismatic Conqueror (PROXY)
 Cruel Celebrant (PROXY)
 Damn (PROXY)
@@ -12,21 +10,16 @@ Demonic Tutor (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
 Esper Sentinel (PROXY)
 Fetid Heath (PROXY)
-Godless Shrine (PROXY)
 Ichor Wellspring (PROXY)
 Isolated Chapel (PROXY)
-Marsh Flats (PROXY)
 Mother of Runes (PROXY)
 Mox Amber (PROXY)
-Phyrexian Reclamation (PROXY)
 Phyrexian Tower (PROXY)
 Serra Ascendant (PROXY)
 Shattered Sanctum (PROXY)
-Skullclamp (PROXY)
 Takenuma, Abandoned Mire (PROXY)
 Teferi's Protection (PROXY)
 The Meathook Massacre (PROXY)
-Urborg, Tomb of Yawgmoth (PROXY)
 Urza's Saga (PROXY)
 Vampiric Tutor (PROXY)
 Vault of Champions (PROXY)
@@ -35,7 +28,6 @@ Weathered Wayfarer (PROXY)
 Bartolomé del Presidio
 Amalia Benavides Aguirre
 Animate Dead
-Benalish Sleeper
 Bitterblossom
 Blade of the Bloodchief
 Blood Artist
@@ -44,25 +36,33 @@ Case of the Stashed Skeleton
 Castle Ardenvale
 Castle Locthwain
 Caustic Bronco
+Caves of Koilos
+Chthonian Nightmare
 Clay-Fired Bricks // Cosmium Kiln
 Command Tower
 Corpse Knight
 Dance of the Dead
 Dark Confidant
 Deadly Dispute
+Dewdrop Cure
 Dross Skullbomb
-Dust Animus
 Elas il-Kor, Sadistic Pilgrim
+Emperor of Bones
 Fanatical Offering
-Greedy Freebooter
-Helping Hand
+Godless Shrine
 Inkshield
+Iridescent Vinelasher
 Land Tax
 Leonin Relic-Warder
+Lively Dirge
 Luminarch Ascension
+Marionette Apprentice
+Marsh Flats
 Metallic Mimic
 Mind Stone
 Orcish Bowmasters
+Phyrexian Reclamation
+Plains
 Plains
 Plains
 Plains
@@ -72,13 +72,14 @@ Plains
 Priest of Forgotten Gods
 Putrid Goblin
 Reanimate
-Restoration Specialist
+Ripples of Undeath
 Rogue's Passage
 Selfless Savior
 Selfless Spirit
 Servant of the Stinger
 Sevinne's Reclamation
 Silent Clearing
+Skullclamp
 Snuff Out
 Sol Ring
 Spirited Companion
@@ -96,5 +97,4 @@ Triarch Praetorian
 Urza's Bauble
 Village Rites
 Viscera Seer
-Westfold Rider
 Zulaport Cutthroat

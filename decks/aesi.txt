@@ -28,7 +28,6 @@
 1 Field of the Dead (M20) 247
 1 Fierce Guardianship (C20) 35
 1 Finale of Devastation (WAR) 160
-1 Flare of Cultivation (MH3) 154
 1 Flooded Strand (KTK) 233
 4 Forest (J22) 110
 1 Green Sun's Twilight (ONE) 169
@@ -39,6 +38,7 @@
 1 Hydroid Krasis (RNA) 183
 3 Island (MOM) 278
 1 Jungle Basin (VIS) 164
+1 Kodama of the East Tree (BLC) 227
 1 Koma, Cosmos Serpent (KHM) 221
 1 Last March of the Ents (LTR) 418
 1 Llanowar Scout (DOM) 170

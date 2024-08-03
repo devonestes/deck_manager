@@ -1,7 +1,6 @@
 1 Bartolomé del Presidio (LCI) 224
 1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
 1 Amalia Benavides Aguirre (LCI) 221
-1 Ancient Tomb (TMP) 315
 1 Anguished Unmaking (SLD) 138
 1 Animate Dead (3ED) 93
 1 Bitterblossom (MOR) 58
@@ -27,24 +26,24 @@
 1 Deadly Dispute (P30A) 29
 1 Deadly Rollick (C20) 42
 1 Demonic Tutor (3ED) 105
+1 Dewdrop Cure (BLB) 10
 1 Dross Skullbomb (ONE) 225
-1 Dust Animus (OTJ) 9
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
 1 Emperor of Bones (MH3) 90
 1 Esper Sentinel (MH2) 12
 1 Fanatical Offering (LCI) 105
-1 Fell the Profane // Fell Mire (MH3) 244
 1 Fetid Heath (NCC) 401
 1 Godless Shrine (UNF) 282
-1 Greedy Freebooter (LCI) 109
 1 Ichor Wellspring (BRC) 143
 1 Inkshield (C21) 398
+1 Iridescent Vinelasher (BLB) 99
 1 Isolated Chapel (LCC) 337
-1 Jolted Awake (MH3) 392
 1 Land Tax (2XM) 20
 1 Leonin Relic-Warder (MBS) 10
+1 Lively Dirge (OTJ) 93
 1 Luminarch Ascension (ZEN) 25
+1 Marionette Apprentice (MH3) 100
 1 Marsh Flats (MM3) 239
 1 Metallic Mimic (LCC) 308
 1 Mind Stone (MOC) 364
@@ -53,11 +52,11 @@
 1 Orcish Bowmasters (LTR) 103
 1 Phyrexian Reclamation (J22) 124
 1 Phyrexian Tower (JMP) 493
-6 Plains (J22) 98
+7 Plains (J22) 98
 1 Priest of Forgotten Gods (RVR) 90
 1 Putrid Goblin (MH1) 101
-1 Quest for the Necropolis (MH3) 104
 1 Reanimate (TMP) 151
+1 Ripples of Undeath (MH3) 107
 1 Rogue's Passage (LTC) 326
 1 Selfless Savior (M21) 36
 1 Selfless Spirit (CLB) 706
@@ -71,14 +70,13 @@
 1 Sol Ring (MOC) 381
 1 Spirited Companion (NEO) 38
 1 Stitcher's Supplier (J22) 472
-6 Swamp (J22) 106
+7 Swamp (J22) 106
 1 Swords to Plowshares (MOC) 211
 1 Takenuma, Abandoned Mire (NEO) 416
 1 Teferi's Protection (C17) 8
 1 The Meathook Massacre (MID) 112
 1 Transmogrant's Crown (BRO) 125
 1 Triarch Praetorian (40K) 66
-1 Urborg, Tomb of Yawgmoth (TSR) 287
 1 Urza's Bauble (5ED) 406
 1 Urza's Saga (MH2) 259
 1 Vampiric Tutor (VIS) 72

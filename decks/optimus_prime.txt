@@ -19,10 +19,11 @@
 1 Dispatch (NEC) 83
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Enthusiastic Mechanaut (NEO) 218
-1 Esper Sentinel (MH2) 12
+1 Envoy of the Ancestors (MH3) 23
 1 Etherium Sculptor (ALA) 42
 1 Felidar Retreat (CMM) 821
 1 Foundry Inspector (BRR) 79
+1 Glacial Fortress (LTC) 315
 1 Gold-Forged Thopteryx (MAT) 31
 1 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (BOT) 11
 1 Great Furnace (BRC) 187
@@ -32,7 +33,6 @@
 1 Inventors' Fair (KLD) 247
 4 Island (J22) 101
 1 Jetfire, Ingenious Scientist // Jetfire, Air Guardian (BOT) 3
-1 Jhoira, Weatherlight Captain (BRC) 126
 1 Kappa Cannoneer (NEC) 14
 1 Karn, Legacy Reforged (MAT) 184
 1 Karn's Bastion (CMM) 1007
@@ -55,9 +55,9 @@
 1 Razortide Bridge (MH2) 252
 1 Rhystic Study (J22) 114
 1 Ripples of Potential (LCC) 77
+1 Rustvale Bridge (PIP) 285
 1 Sacred Foundry (UNF) 285
 1 Saheeli, Filigree Master (BRO) 219
-1 Sea of Clouds (BBD) 84
 1 Seat of the Synod (BRC) 198
 1 Shivan Reef (OTC) 320
 1 Shorikai, Genesis Engine (NEC) 4

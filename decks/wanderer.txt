@@ -18,7 +18,6 @@
 1 Entish Restoration (LTR) 163
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
-1 Fanatic of Rhonas (MH3) 458
 1 Farseek (RVR) 138
 1 Fiery Emancipation (M21) 366
 1 Fire-Lit Thicket (SHM) 271
@@ -42,6 +41,7 @@
 1 Migration Path (IKO) 164
 1 Misthollow Griffin (PLST) AVR-68
 1 Misty Rainforest (MM3) 240
+1 Monstrous Vortex (MH3) 162
 2 Mountain (J22) 107
 1 Nissa, Ascended Animist (ONE) 339
 1 Nyxbloom Ancient (THB) 190

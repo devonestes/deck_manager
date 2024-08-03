@@ -8,7 +8,6 @@ Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
 Tarnished Citadel (PROXY)
 Urza's Saga (PROXY)
 Wheel of Fortune (PROXY)
-Wurmcoil Engine (PROXY)
 Auntie Blyte, Bad Influence
 Acidic Soil
 Ankh of Mishra
@@ -30,6 +29,7 @@ Fires of Mount Doom
 Fireslinger
 Flame Rift
 Gauntlet of Might
+Generous Plunderer
 Ghostfire Slice
 Goldspan Dragon
 Imperial Recruiter
@@ -83,7 +83,6 @@ Ruby Medallion
 Seething Song
 Shadowspear
 Shatterskull Smashing // Shatterskull, the Hammer Pass
-Sin Prodder
 Smoke
 Sol Ring
 Solphim, Mayhem Dominus
@@ -97,4 +96,5 @@ War Room
 Wheel of Misfortune
 Winter Moon
 Wrenn's Resolve
+Wurmcoil Engine
 Zo-Zu the Punisher

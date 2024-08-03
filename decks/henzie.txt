@@ -8,6 +8,9 @@
 1 Archpriest of Shadows (MOM) 89
 1 Artisan of Kozilek (CMM) 801
 1 Atsushi, the Blazing Sky (NEO) 410
+1 Bane of Progress (C13) 137
+1 Birthing Pod (NPH) 104
+1 Birthing Ritual (MH3) 337
 1 Blasphemous Act (BRC) 113
 1 Blood Crypt (UNF) 279
 1 Bloodstained Mire (KTK) 230
@@ -15,7 +18,6 @@
 1 Boseiju, Who Endures (NEO) 501
 1 Bringer of the Last Gift (LCI) 94
 1 Buried Alive (WTH) 63
-1 Chaos Warp (BRC) 114
 1 Cinder Glade (DMC) 203
 1 Command Tower (MOC) 396
 1 Cultivate (J22) 644
@@ -29,7 +31,6 @@
 1 Etali, Primal Storm (AFC) 126
 1 Exotic Orchard (MOC) 398
 1 Farseek (RVR) 138
-1 Fell the Profane // Fell Mire (MH3) 244
 1 Fire-Lit Thicket (SHM) 271
 1 Flare of Cultivation (MH3) 154
 5 Forest (J22) 110
@@ -57,11 +58,11 @@
 1 Ojer Kaslem, Deepest Growth // Temple of Cultivation (LCI) 204
 1 Old Gnawbone (AFR) 197
 1 Overgrown Tomb (UNF) 284
-1 Phyrexian Reclamation (J22) 124
 1 Primeval Herald (J22) 42
 1 Reanimate (TMP) 151
 1 Rise of the Dark Realms (M14) 111
 1 Riveteers Ascendancy (SNC) 216
+1 Rottenmouth Viper (BLB) 290
 1 Sakura-Tribe Elder (CHK) 239
 1 Shadow in the Warp (40K) 140
 1 Skullclamp (DST) 140
@@ -70,7 +71,7 @@
 1 Spire Garden (ZNE) 19
 1 Stomping Ground (UNF) 280
 1 Sundial of the Infinite (M12) 218
-3 Swamp (J22) 106
+4 Swamp (J22) 106
 1 Takenuma, Abandoned Mire (NEO) 416
 1 The Great Henge (LTC) 348
 1 The Skullspore Nexus (LCI) 212
@@ -83,9 +84,7 @@
 1 Vampiric Tutor (VIS) 72
 1 Verdant Catacombs (MM3) 249
 1 Victimize (EMA) 113
-1 Village Rites (J22) 486
 1 Virtue of Persistence // Locthwain Scorn (WOE) 115
-1 Vivien on the Hunt (SNC) 162
 1 Wheel of Fortune (3ED) 185
 1 Wooded Foothills (KTK) 249
 1 Wurmcoil Engine (2XM) 308

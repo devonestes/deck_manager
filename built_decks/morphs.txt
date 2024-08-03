@@ -1,10 +1,8 @@
-Boseiju, Who Endures (PROXY)
 Craterhoof Behemoth (PROXY)
-Demonic Tutor (PROXY)
-Misty Rainforest (PROXY)
-Vampiric Tutor (PROXY)
-Verdant Catacombs (PROXY)
-Yavimaya, Cradle of Growth (PROXY)
+Rejuvenating Springs (PROXY)
+Rhystic Study (PROXY)
+Tropical Island (PROXY)
+Worldly Tutor (PROXY)
 Kadena, Slinking Sorcerer
 Ainok Survivalist
 Alchemist's Refuge
@@ -12,6 +10,7 @@ All Is Dust
 Aphetto Runecaster
 Arcane Signet
 Assassin's Trophy
+Bayou
 Beast Whisperer
 Branch of Vitu-Ghazi
 Breeding Pool
@@ -21,15 +20,16 @@ Command Tower
 Cryptic Coat
 Crystal Shard
 Cyclonic Rift
+Deathcap Glade
 Deathmist Raptor
 Den Protector
 Dreamroot Cascade
 Elven Chorus
+Etrata, Deadly Fugitive
 Farseek
 Final-Word Phantom
 Flooded Grove
 Flourishing Bloom-Kin
-Forest
 Forest
 Gift of Doom
 Grazilaxx, Illithid Scholar
@@ -58,9 +58,9 @@ Overgrown Tomb
 Polluted Delta
 Printlifter Ooze
 Rampant Growth
-Rejuvenating Springs
 Reliquary Tower
-Rhystic Study
+Revitalizing Repast // Old-Growth Grove
+Satoru, the Infiltrator
 Scroll of Fate
 Secret Plans
 Seedborn Muse
@@ -82,7 +82,7 @@ Three Visits
 Triumph of the Hordes
 Twilight Mire
 Ugin's Mastery
-Underground River
+Underground Sea
 Undergrowth Stadium
 Vannifar, Evolved Enigma
 Vedalken Orrery
@@ -93,8 +93,8 @@ Whisperwood Elemental
 Wilderness Reclamation
 Winding Canyons
 Woodland Cemetery
-Worldly Tutor
 Yavimaya Coast
+Yavimaya, Cradle of Growth
 Yedora, Grave Gardener
 Zagoth Triome
 Zoetic Cavern

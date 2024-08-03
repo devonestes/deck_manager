@@ -1,9 +1,9 @@
 Birds of Paradise (PROXY)
 Bloom Tender (PROXY)
 Bountiful Promenade (PROXY)
-Breeding Pool (PROXY)
 Case of the Stashed Skeleton (PROXY)
 City of Brass (PROXY)
+Crop Rotation (PROXY)
 Cyclonic Rift (PROXY)
 Deflecting Swat (PROXY)
 Demonic Tutor (PROXY)
@@ -12,34 +12,27 @@ Fierce Guardianship (PROXY)
 Forbidden Orchard (PROXY)
 Heroic Intervention (PROXY)
 Ketria Triome (PROXY)
-Misty Rainforest (PROXY)
 Oracle of Mul Daya (PROXY)
-Overgrown Tomb (PROXY)
 Rhystic Study (PROXY)
 Rockfall Vale (PROXY)
 Savai Triome (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Sea of Clouds (PROXY)
 Smothering Tithe (PROXY)
-Steam Vents (PROXY)
-Stomping Ground (PROXY)
 Swan Song (PROXY)
 Teferi's Protection (PROXY)
 Tithe (PROXY)
 Vampiric Tutor (PROXY)
-Verdant Catacombs (PROXY)
-Watery Grave (PROXY)
-Windswept Heath (PROXY)
 Wooded Foothills (PROXY)
 Zagoth Triome (PROXY)
 Ziatora's Proving Ground (PROXY)
 Go-Shintai of Life's Origin
 Argothian Enchantress
 Atraxa, Grand Unifier
+Breeding Pool
 Brushland
 Cacophony Unleashed
 Command Tower
-Crop Rotation
 Cultivate
 Destiny Spinner
 Dryad of the Ilysian Grove
@@ -69,11 +62,13 @@ Island
 Jetmir's Garden
 Jukai Naturalist
 Mirari's Wake
+Misty Rainforest
 Moat
 Moon-Blessed Cleric
 Mountain
 Nessian Wanderer
 Overgrown Farmland
+Overgrown Tomb
 Peacekeeper
 Plains
 Reliquary Tower
@@ -90,11 +85,16 @@ Shrine Steward
 Sigil of the Empty Throne
 Sol Ring
 Spara's Headquarters
+Steam Vents
 Sterling Grove
+Stomping Ground
 Swamp
 Sythis, Harvest's Hand
 Temple Garden
 The World Tree
+Verdant Catacombs
 Verduran Enchantress
+Watery Grave
+Windswept Heath
 Wooded Bastion
 Zur the Enchanter

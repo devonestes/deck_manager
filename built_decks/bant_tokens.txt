@@ -1,9 +1,7 @@
 Adeline, Resplendent Cathar (PROXY)
 Ancient Tomb (PROXY)
-Avenger of Zendikar (PROXY)
 Birds of Paradise (PROXY)
 Boseiju, Who Endures (PROXY)
-Bountiful Promenade (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
 Charismatic Conqueror (PROXY)
@@ -17,16 +15,13 @@ Elven Chorus (PROXY)
 Esper Sentinel (PROXY)
 Faerie Mastermind (PROXY)
 Fierce Guardianship (PROXY)
-Flooded Grove (PROXY)
 Flooded Strand (PROXY)
-Glacial Fortress (PROXY)
 Gruff Triplets (PROXY)
-Hallowed Fountain (PROXY)
 Heroic Intervention (PROXY)
-Hinterland Harbor (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
 Natural Order (PROXY)
+Noble Hierarch (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Oltec Matterweaver (PROXY)
 Otawara, Soaring City (PROXY)
@@ -34,13 +29,10 @@ Overgrown Farmland (PROXY)
 Rejuvenating Springs (PROXY)
 Rhys the Redeemed (PROXY)
 Rhystic Study (PROXY)
-Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Sea of Clouds (PROXY)
 Spara's Headquarters (PROXY)
 Teferi's Protection (PROXY)
-Temple Garden (PROXY)
-Tendershoot Dryad (PROXY)
 Three Visits (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Urza's Saga (PROXY)
@@ -51,28 +43,35 @@ Adrix and Nev, Twincasters
 Arachnogenesis
 Arcane Signet
 Arwen, Weaver of Hope
+Avenger of Zendikar
+Basking Broodscale
 Beast Whisperer
 Bennie Bracks, Zoologist
 Bramble Sovereign
+Brushland
 Cauldron of Souls
 Command Tower
 Danny Pink
 Doubling Season
 Earthcraft
 Edric, Spymaster of Trest
+Ephara, God of the Polis
+Evolution Witness
 Faerie Artisans
 Felidar Retreat
+Flooded Grove
 Forest
 Forest
 Forest
-Gala Greeters
 Galadhrim Ambush
+Glacial Fortress
 Glen Elendra Archmage
 Gyre Sage
+Hallowed Fountain
 Herald of Secret Streams
 Herd Baloth
+Hinterland Harbor
 Imperious Perfect
-Incubation Druid
 Inspiring Call
 Island
 Island
@@ -82,7 +81,6 @@ Master Biomancer
 Mondrak, Glory Dominus
 Mystic Remora
 Nadir Kraken
-Noble Hierarch
 Ohran Frostfang
 Overwhelming Stampede
 Peregrine Drake
@@ -91,8 +89,10 @@ Plains
 Plains
 Ripples of Potential
 Sakashima of a Thousand Faces
+Scute Swarm
 Sol Ring
-Staff of Compleation
+Temple Garden
+Tendershoot Dryad
 The Ozolith
 Tocasia's Welcome
 Wave Goodbye

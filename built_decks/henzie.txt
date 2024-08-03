@@ -1,24 +1,16 @@
 Ancient Tomb (PROXY)
-Assassin's Trophy (PROXY)
-Blood Crypt (PROXY)
-Bloodstained Mire (PROXY)
 Boseiju, Who Endures (PROXY)
 Delighted Halfling (PROXY)
 Demonic Tutor (PROXY)
 Dockside Extortionist (PROXY)
 Dragonskull Summit (PROXY)
 Luxury Suite (PROXY)
-Overgrown Tomb (PROXY)
-Skullclamp (PROXY)
-Stomping Ground (PROXY)
-Twilight Mire (PROXY)
 Undergrowth Stadium (PROXY)
 Urborg, Tomb of Yawgmoth (PROXY)
 Urza's Saga (PROXY)
 Vampiric Tutor (PROXY)
-Verdant Catacombs (PROXY)
 Wheel of Fortune (PROXY)
-Wooded Foothills (PROXY)
+Wurmcoil Engine (PROXY)
 Henzie "Toolbox" Torre
 Ancient Brass Dragon
 Ancient Copper Dragon
@@ -28,22 +20,26 @@ Archon of Cruelty
 Archpriest of Shadows
 Artisan of Kozilek
 Atsushi, the Blazing Sky
+Bane of Progress
+Birthing Pod
+Birthing Ritual
 Blasphemous Act
+Blood Crypt
+Bloodstained Mire
 Blossoming Tortoise
 Bringer of the Last Gift
 Buried Alive
-Chaos Warp
 Cinder Glade
 Command Tower
 Cultivate
 Deadly Rollick
 Doors of Durin
-Entomb
 Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
 Exotic Orchard
 Farseek
 Fire-Lit Thicket
+Flare of Cultivation
 Forest
 Forest
 Forest
@@ -73,17 +69,21 @@ Necromancy
 Noxious Gearhulk
 Ojer Kaslem, Deepest Growth // Temple of Cultivation
 Old Gnawbone
-Phyrexian Reclamation
+Overgrown Tomb
 Primeval Herald
 Reanimate
 Rise of the Dark Realms
 Riveteers Ascendancy
+Rottenmouth Viper
 Sakura-Tribe Elder
 Shadow in the Warp
+Skullclamp
 Sol Ring
 Solemn Simulacrum
 Spire Garden
+Stomping Ground
 Sundial of the Infinite
+Swamp
 Swamp
 Swamp
 Swamp
@@ -91,10 +91,10 @@ Takenuma, Abandoned Mire
 The Great Henge
 The Skullspore Nexus
 Toxic Deluge
+Twilight Mire
 Up the Beanstalk
+Verdant Catacombs
 Victimize
-Village Rites
 Virtue of Persistence // Locthwain Scorn
-Vivien on the Hunt
-Wurmcoil Engine
+Wooded Foothills
 Ziatora's Proving Ground

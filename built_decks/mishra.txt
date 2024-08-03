@@ -1,6 +1,3 @@
-Blasphemous Act (PROXY)
-Blood Crypt (PROXY)
-Bloodstained Mire (PROXY)
 Deflecting Swat (PROXY)
 Demonic Tutor (PROXY)
 Dockside Extortionist (PROXY)
@@ -10,33 +7,31 @@ Liberator, Urza's Battlethopter (PROXY)
 Luxury Suite (PROXY)
 Mithril Coat (PROXY)
 Morphic Pool (PROXY)
+Mox Amber (PROXY)
 Otawara, Soaring City (PROXY)
-Polluted Delta (PROXY)
 Rhystic Study (PROXY)
 Riverglide Pathway // Lavaglide Pathway (PROXY)
 Scalding Tarn (PROXY)
 Scroll Rack (PROXY)
 Shipwreck Marsh (PROXY)
-Steam Vents (PROXY)
 Stormcarved Coast (PROXY)
 Sunken Ruins (PROXY)
-Talisman of Creativity (PROXY)
 Training Center (PROXY)
 Urza's Saga (PROXY)
 Vampiric Tutor (PROXY)
-Watery Grave (PROXY)
 Wurmcoil Engine (PROXY)
 Mishra, Eminent One
 Academy Ruins
 Arcane Signet
 Arcum Dagsson
 Badlands
-Baleful Strix
 Basalt Monolith
+Blasphemous Act
 Blightsteel Colossus
+Blood Crypt
+Bloodstained Mire
 Brudiclad, Telchor Engineer
 Cascade Bluffs
-Chaos Warp
 Chimil, the Inner Sun
 Cityscape Leveler
 Coldsteel Heart
@@ -48,18 +43,20 @@ Determined Iteration
 Drossforge Bridge
 Etherium Sculptor
 Fabricate
+Fomori Vault
+Gonti's Aether Heart
 Great Furnace
 Ichor Wellspring
 Idol of Oblivion
 Island
 Island
+Jackdaw
 Jhoira, Ageless Innovator
 Jhoira, Weatherlight Captain
 Kappa Cannoneer
 Karn, Legacy Reforged
 Knight Paladin
 Lightning Greaves
-Machine God's Effigy
 Magmatic Galleon
 Mana Drain
 Metalworker
@@ -67,10 +64,10 @@ Mindslaver
 Mistvault Bridge
 Mountain
 Mountain
-Mox Amber
 Mox Opal
 Mystic Forge
 Obeka, Brute Chronologist
+Polluted Delta
 Portal to Phyrexia
 Rise and Shine
 RMS Titanic
@@ -80,9 +77,11 @@ Silverbluff Bridge
 Sol Ring
 Solemn Simulacrum
 Spire of Industry
+Steam Vents
 Strionic Resonator
 Swamp
 Swiftfoot Boots
+Talisman of Creativity
 Talisman of Dominance
 Talisman of Indulgence
 The Belligerent
@@ -95,6 +94,7 @@ Troll of Khazad-dûm
 Unwinding Clock
 Urza, Lord High Artificer
 Vault of Whispers
+Watery Grave
 Weatherlight
 Wondrous Crucible
 Xander's Lounge

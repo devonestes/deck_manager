@@ -1,4 +1,3 @@
-Cascade Bluffs (PROXY)
 Cyclonic Rift (PROXY)
 Deflecting Swat (PROXY)
 Fierce Guardianship (PROXY)
@@ -26,6 +25,7 @@ Baral's Expertise
 Big Score
 Brainstorm
 Capture of Jingzhou
+Cascade Bluffs
 Castle Vantress
 Command Tower
 Consider

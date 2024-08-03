@@ -1,15 +1,12 @@
-Arid Mesa (PROXY)
-Bloodstained Mire (PROXY)
-Charismatic Conqueror (PROXY)
-Mana Crypt (PROXY)
-Sacred Foundry (PROXY)
+Ancient Tomb (PROXY)
+Enlightened Tutor (PROXY)
 Edgar Markov
 Agadeem's Awakening // Agadeem, the Undercrypt
 Akroma's Will
-Ancient Tomb
 Anguished Unmaking
 Arcane Signet
 Ashnod's Altar
+Badlands
 Battlefield Forge
 Beseech the Mirror
 Black Market Connections
@@ -23,6 +20,7 @@ Captivating Vampire
 Cavern of Souls
 Caves of Koilos
 Champion of Dusk
+Changeling Outcast
 Clavileño, First of the Blessed
 Clifftop Retreat
 Coat of Arms
@@ -39,9 +37,9 @@ Dragonskull Summit
 Drana and Linvala
 Drana, Liberator of Malakir
 Dusk Legion Duelist
+Dusk Legion Sergeant
 Edgar, Charmed Groom // Edgar Markov's Coffin
 Elenda, the Dusk Rose
-Enlightened Tutor
 Everything Comes to Dust
 Exquisite Blood
 Fell the Profane // Fell Mire
@@ -64,6 +62,7 @@ Nighthawk Scavenger
 Olivia's Wrath
 Pact of the Serpent
 Path of Ancestry
+Patriarch's Bidding
 Phyrexian Tower
 Plains
 Preacher of the Schism
@@ -79,6 +78,7 @@ Sol Ring
 Spectator Seating
 Stromkirk Captain
 Sulfurous Springs
+Sundering Eruption // Volcanic Fissure
 Sundown Pass
 Swamp
 Swords to Plowshares

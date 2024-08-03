@@ -13,6 +13,7 @@
 1 Brimaz, King of Oreskos (BNG) 5
 1 Champion of Lambholt (NCC) 284
 1 Charismatic Conqueror (LCC) 70
+1 Chittering Dispatcher (M3C) 63
 1 Chord of Calling (RAV) 156
 1 City of Brass (5ED) 413
 1 Clever Concealment (ONC) 5
@@ -22,7 +23,6 @@
 1 Delighted Halfling (LTR) 158
 1 Dockside Extortionist (2X2) 360
 1 Doorkeeper Thrull (MKM) 338
-1 Drannith Magistrate (IKO) 314
 1 Dryad Arbor (FUT) 174
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Elvish Mystic (M15) 173
@@ -30,7 +30,6 @@
 1 Exotic Orchard (MOC) 398
 1 Fanatic of Rhonas (MH3) 458
 1 Final Fortune (MIR) 173
-1 Flare of Cultivation (MH3) 154
 1 Flooded Strand (KTK) 233
 1 Forbidden Orchard (C16) 296
 1 Forest (J22) 110
@@ -42,7 +41,7 @@
 1 Green Sun's Zenith (2X2) 150
 1 Horizon Canopy (LTC) 366
 1 Hushbringer (ELD) 18
-1 Joven's Ferrets (HML) 89
+1 Hushwing Gryff (M15) 15
 1 Kellan, Daring Traveler // Journey On (LCI) 231
 1 Kutzil, Malamet Exemplar (LCI) 304
 1 Legolas's Quick Reflexes (LTC) 493
@@ -56,9 +55,9 @@
 1 Mountain (J22) 107
 1 Myrel, Shield of Argive (BRO) 305
 1 Natural Order (VIS) 114
+1 Ocelot Pride (MH3) 394
 1 Ohran Frostfang (SLD) 237
 1 Oltec Matterweaver (PW24) 12
-1 Paladin Elizabeth Taggerdy (PIP) 114
 1 Path to Exile (MOC) 198
 1 Plains (J22) 98
 1 Plateau (3ED) 284
@@ -72,9 +71,10 @@
 1 Sanguine Evangelist (LCI) 34
 1 Saryth, the Viper's Fang (MKC) 185
 1 Scalding Tarn (MM3) 244
+1 Scurry of Squirrels (BLC) 33
 1 Secure the Wastes (PIP) 171
 1 Serra Ascendant (IMA) 31
-1 Skullclamp (DST) 140
+1 Skyhunter Strike Force (PLST) ONC-21
 1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (BOT) 6
 1 Sol Ring (MOC) 381
 1 Song of Totentanz (WOE) 150

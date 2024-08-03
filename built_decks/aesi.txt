@@ -4,28 +4,24 @@ Craterhoof Behemoth (PROXY)
 Cyclonic Rift (PROXY)
 Delighted Halfling (PROXY)
 Fierce Guardianship (PROXY)
-Flooded Strand (PROXY)
+Finale of Devastation (PROXY)
 Heroic Intervention (PROXY)
-Misty Rainforest (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Otawara, Soaring City (PROXY)
 Rejuvenating Springs (PROXY)
 Rhystic Study (PROXY)
-Scalding Tarn (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Swan Song (PROXY)
 Urza's Saga (PROXY)
-Wooded Foothills (PROXY)
 Aesi, Tyrant of Gyre Strait
 Abundance
 Ancient Greenwarden
 Apex Devastator
-Arixmethes, Slumbering Isle
+Arid Archway
 Ashaya, Soul of the Wild
 Augur of Autumn
 Avenger of Zendikar
 Awaken the Woods
-Azusa, Lost but Seeking
 Bonny Pall, Clearcutter
 Breeding Pool
 Burgeoning
@@ -34,14 +30,13 @@ Command Tower
 Conduit of Worlds
 Coral Atoll
 Crucible of Worlds
-Cultivate
 Cultivator Colossus
 Doppelgang
 Entish Restoration
 Exploration
 Fabled Passage
 Field of the Dead
-Finale of Devastation
+Flooded Strand
 Forest
 Forest
 Forest
@@ -55,26 +50,30 @@ Island
 Island
 Island
 Jungle Basin
+Kodama of the East Tree
 Koma, Cosmos Serpent
 Last March of the Ents
 Llanowar Scout
 Lotus Vale
 Mana Breach
+Misty Rainforest
 Mystic Sanctuary
 Nissa, Resurgent Animist
 Nissa, Steward of Elements
 Nyxbloom Ancient
 Oboro, Palace in the Clouds
-Omenpath Journey
 On the Trail
 Oracle of Mul Daya
 Overburden
 Palinchron
 Prismatic Vista
 Rampaging Baloths
+Rampant Frogantua
+Ramunap Excavator
 Reliquary Tower
 Retreat to Coralhelm
 Roil Elemental
+Scalding Tarn
 Scapeshift
 Scute Swarm
 Simic Growth Chamber
@@ -83,9 +82,9 @@ Skyshroud Ranger
 Snow-Covered Forest
 Snow-Covered Island
 Sol Ring
+Sowing Mycospawn
 Storm Cauldron
 Tatyova, Benthic Druid
-Tatyova, Steward of Tides
 Thawing Glaciers
 Thespian's Stage
 Tireless Provisioner
@@ -97,4 +96,5 @@ Vorinclex, Voice of Hunger
 Waterlogged Grove
 Wayward Swordtooth
 Windswept Heath
+Wooded Foothills
 Yavimaya Hollow

@@ -1,62 +1,57 @@
-Akroma's Will (PROXY)
 Ancient Tomb (PROXY)
-Arid Mesa (PROXY)
-Bloodstained Mire (PROXY)
 Bonehoard Dracosaur (PROXY)
 Boseiju, Who Endures (PROXY)
 Bountiful Promenade (PROXY)
 Cavern of Souls (PROXY)
-Chandra's Ignition (PROXY)
 Deflecting Swat (PROXY)
 Delighted Halfling (PROXY)
 Doors of Durin (PROXY)
 Entish Restoration (PROXY)
 Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
-Farseek (PROXY)
 Finale of Devastation (PROXY)
 Fire-Lit Thicket (PROXY)
 Flawless Maneuver (PROXY)
-Flooded Strand (PROXY)
 Heroic Intervention (PROXY)
 Jetmir's Garden (PROXY)
 Kogla and Yidaro (PROXY)
 Last March of the Ents (PROXY)
 Mana Confluence (PROXY)
 Mana Crypt (PROXY)
-Marsh Flats (PROXY)
 Mirari's Wake (PROXY)
 Misty Rainforest (PROXY)
 Overgrown Farmland (PROXY)
 Prismatic Vista (PROXY)
 Roaming Throne (PROXY)
 Rockfall Vale (PROXY)
-Sacred Foundry (PROXY)
 Scalding Tarn (PROXY)
 Spectator Seating (PROXY)
 Spire Garden (PROXY)
 Stomping Ground (PROXY)
 Sundown Pass (PROXY)
 Teferi's Protection (PROXY)
-Temple Garden (PROXY)
 The Great Henge (PROXY)
 The Skullspore Nexus (PROXY)
 Tithe (PROXY)
 Urza's Incubator (PROXY)
 Urza's Saga (PROXY)
-Verdant Catacombs (PROXY)
 Wayward Swordtooth (PROXY)
-Windswept Heath (PROXY)
 Wooded Bastion (PROXY)
 Wooded Foothills (PROXY)
 Gishath, Sun's Avatar
+Akroma's Will
 Arcane Signet
+Arid Mesa
+Bloodstained Mire
 Carnage Tyrant
+Chandra's Ignition
 Command Tower
 Cultivate
 Curious Altisaur
 Defense of the Heart
 Descendants' Path
 Dinosaurs on a Spaceship
+Farseek
+Flooded Strand
 Forest
 Forest
 Forest
@@ -67,6 +62,7 @@ Hulking Raptor
 Hunting Velociraptor
 Invasion of Ikoria // Zilortha, Apex of Ikoria
 Marauding Raptor
+Marsh Flats
 Mountain
 Mountain
 Nature's Lore
@@ -77,24 +73,28 @@ Plains
 Plains
 Polyraptor
 Quartzwood Crasher
-Rampant Growth
 Regal Behemoth
 Regisaur Alpha
 Return of the Wildspeaker
 Rhythm of the Wild
 Ripjaw Raptor
+Sacred Foundry
 Scion of Calamity
 Secluded Courtyard
 Sol Ring
 Sunfrill Imitator
 Sunhome, Fortress of the Legion
 Temple Altisaur
+Temple Garden
 Thrashing Brontodon
 Topiary Stomper
 Trapjaw Tyrant
 Unclaimed Territory
+Vaultborn Tyrant
+Verdant Catacombs
 Wakening Sun's Avatar
 Welcome to . . . // Jurassic Park
+Windswept Heath
 Wrathful Raptors
 Xenagos, God of Revels
 Zacama, Primal Calamity

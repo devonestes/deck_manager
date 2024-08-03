@@ -11,9 +11,9 @@
 1 Bennie Bracks, Zoologist (NCC) 86
 1 Birds of Paradise (4ED) 234
 1 Boseiju, Who Endures (NEO) 501
-1 Bountiful Promenade (ZNE) 20
 1 Bramble Sovereign (BBD) 65
 1 Breeding Pool (UNF) 286
+1 Brushland (BRO) 259
 1 Cathars' Crusade (AVR) 10
 1 Cauldron of Souls (SHM) 248
 1 Charismatic Conqueror (LCC) 70
@@ -29,11 +29,11 @@
 1 Earthcraft (TMP) 222
 1 Edric, Spymaster of Trest (CNS) 187
 1 Elven Chorus (LTR) 160
+1 Ephara, God of the Polis (BNG) 145
 1 Esper Sentinel (MH2) 12
 1 Evolution Witness (MH3) 151
 1 Faerie Artisans (CMM) 92
 1 Faerie Mastermind (PMOM) 58p
-1 Fanatic of Rhonas (MH3) 458
 1 Felidar Retreat (CMM) 821
 1 Fierce Guardianship (C20) 35
 1 Flooded Grove (LTC) 309
