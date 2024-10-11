@@ -13,7 +13,7 @@
 1 Command Tower (MOC) 396
 1 Cyclonic Rift (2XM) 339
 1 Darksteel Monolith (CMM) 743
-1 Dockside Extortionist (2X2) 360
+1 Drowner of Truth // Drowned Jungle (MH3) 253
 1 Echoes of Eternity (MH3) 320
 1 Eldrazi Confluence (M3C) 32
 1 Eldrazi Linebreaker (MH3) 117
@@ -26,6 +26,7 @@
 1 Flooded Strand (KTK) 233
 2 Forest (J22) 110
 1 Forsaken Monument (CMM) 950
+1 Glaring Fleshraker (MH3) 7
 1 Herald's Horn (LTC) 280
 1 Hideous Taskmaster (M3C) 109
 1 Hydroelectric Specimen // Hydroelectric Laboratory (MH3) 240
@@ -89,7 +90,6 @@
 1 Verdant Catacombs (MM3) 249
 1 Void Winnower (BFZ) 17
 1 Watery Grave (UNF) 278
-1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249
 1 Worldly Tutor (MIR) 255
 1 Writhing Chrysalis (MH3) 208

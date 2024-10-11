@@ -1,5 +1,6 @@
 Ancient Tomb (PROXY)
 Enlightened Tutor (PROXY)
+Mana Vault (PROXY)
 Edgar Markov
 Agadeem's Awakening // Agadeem, the Undercrypt
 Akroma's Will
@@ -52,7 +53,6 @@ Indulgent Aristocrat
 Isolated Chapel
 Kindred Dominance
 Luxury Suite
-Mana Vault
 Markov Baron
 Marsh Flats
 Master of Dark Rites

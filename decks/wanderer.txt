@@ -12,7 +12,6 @@
 1 Cultivate (J22) 644
 1 Defense of the Heart (ULG) 100
 1 Delighted Halfling (LTR) 158
-1 Dockside Extortionist (2X2) 360
 1 Drakuseth, Maw of Flames (CLB) 790
 1 Dreamroot Cascade (VOW) 282
 1 Entish Restoration (LTR) 163
@@ -82,6 +81,7 @@
 1 Terror of the Peaks (M21) 369
 1 Three Visits (MKC) 189
 1 Time Spiral (USG) 103
+1 Time Warp (STA) 22
 1 Training Center (CMR) 713
 1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
 1 Up the Beanstalk (WOE) 195

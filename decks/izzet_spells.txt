@@ -14,6 +14,7 @@
 1 Curiosity (WOT) 17
 1 Cyclonic Rift (2XM) 339
 1 Deflecting Swat (C20) 50
+1 Desperate Ritual (CHK) 163
 1 Dig Through Time (OTC) 95
 1 Electrostatic Field (GRN) 97
 1 Expressive Iteration (OTC) 224
@@ -36,7 +37,6 @@
 1 Lightning Bolt (4ED) 208
 1 Lórien Revealed (LTR) 60
 1 Mana Drain (CMR) 80
-1 Mana Geyser (PLST) 5DN-75
 1 Merchant Scroll (HML) 33
 1 Mindsplice Apparatus (ONE) 63
 1 Mizzix's Mastery (OTC) 175

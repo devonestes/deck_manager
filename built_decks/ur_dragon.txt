@@ -8,7 +8,6 @@ Cavern of Souls (PROXY)
 City of Brass (PROXY)
 Cyclonic Rift (PROXY)
 Delighted Halfling (PROXY)
-Dockside Extortionist (PROXY)
 Forbidden Orchard (PROXY)
 Goldspan Dragon (PROXY)
 Guardian Project (PROXY)
@@ -92,6 +91,7 @@ Temple Garden
 Temple of the Dragon Queen
 Temur Ascendancy
 The Kami War // O-Kagachi Made Manifest
+Three Visits
 Tiamat
 Urza's Incubator
 Utvara Hellkite

@@ -15,6 +15,7 @@
 1 Blood Crypt (UNF) 279
 1 Bloodstained Mire (KTK) 230
 1 Blossoming Tortoise (WOE) 163
+1 Boggart Trawler // Boggart Bog (MH3) 243
 1 Boseiju, Who Endures (NEO) 501
 1 Bringer of the Last Gift (LCI) 94
 1 Buried Alive (WTH) 63
@@ -24,8 +25,6 @@
 1 Deadly Rollick (C20) 42
 1 Delighted Halfling (LTR) 158
 1 Demonic Tutor (3ED) 105
-1 Dockside Extortionist (2X2) 360
-1 Doors of Durin (LTR) 199
 1 Dragonskull Summit (SLD) 458
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
@@ -52,7 +51,8 @@
 1 Kura, the Boundless Sky (NEO) 200
 1 Living Death (LTC) 203
 1 Luxury Suite (ZNE) 18
-3 Mountain (J22) 107
+1 Mikaeus, the Unhallowed (CMM) 675
+2 Mountain (J22) 107
 1 Necromancy (VIS) 64
 1 Noxious Gearhulk (BRC) 110
 1 Ojer Kaslem, Deepest Growth // Temple of Cultivation (LCI) 204
@@ -70,8 +70,9 @@
 1 Solemn Simulacrum (BRC) 161
 1 Spire Garden (ZNE) 19
 1 Stomping Ground (UNF) 280
+1 Stump Stomp // Burnwillow Clearing (MH3) 259
 1 Sundial of the Infinite (M12) 218
-4 Swamp (J22) 106
+3 Swamp (J22) 106
 1 Takenuma, Abandoned Mire (NEO) 416
 1 The Great Henge (LTC) 348
 1 The Skullspore Nexus (LCI) 212
@@ -88,4 +89,5 @@
 1 Wheel of Fortune (3ED) 185
 1 Wooded Foothills (KTK) 249
 1 Wurmcoil Engine (2XM) 308
+1 Ziatora, the Incinerator (M3C) 279
 1 Ziatora's Proving Ground (SNC) 295

@@ -1,6 +1,7 @@
-1 Gishath, Sun's Avatar (XLN) 222
+1 Gishath, Sun's Avatar (LCI) 229
 1 Akroma's Will (LCC) 125
 1 Ancient Tomb (TMP) 315
+1 Apex Altisaur (LCC) 232
 1 Arcane Signet (MOC) 348
 1 Arid Mesa (MM3) 229
 1 Bloodstained Mire (KTK) 230
@@ -38,7 +39,6 @@
 1 Kogla and Yidaro (MOM) 244
 1 Last March of the Ents (LTR) 418
 1 Mana Confluence (JOU) 163
-1 Mana Crypt (2XM) 270
 1 Marauding Raptor (LCC) 228
 1 Marsh Flats (MM3) 239
 1 Mirari's Wake (C17) 181

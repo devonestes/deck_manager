@@ -3,11 +3,11 @@ Bloodstained Mire (PROXY)
 Breeding Pool (PROXY)
 Cavern of Souls (PROXY)
 Cyclonic Rift (PROXY)
-Dockside Extortionist (PROXY)
 Fierce Guardianship (PROXY)
 Flooded Strand (PROXY)
 Liberator, Urza's Battlethopter (PROXY)
 Mana Confluence (PROXY)
+Mana Drain (PROXY)
 Marsh Flats (PROXY)
 Misty Rainforest (PROXY)
 Nature's Lore (PROXY)
@@ -15,10 +15,10 @@ Roaming Throne (PROXY)
 Scalding Tarn (PROXY)
 Stomping Ground (PROXY)
 The Great Henge (PROXY)
+Three Visits (PROXY)
 Urza's Incubator (PROXY)
 Urza's Saga (PROXY)
 Verdant Catacombs (PROXY)
-Windswept Heath (PROXY)
 Wooded Foothills (PROXY)
 Worldly Tutor (PROXY)
 Ulalek, Fused Atrocity
@@ -31,6 +31,7 @@ Blood Crypt
 Breaker of Creation
 Command Tower
 Darksteel Monolith
+Drowner of Truth // Drowned Jungle
 Echoes of Eternity
 Eldrazi Confluence
 Eldrazi Linebreaker
@@ -42,6 +43,7 @@ Eye of Ugin
 Forest
 Forest
 Forsaken Monument
+Glaring Fleshraker
 Herald's Horn
 Hideous Taskmaster
 Hydroelectric Specimen // Hydroelectric Laboratory
@@ -57,7 +59,6 @@ Kozilek, the Great Distortion
 Kozilek's Command
 Kozilek's Unsealing
 Llanowar Wastes
-Mana Drain
 Mountain
 Mountain
 Mystic Forge
@@ -81,7 +82,6 @@ Territory Culler
 Thief of Existence
 Thought-Knot Seer
 Thran Dynamo
-Three Visits
 Titans' Vanguard
 Twins of Discord
 Ugin, the Ineffable

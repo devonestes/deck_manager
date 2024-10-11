@@ -2,7 +2,6 @@ Ancient Copper Dragon (PROXY)
 Ancient Tomb (PROXY)
 Boseiju, Who Endures (PROXY)
 Delighted Halfling (PROXY)
-Dockside Extortionist (PROXY)
 Entish Restoration (PROXY)
 Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
 Fiery Emancipation (PROXY)
@@ -92,6 +91,7 @@ Temur Sabertooth
 Terror of the Peaks
 Three Visits
 Time Spiral
+Time Warp
 Turntimber Symbiosis // Turntimber, Serpentine Wood
 Uro, Titan of Nature's Wrath
 Vastwood Surge

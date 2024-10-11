@@ -6,19 +6,21 @@ Clever Concealment (PROXY)
 Conjurer's Mantle (PROXY)
 Cyclonic Rift (PROXY)
 Esper Sentinel (PROXY)
+Faerie Mastermind (PROXY)
 Fierce Guardianship (PROXY)
 Forth Eorlingas! (PROXY)
 Imperial Recruiter (PROXY)
 Otawara, Soaring City (PROXY)
+Professional Face-Breaker (PROXY)
 Ragavan, Nimble Pilferer (PROXY)
 Ranger-Captain of Eos (PROXY)
 Recruiter of the Guard (PROXY)
 Rhystic Study (PROXY)
-Sea of Clouds (PROXY)
 Serra Ascendant (PROXY)
 Spectator Seating (PROXY)
 Sundown Pass (PROXY)
 Swan Song (PROXY)
+Tundra (PROXY)
 Weathered Wayfarer (PROXY)
 Aragorn, King of Gondor
 Adarkar Wastes
@@ -44,8 +46,6 @@ Court of Vantress
 Deserted Beach
 Dolmen Gate
 Elesh Norn, Grand Cenobite
-Éomer, King of Rohan
-Faerie Mastermind
 Faramir, Prince of Ithilien
 Faramir, Steward of Gondor
 Fealty to the Realm
@@ -63,7 +63,6 @@ Mass Appeal
 Minamo, School at Water's Edge
 Mountain
 Mystic Gate
-Mystic Monastery
 Odric, Lunarch Marshal
 Odric, Master Tactician
 Palace Jailer
@@ -73,14 +72,15 @@ Plains
 Plains
 Port Razer
 Prince Imrahil the Fair
-Professional Face-Breaker
 Raugrin Triome
+Reconnaissance
 Retribution of the Meek
 Rugged Prairie
 Sacred Foundry
 Savage Beating
 Scalding Tarn
 Sea Gate Restoration // Sea Gate, Reborn
+Sea of Clouds
 Secluded Courtyard
 Shared Animosity
 Smothering Tithe

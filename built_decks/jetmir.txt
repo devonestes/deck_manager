@@ -6,11 +6,9 @@ Bountiful Promenade (PROXY)
 Chord of Calling (PROXY)
 City of Brass (PROXY)
 Esper Sentinel (PROXY)
-Forbidden Orchard (PROXY)
 Gemstone Caverns (PROXY)
 Green Sun's Zenith (PROXY)
 Mana Confluence (PROXY)
-Mana Crypt (PROXY)
 Ranger-Captain of Eos (PROXY)
 Sylvan Library (PROXY)
 Jetmir, Nexus of Revels
@@ -29,7 +27,6 @@ Combat Celebrant
 Command Tower
 Craterhoof Behemoth
 Delighted Halfling
-Dockside Extortionist
 Doorkeeper Thrull
 Dryad Arbor
 Eiganjo, Seat of the Empire
@@ -38,6 +35,7 @@ Exotic Orchard
 Fanatic of Rhonas
 Final Fortune
 Flooded Strand
+Forbidden Orchard
 Forest
 Forth Eorlingas!
 Fyndhorn Elves
@@ -46,6 +44,7 @@ Giver of Runes
 Horizon Canopy
 Hushbringer
 Hushwing Gryff
+Imperial Recruiter
 Kellan, Daring Traveler // Journey On
 Kutzil, Malamet Exemplar
 Legolas's Quick Reflexes
@@ -94,6 +93,7 @@ Verdant Catacombs
 Weathered Wayfarer
 Wild Growth
 Windswept Heath
+Winota, Joiner of Forces
 Wooded Foothills
 Worldly Tutor
 Wyrm's Crossing Patrol

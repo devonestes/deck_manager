@@ -2,7 +2,6 @@ Ancient Tomb (PROXY)
 Boseiju, Who Endures (PROXY)
 Delighted Halfling (PROXY)
 Demonic Tutor (PROXY)
-Dockside Extortionist (PROXY)
 Dragonskull Summit (PROXY)
 Luxury Suite (PROXY)
 Undergrowth Stadium (PROXY)
@@ -10,7 +9,6 @@ Urborg, Tomb of Yawgmoth (PROXY)
 Urza's Saga (PROXY)
 Vampiric Tutor (PROXY)
 Wheel of Fortune (PROXY)
-Wurmcoil Engine (PROXY)
 Henzie "Toolbox" Torre
 Ancient Brass Dragon
 Ancient Copper Dragon
@@ -27,13 +25,13 @@ Blasphemous Act
 Blood Crypt
 Bloodstained Mire
 Blossoming Tortoise
+Boggart Trawler // Boggart Bog
 Bringer of the Last Gift
 Buried Alive
 Cinder Glade
 Command Tower
 Cultivate
 Deadly Rollick
-Doors of Durin
 Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
 Exotic Orchard
@@ -62,7 +60,7 @@ Kogla, the Titan Ape
 Kokusho, the Evening Star
 Kura, the Boundless Sky
 Living Death
-Mountain
+Mikaeus, the Unhallowed
 Mountain
 Mountain
 Necromancy
@@ -82,8 +80,8 @@ Sol Ring
 Solemn Simulacrum
 Spire Garden
 Stomping Ground
+Stump Stomp // Burnwillow Clearing
 Sundial of the Infinite
-Swamp
 Swamp
 Swamp
 Swamp
@@ -97,4 +95,6 @@ Verdant Catacombs
 Victimize
 Virtue of Persistence // Locthwain Scorn
 Wooded Foothills
+Wurmcoil Engine
+Ziatora, the Incinerator
 Ziatora's Proving Ground

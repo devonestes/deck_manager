@@ -1,15 +1,13 @@
 Ancient Tomb (PROXY)
 City of Brass (PROXY)
-Dockside Extortionist (PROXY)
-Mana Crypt (PROXY)
+Imperial Recruiter (PROXY)
 Mana Vault (PROXY)
-Ragavan, Nimble Pilferer (PROXY)
-Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
 Tarnished Citadel (PROXY)
 Urza's Saga (PROXY)
 Wheel of Fortune (PROXY)
 Auntie Blyte, Bad Influence
 Acidic Soil
+Alexios, Deimos of Kosmos
 Ankh of Mishra
 Arcane Signet
 Barbarian Ring
@@ -32,10 +30,9 @@ Gauntlet of Might
 Generous Plunderer
 Ghostfire Slice
 Goldspan Dragon
-Imperial Recruiter
-Invasion of Kaldheim // Pyre of the World Tree
 Jeska's Will
 Kediss, Emberclaw Familiar
+Laelia, the Blade Reforged
 Light Up the Stage
 Lightning Bolt
 Lightning Greaves
@@ -74,7 +71,10 @@ Ojer Axonil, Deepest Might // Temple of Power
 Oliphaunt
 Orcish Artillery
 Orcish Cannoneers
+Pinnacle Monk // Mystic Peak
 Platinum Emperion
+Prisoner's Dilemma
+Professional Face-Breaker
 Pyrostatic Pillar
 Reckless Impulse
 Resurrection Orb
@@ -89,6 +89,7 @@ Solphim, Mayhem Dominus
 Spear Spewer
 Spellshock
 Sulfuric Vortex
+Sundering Eruption // Volcanic Fissure
 Themberchaud
 Torbran, Thane of Red Fell
 Valakut Awakening // Valakut Stoneforge
@@ -96,5 +97,4 @@ War Room
 Wheel of Misfortune
 Winter Moon
 Wrenn's Resolve
-Wurmcoil Engine
 Zo-Zu the Punisher

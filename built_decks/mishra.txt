@@ -1,6 +1,5 @@
 Deflecting Swat (PROXY)
 Demonic Tutor (PROXY)
-Dockside Extortionist (PROXY)
 Fierce Guardianship (PROXY)
 Haunted Ridge (PROXY)
 Liberator, Urza's Battlethopter (PROXY)
@@ -37,6 +36,7 @@ Cityscape Leveler
 Coldsteel Heart
 Command Tower
 Cursed Mirror
+Cyberdrive Awakener
 Darksteel Citadel
 Darksteel Forge
 Determined Iteration

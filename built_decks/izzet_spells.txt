@@ -13,6 +13,7 @@ Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
 Solphim, Mayhem Dominus (PROXY)
 Steam Vents (PROXY)
 Stormcarved Coast (PROXY)
+Time Warp (PROXY)
 Training Center (PROXY)
 Urza's Saga (PROXY)
 Wheel of Fortune (PROXY)
@@ -30,6 +31,7 @@ Castle Vantress
 Command Tower
 Consider
 Curiosity
+Desperate Ritual
 Dig Through Time
 Electrostatic Field
 Expressive Iteration
@@ -54,7 +56,6 @@ Island
 Island
 Lightning Bolt
 Lórien Revealed
-Mana Geyser
 Merchant Scroll
 Mindsplice Apparatus
 Mizzix's Mastery
@@ -91,7 +92,6 @@ Teferi's Ageless Insight
 Temporal Manipulation
 The One Ring
 Thunderclap Drake
-Time Warp
 Treasure Cruise
 Twisted Fealty
 Twitch

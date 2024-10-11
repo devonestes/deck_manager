@@ -32,30 +32,32 @@ Esper Sentinel
 Eternal Witness
 Exotic Orchard
 Faeburrow Elder
+Faerie Mastermind
 Fierce Guardianship
 Finale of Devastation
 Flare of Fortitude
 Flooded Strand
 Flusterstorm
-Forbidden Orchard
 Force of Negation
 Force of Vigor
 Force of Will
+Forest
 Fyndhorn Elves
-Gaea's Cradle
 Gemstone Caverns
 Gilded Drake
 Grand Abolisher
 Green Sun's Zenith
 Hallowed Fountain
 Intuition
+Island
 Kinnan, Bonder Prodigy
 Kutzil, Malamet Exemplar
 Ledger Shredder
 Llanowar Elves
 Machine God's Effigy
 Mana Confluence
-Mana Crypt
+Mana Drain
+Mana Vault
 Marsh Flats
 Mindbreak Trap
 Misty Rainforest
@@ -70,15 +72,13 @@ Noxious Revival
 Open the Armory
 Otawara, Soaring City
 Pact of Negation
+Plains
 Polluted Delta
 Ranger-Captain of Eos
 Rejuvenating Springs
-Resculpt
 Rhystic Study
-Rings of Brighthearth
 Savannah
 Scalding Tarn
-Sea of Clouds
 Seedborn Muse
 Sevinne's Reclamation
 Silence

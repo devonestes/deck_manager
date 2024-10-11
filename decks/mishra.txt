@@ -15,12 +15,12 @@
 1 Coldsteel Heart (2X2) 301
 1 Command Tower (BRC) 178
 1 Cursed Mirror (BRC) 115
+1 Cyberdrive Awakener (NEC) 12
 1 Darksteel Citadel (DST) 164
 1 Darksteel Forge (M14) 206
 1 Deflecting Swat (C20) 50
 1 Demonic Tutor (3ED) 105
 1 Determined Iteration (NCC) 45
-1 Dockside Extortionist (2X2) 360
 1 Drossforge Bridge (BRC) 183
 1 Etherium Sculptor (ALA) 42
 1 Fabricate (MRD) 35

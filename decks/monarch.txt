@@ -29,7 +29,6 @@
 1 Deserted Beach (MID) 281
 1 Dolmen Gate (LRW) 256
 1 Elesh Norn, Grand Cenobite (NPH) 9
-1 Éomer, King of Rohan (LTC) 52
 1 Esper Sentinel (MH2) 12
 1 Faerie Mastermind (PMOM) 58p
 1 Faramir, Prince of Ithilien (LTR) 319
@@ -52,7 +51,6 @@
 1 Minamo, School at Water's Edge (CHK) 279
 1 Mountain (LTR) 268
 1 Mystic Gate (CMM) 1013
-1 Mystic Monastery (DMC) 221
 1 Odric, Lunarch Marshal (PLST) SOI-31
 1 Odric, Master Tactician (MIC) 90
 1 Otawara, Soaring City (NEO) 503
@@ -65,6 +63,7 @@
 1 Ragavan, Nimble Pilferer (MUL) 21
 1 Ranger-Captain of Eos (MH1) 21
 1 Raugrin Triome (IKO) 311
+1 Reconnaissance (ACR) 82
 1 Recruiter of the Guard (CN2) 22
 1 Retribution of the Meek (VIS) 19
 1 Rhystic Study (J22) 114
@@ -94,5 +93,6 @@
 1 Throne of the High City (LTC) 339
 1 Tithe (VIS) 23
 1 Training Center (CMR) 713
+1 Tundra (3ED) 289
 1 Wayfarer's Bauble (LTC) 290
 1 Weathered Wayfarer (LTC) 183

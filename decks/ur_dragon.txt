@@ -19,7 +19,6 @@
 1 Command Tower (MOC) 396
 1 Cyclonic Rift (RTR) 35
 1 Delighted Halfling (LTR) 158
-1 Dockside Extortionist (2X2) 360
 1 Dragon Tempest (DTK) 136
 1 Dragon's Hoard (CLB) 858
 1 Dragonlord Dromoka (DTK) 217
@@ -89,6 +88,7 @@
 1 The Great Henge (LTC) 348
 1 The Kami War // O-Kagachi Made Manifest (NEO) 227
 1 The World Tree (KHM) 373
+1 Three Visits (MKC) 189
 1 Tiamat (AFR) 298
 1 Urza's Incubator (C15) 273
 1 Utvara Hellkite (C17) 144

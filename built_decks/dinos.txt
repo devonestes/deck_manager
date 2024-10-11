@@ -5,7 +5,6 @@ Bountiful Promenade (PROXY)
 Cavern of Souls (PROXY)
 Deflecting Swat (PROXY)
 Delighted Halfling (PROXY)
-Doors of Durin (PROXY)
 Entish Restoration (PROXY)
 Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
 Finale of Devastation (PROXY)
@@ -16,7 +15,6 @@ Jetmir's Garden (PROXY)
 Kogla and Yidaro (PROXY)
 Last March of the Ents (PROXY)
 Mana Confluence (PROXY)
-Mana Crypt (PROXY)
 Mirari's Wake (PROXY)
 Misty Rainforest (PROXY)
 Overgrown Farmland (PROXY)
@@ -39,6 +37,7 @@ Wooded Bastion (PROXY)
 Wooded Foothills (PROXY)
 Gishath, Sun's Avatar
 Akroma's Will
+Apex Altisaur
 Arcane Signet
 Arid Mesa
 Bloodstained Mire
@@ -50,6 +49,7 @@ Curious Altisaur
 Defense of the Heart
 Descendants' Path
 Dinosaurs on a Spaceship
+Doors of Durin
 Farseek
 Flooded Strand
 Forest
