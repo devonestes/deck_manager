@@ -1,7 +1,6 @@
 Birds of Paradise (PROXY)
 Bloom Tender (PROXY)
 Bountiful Promenade (PROXY)
-Case of the Stashed Skeleton (PROXY)
 City of Brass (PROXY)
 Crop Rotation (PROXY)
 Cyclonic Rift (PROXY)
@@ -33,7 +32,6 @@ Breeding Pool
 Brushland
 Cacophony Unleashed
 Command Tower
-Cultivate
 Destiny Spinner
 Dryad of the Ilysian Grove
 Eidolon of Blossoms
@@ -69,6 +67,7 @@ Mountain
 Nessian Wanderer
 Overgrown Farmland
 Overgrown Tomb
+Paradox Haze
 Peacekeeper
 Plains
 Reliquary Tower
@@ -81,6 +80,7 @@ Sanctum of Stone Fangs
 Sanctum of Tranquil Light
 Sanctum Weaver
 Setessan Champion
+Shadow of the Second Sun
 Shrine Steward
 Sigil of the Empty Throne
 Sol Ring

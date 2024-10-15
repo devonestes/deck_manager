@@ -21,7 +21,6 @@ Stella Lee, Wild Card
 Arcane Bombardment
 Arcane Signet
 Archmage Emeritus
-Baral and Kari Zev
 Baral's Expertise
 Big Score
 Brainstorm
@@ -31,7 +30,6 @@ Castle Vantress
 Command Tower
 Consider
 Curiosity
-Desperate Ritual
 Dig Through Time
 Electrostatic Field
 Expressive Iteration
@@ -41,6 +39,7 @@ Fiery Islet
 Firebrand Archer
 Frantic Search
 Galvanic Iteration
+Gitaxian Probe
 Goblin Electromancer
 Grapeshot
 Gut Shot
@@ -56,7 +55,7 @@ Island
 Island
 Lightning Bolt
 Lórien Revealed
-Merchant Scroll
+Mana Geyser
 Mindsplice Apparatus
 Mizzix's Mastery
 Mogg Salvage
@@ -74,6 +73,7 @@ Opt
 Ponder
 Pongify
 Preordain
+Pyretic Ritual
 Refocus
 Reliquary Tower
 Restless Spire

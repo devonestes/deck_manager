@@ -1,7 +1,6 @@
 Ancient Tomb (PROXY)
 Bonehoard Dracosaur (PROXY)
 Boseiju, Who Endures (PROXY)
-Bountiful Promenade (PROXY)
 Cavern of Souls (PROXY)
 Deflecting Swat (PROXY)
 Delighted Halfling (PROXY)
@@ -32,7 +31,6 @@ The Skullspore Nexus (PROXY)
 Tithe (PROXY)
 Urza's Incubator (PROXY)
 Urza's Saga (PROXY)
-Wayward Swordtooth (PROXY)
 Wooded Bastion (PROXY)
 Wooded Foothills (PROXY)
 Gishath, Sun's Avatar
@@ -49,7 +47,6 @@ Curious Altisaur
 Defense of the Heart
 Descendants' Path
 Dinosaurs on a Spaceship
-Doors of Durin
 Farseek
 Flooded Strand
 Forest
@@ -58,6 +55,7 @@ Forest
 Ghalta and Mavren
 Ghalta, Primal Hunger
 Ghalta, Stampede Tyrant
+Goreclaw, Terror of Qal Sisma
 Hulking Raptor
 Hunting Velociraptor
 Invasion of Ikoria // Zilortha, Apex of Ikoria
@@ -73,6 +71,7 @@ Plains
 Plains
 Polyraptor
 Quartzwood Crasher
+Rampant Growth
 Regal Behemoth
 Regisaur Alpha
 Return of the Wildspeaker
@@ -84,6 +83,7 @@ Secluded Courtyard
 Sol Ring
 Sunfrill Imitator
 Sunhome, Fortress of the Legion
+Sunpetal Grove
 Temple Altisaur
 Temple Garden
 Thrashing Brontodon

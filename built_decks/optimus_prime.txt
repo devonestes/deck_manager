@@ -5,12 +5,15 @@ Cyclonic Rift (PROXY)
 Danny Pink (PROXY)
 Darksteel Citadel (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
+Esper Sentinel (PROXY)
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (PROXY)
 Great Furnace (PROXY)
 Herald of Secret Streams (PROXY)
 Inventors' Fair (PROXY)
+Jhoira, Weatherlight Captain (PROXY)
 Karn, Legacy Reforged (PROXY)
 Knight Paladin (PROXY)
+Lightning Greaves (PROXY)
 Losheel, Clockwork Scholar (PROXY)
 Mana Drain (PROXY)
 Mystic Remora (PROXY)
@@ -18,6 +21,7 @@ Otawara, Soaring City (PROXY)
 Raugrin Triome (PROXY)
 Rhystic Study (PROXY)
 Ripples of Potential (PROXY)
+Sea of Clouds (PROXY)
 Seat of the Synod (PROXY)
 Silverbluff Bridge (PROXY)
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
@@ -45,11 +49,9 @@ Chaos Warp
 Command Tower
 Dispatch
 Enthusiastic Mechanaut
-Envoy of the Ancestors
 Etherium Sculptor
 Felidar Retreat
 Foundry Inspector
-Glacial Fortress
 Gold-Forged Thopteryx
 Hallowed Fountain
 Imposter Mech
@@ -60,14 +62,11 @@ Island
 Jetfire, Ingenious Scientist // Jetfire, Air Guardian
 Kappa Cannoneer
 Karn's Bastion
-Lightning Greaves
 Lita, Mechanical Engineer
 Mech Hangar
 Mountain
-Mountain
 Mystic Monastery
 Organic Extinction
-Plains
 Plains
 Plains
 Plains
@@ -78,6 +77,7 @@ Razortide Bridge
 Rustvale Bridge
 Sacred Foundry
 Saheeli, Filigree Master
+Scene of the Crime
 Shivan Reef
 Shorikai, Genesis Engine
 Skysovereign, Consul Flagship

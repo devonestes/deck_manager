@@ -1,5 +1,4 @@
 Ancient Tomb (PROXY)
-Blossoming Tortoise (PROXY)
 Craterhoof Behemoth (PROXY)
 Cyclonic Rift (PROXY)
 Delighted Halfling (PROXY)
@@ -17,17 +16,19 @@ Aesi, Tyrant of Gyre Strait
 Abundance
 Ancient Greenwarden
 Apex Devastator
-Arid Archway
 Ashaya, Soul of the Wild
 Augur of Autumn
 Avenger of Zendikar
 Awaken the Woods
+Azusa, Lost but Seeking
 Bonny Pall, Clearcutter
 Breeding Pool
+Bristly Bill, Spine Sower
 Burgeoning
 Case of the Locked Hothouse
 Command Tower
 Conduit of Worlds
+Constant Mists
 Coral Atoll
 Crucible of Worlds
 Cultivator Colossus
@@ -36,12 +37,9 @@ Entish Restoration
 Exploration
 Fabled Passage
 Field of the Dead
-Flooded Strand
 Forest
 Forest
 Forest
-Forest
-Green Sun's Twilight
 Greensleeves, Maro-Sorcerer
 Halimar Depths
 Hinterland Harbor
@@ -59,13 +57,16 @@ Mana Breach
 Misty Rainforest
 Mystic Sanctuary
 Nissa, Resurgent Animist
-Nissa, Steward of Elements
 Nyxbloom Ancient
 Oboro, Palace in the Clouds
+Omenpath Journey
 On the Trail
+Open the Way
 Oracle of Mul Daya
 Overburden
 Palinchron
+Planar Genesis
+Polluted Delta
 Prismatic Vista
 Rampaging Baloths
 Rampant Frogantua
@@ -82,7 +83,6 @@ Skyshroud Ranger
 Snow-Covered Forest
 Snow-Covered Island
 Sol Ring
-Sowing Mycospawn
 Storm Cauldron
 Tatyova, Benthic Druid
 Thawing Glaciers

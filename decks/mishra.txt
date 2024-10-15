@@ -3,13 +3,15 @@
 1 Arcane Signet (BRC) 132
 1 Arcum Dagsson (CSP) 27
 1 Badlands (3ED) 282
+1 Baleful Strix (MKC) 200
 1 Basalt Monolith (3ED) 235
 1 Blasphemous Act (BRC) 113
 1 Blightsteel Colossus (MBS) 99
 1 Blood Crypt (UNF) 279
+1 Bloodsoaked Insight // Sanguine Morass (MH3) 252
 1 Bloodstained Mire (KTK) 230
-1 Brudiclad, Telchor Engineer (BRC) 122
 1 Cascade Bluffs (CMM) 990
+1 Chaos Warp (PW24) 7
 1 Chimil, the Inner Sun (LCI) 249
 1 Cityscape Leveler (BRO) 363
 1 Coldsteel Heart (2X2) 301
@@ -25,13 +27,12 @@
 1 Etherium Sculptor (ALA) 42
 1 Fabricate (MRD) 35
 1 Fierce Guardianship (C20) 35
-1 Fomori Vault (BIG) 59
 1 Gonti's Aether Heart (M3C) 294
 1 Great Furnace (BRC) 187
 1 Haunted Ridge (MID) 282
 1 Ichor Wellspring (BRC) 143
 1 Idol of Oblivion (BRC) 144
-2 Island (MOM) 278
+1 Island (MOM) 278
 1 Jackdaw (ACR) 58
 1 Jhoira, Ageless Innovator (DMU) 301
 1 Jhoira, Weatherlight Captain (BRC) 126
@@ -48,7 +49,7 @@
 1 Mistvault Bridge (BRC) 189
 1 Mithril Coat (LTR) 379
 1 Morphic Pool (BBD) 83
-2 Mountain (BRC) 35
+1 Mountain (BRC) 35
 1 Mox Amber (DOM) 224
 1 Mox Opal (2XM) 275
 1 Mystic Forge (CMM) 964
@@ -66,6 +67,7 @@
 1 Sensei's Divining Top (2X2) 398
 1 Shipwreck Marsh (MID) 285
 1 Silverbluff Bridge (BRC) 200
+1 Simulacrum Synthesizer (BIG) 6
 1 Sol Ring (BRC) 160
 1 Solemn Simulacrum (BRC) 161
 1 Spire of Industry (BRC) 203

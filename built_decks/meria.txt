@@ -1,4 +1,3 @@
-Birds of Paradise (PROXY)
 Blightsteel Colossus (PROXY)
 Boseiju, Who Endures (PROXY)
 Chandra's Ignition (PROXY)
@@ -22,9 +21,11 @@ Yavimaya, Cradle of Growth (PROXY)
 Meria, Scholar of Antiquity
 Apex Altisaur
 Basilisk Collar
+Beamtown Beatstick
 Berserk
 Bitterthorn, Nissa's Animus
 Blackblade Reforged
+Bridgeworks Battle // Tanglespan Bridgeworks
 Buried Ruin
 Champion's Helm
 Chaos Warp
@@ -35,10 +36,9 @@ Darksteel Citadel
 Darksteel Plate
 Diamond Pick-Axe
 Dire Flail // Dire Blunderbuss
+Disciple of Freyalise // Garden of Freyalise
 Emrakul, the Promised End
 Fireshrieker
-Forest
-Forest
 Forest
 Forest
 Forest
@@ -49,8 +49,8 @@ Gruul Turf
 Hammer of Nazahn
 Helm of the Host
 Howling Mine
+Hunter's Bow
 Hunter's Insight
-Infiltration Lens
 Inventors' Fair
 Jeska's Will
 Kessig Wolf Run
@@ -60,7 +60,6 @@ Lightning Greaves
 Lost Jitte
 Lothlórien Blade
 Mask of Memory
-Mountain
 Mountain
 Mountain
 Mountain
@@ -81,6 +80,7 @@ Silver Shroud Costume
 Slagwoods Bridge
 Sol Ring
 Strong Back
+Stump Stomp // Burnwillow Clearing
 Swiftfoot Boots
 Sword of Feast and Famine
 Sword of Fire and Ice

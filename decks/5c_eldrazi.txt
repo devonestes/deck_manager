@@ -1,81 +1,84 @@
 1 Ulalek, Fused Atrocity (M3C) 16
+1 Adarkar Wastes (ICE) 351
 1 All Is Dust (M3C) 152
-1 Ancient Tomb (TMP) 315
 1 Arcane Signet (MOC) 348
 1 Artisan of Kozilek (CMM) 801
-1 Awakening Zone (M3C) 222
-1 Bismuth Mindrender (M3C) 51
-1 Blood Crypt (UNF) 279
-1 Bloodstained Mire (KTK) 230
+1 Battlefield Forge (BRO) 257
+1 Bonders' Enclave (CMM) 988
 1 Breaker of Creation (MH3) 1
-1 Breeding Pool (UNF) 286
-1 Cavern of Souls (AVR) 226
+1 Brushland (BRO) 259
 1 Command Tower (MOC) 396
-1 Cyclonic Rift (2XM) 339
+1 Concordant Crossroads (2X2) 367
+1 Corrupted Crossroads (M3C) 332
 1 Darksteel Monolith (CMM) 743
-1 Drowner of Truth // Drowned Jungle (MH3) 253
 1 Echoes of Eternity (MH3) 320
 1 Eldrazi Confluence (M3C) 32
+1 Eldrazi Conscription (UMA) 3
 1 Eldrazi Linebreaker (MH3) 117
+1 Eldrazi Monument (ZEN) 199
 1 Eldrazi Temple (ROE) 227
 1 Eldritch Immunity (M3C) 33
 1 Emrakul, the Promised End (SLD) 1160
 1 Emrakul, the World Anew (MH3) 6
+1 Endbringer (J22) 748
+1 Everflowing Chalice (LTC) 278
+1 Exotic Orchard (MOC) 398
+1 Expedition Map (ZEN) 201
 1 Eye of Ugin (WWK) 136
-1 Fierce Guardianship (C20) 35
-1 Flooded Strand (KTK) 233
-2 Forest (J22) 110
+1 Forest (J22) 110
 1 Forsaken Monument (CMM) 950
+1 Gilded Lotus (BLC) 271
 1 Glaring Fleshraker (MH3) 7
+1 Hedron Archive (BRC) 142
 1 Herald's Horn (LTC) 280
 1 Hideous Taskmaster (M3C) 109
 1 Hydroelectric Specimen // Hydroelectric Laboratory (MH3) 240
-2 Island (J22) 101
+1 Island (J22) 101
 1 It That Betrays (ROE) 7
 1 It That Heralds the End (MH3) 385
 1 Karplusan Forest (M3C) 351
-1 Kindred Discovery (CLB) 81
 1 Kozilek, Butcher of Truth (ROE) 6
 1 Kozilek, the Broken Reality (MH3) 382
 1 Kozilek, the Great Distortion (CMM) 668
 1 Kozilek's Command (MH3) 11
+1 Kozilek's Return (M3C) 214
 1 Kozilek's Unsealing (MH3) 65
-1 Liberator, Urza's Battlethopter (BRO) 237
+1 Lightning Greaves (LTC) 281
 1 Llanowar Wastes (BRO) 299
-1 Mana Confluence (JOU) 163
-1 Mana Drain (CMR) 80
-1 Marsh Flats (MM3) 239
-1 Misty Rainforest (MM3) 240
-2 Mountain (J22) 107
-1 Mystic Forge (CMM) 964
-1 Nature's Lore (DMR) 170
-1 Null Elemental Blast (MH3) 12
+1 Mountain (J22) 107
 1 Oblivion Sower (CMM) 808
-1 Overgrown Tomb (UNF) 284
+1 Path of Ancestry (MOC) 418
 1 Path of Annihilation (MH3) 165
-1 Polluted Delta (PMH3) 224s
+1 Plains (J22) 98
 1 Progenitor's Icon (LCC) 100
 1 Propagator Drone (MH3) 167
+1 Reality Smasher (OGW) 7
+1 Reliquary Tower (BRC) 196
+1 Return of the Wildspeaker (ELD) 172
 1 Rise of the Eldrazi (CMM) 716
-1 Roaming Throne (LCI) 344
+1 Ruins of Oran-Rief (M3C) 370
 1 Sanctum of Ugin (BFZ) 242
-1 Scalding Tarn (MM3) 244
+1 Scorched Ruins (WTH) 166
+1 Secluded Courtyard (LTC) 330
+1 Shivan Reef (OTC) 320
 1 Shrine of the Forsaken Gods (C19) 273
 1 Sire of Stagnation (M3C) 272
 1 Snapping Voidcraw (MH3) 204
 1 Sol Ring (MOC) 381
+1 Sowing Mycospawn (MH3) 340
 1 Spawnbed Protector (M3C) 36
-1 Stomping Ground (UNF) 280
+1 Sulfurous Springs (5ED) 424
 1 Sundering Eruption // Volcanic Fissure (MH3) 248
 1 Swamp (MH3) 314
-1 Territory Culler (MH3) 173
-1 The Great Henge (LTC) 348
+1 Talisman of Curiosity (MKC) 241
+1 Talisman of Impulse (MRD) 254
+1 The Irencrag (WOE) 248
 1 Thief of Existence (MH3) 174
 1 Thought-Knot Seer (SPG) 39
 1 Thran Dynamo (BRC) 168
-1 Three Visits (MKC) 189
 1 Titans' Vanguard (MH3) 206
-1 Twins of Discord (M3C) 37
+1 Tranquil Landscape (MH3) 231
+1 Twisted Landscape (MH3) 232
 1 Ugin, the Ineffable (WAR) 2
 1 Ugin's Binding (MH3) 76
 1 Ugin's Labyrinth (MH3) 233
@@ -83,15 +86,15 @@
 1 Ulamog, the Defiler (MH3) 15
 1 Ulamog, the Infinite Gyre (ROE) 12
 1 Ulamog's Dreadsire (M3C) 38
-1 Urza's Incubator (C15) 273
+1 Unclaimed Territory (LCC) 366
+1 Underground River (BRO) 267
+1 Urza's Mine (5ED) 427
 1 Urza's Power Plant (5ED) 428
-1 Urza's Saga (MH2) 259
 1 Urza's Tower (CHR) 116b
-1 Verdant Catacombs (MM3) 249
+1 Urza's Workshop (BRC) 51
 1 Void Winnower (BFZ) 17
-1 Watery Grave (UNF) 278
-1 Wooded Foothills (KTK) 249
-1 Worldly Tutor (MIR) 255
+1 Wastes (CMM) 1056
 1 Writhing Chrysalis (MH3) 208
+1 Wumpus Aberration (MH3) 176
 1 Yavimaya Coast (DMU) 261
 1 Zhulodok, Void Gorger (CMM) 752

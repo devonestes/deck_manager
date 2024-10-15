@@ -7,11 +7,9 @@
 1 Breeding Pool (UNF) 286
 1 Brushland (BRO) 259
 1 Cacophony Unleashed (CMM) 730
-1 Case of the Stashed Skeleton (MKM) 80
 1 City of Brass (5ED) 413
 1 Command Tower (MOC) 396
 1 Crop Rotation (DMR) 154
-1 Cultivate (J22) 644
 1 Cyclonic Rift (RTR) 35
 1 Deflecting Swat (C20) 50
 1 Demonic Tutor (3ED) 105
@@ -56,6 +54,7 @@
 1 Oracle of Mul Daya (JMP) 415
 1 Overgrown Farmland (WHO) 292
 1 Overgrown Tomb (UNF) 284
+1 Paradox Haze (TSP) 71
 1 Peacekeeper (WTH) 22
 1 Plains (3ED) 292
 1 Reliquary Tower (BRC) 196
@@ -73,6 +72,7 @@
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Sea of Clouds (BBD) 84
 1 Setessan Champion (CMM) 912
+1 Shadow of the Second Sun (MH3) 70
 1 Shrine Steward (NEO) 259
 1 Sigil of the Empty Throne (J22) 244
 1 Smothering Tithe (RNA) 22

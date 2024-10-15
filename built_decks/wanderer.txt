@@ -45,6 +45,7 @@ Genesis Ultimatum
 Goldspan Dragon
 Hinterland Harbor
 Hullbreaker Horror
+Ilysian Caryatid
 Imoti, Celebrant of Bounty
 Into the North
 Island
@@ -54,7 +55,6 @@ Klauth, Unrivaled Ancient
 Kodama's Reach
 Kogla and Yidaro
 Koma, Cosmos Serpent
-Kozilek's Unsealing
 Migration Path
 Misthollow Griffin
 Misty Rainforest

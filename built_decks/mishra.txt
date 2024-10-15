@@ -24,13 +24,15 @@ Academy Ruins
 Arcane Signet
 Arcum Dagsson
 Badlands
+Baleful Strix
 Basalt Monolith
 Blasphemous Act
 Blightsteel Colossus
 Blood Crypt
+Bloodsoaked Insight // Sanguine Morass
 Bloodstained Mire
-Brudiclad, Telchor Engineer
 Cascade Bluffs
+Chaos Warp
 Chimil, the Inner Sun
 Cityscape Leveler
 Coldsteel Heart
@@ -43,12 +45,10 @@ Determined Iteration
 Drossforge Bridge
 Etherium Sculptor
 Fabricate
-Fomori Vault
 Gonti's Aether Heart
 Great Furnace
 Ichor Wellspring
 Idol of Oblivion
-Island
 Island
 Jackdaw
 Jhoira, Ageless Innovator
@@ -63,7 +63,6 @@ Metalworker
 Mindslaver
 Mistvault Bridge
 Mountain
-Mountain
 Mox Opal
 Mystic Forge
 Obeka, Brute Chronologist
@@ -74,6 +73,7 @@ RMS Titanic
 Seat of the Synod
 Sensei's Divining Top
 Silverbluff Bridge
+Simulacrum Synthesizer
 Sol Ring
 Solemn Simulacrum
 Spire of Industry

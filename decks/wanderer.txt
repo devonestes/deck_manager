@@ -27,6 +27,7 @@
 1 Goldspan Dragon (J22) 550
 1 Hinterland Harbor (LTC) 317
 1 Hullbreaker Horror (WOC) 95
+1 Ilysian Caryatid (J22) 676
 1 Imoti, Celebrant of Bounty (MUL) 43
 1 Into the North (CSP) 111
 2 Island (J22) 101
@@ -36,7 +37,6 @@
 1 Kogla and Yidaro (MOM) 244
 1 Kogla, the Titan Ape (IKO) 162
 1 Koma, Cosmos Serpent (KHM) 221
-1 Kozilek's Unsealing (MH3) 65
 1 Migration Path (IKO) 164
 1 Misthollow Griffin (PLST) AVR-68
 1 Misty Rainforest (MM3) 240

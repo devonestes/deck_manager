@@ -2,7 +2,6 @@
 1 Arcane Bombardment (OTC) 154
 1 Arcane Signet (MOC) 348
 1 Archmage Emeritus (OTC) 90
-1 Baral and Kari Zev (PMOM) 218p
 1 Baral's Expertise (OTC) 91
 1 Big Score (SNC) 102
 1 Brainstorm (ICE) 61
@@ -14,7 +13,6 @@
 1 Curiosity (WOT) 17
 1 Cyclonic Rift (2XM) 339
 1 Deflecting Swat (C20) 50
-1 Desperate Ritual (CHK) 163
 1 Dig Through Time (OTC) 95
 1 Electrostatic Field (GRN) 97
 1 Expressive Iteration (OTC) 224
@@ -25,6 +23,7 @@
 1 Firebrand Archer (HOU) 92
 1 Frantic Search (UMA) 57
 1 Galvanic Iteration (OTC) 227
+1 Gitaxian Probe (NPH) 35
 1 Goblin Electromancer (OTC) 228
 1 Grapeshot (STA) 39
 1 Gut Shot (NPH) 86
@@ -37,7 +36,7 @@
 1 Lightning Bolt (4ED) 208
 1 Lórien Revealed (LTR) 60
 1 Mana Drain (CMR) 80
-1 Merchant Scroll (HML) 33
+1 Mana Geyser (PLST) 5DN-75
 1 Mindsplice Apparatus (ONE) 63
 1 Mizzix's Mastery (OTC) 175
 1 Mogg Salvage (MH2) 282
@@ -52,6 +51,7 @@
 1 Ponder (OTC) 105
 1 Pongify (OTC) 106
 1 Preordain (LTC) 196
+1 Pyretic Ritual (M11) 153
 1 Refocus (FRF) 47
 1 Reliquary Tower (BRC) 196
 1 Restless Spire (PWOE) 260p

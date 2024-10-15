@@ -1,89 +1,84 @@
-Ancient Tomb (PROXY)
-Bloodstained Mire (PROXY)
-Breeding Pool (PROXY)
-Cavern of Souls (PROXY)
-Cyclonic Rift (PROXY)
-Fierce Guardianship (PROXY)
-Flooded Strand (PROXY)
-Liberator, Urza's Battlethopter (PROXY)
-Mana Confluence (PROXY)
-Mana Drain (PROXY)
-Marsh Flats (PROXY)
-Misty Rainforest (PROXY)
-Nature's Lore (PROXY)
-Roaming Throne (PROXY)
-Scalding Tarn (PROXY)
-Stomping Ground (PROXY)
-The Great Henge (PROXY)
-Three Visits (PROXY)
-Urza's Incubator (PROXY)
-Urza's Saga (PROXY)
-Verdant Catacombs (PROXY)
-Wooded Foothills (PROXY)
-Worldly Tutor (PROXY)
 Ulalek, Fused Atrocity
+Adarkar Wastes
 All Is Dust
 Arcane Signet
 Artisan of Kozilek
-Awakening Zone
-Bismuth Mindrender
-Blood Crypt
+Battlefield Forge
+Bonders' Enclave
 Breaker of Creation
+Brushland
 Command Tower
+Concordant Crossroads
+Corrupted Crossroads
 Darksteel Monolith
-Drowner of Truth // Drowned Jungle
 Echoes of Eternity
 Eldrazi Confluence
+Eldrazi Conscription
 Eldrazi Linebreaker
+Eldrazi Monument
 Eldrazi Temple
 Eldritch Immunity
 Emrakul, the Promised End
 Emrakul, the World Anew
+Endbringer
+Everflowing Chalice
+Exotic Orchard
+Expedition Map
 Eye of Ugin
 Forest
-Forest
 Forsaken Monument
+Gilded Lotus
 Glaring Fleshraker
+Hedron Archive
 Herald's Horn
 Hideous Taskmaster
 Hydroelectric Specimen // Hydroelectric Laboratory
 Island
-Island
 It That Betrays
 It That Heralds the End
 Karplusan Forest
-Kindred Discovery
 Kozilek, Butcher of Truth
 Kozilek, the Broken Reality
 Kozilek, the Great Distortion
 Kozilek's Command
+Kozilek's Return
 Kozilek's Unsealing
+Lightning Greaves
 Llanowar Wastes
 Mountain
-Mountain
-Mystic Forge
-Null Elemental Blast
 Oblivion Sower
-Overgrown Tomb
+Path of Ancestry
 Path of Annihilation
-Polluted Delta
+Plains
 Progenitor's Icon
 Propagator Drone
+Reality Smasher
+Reliquary Tower
+Return of the Wildspeaker
 Rise of the Eldrazi
+Ruins of Oran-Rief
 Sanctum of Ugin
+Scorched Ruins
+Secluded Courtyard
+Shivan Reef
 Shrine of the Forsaken Gods
 Sire of Stagnation
 Snapping Voidcraw
 Sol Ring
+Sowing Mycospawn
 Spawnbed Protector
+Sulfurous Springs
 Sundering Eruption // Volcanic Fissure
 Swamp
-Territory Culler
+Talisman of Curiosity
+Talisman of Impulse
+The Irencrag
 Thief of Existence
 Thought-Knot Seer
 Thran Dynamo
 Titans' Vanguard
-Twins of Discord
+Tranquil Landscape
+Twisted Landscape
 Ugin, the Ineffable
 Ugin's Binding
 Ugin's Labyrinth
@@ -91,10 +86,15 @@ Ulamog, the Ceaseless Hunger
 Ulamog, the Defiler
 Ulamog, the Infinite Gyre
 Ulamog's Dreadsire
+Unclaimed Territory
+Underground River
+Urza's Mine
 Urza's Power Plant
 Urza's Tower
+Urza's Workshop
 Void Winnower
-Watery Grave
+Wastes
 Writhing Chrysalis
+Wumpus Aberration
 Yavimaya Coast
 Zhulodok, Void Gorger
