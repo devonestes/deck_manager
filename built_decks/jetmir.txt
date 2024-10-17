@@ -5,12 +5,17 @@ Boseiju, Who Endures (PROXY)
 Bountiful Promenade (PROXY)
 Chord of Calling (PROXY)
 City of Brass (PROXY)
+Craterhoof Behemoth (PROXY)
+Delighted Halfling (PROXY)
 Esper Sentinel (PROXY)
 Gemstone Caverns (PROXY)
 Green Sun's Zenith (PROXY)
+Imperial Recruiter (PROXY)
 Mana Confluence (PROXY)
 Ranger-Captain of Eos (PROXY)
 Sylvan Library (PROXY)
+Tarnished Citadel (PROXY)
+Worldly Tutor (PROXY)
 Jetmir, Nexus of Revels
 Adeline, Resplendent Cathar
 Anim Pakal, Thousandth Moon
@@ -25,8 +30,6 @@ Chittering Dispatcher
 Clever Concealment
 Combat Celebrant
 Command Tower
-Craterhoof Behemoth
-Delighted Halfling
 Doorkeeper Thrull
 Dryad Arbor
 Eiganjo, Seat of the Empire
@@ -44,7 +47,6 @@ Giver of Runes
 Horizon Canopy
 Hushbringer
 Hushwing Gryff
-Imperial Recruiter
 Kellan, Daring Traveler // Journey On
 Kutzil, Malamet Exemplar
 Legolas's Quick Reflexes
@@ -82,7 +84,6 @@ Stomping Ground
 Sunbaked Canyon
 Sylvan Safekeeper
 Taiga
-Tarnished Citadel
 Temple Garden
 Tendershoot Dryad
 Thalia, Guardian of Thraben
@@ -95,6 +96,5 @@ Wild Growth
 Windswept Heath
 Winota, Joiner of Forces
 Wooded Foothills
-Worldly Tutor
 Wyrm's Crossing Patrol
 Yavimaya, Cradle of Growth

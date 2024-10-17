@@ -1,8 +1,3 @@
-Craterhoof Behemoth (PROXY)
-Rejuvenating Springs (PROXY)
-Rhystic Study (PROXY)
-Tropical Island (PROXY)
-Worldly Tutor (PROXY)
 Kadena, Slinking Sorcerer
 Ainok Survivalist
 Alchemist's Refuge
@@ -10,6 +5,7 @@ All Is Dust
 Aphetto Runecaster
 Arcane Signet
 Assassin's Trophy
+Bane of the Living
 Bayou
 Beast Whisperer
 Branch of Vitu-Ghazi
@@ -17,6 +13,7 @@ Breeding Pool
 Brine Elemental
 Chromeshell Crab
 Command Tower
+Craterhoof Behemoth
 Cryptic Coat
 Crystal Shard
 Cyclonic Rift
@@ -46,8 +43,8 @@ Kadena's Silencer
 Kheru Spellsnatcher
 Leyline of Anticipation
 Liberator, Urza's Battlethopter
-Llanowar Wastes
 Mischievous Quanar
+Misty Rainforest
 Morphic Pool
 Nantuko Vigilante
 Nature's Lore
@@ -82,10 +79,12 @@ Three Visits
 Triumph of the Hordes
 Twilight Mire
 Ugin's Mastery
+Underground Mortuary
 Underground Sea
 Undergrowth Stadium
 Vannifar, Evolved Enigma
 Vedalken Orrery
+Verdant Catacombs
 Vesuvan Shapeshifter
 Voidmage Apprentice
 Watery Grave
@@ -93,6 +92,7 @@ Whisperwood Elemental
 Wilderness Reclamation
 Winding Canyons
 Woodland Cemetery
+Worldly Tutor
 Yavimaya Coast
 Yavimaya, Cradle of Growth
 Yedora, Grave Gardener

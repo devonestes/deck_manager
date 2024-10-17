@@ -5,6 +5,7 @@
 1 Aphetto Runecaster (SCG) 28
 1 Arcane Signet (MOC) 348
 1 Assassin's Trophy (GRN) 152
+1 Bane of the Living (C19) 104
 1 Bayou (3ED) 283
 1 Beast Whisperer (P30A) 26
 1 Branch of Vitu-Ghazi (MKM) 258
@@ -41,8 +42,8 @@
 1 Kheru Spellsnatcher (C19) 89
 1 Leyline of Anticipation (CLB) 726
 1 Liberator, Urza's Battlethopter (BRO) 237
-1 Llanowar Wastes (C19) 258
 1 Mischievous Quanar (SCG) 42
+1 Misty Rainforest (MM3) 240
 1 Morphic Pool (BBD) 83
 1 Nantuko Vigilante (C19) 174
 1 Nature's Lore (DMR) 170
@@ -53,10 +54,8 @@
 1 Polluted Delta (KTK) 239
 1 Printlifter Ooze (MKC) 40
 1 Rampant Growth (M12) 190
-1 Rejuvenating Springs (LTC) 325
 1 Reliquary Tower (C19) 268
 1 Revitalizing Repast // Old-Growth Grove (MH3) 256
-1 Rhystic Study (J22) 114
 1 Satoru, the Infiltrator (OTJ) 230
 1 Scroll of Fate (C19) 58
 1 Secret Plans (C19) 201
@@ -76,13 +75,14 @@
 1 Thousand Winds (C19) 100
 1 Three Visits (MKC) 189
 1 Triumph of the Hordes (NPH) 123
-1 Tropical Island (3ED) 288
 1 Twilight Mire (NCC) 443
 1 Ugin's Mastery (CMM) 718
+1 Underground Mortuary (MKM) 333
 1 Underground Sea (3ED) 290
 1 Undergrowth Stadium (CMR) 714
 1 Vannifar, Evolved Enigma (MKM) 241
 1 Vedalken Orrery (CNS) 206
+1 Verdant Catacombs (MM3) 249
 1 Vesuvan Shapeshifter (C19) 101
 1 Voidmage Apprentice (LGN) 54
 1 Watery Grave (UNF) 278

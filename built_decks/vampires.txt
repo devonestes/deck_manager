@@ -1,11 +1,9 @@
-Ancient Tomb (PROXY)
-Enlightened Tutor (PROXY)
-Mana Vault (PROXY)
 Edgar Markov
 Agadeem's Awakening // Agadeem, the Undercrypt
 Akroma's Will
 Anguished Unmaking
 Arcane Signet
+Arid Mesa
 Ashnod's Altar
 Badlands
 Battlefield Forge
@@ -16,6 +14,7 @@ Bloodchief Ascension
 Bloodghast
 Bloodletter of Aclazotz
 Bloodline Keeper // Lord of Lineage
+Bloodstained Mire
 Bojuka Bog
 Captivating Vampire
 Cavern of Souls
@@ -90,6 +89,7 @@ Urborg, Tomb of Yawgmoth
 Urza's Saga
 Vampiric Tutor
 Vault of Champions
+Vein Ripper
 Viscera Seer
 Vito, Thorn of the Dusk Rose
 Voldaren Estate
