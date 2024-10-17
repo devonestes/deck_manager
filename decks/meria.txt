@@ -5,8 +5,8 @@
 1 Berserk (CN2) 175
 1 Bitterthorn, Nissa's Animus (MOC) 45
 1 Blackblade Reforged (DMC) 178
-1 Blightsteel Colossus (MBS) 99
-1 Boseiju, Who Endures (NEO) 501
+1 Blacksmith's Talent (BLB) 125
+1 Bladegraft Aspirant (ONE) 122
 1 Bridgeworks Battle // Tanglespan Bridgeworks (MH3) 249
 1 Buried Ruin (BRC) 177
 1 Champion's Helm (PIP) 228
@@ -14,25 +14,23 @@
 1 Chaos Warp (BRC) 114
 1 Cinder Glade (DMC) 203
 1 Command Tower (MOC) 396
-1 Commander's Plate (CMR) 692
+1 Copperline Gorge (ONE) 371
 1 Cragcrown Pathway // Timbercrown Pathway (ZNR) 287
 1 Darksteel Citadel (MM2) 238
 1 Darksteel Plate (2X2) 304
-1 Deflecting Swat (C20) 50
 1 Diamond Pick-Axe (LCI) 143
 1 Dire Flail // Dire Blunderbuss (LCI) 145
 1 Disciple of Freyalise // Garden of Freyalise (MH3) 250
+1 Displaced Dinosaurs (WHO) 100
+1 Elder Gargaroth (M21) 373
 1 Emrakul, the Promised End (SLD) 1160
-1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
-1 Finale of Devastation (WAR) 160
-1 Fire-Lit Thicket (SHM) 271
 1 Fireshrieker (NEC) 151
-4 Forest (J22) 110
+7 Forest (J22) 110
 1 Foundry Inspector (BRR) 79
 1 Game Trail (LCC) 334
-1 Great Furnace (BRC) 187
 1 Gruul Turf (C20) 279
 1 Hammer of Nazahn (C17) 51
+1 Haywire Mite (BLC) 274
 1 Helm of the Host (DOM) 217
 1 Howling Mine (BRR) 20
 1 Hunter's Bow (ACR) 41
@@ -40,33 +38,35 @@
 1 Inventors' Fair (KLD) 247
 1 Jeska's Will (CMR) 668
 1 Kessig Wolf Run (LCC) 340
+1 Kodama of the West Tree (NEO) 392
 1 Komainu Battle Armor (PLST) NEC-21
-1 Kozilek, Butcher of Truth (ROE) 6
 1 Lavaspur Boots (OTJ) 243
 1 Lightning Greaves (LTC) 281
 1 Lost Jitte (BIG) 53
 1 Lothlórien Blade (LTC) 77
 1 Mask of Memory (MRD) 203
-1 Mithril Coat (LTR) 379
-5 Mountain (J22) 107
+1 Metalwork Colossus (BRC) 147
+1 Mossfire Valley (NCC) 414
+6 Mountain (J22) 107
 1 Nettlecyst (MKC) 233
 1 Ornithopter (MRD) 224
+1 Peerless Recycling (BLB) 188
+1 Phyrexian Walker (VIS) 152
 1 Pip-Boy 3000 (PIP) 140
 1 Reckless Fireweaver (J22) 587
 1 Restless Ridgeline (LCI) 350
-1 Resurrection Orb (40K) 165
 1 Return of the Wildspeaker (ELD) 172
 1 Rishkar's Expertise (NEC) 127
 1 Rockfall Vale (MID) 266
+1 Rogue's Passage (LTC) 326
 1 Rootbound Crag (SLD) 459
 1 Sarinth Greatwurm (BRO) 220
 1 Sarinth Steelseeker (BRO) 189
-1 Shadowspear (THB) 345
+1 Sheltered Thicket (PLST) AKH-248
 1 Silkguard (NEC) 29
 1 Silver Shroud Costume (PIP) 142
 1 Slagwoods Bridge (MH2) 256
 1 Sol Ring (MOC) 381
-1 Spire Garden (ZNE) 19
 1 Stomping Ground (UNF) 280
 1 Strong Back (PIP) 83
 1 Stump Stomp // Burnwillow Clearing (MH3) 259
@@ -82,12 +82,8 @@
 1 Thrun, Breaker of Silence (ONE) 186
 1 Thrun, the Last Troll (MBS) 92
 1 Toski, Bearer of Secrets (KHM) 197
+1 Traxos, Scourge of Kroog (BRC) 170
 1 Tree of Tales (MRD) 285
-1 Ulamog, the Infinite Gyre (ROE) 12
 1 Umezawa's Jitte (BOK) 163
-1 Urza's Saga (MH2) 259
 1 Vorrac Battlehorns (MRD) 271
-1 Walking Ballista (AER) 181
 1 Wooded Foothills (KTK) 249
-1 Yavimaya, Cradle of Growth (MH2) 441
-1 Zoyowa's Justice (LCI) 173

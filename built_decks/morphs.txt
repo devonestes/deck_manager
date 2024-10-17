@@ -1,8 +1,3 @@
-Craterhoof Behemoth (PROXY)
-Rejuvenating Springs (PROXY)
-Rhystic Study (PROXY)
-Tropical Island (PROXY)
-Worldly Tutor (PROXY)
 Kadena, Slinking Sorcerer
 Ainok Survivalist
 Alchemist's Refuge
@@ -10,6 +5,8 @@ All Is Dust
 Aphetto Runecaster
 Arcane Signet
 Assassin's Trophy
+Aveline de Grandpré
+Bane of the Living
 Bayou
 Beast Whisperer
 Branch of Vitu-Ghazi
@@ -17,6 +14,7 @@ Breeding Pool
 Brine Elemental
 Chromeshell Crab
 Command Tower
+Craterhoof Behemoth
 Cryptic Coat
 Crystal Shard
 Cyclonic Rift
@@ -26,6 +24,7 @@ Den Protector
 Dreamroot Cascade
 Elven Chorus
 Etrata, Deadly Fugitive
+Experiment Twelve
 Farseek
 Final-Word Phantom
 Flooded Grove
@@ -46,8 +45,8 @@ Kadena's Silencer
 Kheru Spellsnatcher
 Leyline of Anticipation
 Liberator, Urza's Battlethopter
-Llanowar Wastes
 Mischievous Quanar
+Misty Rainforest
 Morphic Pool
 Nantuko Vigilante
 Nature's Lore
@@ -62,7 +61,6 @@ Reliquary Tower
 Revitalizing Repast // Old-Growth Grove
 Satoru, the Infiltrator
 Scroll of Fate
-Secret Plans
 Seedborn Muse
 Shipwreck Marsh
 Silumgar Assassin
@@ -70,7 +68,6 @@ Simic Growth Chamber
 Sol Ring
 Stratus Dancer
 Sunken Ruins
-Swamp
 Swamp
 Teferi, Mage of Zhalfir
 Teferi's Ageless Insight
@@ -82,17 +79,20 @@ Three Visits
 Triumph of the Hordes
 Twilight Mire
 Ugin's Mastery
+Underground Mortuary
 Underground Sea
 Undergrowth Stadium
 Vannifar, Evolved Enigma
-Vedalken Orrery
+Verdant Catacombs
 Vesuvan Shapeshifter
 Voidmage Apprentice
+Waterlogged Teachings // Inundated Archive
 Watery Grave
 Whisperwood Elemental
 Wilderness Reclamation
 Winding Canyons
 Woodland Cemetery
+Worldly Tutor
 Yavimaya Coast
 Yavimaya, Cradle of Growth
 Yedora, Grave Gardener

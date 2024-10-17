@@ -1,7 +1,6 @@
 1 Auntie Blyte, Bad Influence (J22) 30
 1 Acidic Soil (PLST) USG-172
 1 Alexios, Deimos of Kosmos (ACR) 33
-1 Ancient Tomb (TMP) 315
 1 Ankh of Mishra (4ED) 294
 1 Arcane Signet (MOC) 348
 1 Barbarian Ring (PLST) ODY-313
@@ -10,11 +9,11 @@
 1 Brash Taunter (M21) 133
 1 Chandra's Ignition (LCC) 220
 1 Chaos Warp (BRC) 114
-1 City of Brass (5ED) 413
 1 Commander's Plate (CMR) 692
 1 Defiler of Instinct (DMU) 119
 1 Deflecting Swat (C20) 50
 1 Earthquake (4ED) 189
+1 Extraplanar Lens (MRD) 169
 1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
 1 Fiendish Duo (MKC) 153
 1 Fiery Emancipation (M21) 366
@@ -33,13 +32,12 @@
 1 Lightning Bolt (2ED) 162
 1 Lightning Greaves (LTC) 281
 1 Loxodon Warhammer (MRD) 201
-1 Mana Vault (2ED) 260
 1 Manabarbs (4ED) 212
 1 March of Reckless Joy (NEO) 386
 1 Mechanized Warfare (BRO) 139
 1 Meekstone (4ED) 335
 1 Mithril Coat (LTR) 379
-24 Mountain (J22) 107
+27 Mountain (J22) 107
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Ojer Axonil, Deepest Might // Temple of Power (LCI) 158
 1 Oliphaunt (LTR) 426
@@ -66,11 +64,10 @@
 1 Sundering Eruption // Volcanic Fissure (MH3) 248
 1 Tarnished Citadel (ODY) 329
 1 Themberchaud (SLD) 728
+1 Throne of Eldraine (WOC) 28
 1 Torbran, Thane of Red Fell (ELD) 147
-1 Urza's Saga (MH2) 259
 1 Valakut Awakening // Valakut Stoneforge (ZNR) 174
 1 War Room (WHO) 330
-1 Wheel of Fortune (3ED) 185
 1 Wheel of Misfortune (CMR) 211
 1 Winter Moon (MH3) 213
 1 Wrenn's Resolve (MOM) 173

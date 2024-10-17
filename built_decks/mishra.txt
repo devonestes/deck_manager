@@ -1,26 +1,6 @@
-Deflecting Swat (PROXY)
-Demonic Tutor (PROXY)
-Fierce Guardianship (PROXY)
-Haunted Ridge (PROXY)
-Liberator, Urza's Battlethopter (PROXY)
-Luxury Suite (PROXY)
-Mithril Coat (PROXY)
-Morphic Pool (PROXY)
-Mox Amber (PROXY)
-Otawara, Soaring City (PROXY)
-Rhystic Study (PROXY)
-Riverglide Pathway // Lavaglide Pathway (PROXY)
-Scalding Tarn (PROXY)
-Scroll Rack (PROXY)
-Shipwreck Marsh (PROXY)
-Stormcarved Coast (PROXY)
-Sunken Ruins (PROXY)
-Training Center (PROXY)
-Urza's Saga (PROXY)
-Vampiric Tutor (PROXY)
-Wurmcoil Engine (PROXY)
 Mishra, Eminent One
 Academy Ruins
+Arcane Denial
 Arcane Signet
 Arcum Dagsson
 Badlands
@@ -28,6 +8,7 @@ Baleful Strix
 Basalt Monolith
 Blasphemous Act
 Blightsteel Colossus
+Blightstep Pathway // Searstep Pathway
 Blood Crypt
 Bloodsoaked Insight // Sanguine Morass
 Bloodstained Mire
@@ -41,12 +22,18 @@ Cursed Mirror
 Cyberdrive Awakener
 Darksteel Citadel
 Darksteel Forge
+Deadly Dispute
 Determined Iteration
 Drossforge Bridge
+Drowned Catacomb
+Emry, Lurker of the Loch
+Esoteric Duplicator
 Etherium Sculptor
 Fabricate
+Fomori Vault
 Gonti's Aether Heart
 Great Furnace
+Hedron Archive
 Ichor Wellspring
 Idol of Oblivion
 Island
@@ -60,25 +47,33 @@ Lightning Greaves
 Magmatic Galleon
 Mana Drain
 Metalworker
+Mind Stone
 Mindslaver
 Mistvault Bridge
 Mountain
 Mox Opal
 Mystic Forge
-Obeka, Brute Chronologist
 Polluted Delta
 Portal to Phyrexia
+Relic of Sauron
 Rise and Shine
+Riverglide Pathway // Lavaglide Pathway
 RMS Titanic
+Rolling Hamsphere
+Scalding Tarn
+Scroll Rack
 Seat of the Synod
 Sensei's Divining Top
+Shivan Reef
 Silverbluff Bridge
 Simulacrum Synthesizer
 Sol Ring
 Solemn Simulacrum
 Spire of Industry
 Steam Vents
+Stormcarved Coast
 Strionic Resonator
+Sulfur Falls
 Swamp
 Swiftfoot Boots
 Talisman of Creativity
@@ -90,11 +85,16 @@ The One Ring
 The Reality Chip
 The Stasis Coffin
 Thoughtcast
+Thundering Falls
+Training Center
 Troll of Khazad-dûm
+Undercity Sewers
+Underground River
 Unwinding Clock
 Urza, Lord High Artificer
 Vault of Whispers
 Watery Grave
 Weatherlight
 Wondrous Crucible
+Worldwalker Helm
 Xander's Lounge

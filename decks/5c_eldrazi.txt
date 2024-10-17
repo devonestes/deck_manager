@@ -3,14 +3,18 @@
 1 All Is Dust (M3C) 152
 1 Arcane Signet (MOC) 348
 1 Artisan of Kozilek (CMM) 801
+1 Awakening Zone (M3C) 222
 1 Battlefield Forge (BRO) 257
+1 Bismuth Mindrender (M3C) 51
 1 Bonders' Enclave (CMM) 988
+1 Bountiful Landscape (MH3) 217
 1 Breaker of Creation (MH3) 1
 1 Brushland (BRO) 259
+1 Calamity of the Titans (CMM) 713
 1 Command Tower (MOC) 396
 1 Concordant Crossroads (2X2) 367
-1 Corrupted Crossroads (M3C) 332
 1 Darksteel Monolith (CMM) 743
+1 Drowner of Truth // Drowned Jungle (MH3) 253
 1 Echoes of Eternity (MH3) 320
 1 Eldrazi Confluence (M3C) 32
 1 Eldrazi Conscription (UMA) 3
@@ -18,25 +22,21 @@
 1 Eldrazi Monument (ZEN) 199
 1 Eldrazi Temple (ROE) 227
 1 Eldritch Immunity (M3C) 33
-1 Emrakul, the Promised End (SLD) 1160
 1 Emrakul, the World Anew (MH3) 6
 1 Endbringer (J22) 748
-1 Everflowing Chalice (LTC) 278
 1 Exotic Orchard (MOC) 398
 1 Expedition Map (ZEN) 201
 1 Eye of Ugin (WWK) 136
 1 Forest (J22) 110
 1 Forsaken Monument (CMM) 950
-1 Gilded Lotus (BLC) 271
 1 Glaring Fleshraker (MH3) 7
-1 Hedron Archive (BRC) 142
+1 Guildless Commons (CMM) 1003
 1 Herald's Horn (LTC) 280
 1 Hideous Taskmaster (M3C) 109
 1 Hydroelectric Specimen // Hydroelectric Laboratory (MH3) 240
 1 Island (J22) 101
 1 It That Betrays (ROE) 7
 1 It That Heralds the End (MH3) 385
-1 Karplusan Forest (M3C) 351
 1 Kozilek, Butcher of Truth (ROE) 6
 1 Kozilek, the Broken Reality (MH3) 382
 1 Kozilek, the Great Distortion (CMM) 668
@@ -66,34 +66,34 @@
 1 Snapping Voidcraw (MH3) 204
 1 Sol Ring (MOC) 381
 1 Sowing Mycospawn (MH3) 340
-1 Spawnbed Protector (M3C) 36
 1 Sulfurous Springs (5ED) 424
 1 Sundering Eruption // Volcanic Fissure (MH3) 248
 1 Swamp (MH3) 314
 1 Talisman of Curiosity (MKC) 241
 1 Talisman of Impulse (MRD) 254
+1 Temur Ascendancy (KTK) 207
+1 Tendo Ice Bridge (M3C) 393
 1 The Irencrag (WOE) 248
 1 Thief of Existence (MH3) 174
 1 Thought-Knot Seer (SPG) 39
 1 Thran Dynamo (BRC) 168
 1 Titans' Vanguard (MH3) 206
-1 Tranquil Landscape (MH3) 231
-1 Twisted Landscape (MH3) 232
 1 Ugin, the Ineffable (WAR) 2
 1 Ugin's Binding (MH3) 76
 1 Ugin's Labyrinth (MH3) 233
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 1 Ulamog, the Defiler (MH3) 15
 1 Ulamog, the Infinite Gyre (ROE) 12
-1 Ulamog's Dreadsire (M3C) 38
 1 Unclaimed Territory (LCC) 366
 1 Underground River (BRO) 267
+1 Urza's Incubator (C15) 273
 1 Urza's Mine (5ED) 427
 1 Urza's Power Plant (5ED) 428
 1 Urza's Tower (CHR) 116b
 1 Urza's Workshop (BRC) 51
 1 Void Winnower (BFZ) 17
 1 Wastes (CMM) 1056
+1 Worn Powerstone (LTC) 293
 1 Writhing Chrysalis (MH3) 208
 1 Wumpus Aberration (MH3) 176
 1 Yavimaya Coast (DMU) 261

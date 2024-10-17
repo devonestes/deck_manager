@@ -1,10 +1,3 @@
-Ancient Tomb (PROXY)
-City of Brass (PROXY)
-Imperial Recruiter (PROXY)
-Mana Vault (PROXY)
-Tarnished Citadel (PROXY)
-Urza's Saga (PROXY)
-Wheel of Fortune (PROXY)
 Auntie Blyte, Bad Influence
 Acidic Soil
 Alexios, Deimos of Kosmos
@@ -20,6 +13,7 @@ Commander's Plate
 Defiler of Instinct
 Deflecting Swat
 Earthquake
+Extraplanar Lens
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 Fiendish Duo
 Fiery Emancipation
@@ -30,6 +24,7 @@ Gauntlet of Might
 Generous Plunderer
 Ghostfire Slice
 Goldspan Dragon
+Imperial Recruiter
 Jeska's Will
 Kediss, Emberclaw Familiar
 Laelia, the Blade Reforged
@@ -42,6 +37,9 @@ March of Reckless Joy
 Mechanized Warfare
 Meekstone
 Mithril Coat
+Mountain
+Mountain
+Mountain
 Mountain
 Mountain
 Mountain
@@ -90,7 +88,9 @@ Spear Spewer
 Spellshock
 Sulfuric Vortex
 Sundering Eruption // Volcanic Fissure
+Tarnished Citadel
 Themberchaud
+Throne of Eldraine
 Torbran, Thane of Red Fell
 Valakut Awakening // Valakut Stoneforge
 War Room

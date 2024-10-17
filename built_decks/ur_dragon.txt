@@ -13,6 +13,7 @@ Goldspan Dragon (PROXY)
 Guardian Project (PROXY)
 Heroic Intervention (PROXY)
 Indatha Triome (PROXY)
+Jetmir's Garden (PROXY)
 Ketria Triome (PROXY)
 Klauth, Unrivaled Ancient (PROXY)
 Kokusho, the Evening Star (PROXY)
@@ -23,10 +24,14 @@ Old Gnawbone (PROXY)
 Roaming Throne (PROXY)
 Scalding Tarn (PROXY)
 Spara's Headquarters (PROXY)
+Steam Vents (PROXY)
+Stomping Ground (PROXY)
 Teferi's Protection (PROXY)
+Temur Ascendancy (PROXY)
 Terror of the Peaks (PROXY)
 The Great Henge (PROXY)
 The World Tree (PROXY)
+Urza's Incubator (PROXY)
 Wooded Foothills (PROXY)
 Zagoth Triome (PROXY)
 Ziatora's Proving Ground (PROXY)
@@ -57,7 +62,6 @@ Hellkite Courser
 Hellkite Tyrant
 Herald's Horn
 Island
-Jetmir's Garden
 Karrthus, Tyrant of Jund
 Kindred Discovery
 Kindred Dominance
@@ -83,17 +87,13 @@ Savage Ventmaw
 Scalelord Reckoner
 Scourge of the Throne
 Sol Ring
-Steam Vents
-Stomping Ground
 Swamp
 Swords to Plowshares
 Temple Garden
 Temple of the Dragon Queen
-Temur Ascendancy
 The Kami War // O-Kagachi Made Manifest
 Three Visits
 Tiamat
-Urza's Incubator
 Utvara Hellkite
 Watery Grave
 Windswept Heath

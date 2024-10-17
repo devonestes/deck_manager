@@ -1,9 +1,9 @@
 1 Edgar Markov (C17) 36
 1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
 1 Akroma's Will (CMR) 615
-1 Ancient Tomb (TMP) 315
 1 Anguished Unmaking (SLD) 138
 1 Arcane Signet (MOC) 348
+1 Arid Mesa (MM3) 229
 1 Ashnod's Altar (5ED) 349
 1 Badlands (3ED) 282
 1 Battlefield Forge (BRO) 257
@@ -14,6 +14,7 @@
 1 Bloodghast (LCC) 184
 1 Bloodletter of Aclazotz (LCI) 336
 1 Bloodline Keeper // Lord of Lineage (ISD) 90
+1 Bloodstained Mire (KTK) 230
 1 Bojuka Bog (MOC) 391
 1 Captivating Vampire (M11) 87
 1 Cavern of Souls (AVR) 226
@@ -39,7 +40,6 @@
 1 Dusk Legion Sergeant (LCC) 80
 1 Edgar, Charmed Groom // Edgar Markov's Coffin (DBL) 503
 1 Elenda, the Dusk Rose (RIX) 157
-1 Enlightened Tutor (MIR) 14
 1 Everything Comes to Dust (WHO) 19
 1 Exquisite Blood (AVR) 102
 1 Fell the Profane // Fell Mire (MH3) 244
@@ -52,7 +52,6 @@
 1 Isolated Chapel (LCC) 337
 1 Kindred Dominance (CMM) 640
 1 Luxury Suite (ZNE) 18
-1 Mana Vault (2ED) 260
 1 Markov Baron (MAT) 14
 1 Marsh Flats (MM3) 239
 1 Master of Dark Rites (LCC) 83
@@ -66,12 +65,13 @@
 1 Phyrexian Tower (JMP) 493
 1 Plains (J22) 98
 1 Preacher of the Schism (LCI) 113
-1 Queen's Bay Paladin (LCI) 115
 1 Redemption Choir (LCC) 74
+1 Reflecting Pool (LTC) 373
 1 Roaming Throne (LCI) 344
 1 Ruinous Ultimatum (PIP) 220
 1 Sanguine Bond (LTC) 208
 1 Savai Triome (IKO) 312
+1 Scrubland (3ED) 286
 1 Shattered Sanctum (VOW) 283
 1 Skullclamp (DST) 140
 1 Sol Ring (MOC) 381
@@ -90,9 +90,9 @@
 1 Urza's Saga (MH2) 259
 1 Vampiric Tutor (VIS) 72
 1 Vault of Champions (CMR) 715
+1 Vein Ripper (MKM) 110
 1 Viscera Seer (LCC) 213
 1 Vito, Thorn of the Dusk Rose (M21) 127
-1 Voldaren Estate (LCC) 369
 1 Volrath's Stronghold (STH) 143
 1 Vraan, Executioner Thane (ONE) 114
 1 Welcoming Vampire (LCC) 140

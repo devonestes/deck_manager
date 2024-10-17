@@ -11,7 +11,6 @@ Scalding Tarn (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
 Solphim, Mayhem Dominus (PROXY)
-Steam Vents (PROXY)
 Stormcarved Coast (PROXY)
 Time Warp (PROXY)
 Training Center (PROXY)
@@ -86,6 +85,7 @@ Snap
 Snapcaster Mage
 Sol Ring
 Soldevi Excavations
+Steam Vents
 Storm-Kiln Artist
 Sulfur Falls
 Teferi's Ageless Insight

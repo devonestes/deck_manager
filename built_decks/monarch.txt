@@ -5,6 +5,7 @@ Cavern of Souls (PROXY)
 Clever Concealment (PROXY)
 Conjurer's Mantle (PROXY)
 Cyclonic Rift (PROXY)
+Elesh Norn, Grand Cenobite (PROXY)
 Esper Sentinel (PROXY)
 Faerie Mastermind (PROXY)
 Fierce Guardianship (PROXY)
@@ -18,8 +19,10 @@ Recruiter of the Guard (PROXY)
 Rhystic Study (PROXY)
 Serra Ascendant (PROXY)
 Spectator Seating (PROXY)
+Stormcarved Coast (PROXY)
 Sundown Pass (PROXY)
 Swan Song (PROXY)
+Training Center (PROXY)
 Tundra (PROXY)
 Weathered Wayfarer (PROXY)
 Aragorn, King of Gondor
@@ -45,7 +48,6 @@ Court of Grace
 Court of Vantress
 Deserted Beach
 Dolmen Gate
-Elesh Norn, Grand Cenobite
 Faramir, Prince of Ithilien
 Faramir, Steward of Gondor
 Fealty to the Realm
@@ -86,7 +88,6 @@ Shared Animosity
 Smothering Tithe
 Sol Ring
 Steam Vents
-Stormcarved Coast
 Swords to Plowshares
 Talisman of Conviction
 Talisman of Creativity
@@ -96,5 +97,4 @@ Teferi's Protection
 Thalia's Lieutenant
 Throne of the High City
 Tithe
-Training Center
 Wayfarer's Bauble

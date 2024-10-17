@@ -3,14 +3,18 @@ Adarkar Wastes
 All Is Dust
 Arcane Signet
 Artisan of Kozilek
+Awakening Zone
 Battlefield Forge
+Bismuth Mindrender
 Bonders' Enclave
+Bountiful Landscape
 Breaker of Creation
 Brushland
+Calamity of the Titans
 Command Tower
 Concordant Crossroads
-Corrupted Crossroads
 Darksteel Monolith
+Drowner of Truth // Drowned Jungle
 Echoes of Eternity
 Eldrazi Confluence
 Eldrazi Conscription
@@ -18,25 +22,21 @@ Eldrazi Linebreaker
 Eldrazi Monument
 Eldrazi Temple
 Eldritch Immunity
-Emrakul, the Promised End
 Emrakul, the World Anew
 Endbringer
-Everflowing Chalice
 Exotic Orchard
 Expedition Map
 Eye of Ugin
 Forest
 Forsaken Monument
-Gilded Lotus
 Glaring Fleshraker
-Hedron Archive
+Guildless Commons
 Herald's Horn
 Hideous Taskmaster
 Hydroelectric Specimen // Hydroelectric Laboratory
 Island
 It That Betrays
 It That Heralds the End
-Karplusan Forest
 Kozilek, Butcher of Truth
 Kozilek, the Broken Reality
 Kozilek, the Great Distortion
@@ -66,34 +66,34 @@ Sire of Stagnation
 Snapping Voidcraw
 Sol Ring
 Sowing Mycospawn
-Spawnbed Protector
 Sulfurous Springs
 Sundering Eruption // Volcanic Fissure
 Swamp
 Talisman of Curiosity
 Talisman of Impulse
+Temur Ascendancy
+Tendo Ice Bridge
 The Irencrag
 Thief of Existence
 Thought-Knot Seer
 Thran Dynamo
 Titans' Vanguard
-Tranquil Landscape
-Twisted Landscape
 Ugin, the Ineffable
 Ugin's Binding
 Ugin's Labyrinth
 Ulamog, the Ceaseless Hunger
 Ulamog, the Defiler
 Ulamog, the Infinite Gyre
-Ulamog's Dreadsire
 Unclaimed Territory
 Underground River
+Urza's Incubator
 Urza's Mine
 Urza's Power Plant
 Urza's Tower
 Urza's Workshop
 Void Winnower
 Wastes
+Worn Powerstone
 Writhing Chrysalis
 Wumpus Aberration
 Yavimaya Coast

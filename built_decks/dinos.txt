@@ -1,7 +1,9 @@
 Ancient Tomb (PROXY)
+Bloodstained Mire (PROXY)
 Bonehoard Dracosaur (PROXY)
 Boseiju, Who Endures (PROXY)
 Cavern of Souls (PROXY)
+Chandra's Ignition (PROXY)
 Deflecting Swat (PROXY)
 Delighted Halfling (PROXY)
 Entish Restoration (PROXY)
@@ -31,6 +33,7 @@ The Skullspore Nexus (PROXY)
 Tithe (PROXY)
 Urza's Incubator (PROXY)
 Urza's Saga (PROXY)
+Verdant Catacombs (PROXY)
 Wooded Bastion (PROXY)
 Wooded Foothills (PROXY)
 Gishath, Sun's Avatar
@@ -38,9 +41,7 @@ Akroma's Will
 Apex Altisaur
 Arcane Signet
 Arid Mesa
-Bloodstained Mire
 Carnage Tyrant
-Chandra's Ignition
 Command Tower
 Cultivate
 Curious Altisaur
@@ -91,7 +92,6 @@ Topiary Stomper
 Trapjaw Tyrant
 Unclaimed Territory
 Vaultborn Tyrant
-Verdant Catacombs
 Wakening Sun's Avatar
 Welcome to . . . // Jurassic Park
 Windswept Heath

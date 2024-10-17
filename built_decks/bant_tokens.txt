@@ -17,11 +17,12 @@ Elven Chorus (PROXY)
 Esper Sentinel (PROXY)
 Faerie Mastermind (PROXY)
 Fierce Guardianship (PROXY)
+Flooded Grove (PROXY)
+Flooded Strand (PROXY)
 Gruff Triplets (PROXY)
 Heroic Intervention (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
-Natural Order (PROXY)
 Noble Hierarch (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Oltec Matterweaver (PROXY)
@@ -30,6 +31,7 @@ Overgrown Farmland (PROXY)
 Rejuvenating Springs (PROXY)
 Rhys the Redeemed (PROXY)
 Rhystic Study (PROXY)
+Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Sea of Clouds (PROXY)
 Spara's Headquarters (PROXY)
@@ -56,8 +58,6 @@ Earthcraft
 Eladamri, Korvecdal
 Faerie Artisans
 Felidar Retreat
-Flooded Grove
-Flooded Strand
 Forest
 Forest
 Gala Greeters
@@ -80,12 +80,12 @@ Master Biomancer
 Mondrak, Glory Dominus
 Mystic Remora
 Nadir Kraken
+Natural Order
 Overwhelming Stampede
 Perch Protection
 Peregrine Drake
 Plains
 Ripples of Potential
-Scute Swarm
 Sol Ring
 Strength of the Harvest // Haven of the Harvest
 Suppression Ray // Orderly Plaza

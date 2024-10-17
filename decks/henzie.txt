@@ -1,7 +1,6 @@
 1 Henzie "Toolbox" Torre (NCC) 2
 1 Ancient Brass Dragon (CLB) 367
 1 Ancient Copper Dragon (CLB) 161
-1 Ancient Tomb (TMP) 315
 1 Animate Dead (3ED) 93
 1 Arcane Signet (MOC) 348
 1 Archon of Cruelty (MH2) 75
@@ -16,16 +15,15 @@
 1 Bloodstained Mire (KTK) 230
 1 Blossoming Tortoise (WOE) 163
 1 Boggart Trawler // Boggart Bog (MH3) 243
-1 Boseiju, Who Endures (NEO) 501
 1 Bringer of the Last Gift (LCI) 94
 1 Buried Alive (WTH) 63
 1 Cinder Glade (DMC) 203
 1 Command Tower (MOC) 396
+1 Commercial District (MKM) 259
+1 Culling Ritual (ONC) 117
 1 Cultivate (J22) 644
 1 Deadly Rollick (C20) 42
 1 Delighted Halfling (LTR) 158
-1 Demonic Tutor (3ED) 105
-1 Dragonskull Summit (SLD) 458
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
 1 Exotic Orchard (MOC) 398
@@ -42,6 +40,7 @@
 1 Ignoble Hierarch (MH2) 166
 1 Industrial Advancement (NCC) 47
 1 Junji, the Midnight Sky (NEO) 409
+1 Karplusan Forest (M3C) 351
 1 Kessig Wolf Run (LCC) 340
 1 Kethek, Crucible Goliath (ONE) 206
 1 Kodama's Reach (CLB) 826
@@ -50,8 +49,9 @@
 1 Kokusho, the Evening Star (MMA) 89
 1 Kura, the Boundless Sky (NEO) 200
 1 Living Death (LTC) 203
-1 Luxury Suite (ZNE) 18
+1 Llanowar Wastes (BRO) 299
 1 Mikaeus, the Unhallowed (CMM) 675
+1 Mossfire Valley (NCC) 414
 2 Mountain (J22) 107
 1 Necromancy (VIS) 64
 1 Noxious Gearhulk (BRC) 110
@@ -62,10 +62,14 @@
 1 Reanimate (TMP) 151
 1 Rise of the Dark Realms (M14) 111
 1 Riveteers Ascendancy (SNC) 216
+1 Rootbound Crag (SLD) 459
 1 Rottenmouth Viper (BLB) 290
 1 Sakura-Tribe Elder (CHK) 239
+1 Saw in Half (BLC) 113
 1 Shadow in the Warp (40K) 140
+1 Shadowblood Ridge (BRC) 199
 1 Skullclamp (DST) 140
+1 Smoldering Marsh (BRC) 202
 1 Sol Ring (MOC) 381
 1 Solemn Simulacrum (BRC) 161
 1 Spire Garden (ZNE) 19
@@ -78,16 +82,12 @@
 1 The Skullspore Nexus (LCI) 212
 1 Toxic Deluge (C13) 96
 1 Twilight Mire (NCC) 443
-1 Undergrowth Stadium (CMR) 714
 1 Up the Beanstalk (WOE) 195
-1 Urborg, Tomb of Yawgmoth (TSR) 287
-1 Urza's Saga (MH2) 259
-1 Vampiric Tutor (VIS) 72
 1 Verdant Catacombs (MM3) 249
 1 Victimize (EMA) 113
 1 Virtue of Persistence // Locthwain Scorn (WOE) 115
-1 Wheel of Fortune (3ED) 185
 1 Wooded Foothills (KTK) 249
+1 Woodland Cemetery (LTC) 346
 1 Wurmcoil Engine (2XM) 308
 1 Ziatora, the Incinerator (M3C) 279
 1 Ziatora's Proving Ground (SNC) 295

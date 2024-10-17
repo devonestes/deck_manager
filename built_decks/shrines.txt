@@ -11,6 +11,7 @@ Fierce Guardianship (PROXY)
 Forbidden Orchard (PROXY)
 Heroic Intervention (PROXY)
 Ketria Triome (PROXY)
+Misty Rainforest (PROXY)
 Oracle of Mul Daya (PROXY)
 Rhystic Study (PROXY)
 Rockfall Vale (PROXY)
@@ -60,7 +61,6 @@ Island
 Jetmir's Garden
 Jukai Naturalist
 Mirari's Wake
-Misty Rainforest
 Moat
 Moon-Blessed Cleric
 Mountain

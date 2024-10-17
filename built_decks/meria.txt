@@ -1,23 +1,3 @@
-Blightsteel Colossus (PROXY)
-Boseiju, Who Endures (PROXY)
-Chandra's Ignition (PROXY)
-Commander's Plate (PROXY)
-Deflecting Swat (PROXY)
-Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
-Finale of Devastation (PROXY)
-Fire-Lit Thicket (PROXY)
-Great Furnace (PROXY)
-Kozilek, Butcher of Truth (PROXY)
-Mithril Coat (PROXY)
-Resurrection Orb (PROXY)
-Rockfall Vale (PROXY)
-Shadowspear (PROXY)
-Spire Garden (PROXY)
-Stomping Ground (PROXY)
-Ulamog, the Infinite Gyre (PROXY)
-Urza's Saga (PROXY)
-Wooded Foothills (PROXY)
-Yavimaya, Cradle of Growth (PROXY)
 Meria, Scholar of Antiquity
 Apex Altisaur
 Basilisk Collar
@@ -25,20 +5,29 @@ Beamtown Beatstick
 Berserk
 Bitterthorn, Nissa's Animus
 Blackblade Reforged
+Blacksmith's Talent
+Bladegraft Aspirant
 Bridgeworks Battle // Tanglespan Bridgeworks
 Buried Ruin
 Champion's Helm
+Chandra's Ignition
 Chaos Warp
 Cinder Glade
 Command Tower
+Copperline Gorge
 Cragcrown Pathway // Timbercrown Pathway
 Darksteel Citadel
 Darksteel Plate
 Diamond Pick-Axe
 Dire Flail // Dire Blunderbuss
 Disciple of Freyalise // Garden of Freyalise
+Displaced Dinosaurs
+Elder Gargaroth
 Emrakul, the Promised End
 Fireshrieker
+Forest
+Forest
+Forest
 Forest
 Forest
 Forest
@@ -47,6 +36,7 @@ Foundry Inspector
 Game Trail
 Gruul Turf
 Hammer of Nazahn
+Haywire Mite
 Helm of the Host
 Howling Mine
 Hunter's Bow
@@ -54,12 +44,16 @@ Hunter's Insight
 Inventors' Fair
 Jeska's Will
 Kessig Wolf Run
+Kodama of the West Tree
 Komainu Battle Armor
 Lavaspur Boots
 Lightning Greaves
 Lost Jitte
 Lothlórien Blade
 Mask of Memory
+Metalwork Colossus
+Mossfire Valley
+Mountain
 Mountain
 Mountain
 Mountain
@@ -67,18 +61,24 @@ Mountain
 Mountain
 Nettlecyst
 Ornithopter
+Peerless Recycling
+Phyrexian Walker
 Pip-Boy 3000
 Reckless Fireweaver
 Restless Ridgeline
 Return of the Wildspeaker
 Rishkar's Expertise
+Rockfall Vale
+Rogue's Passage
 Rootbound Crag
 Sarinth Greatwurm
 Sarinth Steelseeker
+Sheltered Thicket
 Silkguard
 Silver Shroud Costume
 Slagwoods Bridge
 Sol Ring
+Stomping Ground
 Strong Back
 Stump Stomp // Burnwillow Clearing
 Swiftfoot Boots
@@ -93,8 +93,8 @@ Thran Power Suit
 Thrun, Breaker of Silence
 Thrun, the Last Troll
 Toski, Bearer of Secrets
+Traxos, Scourge of Kroog
 Tree of Tales
 Umezawa's Jitte
 Vorrac Battlehorns
-Walking Ballista
-Zoyowa's Justice
+Wooded Foothills

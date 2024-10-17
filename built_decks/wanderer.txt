@@ -13,6 +13,10 @@ Oracle of Mul Daya (PROXY)
 Otawara, Soaring City (PROXY)
 Prismatic Vista (PROXY)
 Rejuvenating Springs (PROXY)
+Riverglide Pathway // Lavaglide Pathway (PROXY)
+Rockfall Vale (PROXY)
+Scalding Tarn (PROXY)
+Scroll Rack (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Skyshroud Claim (PROXY)
 Spire Garden (PROXY)
@@ -22,6 +26,7 @@ Training Center (PROXY)
 Up the Beanstalk (PROXY)
 Urza's Saga (PROXY)
 Vorinclex // The Grand Evolution (PROXY)
+Wooded Foothills (PROXY)
 Wurmcoil Engine (PROXY)
 Maelstrom Wanderer
 Arcane Signet
@@ -67,13 +72,9 @@ Pathbreaker Ibex
 Rampant Growth
 Ranger's Path
 Rishkar's Expertise
-Riverglide Pathway // Lavaglide Pathway
-Rockfall Vale
 Sakura-Tribe Elder
 Sarkhan's Unsealing
-Scalding Tarn
 Scourge of the Throne
-Scroll Rack
 Selvala, Heart of the Wilds
 Selvala's Stampede
 Snow-Covered Forest
@@ -96,5 +97,4 @@ Turntimber Symbiosis // Turntimber, Serpentine Wood
 Uro, Titan of Nature's Wrath
 Vastwood Surge
 Vorinclex, Monstrous Raider
-Wooded Foothills
 Yavimaya Coast
