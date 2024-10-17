@@ -5,6 +5,7 @@ Cavern of Souls (PROXY)
 Clever Concealment (PROXY)
 Conjurer's Mantle (PROXY)
 Cyclonic Rift (PROXY)
+Elesh Norn, Grand Cenobite (PROXY)
 Esper Sentinel (PROXY)
 Faerie Mastermind (PROXY)
 Fierce Guardianship (PROXY)
@@ -45,7 +46,6 @@ Court of Grace
 Court of Vantress
 Deserted Beach
 Dolmen Gate
-Elesh Norn, Grand Cenobite
 Faramir, Prince of Ithilien
 Faramir, Steward of Gondor
 Fealty to the Realm

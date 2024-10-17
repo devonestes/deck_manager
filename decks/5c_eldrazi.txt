@@ -11,6 +11,7 @@
 1 Concordant Crossroads (2X2) 367
 1 Corrupted Crossroads (M3C) 332
 1 Darksteel Monolith (CMM) 743
+1 Drowner of Truth // Drowned Jungle (MH3) 253
 1 Echoes of Eternity (MH3) 320
 1 Eldrazi Confluence (M3C) 32
 1 Eldrazi Conscription (UMA) 3
@@ -27,7 +28,6 @@
 1 Eye of Ugin (WWK) 136
 1 Forest (J22) 110
 1 Forsaken Monument (CMM) 950
-1 Gilded Lotus (BLC) 271
 1 Glaring Fleshraker (MH3) 7
 1 Hedron Archive (BRC) 142
 1 Herald's Horn (LTC) 280
@@ -36,7 +36,6 @@
 1 Island (J22) 101
 1 It That Betrays (ROE) 7
 1 It That Heralds the End (MH3) 385
-1 Karplusan Forest (M3C) 351
 1 Kozilek, Butcher of Truth (ROE) 6
 1 Kozilek, the Broken Reality (MH3) 382
 1 Kozilek, the Great Distortion (CMM) 668
@@ -72,6 +71,7 @@
 1 Swamp (MH3) 314
 1 Talisman of Curiosity (MKC) 241
 1 Talisman of Impulse (MRD) 254
+1 Tendo Ice Bridge (M3C) 393
 1 The Irencrag (WOE) 248
 1 Thief of Existence (MH3) 174
 1 Thought-Knot Seer (SPG) 39

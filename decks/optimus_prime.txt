@@ -42,7 +42,7 @@
 1 Losheel, Clockwork Scholar (CMM) 38
 1 Mana Drain (CMR) 80
 1 Mech Hangar (NEO) 270
-1 Mountain (J22) 107
+2 Mountain (J22) 107
 1 Mystic Monastery (DMC) 221
 1 Mystic Remora (ICE) 87
 1 Organic Extinction (MKC) 76
@@ -70,7 +70,6 @@
 1 Smuggler's Copter (NEC) 160
 1 Sol Ring (MOC) 381
 1 Solemn Simulacrum (BRC) 161
-1 Spectator Seating (CMR) 711
 1 Spire of Industry (NEC) 178
 1 Steam Vents (UNF) 283
 1 Steel Overseer (PIP) 241

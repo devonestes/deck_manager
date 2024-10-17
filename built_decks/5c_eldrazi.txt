@@ -11,6 +11,7 @@ Command Tower
 Concordant Crossroads
 Corrupted Crossroads
 Darksteel Monolith
+Drowner of Truth // Drowned Jungle
 Echoes of Eternity
 Eldrazi Confluence
 Eldrazi Conscription
@@ -27,7 +28,6 @@ Expedition Map
 Eye of Ugin
 Forest
 Forsaken Monument
-Gilded Lotus
 Glaring Fleshraker
 Hedron Archive
 Herald's Horn
@@ -36,7 +36,6 @@ Hydroelectric Specimen // Hydroelectric Laboratory
 Island
 It That Betrays
 It That Heralds the End
-Karplusan Forest
 Kozilek, Butcher of Truth
 Kozilek, the Broken Reality
 Kozilek, the Great Distortion
@@ -72,6 +71,7 @@ Sundering Eruption // Volcanic Fissure
 Swamp
 Talisman of Curiosity
 Talisman of Impulse
+Tendo Ice Bridge
 The Irencrag
 Thief of Existence
 Thought-Knot Seer

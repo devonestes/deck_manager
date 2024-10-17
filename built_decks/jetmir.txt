@@ -1,36 +1,28 @@
-Avacyn's Pilgrim (PROXY)
-Birds of Paradise (PROXY)
-Bloom Tender (PROXY)
-Boseiju, Who Endures (PROXY)
-Bountiful Promenade (PROXY)
-Chord of Calling (PROXY)
-City of Brass (PROXY)
-Esper Sentinel (PROXY)
-Gemstone Caverns (PROXY)
-Green Sun's Zenith (PROXY)
-Mana Confluence (PROXY)
-Ranger-Captain of Eos (PROXY)
-Sylvan Library (PROXY)
 Jetmir, Nexus of Revels
 Adeline, Resplendent Cathar
+Agate Instigator
 Anim Pakal, Thousandth Moon
+Arbor Elf
 Arid Mesa
 Aurelia, the Law Above
 Aven Mindcensor
+Battlefield Forge
 Bloodstained Mire
 Brimaz, King of Oreskos
 Champion of Lambholt
 Charismatic Conqueror
 Chittering Dispatcher
 Clever Concealment
+Clifftop Retreat
+Collector Ouphe
 Combat Celebrant
 Command Tower
-Craterhoof Behemoth
-Delighted Halfling
 Doorkeeper Thrull
 Dryad Arbor
 Eiganjo, Seat of the Empire
+Elesh Norn, Grand Cenobite
 Elvish Mystic
+Everybody Lives!
 Exotic Orchard
 Fanatic of Rhonas
 Final Fortune
@@ -41,24 +33,29 @@ Forth Eorlingas!
 Fyndhorn Elves
 Genasi Enforcers
 Giver of Runes
+Grenzo, Havoc Raiser
 Horizon Canopy
 Hushbringer
 Hushwing Gryff
-Imperial Recruiter
+Jacked Rabbit
+Jetmir's Garden
+Joven's Ferrets
+Karplusan Forest
 Kellan, Daring Traveler // Journey On
 Kutzil, Malamet Exemplar
 Legolas's Quick Reflexes
 Linvala, Keeper of Silence
 Llanowar Elves
+Loran of the Third Path
 Marsh Flats
 Misty Rainforest
 Mother of Runes
 Mountain
 Myrel, Shield of Argive
-Natural Order
 Ocelot Pride
 Ohran Frostfang
 Oltec Matterweaver
+Paladin Elizabeth Taggerdy
 Path to Exile
 Plains
 Plateau
@@ -67,11 +64,13 @@ Professional Face-Breaker
 Ragavan, Nimble Pilferer
 Recruiter of the Guard
 Rhys the Redeemed
+Rootbound Crag
 Sacred Foundry
 Sanguine Evangelist
 Saryth, the Viper's Fang
 Scalding Tarn
 Scurry of Squirrels
+Scute Swarm
 Secure the Wastes
 Serra Ascendant
 Skyhunter Strike Force
@@ -80,9 +79,9 @@ Sol Ring
 Song of Totentanz
 Stomping Ground
 Sunbaked Canyon
+Sunpetal Grove
 Sylvan Safekeeper
 Taiga
-Tarnished Citadel
 Temple Garden
 Tendershoot Dryad
 Thalia, Guardian of Thraben
@@ -90,11 +89,12 @@ Toski, Bearer of Secrets
 Utopia Sprawl
 Varchild's War-Riders
 Verdant Catacombs
+Vryn Wingmare
+Warden of the Inner Sky
 Weathered Wayfarer
 Wild Growth
 Windswept Heath
 Winota, Joiner of Forces
 Wooded Foothills
-Worldly Tutor
 Wyrm's Crossing Patrol
 Yavimaya, Cradle of Growth

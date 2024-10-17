@@ -9,9 +9,6 @@ Morphic Pool (PROXY)
 Mox Amber (PROXY)
 Otawara, Soaring City (PROXY)
 Rhystic Study (PROXY)
-Riverglide Pathway // Lavaglide Pathway (PROXY)
-Scalding Tarn (PROXY)
-Scroll Rack (PROXY)
 Shipwreck Marsh (PROXY)
 Stormcarved Coast (PROXY)
 Sunken Ruins (PROXY)
@@ -69,7 +66,10 @@ Obeka, Brute Chronologist
 Polluted Delta
 Portal to Phyrexia
 Rise and Shine
+Riverglide Pathway // Lavaglide Pathway
 RMS Titanic
+Scalding Tarn
+Scroll Rack
 Seat of the Synod
 Sensei's Divining Top
 Silverbluff Bridge

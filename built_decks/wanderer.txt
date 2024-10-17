@@ -13,6 +13,9 @@ Oracle of Mul Daya (PROXY)
 Otawara, Soaring City (PROXY)
 Prismatic Vista (PROXY)
 Rejuvenating Springs (PROXY)
+Riverglide Pathway // Lavaglide Pathway (PROXY)
+Scalding Tarn (PROXY)
+Scroll Rack (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Skyshroud Claim (PROXY)
 Spire Garden (PROXY)
@@ -67,13 +70,10 @@ Pathbreaker Ibex
 Rampant Growth
 Ranger's Path
 Rishkar's Expertise
-Riverglide Pathway // Lavaglide Pathway
 Rockfall Vale
 Sakura-Tribe Elder
 Sarkhan's Unsealing
-Scalding Tarn
 Scourge of the Throne
-Scroll Rack
 Selvala, Heart of the Wilds
 Selvala's Stampede
 Snow-Covered Forest

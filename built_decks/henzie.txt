@@ -1,14 +1,3 @@
-Ancient Tomb (PROXY)
-Boseiju, Who Endures (PROXY)
-Delighted Halfling (PROXY)
-Demonic Tutor (PROXY)
-Dragonskull Summit (PROXY)
-Luxury Suite (PROXY)
-Undergrowth Stadium (PROXY)
-Urborg, Tomb of Yawgmoth (PROXY)
-Urza's Saga (PROXY)
-Vampiric Tutor (PROXY)
-Wheel of Fortune (PROXY)
 Henzie "Toolbox" Torre
 Ancient Brass Dragon
 Ancient Copper Dragon
@@ -30,8 +19,11 @@ Bringer of the Last Gift
 Buried Alive
 Cinder Glade
 Command Tower
+Commercial District
+Culling Ritual
 Cultivate
 Deadly Rollick
+Delighted Halfling
 Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
 Exotic Orchard
@@ -52,6 +44,7 @@ Gruff Triplets
 Ignoble Hierarch
 Industrial Advancement
 Junji, the Midnight Sky
+Karplusan Forest
 Kessig Wolf Run
 Kethek, Crucible Goliath
 Kodama's Reach
@@ -60,7 +53,9 @@ Kogla, the Titan Ape
 Kokusho, the Evening Star
 Kura, the Boundless Sky
 Living Death
+Llanowar Wastes
 Mikaeus, the Unhallowed
+Mossfire Valley
 Mountain
 Mountain
 Necromancy
@@ -72,10 +67,14 @@ Primeval Herald
 Reanimate
 Rise of the Dark Realms
 Riveteers Ascendancy
+Rootbound Crag
 Rottenmouth Viper
 Sakura-Tribe Elder
+Saw in Half
 Shadow in the Warp
+Shadowblood Ridge
 Skullclamp
+Smoldering Marsh
 Sol Ring
 Solemn Simulacrum
 Spire Garden
@@ -95,6 +94,7 @@ Verdant Catacombs
 Victimize
 Virtue of Persistence // Locthwain Scorn
 Wooded Foothills
+Woodland Cemetery
 Wurmcoil Engine
 Ziatora, the Incinerator
 Ziatora's Proving Ground

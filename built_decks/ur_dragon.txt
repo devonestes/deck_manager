@@ -13,6 +13,7 @@ Goldspan Dragon (PROXY)
 Guardian Project (PROXY)
 Heroic Intervention (PROXY)
 Indatha Triome (PROXY)
+Jetmir's Garden (PROXY)
 Ketria Triome (PROXY)
 Klauth, Unrivaled Ancient (PROXY)
 Kokusho, the Evening Star (PROXY)
@@ -57,7 +58,6 @@ Hellkite Courser
 Hellkite Tyrant
 Herald's Horn
 Island
-Jetmir's Garden
 Karrthus, Tyrant of Jund
 Kindred Discovery
 Kindred Dominance

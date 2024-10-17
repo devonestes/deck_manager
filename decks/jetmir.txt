@@ -1,31 +1,28 @@
 1 Jetmir, Nexus of Revels (SLD) 1509
 1 Adeline, Resplendent Cathar (MOC) 167
+1 Agate Instigator (BLC) 21
 1 Anim Pakal, Thousandth Moon (LCI) 223
+1 Arbor Elf (M13) 160
 1 Arid Mesa (MM3) 229
 1 Aurelia, the Law Above (MKM) 188
-1 Avacyn's Pilgrim (ISD) 170
 1 Aven Mindcensor (CLB) 688
-1 Birds of Paradise (4ED) 234
+1 Battlefield Forge (BRO) 257
 1 Bloodstained Mire (KTK) 230
-1 Bloom Tender (EVE) 66
-1 Boseiju, Who Endures (NEO) 501
-1 Bountiful Promenade (ZNE) 20
 1 Brimaz, King of Oreskos (BNG) 5
 1 Champion of Lambholt (NCC) 284
 1 Charismatic Conqueror (LCC) 70
 1 Chittering Dispatcher (M3C) 63
-1 Chord of Calling (RAV) 156
-1 City of Brass (5ED) 413
 1 Clever Concealment (ONC) 5
+1 Clifftop Retreat (LTC) 300
+1 Collector Ouphe (PLST) MH1-158
 1 Combat Celebrant (LTC) 212
 1 Command Tower (MOC) 396
-1 Craterhoof Behemoth (AVR) 172
-1 Delighted Halfling (LTR) 158
 1 Doorkeeper Thrull (MKM) 338
 1 Dryad Arbor (FUT) 174
 1 Eiganjo, Seat of the Empire (NEO) 413
+1 Elesh Norn, Grand Cenobite (NPH) 9
 1 Elvish Mystic (M15) 173
-1 Esper Sentinel (MH2) 12
+1 Everybody Lives! (WHO) 18
 1 Exotic Orchard (MOC) 398
 1 Fanatic of Rhonas (MH3) 458
 1 Final Fortune (MIR) 173
@@ -34,43 +31,46 @@
 1 Forest (J22) 110
 1 Forth Eorlingas! (LTC) 56
 1 Fyndhorn Elves (ICE) 244
-1 Gemstone Caverns (TSP) 274
 1 Genasi Enforcers (CLB) 177
 1 Giver of Runes (MH1) 13
-1 Green Sun's Zenith (2X2) 150
+1 Grenzo, Havoc Raiser (M3C) 213
 1 Horizon Canopy (LTC) 366
 1 Hushbringer (ELD) 18
 1 Hushwing Gryff (M15) 15
-1 Imperial Recruiter (2XM) 131
+1 Jacked Rabbit (BLC) 9
+1 Jetmir's Garden (SNC) 291
+1 Joven's Ferrets (HML) 89
+1 Karplusan Forest (M3C) 351
 1 Kellan, Daring Traveler // Journey On (LCI) 231
 1 Kutzil, Malamet Exemplar (LCI) 304
 1 Legolas's Quick Reflexes (LTC) 493
 1 Linvala, Keeper of Silence (ROE) 33
-1 Llanowar Elves (M12) 182
-1 Mana Confluence (JOU) 163
+1 Llanowar Elves (3ED) 211
+1 Loran of the Third Path (BRO) 12
 1 Marsh Flats (MM3) 239
 1 Misty Rainforest (MM3) 240
 1 Mother of Runes (ULG) 14
 1 Mountain (J22) 107
 1 Myrel, Shield of Argive (BRO) 305
-1 Natural Order (VIS) 114
 1 Ocelot Pride (MH3) 394
 1 Ohran Frostfang (SLD) 237
 1 Oltec Matterweaver (PW24) 12
+1 Paladin Elizabeth Taggerdy (PIP) 114
 1 Path to Exile (MOC) 198
 1 Plains (J22) 98
 1 Plateau (3ED) 284
 1 Polygoyf (M3C) 117
 1 Professional Face-Breaker (J22) 581
 1 Ragavan, Nimble Pilferer (MUL) 21
-1 Ranger-Captain of Eos (MH1) 21
 1 Recruiter of the Guard (CN2) 22
 1 Rhys the Redeemed (SHM) 237
+1 Rootbound Crag (SLD) 459
 1 Sacred Foundry (UNF) 285
 1 Sanguine Evangelist (LCI) 34
 1 Saryth, the Viper's Fang (MKC) 185
 1 Scalding Tarn (MM3) 244
 1 Scurry of Squirrels (BLC) 33
+1 Scute Swarm (OTC) 205
 1 Secure the Wastes (PIP) 171
 1 Serra Ascendant (IMA) 31
 1 Skyhunter Strike Force (PLST) ONC-21
@@ -79,10 +79,9 @@
 1 Song of Totentanz (WOE) 150
 1 Stomping Ground (UNF) 280
 1 Sunbaked Canyon (MH1) 247
-1 Sylvan Library (CC1) 5
+1 Sunpetal Grove (SLD) 460
 1 Sylvan Safekeeper (C14) 217
 1 Taiga (3ED) 287
-1 Tarnished Citadel (ODY) 329
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147
 1 Thalia, Guardian of Thraben (VOW) 38
@@ -90,11 +89,12 @@
 1 Utopia Sprawl (RVR) 159
 1 Varchild's War-Riders (ALL) 83
 1 Verdant Catacombs (MM3) 249
+1 Vryn Wingmare (PLST) M21-43
+1 Warden of the Inner Sky (LCI) 43
 1 Weathered Wayfarer (LTC) 183
 1 Wild Growth (DMR) 184
 1 Windswept Heath (KTK) 248
 1 Winota, Joiner of Forces (PIKO) 216p
 1 Wooded Foothills (KTK) 249
-1 Worldly Tutor (MIR) 255
 1 Wyrm's Crossing Patrol (CLB) 51
 1 Yavimaya, Cradle of Growth (MH2) 441
