@@ -11,13 +11,13 @@
 1 Command Tower (MOC) 396
 1 Crop Rotation (DMR) 154
 1 Cyclonic Rift (RTR) 35
-1 Deflecting Swat (C20) 50
 1 Demonic Tutor (3ED) 105
 1 Destiny Spinner (THB) 168
 1 Dryad of the Ilysian Grove (THB) 169
 1 Eidolon of Blossoms (JOU) 122
 1 Enchantress's Presence (MH2) 283
 1 Enlightened Tutor (MIR) 14
+1 Entity Tracker (DSK) 53
 1 Exotic Orchard (C19) 242
 1 Extinguish All Hope (JOU) 68
 1 Fierce Guardianship (C20) 35

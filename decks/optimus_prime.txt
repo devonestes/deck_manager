@@ -11,6 +11,7 @@
 1 Arcee, Sharpshooter // Arcee, Acrobatic Coupe (BOT) 7
 1 Battlefield Forge (BRO) 257
 1 Blasphemous Act (BRC) 113
+1 Cascade Bluffs (CMM) 990
 1 Chaos Warp (PW24) 7
 1 Command Tower (MOC) 396
 1 Cyclonic Rift (2XM) 339
@@ -43,6 +44,7 @@
 1 Mana Drain (CMR) 80
 1 Mech Hangar (NEO) 270
 2 Mountain (J22) 107
+1 Mystic Gate (CMM) 1013
 1 Mystic Monastery (DMC) 221
 1 Mystic Remora (ICE) 87
 1 Organic Extinction (MKC) 76
@@ -59,7 +61,6 @@
 1 Sacred Foundry (UNF) 285
 1 Saheeli, Filigree Master (BRO) 219
 1 Scene of the Crime (MKM) 267
-1 Sea of Clouds (BBD) 84
 1 Seat of the Synod (BRC) 198
 1 Shivan Reef (OTC) 320
 1 Shorikai, Genesis Engine (NEC) 4
@@ -84,7 +85,6 @@
 1 Thought Monitor (MKC) 121
 1 Thoughtcast (BRC) 99
 1 Together Forever (C21) 108
-1 Training Center (CMR) 713
 1 Trouble in Pairs (MKC) 15
 1 Unwinding Clock (NPH) 164
 1 Urza, Prince of Kroog (BRO) 296

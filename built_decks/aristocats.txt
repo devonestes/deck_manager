@@ -3,11 +3,9 @@ Ancient Tomb (PROXY)
 Anguished Unmaking (PROXY)
 Bloodchief Ascension (PROXY)
 Bloodghast (PROXY)
-Charismatic Conqueror (PROXY)
 Cruel Celebrant (PROXY)
 Damn (PROXY)
 Deadly Rollick (PROXY)
-Demonic Tutor (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
 Esper Sentinel (PROXY)
 Fetid Heath (PROXY)
@@ -21,9 +19,7 @@ Shattered Sanctum (PROXY)
 Takenuma, Abandoned Mire (PROXY)
 Teferi's Protection (PROXY)
 The Meathook Massacre (PROXY)
-Urborg, Tomb of Yawgmoth (PROXY)
 Urza's Saga (PROXY)
-Vampiric Tutor (PROXY)
 Vault of Champions (PROXY)
 Vraan, Executioner Thane (PROXY)
 Weathered Wayfarer (PROXY)
@@ -47,10 +43,13 @@ Dance of the Dead
 Dark Confidant
 Deadly Dispute
 Dewdrop Cure
+Dusk // Dawn
 Elas il-Kor, Sadistic Pilgrim
 Fanatical Offering
 Godless Shrine
+Greedy Freebooter
 Inkshield
+Innocuous Rat
 Iridescent Vinelasher
 Land Tax
 Leonin Relic-Warder
@@ -97,4 +96,5 @@ Urza's Bauble
 Village Rites
 Viscera Seer
 Westfold Rider
+Westvale Abbey // Ormendahl, Profane Prince
 Zulaport Cutthroat

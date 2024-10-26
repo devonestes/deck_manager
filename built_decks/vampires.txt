@@ -6,7 +6,6 @@ Arcane Signet
 Arid Mesa
 Ashnod's Altar
 Badlands
-Battlefield Forge
 Beseech the Mirror
 Black Market Connections
 Blood Crypt
@@ -69,6 +68,7 @@ Redemption Choir
 Reflecting Pool
 Roaming Throne
 Ruinous Ultimatum
+Sacred Foundry
 Sanguine Bond
 Savai Triome
 Scrubland

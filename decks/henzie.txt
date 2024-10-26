@@ -26,6 +26,7 @@
 1 Delighted Halfling (LTR) 158
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
+1 Evercoat Ursine (BLC) 30
 1 Exotic Orchard (MOC) 398
 1 Farseek (RVR) 138
 1 Fire-Lit Thicket (SHM) 271
@@ -35,7 +36,6 @@
 1 Goreclaw, Terror of Qal Sisma (MUL) 27
 1 Grave Pact (CMM) 639
 1 Graven Cairns (SHM) 272
-1 Grist, the Hunger Tide (MH2) 202
 1 Gruff Triplets (WOE) 172
 1 Ignoble Hierarch (MH2) 166
 1 Industrial Advancement (NCC) 47
@@ -54,7 +54,6 @@
 1 Mossfire Valley (NCC) 414
 2 Mountain (J22) 107
 1 Necromancy (VIS) 64
-1 Noxious Gearhulk (BRC) 110
 1 Ojer Kaslem, Deepest Growth // Temple of Cultivation (LCI) 204
 1 Old Gnawbone (AFR) 197
 1 Overgrown Tomb (UNF) 284
@@ -83,6 +82,7 @@
 1 Toxic Deluge (C13) 96
 1 Twilight Mire (NCC) 443
 1 Up the Beanstalk (WOE) 195
+1 Vaultborn Tyrant (BIG) 50
 1 Verdant Catacombs (MM3) 249
 1 Victimize (EMA) 113
 1 Virtue of Persistence // Locthwain Scorn (WOE) 115

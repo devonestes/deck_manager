@@ -4,7 +4,6 @@ Bountiful Promenade (PROXY)
 City of Brass (PROXY)
 Crop Rotation (PROXY)
 Cyclonic Rift (PROXY)
-Deflecting Swat (PROXY)
 Demonic Tutor (PROXY)
 Enlightened Tutor (PROXY)
 Fierce Guardianship (PROXY)
@@ -37,6 +36,7 @@ Destiny Spinner
 Dryad of the Ilysian Grove
 Eidolon of Blossoms
 Enchantress's Presence
+Entity Tracker
 Exotic Orchard
 Extinguish All Hope
 Forest

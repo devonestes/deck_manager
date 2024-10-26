@@ -1,6 +1,7 @@
 Akroma's Will (PROXY)
 Anim Pakal, Thousandth Moon (PROXY)
 Blasphemous Act (PROXY)
+Cascade Bluffs (PROXY)
 Cyclonic Rift (PROXY)
 Danny Pink (PROXY)
 Darksteel Citadel (PROXY)
@@ -21,7 +22,7 @@ Otawara, Soaring City (PROXY)
 Raugrin Triome (PROXY)
 Rhystic Study (PROXY)
 Ripples of Potential (PROXY)
-Sea of Clouds (PROXY)
+Sacred Foundry (PROXY)
 Seat of the Synod (PROXY)
 Silverbluff Bridge (PROXY)
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
@@ -30,7 +31,6 @@ Steam Vents (PROXY)
 Teferi's Protection (PROXY)
 The Belligerent (PROXY)
 The Ozolith (PROXY)
-Training Center (PROXY)
 Unwinding Clock (PROXY)
 Urza's Saga (PROXY)
 Wave Goodbye (PROXY)
@@ -65,6 +65,7 @@ Lita, Mechanical Engineer
 Mech Hangar
 Mountain
 Mountain
+Mystic Gate
 Mystic Monastery
 Organic Extinction
 Plains
@@ -75,7 +76,6 @@ Prowl, Stoic Strategist // Prowl, Pursuit Vehicle
 Ratchet, Field Medic // Ratchet, Rescue Racer
 Razortide Bridge
 Rustvale Bridge
-Sacred Foundry
 Saheeli, Filigree Master
 Scene of the Crime
 Shivan Reef

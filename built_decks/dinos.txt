@@ -18,7 +18,6 @@ Last March of the Ents (PROXY)
 Mana Confluence (PROXY)
 Mirari's Wake (PROXY)
 Misty Rainforest (PROXY)
-Overgrown Farmland (PROXY)
 Prismatic Vista (PROXY)
 Roaming Throne (PROXY)
 Rockfall Vale (PROXY)
@@ -66,6 +65,7 @@ Mountain
 Mountain
 Nature's Lore
 Otepec Huntmaster
+Overgrown Farmland
 Palani's Hatcher
 Pantlaza, Sun-Favored
 Plains
@@ -73,6 +73,7 @@ Plains
 Polyraptor
 Quartzwood Crasher
 Rampant Growth
+Ranging Raptors
 Regal Behemoth
 Regisaur Alpha
 Return of the Wildspeaker
@@ -91,7 +92,6 @@ Thrashing Brontodon
 Topiary Stomper
 Trapjaw Tyrant
 Unclaimed Territory
-Vaultborn Tyrant
 Wakening Sun's Avatar
 Welcome to . . . // Jurassic Park
 Windswept Heath

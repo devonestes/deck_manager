@@ -26,6 +26,7 @@ Deadly Rollick
 Delighted Halfling
 Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
+Evercoat Ursine
 Exotic Orchard
 Farseek
 Fire-Lit Thicket
@@ -39,7 +40,6 @@ Garruk's Uprising
 Goreclaw, Terror of Qal Sisma
 Grave Pact
 Graven Cairns
-Grist, the Hunger Tide
 Gruff Triplets
 Ignoble Hierarch
 Industrial Advancement
@@ -59,7 +59,6 @@ Mossfire Valley
 Mountain
 Mountain
 Necromancy
-Noxious Gearhulk
 Ojer Kaslem, Deepest Growth // Temple of Cultivation
 Old Gnawbone
 Overgrown Tomb
@@ -90,6 +89,7 @@ The Skullspore Nexus
 Toxic Deluge
 Twilight Mire
 Up the Beanstalk
+Vaultborn Tyrant
 Verdant Catacombs
 Victimize
 Virtue of Persistence // Locthwain Scorn

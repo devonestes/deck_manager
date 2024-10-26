@@ -16,7 +16,6 @@
 1 Castle Locthwain (ELD) 389
 1 Caustic Bronco (OTJ) 82
 1 Caves of Koilos (MD1) 14
-1 Charismatic Conqueror (LCC) 70
 1 Clay-Fired Bricks // Cosmium Kiln (LCI) 6
 1 Command Tower (MOC) 396
 1 Corpse Knight (MOC) 321
@@ -26,16 +25,18 @@
 1 Dark Confidant (MMA) 75
 1 Deadly Dispute (P30A) 29
 1 Deadly Rollick (C20) 42
-1 Demonic Tutor (3ED) 105
 1 Dewdrop Cure (BLB) 10
+1 Dusk // Dawn (PLST) CLB-691
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
 1 Esper Sentinel (MH2) 12
 1 Fanatical Offering (LCI) 105
 1 Fetid Heath (NCC) 401
 1 Godless Shrine (UNF) 282
+1 Greedy Freebooter (LCI) 109
 1 Ichor Wellspring (BRC) 143
 1 Inkshield (C21) 398
+1 Innocuous Rat (DSK) 103
 1 Iridescent Vinelasher (BLB) 99
 1 Isolated Chapel (LCC) 337
 1 Land Tax (2XM) 20
@@ -77,14 +78,13 @@
 1 The Meathook Massacre (MID) 112
 1 Transmogrant's Crown (BRO) 125
 1 Triarch Praetorian (40K) 66
-1 Urborg, Tomb of Yawgmoth (TSR) 287
 1 Urza's Bauble (5ED) 406
 1 Urza's Saga (MH2) 259
-1 Vampiric Tutor (VIS) 72
 1 Vault of Champions (CMR) 715
 1 Village Rites (J22) 486
 1 Viscera Seer (PLST) M11-120
 1 Vraan, Executioner Thane (ONE) 114
 1 Weathered Wayfarer (LTC) 183
 1 Westfold Rider (LTR) 37
+1 Westvale Abbey // Ormendahl, Profane Prince (SOI) 281
 1 Zulaport Cutthroat (CLB) 775

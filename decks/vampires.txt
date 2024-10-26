@@ -6,7 +6,6 @@
 1 Arid Mesa (MM3) 229
 1 Ashnod's Altar (5ED) 349
 1 Badlands (3ED) 282
-1 Battlefield Forge (BRO) 257
 1 Beseech the Mirror (WOE) 336
 1 Black Market Connections (LCC) 181
 1 Blood Crypt (UNF) 279
@@ -69,6 +68,7 @@
 1 Reflecting Pool (LTC) 373
 1 Roaming Throne (LCI) 344
 1 Ruinous Ultimatum (PIP) 220
+1 Sacred Foundry (UNF) 285
 1 Sanguine Bond (LTC) 208
 1 Savai Triome (IKO) 312
 1 Scrubland (3ED) 286
