@@ -11,7 +11,6 @@ Esper Sentinel (PROXY)
 Fetid Heath (PROXY)
 Ichor Wellspring (PROXY)
 Isolated Chapel (PROXY)
-Mother of Runes (PROXY)
 Mox Amber (PROXY)
 Phyrexian Tower (PROXY)
 Serra Ascendant (PROXY)
@@ -59,6 +58,7 @@ Marionette Apprentice
 Marsh Flats
 Metallic Mimic
 Mind Stone
+Mother of Runes
 Orcish Bowmasters
 Phyrexian Reclamation
 Plains

@@ -20,6 +20,7 @@ Cavern of Souls
 Caves of Koilos
 Champion of Dusk
 Changeling Outcast
+City of Brass
 Clavileño, First of the Blessed
 Clifftop Retreat
 Coat of Arms
@@ -93,7 +94,6 @@ Vault of Champions
 Vein Ripper
 Viscera Seer
 Vito, Thorn of the Dusk Rose
-Volrath's Stronghold
 Vraan, Executioner Thane
 Welcoming Vampire
 Wheel of Fortune

@@ -20,6 +20,7 @@
 1 Caves of Koilos (MD1) 14
 1 Champion of Dusk (LCC) 188
 1 Changeling Outcast (MH1) 82
+1 City of Brass (5ED) 413
 1 Clavileño, First of the Blessed (LCC) 2
 1 Clifftop Retreat (LTC) 300
 1 Coat of Arms (EXO) 131
@@ -93,7 +94,6 @@
 1 Vein Ripper (MKM) 110
 1 Viscera Seer (LCC) 213
 1 Vito, Thorn of the Dusk Rose (M21) 127
-1 Volrath's Stronghold (STH) 143
 1 Vraan, Executioner Thane (ONE) 114
 1 Welcoming Vampire (LCC) 140
 1 Wheel of Fortune (3ED) 185

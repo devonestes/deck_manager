@@ -12,7 +12,6 @@
 1 Brushland (BRO) 259
 1 Calamity of the Titans (CMM) 713
 1 Command Tower (MOC) 396
-1 Concordant Crossroads (2X2) 367
 1 Darksteel Monolith (CMM) 743
 1 Drowner of Truth // Drowned Jungle (MH3) 253
 1 Echoes of Eternity (MH3) 320
@@ -31,6 +30,7 @@
 1 Forsaken Monument (CMM) 950
 1 Glaring Fleshraker (MH3) 7
 1 Guildless Commons (CMM) 1003
+1 Herald of Kozilek (BFZ) 205
 1 Herald's Horn (LTC) 280
 1 Hideous Taskmaster (M3C) 109
 1 Hydroelectric Specimen // Hydroelectric Laboratory (MH3) 240

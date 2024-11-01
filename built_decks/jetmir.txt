@@ -3,6 +3,7 @@ Adeline, Resplendent Cathar
 Agate Instigator
 Anim Pakal, Thousandth Moon
 Arbor Elf
+Archivist of Oghma
 Arid Mesa
 Aurelia, the Law Above
 Aven Mindcensor
@@ -89,7 +90,6 @@ Toski, Bearer of Secrets
 Utopia Sprawl
 Varchild's War-Riders
 Verdant Catacombs
-Vryn Wingmare
 Warden of the Inner Sky
 Weathered Wayfarer
 Wild Growth

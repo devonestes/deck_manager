@@ -17,7 +17,6 @@
 1 Cephalid Coliseum (MH3) 300
 1 Chord of Calling (RAV) 156
 1 Chrome Mox (2XM) 240
-1 City of Brass (5ED) 413
 1 Command Tower (MOC) 396
 1 Crop Rotation (DMR) 154
 1 Cyclonic Rift (2XM) 339
@@ -93,6 +92,7 @@
 1 Training Grounds (MAT) 59
 1 Tropical Island (3ED) 288
 1 Tundra (3ED) 289
+1 Urza's Saga (MB2) 114
 1 Veil of Summer (M20) 198
 1 Verdant Catacombs (MH2) 440
 1 Windswept Heath (MH3) 440

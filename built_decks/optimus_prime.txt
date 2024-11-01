@@ -4,7 +4,6 @@ Blasphemous Act (PROXY)
 Cascade Bluffs (PROXY)
 Cyclonic Rift (PROXY)
 Danny Pink (PROXY)
-Darksteel Citadel (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
 Esper Sentinel (PROXY)
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (PROXY)
@@ -46,6 +45,7 @@ Arcee, Sharpshooter // Arcee, Acrobatic Coupe
 Battlefield Forge
 Chaos Warp
 Command Tower
+Darksteel Citadel
 Dispatch
 Enthusiastic Mechanaut
 Etherium Sculptor

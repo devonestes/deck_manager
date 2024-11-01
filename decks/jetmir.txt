@@ -3,6 +3,7 @@
 1 Agate Instigator (BLC) 21
 1 Anim Pakal, Thousandth Moon (LCI) 223
 1 Arbor Elf (M13) 160
+1 Archivist of Oghma (CLB) 4
 1 Arid Mesa (MM3) 229
 1 Aurelia, the Law Above (MKM) 188
 1 Aven Mindcensor (CLB) 688
@@ -89,7 +90,6 @@
 1 Utopia Sprawl (RVR) 159
 1 Varchild's War-Riders (ALL) 83
 1 Verdant Catacombs (MM3) 249
-1 Vryn Wingmare (PLST) M21-43
 1 Warden of the Inner Sky (LCI) 43
 1 Weathered Wayfarer (LTC) 183
 1 Wild Growth (DMR) 184

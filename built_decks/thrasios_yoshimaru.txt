@@ -17,7 +17,6 @@ Breeding Pool
 Cephalid Coliseum
 Chord of Calling
 Chrome Mox
-City of Brass
 Command Tower
 Crop Rotation
 Cyclonic Rift
@@ -93,6 +92,7 @@ Temple Garden
 Training Grounds
 Tropical Island
 Tundra
+Urza's Saga
 Veil of Summer
 Verdant Catacombs
 Windswept Heath

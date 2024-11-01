@@ -12,7 +12,6 @@ Breaker of Creation
 Brushland
 Calamity of the Titans
 Command Tower
-Concordant Crossroads
 Darksteel Monolith
 Drowner of Truth // Drowned Jungle
 Echoes of Eternity
@@ -31,6 +30,7 @@ Forest
 Forsaken Monument
 Glaring Fleshraker
 Guildless Commons
+Herald of Kozilek
 Herald's Horn
 Hideous Taskmaster
 Hydroelectric Specimen // Hydroelectric Laboratory

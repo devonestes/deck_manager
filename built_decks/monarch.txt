@@ -22,13 +22,11 @@ Spectator Seating (PROXY)
 Stormcarved Coast (PROXY)
 Sundown Pass (PROXY)
 Swan Song (PROXY)
-Training Center (PROXY)
 Tundra (PROXY)
 Weathered Wayfarer (PROXY)
 Aragorn, King of Gondor
 Adarkar Wastes
 Akroma's Will
-Angelic Field Marshal
 Arcane Signet
 Archivist of Gondor
 Arid Mesa
@@ -61,6 +59,7 @@ Horn of Gondor
 Island
 Kiki-Jiki, Mirror Breaker
 Loran of the Third Path
+Luminous Broodmoth
 Mass Appeal
 Minamo, School at Water's Edge
 Mountain
@@ -97,4 +96,5 @@ Teferi's Protection
 Thalia's Lieutenant
 Throne of the High City
 Tithe
+Training Center
 Wayfarer's Bauble

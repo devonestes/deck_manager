@@ -3,7 +3,6 @@
 1 Adeline, Resplendent Cathar (MOC) 167
 1 Akroma's Will (CMR) 615
 1 Ancient Tomb (TMP) 315
-1 Angelic Field Marshal (CMM) 13
 1 Arcane Signet (LTC) 273
 1 Archivist of Gondor (LTC) 18
 1 Arid Mesa (MM3) 229
@@ -47,6 +46,7 @@
 1 Island (LTR) 264
 1 Kiki-Jiki, Mirror Breaker (CHK) 175
 1 Loran of the Third Path (BRO) 12
+1 Luminous Broodmoth (BLC) 144
 1 Mass Appeal (AVR) 66
 1 Minamo, School at Water's Edge (CHK) 279
 1 Mountain (LTR) 268
