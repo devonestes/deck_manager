@@ -23,9 +23,9 @@ Vault of Champions (PROXY)
 Vraan, Executioner Thane (PROXY)
 Weathered Wayfarer (PROXY)
 Bartolomé del Presidio
+Accursed Marauder
 Amalia Benavides Aguirre
 Animate Dead
-Benalish Sleeper
 Bitterblossom
 Blade of the Bloodchief
 Blood Artist
@@ -35,15 +35,18 @@ Castle Ardenvale
 Castle Locthwain
 Caustic Bronco
 Caves of Koilos
-Clay-Fired Bricks // Cosmium Kiln
+Chthonian Nightmare
 Command Tower
 Corpse Knight
+Cynical Loner
 Dance of the Dead
 Dark Confidant
+Dauthi Voidwalker
 Deadly Dispute
 Dewdrop Cure
 Dusk // Dawn
 Elas il-Kor, Sadistic Pilgrim
+Emperor of Bones
 Fanatical Offering
 Godless Shrine
 Greedy Freebooter
@@ -57,9 +60,9 @@ Luminarch Ascension
 Marionette Apprentice
 Marsh Flats
 Metallic Mimic
-Mind Stone
 Mother of Runes
 Orcish Bowmasters
+Osseous Sticktwister
 Phyrexian Reclamation
 Plains
 Plains
@@ -69,8 +72,6 @@ Plains
 Priest of Forgotten Gods
 Putrid Goblin
 Razorgrass Ambush // Razorgrass Field
-Reanimate
-Restoration Specialist
 Ripples of Undeath
 Rogue's Passage
 Selfless Savior
@@ -90,7 +91,6 @@ Swamp
 Swamp
 Swamp
 Swords to Plowshares
-Transmogrant's Crown
 Triarch Praetorian
 Urza's Bauble
 Village Rites

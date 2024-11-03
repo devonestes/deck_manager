@@ -17,7 +17,6 @@
 1 Cauldron of Souls (SHM) 248
 1 Charismatic Conqueror (LCC) 70
 1 Command Tower (LTC) 301
-1 Craterhoof Behemoth (AVR) 172
 1 Cyclonic Rift (RTR) 35
 1 Damning Verdict (NCC) 116
 1 Danny Pink (WHO) 39
@@ -30,13 +29,14 @@
 1 Eladamri, Korvecdal (MH3) 369
 1 Elven Chorus (LTR) 160
 1 Esper Sentinel (MH2) 12
+1 Evolution Witness (MH3) 151
 1 Faerie Artisans (CMM) 92
 1 Faerie Mastermind (PMOM) 58p
 1 Felidar Retreat (CMM) 821
 1 Fierce Guardianship (C20) 35
 1 Flooded Grove (LTC) 309
 1 Flooded Strand (KTK) 233
-2 Forest (LTR) 270
+3 Forest (LTR) 270
 1 Gala Greeters (SNC) 450
 1 Galadhrim Ambush (LTC) 38
 1 Glacial Fortress (LTC) 315
@@ -60,14 +60,13 @@
 1 Mondrak, Glory Dominus (ONE) 23
 1 Mystic Remora (ICE) 87
 1 Nadir Kraken (NCC) 228
-1 Natural Order (VIS) 114
 1 Noble Hierarch (2XM) 177
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Oltec Matterweaver (PW24) 12
 1 Otawara, Soaring City (NEO) 503
 1 Overgrown Farmland (WHO) 292
 1 Overwhelming Stampede (LTC) 254
-1 Perch Protection (BLC) 47
+1 Perch Protection (BLC) 11
 1 Peregrine Drake (DMR) 65
 1 Plains (J22) 98
 1 Rejuvenating Springs (LTC) 325

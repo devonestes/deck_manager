@@ -12,6 +12,7 @@
 1 Battlefield Forge (BRO) 257
 1 Blasphemous Act (BRC) 113
 1 Cascade Bluffs (CMM) 990
+1 Cayth, Famed Mechanist (M3C) 6
 1 Chaos Warp (PW24) 7
 1 Command Tower (MOC) 396
 1 Cyclonic Rift (2XM) 339
@@ -20,6 +21,7 @@
 1 Dispatch (NEC) 83
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Enthusiastic Mechanaut (NEO) 218
+1 Envoy of the Ancestors (MH3) 23
 1 Esper Sentinel (MH2) 12
 1 Etherium Sculptor (ALA) 42
 1 Felidar Retreat (CMM) 821
@@ -35,7 +37,6 @@
 1 Jetfire, Ingenious Scientist // Jetfire, Air Guardian (BOT) 3
 1 Jhoira, Weatherlight Captain (BRC) 126
 1 Kappa Cannoneer (NEC) 14
-1 Karn, Legacy Reforged (MAT) 184
 1 Karn's Bastion (CMM) 1007
 1 Knight Paladin (40K) 160
 1 Lightning Greaves (LTC) 281
@@ -70,7 +71,6 @@
 1 Smothering Tithe (RNA) 22
 1 Smuggler's Copter (NEC) 160
 1 Sol Ring (MOC) 381
-1 Solemn Simulacrum (BRC) 161
 1 Spire of Industry (NEC) 178
 1 Steam Vents (UNF) 283
 1 Steel Overseer (PIP) 241

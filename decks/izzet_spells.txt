@@ -2,7 +2,6 @@
 1 Arcane Bombardment (OTC) 154
 1 Arcane Signet (MOC) 348
 1 Archmage Emeritus (OTC) 90
-1 Baral's Expertise (OTC) 91
 1 Big Score (SNC) 102
 1 Brainstorm (ICE) 61
 1 Capture of Jingzhou (CMM) 79
@@ -13,6 +12,7 @@
 1 Curiosity (WOT) 17
 1 Cyclonic Rift (2XM) 339
 1 Deflecting Swat (C20) 50
+1 Desperate Ritual (CHK) 163
 1 Dig Through Time (OTC) 95
 1 Electrostatic Field (GRN) 97
 1 Expressive Iteration (OTC) 224
@@ -31,7 +31,7 @@
 1 Haughty Djinn (OTC) 99
 1 Hidden Strings (Q06) 5
 1 Impulse (VIS) 34
-6 Island (J22) 101
+7 Island (J22) 101
 1 Jeska's Will (CMR) 668
 1 Lightning Bolt (4ED) 208
 1 Lórien Revealed (LTR) 60
@@ -40,12 +40,10 @@
 1 Mindsplice Apparatus (ONE) 63
 1 Mizzix's Mastery (OTC) 175
 1 Mogg Salvage (MH2) 282
-6 Mountain (J22) 107
+7 Mountain (J22) 107
 1 Mystic Remora (ICE) 87
 1 Mystic Sanctuary (MKC) 277
-1 Niv-Mizzet, Parun (OTC) 235
 1 Ojer Axonil, Deepest Might // Temple of Power (LCI) 158
-1 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time (LCI) 67
 1 Opt (LTC) 194
 1 Otawara, Soaring City (NEO) 271
 1 Ponder (OTC) 105
@@ -55,7 +53,6 @@
 1 Refocus (FRF) 47
 1 Reliquary Tower (BRC) 196
 1 Restless Spire (PWOE) 260p
-1 Rhystic Study (J22) 114
 1 Riverglide Pathway // Lavaglide Pathway (ZNR) 289
 1 Rousing Refrain (OTC) 178
 1 Scalding Tarn (MM3) 244
@@ -73,8 +70,9 @@
 1 Steam Vents (UNF) 283
 1 Storm-Kiln Artist (OTC) 181
 1 Stormcarved Coast (VOW) 284
+1 Stormcatch Mentor (BLB) 234
+1 Submerge (PLST) NEM-48
 1 Sulfur Falls (LTC) 333
-1 Teferi's Ageless Insight (MKC) 119
 1 Temporal Manipulation (UMA) 77
 1 The One Ring (LTR) 451
 1 Thunderclap Drake (OTC) 17

@@ -9,9 +9,7 @@ Enlightened Tutor (PROXY)
 Fierce Guardianship (PROXY)
 Forbidden Orchard (PROXY)
 Heroic Intervention (PROXY)
-Ketria Triome (PROXY)
 Misty Rainforest (PROXY)
-Oracle of Mul Daya (PROXY)
 Rhystic Study (PROXY)
 Rockfall Vale (PROXY)
 Savai Triome (PROXY)
@@ -57,6 +55,7 @@ Honden of Night's Reach
 Honden of Seeing Winds
 Idyllic Tutor
 Indatha Triome
+Inquisitive Glimmer
 Island
 Jetmir's Garden
 Jukai Naturalist
@@ -68,10 +67,10 @@ Nessian Wanderer
 Overgrown Farmland
 Overgrown Tomb
 Paradox Haze
-Peacekeeper
 Plains
 Reliquary Tower
 Replenish
+Roaring Furnace // Steaming Sauna
 Sanctum of All
 Sanctum of Calm Waters
 Sanctum of Fruitful Harvest
@@ -82,9 +81,9 @@ Sanctum Weaver
 Setessan Champion
 Shadow of the Second Sun
 Shrine Steward
-Sigil of the Empty Throne
 Sol Ring
 Spara's Headquarters
+Sphere of Safety
 Steam Vents
 Sterling Grove
 Stomping Ground
@@ -92,6 +91,7 @@ Swamp
 Sythis, Harvest's Hand
 Temple Garden
 The World Tree
+Valgavoth's Lair
 Verdant Catacombs
 Verduran Enchantress
 Watery Grave

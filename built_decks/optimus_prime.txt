@@ -11,7 +11,6 @@ Great Furnace (PROXY)
 Herald of Secret Streams (PROXY)
 Inventors' Fair (PROXY)
 Jhoira, Weatherlight Captain (PROXY)
-Karn, Legacy Reforged (PROXY)
 Knight Paladin (PROXY)
 Lightning Greaves (PROXY)
 Losheel, Clockwork Scholar (PROXY)
@@ -43,11 +42,13 @@ Arcbound Slasher
 Arcbound Tracker
 Arcee, Sharpshooter // Arcee, Acrobatic Coupe
 Battlefield Forge
+Cayth, Famed Mechanist
 Chaos Warp
 Command Tower
 Darksteel Citadel
 Dispatch
 Enthusiastic Mechanaut
+Envoy of the Ancestors
 Etherium Sculptor
 Felidar Retreat
 Foundry Inspector
@@ -83,7 +84,6 @@ Shorikai, Genesis Engine
 Skysovereign, Consul Flagship
 Smuggler's Copter
 Sol Ring
-Solemn Simulacrum
 Spire of Industry
 Steel Overseer
 Sword of Truth and Justice

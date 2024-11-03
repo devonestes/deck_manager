@@ -8,7 +8,6 @@
 1 Blasphemous Act (BRC) 113
 1 Brash Taunter (M21) 133
 1 Chandra's Ignition (LCC) 220
-1 Chaos Warp (BRC) 114
 1 Commander's Plate (CMR) 692
 1 Defiler of Instinct (DMU) 119
 1 Deflecting Swat (C20) 50
@@ -62,6 +61,7 @@
 1 Spellshock (EXO) 104
 1 Sulfuric Vortex (DMR) 144
 1 Sundering Eruption // Volcanic Fissure (MH3) 248
+1 Sunspine Lynx (BLB) 155
 1 Tarnished Citadel (ODY) 329
 1 Themberchaud (SLD) 728
 1 Throne of Eldraine (WOC) 28

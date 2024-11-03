@@ -41,25 +41,24 @@
 1 Honden of Seeing Winds (CHK) 69
 1 Idyllic Tutor (MOR) 12
 1 Indatha Triome (IKO) 309
+1 Inquisitive Glimmer (DSK) 217
 1 Island (ONE) 263
 1 Jetmir's Garden (SNC) 291
 1 Jukai Naturalist (NEO) 225
-1 Ketria Triome (IKO) 310
 1 Mirari's Wake (C17) 181
 1 Misty Rainforest (MM3) 240
 1 Moat (LEG) 28
 1 Moon-Blessed Cleric (AFR) 26
 1 Mountain (ONE) 270
 1 Nessian Wanderer (THB) 183
-1 Oracle of Mul Daya (JMP) 415
 1 Overgrown Farmland (WHO) 292
 1 Overgrown Tomb (UNF) 284
 1 Paradox Haze (TSP) 71
-1 Peacekeeper (WTH) 22
 1 Plains (3ED) 292
 1 Reliquary Tower (BRC) 196
 1 Replenish (UDS) 15
 1 Rhystic Study (J22) 114
+1 Roaring Furnace // Steaming Sauna (DSK) 230
 1 Rockfall Vale (MID) 266
 1 Sanctum of All (M21) 225
 1 Sanctum of Calm Waters (M21) 68
@@ -74,10 +73,10 @@
 1 Setessan Champion (CMM) 912
 1 Shadow of the Second Sun (MH3) 70
 1 Shrine Steward (NEO) 259
-1 Sigil of the Empty Throne (J22) 244
 1 Smothering Tithe (RNA) 22
 1 Sol Ring (3ED) 274
 1 Spara's Headquarters (SNC) 293
+1 Sphere of Safety (DSC) 104
 1 Steam Vents (UNF) 283
 1 Sterling Grove (MH2) 293
 1 Stomping Ground (UNF) 280
@@ -88,6 +87,7 @@
 1 Temple Garden (UNF) 281
 1 The World Tree (KHM) 373
 1 Tithe (VIS) 23
+1 Valgavoth's Lair (DSK) 271
 1 Vampiric Tutor (VIS) 72
 1 Verdant Catacombs (MM3) 249
 1 Verduran Enchantress (4ED) 281

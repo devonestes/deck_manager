@@ -8,7 +8,6 @@ Basilisk Collar
 Blasphemous Act
 Brash Taunter
 Chandra's Ignition
-Chaos Warp
 Commander's Plate
 Defiler of Instinct
 Deflecting Swat
@@ -88,6 +87,7 @@ Spear Spewer
 Spellshock
 Sulfuric Vortex
 Sundering Eruption // Volcanic Fissure
+Sunspine Lynx
 Tarnished Citadel
 Themberchaud
 Throne of Eldraine

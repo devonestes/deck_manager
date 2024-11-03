@@ -7,7 +7,6 @@ Bountiful Promenade (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
 Charismatic Conqueror (PROXY)
-Craterhoof Behemoth (PROXY)
 Cyclonic Rift (PROXY)
 Delighted Halfling (PROXY)
 Deserted Beach (PROXY)
@@ -56,8 +55,10 @@ Danny Pink
 Doubling Season
 Earthcraft
 Eladamri, Korvecdal
+Evolution Witness
 Faerie Artisans
 Felidar Retreat
+Forest
 Forest
 Forest
 Gala Greeters
@@ -80,7 +81,6 @@ Master Biomancer
 Mondrak, Glory Dominus
 Mystic Remora
 Nadir Kraken
-Natural Order
 Overwhelming Stampede
 Perch Protection
 Peregrine Drake
