@@ -20,6 +20,7 @@ Flooded Grove (PROXY)
 Flooded Strand (PROXY)
 Gruff Triplets (PROXY)
 Heroic Intervention (PROXY)
+Hinterland Harbor (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
 Noble Hierarch (PROXY)
@@ -69,7 +70,6 @@ Gyre Sage
 Hallowed Fountain
 Herald of Secret Streams
 Herd Baloth
-Hinterland Harbor
 Imperious Perfect
 Incubation Druid
 Inspiring Call

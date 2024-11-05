@@ -6,7 +6,9 @@ Entish Restoration (PROXY)
 Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
 Fiery Emancipation (PROXY)
 Fire-Lit Thicket (PROXY)
+Ketria Triome (PROXY)
 Kogla, the Titan Ape (PROXY)
+Misty Rainforest (PROXY)
 Nyxbloom Ancient (PROXY)
 Old Gnawbone (PROXY)
 Oracle of Mul Daya (PROXY)
@@ -55,14 +57,12 @@ Imoti, Celebrant of Bounty
 Into the North
 Island
 Island
-Ketria Triome
 Klauth, Unrivaled Ancient
 Kodama's Reach
 Kogla and Yidaro
 Koma, Cosmos Serpent
 Migration Path
 Misthollow Griffin
-Misty Rainforest
 Monstrous Vortex
 Mountain
 Mountain

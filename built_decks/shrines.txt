@@ -16,6 +16,7 @@ Savai Triome (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Sea of Clouds (PROXY)
 Smothering Tithe (PROXY)
+Stomping Ground (PROXY)
 Swan Song (PROXY)
 Teferi's Protection (PROXY)
 Tithe (PROXY)
@@ -86,7 +87,6 @@ Spara's Headquarters
 Sphere of Safety
 Steam Vents
 Sterling Grove
-Stomping Ground
 Swamp
 Sythis, Harvest's Hand
 Temple Garden

@@ -4,6 +4,7 @@ Badlands (PROXY)
 Balefire Dragon (PROXY)
 Birds of Paradise (PROXY)
 Bloom Tender (PROXY)
+Breeding Pool (PROXY)
 Cavern of Souls (PROXY)
 City of Brass (PROXY)
 Cyclonic Rift (PROXY)
@@ -18,6 +19,7 @@ Ketria Triome (PROXY)
 Klauth, Unrivaled Ancient (PROXY)
 Kokusho, the Evening Star (PROXY)
 Kura, the Boundless Sky (PROXY)
+Lightning Greaves (PROXY)
 Mana Vault (PROXY)
 Misty Rainforest (PROXY)
 Old Gnawbone (PROXY)
@@ -31,6 +33,7 @@ Temur Ascendancy (PROXY)
 Terror of the Peaks (PROXY)
 The Great Henge (PROXY)
 The World Tree (PROXY)
+Three Visits (PROXY)
 Urza's Incubator (PROXY)
 Wooded Foothills (PROXY)
 Zagoth Triome (PROXY)
@@ -43,7 +46,6 @@ Beledros Witherbloom
 Blood Crypt
 Bloodstained Mire
 Bonehoard Dracosaur
-Breeding Pool
 Cavern-Hoard Dragon
 Command Tower
 Dragon Tempest
@@ -65,7 +67,6 @@ Island
 Karrthus, Tyrant of Jund
 Kindred Discovery
 Kindred Dominance
-Lightning Greaves
 Marsh Flats
 Miirym, Sentinel Wyrm
 Morophon, the Boundless
@@ -92,7 +93,6 @@ Swords to Plowshares
 Temple Garden
 Temple of the Dragon Queen
 The Kami War // O-Kagachi Made Manifest
-Three Visits
 Tiamat
 Utvara Hellkite
 Watery Grave

@@ -1,7 +1,6 @@
 Akroma's Will (PROXY)
 Anim Pakal, Thousandth Moon (PROXY)
 Blasphemous Act (PROXY)
-Cascade Bluffs (PROXY)
 Cyclonic Rift (PROXY)
 Danny Pink (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
@@ -13,7 +12,6 @@ Inventors' Fair (PROXY)
 Jhoira, Weatherlight Captain (PROXY)
 Knight Paladin (PROXY)
 Lightning Greaves (PROXY)
-Losheel, Clockwork Scholar (PROXY)
 Mana Drain (PROXY)
 Mystic Remora (PROXY)
 Otawara, Soaring City (PROXY)
@@ -28,7 +26,6 @@ Smothering Tithe (PROXY)
 Steam Vents (PROXY)
 Teferi's Protection (PROXY)
 The Belligerent (PROXY)
-The Ozolith (PROXY)
 Unwinding Clock (PROXY)
 Urza's Saga (PROXY)
 Wave Goodbye (PROXY)
@@ -42,6 +39,7 @@ Arcbound Slasher
 Arcbound Tracker
 Arcee, Sharpshooter // Arcee, Acrobatic Coupe
 Battlefield Forge
+Cascade Bluffs
 Cayth, Famed Mechanist
 Chaos Warp
 Command Tower
@@ -63,6 +61,7 @@ Jetfire, Ingenious Scientist // Jetfire, Air Guardian
 Kappa Cannoneer
 Karn's Bastion
 Lita, Mechanical Engineer
+Losheel, Clockwork Scholar
 Mech Hangar
 Mountain
 Mountain
@@ -89,6 +88,7 @@ Steel Overseer
 Sword of Truth and Justice
 Swords to Plowshares
 The Indomitable
+The Ozolith
 The Reality Chip
 Thopter Spy Network
 Thought Monitor

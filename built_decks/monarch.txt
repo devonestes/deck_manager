@@ -17,11 +17,14 @@ Ragavan, Nimble Pilferer (PROXY)
 Ranger-Captain of Eos (PROXY)
 Recruiter of the Guard (PROXY)
 Rhystic Study (PROXY)
+Scalding Tarn (PROXY)
 Serra Ascendant (PROXY)
 Spectator Seating (PROXY)
 Stormcarved Coast (PROXY)
 Sundown Pass (PROXY)
 Swan Song (PROXY)
+Talisman of Creativity (PROXY)
+Training Center (PROXY)
 Tundra (PROXY)
 Weathered Wayfarer (PROXY)
 Aragorn, King of Gondor
@@ -79,7 +82,6 @@ Retribution of the Meek
 Rugged Prairie
 Sacred Foundry
 Savage Beating
-Scalding Tarn
 Sea Gate Restoration // Sea Gate, Reborn
 Sea of Clouds
 Secluded Courtyard
@@ -89,12 +91,10 @@ Sol Ring
 Steam Vents
 Swords to Plowshares
 Talisman of Conviction
-Talisman of Creativity
 Talisman of Progress
 Taunt from the Rampart
 Teferi's Protection
 Thalia's Lieutenant
 Throne of the High City
 Tithe
-Training Center
 Wayfarer's Bauble
