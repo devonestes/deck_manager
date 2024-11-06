@@ -22,6 +22,7 @@ Scroll Rack (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Skyshroud Claim (PROXY)
 Spire Garden (PROXY)
+Stomping Ground (PROXY)
 Stormcarved Coast (PROXY)
 Sylvan Library (PROXY)
 Training Center (PROXY)
@@ -84,7 +85,6 @@ Snow-Covered Island
 Snow-Covered Mountain
 Sol Ring
 Steam Vents
-Stomping Ground
 Sulfur Falls
 Sun Quan, Lord of Wu
 Sunbird's Invocation

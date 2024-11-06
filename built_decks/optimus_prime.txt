@@ -26,6 +26,7 @@ Smothering Tithe (PROXY)
 Steam Vents (PROXY)
 Teferi's Protection (PROXY)
 The Belligerent (PROXY)
+The Ozolith (PROXY)
 Unwinding Clock (PROXY)
 Urza's Saga (PROXY)
 Wave Goodbye (PROXY)
@@ -88,7 +89,6 @@ Steel Overseer
 Sword of Truth and Justice
 Swords to Plowshares
 The Indomitable
-The Ozolith
 The Reality Chip
 Thopter Spy Network
 Thought Monitor
