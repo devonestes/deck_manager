@@ -6,7 +6,6 @@
 1 Boseiju, Who Endures (NEO) 501
 1 Breeding Pool (UNF) 286
 1 Cascade Bluffs (CMM) 990
-1 Colossal Skyturtle (NEO) 216
 1 Command Tower (MOC) 396
 1 Consecrated Sphinx (MBS) 21
 1 Cultivate (J22) 644
@@ -64,6 +63,7 @@
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Selvala, Heart of the Wilds (JMP) 429
 1 Selvala's Stampede (CN2) 71
+1 Sire of Seven Deaths (FDN) 1
 1 Skyshroud Claim (CMM) 321
 3 Snow-Covered Forest (ICE) 383
 1 Snow-Covered Island (ICE) 371

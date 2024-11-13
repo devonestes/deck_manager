@@ -6,7 +6,6 @@
 1 Arcane Signet (MOC) 348
 1 Assassin's Trophy (GRN) 152
 1 Aveline de Grandpré (ACR) 40
-1 Bane of the Living (C19) 104
 1 Bayou (3ED) 283
 1 Beast Whisperer (P30A) 26
 1 Branch of Vitu-Ghazi (MKM) 258
@@ -36,6 +35,7 @@
 1 Guardian Project (RNA) 130
 1 Heroic Intervention (LTC) 249
 1 Hide in Plain Sight (MKM) 166
+1 High Fae Trickster (FDN) 40
 1 Hooded Hydra (C19) 172
 1 Icefeather Aven (C19) 194
 2 Island (MOM) 278

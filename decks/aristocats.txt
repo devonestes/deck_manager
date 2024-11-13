@@ -81,10 +81,10 @@
 1 Urza's Bauble (5ED) 406
 1 Urza's Saga (MH2) 259
 1 Vault of Champions (CMR) 715
+1 Vengeful Bloodwitch (FDN) 76
 1 Village Rites (J22) 486
 1 Viscera Seer (PLST) M11-120
 1 Vraan, Executioner Thane (ONE) 114
 1 Weathered Wayfarer (LTC) 183
-1 Westfold Rider (LTR) 37
 1 Westvale Abbey // Ormendahl, Profane Prince (SOI) 281
 1 Zulaport Cutthroat (CLB) 775

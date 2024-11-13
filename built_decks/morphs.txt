@@ -6,7 +6,6 @@ Aphetto Runecaster
 Arcane Signet
 Assassin's Trophy
 Aveline de Grandpré
-Bane of the Living
 Bayou
 Beast Whisperer
 Branch of Vitu-Ghazi
@@ -36,6 +35,7 @@ Grim Haruspex
 Guardian Project
 Heroic Intervention
 Hide in Plain Sight
+High Fae Trickster
 Hooded Hydra
 Icefeather Aven
 Island

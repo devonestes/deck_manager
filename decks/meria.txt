@@ -41,6 +41,7 @@
 1 Kodama of the West Tree (NEO) 392
 1 Komainu Battle Armor (PLST) NEC-21
 1 Lavaspur Boots (OTJ) 243
+1 Leyline Axe (FDN) 129
 1 Lightning Greaves (LTC) 281
 1 Lost Jitte (BIG) 53
 1 Lothlórien Blade (LTC) 77
@@ -76,7 +77,6 @@
 1 Sword of Forge and Frontier (PONE) 244s
 1 Sword of the Animist (AFC) 218
 1 Sword of Vengeance (NEC) 164
-1 Tanuki Transplanter (NEC) 30
 1 The Reaver Cleaver (DMC) 8
 1 Thran Power Suit (BRO) 253
 1 Thrun, Breaker of Silence (ONE) 186

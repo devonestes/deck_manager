@@ -2,7 +2,6 @@ Aesi, Tyrant of Gyre Strait
 Abundance
 Ancient Greenwarden
 Apex Devastator
-Arcane Denial
 Arid Archway
 Ashaya, Soul of the Wild
 Augur of Autumn
@@ -46,12 +45,14 @@ Kodama of the East Tree
 Koma, Cosmos Serpent
 Last March of the Ents
 Llanowar Scout
+Loot, Exuberant Explorer
 Lotus Cobra
 Lotus Vale
 Magus of the Candelabra
 Mana Breach
 Mana Reflection
 Misty Rainforest
+Mossborn Hydra
 Mystic Sanctuary
 Nissa, Resurgent Animist
 Nissa, Steward of Elements
@@ -84,7 +85,6 @@ Sol Ring
 Storm Cauldron
 Talon Gates of Madara
 Tatyova, Benthic Druid
-Tatyova, Steward of Tides
 Thawing Glaciers
 Thespian's Stage
 Tireless Provisioner

@@ -37,7 +37,6 @@
 1 Island (J22) 101
 1 It That Betrays (ROE) 7
 1 It That Heralds the End (MH3) 385
-1 Kozilek, Butcher of Truth (ROE) 6
 1 Kozilek, the Broken Reality (MH3) 382
 1 Kozilek, the Great Distortion (CMM) 668
 1 Kozilek's Command (MH3) 11
@@ -62,6 +61,7 @@
 1 Secluded Courtyard (LTC) 330
 1 Shivan Reef (OTC) 320
 1 Shrine of the Forsaken Gods (C19) 273
+1 Sire of Seven Deaths (FDN) 292
 1 Sire of Stagnation (M3C) 272
 1 Snapping Voidcraw (MH3) 204
 1 Sol Ring (MOC) 381

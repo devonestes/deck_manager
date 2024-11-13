@@ -12,7 +12,6 @@ Fierce Guardianship (PROXY)
 Forth Eorlingas! (PROXY)
 Imperial Recruiter (PROXY)
 Otawara, Soaring City (PROXY)
-Professional Face-Breaker (PROXY)
 Ragavan, Nimble Pilferer (PROXY)
 Ranger-Captain of Eos (PROXY)
 Recruiter of the Guard (PROXY)
@@ -51,7 +50,6 @@ Deserted Beach
 Dolmen Gate
 Faramir, Prince of Ithilien
 Faramir, Steward of Gondor
-Fealty to the Realm
 Flawless Maneuver
 Flooded Strand
 Glacial Fortress
@@ -76,6 +74,7 @@ Plains
 Plains
 Port Razer
 Prince Imrahil the Fair
+Professional Face-Breaker
 Raugrin Triome
 Reconnaissance
 Retribution of the Meek
@@ -97,4 +96,5 @@ Teferi's Protection
 Thalia's Lieutenant
 Throne of the High City
 Tithe
+Valkyrie's Call
 Wayfarer's Bauble

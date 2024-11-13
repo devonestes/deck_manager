@@ -47,6 +47,7 @@ Kessig Wolf Run
 Kodama of the West Tree
 Komainu Battle Armor
 Lavaspur Boots
+Leyline Axe
 Lightning Greaves
 Lost Jitte
 Lothlórien Blade
@@ -87,7 +88,6 @@ Sword of Fire and Ice
 Sword of Forge and Frontier
 Sword of the Animist
 Sword of Vengeance
-Tanuki Transplanter
 The Reaver Cleaver
 Thran Power Suit
 Thrun, Breaker of Silence

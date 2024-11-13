@@ -36,7 +36,6 @@ Arcane Signet
 Balefire Dragon
 Breeding Pool
 Cascade Bluffs
-Colossal Skyturtle
 Command Tower
 Consecrated Sphinx
 Cultivate
@@ -78,6 +77,7 @@ Sarkhan's Unsealing
 Scourge of the Throne
 Selvala, Heart of the Wilds
 Selvala's Stampede
+Sire of Seven Deaths
 Snow-Covered Forest
 Snow-Covered Forest
 Snow-Covered Forest

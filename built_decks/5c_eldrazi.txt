@@ -37,7 +37,6 @@ Hydroelectric Specimen // Hydroelectric Laboratory
 Island
 It That Betrays
 It That Heralds the End
-Kozilek, Butcher of Truth
 Kozilek, the Broken Reality
 Kozilek, the Great Distortion
 Kozilek's Command
@@ -62,6 +61,7 @@ Scorched Ruins
 Secluded Courtyard
 Shivan Reef
 Shrine of the Forsaken Gods
+Sire of Seven Deaths
 Sire of Stagnation
 Snapping Voidcraw
 Sol Ring

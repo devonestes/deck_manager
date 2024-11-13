@@ -2,7 +2,6 @@
 1 Abundance (40K) 210
 1 Ancient Greenwarden (ZNR) 178
 1 Apex Devastator (CMR) 674
-1 Arcane Denial (ALL) 22a
 1 Arid Archway (OTJ) 252
 1 Ashaya, Soul of the Wild (ZNR) 179
 1 Augur of Autumn (MID) 168
@@ -42,12 +41,14 @@
 1 Koma, Cosmos Serpent (KHM) 221
 1 Last March of the Ents (LTR) 418
 1 Llanowar Scout (DOM) 170
+1 Loot, Exuberant Explorer (FDN) 106
 1 Lotus Cobra (BLC) 229
 1 Lotus Vale (WTH) 165
 1 Magus of the Candelabra (M3C) 236
 1 Mana Breach (EXO) 38
 1 Mana Reflection (M3C) 237
 1 Misty Rainforest (MM3) 240
+1 Mossborn Hydra (FDN) 107
 1 Mystic Sanctuary (ELD) 247
 1 Nissa, Resurgent Animist (MAT) 22
 1 Nissa, Steward of Elements (C20) 224
@@ -80,7 +81,6 @@
 1 Storm Cauldron (ALL) 134
 1 Talon Gates of Madara (M3C) 134
 1 Tatyova, Benthic Druid (DMR) 203
-1 Tatyova, Steward of Tides (DMU) 222
 1 Thawing Glaciers (ALL) 144
 1 Thespian's Stage (C19) 282
 1 Tireless Provisioner (MH2) 180

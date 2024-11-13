@@ -32,7 +32,6 @@
 1 Faerie Mastermind (PMOM) 58p
 1 Faramir, Prince of Ithilien (LTR) 319
 1 Faramir, Steward of Gondor (LTC) 54
-1 Fealty to the Realm (LTC) 21
 1 Fierce Guardianship (C20) 35
 1 Flawless Maneuver (C20) 26
 1 Flooded Strand (KTK) 233
@@ -94,5 +93,6 @@
 1 Tithe (VIS) 23
 1 Training Center (CMR) 713
 1 Tundra (3ED) 289
+1 Valkyrie's Call (FDN) 27
 1 Wayfarer's Bauble (LTC) 290
 1 Weathered Wayfarer (LTC) 183
