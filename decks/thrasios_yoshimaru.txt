@@ -3,7 +3,6 @@
 1 Amulet of Vigor (WWK) 121
 1 An Offer You Can't Refuse (SLP) 7
 1 Ancient Tomb (TMP) 315
-1 Arbor Elf (M13) 160
 1 Archivist of Oghma (CLB) 4
 1 Arid Mesa (MH2) 436
 1 Avacyn's Pilgrim (ISD) 170
@@ -21,6 +20,7 @@
 1 Crop Rotation (DMR) 154
 1 Cyclonic Rift (2XM) 339
 1 Devoted Druid (SHM) 110
+1 Dramatic Reversal (P30A) 24
 1 Drannith Magistrate (IKO) 314
 1 Eladamri's Call (PLS) 106
 1 Eldritch Evolution (EMN) 155
@@ -34,7 +34,6 @@
 1 Faerie Mastermind (PMOM) 58p
 1 Fierce Guardianship (C20) 35
 1 Finale of Devastation (WAR) 160
-1 Flare of Fortitude (MH3) 391
 1 Flooded Strand (MH3) 436
 1 Flusterstorm (MH1) 255
 1 Force of Negation (MH1) 52
@@ -43,12 +42,12 @@
 1 Forest (BLB) 279
 1 Fyndhorn Elves (ICE) 244
 1 Gemstone Caverns (TSP) 274
-1 Gilded Drake (USG) 76
 1 Grand Abolisher (SLD) 1285
 1 Green Sun's Zenith (2X2) 150
 1 Hallowed Fountain (RVR) 404
 1 Intuition (TMP) 70
 1 Island (BLB) 266
+1 Isochron Scepter (MRD) 188
 1 Kinnan, Bonder Prodigy (IKO) 338
 1 Kutzil, Malamet Exemplar (LCI) 304
 1 Ledger Shredder (PSNC) 46p
@@ -76,6 +75,7 @@
 1 Ranger-Captain of Eos (MH1) 21
 1 Rejuvenating Springs (LTC) 325
 1 Rhystic Study (J22) 114
+1 Rings of Brighthearth (LRW) 259
 1 Savannah (3ED) 285
 1 Scalding Tarn (MH2) 439
 1 Seedborn Muse (C19) 179

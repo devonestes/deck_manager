@@ -3,18 +3,18 @@ Ancient Animus
 Animist's Might
 Anzrag, the Quake-Mole
 Arcane Signet
-Audacity
+Archdruid's Charm
 Bear Umbra
-Beastie Beatdown
+Benevolent Hydra
 Berserk
+Bite Down
 Branching Evolution
-Brash Taunter
-Bushwhack
 Cinder Glade
 Command Tower
 Contest of Claws
 Cosmic Hunger
 Court of Garenbrig
+Defiler of Vigor
 Domri, Anarch of Bolas
 Elvish Mystic
 Embercleave
@@ -35,12 +35,11 @@ Forest
 Forest
 Forest
 Forest
-Forest
-Forest
 Forgotten Ancient
-Fyndhorn Elves
 Game Trail
 Goblin Anarchomancer
+Goldvein Hydra
+Gruul Turf
 Halana and Alena, Partners
 Hard-Hitting Question
 Hardened Scales
@@ -53,9 +52,11 @@ Kessig Wolf Run
 Khalni Ambush // Khalni Territory
 Lion Umbra
 Llanowar Elves
-Longstalk Brawl
 Mage Slayer
 Managorger Hydra
+Mossfire Valley
+Mountain
+Mountain
 Mountain
 Mountain
 Mountain
@@ -70,16 +71,15 @@ Neyith of the Dire Hunt
 Ohran Frostfang
 Ornery Tumblewagg
 Overpowering Attack
-Overprotect
-Prizefight
+Quilled Greatwurm
 Rabid Gnaw
+Railway Brawler
 Ram Through
-Rancor
+Rhonas the Indomitable
 Rhythm of the Wild
 Rite of Passage
 Rogue's Passage
 Signature Slam
-Sixth Sense
 Snake Umbra
 Snakeskin Veil
 Sol Ring

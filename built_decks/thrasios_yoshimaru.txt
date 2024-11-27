@@ -3,7 +3,6 @@ Yoshimaru, Ever Faithful
 Amulet of Vigor
 An Offer You Can't Refuse
 Ancient Tomb
-Arbor Elf
 Archivist of Oghma
 Arid Mesa
 Avacyn's Pilgrim
@@ -21,6 +20,7 @@ Command Tower
 Crop Rotation
 Cyclonic Rift
 Devoted Druid
+Dramatic Reversal
 Drannith Magistrate
 Eladamri's Call
 Eldritch Evolution
@@ -34,7 +34,6 @@ Faeburrow Elder
 Faerie Mastermind
 Fierce Guardianship
 Finale of Devastation
-Flare of Fortitude
 Flooded Strand
 Flusterstorm
 Force of Negation
@@ -43,12 +42,12 @@ Force of Will
 Forest
 Fyndhorn Elves
 Gemstone Caverns
-Gilded Drake
 Grand Abolisher
 Green Sun's Zenith
 Hallowed Fountain
 Intuition
 Island
+Isochron Scepter
 Kinnan, Bonder Prodigy
 Kutzil, Malamet Exemplar
 Ledger Shredder
@@ -76,6 +75,7 @@ Polluted Delta
 Ranger-Captain of Eos
 Rejuvenating Springs
 Rhystic Study
+Rings of Brighthearth
 Savannah
 Scalding Tarn
 Seedborn Muse
