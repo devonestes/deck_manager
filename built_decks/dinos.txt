@@ -19,7 +19,6 @@ Last March of the Ents (PROXY)
 Mana Confluence (PROXY)
 Mirari's Wake (PROXY)
 Misty Rainforest (PROXY)
-Nature's Lore (PROXY)
 Prismatic Vista (PROXY)
 Roaming Throne (PROXY)
 Rockfall Vale (PROXY)
@@ -65,6 +64,7 @@ Marauding Raptor
 Marsh Flats
 Mountain
 Mountain
+Nature's Lore
 Otepec Huntmaster
 Overgrown Farmland
 Palani's Hatcher

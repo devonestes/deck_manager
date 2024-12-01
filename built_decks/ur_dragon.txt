@@ -19,7 +19,6 @@ Ketria Triome (PROXY)
 Klauth, Unrivaled Ancient (PROXY)
 Kokusho, the Evening Star (PROXY)
 Kura, the Boundless Sky (PROXY)
-Lightning Greaves (PROXY)
 Mana Vault (PROXY)
 Misty Rainforest (PROXY)
 Old Gnawbone (PROXY)
@@ -33,7 +32,6 @@ Temur Ascendancy (PROXY)
 Terror of the Peaks (PROXY)
 The Great Henge (PROXY)
 The World Tree (PROXY)
-Three Visits (PROXY)
 Urza's Incubator (PROXY)
 Wooded Foothills (PROXY)
 Zagoth Triome (PROXY)
@@ -67,6 +65,7 @@ Island
 Karrthus, Tyrant of Jund
 Kindred Discovery
 Kindred Dominance
+Lightning Greaves
 Marsh Flats
 Miirym, Sentinel Wyrm
 Morophon, the Boundless
@@ -93,6 +92,7 @@ Swords to Plowshares
 Temple Garden
 Temple of the Dragon Queen
 The Kami War // O-Kagachi Made Manifest
+Three Visits
 Tiamat
 Utvara Hellkite
 Watery Grave

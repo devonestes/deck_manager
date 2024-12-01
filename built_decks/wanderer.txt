@@ -7,6 +7,7 @@ Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
 Fiery Emancipation (PROXY)
 Fire-Lit Thicket (PROXY)
 Ketria Triome (PROXY)
+Kodama's Reach (PROXY)
 Kogla, the Titan Ape (PROXY)
 Misty Rainforest (PROXY)
 Nyxbloom Ancient (PROXY)
@@ -25,6 +26,7 @@ Spire Garden (PROXY)
 Stomping Ground (PROXY)
 Stormcarved Coast (PROXY)
 Sylvan Library (PROXY)
+Time Warp (PROXY)
 Training Center (PROXY)
 Up the Beanstalk (PROXY)
 Urza's Saga (PROXY)
@@ -58,7 +60,6 @@ Into the North
 Island
 Island
 Klauth, Unrivaled Ancient
-Kodama's Reach
 Kogla and Yidaro
 Koma, Cosmos Serpent
 Migration Path
@@ -92,7 +93,6 @@ Temur Sabertooth
 Terror of the Peaks
 Three Visits
 Time Spiral
-Time Warp
 Turntimber Symbiosis // Turntimber, Serpentine Wood
 Uro, Titan of Nature's Wrath
 Vastwood Surge

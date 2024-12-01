@@ -1,6 +1,7 @@
 Adeline, Resplendent Cathar (PROXY)
 Akroma's Will (PROXY)
 Ancient Tomb (PROXY)
+Arachnogenesis (PROXY)
 Birds of Paradise (PROXY)
 Boseiju, Who Endures (PROXY)
 Bountiful Promenade (PROXY)
@@ -42,7 +43,6 @@ Urza's Saga (PROXY)
 Windswept Heath (PROXY)
 Yavimaya Hollow (PROXY)
 Galadriel, Light of Valinor
-Arachnogenesis
 Arcane Signet
 Arwen, Weaver of Hope
 Avenger of Zendikar

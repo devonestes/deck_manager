@@ -13,7 +13,6 @@ Jhoira, Weatherlight Captain (PROXY)
 Knight Paladin (PROXY)
 Lightning Greaves (PROXY)
 Mana Drain (PROXY)
-Mystic Remora (PROXY)
 Otawara, Soaring City (PROXY)
 Raugrin Triome (PROXY)
 Rhystic Study (PROXY)
@@ -68,6 +67,7 @@ Mountain
 Mountain
 Mystic Gate
 Mystic Monastery
+Mystic Remora
 Organic Extinction
 Plains
 Plains

@@ -25,12 +25,13 @@
 1 Flooded Strand (MH3) 436
 4 Forest (J22) 110
 1 Frantic Search (UMA) 57
-1 Gamble (EMA) 132
+1 Fyndhorn Elves (ICE) 244
 1 Gitaxian Probe (NPH) 35
 1 Goblin Electromancer (OTC) 228
 1 Grapeshot (STA) 39
 1 Growth Spiral (CMR) 446
 1 Gut Shot (NPH) 86
+1 Haughty Djinn (OTC) 99
 1 Hinterland Harbor (LTC) 317
 1 Ice Storm (SLD) 1745
 6 Island (BLB) 372
@@ -57,12 +58,11 @@
 1 Pyretic Ritual (M11) 153
 1 Pyroblast (MB2) 198
 1 Rampant Growth (M12) 190
-1 Rite of Flame (MB2) 59
+1 Regrowth (SLD) 866
 1 Scalding Tarn (MH2) 439
 1 Seething Song (MRD) 104
 1 Serum Visions (OTC) 112
 1 Shivan Reef (OTC) 320
-1 Simian Spirit Guide (MB2) 61
 1 Snap (DMR) 66
 1 Sol Ring (MOC) 381
 1 Spellseeker (BBD) 41
@@ -80,7 +80,7 @@
 1 Thunderclap Drake (OTC) 17
 1 Training Center (CMR) 713
 1 Underworld Breach (THB) 324
-1 Veyran, Voice of Duality (C21) 330
+1 Urabrask // The Great Work (MOM) 169
 1 Volcanic Island (3ED) 291
 1 Wild Growth (DMR) 184
 1 Windswept Heath (MH3) 440

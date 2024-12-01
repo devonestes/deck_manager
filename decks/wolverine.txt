@@ -15,7 +15,7 @@
 1 Cosmic Hunger (MOM) 182
 1 Court of Garenbrig (WOC) 25
 1 Defiler of Vigor (DMU) 412
-1 Domri, Anarch of Bolas (BLC) 98 *F*
+1 Domri, Anarch of Bolas (BLC) 98
 1 Elvish Mystic (M15) 173
 1 Embercleave (ELD) 359
 1 Enduring Courage (DSK) 133
@@ -45,7 +45,7 @@
 1 Neyith of the Dire Hunt (JMP) 30
 1 Ohran Frostfang (SLD) 237
 1 Ornery Tumblewagg (OTJ) 171
-1 Overpowering Attack (ACR) 37 *F*
+1 Overpowering Attack (ACR) 37
 1 Quilled Greatwurm (FDN) 111
 1 Rabid Gnaw (BLB) 147
 1 Railway Brawler (OTJ) 175
@@ -54,7 +54,7 @@
 1 Rhythm of the Wild (SLD) 1740
 1 Rite of Passage (SLD) 1739
 1 Rogue's Passage (LTC) 326
-1 Signature Slam (MH3) 168 *F*
+1 Signature Slam (MH3) 168
 1 Snake Umbra (NEC) 130
 1 Snakeskin Veil (OTJ) 181
 1 Sol Ring (MOC) 381
@@ -68,7 +68,7 @@
 1 Toski, Bearer of Secrets (KHM) 197
 1 Tyrite Sanctum (CMM) 1049
 1 Tyvar's Stand (ONE) 190
-1 Unnatural Growth (SLD) 865 *F*
+1 Unnatural Growth (SLD) 865
 1 Vigor (BBD) 215
 1 Waltz of Rage (DSK) 165
 1 Wild Growth (DMR) 184
