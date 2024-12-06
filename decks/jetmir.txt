@@ -9,6 +9,7 @@
 1 Aven Mindcensor (CLB) 688
 1 Battlefield Forge (BRO) 257
 1 Bloodstained Mire (KTK) 230
+1 Bloom Tender (EVE) 66
 1 Brimaz, King of Oreskos (BNG) 5
 1 Champion of Lambholt (NCC) 284
 1 Charismatic Conqueror (LCC) 70
@@ -25,7 +26,6 @@
 1 Elvish Mystic (M15) 173
 1 Everybody Lives! (WHO) 18
 1 Exotic Orchard (MOC) 398
-1 Fanatic of Rhonas (MH3) 458
 1 Final Fortune (MIR) 173
 1 Flooded Strand (KTK) 233
 1 Forbidden Orchard (C16) 296

@@ -20,6 +20,7 @@
 1 Caves of Koilos (MD1) 14
 1 Champion of Dusk (LCC) 188
 1 Changeling Outcast (MH1) 82
+1 Charismatic Conqueror (LCC) 70
 1 City of Brass (5ED) 413
 1 Clavileño, First of the Blessed (LCC) 2
 1 Clifftop Retreat (LTC) 300
@@ -64,7 +65,6 @@
 1 Patriarch's Bidding (MH2) 275
 1 Phyrexian Tower (JMP) 493
 1 Plains (J22) 98
-1 Preacher of the Schism (LCI) 113
 1 Redemption Choir (LCC) 74
 1 Reflecting Pool (LTC) 373
 1 Roaming Throne (LCI) 344

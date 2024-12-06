@@ -3,7 +3,6 @@ Alrund's Epiphany
 Ancient Cornucopia
 Arachnogenesis
 Archmage Emeritus
-Arena of Glory
 Big Score
 Brainsurge
 Brazen Borrower // Petty Theft
@@ -31,6 +30,7 @@ Haughty Djinn
 Hedron Archive
 Hinterland Harbor
 Hordeling Outburst
+Hour of Promise
 Ice Storm
 Island
 Island
@@ -51,6 +51,8 @@ Migration Path
 Mindsplice Apparatus
 Misty Rainforest
 Mogg Salvage
+Molten Rain
+Mountain
 Mountain
 Mountain
 Mountain
@@ -60,7 +62,6 @@ Mountain
 Mountain
 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time
 Oko, Thief of Crowns
-Overgrowth
 Polluted Delta
 Primal Amulet // Primal Wellspring
 Prismari Command
@@ -76,7 +77,6 @@ Spark Double
 Spelunking
 Steam Vents
 Stomping Ground
-Stone Rain
 Storm-Kiln Artist
 Sulfur Falls
 Sword of Wealth and Power

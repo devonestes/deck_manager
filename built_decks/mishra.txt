@@ -46,6 +46,7 @@ Knight Paladin
 Lightning Greaves
 Magmatic Galleon
 Mana Drain
+Mana Vault
 Metalworker
 Mind Stone
 Mindslaver
@@ -55,7 +56,6 @@ Mox Opal
 Mystic Forge
 Polluted Delta
 Portal to Phyrexia
-Relic of Sauron
 Rise and Shine
 Riverglide Pathway // Lavaglide Pathway
 RMS Titanic

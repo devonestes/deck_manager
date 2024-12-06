@@ -2,41 +2,30 @@ Adeline, Resplendent Cathar (PROXY)
 Akroma's Will (PROXY)
 Ancient Tomb (PROXY)
 Arachnogenesis (PROXY)
-Birds of Paradise (PROXY)
-Boseiju, Who Endures (PROXY)
-Bountiful Promenade (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
 Charismatic Conqueror (PROXY)
-Cyclonic Rift (PROXY)
 Delighted Halfling (PROXY)
 Deserted Beach (PROXY)
 Dreamroot Cascade (PROXY)
 Dryad Arbor (PROXY)
 Elven Chorus (PROXY)
-Esper Sentinel (PROXY)
-Faerie Mastermind (PROXY)
-Fierce Guardianship (PROXY)
 Flooded Grove (PROXY)
 Flooded Strand (PROXY)
 Gruff Triplets (PROXY)
-Heroic Intervention (PROXY)
 Hinterland Harbor (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
 Noble Hierarch (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Oltec Matterweaver (PROXY)
-Otawara, Soaring City (PROXY)
 Overgrown Farmland (PROXY)
-Rejuvenating Springs (PROXY)
 Rhys the Redeemed (PROXY)
-Rhystic Study (PROXY)
 Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Sea of Clouds (PROXY)
 Spara's Headquarters (PROXY)
 Teferi's Protection (PROXY)
+Temple Garden (PROXY)
 Three Visits (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Urza's Saga (PROXY)
@@ -48,17 +37,24 @@ Arwen, Weaver of Hope
 Avenger of Zendikar
 Beast Whisperer
 Bennie Bracks, Zoologist
+Birds of Paradise
+Boseiju, Who Endures
+Bountiful Promenade
 Bramble Sovereign
 Cauldron of Souls
 Command Tower
+Cyclonic Rift
 Damning Verdict
 Danny Pink
 Doubling Season
 Earthcraft
 Eladamri, Korvecdal
+Esper Sentinel
 Evolution Witness
 Faerie Artisans
+Faerie Mastermind
 Felidar Retreat
+Fierce Guardianship
 Forest
 Forest
 Forest
@@ -70,6 +66,7 @@ Gyre Sage
 Hallowed Fountain
 Herald of Secret Streams
 Herd Baloth
+Heroic Intervention
 Imperious Perfect
 Incubation Druid
 Inspiring Call
@@ -81,15 +78,18 @@ Master Biomancer
 Mondrak, Glory Dominus
 Mystic Remora
 Nadir Kraken
+Otawara, Soaring City
 Overwhelming Stampede
 Perch Protection
 Peregrine Drake
 Plains
+Rejuvenating Springs
+Rhystic Study
 Ripples of Potential
+Sea of Clouds
 Sol Ring
 Strength of the Harvest // Haven of the Harvest
 Suppression Ray // Orderly Plaza
-Temple Garden
 Tendershoot Dryad
 The Ozolith
 Tocasia's Welcome

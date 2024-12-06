@@ -1,30 +1,25 @@
 Agadeem's Awakening // Agadeem, the Undercrypt (PROXY)
-Ancient Tomb (PROXY)
 Anguished Unmaking (PROXY)
 Bloodchief Ascension (PROXY)
 Bloodghast (PROXY)
 Cruel Celebrant (PROXY)
 Damn (PROXY)
-Deadly Rollick (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
-Esper Sentinel (PROXY)
 Fetid Heath (PROXY)
 Ichor Wellspring (PROXY)
 Isolated Chapel (PROXY)
-Mox Amber (PROXY)
 Phyrexian Tower (PROXY)
 Serra Ascendant (PROXY)
 Shattered Sanctum (PROXY)
+Skullclamp (PROXY)
 Takenuma, Abandoned Mire (PROXY)
-Teferi's Protection (PROXY)
 The Meathook Massacre (PROXY)
-Urza's Saga (PROXY)
-Vault of Champions (PROXY)
 Vraan, Executioner Thane (PROXY)
 Weathered Wayfarer (PROXY)
 Bartolomé del Presidio
 Accursed Marauder
 Amalia Benavides Aguirre
+Ancient Tomb
 Animate Dead
 Bitterblossom
 Blade of the Bloodchief
@@ -33,7 +28,6 @@ Brightclimb Pathway // Grimclimb Pathway
 Case of the Stashed Skeleton
 Castle Ardenvale
 Castle Locthwain
-Caustic Bronco
 Caves of Koilos
 Chthonian Nightmare
 Command Tower
@@ -43,10 +37,11 @@ Dance of the Dead
 Dark Confidant
 Dauthi Voidwalker
 Deadly Dispute
+Deadly Rollick
 Dewdrop Cure
 Dusk // Dawn
 Elas il-Kor, Sadistic Pilgrim
-Emperor of Bones
+Esper Sentinel
 Fanatical Offering
 Godless Shrine
 Greedy Freebooter
@@ -61,6 +56,7 @@ Marionette Apprentice
 Marsh Flats
 Metallic Mimic
 Mother of Runes
+Mox Amber
 Orcish Bowmasters
 Osseous Sticktwister
 Phyrexian Reclamation
@@ -70,15 +66,15 @@ Plains
 Plains
 Plains
 Priest of Forgotten Gods
+Promise of Aclazotz // Foul Rebirth
 Putrid Goblin
 Razorgrass Ambush // Razorgrass Field
 Ripples of Undeath
 Rogue's Passage
 Selfless Savior
 Selfless Spirit
+Servant of the Stinger
 Sevinne's Reclamation
-Silent Clearing
-Skullclamp
 Snuff Out
 Sol Ring
 Spirited Companion
@@ -90,9 +86,13 @@ Swamp
 Swamp
 Swamp
 Swamp
+Swamp
 Swords to Plowshares
+Teferi's Protection
 Triarch Praetorian
 Urza's Bauble
+Urza's Saga
+Vault of Champions
 Vengeful Bloodwitch
 Village Rites
 Viscera Seer

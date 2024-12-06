@@ -9,6 +9,7 @@ Aurelia, the Law Above
 Aven Mindcensor
 Battlefield Forge
 Bloodstained Mire
+Bloom Tender
 Brimaz, King of Oreskos
 Champion of Lambholt
 Charismatic Conqueror
@@ -25,7 +26,6 @@ Elesh Norn, Grand Cenobite
 Elvish Mystic
 Everybody Lives!
 Exotic Orchard
-Fanatic of Rhonas
 Final Fortune
 Flooded Strand
 Forbidden Orchard

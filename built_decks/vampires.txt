@@ -20,6 +20,7 @@ Cavern of Souls
 Caves of Koilos
 Champion of Dusk
 Changeling Outcast
+Charismatic Conqueror
 City of Brass
 Clavileño, First of the Blessed
 Clifftop Retreat
@@ -64,7 +65,6 @@ Path of Ancestry
 Patriarch's Bidding
 Phyrexian Tower
 Plains
-Preacher of the Schism
 Redemption Choir
 Reflecting Pool
 Roaming Throne
