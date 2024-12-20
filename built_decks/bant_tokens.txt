@@ -12,7 +12,6 @@ Dryad Arbor (PROXY)
 Elven Chorus (PROXY)
 Flooded Grove (PROXY)
 Flooded Strand (PROXY)
-Gruff Triplets (PROXY)
 Hinterland Harbor (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
@@ -41,15 +40,15 @@ Birds of Paradise
 Boseiju, Who Endures
 Bountiful Promenade
 Bramble Sovereign
+Caretaker's Talent
 Cauldron of Souls
 Command Tower
 Cyclonic Rift
 Damning Verdict
 Danny Pink
-Doubling Season
+Detective of the Month
 Earthcraft
 Eladamri, Korvecdal
-Esper Sentinel
 Evolution Witness
 Faerie Artisans
 Faerie Mastermind
@@ -62,6 +61,7 @@ Gala Greeters
 Galadhrim Ambush
 Glacial Fortress
 Glen Elendra Archmage
+Gruff Triplets
 Gyre Sage
 Hallowed Fountain
 Herald of Secret Streams
@@ -72,16 +72,16 @@ Incubation Druid
 Inspiring Call
 Island
 Island
+Island
 Kami of Whispered Hopes
 Karn's Bastion
 Master Biomancer
 Mondrak, Glory Dominus
-Mystic Remora
 Nadir Kraken
 Otawara, Soaring City
 Overwhelming Stampede
-Perch Protection
 Peregrine Drake
+Plains
 Plains
 Rejuvenating Springs
 Rhystic Study

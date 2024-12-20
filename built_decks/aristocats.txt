@@ -37,7 +37,6 @@ Dance of the Dead
 Dark Confidant
 Dauthi Voidwalker
 Deadly Dispute
-Deadly Rollick
 Dewdrop Cure
 Dusk // Dawn
 Elas il-Kor, Sadistic Pilgrim
@@ -68,6 +67,7 @@ Plains
 Priest of Forgotten Gods
 Promise of Aclazotz // Foul Rebirth
 Putrid Goblin
+Raise the Past
 Razorgrass Ambush // Razorgrass Field
 Ripples of Undeath
 Rogue's Passage

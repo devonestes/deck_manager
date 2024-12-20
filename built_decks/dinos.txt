@@ -19,6 +19,7 @@ Roaming Throne (PROXY)
 Rockfall Vale (PROXY)
 Sacred Foundry (PROXY)
 Scalding Tarn (PROXY)
+Spectator Seating (PROXY)
 Spire Garden (PROXY)
 Stomping Ground (PROXY)
 Sundown Pass (PROXY)
@@ -80,7 +81,6 @@ Ripjaw Raptor
 Scion of Calamity
 Secluded Courtyard
 Sol Ring
-Spectator Seating
 Sunfrill Imitator
 Sunhome, Fortress of the Legion
 Sunpetal Grove
@@ -92,8 +92,8 @@ Topiary Stomper
 Trapjaw Tyrant
 Unclaimed Territory
 Urza's Saga
+Vaultborn Tyrant
 Verdant Catacombs
-Wakening Sun's Avatar
 Welcome to . . . // Jurassic Park
 Wrathful Raptors
 Xenagos, God of Revels

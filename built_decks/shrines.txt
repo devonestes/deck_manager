@@ -1,19 +1,11 @@
-Breeding Pool (PROXY)
-City of Brass (PROXY)
-Crop Rotation (PROXY)
-Forbidden Orchard (PROXY)
-Rockfall Vale (PROXY)
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Steam Vents (PROXY)
-Stomping Ground (PROXY)
-Tithe (PROXY)
-Wooded Foothills (PROXY)
 Go-Shintai of Life's Origin
+Adarkar Wastes
 Argothian Enchantress
 Atraxa, Grand Unifier
 Birds of Paradise
 Bloom Tender
 Bountiful Promenade
+Breeding Pool
 Brushland
 Cacophony Unleashed
 Command Tower
@@ -31,6 +23,7 @@ Fierce Guardianship
 Forest
 Ghostly Prison
 Ghoulish Impetus
+Glacial Fortress
 Go-Shintai of Ancient Wars
 Go-Shintai of Boundless Vigor
 Go-Shintai of Hidden Cruelty
@@ -63,6 +56,7 @@ Paradox Haze
 Plains
 Reliquary Tower
 Replenish
+Retribution of the Meek
 Rhystic Study
 Roaring Furnace // Steaming Sauna
 Sanctum of All
@@ -80,14 +74,19 @@ Shrine Steward
 Smothering Tithe
 Sol Ring
 Spara's Headquarters
+Spectator Seating
 Sphere of Safety
+Starfield Mystic
+Steam Vents
 Sterling Grove
+Sunpetal Grove
 Swamp
 Swan Song
 Sythis, Harvest's Hand
 Teferi's Protection
 Temple Garden
 The World Tree
+Undergrowth Stadium
 Valgavoth's Lair
 Vampiric Tutor
 Verdant Catacombs
@@ -95,6 +94,7 @@ Verduran Enchantress
 Watery Grave
 Windswept Heath
 Wooded Bastion
+Yavimaya Coast
 Zagoth Triome
 Ziatora's Proving Ground
 Zur the Enchanter

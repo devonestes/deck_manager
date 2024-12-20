@@ -1,7 +1,5 @@
 Aesi, Tyrant of Gyre Strait
-Abundance
 Ancient Greenwarden
-Apex Devastator
 Arid Archway
 Ashaya, Soul of the Wild
 Augur of Autumn
@@ -22,6 +20,7 @@ Crucible of Worlds
 Cultivator Colossus
 Doppelgang
 Dryad of the Ilysian Grove
+Elvish Reclaimer
 Entish Restoration
 Exploration
 Fabled Passage
@@ -43,11 +42,13 @@ Island
 Jungle Basin
 Kodama of the East Tree
 Koma, Cosmos Serpent
+Koma, World-Eater
 Last March of the Ents
 Llanowar Scout
 Loot, Exuberant Explorer
 Lotus Cobra
 Lotus Vale
+Lumra, Bellow of the Woods
 Magus of the Candelabra
 Mana Breach
 Mana Reflection
@@ -55,7 +56,6 @@ Misty Rainforest
 Mossborn Hydra
 Mystic Sanctuary
 Nissa, Resurgent Animist
-Nissa, Steward of Elements
 Nyxbloom Ancient
 Oboro, Palace in the Clouds
 Omenpath Journey
@@ -63,16 +63,16 @@ On the Trail
 Open the Way
 Oracle of Mul Daya
 Overburden
-Palinchron
+Overlord of the Hauntwoods
 Planar Genesis
 Polluted Delta
 Prismatic Vista
 Rampaging Baloths
-Rampant Frogantua
 Ramunap Excavator
 Reliquary Tower
 Retreat to Coralhelm
 Roil Elemental
+Rootpath Purifier
 Scalding Tarn
 Scapeshift
 Scute Swarm
@@ -82,6 +82,7 @@ Skyshroud Ranger
 Snow-Covered Forest
 Snow-Covered Island
 Sol Ring
+Springheart Nantuko
 Storm Cauldron
 Talon Gates of Madara
 Tatyova, Benthic Druid
@@ -92,7 +93,6 @@ Titania, Protector of Argoth
 Undiscovered Paradise
 Uro, Titan of Nature's Wrath
 Vorinclex // The Grand Evolution
-Vorinclex, Voice of Hunger
 Waterlogged Grove
 Wayward Swordtooth
 Windswept Heath

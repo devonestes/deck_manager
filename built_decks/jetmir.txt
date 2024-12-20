@@ -1,13 +1,14 @@
 Jetmir, Nexus of Revels
 Adeline, Resplendent Cathar
 Agate Instigator
+Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
 Anim Pakal, Thousandth Moon
 Arbor Elf
 Archivist of Oghma
 Arid Mesa
 Aurelia, the Law Above
-Aven Mindcensor
 Battlefield Forge
+Birds of Paradise
 Bloodstained Mire
 Bloom Tender
 Brimaz, King of Oreskos
@@ -24,6 +25,7 @@ Dryad Arbor
 Eiganjo, Seat of the Empire
 Elesh Norn, Grand Cenobite
 Elvish Mystic
+Esper Sentinel
 Everybody Lives!
 Exotic Orchard
 Final Fortune
@@ -38,9 +40,7 @@ Grenzo, Havoc Raiser
 Horizon Canopy
 Hushbringer
 Hushwing Gryff
-Jacked Rabbit
 Jetmir's Garden
-Joven's Ferrets
 Karplusan Forest
 Kellan, Daring Traveler // Journey On
 Kutzil, Malamet Exemplar
@@ -56,7 +56,6 @@ Myrel, Shield of Argive
 Ocelot Pride
 Ohran Frostfang
 Oltec Matterweaver
-Paladin Elizabeth Taggerdy
 Path to Exile
 Plains
 Plateau
@@ -72,6 +71,7 @@ Saryth, the Viper's Fang
 Scalding Tarn
 Scurry of Squirrels
 Scute Swarm
+Searslicer Goblin
 Secure the Wastes
 Serra Ascendant
 Skyhunter Strike Force

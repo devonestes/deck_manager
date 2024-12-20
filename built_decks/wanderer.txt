@@ -1,4 +1,5 @@
 Ancient Copper Dragon (PROXY)
+Breeding Pool (PROXY)
 Entish Restoration (PROXY)
 Fiery Emancipation (PROXY)
 Fire-Lit Thicket (PROXY)
@@ -14,6 +15,7 @@ Scalding Tarn (PROXY)
 Scroll Rack (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Skyshroud Claim (PROXY)
+Steam Vents (PROXY)
 Stomping Ground (PROXY)
 Time Warp (PROXY)
 Up the Beanstalk (PROXY)
@@ -25,7 +27,6 @@ Ancient Tomb
 Arcane Signet
 Balefire Dragon
 Boseiju, Who Endures
-Breeding Pool
 Cascade Bluffs
 Command Tower
 Consecrated Sphinx
@@ -81,7 +82,6 @@ Snow-Covered Island
 Snow-Covered Mountain
 Sol Ring
 Spire Garden
-Steam Vents
 Stormcarved Coast
 Sulfur Falls
 Sun Quan, Lord of Wu

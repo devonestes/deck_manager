@@ -3,7 +3,10 @@ Alrund's Epiphany
 Ancient Cornucopia
 Arachnogenesis
 Archmage Emeritus
+Archmage of Runes
+Ashling, Flame Dancer
 Big Score
+Birgi, God of Storytelling // Harnfel, Horn of Bounty
 Brainsurge
 Brazen Borrower // Petty Theft
 Breeding Pool
@@ -65,7 +68,6 @@ Oko, Thief of Crowns
 Polluted Delta
 Primal Amulet // Primal Wellspring
 Prismari Command
-Prosperous Bandit
 Sakashima of a Thousand Faces
 Sakashima the Impostor
 Scalding Tarn
@@ -74,8 +76,8 @@ Shivan Reef
 Snapping Voidcraw
 Solemn Simulacrum
 Spark Double
-Spelunking
 Steam Vents
+Stitch in Time
 Stomping Ground
 Storm-Kiln Artist
 Sulfur Falls
@@ -88,13 +90,11 @@ Training Center
 Treachery
 Treasure Cruise
 Twinning Staff
-Unwind
 Urabrask // The Great Work
 Urban Evolution
 Uro, Titan of Nature's Wrath
 Veyran, Voice of Duality
 Volcanic Island
-Wilderness Reclamation
 Windswept Heath
 Wood Elves
 Yavimaya Coast

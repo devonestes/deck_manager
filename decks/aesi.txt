@@ -1,7 +1,5 @@
 1 Aesi, Tyrant of Gyre Strait (CMR) 365
-1 Abundance (40K) 210
 1 Ancient Greenwarden (ZNR) 178
-1 Apex Devastator (CMR) 674
 1 Arid Archway (OTJ) 252
 1 Ashaya, Soul of the Wild (ZNR) 179
 1 Augur of Autumn (MID) 168
@@ -22,6 +20,7 @@
 1 Cultivator Colossus (VOW) 195
 1 Doppelgang (MKM) 198
 1 Dryad of the Ilysian Grove (THB) 169
+1 Elvish Reclaimer (M20) 169
 1 Entish Restoration (LTR) 163
 1 Exploration (CNS) 164
 1 Fabled Passage (ELD) 244
@@ -39,11 +38,13 @@
 1 Jungle Basin (VIS) 164
 1 Kodama of the East Tree (BLC) 227
 1 Koma, Cosmos Serpent (KHM) 221
+1 Koma, World-Eater (FDN) 121
 1 Last March of the Ents (LTR) 418
 1 Llanowar Scout (DOM) 170
 1 Loot, Exuberant Explorer (FDN) 106
 1 Lotus Cobra (BLC) 229
 1 Lotus Vale (WTH) 165
+1 Lumra, Bellow of the Woods (BLB) 183
 1 Magus of the Candelabra (M3C) 236
 1 Mana Breach (EXO) 38
 1 Mana Reflection (M3C) 237
@@ -51,7 +52,6 @@
 1 Mossborn Hydra (FDN) 107
 1 Mystic Sanctuary (ELD) 247
 1 Nissa, Resurgent Animist (MAT) 22
-1 Nissa, Steward of Elements (C20) 224
 1 Nyxbloom Ancient (THB) 190
 1 Oboro, Palace in the Clouds (LTC) 371
 1 Omenpath Journey (BIG) 18
@@ -59,16 +59,16 @@
 1 Open the Way (MAT) 23
 1 Oracle of Mul Daya (JMP) 415
 1 Overburden (PCY) 39
-1 Palinchron (ULG) 38
+1 Overlord of the Hauntwoods (DSK) 194
 1 Planar Genesis (MH3) 198
 1 Polluted Delta (MH3) 438
 1 Prismatic Vista (MH1) 244
 1 Rampaging Baloths (C19) 176
-1 Rampant Frogantua (M3C) 118
 1 Ramunap Excavator (M3C) 241
 1 Reliquary Tower (BRC) 196
 1 Retreat to Coralhelm (BFZ) 82
 1 Roil Elemental (ZEN) 62
+1 Rootpath Purifier (BRC) 44
 1 Scalding Tarn (MM3) 244
 1 Scapeshift (M19) 201
 1 Scute Swarm (OTC) 205
@@ -78,6 +78,7 @@
 1 Snow-Covered Forest (ICE) 383
 1 Snow-Covered Island (ICE) 371
 1 Sol Ring (MOC) 381
+1 Springheart Nantuko (MH3) 341
 1 Storm Cauldron (ALL) 134
 1 Talon Gates of Madara (M3C) 134
 1 Tatyova, Benthic Druid (DMR) 203
@@ -88,7 +89,6 @@
 1 Undiscovered Paradise (VIS) 167
 1 Uro, Titan of Nature's Wrath (THB) 229
 1 Vorinclex // The Grand Evolution (MOM) 213
-1 Vorinclex, Voice of Hunger (IMA) 189
 1 Waterlogged Grove (MH1) 249
 1 Wayward Swordtooth (LCC) 263
 1 Windswept Heath (KTK) 248

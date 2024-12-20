@@ -1,11 +1,11 @@
 1 Mishra, Eminent One (BRC) 1
 1 Academy Ruins (MMA) 219
-1 Arcane Denial (ALL) 22b
 1 Arcane Signet (BRC) 132
 1 Arcum Dagsson (CSP) 27
 1 Badlands (3ED) 282
 1 Baleful Strix (MKC) 200
 1 Basalt Monolith (3ED) 235
+1 Basim Ibn Ishaq (ACR) 141
 1 Blasphemous Act (BRC) 113
 1 Blightsteel Colossus (MBS) 99
 1 Blightstep Pathway // Searstep Pathway (KHM) 291

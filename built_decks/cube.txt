@@ -12,6 +12,7 @@ Archon of Cruelty
 Arena of Glory
 Arid Mesa
 Armageddon
+Arwen, Mortal Queen
 Ashen Rider
 Atraxa, Grand Unifier
 Augur of Autumn
@@ -29,11 +30,9 @@ Bazaar of Baghdad
 Benevolent Bodyguard
 Beza, the Bounding Spring
 Birds of Paradise
-Bitter Reunion
 Black Lotus
 Blackcleave Cliffs
 Blade Splicer
-Blazing Rootwalla
 Blightsteel Colossus
 Blood Crypt
 Bloodbraid Challenger
@@ -57,11 +56,11 @@ Brazen Borrower // Petty Theft
 Breeding Pool
 Briarbridge Tracker
 Bring to Light
-Bristly Bill, Spine Sower
 Broadside Bombardiers
 Burst Lightning
 Cabal Ritual
-Cast into the Fire
+Calamity, Galloping Inferno
+Carnage Interpreter
 Cathar Commando
 Caustic Bronco
 Caves of Chaos Adventurer
@@ -69,12 +68,13 @@ Celestial Colonnade
 Chain Lightning
 Chandra, Torch of Defiance
 Channel
-Chart a Course
 Chromatic Star
 Chrome Host Seedshark
 Chrome Mox
 City of Traitors
 Coalition Relic
+Collective Brutality
+Comet, Stellar Pup
 Commercial District
 Concealed Courtyard
 Concealing Curtains // Revealing Eye
@@ -102,7 +102,6 @@ Death-Greeter's Champion
 Deathrite Shaman
 Deep-Cavern Bat
 Delighted Halfling
-Delirium
 Demonic Tutor
 Detective's Phoenix
 Dig Through Time
@@ -136,7 +135,6 @@ Etali, Primal Conqueror // Etali, Primal Sickness
 Eternal Witness
 Eureka
 Everflowing Chalice
-Evolved Sleeper
 Expedition Map
 Exploration
 Expressive Iteration
@@ -147,6 +145,7 @@ Faithless Looting
 Fanatic of Rhonas
 Fastbond
 Fatal Push
+Feywild Caretaker
 Field of the Dead
 Fiery Confluence
 Fiery Islet
@@ -165,9 +164,9 @@ Forensic Gadgeteer
 Forth Eorlingas!
 Fractured Identity
 Frantic Search
-From the Catacombs
 Fury
 Gaea's Cradle
+Gemstone Mine
 Generous Ent
 Generous Plunderer
 Ghost Vacuum
@@ -184,13 +183,11 @@ Green Sun's Zenith
 Grief
 Grim Monolith
 Griselbrand
-Grist, the Hunger Tide
 Gruul Turf
-Gush
 Gut, True Soul Zealot
 Hallowed Fountain
-Harsh Mentor
 Haywire Mite
+Headliner Scarlett
 Hedge Maze
 Hero of Bladehold
 Hexdrinker
@@ -206,10 +203,12 @@ Indatha Triome
 Infernal Grasp
 Inquisition of Kozilek
 Inspiring Vantage
+Inti, Seneschal of the Sun
 Intrepid Adversary
 Invert Polarity
 Jace, the Mind Sculptor
 Jace, Vryn's Prodigy // Jace, Telepath Unbound
+Jacked Rabbit
 Jegantha, the Wellspring
 Jetmir's Garden
 Kaervek, the Punisher
@@ -219,8 +218,6 @@ Kappa Cannoneer
 Karakas
 Karn, Scion of Urza
 Ketria Triome
-Kitesail Larcenist
-Knight of Autumn
 Knight of the Reliquary
 Kolaghan's Command
 Kroxa, Titan of Death's Hunger
@@ -236,6 +233,7 @@ Life from the Loam
 Lightning Bolt
 Lightning Greaves
 Liliana of the Veil
+Lim-Dûl's Vault
 Lingering Souls
 Lion Sash
 Lion's Eye Diamond
@@ -278,6 +276,7 @@ Mox Opal
 Mox Pearl
 Mox Ruby
 Mox Sapphire
+Mutavault
 Myr Battlesphere
 Mystic Confluence
 Mystical Tutor
@@ -292,7 +291,6 @@ Nissa, Who Shakes the World
 No More Lies
 Noble Hierarch
 Nurturing Peatland
-Oath of Druids
 Ocelot Pride
 Oko, Thief of Crowns
 Oliphaunt
@@ -305,11 +303,14 @@ Otharri, Suns' Glory
 Oust
 Outland Liberator // Frenzied Trapbreaker
 Overgrown Tomb
-Palace Jailer
+Overlord of the Balemurk
+Overlord of the Hauntwoods
 Palantír of Orthanc
 Paradise Druid
+Passageway Seer
 Path to Exile
 Pentad Prism
+Persist
 Pest Infestation
 Phantasmal Image
 Phelia, Exuberant Shepherd
@@ -319,7 +320,6 @@ Phyrexian Revoker
 Pick Your Poison
 Pile On
 Pillage the Bog
-Planar Genesis
 Plateau
 Polluted Delta
 Ponder
@@ -335,8 +335,8 @@ Prismatic Vista
 Psychic Frog
 Pyrogoyf
 Pyrokinesis
-Qasali Pridemage
 Questing Beast
+Raffine, Scheming Seer
 Raffine's Tower
 Ragavan, Nimble Pilferer
 Raging Ravine
@@ -347,6 +347,7 @@ Raugrin Triome
 Razorverge Thicket
 Reanimate
 Reckless Pyrosurfer
+Reckless Stormseeker // Storm-Charged Slasher
 Reclamation Sage
 Relic of Progenitus
 Relic of Sauron
@@ -374,11 +375,11 @@ Scrubland
 Seachrome Coast
 Seasoned Pyromancer
 Seething Song
-Selesnya Sanctuary
 Selfless Spirit
 Selvala, Eager Trailblazer
 Sensei's Divining Top
 Sentinel of the Nameless City
+Seraphic Steed
 Serra Paragon
 Serum Visions
 Sevinne's Reclamation
@@ -391,7 +392,6 @@ Sheoldred, the Apocalypse
 Shoot the Sheriff
 Shorikai, Genesis Engine
 Show and Tell
-Showdown of the Skalds
 Silent Clearing
 Simic Growth Chamber
 Six
@@ -406,7 +406,6 @@ Snuff Out
 Sol Ring
 Solitude
 Soul-Guide Lantern
-Souls of the Lost
 Sowing Mycospawn
 Spara's Headquarters
 Spell Pierce
@@ -416,7 +415,6 @@ Spirebluff Canal
 Springheart Nantuko
 Steam Vents
 Stern Scolding
-Stitcher's Supplier
 Stomping Ground
 Stoneforge Mystic
 Strip Mine
@@ -426,6 +424,7 @@ Sun-Blessed Healer
 Sunbaked Canyon
 Sundering Titan
 Survival of the Fittest
+Suspicious Stowaway // Seafaring Werewolf
 Sword of the Meek
 Swords to Plowshares
 Sylvan Caryatid
@@ -473,7 +472,7 @@ Tireless Tracker
 Tishana's Tidebinder
 Titania, Protector of Argoth
 Tolarian Academy
-Tolsimir, Midnight's Light
+Torsten, Founder of Benalia
 Touch the Spirit Realm
 Toxic Deluge
 Treachery
@@ -482,6 +481,7 @@ Tribal Flames
 Trinket Mage
 Troll of Khazad-dûm
 Tropical Island
+True-Name Nemesis
 Trumpeting Carnosaur
 Tundra
 Ulamog, the Ceaseless Hunger
@@ -500,6 +500,7 @@ Unholy Heat
 Upheaval
 Urborg, Tomb of Yawgmoth
 Uro, Titan of Nature's Wrath
+Ursine Monstrosity
 Urza, Lord High Artificer
 Urza's Saga
 Usher of the Fallen
@@ -521,11 +522,10 @@ Waterlogged Grove
 Watery Grave
 Wheel of Fortune
 White Orchid Phantom
+White Plume Adventurer
 Wight of the Reliquary
 Windswept Heath
 Wishclaw Talisman
-Witherbloom Command
-Wojek Investigator
 Wooded Foothills
 Woodfall Primus
 Worldspine Wurm

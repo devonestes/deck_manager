@@ -1,23 +1,17 @@
-Aurelia, the Law Above (PROXY)
-Clever Concealment (PROXY)
-Conjurer's Mantle (PROXY)
-Elesh Norn, Grand Cenobite (PROXY)
-Forth Eorlingas! (PROXY)
-Recruiter of the Guard (PROXY)
-Serra Ascendant (PROXY)
-Sundown Pass (PROXY)
-Talisman of Creativity (PROXY)
-Weathered Wayfarer (PROXY)
 Aragorn, King of Gondor
 Adarkar Wastes
 Adeline, Resplendent Cathar
+Adriana, Captain of the Guard
 Akroma's Will
 Ancient Tomb
+Angelic Field Marshal
+Arcane Denial
 Arcane Signet
 Archivist of Gondor
 Arid Mesa
 Aurelia, the Warleader
 Azure Fleet Admiral
+Bastion Protector
 Battlefield Forge
 Beregond of the Guard
 Blade Historian
@@ -30,6 +24,7 @@ Combat Celebrant
 Command Tower
 Coppercoat Vanguard
 Court of Grace
+Court of Ire
 Court of Vantress
 Cyclonic Rift
 Deserted Beach
@@ -46,6 +41,7 @@ Goldbug, Humanity's Ally // Goldbug, Scrappy Scout
 Greymond, Avacyn's Stalwart
 Hallowed Fountain
 Horn of Gondor
+Horn of the Mark
 Imperial Recruiter
 Island
 Kiki-Jiki, Mirror Breaker
@@ -60,10 +56,12 @@ Odric, Master Tactician
 Otawara, Soaring City
 Palace Jailer
 Path of Ancestry
+Path to Exile
 Plains
 Plains
 Plains
 Port Razer
+Pramikon, Sky Rampart
 Prince Imrahil the Fair
 Professional Face-Breaker
 Ragavan, Nimble Pilferer
@@ -85,6 +83,7 @@ Sol Ring
 Spectator Seating
 Steam Vents
 Stormcarved Coast
+Sulfur Falls
 Swan Song
 Swords to Plowshares
 Talisman of Conviction
@@ -96,5 +95,6 @@ Throne of the High City
 Tithe
 Training Center
 Tundra
+Unbreakable Formation
 Valkyrie's Call
 Wayfarer's Bauble
