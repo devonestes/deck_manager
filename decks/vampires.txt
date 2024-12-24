@@ -1,6 +1,7 @@
 1 Edgar Markov (C17) 36
 1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
 1 Akroma's Will (CMR) 615
+1 Ancient Tomb (TMP) 315
 1 Anguished Unmaking (SLD) 138
 1 Arcane Signet (MOC) 348
 1 Arid Mesa (MM3) 229
@@ -32,7 +33,6 @@
 1 Damn (LCC) 191
 1 Dark Ritual (3ED) 99
 1 Demonic Tutor (3ED) 105
-1 Diabolic Intent (PLS) 42
 1 Dictate of Erebos (JOU) 65
 1 Dragonskull Summit (SLD) 458
 1 Drana and Linvala (PMOM) 222p
@@ -52,6 +52,7 @@
 1 Indulgent Aristocrat (LCC) 200
 1 Isolated Chapel (LCC) 337
 1 Kindred Dominance (CMM) 640
+1 Legion Lieutenant (LCC) 275
 1 Luxury Suite (ZNE) 18
 1 Markov Baron (MAT) 14
 1 Marsh Flats (MM3) 239
@@ -59,7 +60,6 @@
 1 Mountain (J22) 107
 1 New Blood (LCC) 202
 1 Nighthawk Scavenger (LCC) 203
-1 Olivia's Wrath (LCC) 205
 1 Pact of the Serpent (LCC) 206
 1 Path of Ancestry (MOC) 418
 1 Patriarch's Bidding (MH2) 275
@@ -70,9 +70,11 @@
 1 Roaming Throne (LCI) 344
 1 Ruinous Ultimatum (PIP) 220
 1 Sacred Foundry (UNF) 285
+1 Sanctum Seeker (LCC) 209
 1 Sanguine Bond (LTC) 208
 1 Savai Triome (IKO) 312
 1 Scrubland (3ED) 286
+1 Shared Animosity (LTC) 226
 1 Shattered Sanctum (VOW) 283
 1 Skullclamp (DST) 140
 1 Sol Ring (MOC) 381
@@ -96,5 +98,3 @@
 1 Vito, Thorn of the Dusk Rose (M21) 127
 1 Vraan, Executioner Thane (ONE) 114
 1 Welcoming Vampire (LCC) 140
-1 Wheel of Fortune (3ED) 185
-1 Word of Command (2ED) 137

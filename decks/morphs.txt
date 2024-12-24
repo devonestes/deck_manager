@@ -15,8 +15,8 @@
 1 Command Tower (C19) 237
 1 Craterhoof Behemoth (AVR) 172
 1 Cryptic Coat (MKM) 50
-1 Crystal Shard (MRD) 159
 1 Cyclonic Rift (RTR) 35
+1 Deadly Rollick (CMM) 695
 1 Deathcap Glade (VOW) 281
 1 Deathmist Raptor (C19) 160
 1 Den Protector (C19) 161
@@ -25,6 +25,7 @@
 1 Etrata, Deadly Fugitive (MKM) 200
 1 Experiment Twelve (MKC) 37
 1 Farseek (C19) 165
+1 Fierce Guardianship (CMM) 694
 1 Flooded Grove (LTC) 309
 1 Flourishing Bloom-Kin (MKM) 160
 1 Forest (LTR) 270
@@ -33,7 +34,6 @@
 1 Grim Haruspex (C19) 118
 1 Guardian Project (RNA) 130
 1 Heroic Intervention (LTC) 249
-1 Hide in Plain Sight (MKM) 166
 1 High Fae Trickster (FDN) 40
 1 Hooded Hydra (C19) 172
 1 Icefeather Aven (C19) 194

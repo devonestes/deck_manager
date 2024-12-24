@@ -5,6 +5,7 @@ Arachnogenesis (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
 Charismatic Conqueror (PROXY)
+Cyclonic Rift (PROXY)
 Delighted Halfling (PROXY)
 Deserted Beach (PROXY)
 Dreamroot Cascade (PROXY)
@@ -12,6 +13,7 @@ Dryad Arbor (PROXY)
 Elven Chorus (PROXY)
 Flooded Grove (PROXY)
 Flooded Strand (PROXY)
+Heroic Intervention (PROXY)
 Hinterland Harbor (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
@@ -43,7 +45,6 @@ Bramble Sovereign
 Caretaker's Talent
 Cauldron of Souls
 Command Tower
-Cyclonic Rift
 Damning Verdict
 Danny Pink
 Detective of the Month
@@ -66,7 +67,6 @@ Gyre Sage
 Hallowed Fountain
 Herald of Secret Streams
 Herd Baloth
-Heroic Intervention
 Imperious Perfect
 Incubation Druid
 Inspiring Call

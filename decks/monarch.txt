@@ -29,6 +29,7 @@
 1 Cyclonic Rift (RTR) 35
 1 Deserted Beach (MID) 281
 1 Dolmen Gate (LRW) 256
+1 Elegant Parlor (MKM) 325
 1 Esper Sentinel (MH2) 12
 1 Faerie Mastermind (PMOM) 58p
 1 Faramir, Prince of Ithilien (LTR) 319
@@ -48,6 +49,7 @@
 1 Loran of the Third Path (BRO) 12
 1 Luminous Broodmoth (BLC) 144
 1 Mass Appeal (AVR) 66
+1 Meticulous Archive (MKM) 328
 1 Minamo, School at Water's Edge (CHK) 279
 1 Mountain (LTR) 268
 1 Mystic Gate (CMM) 1013
@@ -59,7 +61,6 @@
 1 Path to Exile (LTC) 175
 3 Plains (LTR) 263
 1 Port Razer (LCC) 230
-1 Pramikon, Sky Rampart (C19) 47
 1 Prince Imrahil the Fair (LTR) 219
 1 Professional Face-Breaker (J22) 581
 1 Ragavan, Nimble Pilferer (MUL) 21
@@ -95,4 +96,3 @@
 1 Tundra (3ED) 289
 1 Unbreakable Formation (LTC) 179
 1 Valkyrie's Call (FDN) 27
-1 Wayfarer's Bauble (LTC) 290

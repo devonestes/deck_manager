@@ -37,6 +37,7 @@
 1 Genasi Enforcers (CLB) 177
 1 Giver of Runes (MH1) 13
 1 Grenzo, Havoc Raiser (M3C) 213
+1 Heroic Intervention (LTC) 249
 1 Horizon Canopy (LTC) 366
 1 Hushbringer (ELD) 18
 1 Hushwing Gryff (M15) 15
@@ -45,7 +46,6 @@
 1 Kellan, Daring Traveler // Journey On (LCI) 231
 1 Kutzil, Malamet Exemplar (LCI) 304
 1 Legolas's Quick Reflexes (LTC) 493
-1 Linvala, Keeper of Silence (ROE) 33
 1 Llanowar Elves (3ED) 211
 1 Loran of the Third Path (BRO) 12
 1 Marsh Flats (MM3) 239
@@ -56,7 +56,6 @@
 1 Ocelot Pride (MH3) 394
 1 Ohran Frostfang (SLD) 237
 1 Oltec Matterweaver (PW24) 12
-1 Path to Exile (MOC) 198
 1 Plains (J22) 98
 1 Plateau (3ED) 284
 1 Polygoyf (M3C) 117
@@ -83,6 +82,7 @@
 1 Sunpetal Grove (SLD) 460
 1 Sylvan Safekeeper (C14) 217
 1 Taiga (3ED) 287
+1 Teferi's Protection (SLD) 1691
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147
 1 Thalia, Guardian of Thraben (VOW) 38

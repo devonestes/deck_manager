@@ -1,4 +1,5 @@
 Ancient Copper Dragon (PROXY)
+Ancient Tomb (PROXY)
 Balefire Dragon (PROXY)
 Bloodstained Mire (PROXY)
 Breeding Pool (PROXY)
@@ -27,7 +28,6 @@ Zagoth Triome (PROXY)
 Ziatora's Proving Ground (PROXY)
 The Ur-Dragon
 Ancient Silver Dragon
-Ancient Tomb
 Arcane Signet
 Atarka, World Render
 Badlands

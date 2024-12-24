@@ -15,8 +15,8 @@ Chromeshell Crab
 Command Tower
 Craterhoof Behemoth
 Cryptic Coat
-Crystal Shard
 Cyclonic Rift
+Deadly Rollick
 Deathcap Glade
 Deathmist Raptor
 Den Protector
@@ -25,6 +25,7 @@ Elven Chorus
 Etrata, Deadly Fugitive
 Experiment Twelve
 Farseek
+Fierce Guardianship
 Flooded Grove
 Flourishing Bloom-Kin
 Forest
@@ -33,7 +34,6 @@ Grazilaxx, Illithid Scholar
 Grim Haruspex
 Guardian Project
 Heroic Intervention
-Hide in Plain Sight
 High Fae Trickster
 Hooded Hydra
 Icefeather Aven

@@ -11,6 +11,7 @@ Bite Down
 Branching Evolution
 Cinder Glade
 Command Tower
+Commercial District
 Contest of Claws
 Cosmic Hunger
 Court of Garenbrig
@@ -20,8 +21,6 @@ Domri, Anarch of Bolas
 Elvish Mystic
 Embercleave
 Enduring Courage
-Forest
-Forest
 Forest
 Forest
 Forest
@@ -63,7 +62,6 @@ Mountain
 Mountain
 Mountain
 Mountain
-Mountain
 Mutant's Prey
 Neyith of the Dire Hunt
 Ohran Frostfang
@@ -73,6 +71,7 @@ Quilled Greatwurm
 Rabid Gnaw
 Railway Brawler
 Ram Through
+Restless Ridgeline
 Rhonas the Indomitable
 Rhythm of the Wild
 Rogue's Passage
@@ -98,3 +97,4 @@ Wild Growth
 Wooded Foothills
 Worldslayer
 Xenagos, God of Revels
+Yavimaya, Cradle of Growth

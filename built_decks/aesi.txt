@@ -34,6 +34,7 @@ Forest
 Greensleeves, Maro-Sorcerer
 Growth Spiral
 Halimar Depths
+Hedge Maze
 Hinterland Harbor
 Hydroid Krasis
 Island
@@ -87,7 +88,6 @@ Storm Cauldron
 Talon Gates of Madara
 Tatyova, Benthic Druid
 Thawing Glaciers
-Thespian's Stage
 Tireless Provisioner
 Titania, Protector of Argoth
 Undiscovered Paradise

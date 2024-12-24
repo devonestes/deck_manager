@@ -1,6 +1,7 @@
 Edgar Markov
 Agadeem's Awakening // Agadeem, the Undercrypt
 Akroma's Will
+Ancient Tomb
 Anguished Unmaking
 Arcane Signet
 Arid Mesa
@@ -32,7 +33,6 @@ Cruel Celebrant
 Damn
 Dark Ritual
 Demonic Tutor
-Diabolic Intent
 Dictate of Erebos
 Dragonskull Summit
 Drana and Linvala
@@ -52,6 +52,7 @@ Immersturm Predator
 Indulgent Aristocrat
 Isolated Chapel
 Kindred Dominance
+Legion Lieutenant
 Luxury Suite
 Markov Baron
 Marsh Flats
@@ -59,7 +60,6 @@ Master of Dark Rites
 Mountain
 New Blood
 Nighthawk Scavenger
-Olivia's Wrath
 Pact of the Serpent
 Path of Ancestry
 Patriarch's Bidding
@@ -70,9 +70,11 @@ Reflecting Pool
 Roaming Throne
 Ruinous Ultimatum
 Sacred Foundry
+Sanctum Seeker
 Sanguine Bond
 Savai Triome
 Scrubland
+Shared Animosity
 Shattered Sanctum
 Skullclamp
 Sol Ring
@@ -96,5 +98,3 @@ Viscera Seer
 Vito, Thorn of the Dusk Rose
 Vraan, Executioner Thane
 Welcoming Vampire
-Wheel of Fortune
-Word of Command

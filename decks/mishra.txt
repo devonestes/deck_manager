@@ -8,18 +8,17 @@
 1 Basim Ibn Ishaq (ACR) 141
 1 Blasphemous Act (BRC) 113
 1 Blightsteel Colossus (MBS) 99
-1 Blightstep Pathway // Searstep Pathway (KHM) 291
 1 Blood Crypt (UNF) 279
 1 Bloodsoaked Insight // Sanguine Morass (MH3) 252
 1 Bloodstained Mire (KTK) 230
 1 Cascade Bluffs (CMM) 990
-1 Chaos Warp (PW24) 7
 1 Chimil, the Inner Sun (LCI) 249
 1 Cityscape Leveler (BRO) 363
 1 Coldsteel Heart (2X2) 301
 1 Command Tower (BRC) 178
 1 Cursed Mirror (BRC) 115
 1 Cyberdrive Awakener (NEC) 12
+1 Cyclonic Rift (RVR) 313
 1 Darksteel Citadel (DST) 164
 1 Darksteel Forge (M14) 206
 1 Deadly Dispute (P30A) 29
@@ -33,6 +32,7 @@
 1 Fomori Vault (BIG) 59
 1 Gonti's Aether Heart (M3C) 294
 1 Great Furnace (BRC) 187
+1 Haunted Ridge (MID) 282
 1 Hedron Archive (BRC) 142
 1 Ichor Wellspring (BRC) 143
 1 Idol of Oblivion (BRC) 144
@@ -56,8 +56,8 @@
 1 Mystic Forge (CMM) 964
 1 Polluted Delta (KTK) 239
 1 Portal to Phyrexia (BRO) 365
+1 Raucous Theater (MKM) 329
 1 Rise and Shine (MH2) 58
-1 Riverglide Pathway // Lavaglide Pathway (ZNR) 289
 1 RMS Titanic (WHO) 93
 1 Rolling Hamsphere (BLC) 39
 1 Scalding Tarn (MM3) 244

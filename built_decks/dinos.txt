@@ -23,6 +23,7 @@ Spectator Seating (PROXY)
 Spire Garden (PROXY)
 Stomping Ground (PROXY)
 Sundown Pass (PROXY)
+Teferi's Protection (PROXY)
 The Great Henge (PROXY)
 The Skullspore Nexus (PROXY)
 Tithe (PROXY)
@@ -84,7 +85,6 @@ Sol Ring
 Sunfrill Imitator
 Sunhome, Fortress of the Legion
 Sunpetal Grove
-Teferi's Protection
 Temple Altisaur
 Temple Garden
 Thrashing Brontodon

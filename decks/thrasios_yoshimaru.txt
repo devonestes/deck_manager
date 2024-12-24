@@ -11,7 +11,6 @@
 1 Birds of Paradise (4ED) 234
 1 Bloom Tender (EVE) 66
 1 Boseiju, Who Endures (NEO) 501
-1 Bountiful Promenade (ZNE) 20
 1 Breeding Pool (RVR) 399
 1 Cephalid Coliseum (MH3) 300
 1 Chord of Calling (RAV) 156
@@ -45,6 +44,7 @@
 1 Grand Abolisher (SLD) 1285
 1 Green Sun's Zenith (2X2) 150
 1 Hallowed Fountain (RVR) 404
+1 Hedge Maze (MKM) 326
 1 Intuition (TMP) 70
 1 Island (BLB) 266
 1 Isochron Scepter (MRD) 188
@@ -57,6 +57,7 @@
 1 Mana Drain (OTP) 11
 1 Mana Vault (2ED) 260
 1 Marsh Flats (MH2) 437
+1 Meticulous Archive (MKM) 328
 1 Mindbreak Trap (ZEN) 57
 1 Misty Rainforest (MH2) 438
 1 Mox Amber (DOM) 224
@@ -73,7 +74,6 @@
 1 Plains (J22) 98
 1 Polluted Delta (MH3) 438
 1 Ranger-Captain of Eos (MH1) 21
-1 Rejuvenating Springs (LTC) 325
 1 Rhystic Study (J22) 114
 1 Rings of Brighthearth (LRW) 259
 1 Savannah (3ED) 285

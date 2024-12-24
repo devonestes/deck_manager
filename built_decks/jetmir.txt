@@ -37,6 +37,7 @@ Fyndhorn Elves
 Genasi Enforcers
 Giver of Runes
 Grenzo, Havoc Raiser
+Heroic Intervention
 Horizon Canopy
 Hushbringer
 Hushwing Gryff
@@ -45,7 +46,6 @@ Karplusan Forest
 Kellan, Daring Traveler // Journey On
 Kutzil, Malamet Exemplar
 Legolas's Quick Reflexes
-Linvala, Keeper of Silence
 Llanowar Elves
 Loran of the Third Path
 Marsh Flats
@@ -56,7 +56,6 @@ Myrel, Shield of Argive
 Ocelot Pride
 Ohran Frostfang
 Oltec Matterweaver
-Path to Exile
 Plains
 Plateau
 Polygoyf
@@ -83,6 +82,7 @@ Sunbaked Canyon
 Sunpetal Grove
 Sylvan Safekeeper
 Taiga
+Teferi's Protection
 Temple Garden
 Tendershoot Dryad
 Thalia, Guardian of Thraben

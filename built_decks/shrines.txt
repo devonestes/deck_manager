@@ -24,6 +24,7 @@ Forest
 Ghostly Prison
 Ghoulish Impetus
 Glacial Fortress
+Gloomlake Verge
 Go-Shintai of Ancient Wars
 Go-Shintai of Boundless Vigor
 Go-Shintai of Hidden Cruelty
@@ -44,6 +45,7 @@ Inquisitive Glimmer
 Island
 Jetmir's Garden
 Jukai Naturalist
+Lush Portico
 Mirari's Wake
 Misty Rainforest
 Moat
@@ -66,7 +68,6 @@ Sanctum of Shattered Heights
 Sanctum of Stone Fangs
 Sanctum of Tranquil Light
 Sanctum Weaver
-Savai Triome
 Sea of Clouds
 Setessan Champion
 Shadow of the Second Sun
@@ -77,7 +78,6 @@ Spara's Headquarters
 Spectator Seating
 Sphere of Safety
 Starfield Mystic
-Steam Vents
 Sterling Grove
 Sunpetal Grove
 Swamp
@@ -86,6 +86,7 @@ Sythis, Harvest's Hand
 Teferi's Protection
 Temple Garden
 The World Tree
+Training Center
 Undergrowth Stadium
 Valgavoth's Lair
 Vampiric Tutor
@@ -94,7 +95,6 @@ Verduran Enchantress
 Watery Grave
 Windswept Heath
 Wooded Bastion
-Yavimaya Coast
 Zagoth Triome
 Ziatora's Proving Ground
 Zur the Enchanter

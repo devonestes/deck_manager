@@ -24,6 +24,7 @@
 1 Ghostly Prison (ONC) 71
 1 Ghoulish Impetus (CMM) 732
 1 Glacial Fortress (LTC) 315
+1 Gloomlake Verge (DSK) 331
 1 Go-Shintai of Ancient Wars (NEO) 144
 1 Go-Shintai of Boundless Vigor (NEO) 187
 1 Go-Shintai of Hidden Cruelty (NEO) 97
@@ -44,6 +45,7 @@
 1 Island (ONE) 263
 1 Jetmir's Garden (SNC) 291
 1 Jukai Naturalist (NEO) 225
+1 Lush Portico (MKM) 327
 1 Mirari's Wake (C17) 181
 1 Misty Rainforest (MM3) 240
 1 Moat (LEG) 28
@@ -66,7 +68,6 @@
 1 Sanctum of Stone Fangs (M21) 120
 1 Sanctum of Tranquil Light (M21) 33
 1 Sanctum Weaver (MH2) 171
-1 Savai Triome (IKO) 312
 1 Sea of Clouds (BBD) 84
 1 Setessan Champion (CMM) 912
 1 Shadow of the Second Sun (MH3) 70
@@ -77,7 +78,6 @@
 1 Spectator Seating (CMM) 664
 1 Sphere of Safety (DSC) 104
 1 Starfield Mystic (M20) 39
-1 Steam Vents (UNF) 283
 1 Sterling Grove (MH2) 293
 1 Sunpetal Grove (SLD) 460
 1 Swamp (MOM) 279
@@ -86,6 +86,7 @@
 1 Teferi's Protection (C17) 8
 1 Temple Garden (UNF) 281
 1 The World Tree (KHM) 373
+1 Training Center (CMM) 665
 1 Undergrowth Stadium (CMM) 666
 1 Valgavoth's Lair (DSK) 271
 1 Vampiric Tutor (VIS) 72
@@ -94,7 +95,6 @@
 1 Watery Grave (UNF) 278
 1 Windswept Heath (EXP) 20
 1 Wooded Bastion (SHM) 281
-1 Yavimaya Coast (DMU) 261
 1 Zagoth Triome (IKO) 313
 1 Ziatora's Proving Ground (SNC) 295
 1 Zur the Enchanter (DMR) 374

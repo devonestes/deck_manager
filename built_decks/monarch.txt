@@ -29,6 +29,7 @@ Court of Vantress
 Cyclonic Rift
 Deserted Beach
 Dolmen Gate
+Elegant Parlor
 Esper Sentinel
 Faerie Mastermind
 Faramir, Prince of Ithilien
@@ -48,6 +49,7 @@ Kiki-Jiki, Mirror Breaker
 Loran of the Third Path
 Luminous Broodmoth
 Mass Appeal
+Meticulous Archive
 Minamo, School at Water's Edge
 Mountain
 Mystic Gate
@@ -61,7 +63,6 @@ Plains
 Plains
 Plains
 Port Razer
-Pramikon, Sky Rampart
 Prince Imrahil the Fair
 Professional Face-Breaker
 Ragavan, Nimble Pilferer
@@ -97,4 +98,3 @@ Training Center
 Tundra
 Unbreakable Formation
 Valkyrie's Call
-Wayfarer's Bauble

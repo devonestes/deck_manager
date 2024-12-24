@@ -8,18 +8,17 @@ Basalt Monolith
 Basim Ibn Ishaq
 Blasphemous Act
 Blightsteel Colossus
-Blightstep Pathway // Searstep Pathway
 Blood Crypt
 Bloodsoaked Insight // Sanguine Morass
 Bloodstained Mire
 Cascade Bluffs
-Chaos Warp
 Chimil, the Inner Sun
 Cityscape Leveler
 Coldsteel Heart
 Command Tower
 Cursed Mirror
 Cyberdrive Awakener
+Cyclonic Rift
 Darksteel Citadel
 Darksteel Forge
 Deadly Dispute
@@ -33,6 +32,7 @@ Fabricate
 Fomori Vault
 Gonti's Aether Heart
 Great Furnace
+Haunted Ridge
 Hedron Archive
 Ichor Wellspring
 Idol of Oblivion
@@ -56,8 +56,8 @@ Mox Opal
 Mystic Forge
 Polluted Delta
 Portal to Phyrexia
+Raucous Theater
 Rise and Shine
-Riverglide Pathway // Lavaglide Pathway
 RMS Titanic
 Rolling Hamsphere
 Scalding Tarn

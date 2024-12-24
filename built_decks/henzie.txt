@@ -23,6 +23,7 @@ Commercial District
 Culling Ritual
 Cultivate
 Deadly Rollick
+Deflecting Swat
 Delighted Halfling
 Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
@@ -79,7 +80,6 @@ Solemn Simulacrum
 Spire Garden
 Stomping Ground
 Stump Stomp // Burnwillow Clearing
-Sundial of the Infinite
 Swamp
 Swamp
 Swamp
