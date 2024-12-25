@@ -20,7 +20,6 @@
 1 Eureka Moment (M3C) 260
 1 Exotic Orchard (MOC) 398
 1 Farhaven Elf (LTC) 243
-1 Fiery Islet (MH1) 238
 1 Flooded Strand (MH3) 436
 5 Forest (J22) 110
 1 Frantic Search (UMA) 57
@@ -80,4 +79,5 @@
 1 Volcanic Island (3ED) 291
 1 Windswept Heath (MH3) 440
 1 Wood Elves (LTC) 263
+1 Wooded Foothills (MH3) 441
 1 Yavimaya Coast (DMU) 261

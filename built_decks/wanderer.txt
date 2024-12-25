@@ -1,10 +1,12 @@
 Ancient Copper Dragon (PROXY)
+Ancient Tomb (PROXY)
 Breeding Pool (PROXY)
 Entish Restoration (PROXY)
 Fiery Emancipation (PROXY)
 Fire-Lit Thicket (PROXY)
 Kodama's Reach (PROXY)
 Kogla, the Titan Ape (PROXY)
+Misty Rainforest (PROXY)
 Nyxbloom Ancient (PROXY)
 Old Gnawbone (PROXY)
 Oracle of Mul Daya (PROXY)
@@ -14,6 +16,7 @@ Scalding Tarn (PROXY)
 Scroll Rack (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Skyshroud Claim (PROXY)
+Spire Garden (PROXY)
 Stomping Ground (PROXY)
 Time Warp (PROXY)
 Training Center (PROXY)
@@ -22,7 +25,6 @@ Uro, Titan of Nature's Wrath (PROXY)
 Vorinclex // The Grand Evolution (PROXY)
 Wooded Foothills (PROXY)
 Maelstrom Wanderer
-Ancient Tomb
 Arcane Signet
 Balefire Dragon
 Boseiju, Who Endures
@@ -56,7 +58,6 @@ Kogla and Yidaro
 Koma, Cosmos Serpent
 Migration Path
 Misthollow Griffin
-Misty Rainforest
 Monstrous Vortex
 Mountain
 Mountain
@@ -81,7 +82,6 @@ Snow-Covered Forest
 Snow-Covered Island
 Snow-Covered Mountain
 Sol Ring
-Spire Garden
 Steam Vents
 Stormcarved Coast
 Sulfur Falls

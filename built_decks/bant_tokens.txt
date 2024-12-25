@@ -2,6 +2,7 @@ Adeline, Resplendent Cathar (PROXY)
 Akroma's Will (PROXY)
 Ancient Tomb (PROXY)
 Arachnogenesis (PROXY)
+Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
 Charismatic Conqueror (PROXY)
@@ -39,7 +40,6 @@ Avenger of Zendikar
 Beast Whisperer
 Bennie Bracks, Zoologist
 Birds of Paradise
-Boseiju, Who Endures
 Bountiful Promenade
 Bramble Sovereign
 Caretaker's Talent

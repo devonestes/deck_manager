@@ -51,6 +51,7 @@ Khalni Ambush // Khalni Territory
 Lion Umbra
 Llanowar Elves
 Mage Slayer
+Misty Rainforest
 Mossfire Valley
 Mountain
 Mountain
@@ -94,7 +95,6 @@ Unnatural Growth
 Vigor
 Waltz of Rage
 Wild Growth
-Wooded Foothills
 Worldslayer
 Xenagos, God of Revels
 Yavimaya, Cradle of Growth

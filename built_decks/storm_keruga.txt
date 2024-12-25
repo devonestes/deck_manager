@@ -20,7 +20,6 @@ Elvish Spirit Guide
 Eureka Moment
 Exotic Orchard
 Farhaven Elf
-Fiery Islet
 Flooded Strand
 Forest
 Forest
@@ -97,4 +96,5 @@ Veyran, Voice of Duality
 Volcanic Island
 Windswept Heath
 Wood Elves
+Wooded Foothills
 Yavimaya Coast

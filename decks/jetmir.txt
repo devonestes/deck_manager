@@ -7,10 +7,11 @@
 1 Archivist of Oghma (CLB) 4
 1 Arid Mesa (MM3) 229
 1 Aurelia, the Law Above (MKM) 188
-1 Battlefield Forge (BRO) 257
 1 Birds of Paradise (4ED) 234
 1 Bloodstained Mire (KTK) 230
 1 Bloom Tender (EVE) 66
+1 Boseiju, Who Endures (NEO) 266
+1 Bountiful Promenade (ZNE) 20
 1 Brimaz, King of Oreskos (BNG) 5
 1 Champion of Lambholt (NCC) 284
 1 Charismatic Conqueror (LCC) 70
@@ -38,10 +39,8 @@
 1 Giver of Runes (MH1) 13
 1 Grenzo, Havoc Raiser (M3C) 213
 1 Heroic Intervention (LTC) 249
-1 Horizon Canopy (LTC) 366
 1 Hushbringer (ELD) 18
 1 Hushwing Gryff (M15) 15
-1 Jetmir's Garden (SNC) 291
 1 Karplusan Forest (M3C) 351
 1 Kellan, Daring Traveler // Journey On (LCI) 231
 1 Kutzil, Malamet Exemplar (LCI) 304
@@ -67,6 +66,7 @@
 1 Sacred Foundry (UNF) 285
 1 Sanguine Evangelist (LCI) 34
 1 Saryth, the Viper's Fang (MKC) 185
+1 Savannah (3ED) 285
 1 Scalding Tarn (MM3) 244
 1 Scurry of Squirrels (BLC) 33
 1 Scute Swarm (OTC) 205
@@ -77,8 +77,8 @@
 1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (BOT) 6
 1 Sol Ring (MOC) 381
 1 Song of Totentanz (WOE) 150
+1 Spire Garden (ZNE) 19
 1 Stomping Ground (UNF) 280
-1 Sunbaked Canyon (MH1) 247
 1 Sunpetal Grove (SLD) 460
 1 Sylvan Safekeeper (C14) 217
 1 Taiga (3ED) 287

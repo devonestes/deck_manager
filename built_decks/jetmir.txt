@@ -7,10 +7,11 @@ Arbor Elf
 Archivist of Oghma
 Arid Mesa
 Aurelia, the Law Above
-Battlefield Forge
 Birds of Paradise
 Bloodstained Mire
 Bloom Tender
+Boseiju, Who Endures
+Bountiful Promenade
 Brimaz, King of Oreskos
 Champion of Lambholt
 Charismatic Conqueror
@@ -38,10 +39,8 @@ Genasi Enforcers
 Giver of Runes
 Grenzo, Havoc Raiser
 Heroic Intervention
-Horizon Canopy
 Hushbringer
 Hushwing Gryff
-Jetmir's Garden
 Karplusan Forest
 Kellan, Daring Traveler // Journey On
 Kutzil, Malamet Exemplar
@@ -67,6 +66,7 @@ Rootbound Crag
 Sacred Foundry
 Sanguine Evangelist
 Saryth, the Viper's Fang
+Savannah
 Scalding Tarn
 Scurry of Squirrels
 Scute Swarm
@@ -77,8 +77,8 @@ Skyhunter Strike Force
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist
 Sol Ring
 Song of Totentanz
+Spire Garden
 Stomping Ground
-Sunbaked Canyon
 Sunpetal Grove
 Sylvan Safekeeper
 Taiga

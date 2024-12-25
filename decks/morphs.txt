@@ -4,7 +4,6 @@
 1 All Is Dust (CMM) 800
 1 Aphetto Runecaster (SCG) 28
 1 Arcane Signet (MOC) 348
-1 Assassin's Trophy (GRN) 152
 1 Aveline de Grandpré (ACR) 40
 1 Bayou (3ED) 283
 1 Beast Whisperer (P30A) 26
@@ -14,7 +13,6 @@
 1 Chromeshell Crab (C19) 81
 1 Command Tower (C19) 237
 1 Craterhoof Behemoth (AVR) 172
-1 Cryptic Coat (MKM) 50
 1 Cyclonic Rift (RTR) 35
 1 Deadly Rollick (CMM) 695
 1 Deathcap Glade (VOW) 281
@@ -55,6 +53,7 @@
 1 Polluted Delta (KTK) 239
 1 Printlifter Ooze (MKC) 40
 1 Rampant Growth (M12) 190
+1 Rejuvenating Springs (LTC) 325
 1 Reliquary Tower (C19) 268
 1 Revitalizing Repast // Old-Growth Grove (MH3) 256
 1 Satoru, the Infiltrator (OTJ) 230
@@ -76,8 +75,9 @@
 1 Thousand Winds (C19) 100
 1 Three Visits (MKC) 189
 1 Triumph of the Hordes (NPH) 123
+1 Tropical Island (3ED) 288
 1 Twilight Mire (NCC) 443
-1 Ugin's Mastery (CMM) 718
+1 Undercity Sewers (MKM) 332
 1 Underground Mortuary (MKM) 333
 1 Underground Sea (3ED) 290
 1 Undergrowth Stadium (CMR) 714

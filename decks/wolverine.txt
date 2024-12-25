@@ -40,6 +40,7 @@
 1 Lion Umbra (MH3) 160
 1 Llanowar Elves (3ED) 211
 1 Mage Slayer (HOP) 91
+1 Misty Rainforest (MH2) 438
 1 Mossfire Valley (NCC) 414
 10 Mountain (J22) 107
 1 Mutant's Prey (DGM) 45
@@ -74,7 +75,6 @@
 1 Vigor (BBD) 215
 1 Waltz of Rage (DSK) 165
 1 Wild Growth (DMR) 184
-1 Wooded Foothills (MH3) 441
 1 Worldslayer (M12) 222
 1 Xenagos, God of Revels (LCC) 295
 1 Yavimaya, Cradle of Growth (MH2) 441

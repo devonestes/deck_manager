@@ -1,4 +1,5 @@
 Agadeem's Awakening // Agadeem, the Undercrypt (PROXY)
+Ancient Tomb (PROXY)
 Anguished Unmaking (PROXY)
 Bloodchief Ascension (PROXY)
 Bloodghast (PROXY)
@@ -19,7 +20,6 @@ Weathered Wayfarer (PROXY)
 Bartolomé del Presidio
 Accursed Marauder
 Amalia Benavides Aguirre
-Ancient Tomb
 Animate Dead
 Bitterblossom
 Blade of the Bloodchief

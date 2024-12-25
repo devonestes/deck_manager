@@ -1,6 +1,5 @@
 Akroma's Will (PROXY)
 Anim Pakal, Thousandth Moon (PROXY)
-Blasphemous Act (PROXY)
 Cyclonic Rift (PROXY)
 Danny Pink (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
@@ -35,6 +34,7 @@ Arcbound Slasher
 Arcbound Tracker
 Arcee, Sharpshooter // Arcee, Acrobatic Coupe
 Battlefield Forge
+Blasphemous Act
 Cascade Bluffs
 Cayth, Famed Mechanist
 Chaos Warp

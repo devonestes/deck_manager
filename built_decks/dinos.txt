@@ -8,7 +8,6 @@ Entish Restoration (PROXY)
 Fire-Lit Thicket (PROXY)
 Flawless Maneuver (PROXY)
 Flooded Strand (PROXY)
-Jetmir's Garden (PROXY)
 Kogla and Yidaro (PROXY)
 Last March of the Ents (PROXY)
 Marsh Flats (PROXY)
@@ -59,6 +58,7 @@ Heroic Intervention
 Hulking Raptor
 Hunting Velociraptor
 Invasion of Ikoria // Zilortha, Apex of Ikoria
+Jetmir's Garden
 Mana Confluence
 Marauding Raptor
 Mountain

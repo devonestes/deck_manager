@@ -15,7 +15,6 @@ Bloodghast
 Bloodletter of Aclazotz
 Bloodline Keeper // Lord of Lineage
 Bloodstained Mire
-Bojuka Bog
 Captivating Vampire
 Cavern of Souls
 Caves of Koilos
@@ -61,19 +60,20 @@ Mountain
 New Blood
 Nighthawk Scavenger
 Pact of the Serpent
-Path of Ancestry
 Patriarch's Bidding
 Phyrexian Tower
 Plains
 Redemption Choir
 Reflecting Pool
 Roaming Throne
+Rugged Prairie
 Ruinous Ultimatum
 Sacred Foundry
 Sanctum Seeker
 Sanguine Bond
 Savai Triome
 Scrubland
+Shadowy Backstreet
 Shared Animosity
 Shattered Sanctum
 Skullclamp

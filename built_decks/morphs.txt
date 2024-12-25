@@ -4,7 +4,6 @@ Alchemist's Refuge
 All Is Dust
 Aphetto Runecaster
 Arcane Signet
-Assassin's Trophy
 Aveline de Grandpré
 Bayou
 Beast Whisperer
@@ -14,7 +13,6 @@ Brine Elemental
 Chromeshell Crab
 Command Tower
 Craterhoof Behemoth
-Cryptic Coat
 Cyclonic Rift
 Deadly Rollick
 Deathcap Glade
@@ -56,6 +54,7 @@ Overgrown Tomb
 Polluted Delta
 Printlifter Ooze
 Rampant Growth
+Rejuvenating Springs
 Reliquary Tower
 Revitalizing Repast // Old-Growth Grove
 Satoru, the Infiltrator
@@ -77,8 +76,9 @@ Thieving Amalgam
 Thousand Winds
 Three Visits
 Triumph of the Hordes
+Tropical Island
 Twilight Mire
-Ugin's Mastery
+Undercity Sewers
 Underground Mortuary
 Underground Sea
 Undergrowth Stadium
