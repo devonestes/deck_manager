@@ -86,7 +86,6 @@ Sythis, Harvest's Hand
 Teferi's Protection
 Temple Garden
 The World Tree
-Training Center
 Undergrowth Stadium
 Valgavoth's Lair
 Vampiric Tutor
@@ -95,6 +94,7 @@ Verduran Enchantress
 Watery Grave
 Windswept Heath
 Wooded Bastion
+Wooded Foothills
 Zagoth Triome
 Ziatora's Proving Ground
 Zur the Enchanter

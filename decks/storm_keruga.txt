@@ -20,6 +20,7 @@
 1 Eureka Moment (M3C) 260
 1 Exotic Orchard (MOC) 398
 1 Farhaven Elf (LTC) 243
+1 Fiery Islet (MH1) 238
 1 Flooded Strand (MH3) 436
 5 Forest (J22) 110
 1 Frantic Search (UMA) 57
@@ -50,6 +51,7 @@
 1 Polluted Delta (MH3) 438
 1 Primal Amulet // Primal Wellspring (XLN) 243
 1 Prismari Command (LCC) 279
+1 Rejuvenating Springs (LTC) 325
 1 Sakashima of a Thousand Faces (CMR) 89
 1 Sakashima the Impostor (SOK) 53
 1 Scalding Tarn (MH2) 439
@@ -68,7 +70,6 @@
 1 The One Ring (LTR) 451
 1 Time Warp (STA) 22
 1 Tishana's Tidebinder (LCI) 81
-1 Training Center (CMR) 713
 1 Treachery (UDS) 50
 1 Treasure Cruise (OTC) 120
 1 Twinning Staff (NCC) 383
@@ -79,5 +80,4 @@
 1 Volcanic Island (3ED) 291
 1 Windswept Heath (MH3) 440
 1 Wood Elves (LTC) 263
-1 Wooded Foothills (MH3) 441
 1 Yavimaya Coast (DMU) 261

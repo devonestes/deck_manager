@@ -20,6 +20,7 @@ Elvish Spirit Guide
 Eureka Moment
 Exotic Orchard
 Farhaven Elf
+Fiery Islet
 Flooded Strand
 Forest
 Forest
@@ -67,6 +68,7 @@ Oko, Thief of Crowns
 Polluted Delta
 Primal Amulet // Primal Wellspring
 Prismari Command
+Rejuvenating Springs
 Sakashima of a Thousand Faces
 Sakashima the Impostor
 Scalding Tarn
@@ -85,7 +87,6 @@ Tatyova, Benthic Druid
 The One Ring
 Time Warp
 Tishana's Tidebinder
-Training Center
 Treachery
 Treasure Cruise
 Twinning Staff
@@ -96,5 +97,4 @@ Veyran, Voice of Duality
 Volcanic Island
 Windswept Heath
 Wood Elves
-Wooded Foothills
 Yavimaya Coast

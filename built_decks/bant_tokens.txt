@@ -22,6 +22,7 @@ Noble Hierarch (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Oltec Matterweaver (PROXY)
 Overgrown Farmland (PROXY)
+Rejuvenating Springs (PROXY)
 Rhys the Redeemed (PROXY)
 Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
@@ -83,7 +84,6 @@ Overwhelming Stampede
 Peregrine Drake
 Plains
 Plains
-Rejuvenating Springs
 Rhystic Study
 Ripples of Potential
 Sea of Clouds

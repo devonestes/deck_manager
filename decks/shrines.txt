@@ -86,7 +86,6 @@
 1 Teferi's Protection (C17) 8
 1 Temple Garden (UNF) 281
 1 The World Tree (KHM) 373
-1 Training Center (CMM) 665
 1 Undergrowth Stadium (CMM) 666
 1 Valgavoth's Lair (DSK) 271
 1 Vampiric Tutor (VIS) 72
@@ -95,6 +94,7 @@
 1 Watery Grave (UNF) 278
 1 Windswept Heath (EXP) 20
 1 Wooded Bastion (SHM) 281
+1 Wooded Foothills (KTK) 249
 1 Zagoth Triome (IKO) 313
 1 Ziatora's Proving Ground (SNC) 295
 1 Zur the Enchanter (DMR) 374
