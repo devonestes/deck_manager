@@ -62,7 +62,6 @@ Mountain
 Mountain
 Mountain
 Mountain
-Mountain
 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time
 Oko, Thief of Crowns
 Polluted Delta
@@ -87,6 +86,7 @@ Tatyova, Benthic Druid
 The One Ring
 Time Warp
 Tishana's Tidebinder
+Training Center
 Treachery
 Treasure Cruise
 Twinning Staff

@@ -12,7 +12,6 @@ Deserted Beach (PROXY)
 Dreamroot Cascade (PROXY)
 Dryad Arbor (PROXY)
 Elven Chorus (PROXY)
-Flooded Grove (PROXY)
 Flooded Strand (PROXY)
 Heroic Intervention (PROXY)
 Hinterland Harbor (PROXY)
@@ -33,7 +32,6 @@ Three Visits (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Urza's Saga (PROXY)
 Windswept Heath (PROXY)
-Yavimaya Hollow (PROXY)
 Galadriel, Light of Valinor
 Arcane Signet
 Arwen, Weaver of Hope
@@ -56,6 +54,7 @@ Faerie Artisans
 Faerie Mastermind
 Felidar Retreat
 Fierce Guardianship
+Flooded Grove
 Forest
 Forest
 Forest
@@ -98,3 +97,4 @@ Wave Goodbye
 Windswift Slice
 Witch Enchanter // Witch-Blessed Meadow
 Wolverine Riders
+Yavimaya Hollow

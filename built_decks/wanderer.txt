@@ -11,6 +11,7 @@ Nyxbloom Ancient (PROXY)
 Old Gnawbone (PROXY)
 Oracle of Mul Daya (PROXY)
 Prismatic Vista (PROXY)
+Rejuvenating Springs (PROXY)
 Rockfall Vale (PROXY)
 Scalding Tarn (PROXY)
 Scroll Rack (PROXY)
@@ -19,7 +20,6 @@ Skyshroud Claim (PROXY)
 Spire Garden (PROXY)
 Stomping Ground (PROXY)
 Time Warp (PROXY)
-Training Center (PROXY)
 Up the Beanstalk (PROXY)
 Uro, Titan of Nature's Wrath (PROXY)
 Vorinclex // The Grand Evolution (PROXY)
@@ -67,7 +67,6 @@ Otawara, Soaring City
 Pathbreaker Ibex
 Rampant Growth
 Ranger's Path
-Rejuvenating Springs
 Rishkar's Expertise
 Riverglide Pathway // Lavaglide Pathway
 Sakura-Tribe Elder
@@ -92,6 +91,7 @@ Temur Sabertooth
 Terror of the Peaks
 Three Visits
 Time Spiral
+Training Center
 Turntimber Symbiosis // Turntimber, Serpentine Wood
 Urza's Saga
 Vastwood Surge

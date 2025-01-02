@@ -45,7 +45,7 @@
 1 Misty Rainforest (MH2) 438
 1 Mogg Salvage (MH2) 282
 1 Molten Rain (MRD) 101
-8 Mountain (J22) 107
+7 Mountain (J22) 107
 1 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time (LCI) 67
 1 Oko, Thief of Crowns (ELD) 197
 1 Polluted Delta (MH3) 438
@@ -70,6 +70,7 @@
 1 The One Ring (LTR) 451
 1 Time Warp (STA) 22
 1 Tishana's Tidebinder (LCI) 81
+1 Training Center (CMR) 713
 1 Treachery (UDS) 50
 1 Treasure Cruise (OTC) 120
 1 Twinning Staff (NCC) 383

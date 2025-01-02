@@ -24,7 +24,6 @@ The Great Henge (PROXY)
 The World Tree (PROXY)
 Windswept Heath (PROXY)
 Wooded Foothills (PROXY)
-Zagoth Triome (PROXY)
 Ziatora's Proving Ground (PROXY)
 The Ur-Dragon
 Ancient Silver Dragon
@@ -97,4 +96,5 @@ Tiamat
 Urza's Incubator
 Utvara Hellkite
 Watery Grave
+Zagoth Triome
 Zurgo and Ojutai

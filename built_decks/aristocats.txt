@@ -15,6 +15,7 @@ Shattered Sanctum (PROXY)
 Skullclamp (PROXY)
 Takenuma, Abandoned Mire (PROXY)
 The Meathook Massacre (PROXY)
+Urza's Saga (PROXY)
 Vraan, Executioner Thane (PROXY)
 Weathered Wayfarer (PROXY)
 Bartolomé del Presidio
@@ -91,7 +92,6 @@ Swords to Plowshares
 Teferi's Protection
 Triarch Praetorian
 Urza's Bauble
-Urza's Saga
 Vault of Champions
 Vengeful Bloodwitch
 Village Rites

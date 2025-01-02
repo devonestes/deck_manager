@@ -52,7 +52,6 @@ Lotus Vale
 Lumra, Bellow of the Woods
 Magus of the Candelabra
 Mana Breach
-Mana Reflection
 Misty Rainforest
 Mossborn Hydra
 Mystic Sanctuary
@@ -70,6 +69,7 @@ Polluted Delta
 Prismatic Vista
 Rampaging Baloths
 Ramunap Excavator
+Rejuvenating Springs
 Reliquary Tower
 Retreat to Coralhelm
 Roil Elemental
@@ -78,6 +78,7 @@ Scalding Tarn
 Scapeshift
 Scute Swarm
 Simic Growth Chamber
+Sink into Stupor // Soporific Springs
 Skyshroud Claim
 Skyshroud Ranger
 Snow-Covered Forest
@@ -97,4 +98,3 @@ Waterlogged Grove
 Wayward Swordtooth
 Windswept Heath
 Wooded Foothills
-Yavimaya Hollow

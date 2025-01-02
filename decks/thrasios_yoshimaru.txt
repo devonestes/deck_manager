@@ -16,7 +16,6 @@
 1 Chord of Calling (RAV) 156
 1 Chrome Mox (2XM) 240
 1 Command Tower (MOC) 396
-1 Crop Rotation (DMR) 154
 1 Cyclonic Rift (2XM) 339
 1 Devoted Druid (SHM) 110
 1 Dramatic Reversal (P30A) 24
@@ -81,6 +80,7 @@
 1 Seedborn Muse (C19) 179
 1 Sevinne's Reclamation (CLB) 707
 1 Silence (M11) 30
+1 Sink into Stupor // Soporific Springs (MH3) 241
 1 Sol Ring (MOC) 381
 1 Spell Pierce (NEO) 80
 1 Springleaf Drum (BRR) 55

@@ -7,6 +7,7 @@ Arcane Signet
 Aveline de Grandpré
 Bayou
 Beast Whisperer
+Boseiju, Who Endures
 Branch of Vitu-Ghazi
 Breeding Pool
 Brine Elemental
@@ -24,7 +25,6 @@ Etrata, Deadly Fugitive
 Experiment Twelve
 Farseek
 Fierce Guardianship
-Flooded Grove
 Flourishing Bloom-Kin
 Forest
 Gift of Doom
@@ -35,7 +35,6 @@ Heroic Intervention
 High Fae Trickster
 Hooded Hydra
 Icefeather Aven
-Island
 Island
 Ixidron
 Kadena's Silencer
@@ -63,6 +62,7 @@ Seedborn Muse
 Shipwreck Marsh
 Silumgar Assassin
 Simic Growth Chamber
+Sink into Stupor // Soporific Springs
 Skittering Cicada
 Sol Ring
 Stratus Dancer
@@ -82,6 +82,7 @@ Undercity Sewers
 Underground Mortuary
 Underground Sea
 Undergrowth Stadium
+Urza's Saga
 Vannifar, Evolved Enigma
 Verdant Catacombs
 Vesuvan Shapeshifter
@@ -96,5 +97,4 @@ Worldly Tutor
 Yavimaya Coast
 Yavimaya, Cradle of Growth
 Yedora, Grave Gardener
-Zagoth Triome
 Zoetic Cavern

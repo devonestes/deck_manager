@@ -48,7 +48,6 @@
 1 Lumra, Bellow of the Woods (BLB) 183
 1 Magus of the Candelabra (M3C) 236
 1 Mana Breach (EXO) 38
-1 Mana Reflection (M3C) 237
 1 Misty Rainforest (MM3) 240
 1 Mossborn Hydra (FDN) 107
 1 Mystic Sanctuary (ELD) 247
@@ -66,6 +65,7 @@
 1 Prismatic Vista (MH1) 244
 1 Rampaging Baloths (C19) 176
 1 Ramunap Excavator (M3C) 241
+1 Rejuvenating Springs (LTC) 325
 1 Reliquary Tower (BRC) 196
 1 Retreat to Coralhelm (BFZ) 82
 1 Roil Elemental (ZEN) 62
@@ -74,6 +74,7 @@
 1 Scapeshift (M19) 201
 1 Scute Swarm (OTC) 205
 1 Simic Growth Chamber (CM2) 267
+1 Sink into Stupor // Soporific Springs (MH3) 241
 1 Skyshroud Claim (CMM) 321
 1 Skyshroud Ranger (TMP) 256
 1 Snow-Covered Forest (ICE) 383
@@ -93,4 +94,3 @@
 1 Wayward Swordtooth (LCC) 263
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249
-1 Yavimaya Hollow (UDS) 143

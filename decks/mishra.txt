@@ -1,5 +1,4 @@
 1 Mishra, Eminent One (BRC) 1
-1 Academy Ruins (MMA) 219
 1 Ancient Tomb (TMP) 315
 1 Arcane Signet (BRC) 132
 1 Arcum Dagsson (CSP) 27
@@ -68,6 +67,7 @@
 1 Shipwreck Marsh (MID) 285
 1 Silverbluff Bridge (BRC) 200
 1 Simulacrum Synthesizer (BIG) 6
+1 Sink into Stupor // Soporific Springs (MH3) 241
 1 Sol Ring (BRC) 160
 1 Solemn Simulacrum (BRC) 161
 1 Steam Vents (UNF) 283
@@ -91,10 +91,10 @@
 1 Underground Sea (3ED) 290
 1 Unwinding Clock (NPH) 164
 1 Urza, Lord High Artificer (CMM) 674
+1 Urza's Saga (MH2) 259
 1 Vault of Whispers (BRC) 211
 1 Volcanic Island (3ED) 291
 1 Watery Grave (UNF) 278
 1 Weatherlight (DOM) 237
 1 Wondrous Crucible (BRC) 20
 1 Worldwalker Helm (BIG) 37
-1 Xander's Lounge (SNC) 294

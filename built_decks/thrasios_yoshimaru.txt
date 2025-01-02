@@ -16,7 +16,6 @@ Cephalid Coliseum
 Chord of Calling
 Chrome Mox
 Command Tower
-Crop Rotation
 Cyclonic Rift
 Devoted Druid
 Dramatic Reversal
@@ -81,6 +80,7 @@ Scalding Tarn
 Seedborn Muse
 Sevinne's Reclamation
 Silence
+Sink into Stupor // Soporific Springs
 Sol Ring
 Spell Pierce
 Springleaf Drum

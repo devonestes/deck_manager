@@ -1,5 +1,4 @@
 Mishra, Eminent One
-Academy Ruins
 Ancient Tomb
 Arcane Signet
 Arcum Dagsson
@@ -68,6 +67,7 @@ Sensei's Divining Top
 Shipwreck Marsh
 Silverbluff Bridge
 Simulacrum Synthesizer
+Sink into Stupor // Soporific Springs
 Sol Ring
 Solemn Simulacrum
 Steam Vents
@@ -91,10 +91,10 @@ Undercity Sewers
 Underground Sea
 Unwinding Clock
 Urza, Lord High Artificer
+Urza's Saga
 Vault of Whispers
 Volcanic Island
 Watery Grave
 Weatherlight
 Wondrous Crucible
 Worldwalker Helm
-Xander's Lounge
