@@ -1,7 +1,5 @@
 Aesi, Tyrant of Gyre Strait
-Abundance
 Ancient Greenwarden
-Apex Devastator
 Arid Archway
 Ashaya, Soul of the Wild
 Augur of Autumn
@@ -10,11 +8,9 @@ Awaken the Woods
 Azusa, Lost but Seeking
 Bonny Pall, Clearcutter
 Breeding Pool
-Bristly Bill, Spine Sower
 Brokers Hideout
 Burgeoning
 Case of the Locked Hothouse
-Command Tower
 Conduit of Worlds
 Constant Mists
 Coral Atoll
@@ -22,40 +18,44 @@ Crucible of Worlds
 Cultivator Colossus
 Doppelgang
 Dryad of the Ilysian Grove
+Elvish Reclaimer
 Entish Restoration
 Exploration
 Fabled Passage
 Fecund Greenshell
 Field of the Dead
-Flooded Grove
 Flooded Strand
+Forest
+Forest
 Forest
 Forest
 Forest
 Greensleeves, Maro-Sorcerer
 Growth Spiral
 Halimar Depths
-Hinterland Harbor
+Hedge Maze
 Hydroid Krasis
+Island
+Island
 Island
 Island
 Island
 Jungle Basin
 Kodama of the East Tree
 Koma, Cosmos Serpent
+Koma, World-Eater
 Last March of the Ents
 Llanowar Scout
 Loot, Exuberant Explorer
 Lotus Cobra
 Lotus Vale
+Lumra, Bellow of the Woods
 Magus of the Candelabra
 Mana Breach
-Mana Reflection
 Misty Rainforest
 Mossborn Hydra
 Mystic Sanctuary
 Nissa, Resurgent Animist
-Nissa, Steward of Elements
 Nyxbloom Ancient
 Oboro, Palace in the Clouds
 Omenpath Journey
@@ -63,38 +63,38 @@ On the Trail
 Open the Way
 Oracle of Mul Daya
 Overburden
-Palinchron
+Overlord of the Hauntwoods
 Planar Genesis
 Polluted Delta
 Prismatic Vista
 Rampaging Baloths
-Rampant Frogantua
 Ramunap Excavator
 Reliquary Tower
 Retreat to Coralhelm
+Rimewood Falls
 Roil Elemental
+Rootpath Purifier
 Scalding Tarn
 Scapeshift
 Scute Swarm
 Simic Growth Chamber
+Sink into Stupor // Soporific Springs
 Skyshroud Claim
 Skyshroud Ranger
 Snow-Covered Forest
 Snow-Covered Island
 Sol Ring
+Spelunking
+Springheart Nantuko
 Storm Cauldron
-Talon Gates of Madara
+Tangled Islet
 Tatyova, Benthic Druid
 Thawing Glaciers
-Thespian's Stage
 Tireless Provisioner
 Titania, Protector of Argoth
 Undiscovered Paradise
 Uro, Titan of Nature's Wrath
 Vorinclex // The Grand Evolution
-Vorinclex, Voice of Hunger
-Waterlogged Grove
 Wayward Swordtooth
 Windswept Heath
 Wooded Foothills
-Yavimaya Hollow

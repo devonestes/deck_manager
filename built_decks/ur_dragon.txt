@@ -1,51 +1,40 @@
 Ancient Copper Dragon (PROXY)
 Ancient Tomb (PROXY)
-Badlands (PROXY)
 Balefire Dragon (PROXY)
-Birds of Paradise (PROXY)
-Bloom Tender (PROXY)
 Breeding Pool (PROXY)
-Cavern of Souls (PROXY)
 City of Brass (PROXY)
-Cyclonic Rift (PROXY)
-Delighted Halfling (PROXY)
 Forbidden Orchard (PROXY)
-Goldspan Dragon (PROXY)
 Guardian Project (PROXY)
-Heroic Intervention (PROXY)
-Indatha Triome (PROXY)
-Jetmir's Garden (PROXY)
-Ketria Triome (PROXY)
 Klauth, Unrivaled Ancient (PROXY)
 Kokusho, the Evening Star (PROXY)
 Kura, the Boundless Sky (PROXY)
-Mana Vault (PROXY)
 Misty Rainforest (PROXY)
 Old Gnawbone (PROXY)
 Roaming Throne (PROXY)
 Scalding Tarn (PROXY)
-Spara's Headquarters (PROXY)
-Steam Vents (PROXY)
 Stomping Ground (PROXY)
-Teferi's Protection (PROXY)
 Temur Ascendancy (PROXY)
 Terror of the Peaks (PROXY)
 The Great Henge (PROXY)
 The World Tree (PROXY)
-Urza's Incubator (PROXY)
+Three Visits (PROXY)
 Wooded Foothills (PROXY)
-Zagoth Triome (PROXY)
-Ziatora's Proving Ground (PROXY)
 The Ur-Dragon
 Ancient Silver Dragon
 Arcane Signet
 Atarka, World Render
+Badlands
 Beledros Witherbloom
+Birds of Paradise
 Blood Crypt
 Bloodstained Mire
+Bloom Tender
 Bonehoard Dracosaur
+Cavern of Souls
 Cavern-Hoard Dragon
 Command Tower
+Cyclonic Rift
+Delighted Halfling
 Dragon Tempest
 Dragon's Hoard
 Dragonlord Dromoka
@@ -57,15 +46,21 @@ Fellwar Stone
 Flooded Strand
 Forest
 Godless Shrine
+Goldspan Dragon
 Hallowed Fountain
 Hellkite Courser
 Hellkite Tyrant
 Herald's Horn
+Heroic Intervention
+Indatha Triome
 Island
+Jetmir's Garden
 Karrthus, Tyrant of Jund
+Ketria Triome
 Kindred Discovery
 Kindred Dominance
 Lightning Greaves
+Mana Vault
 Marsh Flats
 Miirym, Sentinel Wyrm
 Morophon, the Boundless
@@ -87,14 +82,19 @@ Savage Ventmaw
 Scalelord Reckoner
 Scourge of the Throne
 Sol Ring
+Spara's Headquarters
+Steam Vents
 Swamp
 Swords to Plowshares
+Teferi's Protection
 Temple Garden
 Temple of the Dragon Queen
 The Kami War // O-Kagachi Made Manifest
-Three Visits
 Tiamat
+Urza's Incubator
 Utvara Hellkite
 Watery Grave
 Windswept Heath
+Zagoth Triome
+Ziatora's Proving Ground
 Zurgo and Ojutai

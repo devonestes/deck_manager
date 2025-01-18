@@ -1,14 +1,17 @@
 Jetmir, Nexus of Revels
 Adeline, Resplendent Cathar
 Agate Instigator
+Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
 Anim Pakal, Thousandth Moon
 Arbor Elf
 Archivist of Oghma
 Arid Mesa
 Aurelia, the Law Above
-Aven Mindcensor
-Battlefield Forge
+Birds of Paradise
 Bloodstained Mire
+Bloom Tender
+Boseiju, Who Endures
+Bountiful Promenade
 Brimaz, King of Oreskos
 Champion of Lambholt
 Charismatic Conqueror
@@ -23,9 +26,9 @@ Dryad Arbor
 Eiganjo, Seat of the Empire
 Elesh Norn, Grand Cenobite
 Elvish Mystic
+Esper Sentinel
 Everybody Lives!
 Exotic Orchard
-Fanatic of Rhonas
 Final Fortune
 Flooded Strand
 Forbidden Orchard
@@ -35,17 +38,13 @@ Fyndhorn Elves
 Genasi Enforcers
 Giver of Runes
 Grenzo, Havoc Raiser
-Horizon Canopy
+Heroic Intervention
 Hushbringer
 Hushwing Gryff
-Jacked Rabbit
-Jetmir's Garden
-Joven's Ferrets
 Karplusan Forest
 Kellan, Daring Traveler // Journey On
 Kutzil, Malamet Exemplar
 Legolas's Quick Reflexes
-Linvala, Keeper of Silence
 Llanowar Elves
 Loran of the Third Path
 Marsh Flats
@@ -56,8 +55,6 @@ Myrel, Shield of Argive
 Ocelot Pride
 Ohran Frostfang
 Oltec Matterweaver
-Paladin Elizabeth Taggerdy
-Path to Exile
 Plains
 Plateau
 Polygoyf
@@ -69,20 +66,23 @@ Rootbound Crag
 Sacred Foundry
 Sanguine Evangelist
 Saryth, the Viper's Fang
+Savannah
 Scalding Tarn
 Scurry of Squirrels
 Scute Swarm
+Searslicer Goblin
 Secure the Wastes
 Serra Ascendant
 Skyhunter Strike Force
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist
 Sol Ring
 Song of Totentanz
+Spire Garden
 Stomping Ground
-Sunbaked Canyon
 Sunpetal Grove
 Sylvan Safekeeper
 Taiga
+Teferi's Protection
 Temple Garden
 Tendershoot Dryad
 Thalia, Guardian of Thraben

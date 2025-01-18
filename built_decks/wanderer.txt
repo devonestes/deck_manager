@@ -1,49 +1,34 @@
 Ancient Copper Dragon (PROXY)
-Ancient Tomb (PROXY)
-Boseiju, Who Endures (PROXY)
-Delighted Halfling (PROXY)
 Entish Restoration (PROXY)
-Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
 Fiery Emancipation (PROXY)
 Fire-Lit Thicket (PROXY)
-Ketria Triome (PROXY)
 Kodama's Reach (PROXY)
 Kogla, the Titan Ape (PROXY)
-Misty Rainforest (PROXY)
 Nyxbloom Ancient (PROXY)
 Old Gnawbone (PROXY)
 Oracle of Mul Daya (PROXY)
-Otawara, Soaring City (PROXY)
-Prismatic Vista (PROXY)
-Rejuvenating Springs (PROXY)
-Riverglide Pathway // Lavaglide Pathway (PROXY)
 Rockfall Vale (PROXY)
-Scalding Tarn (PROXY)
 Scroll Rack (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Skyshroud Claim (PROXY)
 Spire Garden (PROXY)
-Stomping Ground (PROXY)
-Stormcarved Coast (PROXY)
-Sylvan Library (PROXY)
-Time Warp (PROXY)
-Training Center (PROXY)
 Up the Beanstalk (PROXY)
-Urza's Saga (PROXY)
 Vorinclex // The Grand Evolution (PROXY)
-Wooded Foothills (PROXY)
-Wurmcoil Engine (PROXY)
 Maelstrom Wanderer
+Ancient Tomb
 Arcane Signet
 Balefire Dragon
+Boseiju, Who Endures
 Breeding Pool
 Cascade Bluffs
 Command Tower
 Consecrated Sphinx
 Cultivate
 Defense of the Heart
+Delighted Halfling
 Drakuseth, Maw of Flames
 Dreamroot Cascade
+Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
 Farseek
 Flooded Grove
@@ -59,22 +44,29 @@ Imoti, Celebrant of Bounty
 Into the North
 Island
 Island
+Ketria Triome
 Klauth, Unrivaled Ancient
 Kogla and Yidaro
 Koma, Cosmos Serpent
 Migration Path
 Misthollow Griffin
+Misty Rainforest
 Monstrous Vortex
 Mountain
 Mountain
 Nissa, Ascended Animist
 Orcish Lumberjack
+Otawara, Soaring City
 Pathbreaker Ibex
+Prismatic Vista
 Rampant Growth
 Ranger's Path
+Rejuvenating Springs
 Rishkar's Expertise
+Riverglide Pathway // Lavaglide Pathway
 Sakura-Tribe Elder
 Sarkhan's Unsealing
+Scalding Tarn
 Scourge of the Throne
 Selvala, Heart of the Wilds
 Selvala's Stampede
@@ -86,15 +78,23 @@ Snow-Covered Island
 Snow-Covered Mountain
 Sol Ring
 Steam Vents
+Stomping Ground
+Stormcarved Coast
 Sulfur Falls
 Sun Quan, Lord of Wu
 Sunbird's Invocation
+Sylvan Library
 Temur Sabertooth
 Terror of the Peaks
 Three Visits
 Time Spiral
+Time Warp
+Training Center
 Turntimber Symbiosis // Turntimber, Serpentine Wood
 Uro, Titan of Nature's Wrath
+Urza's Saga
 Vastwood Surge
 Vorinclex, Monstrous Raider
+Wooded Foothills
+Wurmcoil Engine
 Yavimaya Coast

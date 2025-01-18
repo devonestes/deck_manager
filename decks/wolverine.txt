@@ -11,16 +11,17 @@
 1 Branching Evolution (LCC) 234
 1 Cinder Glade (DMC) 203
 1 Command Tower (MOC) 396
+1 Commercial District (MKM) 324
 1 Contest of Claws (LCC) 24
 1 Cosmic Hunger (MOM) 182
 1 Court of Garenbrig (WOC) 25
 1 Defiler of Vigor (DMU) 412
+1 Delighted Halfling (LTR) 158
 1 Domri, Anarch of Bolas (BLC) 98
 1 Elvish Mystic (M15) 173
 1 Embercleave (ELD) 359
 1 Enduring Courage (DSK) 133
-16 Forest (J22) 110
-1 Forgotten Ancient (NCC) 291
+12 Forest (J22) 110
 1 Game Trail (LCC) 334
 1 Goblin Anarchomancer (MH2) 200
 1 Goldvein Hydra (OTJ) 167
@@ -28,6 +29,7 @@
 1 Halana and Alena, Partners (VOW) 239
 1 Hard-Hitting Question (MKM) 164
 1 Hardened Scales (WOT) 55
+1 Innkeeper's Talent (BLB) 180
 1 Inscription of Abundance (LTC) 251
 1 Invigorate (DDD) 19
 1 Invigorating Hot Spring (NEO) 223
@@ -38,9 +40,9 @@
 1 Lion Umbra (MH3) 160
 1 Llanowar Elves (3ED) 211
 1 Mage Slayer (HOP) 91
-1 Managorger Hydra (C21) 199
+1 Misty Rainforest (MH2) 438
 1 Mossfire Valley (NCC) 414
-11 Mountain (J22) 107
+10 Mountain (J22) 107
 1 Mutant's Prey (DGM) 45
 1 Neyith of the Dire Hunt (JMP) 30
 1 Ohran Frostfang (SLD) 237
@@ -50,15 +52,16 @@
 1 Rabid Gnaw (BLB) 147
 1 Railway Brawler (OTJ) 175
 1 Ram Through (J22) 91
+1 Restless Ridgeline (LCI) 350
 1 Rhonas the Indomitable (AKH) 182
 1 Rhythm of the Wild (SLD) 1740
-1 Rite of Passage (SLD) 1739
 1 Rogue's Passage (LTC) 326
 1 Signature Slam (MH3) 168
 1 Snake Umbra (NEC) 130
 1 Snakeskin Veil (OTJ) 181
 1 Sol Ring (MOC) 381
 1 Soul's Fire (CMR) 200
+1 Spire Garden (ZNE) 19
 1 Stomping Ground (RVR) 413
 1 Swiftfoot Boots (BRC) 166
 1 Talisman of Impulse (MRD) 254
@@ -73,3 +76,5 @@
 1 Waltz of Rage (DSK) 165
 1 Wild Growth (DMR) 184
 1 Worldslayer (M12) 222
+1 Xenagos, God of Revels (LCC) 295
+1 Yavimaya, Cradle of Growth (MH2) 441

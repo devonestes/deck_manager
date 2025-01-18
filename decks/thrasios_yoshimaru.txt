@@ -3,21 +3,19 @@
 1 Amulet of Vigor (WWK) 121
 1 An Offer You Can't Refuse (SLP) 7
 1 Ancient Tomb (TMP) 315
+1 Arbor Elf (M13) 160
 1 Archivist of Oghma (CLB) 4
 1 Arid Mesa (MH2) 436
-1 Avacyn's Pilgrim (ISD) 170
 1 Basalt Monolith (3ED) 235
 1 Biomancer's Familiar (RNA) 158
 1 Birds of Paradise (4ED) 234
 1 Bloom Tender (EVE) 66
 1 Boseiju, Who Endures (NEO) 501
-1 Bountiful Promenade (ZNE) 20
 1 Breeding Pool (RVR) 399
 1 Cephalid Coliseum (MH3) 300
 1 Chord of Calling (RAV) 156
 1 Chrome Mox (2XM) 240
 1 Command Tower (MOC) 396
-1 Crop Rotation (DMR) 154
 1 Cyclonic Rift (2XM) 339
 1 Devoted Druid (SHM) 110
 1 Dramatic Reversal (P30A) 24
@@ -45,6 +43,7 @@
 1 Grand Abolisher (SLD) 1285
 1 Green Sun's Zenith (2X2) 150
 1 Hallowed Fountain (RVR) 404
+1 Hedge Maze (MKM) 326
 1 Intuition (TMP) 70
 1 Island (BLB) 266
 1 Isochron Scepter (MRD) 188
@@ -57,6 +56,7 @@
 1 Mana Drain (OTP) 11
 1 Mana Vault (2ED) 260
 1 Marsh Flats (MH2) 437
+1 Meticulous Archive (MKM) 328
 1 Mindbreak Trap (ZEN) 57
 1 Misty Rainforest (MH2) 438
 1 Mox Amber (DOM) 224
@@ -73,7 +73,6 @@
 1 Plains (J22) 98
 1 Polluted Delta (MH3) 438
 1 Ranger-Captain of Eos (MH1) 21
-1 Rejuvenating Springs (LTC) 325
 1 Rhystic Study (J22) 114
 1 Rings of Brighthearth (LRW) 259
 1 Savannah (3ED) 285
@@ -81,6 +80,7 @@
 1 Seedborn Muse (C19) 179
 1 Sevinne's Reclamation (CLB) 707
 1 Silence (M11) 30
+1 Sink into Stupor // Soporific Springs (MH3) 241
 1 Sol Ring (MOC) 381
 1 Spell Pierce (NEO) 80
 1 Springleaf Drum (BRR) 55

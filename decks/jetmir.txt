@@ -1,14 +1,17 @@
 1 Jetmir, Nexus of Revels (SLD) 1509
 1 Adeline, Resplendent Cathar (MOC) 167
 1 Agate Instigator (BLC) 21
+1 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger (MH3) 237
 1 Anim Pakal, Thousandth Moon (LCI) 223
 1 Arbor Elf (M13) 160
 1 Archivist of Oghma (CLB) 4
 1 Arid Mesa (MM3) 229
 1 Aurelia, the Law Above (MKM) 188
-1 Aven Mindcensor (CLB) 688
-1 Battlefield Forge (BRO) 257
+1 Birds of Paradise (4ED) 234
 1 Bloodstained Mire (KTK) 230
+1 Bloom Tender (EVE) 66
+1 Boseiju, Who Endures (NEO) 266
+1 Bountiful Promenade (ZNE) 20
 1 Brimaz, King of Oreskos (BNG) 5
 1 Champion of Lambholt (NCC) 284
 1 Charismatic Conqueror (LCC) 70
@@ -23,9 +26,9 @@
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Elesh Norn, Grand Cenobite (NPH) 9
 1 Elvish Mystic (M15) 173
+1 Esper Sentinel (MH2) 12
 1 Everybody Lives! (WHO) 18
 1 Exotic Orchard (MOC) 398
-1 Fanatic of Rhonas (MH3) 458
 1 Final Fortune (MIR) 173
 1 Flooded Strand (KTK) 233
 1 Forbidden Orchard (C16) 296
@@ -35,17 +38,13 @@
 1 Genasi Enforcers (CLB) 177
 1 Giver of Runes (MH1) 13
 1 Grenzo, Havoc Raiser (M3C) 213
-1 Horizon Canopy (LTC) 366
+1 Heroic Intervention (LTC) 249
 1 Hushbringer (ELD) 18
 1 Hushwing Gryff (M15) 15
-1 Jacked Rabbit (BLC) 9
-1 Jetmir's Garden (SNC) 291
-1 Joven's Ferrets (HML) 89
 1 Karplusan Forest (M3C) 351
 1 Kellan, Daring Traveler // Journey On (LCI) 231
 1 Kutzil, Malamet Exemplar (LCI) 304
 1 Legolas's Quick Reflexes (LTC) 493
-1 Linvala, Keeper of Silence (ROE) 33
 1 Llanowar Elves (3ED) 211
 1 Loran of the Third Path (BRO) 12
 1 Marsh Flats (MM3) 239
@@ -56,8 +55,6 @@
 1 Ocelot Pride (MH3) 394
 1 Ohran Frostfang (SLD) 237
 1 Oltec Matterweaver (PW24) 12
-1 Paladin Elizabeth Taggerdy (PIP) 114
-1 Path to Exile (MOC) 198
 1 Plains (J22) 98
 1 Plateau (3ED) 284
 1 Polygoyf (M3C) 117
@@ -69,20 +66,23 @@
 1 Sacred Foundry (UNF) 285
 1 Sanguine Evangelist (LCI) 34
 1 Saryth, the Viper's Fang (MKC) 185
+1 Savannah (3ED) 285
 1 Scalding Tarn (MM3) 244
 1 Scurry of Squirrels (BLC) 33
 1 Scute Swarm (OTC) 205
+1 Searslicer Goblin (FDN) 93
 1 Secure the Wastes (PIP) 171
 1 Serra Ascendant (IMA) 31
 1 Skyhunter Strike Force (PLST) ONC-21
 1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (BOT) 6
 1 Sol Ring (MOC) 381
 1 Song of Totentanz (WOE) 150
+1 Spire Garden (ZNE) 19
 1 Stomping Ground (UNF) 280
-1 Sunbaked Canyon (MH1) 247
 1 Sunpetal Grove (SLD) 460
 1 Sylvan Safekeeper (C14) 217
 1 Taiga (3ED) 287
+1 Teferi's Protection (SLD) 1691
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147
 1 Thalia, Guardian of Thraben (VOW) 38

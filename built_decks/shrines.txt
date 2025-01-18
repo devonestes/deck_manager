@@ -1,46 +1,30 @@
-Birds of Paradise (PROXY)
-Bloom Tender (PROXY)
-Bountiful Promenade (PROXY)
-City of Brass (PROXY)
-Crop Rotation (PROXY)
-Cyclonic Rift (PROXY)
-Demonic Tutor (PROXY)
-Enlightened Tutor (PROXY)
-Fierce Guardianship (PROXY)
-Forbidden Orchard (PROXY)
-Heroic Intervention (PROXY)
-Misty Rainforest (PROXY)
-Rhystic Study (PROXY)
-Rockfall Vale (PROXY)
-Savai Triome (PROXY)
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Sea of Clouds (PROXY)
-Smothering Tithe (PROXY)
-Stomping Ground (PROXY)
-Swan Song (PROXY)
-Teferi's Protection (PROXY)
-Tithe (PROXY)
-Vampiric Tutor (PROXY)
-Wooded Foothills (PROXY)
-Zagoth Triome (PROXY)
-Ziatora's Proving Ground (PROXY)
 Go-Shintai of Life's Origin
+Adarkar Wastes
 Argothian Enchantress
 Atraxa, Grand Unifier
+Birds of Paradise
+Bloom Tender
+Bountiful Promenade
 Breeding Pool
 Brushland
 Cacophony Unleashed
 Command Tower
+Cyclonic Rift
+Demonic Tutor
 Destiny Spinner
 Dryad of the Ilysian Grove
 Eidolon of Blossoms
 Enchantress's Presence
+Enlightened Tutor
 Entity Tracker
 Exotic Orchard
 Extinguish All Hope
+Fierce Guardianship
 Forest
 Ghostly Prison
 Ghoulish Impetus
+Glacial Fortress
+Gloomlake Verge
 Go-Shintai of Ancient Wars
 Go-Shintai of Boundless Vigor
 Go-Shintai of Hidden Cruelty
@@ -49,6 +33,7 @@ Go-Shintai of Shared Purpose
 Greater Auramancy
 Hall of Heliod's Generosity
 Hallowed Fountain
+Heroic Intervention
 Honden of Cleansing Fire
 Honden of Infinite Rage
 Honden of Life's Web
@@ -60,7 +45,9 @@ Inquisitive Glimmer
 Island
 Jetmir's Garden
 Jukai Naturalist
+Lush Portico
 Mirari's Wake
+Misty Rainforest
 Moat
 Moon-Blessed Cleric
 Mountain
@@ -71,6 +58,8 @@ Paradox Haze
 Plains
 Reliquary Tower
 Replenish
+Retribution of the Meek
+Rhystic Study
 Roaring Furnace // Steaming Sauna
 Sanctum of All
 Sanctum of Calm Waters
@@ -79,22 +68,33 @@ Sanctum of Shattered Heights
 Sanctum of Stone Fangs
 Sanctum of Tranquil Light
 Sanctum Weaver
+Sea of Clouds
 Setessan Champion
 Shadow of the Second Sun
 Shrine Steward
+Smothering Tithe
 Sol Ring
 Spara's Headquarters
+Spectator Seating
 Sphere of Safety
-Steam Vents
+Starfield Mystic
 Sterling Grove
+Sunpetal Grove
 Swamp
+Swan Song
 Sythis, Harvest's Hand
+Teferi's Protection
 Temple Garden
 The World Tree
+Undergrowth Stadium
 Valgavoth's Lair
+Vampiric Tutor
 Verdant Catacombs
 Verduran Enchantress
 Watery Grave
 Windswept Heath
 Wooded Bastion
+Wooded Foothills
+Zagoth Triome
+Ziatora's Proving Ground
 Zur the Enchanter

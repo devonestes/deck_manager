@@ -41,7 +41,7 @@
 1 Knight Paladin (40K) 160
 1 Lightning Greaves (LTC) 281
 1 Lita, Mechanical Engineer (J22) 6
-1 Losheel, Clockwork Scholar (CMM) 38
+1 Losheel, Clockwork Scholar (C21) 18
 1 Mana Drain (CMR) 80
 1 Mech Hangar (NEO) 270
 2 Mountain (J22) 107

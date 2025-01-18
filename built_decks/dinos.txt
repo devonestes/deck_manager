@@ -1,24 +1,17 @@
 Ancient Tomb (PROXY)
 Bloodstained Mire (PROXY)
-Bonehoard Dracosaur (PROXY)
-Boseiju, Who Endures (PROXY)
 Cavern of Souls (PROXY)
 Chandra's Ignition (PROXY)
-Deflecting Swat (PROXY)
-Delighted Halfling (PROXY)
 Entish Restoration (PROXY)
-Etali, Primal Conqueror // Etali, Primal Sickness (PROXY)
-Finale of Devastation (PROXY)
 Fire-Lit Thicket (PROXY)
 Flawless Maneuver (PROXY)
 Flooded Strand (PROXY)
 Heroic Intervention (PROXY)
-Jetmir's Garden (PROXY)
 Kogla and Yidaro (PROXY)
 Last March of the Ents (PROXY)
-Mana Confluence (PROXY)
 Mirari's Wake (PROXY)
 Misty Rainforest (PROXY)
+Nature's Lore (PROXY)
 Prismatic Vista (PROXY)
 Roaming Throne (PROXY)
 Rockfall Vale (PROXY)
@@ -33,7 +26,6 @@ The Skullspore Nexus (PROXY)
 Tithe (PROXY)
 Urza's Incubator (PROXY)
 Urza's Saga (PROXY)
-Verdant Catacombs (PROXY)
 Windswept Heath (PROXY)
 Wooded Bastion (PROXY)
 Wooded Foothills (PROXY)
@@ -42,14 +34,20 @@ Akroma's Will
 Apex Altisaur
 Arcane Signet
 Arid Mesa
+Bonehoard Dracosaur
+Boseiju, Who Endures
 Carnage Tyrant
 Command Tower
 Cultivate
 Curious Altisaur
 Defense of the Heart
+Deflecting Swat
+Delighted Halfling
 Descendants' Path
 Dinosaurs on a Spaceship
+Etali, Primal Conqueror // Etali, Primal Sickness
 Farseek
+Finale of Devastation
 Forest
 Forest
 Forest
@@ -60,11 +58,12 @@ Goreclaw, Terror of Qal Sisma
 Hulking Raptor
 Hunting Velociraptor
 Invasion of Ikoria // Zilortha, Apex of Ikoria
+Jetmir's Garden
+Mana Confluence
 Marauding Raptor
 Marsh Flats
 Mountain
 Mountain
-Nature's Lore
 Otepec Huntmaster
 Overgrown Farmland
 Palani's Hatcher
@@ -93,7 +92,8 @@ Thrashing Brontodon
 Topiary Stomper
 Trapjaw Tyrant
 Unclaimed Territory
-Wakening Sun's Avatar
+Vaultborn Tyrant
+Verdant Catacombs
 Welcome to . . . // Jurassic Park
 Wrathful Raptors
 Xenagos, God of Revels

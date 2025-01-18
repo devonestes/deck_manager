@@ -1,0 +1,85 @@
+1 Rusko, Clockmaker (MB2) 263
+1 An Offer You Can't Refuse (SLP) 7
+1 Arcane Denial (ALL) 22a
+1 Arcane Signet (SLD) 1641
+1 Archmage Emeritus (OTC) 90
+1 Baleful Strix (MKC) 200
+1 Blood Money (LCC) 183
+1 Bojuka Bog (MOC) 391
+1 Bolas's Citadel (SLD) 1187
+1 Brainstorm (MB2) 155
+1 Clearwater Pathway // Murkwater Pathway (ZNR) 286
+1 Command Tower (MOC) 396
+1 Conjurer's Closet (AVR) 214
+1 Consider (MKC) 98
+1 Contentious Plan (WAR) 46
+1 Counterspell (TMP) 57
+1 Cyclonic Rift (RVR) 313
+1 Dark Ritual (3ED) 99
+1 Deadeye Navigator (INR) 492
+1 Deadly Rollick (CMM) 695
+1 Dimir Signet (BRC) 138
+1 Displacer Kitten (CLB) 63
+1 Dreamtide Whale (MH3) 450
+1 Drowned Catacomb (SLD) 457
+1 Essence Flux (SOI) 61
+1 Feed the Swarm (BRC) 106
+1 Fell (BLB) 95
+1 Fell the Profane // Fell Mire (MH3) 244
+1 Fellwar Stone (MOC) 356
+1 Fierce Guardianship (CMM) 694
+1 Frantic Search (CMM) 96
+1 Gloomlake Verge (DSK) 331
+12 Island (J22) 101
+1 Lord of the Nazgûl (LTC) 60
+1 Mana Drain (OTP) 11
+1 Mechanized Production (J22) 320
+1 Midnight Clock (OTC) 100
+1 Mind Stone (MOC) 364
+1 Mindsplice Apparatus (ONE) 63
+1 Morphic Pool (ZNE) 17
+1 Mystic Sanctuary (ELD) 247
+1 Negate (STA) 18
+1 Opt (LTC) 194
+1 Otawara, Soaring City (NEO) 503
+1 Panharmonicon (TSR) 399
+1 Planar Incision (NEO) 72
+1 Polluted Delta (MH3) 438
+1 Ponder (SLP) 19
+1 Pongify (OTC) 106
+1 Preordain (LTC) 196
+1 Primal Amulet // Primal Wellspring (XLN) 243
+1 Propaganda (OTC) 108
+1 Psychosis Crawler (MKC) 234
+1 Reliquary Tower (BRC) 196
+1 Rhystic Study (WOT) 71
+1 Sakashima of a Thousand Faces (CMR) 89
+1 Saw in Half (BLC) 113
+1 Scrawling Crawler (FDN) 354
+1 Shark Typhoon (OTC) 113
+1 Sheoldred, the Apocalypse (DMU) 107
+1 Shipwreck Marsh (MID) 285
+1 Simulacrum Synthesizer (BIG) 6
+1 Sol Ring (MOC) 381
+1 Solemn Simulacrum (BRC) 161
+1 Spark Double (RVR) 319
+1 Starscream, Power Hungry // Starscream, Seeker Leader (BOT) 5
+1 Sunken Hollow (MOC) 428
+5 Swamp (LCI) 397
+1 Swiftfoot Boots (BRC) 166
+1 Tainted Isle (MKC) 300
+1 Talion, the Kindly Lord (WOE) 301
+1 Talisman of Dominance (MRD) 253
+1 Talrand, Sky Summoner (OTC) 116
+1 Teferi's Ageless Insight (MKC) 119
+1 Thassa, Deep-Dwelling (THB) 71
+1 Thought Vessel (PLG22) 2
+1 Torment of Hailfire (HOU) 77
+1 Toxic Deluge (C13) 96
+1 Undercity Sewers (MKM) 332
+1 Underground River (BRO) 267
+1 Unwinding Clock (NPH) 164
+1 Waterlogged Teachings // Inundated Archive (MH3) 261
+1 Watery Grave (RVR) 415
+1 Windfall (LCC) 180
+1 Withering Torment (DSK) 124

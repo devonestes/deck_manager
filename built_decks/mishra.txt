@@ -1,31 +1,28 @@
 Mishra, Eminent One
-Academy Ruins
-Arcane Denial
+Ancient Tomb
 Arcane Signet
 Arcum Dagsson
 Badlands
 Baleful Strix
 Basalt Monolith
+Basim Ibn Ishaq
 Blasphemous Act
 Blightsteel Colossus
-Blightstep Pathway // Searstep Pathway
 Blood Crypt
 Bloodsoaked Insight // Sanguine Morass
 Bloodstained Mire
-Cascade Bluffs
-Chaos Warp
 Chimil, the Inner Sun
 Cityscape Leveler
 Coldsteel Heart
 Command Tower
 Cursed Mirror
 Cyberdrive Awakener
+Cyclonic Rift
 Darksteel Citadel
 Darksteel Forge
 Deadly Dispute
 Determined Iteration
 Drossforge Bridge
-Drowned Catacomb
 Emry, Lurker of the Loch
 Esoteric Duplicator
 Etherium Sculptor
@@ -33,6 +30,7 @@ Fabricate
 Fomori Vault
 Gonti's Aether Heart
 Great Furnace
+Haunted Ridge
 Hedron Archive
 Ichor Wellspring
 Idol of Oblivion
@@ -44,36 +42,37 @@ Kappa Cannoneer
 Karn, Legacy Reforged
 Knight Paladin
 Lightning Greaves
+Luxury Suite
 Magmatic Galleon
 Mana Drain
+Mana Vault
 Metalworker
 Mind Stone
 Mindslaver
 Mistvault Bridge
+Morphic Pool
 Mountain
 Mox Opal
 Mystic Forge
 Polluted Delta
 Portal to Phyrexia
-Relic of Sauron
+Raucous Theater
 Rise and Shine
-Riverglide Pathway // Lavaglide Pathway
 RMS Titanic
 Rolling Hamsphere
 Scalding Tarn
 Scroll Rack
 Seat of the Synod
 Sensei's Divining Top
-Shivan Reef
+Shipwreck Marsh
 Silverbluff Bridge
 Simulacrum Synthesizer
+Sink into Stupor // Soporific Springs
 Sol Ring
 Solemn Simulacrum
-Spire of Industry
 Steam Vents
 Stormcarved Coast
 Strionic Resonator
-Sulfur Falls
 Swamp
 Swiftfoot Boots
 Talisman of Creativity
@@ -89,12 +88,13 @@ Thundering Falls
 Training Center
 Troll of Khazad-dûm
 Undercity Sewers
-Underground River
+Underground Sea
 Unwinding Clock
 Urza, Lord High Artificer
+Urza's Saga
 Vault of Whispers
+Volcanic Island
 Watery Grave
 Weatherlight
 Wondrous Crucible
 Worldwalker Helm
-Xander's Lounge

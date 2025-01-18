@@ -1,31 +1,28 @@
 1 Mishra, Eminent One (BRC) 1
-1 Academy Ruins (MMA) 219
-1 Arcane Denial (ALL) 22b
+1 Ancient Tomb (TMP) 315
 1 Arcane Signet (BRC) 132
 1 Arcum Dagsson (CSP) 27
 1 Badlands (3ED) 282
 1 Baleful Strix (MKC) 200
 1 Basalt Monolith (3ED) 235
+1 Basim Ibn Ishaq (ACR) 141
 1 Blasphemous Act (BRC) 113
 1 Blightsteel Colossus (MBS) 99
-1 Blightstep Pathway // Searstep Pathway (KHM) 291
 1 Blood Crypt (UNF) 279
 1 Bloodsoaked Insight // Sanguine Morass (MH3) 252
 1 Bloodstained Mire (KTK) 230
-1 Cascade Bluffs (CMM) 990
-1 Chaos Warp (PW24) 7
 1 Chimil, the Inner Sun (LCI) 249
 1 Cityscape Leveler (BRO) 363
 1 Coldsteel Heart (2X2) 301
 1 Command Tower (BRC) 178
 1 Cursed Mirror (BRC) 115
 1 Cyberdrive Awakener (NEC) 12
+1 Cyclonic Rift (RVR) 313
 1 Darksteel Citadel (DST) 164
 1 Darksteel Forge (M14) 206
 1 Deadly Dispute (P30A) 29
 1 Determined Iteration (NCC) 45
 1 Drossforge Bridge (BRC) 183
-1 Drowned Catacomb (SLD) 457
 1 Emry, Lurker of the Loch (MUL) 9
 1 Esoteric Duplicator (BIG) 35
 1 Etherium Sculptor (ALA) 42
@@ -33,6 +30,7 @@
 1 Fomori Vault (BIG) 59
 1 Gonti's Aether Heart (M3C) 294
 1 Great Furnace (BRC) 187
+1 Haunted Ridge (MID) 282
 1 Hedron Archive (BRC) 142
 1 Ichor Wellspring (BRC) 143
 1 Idol of Oblivion (BRC) 144
@@ -44,36 +42,37 @@
 1 Karn, Legacy Reforged (MAT) 184
 1 Knight Paladin (40K) 160
 1 Lightning Greaves (LTC) 281
+1 Luxury Suite (ZNE) 18
 1 Magmatic Galleon (LCI) 157
 1 Mana Drain (CMR) 80
+1 Mana Vault (2ED) 260
 1 Metalworker (UDS) 135
 1 Mind Stone (MOC) 364
 1 Mindslaver (MRD) 206
 1 Mistvault Bridge (BRC) 189
+1 Morphic Pool (ZNE) 17
 1 Mountain (BRC) 35
 1 Mox Opal (2XM) 275
 1 Mystic Forge (CMM) 964
 1 Polluted Delta (KTK) 239
 1 Portal to Phyrexia (BRO) 365
-1 Relic of Sauron (LTC) 79
+1 Raucous Theater (MKM) 329
 1 Rise and Shine (MH2) 58
-1 Riverglide Pathway // Lavaglide Pathway (ZNR) 289
 1 RMS Titanic (WHO) 93
 1 Rolling Hamsphere (BLC) 39
 1 Scalding Tarn (MM3) 244
 1 Scroll Rack (TMP) 308
 1 Seat of the Synod (BRC) 198
 1 Sensei's Divining Top (2X2) 398
-1 Shivan Reef (OTC) 320
+1 Shipwreck Marsh (MID) 285
 1 Silverbluff Bridge (BRC) 200
 1 Simulacrum Synthesizer (BIG) 6
+1 Sink into Stupor // Soporific Springs (MH3) 241
 1 Sol Ring (BRC) 160
 1 Solemn Simulacrum (BRC) 161
-1 Spire of Industry (BRC) 203
 1 Steam Vents (UNF) 283
 1 Stormcarved Coast (VOW) 284
 1 Strionic Resonator (BRC) 165
-1 Sulfur Falls (LTC) 333
 1 Swamp (MOM) 279
 1 Swiftfoot Boots (NCC) 382
 1 Talisman of Creativity (MH1) 231
@@ -89,12 +88,13 @@
 1 Training Center (CMR) 713
 1 Troll of Khazad-dûm (LTR) 111
 1 Undercity Sewers (MKM) 332
-1 Underground River (BRO) 267
+1 Underground Sea (3ED) 290
 1 Unwinding Clock (NPH) 164
 1 Urza, Lord High Artificer (CMM) 674
+1 Urza's Saga (MH2) 259
 1 Vault of Whispers (BRC) 211
+1 Volcanic Island (3ED) 291
 1 Watery Grave (UNF) 278
 1 Weatherlight (DOM) 237
 1 Wondrous Crucible (BRC) 20
 1 Worldwalker Helm (BIG) 37
-1 Xander's Lounge (SNC) 294

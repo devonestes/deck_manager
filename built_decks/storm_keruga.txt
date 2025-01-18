@@ -3,8 +3,10 @@ Alrund's Epiphany
 Ancient Cornucopia
 Arachnogenesis
 Archmage Emeritus
-Arena of Glory
+Archmage of Runes
+Ashling, Flame Dancer
 Big Score
+Birgi, God of Storytelling // Harnfel, Horn of Bounty
 Brainsurge
 Brazen Borrower // Petty Theft
 Breeding Pool
@@ -31,6 +33,7 @@ Haughty Djinn
 Hedron Archive
 Hinterland Harbor
 Hordeling Outburst
+Hour of Promise
 Ice Storm
 Island
 Island
@@ -51,6 +54,7 @@ Migration Path
 Mindsplice Apparatus
 Misty Rainforest
 Mogg Salvage
+Molten Rain
 Mountain
 Mountain
 Mountain
@@ -60,11 +64,10 @@ Mountain
 Mountain
 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time
 Oko, Thief of Crowns
-Overgrowth
 Polluted Delta
 Primal Amulet // Primal Wellspring
 Prismari Command
-Prosperous Bandit
+Rejuvenating Springs
 Sakashima of a Thousand Faces
 Sakashima the Impostor
 Scalding Tarn
@@ -73,10 +76,9 @@ Shivan Reef
 Snapping Voidcraw
 Solemn Simulacrum
 Spark Double
-Spelunking
 Steam Vents
+Stitch in Time
 Stomping Ground
-Stone Rain
 Storm-Kiln Artist
 Sulfur Falls
 Sword of Wealth and Power
@@ -88,13 +90,11 @@ Training Center
 Treachery
 Treasure Cruise
 Twinning Staff
-Unwind
 Urabrask // The Great Work
 Urban Evolution
 Uro, Titan of Nature's Wrath
 Veyran, Voice of Duality
 Volcanic Island
-Wilderness Reclamation
 Windswept Heath
 Wood Elves
 Yavimaya Coast

@@ -1,21 +1,14 @@
 Akroma's Will (PROXY)
 Anim Pakal, Thousandth Moon (PROXY)
-Blasphemous Act (PROXY)
 Cyclonic Rift (PROXY)
 Danny Pink (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
-Esper Sentinel (PROXY)
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (PROXY)
 Great Furnace (PROXY)
 Herald of Secret Streams (PROXY)
 Inventors' Fair (PROXY)
 Jhoira, Weatherlight Captain (PROXY)
 Knight Paladin (PROXY)
-Lightning Greaves (PROXY)
-Mana Drain (PROXY)
-Otawara, Soaring City (PROXY)
-Raugrin Triome (PROXY)
-Rhystic Study (PROXY)
 Ripples of Potential (PROXY)
 Sacred Foundry (PROXY)
 Seat of the Synod (PROXY)
@@ -39,6 +32,7 @@ Arcbound Slasher
 Arcbound Tracker
 Arcee, Sharpshooter // Arcee, Acrobatic Coupe
 Battlefield Forge
+Blasphemous Act
 Cascade Bluffs
 Cayth, Famed Mechanist
 Chaos Warp
@@ -47,6 +41,7 @@ Darksteel Citadel
 Dispatch
 Enthusiastic Mechanaut
 Envoy of the Ancestors
+Esper Sentinel
 Etherium Sculptor
 Felidar Retreat
 Foundry Inspector
@@ -60,8 +55,10 @@ Island
 Jetfire, Ingenious Scientist // Jetfire, Air Guardian
 Kappa Cannoneer
 Karn's Bastion
+Lightning Greaves
 Lita, Mechanical Engineer
 Losheel, Clockwork Scholar
+Mana Drain
 Mech Hangar
 Mountain
 Mountain
@@ -69,13 +66,16 @@ Mystic Gate
 Mystic Monastery
 Mystic Remora
 Organic Extinction
+Otawara, Soaring City
 Plains
 Plains
 Plains
 Power Depot
 Prowl, Stoic Strategist // Prowl, Pursuit Vehicle
 Ratchet, Field Medic // Ratchet, Rescue Racer
+Raugrin Triome
 Razortide Bridge
+Rhystic Study
 Rustvale Bridge
 Saheeli, Filigree Master
 Scene of the Crime

@@ -14,7 +14,6 @@
 1 Case of the Stashed Skeleton (MKM) 80
 1 Castle Ardenvale (MKC) 253
 1 Castle Locthwain (ELD) 389
-1 Caustic Bronco (OTJ) 82
 1 Caves of Koilos (MD1) 14
 1 Chthonian Nightmare (MH3) 83
 1 Command Tower (MOC) 396
@@ -26,12 +25,10 @@
 1 Dark Confidant (MMA) 75
 1 Dauthi Voidwalker (PLST) MH2-81
 1 Deadly Dispute (P30A) 29
-1 Deadly Rollick (C20) 42
 1 Dewdrop Cure (BLB) 10
 1 Dusk // Dawn (PLST) CLB-691
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
-1 Emperor of Bones (MH3) 90
 1 Esper Sentinel (MH2) 12
 1 Fanatical Offering (LCI) 105
 1 Fetid Heath (NCC) 401
@@ -57,22 +54,24 @@
 1 Phyrexian Tower (JMP) 493
 5 Plains (J22) 98
 1 Priest of Forgotten Gods (RVR) 90
+1 Promise of Aclazotz // Foul Rebirth (LCC) 84
 1 Putrid Goblin (MH1) 101
+1 Raise the Past (FDN) 22
 1 Razorgrass Ambush // Razorgrass Field (MH3) 238
 1 Ripples of Undeath (MH3) 107
 1 Rogue's Passage (LTC) 326
 1 Selfless Savior (M21) 36
 1 Selfless Spirit (CLB) 706
 1 Serra Ascendant (IMA) 31
+1 Servant of the Stinger (OTJ) 105
 1 Sevinne's Reclamation (CLB) 707
 1 Shattered Sanctum (VOW) 283
-1 Silent Clearing (MH1) 246
 1 Skullclamp (DST) 140
 1 Snuff Out (GVL) 53
 1 Sol Ring (MOC) 381
 1 Spirited Companion (NEO) 38
 1 Stitcher's Supplier (J22) 472
-7 Swamp (J22) 106
+8 Swamp (J22) 106
 1 Swords to Plowshares (MOC) 211
 1 Takenuma, Abandoned Mire (NEO) 416
 1 Teferi's Protection (C17) 8

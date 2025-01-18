@@ -1,14 +1,17 @@
 1 Aragorn, King of Gondor (LTC) 5
 1 Adarkar Wastes (ICE) 351
 1 Adeline, Resplendent Cathar (MOC) 167
+1 Adriana, Captain of the Guard (C20) 200
 1 Akroma's Will (CMR) 615
 1 Ancient Tomb (TMP) 315
+1 Angelic Field Marshal (CMM) 13
+1 Arcane Denial (ALL) 22a
 1 Arcane Signet (LTC) 273
 1 Archivist of Gondor (LTC) 18
 1 Arid Mesa (MM3) 229
-1 Aurelia, the Law Above (MKM) 188
 1 Aurelia, the Warleader (GTC) 143
 1 Azure Fleet Admiral (CMR) 58
+1 Bastion Protector (LTC) 162
 1 Battlefield Forge (LTC) 296
 1 Beregond of the Guard (LTC) 9
 1 Blade Historian (PSTX) 165p
@@ -16,18 +19,17 @@
 1 Cathars' Crusade (AVR) 10
 1 Cavern of Souls (AVR) 226
 1 Champions of Minas Tirith (LTC) 10
-1 Clever Concealment (ONC) 5
 1 Clifftop Retreat (LTC) 300
 1 Combat Celebrant (LTC) 212
 1 Command Tower (LTC) 301
-1 Conjurer's Mantle (MOC) 12
 1 Coppercoat Vanguard (MAT) 1
 1 Court of Grace (ONC) 62
+1 Court of Ire (LTC) 213
 1 Court of Vantress (WOC) 22
 1 Cyclonic Rift (RTR) 35
 1 Deserted Beach (MID) 281
 1 Dolmen Gate (LRW) 256
-1 Elesh Norn, Grand Cenobite (NPH) 9
+1 Elegant Parlor (MKM) 325
 1 Esper Sentinel (MH2) 12
 1 Faerie Mastermind (PMOM) 58p
 1 Faramir, Prince of Ithilien (LTR) 319
@@ -35,18 +37,19 @@
 1 Fierce Guardianship (C20) 35
 1 Flawless Maneuver (C20) 26
 1 Flooded Strand (KTK) 233
-1 Forth Eorlingas! (LTC) 56
 1 Glacial Fortress (LTC) 315
 1 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (BOT) 11
 1 Greymond, Avacyn's Stalwart (SLD) 143
 1 Hallowed Fountain (UNF) 277
 1 Horn of Gondor (LTR) 240
+1 Horn of the Mark (LTR) 241
 1 Imperial Recruiter (2XM) 131
 1 Island (LTR) 264
 1 Kiki-Jiki, Mirror Breaker (CHK) 175
 1 Loran of the Third Path (BRO) 12
 1 Luminous Broodmoth (BLC) 144
 1 Mass Appeal (AVR) 66
+1 Meticulous Archive (MKM) 328
 1 Minamo, School at Water's Edge (CHK) 279
 1 Mountain (LTR) 268
 1 Mystic Gate (CMM) 1013
@@ -55,6 +58,7 @@
 1 Otawara, Soaring City (NEO) 503
 1 Palace Jailer (LTC) 174
 1 Path of Ancestry (LTC) 322
+1 Path to Exile (LTC) 175
 3 Plains (LTR) 263
 1 Port Razer (LCC) 230
 1 Prince Imrahil the Fair (LTR) 219
@@ -63,7 +67,6 @@
 1 Ranger-Captain of Eos (MH1) 21
 1 Raugrin Triome (IKO) 311
 1 Reconnaissance (ACR) 82
-1 Recruiter of the Guard (CN2) 22
 1 Retribution of the Meek (VIS) 19
 1 Rhystic Study (J22) 114
 1 Rugged Prairie (CMM) 1022
@@ -73,18 +76,16 @@
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Sea of Clouds (BBD) 84
 1 Secluded Courtyard (LTC) 330
-1 Serra Ascendant (IMA) 31
 1 Shared Animosity (LTC) 226
 1 Smothering Tithe (RNA) 22
 1 Sol Ring (LTC) 284
 1 Spectator Seating (CMR) 711
 1 Steam Vents (UNF) 283
 1 Stormcarved Coast (VOW) 284
-1 Sundown Pass (WHO) 310
+1 Sulfur Falls (LTC) 333
 1 Swan Song (LTC) 197
 1 Swords to Plowshares (LTC) 178
 1 Talisman of Conviction (LTC) 285
-1 Talisman of Creativity (MH1) 231
 1 Talisman of Progress (LTC) 286
 1 Taunt from the Rampart (LTC) 71
 1 Teferi's Protection (C17) 8
@@ -93,6 +94,5 @@
 1 Tithe (VIS) 23
 1 Training Center (CMR) 713
 1 Tundra (3ED) 289
+1 Unbreakable Formation (LTC) 179
 1 Valkyrie's Call (FDN) 27
-1 Wayfarer's Bauble (LTC) 290
-1 Weathered Wayfarer (LTC) 183

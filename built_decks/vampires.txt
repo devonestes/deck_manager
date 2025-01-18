@@ -1,6 +1,7 @@
 Edgar Markov
 Agadeem's Awakening // Agadeem, the Undercrypt
 Akroma's Will
+Ancient Tomb
 Anguished Unmaking
 Arcane Signet
 Arid Mesa
@@ -14,12 +15,12 @@ Bloodghast
 Bloodletter of Aclazotz
 Bloodline Keeper // Lord of Lineage
 Bloodstained Mire
-Bojuka Bog
 Captivating Vampire
 Cavern of Souls
 Caves of Koilos
 Champion of Dusk
 Changeling Outcast
+Charismatic Conqueror
 City of Brass
 Clavileño, First of the Blessed
 Clifftop Retreat
@@ -31,7 +32,6 @@ Cruel Celebrant
 Damn
 Dark Ritual
 Demonic Tutor
-Diabolic Intent
 Dictate of Erebos
 Dragonskull Summit
 Drana and Linvala
@@ -51,6 +51,7 @@ Immersturm Predator
 Indulgent Aristocrat
 Isolated Chapel
 Kindred Dominance
+Legion Lieutenant
 Luxury Suite
 Markov Baron
 Marsh Flats
@@ -58,21 +59,22 @@ Master of Dark Rites
 Mountain
 New Blood
 Nighthawk Scavenger
-Olivia's Wrath
 Pact of the Serpent
-Path of Ancestry
 Patriarch's Bidding
 Phyrexian Tower
 Plains
-Preacher of the Schism
 Redemption Choir
 Reflecting Pool
 Roaming Throne
+Rugged Prairie
 Ruinous Ultimatum
 Sacred Foundry
+Sanctum Seeker
 Sanguine Bond
 Savai Triome
 Scrubland
+Shadowy Backstreet
+Shared Animosity
 Shattered Sanctum
 Skullclamp
 Sol Ring
@@ -96,5 +98,3 @@ Viscera Seer
 Vito, Thorn of the Dusk Rose
 Vraan, Executioner Thane
 Welcoming Vampire
-Wheel of Fortune
-Word of Command

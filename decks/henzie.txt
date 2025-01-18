@@ -1,6 +1,7 @@
 1 Henzie "Toolbox" Torre (NCC) 2
 1 Ancient Brass Dragon (CLB) 367
 1 Ancient Copper Dragon (CLB) 161
+1 Ancient Tomb (TMP) 315
 1 Animate Dead (3ED) 93
 1 Arcane Signet (MOC) 348
 1 Archon of Cruelty (MH2) 75
@@ -10,11 +11,11 @@
 1 Bane of Progress (C13) 137
 1 Birthing Pod (NPH) 104
 1 Birthing Ritual (MH3) 337
-1 Blasphemous Act (BRC) 113
 1 Blood Crypt (UNF) 279
 1 Bloodstained Mire (KTK) 230
 1 Blossoming Tortoise (WOE) 163
 1 Boggart Trawler // Boggart Bog (MH3) 243
+1 Boseiju, Who Endures (NEO) 266
 1 Bringer of the Last Gift (LCI) 94
 1 Buried Alive (WTH) 63
 1 Cinder Glade (DMC) 203
@@ -23,11 +24,11 @@
 1 Culling Ritual (ONC) 117
 1 Cultivate (J22) 644
 1 Deadly Rollick (C20) 42
+1 Deflecting Swat (CMM) 698
 1 Delighted Halfling (LTR) 158
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
 1 Evercoat Ursine (BLC) 30
-1 Exotic Orchard (MOC) 398
 1 Farseek (RVR) 138
 1 Fire-Lit Thicket (SHM) 271
 1 Flare of Cultivation (MH3) 154
@@ -37,6 +38,7 @@
 1 Grave Pact (CMM) 639
 1 Graven Cairns (SHM) 272
 1 Gruff Triplets (WOE) 172
+1 Haunted Ridge (MID) 282
 1 Ignoble Hierarch (MH2) 166
 1 Industrial Advancement (NCC) 47
 1 Junji, the Midnight Sky (NEO) 409
@@ -50,10 +52,9 @@
 1 Kura, the Boundless Sky (NEO) 200
 1 Living Death (LTC) 203
 1 Llanowar Wastes (BRO) 299
+1 Luxury Suite (ZNE) 18
 1 Mikaeus, the Unhallowed (CMM) 675
-1 Mossfire Valley (NCC) 414
 2 Mountain (J22) 107
-1 Necromancy (VIS) 64
 1 Ojer Kaslem, Deepest Growth // Temple of Cultivation (LCI) 204
 1 Old Gnawbone (AFR) 197
 1 Overgrown Tomb (UNF) 284
@@ -66,7 +67,6 @@
 1 Sakura-Tribe Elder (CHK) 239
 1 Saw in Half (BLC) 113
 1 Shadow in the Warp (40K) 140
-1 Shadowblood Ridge (BRC) 199
 1 Skullclamp (DST) 140
 1 Smoldering Marsh (BRC) 202
 1 Sol Ring (MOC) 381
@@ -74,8 +74,8 @@
 1 Spire Garden (ZNE) 19
 1 Stomping Ground (UNF) 280
 1 Stump Stomp // Burnwillow Clearing (MH3) 259
-1 Sundial of the Infinite (M12) 218
 3 Swamp (J22) 106
+1 Taiga (3ED) 287
 1 Takenuma, Abandoned Mire (NEO) 416
 1 The Great Henge (LTC) 348
 1 The Skullspore Nexus (LCI) 212

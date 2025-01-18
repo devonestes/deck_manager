@@ -1,64 +1,56 @@
-Adeline, Resplendent Cathar (PROXY)
 Akroma's Will (PROXY)
 Ancient Tomb (PROXY)
 Arachnogenesis (PROXY)
-Birds of Paradise (PROXY)
+Avenger of Zendikar (PROXY)
 Boseiju, Who Endures (PROXY)
-Bountiful Promenade (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
 Charismatic Conqueror (PROXY)
 Cyclonic Rift (PROXY)
 Delighted Halfling (PROXY)
-Deserted Beach (PROXY)
 Dreamroot Cascade (PROXY)
 Dryad Arbor (PROXY)
 Elven Chorus (PROXY)
-Esper Sentinel (PROXY)
-Faerie Mastermind (PROXY)
-Fierce Guardianship (PROXY)
-Flooded Grove (PROXY)
 Flooded Strand (PROXY)
-Gruff Triplets (PROXY)
 Heroic Intervention (PROXY)
-Hinterland Harbor (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
-Noble Hierarch (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Oltec Matterweaver (PROXY)
-Otawara, Soaring City (PROXY)
 Overgrown Farmland (PROXY)
 Rejuvenating Springs (PROXY)
 Rhys the Redeemed (PROXY)
-Rhystic Study (PROXY)
 Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Sea of Clouds (PROXY)
-Spara's Headquarters (PROXY)
 Teferi's Protection (PROXY)
 Three Visits (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Urza's Saga (PROXY)
 Windswept Heath (PROXY)
-Yavimaya Hollow (PROXY)
 Galadriel, Light of Valinor
+Adeline, Resplendent Cathar
 Arcane Signet
 Arwen, Weaver of Hope
-Avenger of Zendikar
 Beast Whisperer
 Bennie Bracks, Zoologist
+Birds of Paradise
+Bountiful Promenade
 Bramble Sovereign
+Caretaker's Talent
 Cauldron of Souls
 Command Tower
 Damning Verdict
 Danny Pink
-Doubling Season
+Deserted Beach
+Detective of the Month
 Earthcraft
 Eladamri, Korvecdal
 Evolution Witness
 Faerie Artisans
+Faerie Mastermind
 Felidar Retreat
+Fierce Guardianship
+Flooded Grove
 Forest
 Forest
 Forest
@@ -66,27 +58,34 @@ Gala Greeters
 Galadhrim Ambush
 Glacial Fortress
 Glen Elendra Archmage
+Gruff Triplets
 Gyre Sage
 Hallowed Fountain
 Herald of Secret Streams
 Herd Baloth
+Hinterland Harbor
 Imperious Perfect
 Incubation Druid
 Inspiring Call
+Island
 Island
 Island
 Kami of Whispered Hopes
 Karn's Bastion
 Master Biomancer
 Mondrak, Glory Dominus
-Mystic Remora
 Nadir Kraken
+Noble Hierarch
+Otawara, Soaring City
 Overwhelming Stampede
-Perch Protection
 Peregrine Drake
 Plains
+Plains
+Rhystic Study
 Ripples of Potential
+Sea of Clouds
 Sol Ring
+Spara's Headquarters
 Strength of the Harvest // Haven of the Harvest
 Suppression Ray // Orderly Plaza
 Temple Garden
@@ -98,3 +97,4 @@ Wave Goodbye
 Windswift Slice
 Witch Enchanter // Witch-Blessed Meadow
 Wolverine Riders
+Yavimaya Hollow

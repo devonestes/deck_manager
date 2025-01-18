@@ -1,0 +1,81 @@
+1 The Gitrog, Ravenous Ride (OTJ) 352
+1 Arcane Signet (SLD) 1641
+1 Assassin's Trophy (GRN) 152
+1 Avenger of Zendikar (C13) 135
+1 Beanstalk Giant // Fertile Footsteps (ELD) 149
+1 Beast Within (ONC) 104
+1 Birds of Paradise (M12) 165
+1 Bojuka Bog (MOC) 391
+1 Clackbridge Troll (ELD) 84
+1 Colossal Rattlewurm (OTJ) 159
+1 Command Tower (MOC) 396
+1 Cultivate (J22) 644
+1 Daemogoth Titan (STX) 174
+1 Daemogoth Woe-Eater (STX) 175
+1 Darkbore Pathway // Slitherbore Pathway (KHM) 292
+1 Deadly Rollick (CMM) 695
+1 Egon, God of Death // Throne of Death (KHM) 92
+1 Elvish Mystic (CMM) 648
+1 Eternal Witness (M3C) 227
+1 Fanatic of Rhonas (MH3) 458
+1 Farseek (RVR) 138
+13 Forest (J22) 112
+1 Garruk's Uprising (WOT) 53
+1 Ghalta, Primal Hunger (FDN) 222
+1 Golgari Rot Farm (IMA) 236
+1 Groundbreaker (PLC) 148
+1 Heroic Intervention (LTC) 249
+1 Honest Rutstein (OTJ) 207
+1 Hungry Mist (HML) 88b
+1 Hunted Bonebrute (MKM) 87
+1 Hunted Horror (CLB) 758
+1 Hunted Troll (RAV) 170
+1 Llanowar Elves (FDN) 227
+1 Llanowar Wastes (BRO) 299
+1 Lotus Cobra (ZNR) 307
+1 Lupine Prototype (INR) 267
+1 Nature's Lore (DMR) 170
+1 Necroblossom Snarl (BLC) 319
+1 Nessian Boar (THB) 181
+1 Overgrown Tomb (RVR) 407
+1 Psychosis Crawler (MKC) 234
+1 Pugnacious Hammerskull (LCI) 208
+1 Quakestrider Ceratops (FDN) 110
+1 Quest for the Necropolis (MH3) 104
+1 Quick-Draw Katana (FDN) 130
+1 Rampaging Baloths (C19) 176
+1 Rampant Growth (M12) 190
+1 Reanimate (TMP) 151
+1 Relic Golem (ZNR) 249
+1 Reliquary Tower (BRC) 196
+1 Retreat to Hagra (C18) 116
+1 Retreat to Kazandu (BFZ) 186
+1 Return of the Wildspeaker (ELD) 172
+1 Roaring Earth (NEO) 204
+1 Rogue's Passage (LTC) 326
+1 Selvala, Heart of the Wilds (JMP) 429
+1 Shakedown Heavy (SNC) 95
+1 Sol Ring (MOC) 381
+1 Spectral Force (PLST) TSP-217
+1 Spinner of Souls (FDN) 341
+8 Swamp (LCI) 397
+1 Tainted Wood (PLST) TOR-143
+1 Tamiyo's Safekeeping (NEO) 211
+1 Tear Asunder (BLC) 241
+1 Thought Vessel (PLG22) 2
+1 Three Visits (MKC) 189
+1 Tireless Provisioner (PLST) MH2-180
+1 Torment of Hailfire (HOU) 77
+1 Toxic Deluge (C13) 96
+1 Underground Mortuary (MKM) 333
+1 Undergrowth Stadium (CMM) 666
+1 Unnatural Growth (SLD) 865
+1 Urborg, Tomb of Yawgmoth (LTC) 375
+1 Verdant Catacombs (MH2) 440
+1 Viridescent Bog (BLC) 352
+1 Waning Wurm (PLC) 83
+1 Whispersilk Cloak (LTC) 292
+1 Yargle and Multani (MOM) 256
+1 Yargle, Glutton of Urborg (CMM) 202
+1 Yavimaya, Cradle of Growth (MH2) 441
+1 Zendikar's Roil (ORI) 209

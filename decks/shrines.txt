@@ -1,4 +1,5 @@
 1 Go-Shintai of Life's Origin (NEC) 37
+1 Adarkar Wastes (ICE) 351
 1 Argothian Enchantress (USG) 234
 1 Atraxa, Grand Unifier (ONE) 196
 1 Birds of Paradise (4ED) 234
@@ -7,9 +8,7 @@
 1 Breeding Pool (UNF) 286
 1 Brushland (BRO) 259
 1 Cacophony Unleashed (CMM) 730
-1 City of Brass (5ED) 413
 1 Command Tower (MOC) 396
-1 Crop Rotation (DMR) 154
 1 Cyclonic Rift (RTR) 35
 1 Demonic Tutor (3ED) 105
 1 Destiny Spinner (THB) 168
@@ -21,10 +20,11 @@
 1 Exotic Orchard (C19) 242
 1 Extinguish All Hope (JOU) 68
 1 Fierce Guardianship (C20) 35
-1 Forbidden Orchard (C16) 296
 1 Forest (ONE) 266
 1 Ghostly Prison (ONC) 71
 1 Ghoulish Impetus (CMM) 732
+1 Glacial Fortress (LTC) 315
+1 Gloomlake Verge (DSK) 331
 1 Go-Shintai of Ancient Wars (NEO) 144
 1 Go-Shintai of Boundless Vigor (NEO) 187
 1 Go-Shintai of Hidden Cruelty (NEO) 97
@@ -45,6 +45,7 @@
 1 Island (ONE) 263
 1 Jetmir's Garden (SNC) 291
 1 Jukai Naturalist (NEO) 225
+1 Lush Portico (MKM) 327
 1 Mirari's Wake (C17) 181
 1 Misty Rainforest (MM3) 240
 1 Moat (LEG) 28
@@ -57,9 +58,9 @@
 1 Plains (3ED) 292
 1 Reliquary Tower (BRC) 196
 1 Replenish (UDS) 15
+1 Retribution of the Meek (VIS) 19
 1 Rhystic Study (J22) 114
 1 Roaring Furnace // Steaming Sauna (DSK) 230
-1 Rockfall Vale (MID) 266
 1 Sanctum of All (M21) 225
 1 Sanctum of Calm Waters (M21) 68
 1 Sanctum of Fruitful Harvest (M21) 203
@@ -67,8 +68,6 @@
 1 Sanctum of Stone Fangs (M21) 120
 1 Sanctum of Tranquil Light (M21) 33
 1 Sanctum Weaver (MH2) 171
-1 Savai Triome (IKO) 312
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Sea of Clouds (BBD) 84
 1 Setessan Champion (CMM) 912
 1 Shadow of the Second Sun (MH3) 70
@@ -76,17 +75,18 @@
 1 Smothering Tithe (RNA) 22
 1 Sol Ring (3ED) 274
 1 Spara's Headquarters (SNC) 293
+1 Spectator Seating (CMM) 664
 1 Sphere of Safety (DSC) 104
-1 Steam Vents (UNF) 283
+1 Starfield Mystic (M20) 39
 1 Sterling Grove (MH2) 293
-1 Stomping Ground (UNF) 280
+1 Sunpetal Grove (SLD) 460
 1 Swamp (MOM) 279
 1 Swan Song (LTC) 197
 1 Sythis, Harvest's Hand (MH2) 214
 1 Teferi's Protection (C17) 8
 1 Temple Garden (UNF) 281
 1 The World Tree (KHM) 373
-1 Tithe (VIS) 23
+1 Undergrowth Stadium (CMM) 666
 1 Valgavoth's Lair (DSK) 271
 1 Vampiric Tutor (VIS) 72
 1 Verdant Catacombs (MM3) 249

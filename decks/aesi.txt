@@ -1,7 +1,5 @@
 1 Aesi, Tyrant of Gyre Strait (CMR) 365
-1 Abundance (40K) 210
 1 Ancient Greenwarden (ZNR) 178
-1 Apex Devastator (CMR) 674
 1 Arid Archway (OTJ) 252
 1 Ashaya, Soul of the Wild (ZNR) 179
 1 Augur of Autumn (MID) 168
@@ -10,11 +8,9 @@
 1 Azusa, Lost but Seeking (A25) 161
 1 Bonny Pall, Clearcutter (OTJ) 196
 1 Breeding Pool (UNF) 286
-1 Bristly Bill, Spine Sower (OTJ) 157
 1 Brokers Hideout (SNC) 248
 1 Burgeoning (STH) 102
 1 Case of the Locked Hothouse (MKM) 155
-1 Command Tower (MOC) 396
 1 Conduit of Worlds (ONE) 163
 1 Constant Mists (STH) 104
 1 Coral Atoll (VIS) 160
@@ -22,36 +18,36 @@
 1 Cultivator Colossus (VOW) 195
 1 Doppelgang (MKM) 198
 1 Dryad of the Ilysian Grove (THB) 169
+1 Elvish Reclaimer (M20) 169
 1 Entish Restoration (LTR) 163
 1 Exploration (CNS) 164
 1 Fabled Passage (ELD) 244
 1 Fecund Greenshell (BLB) 362
 1 Field of the Dead (M20) 247
-1 Flooded Grove (LTC) 309
 1 Flooded Strand (KTK) 233
-3 Forest (J22) 110
+5 Forest (J22) 110
 1 Greensleeves, Maro-Sorcerer (DMC) 77
 1 Growth Spiral (CMR) 446
 1 Halimar Depths (C18) 253
-1 Hinterland Harbor (LTC) 317
+1 Hedge Maze (MKM) 326
 1 Hydroid Krasis (RNA) 183
-3 Island (MOM) 278
+5 Island (MOM) 278
 1 Jungle Basin (VIS) 164
 1 Kodama of the East Tree (BLC) 227
 1 Koma, Cosmos Serpent (KHM) 221
+1 Koma, World-Eater (FDN) 121
 1 Last March of the Ents (LTR) 418
 1 Llanowar Scout (DOM) 170
 1 Loot, Exuberant Explorer (FDN) 106
 1 Lotus Cobra (BLC) 229
 1 Lotus Vale (WTH) 165
+1 Lumra, Bellow of the Woods (BLB) 183
 1 Magus of the Candelabra (M3C) 236
 1 Mana Breach (EXO) 38
-1 Mana Reflection (M3C) 237
 1 Misty Rainforest (MM3) 240
 1 Mossborn Hydra (FDN) 107
 1 Mystic Sanctuary (ELD) 247
 1 Nissa, Resurgent Animist (MAT) 22
-1 Nissa, Steward of Elements (C20) 224
 1 Nyxbloom Ancient (THB) 190
 1 Oboro, Palace in the Clouds (LTC) 371
 1 Omenpath Journey (BIG) 18
@@ -59,38 +55,38 @@
 1 Open the Way (MAT) 23
 1 Oracle of Mul Daya (JMP) 415
 1 Overburden (PCY) 39
-1 Palinchron (ULG) 38
+1 Overlord of the Hauntwoods (DSK) 194
 1 Planar Genesis (MH3) 198
 1 Polluted Delta (MH3) 438
 1 Prismatic Vista (MH1) 244
 1 Rampaging Baloths (C19) 176
-1 Rampant Frogantua (M3C) 118
 1 Ramunap Excavator (M3C) 241
 1 Reliquary Tower (BRC) 196
 1 Retreat to Coralhelm (BFZ) 82
+1 Rimewood Falls (KHM) 266
 1 Roil Elemental (ZEN) 62
+1 Rootpath Purifier (BRC) 44
 1 Scalding Tarn (MM3) 244
 1 Scapeshift (M19) 201
 1 Scute Swarm (OTC) 205
 1 Simic Growth Chamber (CM2) 267
+1 Sink into Stupor // Soporific Springs (MH3) 241
 1 Skyshroud Claim (CMM) 321
 1 Skyshroud Ranger (TMP) 256
 1 Snow-Covered Forest (ICE) 383
 1 Snow-Covered Island (ICE) 371
 1 Sol Ring (MOC) 381
+1 Spelunking (LCI) 213
+1 Springheart Nantuko (MH3) 341
 1 Storm Cauldron (ALL) 134
-1 Talon Gates of Madara (M3C) 134
+1 Tangled Islet (DMU) 258
 1 Tatyova, Benthic Druid (DMR) 203
 1 Thawing Glaciers (ALL) 144
-1 Thespian's Stage (C19) 282
 1 Tireless Provisioner (MH2) 180
 1 Titania, Protector of Argoth (CMA) 157
 1 Undiscovered Paradise (VIS) 167
 1 Uro, Titan of Nature's Wrath (THB) 229
 1 Vorinclex // The Grand Evolution (MOM) 213
-1 Vorinclex, Voice of Hunger (IMA) 189
-1 Waterlogged Grove (MH1) 249
 1 Wayward Swordtooth (LCC) 263
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249
-1 Yavimaya Hollow (UDS) 143

@@ -3,8 +3,10 @@
 1 Ancient Cornucopia (BIG) 46
 1 Arachnogenesis (CMM) 647
 1 Archmage Emeritus (OTC) 90
-1 Arena of Glory (MH3) 215
+1 Archmage of Runes (FDN) 30
+1 Ashling, Flame Dancer (MH3) 367
 1 Big Score (SNC) 102
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty (KHM) 123
 1 Brainsurge (MH3) 53
 1 Brazen Borrower // Petty Theft (SLD) 234
 1 Breeding Pool (RVR) 399
@@ -49,7 +51,7 @@
 1 Polluted Delta (MH3) 438
 1 Primal Amulet // Primal Wellspring (XLN) 243
 1 Prismari Command (LCC) 279
-1 Prosperous Bandit (BLC) 25
+1 Rejuvenating Springs (LTC) 325
 1 Sakashima of a Thousand Faces (CMR) 89
 1 Sakashima the Impostor (SOK) 53
 1 Scalding Tarn (MH2) 439
@@ -58,8 +60,8 @@
 1 Snapping Voidcraw (MH3) 204
 1 Solemn Simulacrum (BRC) 161
 1 Spark Double (RVR) 319
-1 Spelunking (LCI) 213
 1 Steam Vents (RVR) 412
+1 Stitch in Time (RVR) 384
 1 Stomping Ground (RVR) 413
 1 Storm-Kiln Artist (OTC) 181
 1 Sulfur Falls (LTC) 333
@@ -72,13 +74,11 @@
 1 Treachery (UDS) 50
 1 Treasure Cruise (OTC) 120
 1 Twinning Staff (NCC) 383
-1 Unwind (DOM) 72
 1 Urabrask // The Great Work (MOM) 169
 1 Urban Evolution (C19) 205
 1 Uro, Titan of Nature's Wrath (MB2) 93
 1 Veyran, Voice of Duality (C21) 330
 1 Volcanic Island (3ED) 291
-1 Wilderness Reclamation (RNA) 149
 1 Windswept Heath (MH3) 440
 1 Wood Elves (LTC) 263
 1 Yavimaya Coast (DMU) 261

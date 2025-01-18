@@ -4,19 +4,18 @@ Alchemist's Refuge
 All Is Dust
 Aphetto Runecaster
 Arcane Signet
-Assassin's Trophy
 Aveline de Grandpré
 Bayou
 Beast Whisperer
+Boseiju, Who Endures
 Branch of Vitu-Ghazi
 Breeding Pool
 Brine Elemental
 Chromeshell Crab
 Command Tower
 Craterhoof Behemoth
-Cryptic Coat
-Crystal Shard
 Cyclonic Rift
+Deadly Rollick
 Deathcap Glade
 Deathmist Raptor
 Den Protector
@@ -25,8 +24,7 @@ Elven Chorus
 Etrata, Deadly Fugitive
 Experiment Twelve
 Farseek
-Final-Word Phantom
-Flooded Grove
+Fierce Guardianship
 Flourishing Bloom-Kin
 Forest
 Gift of Doom
@@ -34,11 +32,9 @@ Grazilaxx, Illithid Scholar
 Grim Haruspex
 Guardian Project
 Heroic Intervention
-Hide in Plain Sight
 High Fae Trickster
 Hooded Hydra
 Icefeather Aven
-Island
 Island
 Ixidron
 Kadena's Silencer
@@ -57,6 +53,7 @@ Overgrown Tomb
 Polluted Delta
 Printlifter Ooze
 Rampant Growth
+Rejuvenating Springs
 Reliquary Tower
 Revitalizing Repast // Old-Growth Grove
 Satoru, the Infiltrator
@@ -65,6 +62,8 @@ Seedborn Muse
 Shipwreck Marsh
 Silumgar Assassin
 Simic Growth Chamber
+Sink into Stupor // Soporific Springs
+Skittering Cicada
 Sol Ring
 Stratus Dancer
 Sunken Ruins
@@ -77,11 +76,13 @@ Thieving Amalgam
 Thousand Winds
 Three Visits
 Triumph of the Hordes
+Tropical Island
 Twilight Mire
-Ugin's Mastery
+Undercity Sewers
 Underground Mortuary
 Underground Sea
 Undergrowth Stadium
+Urza's Saga
 Vannifar, Evolved Enigma
 Verdant Catacombs
 Vesuvan Shapeshifter
@@ -96,5 +97,4 @@ Worldly Tutor
 Yavimaya Coast
 Yavimaya, Cradle of Growth
 Yedora, Grave Gardener
-Zagoth Triome
 Zoetic Cavern

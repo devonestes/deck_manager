@@ -11,10 +11,12 @@ Bite Down
 Branching Evolution
 Cinder Glade
 Command Tower
+Commercial District
 Contest of Claws
 Cosmic Hunger
 Court of Garenbrig
 Defiler of Vigor
+Delighted Halfling
 Domri, Anarch of Bolas
 Elvish Mystic
 Embercleave
@@ -31,11 +33,6 @@ Forest
 Forest
 Forest
 Forest
-Forest
-Forest
-Forest
-Forest
-Forgotten Ancient
 Game Trail
 Goblin Anarchomancer
 Goldvein Hydra
@@ -43,6 +40,7 @@ Gruul Turf
 Halana and Alena, Partners
 Hard-Hitting Question
 Hardened Scales
+Innkeeper's Talent
 Inscription of Abundance
 Invigorate
 Invigorating Hot Spring
@@ -53,9 +51,8 @@ Khalni Ambush // Khalni Territory
 Lion Umbra
 Llanowar Elves
 Mage Slayer
-Managorger Hydra
+Misty Rainforest
 Mossfire Valley
-Mountain
 Mountain
 Mountain
 Mountain
@@ -75,15 +72,16 @@ Quilled Greatwurm
 Rabid Gnaw
 Railway Brawler
 Ram Through
+Restless Ridgeline
 Rhonas the Indomitable
 Rhythm of the Wild
-Rite of Passage
 Rogue's Passage
 Signature Slam
 Snake Umbra
 Snakeskin Veil
 Sol Ring
 Soul's Fire
+Spire Garden
 Stomping Ground
 Swiftfoot Boots
 Talisman of Impulse
@@ -98,3 +96,5 @@ Vigor
 Waltz of Rage
 Wild Growth
 Worldslayer
+Xenagos, God of Revels
+Yavimaya, Cradle of Growth

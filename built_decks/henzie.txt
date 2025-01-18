@@ -1,6 +1,7 @@
 Henzie "Toolbox" Torre
 Ancient Brass Dragon
 Ancient Copper Dragon
+Ancient Tomb
 Animate Dead
 Arcane Signet
 Archon of Cruelty
@@ -10,11 +11,11 @@ Atsushi, the Blazing Sky
 Bane of Progress
 Birthing Pod
 Birthing Ritual
-Blasphemous Act
 Blood Crypt
 Bloodstained Mire
 Blossoming Tortoise
 Boggart Trawler // Boggart Bog
+Boseiju, Who Endures
 Bringer of the Last Gift
 Buried Alive
 Cinder Glade
@@ -23,11 +24,11 @@ Commercial District
 Culling Ritual
 Cultivate
 Deadly Rollick
+Deflecting Swat
 Delighted Halfling
 Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
 Evercoat Ursine
-Exotic Orchard
 Farseek
 Fire-Lit Thicket
 Flare of Cultivation
@@ -41,6 +42,7 @@ Goreclaw, Terror of Qal Sisma
 Grave Pact
 Graven Cairns
 Gruff Triplets
+Haunted Ridge
 Ignoble Hierarch
 Industrial Advancement
 Junji, the Midnight Sky
@@ -54,11 +56,10 @@ Kokusho, the Evening Star
 Kura, the Boundless Sky
 Living Death
 Llanowar Wastes
+Luxury Suite
 Mikaeus, the Unhallowed
-Mossfire Valley
 Mountain
 Mountain
-Necromancy
 Ojer Kaslem, Deepest Growth // Temple of Cultivation
 Old Gnawbone
 Overgrown Tomb
@@ -71,7 +72,6 @@ Rottenmouth Viper
 Sakura-Tribe Elder
 Saw in Half
 Shadow in the Warp
-Shadowblood Ridge
 Skullclamp
 Smoldering Marsh
 Sol Ring
@@ -79,10 +79,10 @@ Solemn Simulacrum
 Spire Garden
 Stomping Ground
 Stump Stomp // Burnwillow Clearing
-Sundial of the Infinite
 Swamp
 Swamp
 Swamp
+Taiga
 Takenuma, Abandoned Mire
 The Great Henge
 The Skullspore Nexus

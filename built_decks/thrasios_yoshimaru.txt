@@ -3,21 +3,19 @@ Yoshimaru, Ever Faithful
 Amulet of Vigor
 An Offer You Can't Refuse
 Ancient Tomb
+Arbor Elf
 Archivist of Oghma
 Arid Mesa
-Avacyn's Pilgrim
 Basalt Monolith
 Biomancer's Familiar
 Birds of Paradise
 Bloom Tender
 Boseiju, Who Endures
-Bountiful Promenade
 Breeding Pool
 Cephalid Coliseum
 Chord of Calling
 Chrome Mox
 Command Tower
-Crop Rotation
 Cyclonic Rift
 Devoted Druid
 Dramatic Reversal
@@ -45,6 +43,7 @@ Gemstone Caverns
 Grand Abolisher
 Green Sun's Zenith
 Hallowed Fountain
+Hedge Maze
 Intuition
 Island
 Isochron Scepter
@@ -57,6 +56,7 @@ Mana Confluence
 Mana Drain
 Mana Vault
 Marsh Flats
+Meticulous Archive
 Mindbreak Trap
 Misty Rainforest
 Mox Amber
@@ -73,7 +73,6 @@ Pact of Negation
 Plains
 Polluted Delta
 Ranger-Captain of Eos
-Rejuvenating Springs
 Rhystic Study
 Rings of Brighthearth
 Savannah
@@ -81,6 +80,7 @@ Scalding Tarn
 Seedborn Muse
 Sevinne's Reclamation
 Silence
+Sink into Stupor // Soporific Springs
 Sol Ring
 Spell Pierce
 Springleaf Drum

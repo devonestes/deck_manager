@@ -1,54 +1,40 @@
-Adeline, Resplendent Cathar (PROXY)
-Ancient Tomb (PROXY)
-Aurelia, the Law Above (PROXY)
-Cavern of Souls (PROXY)
-Clever Concealment (PROXY)
-Conjurer's Mantle (PROXY)
-Cyclonic Rift (PROXY)
-Elesh Norn, Grand Cenobite (PROXY)
-Esper Sentinel (PROXY)
-Faerie Mastermind (PROXY)
-Fierce Guardianship (PROXY)
-Forth Eorlingas! (PROXY)
-Imperial Recruiter (PROXY)
-Otawara, Soaring City (PROXY)
-Ragavan, Nimble Pilferer (PROXY)
-Ranger-Captain of Eos (PROXY)
-Recruiter of the Guard (PROXY)
-Rhystic Study (PROXY)
-Scalding Tarn (PROXY)
-Serra Ascendant (PROXY)
-Spectator Seating (PROXY)
-Stormcarved Coast (PROXY)
-Sundown Pass (PROXY)
-Swan Song (PROXY)
-Training Center (PROXY)
-Tundra (PROXY)
-Weathered Wayfarer (PROXY)
 Aragorn, King of Gondor
 Adarkar Wastes
+Adeline, Resplendent Cathar
+Adriana, Captain of the Guard
 Akroma's Will
+Ancient Tomb
+Angelic Field Marshal
+Arcane Denial
 Arcane Signet
 Archivist of Gondor
 Arid Mesa
 Aurelia, the Warleader
 Azure Fleet Admiral
+Bastion Protector
 Battlefield Forge
 Beregond of the Guard
 Blade Historian
 Cascade Bluffs
 Cathars' Crusade
+Cavern of Souls
 Champions of Minas Tirith
 Clifftop Retreat
 Combat Celebrant
 Command Tower
 Coppercoat Vanguard
 Court of Grace
+Court of Ire
 Court of Vantress
+Cyclonic Rift
 Deserted Beach
 Dolmen Gate
+Elegant Parlor
+Esper Sentinel
+Faerie Mastermind
 Faramir, Prince of Ithilien
 Faramir, Steward of Gondor
+Fierce Guardianship
 Flawless Maneuver
 Flooded Strand
 Glacial Fortress
@@ -56,45 +42,59 @@ Goldbug, Humanity's Ally // Goldbug, Scrappy Scout
 Greymond, Avacyn's Stalwart
 Hallowed Fountain
 Horn of Gondor
+Horn of the Mark
+Imperial Recruiter
 Island
 Kiki-Jiki, Mirror Breaker
 Loran of the Third Path
 Luminous Broodmoth
 Mass Appeal
+Meticulous Archive
 Minamo, School at Water's Edge
 Mountain
 Mystic Gate
 Odric, Lunarch Marshal
 Odric, Master Tactician
+Otawara, Soaring City
 Palace Jailer
 Path of Ancestry
+Path to Exile
 Plains
 Plains
 Plains
 Port Razer
 Prince Imrahil the Fair
 Professional Face-Breaker
+Ragavan, Nimble Pilferer
+Ranger-Captain of Eos
 Raugrin Triome
 Reconnaissance
 Retribution of the Meek
+Rhystic Study
 Rugged Prairie
 Sacred Foundry
 Savage Beating
+Scalding Tarn
 Sea Gate Restoration // Sea Gate, Reborn
 Sea of Clouds
 Secluded Courtyard
 Shared Animosity
 Smothering Tithe
 Sol Ring
+Spectator Seating
 Steam Vents
+Stormcarved Coast
+Sulfur Falls
+Swan Song
 Swords to Plowshares
 Talisman of Conviction
-Talisman of Creativity
 Talisman of Progress
 Taunt from the Rampart
 Teferi's Protection
 Thalia's Lieutenant
 Throne of the High City
 Tithe
+Training Center
+Tundra
+Unbreakable Formation
 Valkyrie's Call
-Wayfarer's Bauble
