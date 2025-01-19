@@ -1,3 +1,8 @@
+Eternal Witness (PROXY)
+Greensleeves, Maro-Sorcerer (PROXY)
+Lotus Cobra (PROXY)
+Tear Asunder (PROXY)
+Toxic Deluge (PROXY)
 The Gitrog, Ravenous Ride
 Arcane Signet
 Assassin's Trophy
@@ -15,9 +20,6 @@ Daemogoth Woe-Eater
 Darkbore Pathway // Slitherbore Pathway
 Deadly Rollick
 Egon, God of Death // Throne of Death
-Elvish Mystic
-Eternal Witness
-Fanatic of Rhonas
 Farseek
 Forest
 Forest
@@ -32,6 +34,8 @@ Forest
 Forest
 Forest
 Forest
+Forest
+Fyndhorn Elves
 Garruk's Uprising
 Ghalta, Primal Hunger
 Golgari Rot Farm
@@ -44,7 +48,6 @@ Hunted Horror
 Hunted Troll
 Llanowar Elves
 Llanowar Wastes
-Lotus Cobra
 Lupine Prototype
 Nature's Lore
 Necroblossom Snarl
@@ -80,12 +83,10 @@ Swamp
 Swamp
 Tainted Wood
 Tamiyo's Safekeeping
-Tear Asunder
 Thought Vessel
 Three Visits
 Tireless Provisioner
 Torment of Hailfire
-Toxic Deluge
 Underground Mortuary
 Undergrowth Stadium
 Unnatural Growth
@@ -96,5 +97,4 @@ Waning Wurm
 Whispersilk Cloak
 Yargle and Multani
 Yargle, Glutton of Urborg
-Yavimaya, Cradle of Growth
 Zendikar's Roil

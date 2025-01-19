@@ -1,7 +1,9 @@
+Adeline, Resplendent Cathar (PROXY)
 Akroma's Will (PROXY)
 Ancient Tomb (PROXY)
 Arachnogenesis (PROXY)
 Avenger of Zendikar (PROXY)
+Birds of Paradise (PROXY)
 Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
@@ -15,6 +17,7 @@ Flooded Strand (PROXY)
 Heroic Intervention (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
+Noble Hierarch (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Oltec Matterweaver (PROXY)
 Overgrown Farmland (PROXY)
@@ -22,18 +25,18 @@ Rejuvenating Springs (PROXY)
 Rhys the Redeemed (PROXY)
 Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
+Spara's Headquarters (PROXY)
 Teferi's Protection (PROXY)
+Temple Garden (PROXY)
 Three Visits (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Urza's Saga (PROXY)
 Windswept Heath (PROXY)
 Galadriel, Light of Valinor
-Adeline, Resplendent Cathar
 Arcane Signet
 Arwen, Weaver of Hope
 Beast Whisperer
 Bennie Bracks, Zoologist
-Birds of Paradise
 Bountiful Promenade
 Bramble Sovereign
 Caretaker's Talent
@@ -75,7 +78,6 @@ Karn's Bastion
 Master Biomancer
 Mondrak, Glory Dominus
 Nadir Kraken
-Noble Hierarch
 Otawara, Soaring City
 Overwhelming Stampede
 Peregrine Drake
@@ -85,10 +87,8 @@ Rhystic Study
 Ripples of Potential
 Sea of Clouds
 Sol Ring
-Spara's Headquarters
 Strength of the Harvest // Haven of the Harvest
 Suppression Ray // Orderly Plaza
-Temple Garden
 Tendershoot Dryad
 The Ozolith
 Tocasia's Welcome

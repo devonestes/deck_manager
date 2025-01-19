@@ -1,24 +1,32 @@
 Ancient Copper Dragon (PROXY)
 Ancient Tomb (PROXY)
 Balefire Dragon (PROXY)
+Bloodstained Mire (PROXY)
 Breeding Pool (PROXY)
 City of Brass (PROXY)
+Flooded Strand (PROXY)
 Forbidden Orchard (PROXY)
+Goldspan Dragon (PROXY)
 Guardian Project (PROXY)
+Ketria Triome (PROXY)
 Klauth, Unrivaled Ancient (PROXY)
 Kokusho, the Evening Star (PROXY)
 Kura, the Boundless Sky (PROXY)
 Misty Rainforest (PROXY)
 Old Gnawbone (PROXY)
+Overgrown Tomb (PROXY)
 Roaming Throne (PROXY)
 Scalding Tarn (PROXY)
+Steam Vents (PROXY)
 Stomping Ground (PROXY)
 Temur Ascendancy (PROXY)
 Terror of the Peaks (PROXY)
 The Great Henge (PROXY)
 The World Tree (PROXY)
 Three Visits (PROXY)
+Windswept Heath (PROXY)
 Wooded Foothills (PROXY)
+Ziatora's Proving Ground (PROXY)
 The Ur-Dragon
 Ancient Silver Dragon
 Arcane Signet
@@ -27,7 +35,6 @@ Badlands
 Beledros Witherbloom
 Birds of Paradise
 Blood Crypt
-Bloodstained Mire
 Bloom Tender
 Bonehoard Dracosaur
 Cavern of Souls
@@ -43,10 +50,8 @@ Dragonspeaker Shaman
 Exotic Orchard
 Farseek
 Fellwar Stone
-Flooded Strand
 Forest
 Godless Shrine
-Goldspan Dragon
 Hallowed Fountain
 Hellkite Courser
 Hellkite Tyrant
@@ -56,7 +61,6 @@ Indatha Triome
 Island
 Jetmir's Garden
 Karrthus, Tyrant of Jund
-Ketria Triome
 Kindred Discovery
 Kindred Dominance
 Lightning Greaves
@@ -68,7 +72,6 @@ Mountain
 Nature's Lore
 Omniscience
 Orb of Dragonkind
-Overgrown Tomb
 Path of Ancestry
 Plains
 Polluted Delta
@@ -83,7 +86,6 @@ Scalelord Reckoner
 Scourge of the Throne
 Sol Ring
 Spara's Headquarters
-Steam Vents
 Swamp
 Swords to Plowshares
 Teferi's Protection
@@ -94,7 +96,5 @@ Tiamat
 Urza's Incubator
 Utvara Hellkite
 Watery Grave
-Windswept Heath
 Zagoth Triome
-Ziatora's Proving Ground
 Zurgo and Ojutai

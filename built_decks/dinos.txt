@@ -1,7 +1,10 @@
 Ancient Tomb (PROXY)
+Arid Mesa (PROXY)
 Bloodstained Mire (PROXY)
+Boseiju, Who Endures (PROXY)
 Cavern of Souls (PROXY)
 Chandra's Ignition (PROXY)
+Delighted Halfling (PROXY)
 Entish Restoration (PROXY)
 Fire-Lit Thicket (PROXY)
 Flawless Maneuver (PROXY)
@@ -9,12 +12,14 @@ Flooded Strand (PROXY)
 Heroic Intervention (PROXY)
 Kogla and Yidaro (PROXY)
 Last March of the Ents (PROXY)
+Marsh Flats (PROXY)
 Mirari's Wake (PROXY)
 Misty Rainforest (PROXY)
 Nature's Lore (PROXY)
 Prismatic Vista (PROXY)
 Roaming Throne (PROXY)
 Rockfall Vale (PROXY)
+Sacred Foundry (PROXY)
 Scalding Tarn (PROXY)
 Spectator Seating (PROXY)
 Spire Garden (PROXY)
@@ -26,6 +31,7 @@ The Skullspore Nexus (PROXY)
 Tithe (PROXY)
 Urza's Incubator (PROXY)
 Urza's Saga (PROXY)
+Verdant Catacombs (PROXY)
 Windswept Heath (PROXY)
 Wooded Bastion (PROXY)
 Wooded Foothills (PROXY)
@@ -33,16 +39,13 @@ Gishath, Sun's Avatar
 Akroma's Will
 Apex Altisaur
 Arcane Signet
-Arid Mesa
 Bonehoard Dracosaur
-Boseiju, Who Endures
 Carnage Tyrant
 Command Tower
 Cultivate
 Curious Altisaur
 Defense of the Heart
 Deflecting Swat
-Delighted Halfling
 Descendants' Path
 Dinosaurs on a Spaceship
 Etali, Primal Conqueror // Etali, Primal Sickness
@@ -61,7 +64,6 @@ Invasion of Ikoria // Zilortha, Apex of Ikoria
 Jetmir's Garden
 Mana Confluence
 Marauding Raptor
-Marsh Flats
 Mountain
 Mountain
 Otepec Huntmaster
@@ -79,7 +81,6 @@ Regisaur Alpha
 Return of the Wildspeaker
 Rhythm of the Wild
 Ripjaw Raptor
-Sacred Foundry
 Scion of Calamity
 Secluded Courtyard
 Sol Ring
@@ -93,7 +94,6 @@ Topiary Stomper
 Trapjaw Tyrant
 Unclaimed Territory
 Vaultborn Tyrant
-Verdant Catacombs
 Welcome to . . . // Jurassic Park
 Wrathful Raptors
 Xenagos, God of Revels

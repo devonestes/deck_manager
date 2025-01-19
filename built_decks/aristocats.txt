@@ -2,15 +2,19 @@ Agadeem's Awakening // Agadeem, the Undercrypt (PROXY)
 Ancient Tomb (PROXY)
 Anguished Unmaking (PROXY)
 Bloodchief Ascension (PROXY)
+Bloodghast (PROXY)
 Cruel Celebrant (PROXY)
+Damn (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
 Fetid Heath (PROXY)
 Ichor Wellspring (PROXY)
 Isolated Chapel (PROXY)
 Phyrexian Tower (PROXY)
 Serra Ascendant (PROXY)
+Skullclamp (PROXY)
 Takenuma, Abandoned Mire (PROXY)
 The Meathook Massacre (PROXY)
+Urza's Saga (PROXY)
 Vraan, Executioner Thane (PROXY)
 Weathered Wayfarer (PROXY)
 Bartolomé del Presidio
@@ -20,7 +24,6 @@ Animate Dead
 Bitterblossom
 Blade of the Bloodchief
 Blood Artist
-Bloodghast
 Brightclimb Pathway // Grimclimb Pathway
 Case of the Stashed Skeleton
 Castle Ardenvale
@@ -30,7 +33,6 @@ Chthonian Nightmare
 Command Tower
 Corpse Knight
 Cynical Loner
-Damn
 Dance of the Dead
 Dark Confidant
 Dauthi Voidwalker
@@ -74,7 +76,6 @@ Selfless Spirit
 Servant of the Stinger
 Sevinne's Reclamation
 Shattered Sanctum
-Skullclamp
 Snuff Out
 Sol Ring
 Spirited Companion
@@ -91,7 +92,6 @@ Swords to Plowshares
 Teferi's Protection
 Triarch Praetorian
 Urza's Bauble
-Urza's Saga
 Vault of Champions
 Vengeful Bloodwitch
 Village Rites

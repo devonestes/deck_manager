@@ -1,25 +1,32 @@
 Ancient Copper Dragon (PROXY)
+Ancient Tomb (PROXY)
+Breeding Pool (PROXY)
 Entish Restoration (PROXY)
 Fiery Emancipation (PROXY)
 Fire-Lit Thicket (PROXY)
 Kodama's Reach (PROXY)
 Kogla, the Titan Ape (PROXY)
+Misty Rainforest (PROXY)
 Nyxbloom Ancient (PROXY)
 Old Gnawbone (PROXY)
 Oracle of Mul Daya (PROXY)
+Prismatic Vista (PROXY)
 Rockfall Vale (PROXY)
+Scalding Tarn (PROXY)
 Scroll Rack (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Skyshroud Claim (PROXY)
 Spire Garden (PROXY)
+Stomping Ground (PROXY)
+Time Warp (PROXY)
 Up the Beanstalk (PROXY)
+Uro, Titan of Nature's Wrath (PROXY)
 Vorinclex // The Grand Evolution (PROXY)
+Wooded Foothills (PROXY)
 Maelstrom Wanderer
-Ancient Tomb
 Arcane Signet
 Balefire Dragon
 Boseiju, Who Endures
-Breeding Pool
 Cascade Bluffs
 Command Tower
 Consecrated Sphinx
@@ -50,7 +57,6 @@ Kogla and Yidaro
 Koma, Cosmos Serpent
 Migration Path
 Misthollow Griffin
-Misty Rainforest
 Monstrous Vortex
 Mountain
 Mountain
@@ -58,7 +64,6 @@ Nissa, Ascended Animist
 Orcish Lumberjack
 Otawara, Soaring City
 Pathbreaker Ibex
-Prismatic Vista
 Rampant Growth
 Ranger's Path
 Rejuvenating Springs
@@ -66,7 +71,6 @@ Rishkar's Expertise
 Riverglide Pathway // Lavaglide Pathway
 Sakura-Tribe Elder
 Sarkhan's Unsealing
-Scalding Tarn
 Scourge of the Throne
 Selvala, Heart of the Wilds
 Selvala's Stampede
@@ -78,7 +82,6 @@ Snow-Covered Island
 Snow-Covered Mountain
 Sol Ring
 Steam Vents
-Stomping Ground
 Stormcarved Coast
 Sulfur Falls
 Sun Quan, Lord of Wu
@@ -88,13 +91,10 @@ Temur Sabertooth
 Terror of the Peaks
 Three Visits
 Time Spiral
-Time Warp
 Training Center
 Turntimber Symbiosis // Turntimber, Serpentine Wood
-Uro, Titan of Nature's Wrath
 Urza's Saga
 Vastwood Surge
 Vorinclex, Monstrous Raider
-Wooded Foothills
 Wurmcoil Engine
 Yavimaya Coast

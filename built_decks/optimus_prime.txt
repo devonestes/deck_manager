@@ -5,10 +5,12 @@ Danny Pink (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (PROXY)
 Great Furnace (PROXY)
+Hallowed Fountain (PROXY)
 Herald of Secret Streams (PROXY)
 Inventors' Fair (PROXY)
 Jhoira, Weatherlight Captain (PROXY)
 Knight Paladin (PROXY)
+Lightning Greaves (PROXY)
 Ripples of Potential (PROXY)
 Sacred Foundry (PROXY)
 Seat of the Synod (PROXY)
@@ -46,7 +48,6 @@ Etherium Sculptor
 Felidar Retreat
 Foundry Inspector
 Gold-Forged Thopteryx
-Hallowed Fountain
 Imposter Mech
 Island
 Island
@@ -55,7 +56,6 @@ Island
 Jetfire, Ingenious Scientist // Jetfire, Air Guardian
 Kappa Cannoneer
 Karn's Bastion
-Lightning Greaves
 Lita, Mechanical Engineer
 Losheel, Clockwork Scholar
 Mana Drain

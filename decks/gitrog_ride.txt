@@ -15,14 +15,14 @@
 1 Darkbore Pathway // Slitherbore Pathway (KHM) 292
 1 Deadly Rollick (CMM) 695
 1 Egon, God of Death // Throne of Death (KHM) 92
-1 Elvish Mystic (CMM) 648
 1 Eternal Witness (M3C) 227
-1 Fanatic of Rhonas (MH3) 458
 1 Farseek (RVR) 138
-13 Forest (J22) 112
+14 Forest (J22) 112
+1 Fyndhorn Elves (ICE) 244
 1 Garruk's Uprising (WOT) 53
 1 Ghalta, Primal Hunger (FDN) 222
 1 Golgari Rot Farm (IMA) 236
+1 Greensleeves, Maro-Sorcerer (DMC) 77
 1 Groundbreaker (PLC) 148
 1 Heroic Intervention (LTC) 249
 1 Honest Rutstein (OTJ) 207
@@ -77,5 +77,4 @@
 1 Whispersilk Cloak (LTC) 292
 1 Yargle and Multani (MOM) 256
 1 Yargle, Glutton of Urborg (CMM) 202
-1 Yavimaya, Cradle of Growth (MH2) 441
 1 Zendikar's Roil (ORI) 209

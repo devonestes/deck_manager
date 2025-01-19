@@ -1,5 +1,6 @@
 defmodule DeckManager do
   @decks [
+    {"cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"},
     {"thrasios_yoshimaru", "Bdwllw3tYka3tSfVrO6K5w", "d8b70926-1071-4c85-ac12-3b23ee79399b"},
     {"vampires", "jOUImhiaykKSYanHfKmkLA", "28309948-82fd-41f6-ab59-c18e3689e77d"},
     {"morphs", "RX85WnSoI0KVaeQhOJ8wQA", "cbc7f5e6-9ec9-4a65-9308-4a529df379be"},
@@ -74,7 +75,7 @@ defmodule DeckManager do
           count + acc
         end)
 
-      if count == 100 do
+      if count == 100 or count == 540 do
         File.write!("decks/#{deck}.txt", deck_list)
       else
         IO.puts("Could not download #{deck} - Invalid number of cards: #{count}")
