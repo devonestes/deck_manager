@@ -60,6 +60,7 @@
 1 Path of Ancestry (LTC) 322
 1 Path to Exile (LTC) 175
 3 Plains (LTR) 263
+1 Plateau (3ED) 284
 1 Port Razer (LCC) 230
 1 Prince Imrahil the Fair (LTR) 219
 1 Professional Face-Breaker (J22) 581
@@ -79,7 +80,6 @@
 1 Shared Animosity (LTC) 226
 1 Smothering Tithe (RNA) 22
 1 Sol Ring (LTC) 284
-1 Spectator Seating (CMR) 711
 1 Steam Vents (UNF) 283
 1 Stormcarved Coast (VOW) 284
 1 Sulfur Falls (LTC) 333
