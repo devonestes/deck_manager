@@ -1,0 +1,27 @@
+4 Accumulated Knowledge (A25) 40
+2 Bad River (MIR) 324
+2 Brainstorm (ICE) 61
+2 Chart a Course (LCI) 48
+1 Commit // Memory (LCC) 147
+2 Control Magic (3ED) 52
+10 Dandân (CHR) 18
+1 Diminishing Returns (ALL) 26
+1 Echo of Eons (MH1) 46
+1 Echoing Truth (C19) 84
+22 Island (J22) 101
+1 Izzet Boilerworks (BRC) 188
+1 Izzet Boilerworks (OTC) 302
+1 Lonely Sandbar (MKC) 273
+1 Lonely Sandbar (LTC) 319
+1 Magical Hack (4ED) 83
+1 Magical Hack (3ED) 65
+8 Memory Lapse (HML) 32a
+2 Mind Bend (MIR) 77
+2 Mystic Retrieval (UMA) 66
+2 Ray of Command (MIR) 86
+2 Remote Isle (DMR) 254
+2 Supplant Form (FRF) 54
+1 Temple of Epiphany (BRC) 207
+1 Temple of Epiphany (OTC) 329
+4 Unsubstantiate (M21) 82
+2 Vision Charm (VIS) 49
