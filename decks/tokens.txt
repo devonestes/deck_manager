@@ -1,0 +1,104 @@
+1 A Mysterious Creature (TMKM) 21
+1 Agate Instigator (TBLC) 20
+1 Angel (TONC) 2
+1 Angel (TZEN) 1
+1 Badger (TDMU) 15
+1 Bat (TLCI) 6
+1 Beast (TC19) 13
+1 Beast (TM21) 10
+1 Beast (TMH2) 9
+1 Beast (TONC) 13
+1 Beau (TOTJ) 6
+1 Bird (TKHM) 5
+1 Bird (TLTC) 6
+1 Cat Beast (TCMM) 61
+1 Cat Soldier (PLST) TBNG-2
+1 Cat Warrior (TMH3) 5
+1 Cat (TMH3) 4
+1 Centaur (TCLB) 39
+1 City's Blessing (TBLC) 40
+1 Clue (TMKM) 14
+1 Construct (TMH2) 16
+1 Copy (TBLC) 1
+1 Detective (TMKM) 10
+1 Dinosaur Beast (TLCC) 11
+1 Dinosaur Egg (TLCI) 11
+1 Dinosaur (TLCC) 10
+1 Dinosaur (TOTJ) 9
+1 Dinosaur (TMOM) 7
+1 Dinosaur (TWHO) 20
+1 Dog (TMKM) 1
+1 Dragon (TC17) 7
+1 Dragon (TDMU) 10
+1 Dragon (TM19) 10
+1 Eldrazi Scion (TM3C) 3
+1 Eldrazi Spawn (TMH3) 2
+1 Eldrazi (TBRC) 2
+1 Elemental (TCMA) 9
+1 Elemental (TORI) 8
+1 Elf Warrior (TLTC) 11
+1 Elf Warrior (TSHM) 12
+1 Energy Reserve (TMH3) 36
+1 Everywhere (TDSK) 16
+1 Faerie Rogue (TMOR) 2
+1 Faerie (TFDN) 9
+1 Food (PLST) TMH2-17
+1 Forest Dryad (TBRO) 3
+1 Fungus Dinosaur (TLCI) 12
+1 Gnome (TBIG) 5
+1 Goat (TELD) 1
+1 Goblin Shaman (TNEO) 8
+1 Goblin (TA25) 9
+1 Hamster (TBLC) 22
+1 Human Cleric (TSOI) 10
+1 Human Knight (TLTC) 9
+1 Human Soldier (TLTR) 1
+1 Human (TMOC) 6
+1 Inkling (TDSC) 21
+1 Insect (TMH3) 27
+1 Insect (TOTC) 18
+1 Iridescent Vinelasher (TBLB) 12
+1 Knight (TWOE) 3
+1 Koma's Coil (TFDN) 11
+1 Manifest (TOTC) 28
+1 Map (TLCI) 17
+1 Mishra's Warform (TBRC) 9
+1 Morph (TMKC) 30
+1 Ooze (TMKM) 8
+1 Orc Army (TLTR) 5
+1 Pest (TSTX) 5
+1 Phyrexian Germ (TMKC) 10
+1 Phyrexian Horror (TONE) 7
+1 Pilot (TNEO) 1
+1 Plant (TMH3) 26
+1 Poison Counter (TNPH) 5
+1 Powerstone (TBRO) 7
+1 Rat (TWOE) 7
+1 Saheeli, Filigree Master Emblem (TBRO) 12
+1 Saproling (TRIX) 3
+1 Servo (TMH3) 33
+1 Shapeshifter (TLCC) 1
+1 Shrine (TNEC) 1
+1 Skeleton (TMKM) 5
+1 Snake (TC19) 20
+1 Soldier (TFDN) 6
+1 Spider (TCMM) 36
+1 Spirit (TC16) 1
+1 Spirit (TNEO) 2
+1 Spirit (TONC) 9
+1 Spirit (TWAR) 1
+1 Survivor (TC18) 12
+1 Sword (TBLB) 28
+1 Tentacle (TNCC) 13
+1 The Monarch (TLCC) 18
+1 Thopter (PLST) TNEC-12
+1 Treasure (PLST) TNEO-17
+1 Vampire Demon (TLCI) 15
+1 Vampire (TC17) 4
+1 Vampire (TISD) 5
+1 Vampire (TLCC) 6
+1 Vampire (TLCI) 4
+1 Warrior (TPIP) 5
+1 Wurm (T2XM) 29
+1 Wurm (T2XM) 30
+1 Zombie (TM20) 6
