@@ -1,3 +1,4 @@
+Akroma's Will (PROXY)
 Ancient Tomb (PROXY)
 Arid Mesa (PROXY)
 Bloodstained Mire (PROXY)
@@ -16,6 +17,7 @@ Marsh Flats (PROXY)
 Mirari's Wake (PROXY)
 Misty Rainforest (PROXY)
 Nature's Lore (PROXY)
+Overgrown Farmland (PROXY)
 Prismatic Vista (PROXY)
 Roaming Throne (PROXY)
 Rockfall Vale (PROXY)
@@ -25,6 +27,7 @@ Spire Garden (PROXY)
 Stomping Ground (PROXY)
 Sundown Pass (PROXY)
 Teferi's Protection (PROXY)
+Temple Garden (PROXY)
 The Great Henge (PROXY)
 The Skullspore Nexus (PROXY)
 Tithe (PROXY)
@@ -35,7 +38,6 @@ Windswept Heath (PROXY)
 Wooded Bastion (PROXY)
 Wooded Foothills (PROXY)
 Gishath, Sun's Avatar
-Akroma's Will
 Apex Altisaur
 Arcane Signet
 Bonehoard Dracosaur
@@ -66,7 +68,6 @@ Marauding Raptor
 Mountain
 Mountain
 Otepec Huntmaster
-Overgrown Farmland
 Palani's Hatcher
 Pantlaza, Sun-Favored
 Plains
@@ -88,7 +89,6 @@ Sunfrill Imitator
 Sunhome, Fortress of the Legion
 Sunpetal Grove
 Temple Altisaur
-Temple Garden
 Thrashing Brontodon
 Topiary Stomper
 Trapjaw Tyrant

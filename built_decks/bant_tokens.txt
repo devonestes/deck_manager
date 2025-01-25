@@ -1,51 +1,41 @@
 Adeline, Resplendent Cathar (PROXY)
-Akroma's Will (PROXY)
 Ancient Tomb (PROXY)
 Arachnogenesis (PROXY)
 Avenger of Zendikar (PROXY)
-Birds of Paradise (PROXY)
-Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
 Charismatic Conqueror (PROXY)
-Cyclonic Rift (PROXY)
-Delighted Halfling (PROXY)
-Dreamroot Cascade (PROXY)
 Dryad Arbor (PROXY)
 Elven Chorus (PROXY)
 Flooded Strand (PROXY)
-Heroic Intervention (PROXY)
-Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
 Noble Hierarch (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Oltec Matterweaver (PROXY)
-Overgrown Farmland (PROXY)
-Rejuvenating Springs (PROXY)
 Rhys the Redeemed (PROXY)
 Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Spara's Headquarters (PROXY)
-Teferi's Protection (PROXY)
-Temple Garden (PROXY)
-Three Visits (PROXY)
-Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
-Urza's Saga (PROXY)
 Windswept Heath (PROXY)
 Galadriel, Light of Valinor
+Akroma's Will
 Arcane Signet
 Arwen, Weaver of Hope
 Beast Whisperer
 Bennie Bracks, Zoologist
+Birds of Paradise
+Boseiju, Who Endures
 Bountiful Promenade
 Bramble Sovereign
 Caretaker's Talent
 Cauldron of Souls
 Command Tower
+Cyclonic Rift
 Damning Verdict
 Danny Pink
+Delighted Halfling
 Deserted Beach
 Detective of the Month
+Dreamroot Cascade
 Earthcraft
 Eladamri, Korvecdal
 Evolution Witness
@@ -66,6 +56,7 @@ Gyre Sage
 Hallowed Fountain
 Herald of Secret Streams
 Herd Baloth
+Heroic Intervention
 Hinterland Harbor
 Imperious Perfect
 Incubation Druid
@@ -75,23 +66,32 @@ Island
 Island
 Kami of Whispered Hopes
 Karn's Bastion
+Koma, Cosmos Serpent
 Master Biomancer
 Mondrak, Glory Dominus
 Nadir Kraken
 Otawara, Soaring City
+Overgrown Farmland
 Overwhelming Stampede
 Peregrine Drake
 Plains
 Plains
+Rejuvenating Springs
 Rhystic Study
 Ripples of Potential
 Sea of Clouds
 Sol Ring
+Spara's Headquarters
 Strength of the Harvest // Haven of the Harvest
 Suppression Ray // Orderly Plaza
+Teferi's Protection
+Temple Garden
 Tendershoot Dryad
 The Ozolith
+Three Visits
 Tocasia's Welcome
+Turntimber Symbiosis // Turntimber, Serpentine Wood
+Urza's Saga
 Virtue of Loyalty // Ardenvale Fealty
 Wave Goodbye
 Windswift Slice

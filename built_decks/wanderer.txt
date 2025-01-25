@@ -1,32 +1,39 @@
 Ancient Copper Dragon (PROXY)
 Ancient Tomb (PROXY)
+Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
+Dreamroot Cascade (PROXY)
 Entish Restoration (PROXY)
 Fiery Emancipation (PROXY)
 Fire-Lit Thicket (PROXY)
 Kodama's Reach (PROXY)
 Kogla, the Titan Ape (PROXY)
+Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
 Nyxbloom Ancient (PROXY)
 Old Gnawbone (PROXY)
 Oracle of Mul Daya (PROXY)
 Prismatic Vista (PROXY)
+Rejuvenating Springs (PROXY)
 Rockfall Vale (PROXY)
 Scalding Tarn (PROXY)
 Scroll Rack (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Skyshroud Claim (PROXY)
 Spire Garden (PROXY)
+Steam Vents (PROXY)
 Stomping Ground (PROXY)
+Three Visits (PROXY)
 Time Warp (PROXY)
+Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Up the Beanstalk (PROXY)
 Uro, Titan of Nature's Wrath (PROXY)
+Urza's Saga (PROXY)
 Vorinclex // The Grand Evolution (PROXY)
 Wooded Foothills (PROXY)
 Maelstrom Wanderer
 Arcane Signet
 Balefire Dragon
-Boseiju, Who Endures
 Cascade Bluffs
 Command Tower
 Consecrated Sphinx
@@ -34,7 +41,6 @@ Cultivate
 Defense of the Heart
 Delighted Halfling
 Drakuseth, Maw of Flames
-Dreamroot Cascade
 Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
 Farseek
@@ -54,7 +60,6 @@ Island
 Ketria Triome
 Klauth, Unrivaled Ancient
 Kogla and Yidaro
-Koma, Cosmos Serpent
 Migration Path
 Misthollow Griffin
 Monstrous Vortex
@@ -66,7 +71,6 @@ Otawara, Soaring City
 Pathbreaker Ibex
 Rampant Growth
 Ranger's Path
-Rejuvenating Springs
 Rishkar's Expertise
 Riverglide Pathway // Lavaglide Pathway
 Sakura-Tribe Elder
@@ -81,7 +85,6 @@ Snow-Covered Forest
 Snow-Covered Island
 Snow-Covered Mountain
 Sol Ring
-Steam Vents
 Stormcarved Coast
 Sulfur Falls
 Sun Quan, Lord of Wu
@@ -89,11 +92,8 @@ Sunbird's Invocation
 Sylvan Library
 Temur Sabertooth
 Terror of the Peaks
-Three Visits
 Time Spiral
 Training Center
-Turntimber Symbiosis // Turntimber, Serpentine Wood
-Urza's Saga
 Vastwood Surge
 Vorinclex, Monstrous Raider
 Wurmcoil Engine
