@@ -1,6 +1,11 @@
+Ancient Copper Dragon (PROXY)
+Fire-Lit Thicket (PROXY)
+Kura, the Boundless Sky (PROXY)
+Shadow in the Warp (PROXY)
+The Great Henge (PROXY)
+Up the Beanstalk (PROXY)
 Henzie "Toolbox" Torre
 Ancient Brass Dragon
-Ancient Copper Dragon
 Ancient Tomb
 Animate Dead
 Arcane Signet
@@ -30,7 +35,6 @@ Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
 Evercoat Ursine
 Farseek
-Fire-Lit Thicket
 Flare of Cultivation
 Forest
 Forest
@@ -53,7 +57,6 @@ Kodama's Reach
 Kogla and Yidaro
 Kogla, the Titan Ape
 Kokusho, the Evening Star
-Kura, the Boundless Sky
 Living Death
 Llanowar Wastes
 Luxury Suite
@@ -71,7 +74,6 @@ Rootbound Crag
 Rottenmouth Viper
 Sakura-Tribe Elder
 Saw in Half
-Shadow in the Warp
 Skullclamp
 Smoldering Marsh
 Sol Ring
@@ -84,11 +86,9 @@ Swamp
 Swamp
 Taiga
 Takenuma, Abandoned Mire
-The Great Henge
 The Skullspore Nexus
 Toxic Deluge
 Twilight Mire
-Up the Beanstalk
 Vaultborn Tyrant
 Verdant Catacombs
 Victimize

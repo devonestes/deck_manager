@@ -1,12 +1,10 @@
+Avenger of Zendikar (PROXY)
 Eternal Witness (PROXY)
 Greensleeves, Maro-Sorcerer (PROXY)
 Lotus Cobra (PROXY)
-Tear Asunder (PROXY)
-Toxic Deluge (PROXY)
 The Gitrog, Ravenous Ride
 Arcane Signet
 Assassin's Trophy
-Avenger of Zendikar
 Beanstalk Giant // Fertile Footsteps
 Beast Within
 Birds of Paradise
@@ -83,10 +81,12 @@ Swamp
 Swamp
 Tainted Wood
 Tamiyo's Safekeeping
+Tear Asunder
 Thought Vessel
 Three Visits
 Tireless Provisioner
 Torment of Hailfire
+Toxic Deluge
 Underground Mortuary
 Undergrowth Stadium
 Unnatural Growth

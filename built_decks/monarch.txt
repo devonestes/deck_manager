@@ -1,3 +1,4 @@
+Combat Celebrant (PROXY)
 Aragorn, King of Gondor
 Adarkar Wastes
 Adeline, Resplendent Cathar
@@ -20,7 +21,6 @@ Cathars' Crusade
 Cavern of Souls
 Champions of Minas Tirith
 Clifftop Retreat
-Combat Celebrant
 Command Tower
 Coppercoat Vanguard
 Court of Grace

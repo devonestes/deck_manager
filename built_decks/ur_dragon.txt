@@ -1,30 +1,23 @@
 Ancient Copper Dragon (PROXY)
 Ancient Tomb (PROXY)
 Balefire Dragon (PROXY)
-Birds of Paradise (PROXY)
-Bloodstained Mire (PROXY)
 Breeding Pool (PROXY)
 City of Brass (PROXY)
 Cyclonic Rift (PROXY)
-Delighted Halfling (PROXY)
 Flooded Strand (PROXY)
 Forbidden Orchard (PROXY)
-Goldspan Dragon (PROXY)
 Guardian Project (PROXY)
 Hallowed Fountain (PROXY)
 Heroic Intervention (PROXY)
-Ketria Triome (PROXY)
 Klauth, Unrivaled Ancient (PROXY)
 Kokusho, the Evening Star (PROXY)
 Kura, the Boundless Sky (PROXY)
-Lightning Greaves (PROXY)
 Misty Rainforest (PROXY)
 Old Gnawbone (PROXY)
 Overgrown Tomb (PROXY)
 Roaming Throne (PROXY)
 Sacred Foundry (PROXY)
 Scalding Tarn (PROXY)
-Spara's Headquarters (PROXY)
 Steam Vents (PROXY)
 Stomping Ground (PROXY)
 Teferi's Protection (PROXY)
@@ -35,19 +28,21 @@ The World Tree (PROXY)
 Three Visits (PROXY)
 Windswept Heath (PROXY)
 Wooded Foothills (PROXY)
-Ziatora's Proving Ground (PROXY)
 The Ur-Dragon
 Ancient Silver Dragon
 Arcane Signet
 Atarka, World Render
 Badlands
 Beledros Witherbloom
+Birds of Paradise
 Blood Crypt
+Bloodstained Mire
 Bloom Tender
 Bonehoard Dracosaur
 Cavern of Souls
 Cavern-Hoard Dragon
 Command Tower
+Delighted Halfling
 Dragon Tempest
 Dragon's Hoard
 Dragonlord Dromoka
@@ -58,6 +53,7 @@ Farseek
 Fellwar Stone
 Forest
 Godless Shrine
+Goldspan Dragon
 Hellkite Courser
 Hellkite Tyrant
 Herald's Horn
@@ -65,8 +61,10 @@ Indatha Triome
 Island
 Jetmir's Garden
 Karrthus, Tyrant of Jund
+Ketria Triome
 Kindred Discovery
 Kindred Dominance
+Lightning Greaves
 Mana Vault
 Marsh Flats
 Miirym, Sentinel Wyrm
@@ -87,6 +85,7 @@ Savage Ventmaw
 Scalelord Reckoner
 Scourge of the Throne
 Sol Ring
+Spara's Headquarters
 Swamp
 Swords to Plowshares
 Temple Garden
@@ -97,4 +96,5 @@ Urza's Incubator
 Utvara Hellkite
 Watery Grave
 Zagoth Triome
+Ziatora's Proving Ground
 Zurgo and Ojutai

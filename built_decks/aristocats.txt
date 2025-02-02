@@ -2,9 +2,7 @@ Agadeem's Awakening // Agadeem, the Undercrypt (PROXY)
 Ancient Tomb (PROXY)
 Anguished Unmaking (PROXY)
 Bloodchief Ascension (PROXY)
-Bloodghast (PROXY)
 Cruel Celebrant (PROXY)
-Damn (PROXY)
 Eiganjo, Seat of the Empire (PROXY)
 Fetid Heath (PROXY)
 Ichor Wellspring (PROXY)
@@ -24,6 +22,7 @@ Animate Dead
 Bitterblossom
 Blade of the Bloodchief
 Blood Artist
+Bloodghast
 Brightclimb Pathway // Grimclimb Pathway
 Case of the Stashed Skeleton
 Castle Ardenvale
@@ -33,6 +32,7 @@ Chthonian Nightmare
 Command Tower
 Corpse Knight
 Cynical Loner
+Damn
 Dance of the Dead
 Dark Confidant
 Dauthi Voidwalker
