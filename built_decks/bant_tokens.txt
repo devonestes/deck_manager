@@ -1,23 +1,26 @@
-Adeline, Resplendent Cathar (PROXY)
-Ancient Tomb (PROXY)
 Arachnogenesis (PROXY)
 Avenger of Zendikar (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
 Charismatic Conqueror (PROXY)
+Cyclonic Rift (PROXY)
+Dreamroot Cascade (PROXY)
 Dryad Arbor (PROXY)
 Elven Chorus (PROXY)
-Flooded Strand (PROXY)
+Gyre Sage (PROXY)
+Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
-Noble Hierarch (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Oltec Matterweaver (PROXY)
 Rhys the Redeemed (PROXY)
 Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Windswept Heath (PROXY)
+The Ozolith (PROXY)
+Wave Goodbye (PROXY)
 Galadriel, Light of Valinor
+Adeline, Resplendent Cathar
 Akroma's Will
+Ancient Tomb
 Arcane Signet
 Arwen, Weaver of Hope
 Beast Whisperer
@@ -29,13 +32,11 @@ Bramble Sovereign
 Caretaker's Talent
 Cauldron of Souls
 Command Tower
-Cyclonic Rift
 Damning Verdict
 Danny Pink
 Delighted Halfling
 Deserted Beach
 Detective of the Month
-Dreamroot Cascade
 Earthcraft
 Eladamri, Korvecdal
 Evolution Witness
@@ -44,6 +45,7 @@ Faerie Mastermind
 Felidar Retreat
 Fierce Guardianship
 Flooded Grove
+Flooded Strand
 Forest
 Forest
 Forest
@@ -52,7 +54,6 @@ Galadhrim Ambush
 Glacial Fortress
 Glen Elendra Archmage
 Gruff Triplets
-Gyre Sage
 Hallowed Fountain
 Herald of Secret Streams
 Herd Baloth
@@ -66,10 +67,10 @@ Island
 Island
 Kami of Whispered Hopes
 Karn's Bastion
-Koma, Cosmos Serpent
 Master Biomancer
 Mondrak, Glory Dominus
 Nadir Kraken
+Noble Hierarch
 Otawara, Soaring City
 Overgrown Farmland
 Overwhelming Stampede
@@ -87,13 +88,12 @@ Suppression Ray // Orderly Plaza
 Teferi's Protection
 Temple Garden
 Tendershoot Dryad
-The Ozolith
 Three Visits
 Tocasia's Welcome
 Turntimber Symbiosis // Turntimber, Serpentine Wood
 Urza's Saga
 Virtue of Loyalty // Ardenvale Fealty
-Wave Goodbye
+Windswept Heath
 Windswift Slice
 Witch Enchanter // Witch-Blessed Meadow
 Wolverine Riders

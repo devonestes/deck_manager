@@ -1,4 +1,3 @@
-Force of Vigor (PROXY)
 Thrasios, Triton Hero
 Yoshimaru, Ever Faithful
 Amulet of Vigor
@@ -36,6 +35,7 @@ Finale of Devastation
 Flooded Strand
 Flusterstorm
 Force of Negation
+Force of Vigor
 Force of Will
 Forest
 Fyndhorn Elves

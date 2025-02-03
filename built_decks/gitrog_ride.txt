@@ -1,10 +1,8 @@
-Avenger of Zendikar (PROXY)
-Eternal Witness (PROXY)
 Greensleeves, Maro-Sorcerer (PROXY)
-Lotus Cobra (PROXY)
 The Gitrog, Ravenous Ride
 Arcane Signet
 Assassin's Trophy
+Avenger of Zendikar
 Beanstalk Giant // Fertile Footsteps
 Beast Within
 Birds of Paradise
@@ -18,6 +16,7 @@ Daemogoth Woe-Eater
 Darkbore Pathway // Slitherbore Pathway
 Deadly Rollick
 Egon, God of Death // Throne of Death
+Eternal Witness
 Farseek
 Forest
 Forest
@@ -46,6 +45,7 @@ Hunted Horror
 Hunted Troll
 Llanowar Elves
 Llanowar Wastes
+Lotus Cobra
 Lupine Prototype
 Nature's Lore
 Necroblossom Snarl

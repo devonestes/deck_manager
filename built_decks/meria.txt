@@ -1,4 +1,3 @@
-Rootbound Crag (PROXY)
 Meria, Scholar of Antiquity
 Apex Altisaur
 Basilisk Collar
@@ -72,6 +71,7 @@ Return of the Wildspeaker
 Rishkar's Expertise
 Rockfall Vale
 Rogue's Passage
+Rootbound Crag
 Sarinth Greatwurm
 Sarinth Steelseeker
 Sheltered Thicket

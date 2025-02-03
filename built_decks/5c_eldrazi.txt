@@ -1,4 +1,3 @@
-Temur Ascendancy (PROXY)
 Ulalek, Fused Atrocity
 Adarkar Wastes
 All Is Dust
@@ -72,6 +71,7 @@ Sundering Eruption // Volcanic Fissure
 Swamp
 Talisman of Curiosity
 Talisman of Impulse
+Temur Ascendancy
 Tendo Ice Bridge
 The Irencrag
 Thief of Existence
