@@ -38,6 +38,7 @@ Dark Confidant
 Dauthi Voidwalker
 Deadly Dispute
 Dewdrop Cure
+Dune Drifter
 Dusk // Dawn
 Elas il-Kor, Sadistic Pilgrim
 Esper Sentinel
@@ -58,7 +59,6 @@ Mother of Runes
 Mox Amber
 Orcish Bowmasters
 Osseous Sticktwister
-Phyrexian Reclamation
 Plains
 Plains
 Plains

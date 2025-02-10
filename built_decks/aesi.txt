@@ -49,6 +49,7 @@ Llanowar Scout
 Loot, Exuberant Explorer
 Lotus Cobra
 Lotus Vale
+Lumbering Worldwagon
 Lumra, Bellow of the Woods
 Magus of the Candelabra
 Mana Breach
@@ -79,7 +80,7 @@ Scapeshift
 Scute Swarm
 Simic Growth Chamber
 Sink into Stupor // Soporific Springs
-Skyshroud Claim
+Skyserpent Seeker
 Skyshroud Ranger
 Snow-Covered Forest
 Snow-Covered Island
@@ -94,7 +95,6 @@ Tireless Provisioner
 Titania, Protector of Argoth
 Undiscovered Paradise
 Uro, Titan of Nature's Wrath
-Vorinclex // The Grand Evolution
 Wayward Swordtooth
 Windswept Heath
 Wooded Foothills

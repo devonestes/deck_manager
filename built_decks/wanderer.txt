@@ -1,3 +1,4 @@
+Maelstrom Wanderer (PROXY)
 Ancient Copper Dragon (PROXY)
 Ancient Tomb (PROXY)
 Boseiju, Who Endures (PROXY)
@@ -6,6 +7,7 @@ Dreamroot Cascade (PROXY)
 Entish Restoration (PROXY)
 Fiery Emancipation (PROXY)
 Fire-Lit Thicket (PROXY)
+Genesis Ultimatum (PROXY)
 Hinterland Harbor (PROXY)
 Kodama's Reach (PROXY)
 Kogla, the Titan Ape (PROXY)
@@ -20,7 +22,6 @@ Rockfall Vale (PROXY)
 Scalding Tarn (PROXY)
 Scroll Rack (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Skyshroud Claim (PROXY)
 Spire Garden (PROXY)
 Steam Vents (PROXY)
 Stomping Ground (PROXY)
@@ -31,10 +32,8 @@ Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Up the Beanstalk (PROXY)
 Uro, Titan of Nature's Wrath (PROXY)
 Urza's Saga (PROXY)
-Vorinclex // The Grand Evolution (PROXY)
 Vorinclex, Monstrous Raider (PROXY)
 Wooded Foothills (PROXY)
-Maelstrom Wanderer
 Arcane Signet
 Balefire Dragon
 Cascade Bluffs
@@ -51,7 +50,6 @@ Flooded Grove
 Food Chain
 Forest
 Forest
-Genesis Ultimatum
 Goldspan Dragon
 Hullbreaker Horror
 Ilysian Caryatid
@@ -71,6 +69,7 @@ Orcish Lumberjack
 Otawara, Soaring City
 Pathbreaker Ibex
 Prismatic Vista
+Pyrewood Gearhulk
 Rampant Growth
 Ranger's Path
 Rishkar's Expertise
@@ -81,6 +80,7 @@ Scourge of the Throne
 Selvala, Heart of the Wilds
 Selvala's Stampede
 Sire of Seven Deaths
+Skyshroud Claim
 Snow-Covered Forest
 Snow-Covered Forest
 Snow-Covered Forest

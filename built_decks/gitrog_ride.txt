@@ -15,7 +15,6 @@ Daemogoth Titan
 Daemogoth Woe-Eater
 Darkbore Pathway // Slitherbore Pathway
 Deadly Rollick
-Egon, God of Death // Throne of Death
 Eternal Witness
 Farseek
 Forest
@@ -43,6 +42,7 @@ Hungry Mist
 Hunted Bonebrute
 Hunted Horror
 Hunted Troll
+Kalakscion, Hunger Tyrant
 Llanowar Elves
 Llanowar Wastes
 Lotus Cobra
@@ -55,7 +55,6 @@ Psychosis Crawler
 Pugnacious Hammerskull
 Quakestrider Ceratops
 Quest for the Necropolis
-Quick-Draw Katana
 Rampaging Baloths
 Rampant Growth
 Reanimate
@@ -82,6 +81,7 @@ Swamp
 Tainted Wood
 Tamiyo's Safekeeping
 Tear Asunder
+Terrian, World Tyrant
 Thought Vessel
 Three Visits
 Tireless Provisioner

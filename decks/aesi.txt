@@ -41,6 +41,7 @@
 1 Loot, Exuberant Explorer (FDN) 106
 1 Lotus Cobra (BLC) 229
 1 Lotus Vale (WTH) 165
+1 Lumbering Worldwagon (DFT) 168
 1 Lumra, Bellow of the Woods (BLB) 183
 1 Magus of the Candelabra (M3C) 236
 1 Mana Breach (EXO) 38
@@ -71,7 +72,7 @@
 1 Scute Swarm (OTC) 205
 1 Simic Growth Chamber (CM2) 267
 1 Sink into Stupor // Soporific Springs (MH3) 241
-1 Skyshroud Claim (CMM) 321
+1 Skyserpent Seeker (DFT) 224
 1 Skyshroud Ranger (TMP) 256
 1 Snow-Covered Forest (ICE) 383
 1 Snow-Covered Island (ICE) 371
@@ -86,7 +87,6 @@
 1 Titania, Protector of Argoth (CMA) 157
 1 Undiscovered Paradise (VIS) 167
 1 Uro, Titan of Nature's Wrath (THB) 229
-1 Vorinclex // The Grand Evolution (MOM) 213
 1 Wayward Swordtooth (LCC) 263
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249

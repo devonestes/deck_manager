@@ -51,10 +51,10 @@
 2 Plains (J22) 98
 1 Polyraptor (RIX) 144
 1 Prismatic Vista (MH1) 244
-1 Quartzwood Crasher (LCC) 281
 1 Rampant Growth (M12) 190
 1 Ranging Raptors (LCC) 249
 1 Regal Behemoth (LCC) 251
+1 Regal Imperiosaur (DFT) 177
 1 Regisaur Alpha (LCC) 286
 1 Return of the Wildspeaker (ELD) 172
 1 Rhythm of the Wild (LCC) 287

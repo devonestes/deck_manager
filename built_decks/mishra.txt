@@ -21,6 +21,7 @@ Cyclonic Rift
 Darksteel Citadel
 Darksteel Forge
 Deadly Dispute
+Demonic Junker
 Determined Iteration
 Drossforge Bridge
 Emry, Lurker of the Loch
@@ -32,6 +33,7 @@ Gonti's Aether Heart
 Great Furnace
 Haunted Ridge
 Hedron Archive
+Hulldrifter
 Ichor Wellspring
 Idol of Oblivion
 Island
@@ -57,7 +59,6 @@ Mystic Forge
 Polluted Delta
 Portal to Phyrexia
 Raucous Theater
-Rise and Shine
 RMS Titanic
 Rolling Hamsphere
 Scalding Tarn
@@ -69,7 +70,6 @@ Silverbluff Bridge
 Simulacrum Synthesizer
 Sink into Stupor // Soporific Springs
 Sol Ring
-Solemn Simulacrum
 Steam Vents
 Stormcarved Coast
 Strionic Resonator

@@ -15,6 +15,7 @@ Nissa, Resurgent Animist (PROXY)
 Oracle of Mul Daya (PROXY)
 Rootbound Crag (PROXY)
 Scute Swarm (PROXY)
+Temur Ascendancy (PROXY)
 The Great Henge (PROXY)
 Toski, Bearer of Secrets (PROXY)
 Triumph of the Hordes (PROXY)
@@ -27,7 +28,6 @@ Aether Spellbomb
 Akal Pakal, First Among Equals
 Akoum Hellhound
 Anax, Hardened in the Forge
-Anje's Ravager
 Archaeomancer
 Archive Trap
 Arena of Glory
@@ -91,9 +91,11 @@ Delighted Halfling
 Delver of Secrets // Insectile Aberration
 Devastation Tide
 Dig Through Time
+Disciple of Freyalise // Garden of Freyalise
 Diversion Unit
 Doomskar Warrior
 Doppelgang
+Draconautics Engineer
 Dragon Turtle
 Dragon's Rage Channeler
 Dreadhorde Arcanist
@@ -143,6 +145,7 @@ Garruk Wildspeaker
 Garruk's Uprising
 Generous Ent
 Generous Plunderer
+Genesis Ultimatum
 Ghalta, Primal Hunger
 Ghitu Lavarunner
 Gitaxian Probe
@@ -163,7 +166,6 @@ Hajar, Loyal Bodyguard
 Headliner Scarlett
 Hexdrinker
 Hinterland Harbor
-Hope-Ender Coatl
 Horned Loch-Whale // Lagoon Breach
 Hugs, Grisly Guardian
 Hullbreacher
@@ -182,7 +184,6 @@ Intrude on the Mind
 Invasion of Tarkir // Defiant Thundermaw
 Invert Polarity
 Invoke the Ancients
-Invoke the Winds
 Ionize
 Irencrag Feat
 Ivora, Insatiable Heir
@@ -201,7 +202,6 @@ Keruga, the Macrosage
 Ketria Triome
 Kiln Fiend
 Kird Ape
-Kitesail Larcenist
 Kolaghan Warmonger
 Koma, Cosmos Serpent
 Korlessa, Scale Singer
@@ -221,6 +221,7 @@ Lovestruck Beast // Heart's Desire
 Lozhan, Dragons' Legacy
 Lumbering Falls
 Lutri, the Spellchaser
+Maelstrom Wanderer
 Magma Opus
 Malcolm, Alluring Scoundrel
 Malevolent Rumble
@@ -246,7 +247,6 @@ Mutagenic Growth
 Myr Battlesphere
 Myr Convert
 Mystic Snake
-Nadir Kraken
 Nadu, Winged Wisdom
 Natural Order
 Negate
@@ -282,7 +282,6 @@ Primal Might
 Primeval Titan
 Proft's Eidetic Memory
 Prologue to Phyresis
-Propaganda
 Pteramander
 Pyrogoyf
 Questing Beast
@@ -295,11 +294,13 @@ Reckless Impulse
 Reckless Stormseeker // Storm-Charged Slasher
 Reckoner Bankbuster
 Remand
+Renata, Called to the Hunt
 Repulsive Mutation
 Reservoir Kraken
 Retrofitter Foundry
 Rhythm of the Wild
 River's Rebuke
+Riverchurn Monument
 Roalesk, Apex Hybrid
 Roaring Furnace // Steaming Sauna
 Rockfall Vale
@@ -318,7 +319,6 @@ Shambleshark
 Shard Volley
 Shivan Reef
 Silent Hallcreeper
-Simian Simulacrum
 Simic Growth Chamber
 Simic Sky Swallower
 Six
@@ -345,6 +345,7 @@ Spell Swindle
 Springheart Nantuko
 Sprite Dragon
 Steam Vents
+Steel Hellkite
 Steel Leaf Champion
 Steel Overseer
 Stingerback Terror
@@ -361,7 +362,6 @@ Subtlety
 Sulfur Falls
 Surge Engine
 Surrak Dragonclaw
-Swan Song
 Sweltering Suns
 Sylvan Scavenging
 Taiga
@@ -394,6 +394,7 @@ Torrential Gearhulk
 Tovolar's Huntmaster // Tovolar's Packleader
 Treachery
 Tribute to the World Tree
+Triplicate Titan
 Tropical Island
 Trumpeting Carnosaur
 Ulvenwald Oddity // Ulvenwald Behemoth
@@ -424,7 +425,6 @@ Vorinclex, Monstrous Raider
 Walking Ballista
 Wandering Fumarole
 Wandering Mind
-Warkite Marauder
 Wasteland
 Wave Goodbye
 Wavebreak Hippocamp

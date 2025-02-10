@@ -11,8 +11,8 @@
 1 Birds of Paradise (4ED) 234
 1 Boseiju, Who Endures (NEO) 501
 1 Bountiful Promenade (ZNE) 20
-1 Bramble Sovereign (BBD) 65
 1 Breeding Pool (UNF) 286
+1 Bulwark Ox (DFT) 7
 1 Caretaker's Talent (BLB) 6
 1 Cathars' Crusade (AVR) 10
 1 Cauldron of Souls (SHM) 248
@@ -24,6 +24,7 @@
 1 Delighted Halfling (LTR) 158
 1 Deserted Beach (MID) 281
 1 Detective of the Month (MKC) 21
+1 District Mascot (DFT) 158
 1 Dreamroot Cascade (VOW) 282
 1 Dryad Arbor (FUT) 174
 1 Earthcraft (TMP) 222
@@ -58,7 +59,6 @@
 1 Master Biomancer (2X2) 250
 1 Misty Rainforest (MM3) 240
 1 Mondrak, Glory Dominus (ONE) 23
-1 Nadir Kraken (NCC) 228
 1 Noble Hierarch (2XM) 177
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Oltec Matterweaver (PW24) 12

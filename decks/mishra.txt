@@ -21,6 +21,7 @@
 1 Darksteel Citadel (DST) 164
 1 Darksteel Forge (M14) 206
 1 Deadly Dispute (P30A) 29
+1 Demonic Junker (DFT) 83
 1 Determined Iteration (NCC) 45
 1 Drossforge Bridge (BRC) 183
 1 Emry, Lurker of the Loch (MUL) 9
@@ -32,6 +33,7 @@
 1 Great Furnace (BRC) 187
 1 Haunted Ridge (MID) 282
 1 Hedron Archive (BRC) 142
+1 Hulldrifter (DFT) 47
 1 Ichor Wellspring (BRC) 143
 1 Idol of Oblivion (BRC) 144
 1 Island (MOM) 278
@@ -57,7 +59,6 @@
 1 Polluted Delta (KTK) 239
 1 Portal to Phyrexia (BRO) 365
 1 Raucous Theater (MKM) 329
-1 Rise and Shine (MH2) 58
 1 RMS Titanic (WHO) 93
 1 Rolling Hamsphere (BLC) 39
 1 Scalding Tarn (MM3) 244
@@ -69,7 +70,6 @@
 1 Simulacrum Synthesizer (BIG) 6
 1 Sink into Stupor // Soporific Springs (MH3) 241
 1 Sol Ring (BRC) 160
-1 Solemn Simulacrum (BRC) 161
 1 Steam Vents (UNF) 283
 1 Stormcarved Coast (VOW) 284
 1 Strionic Resonator (BRC) 165

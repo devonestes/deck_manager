@@ -49,6 +49,7 @@
 1 Otawara, Soaring City (NEO) 271
 1 Pathbreaker Ibex (SLD) 307
 1 Prismatic Vista (MH1) 244
+1 Pyrewood Gearhulk (DFT) 216
 1 Rampant Growth (M12) 190
 1 Ranger's Path (M13) 186
 1 Rejuvenating Springs (LTC) 325
@@ -88,7 +89,6 @@
 1 Uro, Titan of Nature's Wrath (THB) 229
 1 Urza's Saga (MH2) 259
 1 Vastwood Surge (ZNR) 217
-1 Vorinclex // The Grand Evolution (MOM) 213
 1 Vorinclex, Monstrous Raider (KHM) 333
 1 Wooded Foothills (KTK) 249
 1 Wurmcoil Engine (2XM) 308

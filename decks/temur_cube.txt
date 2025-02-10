@@ -8,7 +8,6 @@
 1 Anax, Hardened in the Forge (THB) 125
 1 Ancient Copper Dragon (CLB) 161
 1 Ancient Greenwarden (ZNR) 178
-1 Anje's Ravager (C19) 22
 1 Archaeomancer (DDM) 13
 1 Archive Trap (OTP) 7
 1 Arena of Glory (MH3) 215
@@ -77,9 +76,11 @@
 1 Delver of Secrets // Insectile Aberration (INR) 60
 1 Devastation Tide (LTC) 189
 1 Dig Through Time (KTK) 36
+1 Disciple of Freyalise // Garden of Freyalise (MH3) 250
 1 Diversion Unit (DFT) 41
 1 Doomskar Warrior (MOM) 185
 1 Doppelgang (MKM) 198
+1 Draconautics Engineer (DFT) 121
 1 Dragon Turtle (AFR) 56
 1 Dragon's Rage Channeler (MB2) 56
 1 Dreadhorde Arcanist (J25) 539
@@ -131,6 +132,7 @@
 1 Garruk's Uprising (WOT) 53
 1 Generous Ent (LTR) 169
 1 Generous Plunderer (BIG) 41
+1 Genesis Ultimatum (IKO) 189
 1 Ghalta, Primal Hunger (FDN) 222
 1 Ghitu Lavarunner (DOM) 127
 1 Gitaxian Probe (NPH) 35
@@ -143,7 +145,7 @@
 1 Grim Lavamancer (DMR) 126
 1 Growth Spiral (CMR) 446
 1 Gruul Turf (C20) 279
-1 Guildpact Informant (PLST) WAR-271
+1 Guildpact Informant (WAR) 271
 1 Gut, True Soul Zealot (CLB) 399
 1 Guttersnipe (IMA) 131
 1 Gyre Sage (MOC) 300
@@ -152,7 +154,6 @@
 1 Headliner Scarlett (CLU) 4
 1 Hexdrinker (MH1) 168
 1 Hinterland Harbor (LTC) 317
-1 Hope-Ender Coatl (MH3) 64
 1 Horned Loch-Whale // Lagoon Breach (WOE) 278
 1 Hugs, Grisly Guardian (BLB) 218
 1 Hullbreacher (CMR) 74
@@ -171,7 +172,6 @@
 1 Invasion of Tarkir // Defiant Thundermaw (MOM) 149
 1 Invert Polarity (MH3) 190
 1 Invoke the Ancients (NEO) 193
-1 Invoke the Winds (NEO) 58
 1 Ionize (OTP) 49
 1 Irencrag Feat (ELD) 127
 1 Ivora, Insatiable Heir (J25) 50
@@ -191,7 +191,6 @@
 1 Ketria Triome (IKO) 310
 1 Kiln Fiend (DDJ) 2
 1 Kird Ape (3ED) 161
-1 Kitesail Larcenist (PLCI) 61p
 1 Kolaghan Warmonger (MAT) 17
 1 Koma, Cosmos Serpent (KHM) 221
 1 Korlessa, Scale Singer (CLB) 280
@@ -204,7 +203,7 @@
 1 Legion Warboss (RVR) 116
 1 Lightning Bolt (SLD) 1743
 1 Lightning Greaves (SLD) 1493
-1 Lightning Strike (THS) 127
+1 Lightning Strike (DFT) 136
 1 Living Twister (ZNC) 93
 1 Llanowar Elves (FDN) 227
 1 Lórien Revealed (LTR) 60
@@ -213,6 +212,7 @@
 1 Lozhan, Dragons' Legacy (CLB) 281
 1 Lumbering Falls (M3C) 355
 1 Lutri, the Spellchaser (MUL) 52
+1 Maelstrom Wanderer (CMM) 684
 1 Magma Opus (STX) 203
 1 Malcolm, Alluring Scoundrel (LCI) 63
 1 Malevolent Rumble (MH3) 161
@@ -238,7 +238,6 @@
 1 Myr Battlesphere (M3C) 301
 1 Myr Convert (ONE) 234
 1 Mystic Snake (APC) 112
-1 Nadir Kraken (NCC) 228
 1 Nadu, Winged Wisdom (MH3) 377
 1 Natural Order (EMA) 177
 1 Negate (STA) 18
@@ -276,7 +275,6 @@
 1 Primeval Titan (TSR) 365
 1 Proft's Eidetic Memory (MKM) 67
 1 Prologue to Phyresis (ONE) 65
-1 Propaganda (OTC) 108
 1 Pteramander (RVR) 54
 1 Pyrogoyf (M3C) 111
 1 Questing Beast (PLST) ELD-171
@@ -289,11 +287,13 @@
 1 Reckless Stormseeker // Storm-Charged Slasher (MID) 157
 1 Reckoner Bankbuster (NEO) 255
 1 Remand (J25) 349
+1 Renata, Called to the Hunt (THB) 267
 1 Repulsive Mutation (MKM) 227
 1 Reservoir Kraken (SNC) 56
 1 Retrofitter Foundry (C18) 57
 1 Rhythm of the Wild (SLD) 1740
 1 River's Rebuke (XLN) 71
+1 Riverchurn Monument (DFT) 57
 1 Roalesk, Apex Hybrid (NCC) 349
 1 Roaring Furnace // Steaming Sauna (DSK) 230
 1 Rockfall Vale (INR) 282
@@ -314,7 +314,6 @@
 1 Shard Volley (MOR) 103
 1 Shivan Reef (OTC) 320
 1 Silent Hallcreeper (DSK) 72
-1 Simian Simulacrum (BRO) 205
 1 Simic Growth Chamber (CM2) 267
 1 Simic Sky Swallower (CMR) 452
 1 Six (MH3) 370
@@ -336,11 +335,12 @@
 1 Sower of Temptation (BBD) 131
 1 Spectral Adversary (MID) 77
 1 Spectral Sailor (FDN) 164
-1 Spell Pierce (NEO) 80
+1 Spell Pierce (DFT) 64
 1 Spell Swindle (PLST) XLN-82
 1 Springheart Nantuko (MH3) 341
 1 Sprite Dragon (IKO) 211
 1 Steam Vents (RVR) 412
+1 Steel Hellkite (MKC) 239
 1 Steel Leaf Champion (DOM) 182
 1 Steel Overseer (PIP) 241
 1 Stingerback Terror (OTJ) 147
@@ -357,7 +357,6 @@
 1 Sulfur Falls (LTC) 333
 1 Surge Engine (BRO) 81
 1 Surrak Dragonclaw (KTK) 206
-1 Swan Song (THS) 65
 1 Sweltering Suns (AKH) 149
 1 Sylvan Scavenging (FDN) 113
 1 Taiga (3ED) 287
@@ -367,6 +366,7 @@
 1 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar (MH3) 242
 1 Tasha's Hideous Laughter (PLST) AFR-78
 1 Tatyova, Benthic Druid (FDN) 247
+1 Temur Ascendancy (KTK) 207
 1 Terisian Mindbreaker (BRO) 83
 1 Terror of the Peaks (M21) 369
 1 The Great Henge (LTC) 348
@@ -392,6 +392,7 @@
 1 Tovolar's Huntmaster // Tovolar's Packleader (MID) 204
 1 Treachery (UDS) 50
 1 Tribute to the World Tree (MOM) 211
+1 Triplicate Titan (DRC) 143
 1 Triumph of the Hordes (NPH) 123
 1 Tropical Island (3ED) 288
 1 Trumpeting Carnosaur (LCI) 171
@@ -424,7 +425,6 @@
 1 Walking Ballista (AER) 181
 1 Wandering Fumarole (OGW) 182
 1 Wandering Mind (VOW) 251
-1 Warkite Marauder (LCC) 179
 1 Wasteland (MB2) 115
 1 Wave Goodbye (LCC) 79
 1 Wavebreak Hippocamp (THB) 80

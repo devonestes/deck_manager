@@ -28,7 +28,7 @@ Bennie Bracks, Zoologist
 Birds of Paradise
 Boseiju, Who Endures
 Bountiful Promenade
-Bramble Sovereign
+Bulwark Ox
 Caretaker's Talent
 Cauldron of Souls
 Command Tower
@@ -37,6 +37,7 @@ Danny Pink
 Delighted Halfling
 Deserted Beach
 Detective of the Month
+District Mascot
 Earthcraft
 Eladamri, Korvecdal
 Evolution Witness
@@ -69,7 +70,6 @@ Kami of Whispered Hopes
 Karn's Bastion
 Master Biomancer
 Mondrak, Glory Dominus
-Nadir Kraken
 Noble Hierarch
 Otawara, Soaring City
 Overgrown Farmland

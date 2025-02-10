@@ -26,6 +26,7 @@
 1 Dauthi Voidwalker (PLST) MH2-81
 1 Deadly Dispute (P30A) 29
 1 Dewdrop Cure (BLB) 10
+1 Dune Drifter (DFT) 200
 1 Dusk // Dawn (PLST) CLB-691
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
@@ -50,7 +51,6 @@
 1 Mox Amber (DOM) 224
 1 Orcish Bowmasters (LTR) 103
 1 Osseous Sticktwister (DSK) 112
-1 Phyrexian Reclamation (J22) 124
 1 Phyrexian Tower (JMP) 493
 5 Plains (J22) 98
 1 Priest of Forgotten Gods (RVR) 90
