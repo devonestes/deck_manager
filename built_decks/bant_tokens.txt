@@ -1,11 +1,9 @@
 Arachnogenesis (PROXY)
-Avenger of Zendikar (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
 Charismatic Conqueror (PROXY)
 Cyclonic Rift (PROXY)
 Dreamroot Cascade (PROXY)
-Dryad Arbor (PROXY)
 Elven Chorus (PROXY)
 Gyre Sage (PROXY)
 Koma, Cosmos Serpent (PROXY)
@@ -16,13 +14,13 @@ Rhys the Redeemed (PROXY)
 Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 The Ozolith (PROXY)
-Wave Goodbye (PROXY)
 Galadriel, Light of Valinor
 Adeline, Resplendent Cathar
 Akroma's Will
 Ancient Tomb
 Arcane Signet
 Arwen, Weaver of Hope
+Avenger of Zendikar
 Beast Whisperer
 Bennie Bracks, Zoologist
 Birds of Paradise
@@ -38,6 +36,7 @@ Delighted Halfling
 Deserted Beach
 Detective of the Month
 District Mascot
+Dryad Arbor
 Earthcraft
 Eladamri, Korvecdal
 Evolution Witness
@@ -93,6 +92,7 @@ Tocasia's Welcome
 Turntimber Symbiosis // Turntimber, Serpentine Wood
 Urza's Saga
 Virtue of Loyalty // Ardenvale Fealty
+Wave Goodbye
 Windswept Heath
 Windswift Slice
 Witch Enchanter // Witch-Blessed Meadow

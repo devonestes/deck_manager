@@ -41,7 +41,6 @@
 1 Psychosis Crawler (MKC) 234
 1 Pugnacious Hammerskull (LCI) 208
 1 Quakestrider Ceratops (FDN) 110
-1 Quest for the Necropolis (MH3) 104
 1 Rampaging Baloths (C19) 176
 1 Rampant Growth (M12) 190
 1 Reanimate (TMP) 151
@@ -78,3 +77,4 @@
 1 Yargle and Multani (MOM) 256
 1 Yargle, Glutton of Urborg (CMM) 202
 1 Zendikar's Roil (ORI) 209
+1 Zopandrel, Hunger Dominus (ONE) 195

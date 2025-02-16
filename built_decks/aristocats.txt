@@ -1,5 +1,4 @@
 Agadeem's Awakening // Agadeem, the Undercrypt (PROXY)
-Ancient Tomb (PROXY)
 Anguished Unmaking (PROXY)
 Bloodchief Ascension (PROXY)
 Cruel Celebrant (PROXY)
@@ -8,13 +7,11 @@ Fetid Heath (PROXY)
 Ichor Wellspring (PROXY)
 Isolated Chapel (PROXY)
 Phyrexian Tower (PROXY)
-Serra Ascendant (PROXY)
 Skullclamp (PROXY)
 Takenuma, Abandoned Mire (PROXY)
 The Meathook Massacre (PROXY)
 Urza's Saga (PROXY)
 Vraan, Executioner Thane (PROXY)
-Weathered Wayfarer (PROXY)
 Bartolomé del Presidio
 Accursed Marauder
 Amalia Benavides Aguirre
@@ -73,6 +70,7 @@ Ripples of Undeath
 Rogue's Passage
 Selfless Savior
 Selfless Spirit
+Serra Ascendant
 Servant of the Stinger
 Sevinne's Reclamation
 Shattered Sanctum
@@ -91,10 +89,12 @@ Swamp
 Swords to Plowshares
 Teferi's Protection
 Triarch Praetorian
+Urborg, Tomb of Yawgmoth
 Urza's Bauble
 Vault of Champions
 Vengeful Bloodwitch
 Village Rites
 Viscera Seer
+Weathered Wayfarer
 Westvale Abbey // Ormendahl, Profane Prince
 Zulaport Cutthroat

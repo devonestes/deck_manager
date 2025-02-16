@@ -5,6 +5,7 @@
 1 Aether Spellbomb (MRD) 141
 1 Akal Pakal, First Among Equals (LCI) 292
 1 Akoum Hellhound (ZNR) 133
+1 Altar of the Brood (KTK) 216
 1 Anax, Hardened in the Forge (THB) 125
 1 Ancient Copper Dragon (CLB) 161
 1 Ancient Greenwarden (ZNR) 178
@@ -48,7 +49,6 @@
 1 Castle Embereth (ELD) 239
 1 Castle Garenbrig (ELD) 240
 1 Castle Vantress (ELD) 390
-1 Caves of Chaos Adventurer (CLB) 167
 1 Chain Lightning (DMR) 113
 1 Chandra, Torch of Defiance (KLD) 110
 1 Chrome Host Seedshark (MOM) 51
@@ -152,6 +152,7 @@
 1 Gyruda, Doom of Depths (IKO) 221
 1 Hajar, Loyal Bodyguard (BRO) 211
 1 Headliner Scarlett (CLU) 4
+1 Hedron Crab (ZEN) 47
 1 Hexdrinker (MH1) 168
 1 Hinterland Harbor (LTC) 317
 1 Horned Loch-Whale // Lagoon Breach (WOE) 278
@@ -178,6 +179,7 @@
 1 Iymrith, Desert Doom (AFR) 62
 1 Izzet Boilerworks (PLST) GK1-47
 1 Jace, the Mind Sculptor (2XM) 334
+1 Jace, the Perfected Mind (ONE) 325
 1 Jegantha, the Wellspring (MUL) 44
 1 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 194
 1 Jwari Disruption // Jwari Ruins (ZNR) 64
@@ -195,7 +197,6 @@
 1 Koma, Cosmos Serpent (KHM) 221
 1 Korlessa, Scale Singer (CLB) 280
 1 Koth of the Hammer (SOM) 94
-1 Krenko, Tin Street Kingpin (J25) 572
 1 Kumano Faces Kakkazan // Etching of Kumano (NEO) 152
 1 Laelia, the Blade Reforged (MH3) 281
 1 Lava Spike (CHK) 178
@@ -223,10 +224,12 @@
 1 Memory Lapse (5ED) 103
 1 Mercurial Spelldancer (ONE) 61
 1 Merfolk Skydiver (LCC) 277
+1 Mesmeric Orb (MRD) 204
 1 Midnight Clock (OTC) 100
 1 Migloz, Maze Crusher (ONE) 321
 1 Miirym, Sentinel Wyrm (CLB) 284
 1 Mind Stone (MOC) 364
+1 Mindcrank (CLB) 866
 1 Mindslaver (OTP) 63
 1 Mine Collapse (MH2) 408
 1 Minsc & Boo, Timeless Heroes (CLB) 363
@@ -307,6 +310,7 @@
 1 Scapeshift (M19) 201
 1 Scavenging Ooze (FDN) 232
 1 Scute Swarm (OTC) 205
+1 Scythecat Cub (J25) 24
 1 Sentinel of the Nameless City (LCI) 211
 1 Serum Snare (ONE) 68
 1 Serum Visions (OTC) 112
@@ -334,7 +338,6 @@
 1 Soul-Scar Mage (AKH) 148
 1 Sower of Temptation (BBD) 131
 1 Spectral Adversary (MID) 77
-1 Spectral Sailor (FDN) 164
 1 Spell Pierce (DFT) 64
 1 Spell Swindle (PLST) XLN-82
 1 Springheart Nantuko (MH3) 341
@@ -351,7 +354,6 @@
 1 Strangle (SNC) 125
 1 Strider, Ranger of the North (LTR) 232
 1 Strip Mine (ATH) 77
-1 Stromkirk Noble (ISD) 164
 1 Sublime Epiphany (M21) 74
 1 Subtlety (H2R) 6
 1 Sulfur Falls (LTC) 333
@@ -385,7 +387,6 @@
 1 Time Warp (STA) 22
 1 Tinker (PLST) ULG-45
 1 Tireless Provisioner (PLST) MH2-180
-1 Tireless Tracker (MKC) 190
 1 Tishana's Tidebinder (LCI) 81
 1 Torrential Gearhulk (KLD) 67
 1 Toski, Bearer of Secrets (KHM) 197
@@ -400,7 +401,6 @@
 1 Umezawa's Jitte (BOK) 163
 1 Umori, the Collector (MUL) 62
 1 Undergrowth Champion (BFZ) 197
-1 Undermountain Adventurer (CLB) 260
 1 Unholy Heat (OTC) 182
 1 Unnatural Restoration (ONE) 191
 1 Up the Beanstalk (WOE) 195
@@ -426,7 +426,6 @@
 1 Wandering Fumarole (OGW) 182
 1 Wandering Mind (VOW) 251
 1 Wasteland (MB2) 115
-1 Wave Goodbye (LCC) 79
 1 Wavebreak Hippocamp (THB) 80
 1 Werewolf Pack Leader (AFR) 211
 1 Wheel of Fortune (3ED) 185
@@ -446,5 +445,6 @@
 1 Yorion, Sky Nomad (MUL) 64
 1 Young Pyromancer (OTC) 185
 1 Zealous Conscripts (LTC) 231
+1 Zellix, Sanity Flayer (CLB) 619
 1 Zirda, the Dawnwaker (IKO) 233
 1 Zurgo Bellstriker (DTK) 169

@@ -31,11 +31,11 @@
 1 Great Furnace (BRC) 187
 1 Hallowed Fountain (RVR) 280
 1 Herald of Secret Streams (LCC) 158
+1 Illustrious Wanderglyph (LCC) 9
 1 Imposter Mech (NEC) 13
 1 Inventors' Fair (KLD) 247
 4 Island (J22) 101
 1 Jetfire, Ingenious Scientist // Jetfire, Air Guardian (BOT) 3
-1 Jhoira, Weatherlight Captain (BRC) 126
 1 Kappa Cannoneer (NEC) 14
 1 Karn's Bastion (CMM) 1007
 1 Knight Paladin (40K) 160
@@ -44,6 +44,7 @@
 1 Losheel, Clockwork Scholar (C21) 18
 1 Mana Drain (CMR) 80
 1 Mech Hangar (NEO) 270
+1 Mendicant Core, Guidelight (DFT) 213
 2 Mountain (J22) 107
 1 Mystic Gate (CMM) 1013
 1 Mystic Monastery (DMC) 221
@@ -56,7 +57,6 @@
 1 Ratchet, Field Medic // Ratchet, Rescue Racer (BOT) 2
 1 Raugrin Triome (IKO) 311
 1 Razortide Bridge (MH2) 252
-1 Rhystic Study (J22) 114
 1 Ripples of Potential (LCC) 77
 1 Rustvale Bridge (PIP) 285
 1 Sacred Foundry (UNF) 285

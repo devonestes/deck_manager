@@ -3,7 +3,6 @@ Ancient Tomb (PROXY)
 Balefire Dragon (PROXY)
 Birds of Paradise (PROXY)
 Breeding Pool (PROXY)
-City of Brass (PROXY)
 Cyclonic Rift (PROXY)
 Delighted Halfling (PROXY)
 Flooded Strand (PROXY)
@@ -19,7 +18,6 @@ Lightning Greaves (PROXY)
 Miirym, Sentinel Wyrm (PROXY)
 Misty Rainforest (PROXY)
 Old Gnawbone (PROXY)
-Roaming Throne (PROXY)
 Scalding Tarn (PROXY)
 Steam Vents (PROXY)
 Stomping Ground (PROXY)
@@ -43,6 +41,7 @@ Bloom Tender
 Bonehoard Dracosaur
 Cavern of Souls
 Cavern-Hoard Dragon
+City of Brass
 Command Tower
 Dragon Tempest
 Dragon's Hoard
@@ -79,6 +78,7 @@ Raise the Palisade
 Return of the Wildspeaker
 Rith, Liberated Primeval
 Rivaz of the Claw
+Roaming Throne
 Sacred Foundry
 Sarkhan, Fireblood
 Savage Ventmaw

@@ -1,4 +1,3 @@
-Greensleeves, Maro-Sorcerer (PROXY)
 The Gitrog, Ravenous Ride
 Arcane Signet
 Assassin's Trophy
@@ -35,6 +34,7 @@ Fyndhorn Elves
 Garruk's Uprising
 Ghalta, Primal Hunger
 Golgari Rot Farm
+Greensleeves, Maro-Sorcerer
 Groundbreaker
 Heroic Intervention
 Honest Rutstein
@@ -54,7 +54,6 @@ Overgrown Tomb
 Psychosis Crawler
 Pugnacious Hammerskull
 Quakestrider Ceratops
-Quest for the Necropolis
 Rampaging Baloths
 Rampant Growth
 Reanimate
@@ -98,3 +97,4 @@ Whispersilk Cloak
 Yargle and Multani
 Yargle, Glutton of Urborg
 Zendikar's Roil
+Zopandrel, Hunger Dominus

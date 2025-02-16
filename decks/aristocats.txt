@@ -2,7 +2,6 @@
 1 Accursed Marauder (MH3) 80
 1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
 1 Amalia Benavides Aguirre (LCI) 221
-1 Ancient Tomb (TMP) 315
 1 Anguished Unmaking (SLD) 138
 1 Animate Dead (3ED) 93
 1 Bitterblossom (MOR) 58
@@ -77,6 +76,7 @@
 1 Teferi's Protection (C17) 8
 1 The Meathook Massacre (MID) 112
 1 Triarch Praetorian (40K) 66
+1 Urborg, Tomb of Yawgmoth (TSR) 287
 1 Urza's Bauble (5ED) 406
 1 Urza's Saga (MH2) 259
 1 Vault of Champions (CMR) 715

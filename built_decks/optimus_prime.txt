@@ -7,9 +7,7 @@ Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (PROXY)
 Great Furnace (PROXY)
 Herald of Secret Streams (PROXY)
 Inventors' Fair (PROXY)
-Jhoira, Weatherlight Captain (PROXY)
 Knight Paladin (PROXY)
-Ripples of Potential (PROXY)
 Seat of the Synod (PROXY)
 Silverbluff Bridge (PROXY)
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
@@ -46,6 +44,7 @@ Felidar Retreat
 Foundry Inspector
 Gold-Forged Thopteryx
 Hallowed Fountain
+Illustrious Wanderglyph
 Imposter Mech
 Island
 Island
@@ -59,6 +58,7 @@ Lita, Mechanical Engineer
 Losheel, Clockwork Scholar
 Mana Drain
 Mech Hangar
+Mendicant Core, Guidelight
 Mountain
 Mountain
 Mystic Gate
@@ -74,7 +74,7 @@ Prowl, Stoic Strategist // Prowl, Pursuit Vehicle
 Ratchet, Field Medic // Ratchet, Rescue Racer
 Raugrin Triome
 Razortide Bridge
-Rhystic Study
+Ripples of Potential
 Rustvale Bridge
 Sacred Foundry
 Saheeli, Filigree Master
