@@ -18,6 +18,7 @@
 1 Cragcrown Pathway // Timbercrown Pathway (ZNR) 287
 1 Darksteel Citadel (MM2) 238
 1 Darksteel Plate (2X2) 304
+1 Deflecting Swat (C20) 50
 1 Diamond Pick-Axe (LCI) 143
 1 Dire Flail // Dire Blunderbuss (LCI) 145
 1 Disciple of Freyalise // Garden of Freyalise (MH3) 250
@@ -75,7 +76,6 @@
 1 Sword of Feast and Famine (2XM) 296
 1 Sword of Fire and Ice (2XM) 297
 1 Sword of Forge and Frontier (PONE) 244s
-1 Sword of the Animist (AFC) 218
 1 Sword of Vengeance (NEC) 164
 1 The Reaver Cleaver (DMC) 8
 1 Thran Power Suit (BRO) 253

@@ -13,17 +13,20 @@
 1 Colossal Skyturtle (NEO) 216
 1 Command Tower (MOC) 396
 1 Cultivate (J22) 644
+1 Demon Bolt (KHM) 129
 1 Dig Through Time (OTC) 95
 1 Displacer Kitten (CLB) 63
 1 Drawn from Dreams (M20) 56
 1 Elvish Spirit Guide (ALL) 89
 1 Eureka Moment (M3C) 260
 1 Exotic Orchard (MOC) 398
-1 Farhaven Elf (LTC) 243
+1 Fblthp, Lost on the Range (OTJ) 48
 1 Fiery Islet (MH1) 238
 1 Flooded Strand (MH3) 436
 5 Forest (J22) 110
 1 Frantic Search (UMA) 57
+1 Grabby Giant // That's Mine (WOE) 133
+1 Great Whale (USG) 77
 1 Harrow (ZNC) 69
 1 Haughty Djinn (OTC) 99
 1 Hedron Archive (BRC) 142
@@ -36,7 +39,6 @@
 1 Jin-Gitaxias, Progress Tyrant (NEO) 59
 1 Kellan, Inquisitive Prodigy // Tail the Suspect (MKM) 334
 1 Ketria Triome (IKO) 310
-1 Kira, Great Glass-Spinner (MMA) 49
 1 Kodama's Reach (CLB) 826
 1 Lórien Revealed (LTR) 60
 1 Mana Geyser (PLST) 5DN-75
@@ -47,7 +49,7 @@
 1 Molten Rain (MRD) 101
 7 Mountain (J22) 107
 1 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time (LCI) 67
-1 Oko, Thief of Crowns (ELD) 197
+1 Peregrine Drake (DMR) 65
 1 Polluted Delta (MH3) 438
 1 Primal Amulet // Primal Wellspring (XLN) 243
 1 Prismari Command (LCC) 279
@@ -55,10 +57,10 @@
 1 Sakashima of a Thousand Faces (CMR) 89
 1 Sakashima the Impostor (SOK) 53
 1 Scalding Tarn (MH2) 439
+1 Search for Tomorrow (CMR) 436
 1 Seething Song (MRD) 104
 1 Shivan Reef (OTC) 320
 1 Snapping Voidcraw (MH3) 204
-1 Solemn Simulacrum (BRC) 161
 1 Spark Double (RVR) 319
 1 Steam Vents (RVR) 412
 1 Stitch in Time (RVR) 384
@@ -67,9 +69,7 @@
 1 Sulfur Falls (LTC) 333
 1 Sword of Wealth and Power (BIG) 56
 1 Tatyova, Benthic Druid (FDN) 247
-1 The One Ring (LTR) 451
 1 Time Warp (STA) 22
-1 Tishana's Tidebinder (LCI) 81
 1 Training Center (CMR) 713
 1 Treachery (UDS) 50
 1 Treasure Cruise (OTC) 120

@@ -4,9 +4,11 @@ Animist's Might
 Anzrag, the Quake-Mole
 Arcane Signet
 Archdruid's Charm
+Audacity
 Bear Umbra
 Benevolent Hydra
 Berserk
+Biophagus
 Bite Down
 Branching Evolution
 Cinder Glade
@@ -16,9 +18,7 @@ Contest of Claws
 Cosmic Hunger
 Court of Garenbrig
 Defiler of Vigor
-Delighted Halfling
 Domri, Anarch of Bolas
-Elvish Mystic
 Embercleave
 Enduring Courage
 Forest
@@ -50,7 +50,6 @@ Kessig Wolf Run
 Khalni Ambush // Khalni Territory
 Lion Umbra
 Llanowar Elves
-Mage Slayer
 Misty Rainforest
 Mossfire Valley
 Mountain
@@ -75,8 +74,10 @@ Ram Through
 Restless Ridgeline
 Rhonas the Indomitable
 Rhythm of the Wild
+Rishkar's Expertise
 Rogue's Passage
 Signature Slam
+Sixth Sense
 Snake Umbra
 Snakeskin Veil
 Sol Ring
@@ -95,6 +96,5 @@ Unnatural Growth
 Vigor
 Waltz of Rage
 Wild Growth
-Worldslayer
 Xenagos, God of Revels
 Yavimaya, Cradle of Growth

@@ -6,6 +6,7 @@ Eiganjo, Seat of the Empire (PROXY)
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (PROXY)
 Great Furnace (PROXY)
 Herald of Secret Streams (PROXY)
+Illustrious Wanderglyph (PROXY)
 Inventors' Fair (PROXY)
 Knight Paladin (PROXY)
 Seat of the Synod (PROXY)
@@ -44,7 +45,6 @@ Felidar Retreat
 Foundry Inspector
 Gold-Forged Thopteryx
 Hallowed Fountain
-Illustrious Wanderglyph
 Imposter Mech
 Island
 Island

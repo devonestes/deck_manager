@@ -37,13 +37,13 @@
 1 Nature's Lore (DMR) 170
 1 Necroblossom Snarl (BLC) 319
 1 Nessian Boar (THB) 181
+1 Ob Nixilis, the Fallen (ZEN) 107
 1 Overgrown Tomb (RVR) 407
 1 Psychosis Crawler (MKC) 234
 1 Pugnacious Hammerskull (LCI) 208
 1 Quakestrider Ceratops (FDN) 110
 1 Rampaging Baloths (C19) 176
 1 Rampant Growth (M12) 190
-1 Reanimate (TMP) 151
 1 Relic Golem (ZNR) 249
 1 Reliquary Tower (BRC) 196
 1 Retreat to Hagra (C18) 116

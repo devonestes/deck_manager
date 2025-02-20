@@ -6,12 +6,12 @@ Arcane Signet
 Barbarian Ring
 Basilisk Collar
 Blasphemous Act
-Brash Taunter
 Chandra's Ignition
-Commander's Plate
+Copper Tablet
 Defiler of Instinct
 Deflecting Swat
 Earthquake
+Exocrine
 Extraplanar Lens
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 Fiendish Duo
@@ -29,13 +29,12 @@ Kediss, Emberclaw Familiar
 Laelia, the Blade Reforged
 Light Up the Stage
 Lightning Bolt
-Lightning Greaves
-Loxodon Warhammer
+Mana Vault
 Manabarbs
 March of Reckless Joy
 Mechanized Warfare
 Meekstone
-Mithril Coat
+Mountain
 Mountain
 Mountain
 Mountain
@@ -71,13 +70,13 @@ Orcish Cannoneers
 Pinnacle Monk // Mystic Peak
 Platinum Emperion
 Prisoner's Dilemma
+Pyrohemia
 Pyrostatic Pillar
 Reckless Impulse
 Resurrection Orb
 Rogue's Passage
 Ruby Medallion
 Scrawling Crawler
-Seething Song
 Shadowspear
 Shatterskull Smashing // Shatterskull, the Hammer Pass
 Smoke
@@ -88,6 +87,7 @@ Spellshock
 Sulfuric Vortex
 Sundering Eruption // Volcanic Fissure
 Sunspine Lynx
+Sword of the Animist
 Tarnished Citadel
 Themberchaud
 Throne of Eldraine

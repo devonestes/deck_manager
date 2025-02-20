@@ -1,6 +1,5 @@
 Maelstrom Wanderer (PROXY)
 Ancient Copper Dragon (PROXY)
-Ancient Tomb (PROXY)
 Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
 Dreamroot Cascade (PROXY)
@@ -26,7 +25,6 @@ Spire Garden (PROXY)
 Steam Vents (PROXY)
 Stomping Ground (PROXY)
 Terror of the Peaks (PROXY)
-Three Visits (PROXY)
 Time Warp (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Up the Beanstalk (PROXY)
@@ -34,6 +32,7 @@ Uro, Titan of Nature's Wrath (PROXY)
 Urza's Saga (PROXY)
 Vorinclex, Monstrous Raider (PROXY)
 Wooded Foothills (PROXY)
+Ancient Tomb
 Arcane Signet
 Balefire Dragon
 Cascade Bluffs
@@ -93,6 +92,7 @@ Sun Quan, Lord of Wu
 Sunbird's Invocation
 Sylvan Library
 Temur Sabertooth
+Three Visits
 Time Spiral
 Training Center
 Vastwood Surge

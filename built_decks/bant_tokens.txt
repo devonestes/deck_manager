@@ -17,7 +17,6 @@ The Ozolith (PROXY)
 Galadriel, Light of Valinor
 Adeline, Resplendent Cathar
 Akroma's Will
-Ancient Tomb
 Arcane Signet
 Arwen, Weaver of Hope
 Avenger of Zendikar
@@ -29,6 +28,7 @@ Bountiful Promenade
 Bulwark Ox
 Caretaker's Talent
 Cauldron of Souls
+Chulane, Teller of Tales
 Command Tower
 Damning Verdict
 Danny Pink
@@ -57,8 +57,8 @@ Gruff Triplets
 Hallowed Fountain
 Herald of Secret Streams
 Herd Baloth
-Heroic Intervention
 Hinterland Harbor
+Illustrious Wanderglyph
 Imperious Perfect
 Incubation Druid
 Inspiring Call
@@ -67,19 +67,20 @@ Island
 Island
 Kami of Whispered Hopes
 Karn's Bastion
+Marketback Walker
 Master Biomancer
 Mondrak, Glory Dominus
 Noble Hierarch
 Otawara, Soaring City
 Overgrown Farmland
-Overwhelming Stampede
-Peregrine Drake
+Plains
 Plains
 Plains
 Rejuvenating Springs
 Rhystic Study
 Ripples of Potential
 Sea of Clouds
+Shrieking Drake
 Sol Ring
 Spara's Headquarters
 Strength of the Harvest // Haven of the Harvest
@@ -87,12 +88,11 @@ Suppression Ray // Orderly Plaza
 Teferi's Protection
 Temple Garden
 Tendershoot Dryad
-Three Visits
-Tocasia's Welcome
 Turntimber Symbiosis // Turntimber, Serpentine Wood
 Urza's Saga
 Virtue of Loyalty // Ardenvale Fealty
 Wave Goodbye
+Whitemane Lion
 Windswept Heath
 Windswift Slice
 Witch Enchanter // Witch-Blessed Meadow

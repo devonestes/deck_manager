@@ -4,17 +4,14 @@ Balefire Dragon (PROXY)
 Birds of Paradise (PROXY)
 Breeding Pool (PROXY)
 Cyclonic Rift (PROXY)
-Delighted Halfling (PROXY)
 Flooded Strand (PROXY)
 Forbidden Orchard (PROXY)
 Goldspan Dragon (PROXY)
 Guardian Project (PROXY)
-Heroic Intervention (PROXY)
 Ketria Triome (PROXY)
 Klauth, Unrivaled Ancient (PROXY)
 Kokusho, the Evening Star (PROXY)
 Kura, the Boundless Sky (PROXY)
-Lightning Greaves (PROXY)
 Miirym, Sentinel Wyrm (PROXY)
 Misty Rainforest (PROXY)
 Old Gnawbone (PROXY)
@@ -43,6 +40,7 @@ Cavern of Souls
 Cavern-Hoard Dragon
 City of Brass
 Command Tower
+Delighted Halfling
 Dragon Tempest
 Dragon's Hoard
 Dragonlord Dromoka
@@ -57,12 +55,14 @@ Hallowed Fountain
 Hellkite Courser
 Hellkite Tyrant
 Herald's Horn
+Heroic Intervention
 Indatha Triome
 Island
 Jetmir's Garden
 Karrthus, Tyrant of Jund
 Kindred Discovery
 Kindred Dominance
+Lightning Greaves
 Mana Vault
 Marsh Flats
 Morophon, the Boundless

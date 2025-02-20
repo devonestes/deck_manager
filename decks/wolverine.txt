@@ -4,9 +4,11 @@
 1 Anzrag, the Quake-Mole (MKM) 186
 1 Arcane Signet (MOC) 348
 1 Archdruid's Charm (MKM) 408
+1 Audacity (BRO) 169
 1 Bear Umbra (WOC) 121
 1 Benevolent Hydra (J22) 38
 1 Berserk (SLD) 1738
+1 Biophagus (40K) 87★
 1 Bite Down (FDN) 212
 1 Branching Evolution (LCC) 234
 1 Cinder Glade (DMC) 203
@@ -16,9 +18,7 @@
 1 Cosmic Hunger (MOM) 182
 1 Court of Garenbrig (WOC) 25
 1 Defiler of Vigor (DMU) 412
-1 Delighted Halfling (LTR) 158
 1 Domri, Anarch of Bolas (BLC) 98
-1 Elvish Mystic (M15) 173
 1 Embercleave (ELD) 359
 1 Enduring Courage (DSK) 133
 12 Forest (J22) 110
@@ -39,7 +39,6 @@
 1 Khalni Ambush // Khalni Territory (ZNR) 192
 1 Lion Umbra (MH3) 160
 1 Llanowar Elves (3ED) 211
-1 Mage Slayer (HOP) 91
 1 Misty Rainforest (MH2) 438
 1 Mossfire Valley (NCC) 414
 10 Mountain (J22) 107
@@ -55,8 +54,10 @@
 1 Restless Ridgeline (LCI) 350
 1 Rhonas the Indomitable (AKH) 182
 1 Rhythm of the Wild (SLD) 1740
+1 Rishkar's Expertise (NEC) 127
 1 Rogue's Passage (LTC) 326
 1 Signature Slam (MH3) 168
+1 Sixth Sense (AKH) 187
 1 Snake Umbra (NEC) 130
 1 Snakeskin Veil (OTJ) 181
 1 Sol Ring (MOC) 381
@@ -75,6 +76,5 @@
 1 Vigor (BBD) 215
 1 Waltz of Rage (DSK) 165
 1 Wild Growth (DMR) 184
-1 Worldslayer (M12) 222
 1 Xenagos, God of Revels (LCC) 295
 1 Yavimaya, Cradle of Growth (MH2) 441

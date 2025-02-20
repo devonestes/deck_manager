@@ -13,13 +13,14 @@ Breeding Pool
 Colossal Skyturtle
 Command Tower
 Cultivate
+Demon Bolt
 Dig Through Time
 Displacer Kitten
 Drawn from Dreams
 Elvish Spirit Guide
 Eureka Moment
 Exotic Orchard
-Farhaven Elf
+Fblthp, Lost on the Range
 Fiery Islet
 Flooded Strand
 Forest
@@ -28,6 +29,8 @@ Forest
 Forest
 Forest
 Frantic Search
+Grabby Giant // That's Mine
+Great Whale
 Harrow
 Haughty Djinn
 Hedron Archive
@@ -46,7 +49,6 @@ Jeska's Will
 Jin-Gitaxias, Progress Tyrant
 Kellan, Inquisitive Prodigy // Tail the Suspect
 Ketria Triome
-Kira, Great Glass-Spinner
 Kodama's Reach
 Lórien Revealed
 Mana Geyser
@@ -63,7 +65,7 @@ Mountain
 Mountain
 Mountain
 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time
-Oko, Thief of Crowns
+Peregrine Drake
 Polluted Delta
 Primal Amulet // Primal Wellspring
 Prismari Command
@@ -71,10 +73,10 @@ Rejuvenating Springs
 Sakashima of a Thousand Faces
 Sakashima the Impostor
 Scalding Tarn
+Search for Tomorrow
 Seething Song
 Shivan Reef
 Snapping Voidcraw
-Solemn Simulacrum
 Spark Double
 Steam Vents
 Stitch in Time
@@ -83,9 +85,7 @@ Storm-Kiln Artist
 Sulfur Falls
 Sword of Wealth and Power
 Tatyova, Benthic Druid
-The One Ring
 Time Warp
-Tishana's Tidebinder
 Training Center
 Treachery
 Treasure Cruise
