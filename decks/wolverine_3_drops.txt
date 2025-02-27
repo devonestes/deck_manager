@@ -1,11 +1,12 @@
 1 Wolverine, Best There Is (SLD) 1737
 1 Ancestral Mask (EMA) 157
-1 Animist's Might (MAT) 20
+1 Animist's Might (MAT) 70
 1 Arcbond (FRF) 91
 1 Archdruid's Charm (MKM) 408
 1 Bloated Contaminator (ONE) 159
 1 Boar Umbra (UMA) 158
 1 Bone Sabres (40K) 88
+1 Bonecrusher Giant // Stomp (PLST) ELD-115
 1 Branching Evolution (LCC) 234
 1 Bridgeworks Battle // Tanglespan Bridgeworks (MH3) 249
 1 Cartouche of Strength (AKH) 158
@@ -28,10 +29,10 @@
 1 Hunter's Insight (NEC) 119
 1 Hydra's Growth (J22) 89
 1 Inspiring Call (MOC) 304
-1 Invigorate (GN3) 99
+1 Invigorate (DDD) 19
 1 Invigorating Hot Spring (NEO) 223
 1 Jeska's Will (CMR) 668
-1 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 475
+1 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 194
 1 Karplusan Forest (M3C) 351
 1 Kessig Wolf Run (LCC) 340
 1 Khalni Ambush // Khalni Territory (ZNR) 192
@@ -44,7 +45,7 @@
 1 Lothlórien Blade (LTC) 77
 1 Loxodon Warhammer (J22) 784
 1 Lure (IMA) 175
-1 Mage Slayer (NEC) 140
+1 Mage Slayer (HOP) 91
 1 Managorger Hydra (C21) 199
 1 Mithril Coat (LTR) 379
 7 Mountain (J22) 107
@@ -71,10 +72,9 @@
 1 Sword of Vengeance (NEC) 164
 1 Taurean Mauler (PLST) MOR-109
 1 The Reaver Cleaver (DMC) 8
-1 Toggo, Goblin Weaponsmith (CMR) 204
 1 Tribute to the World Tree (MOM) 211
 1 Trickster's Elk (MH3) 175
-1 Tuskguard Captain (2X2) 163
+1 Tuskguard Captain (KTK) 156
 1 Verduran Enchantress (4ED) 281
 1 Whispersilk Cloak (LTC) 292
 1 Windswift Slice (LTC) 45

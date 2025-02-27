@@ -1,6 +1,8 @@
 1 Korvold, Fae-Cursed King (ELD) 329
 1 Academy Manufactor (MH2) 219
+1 Accursed Marauder (MH3) 80
 1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+1 Alchemist's Talent (BLC) 22
 1 Ancient Brass Dragon (CLB) 367
 1 Ancient Copper Dragon (CLB) 161
 1 Ancient Tomb (TMP) 315
@@ -32,10 +34,7 @@
 1 Deathrite Shaman (RTR) 213
 1 Deflecting Swat (C20) 50
 1 Delighted Halfling (LTR) 158
-1 Demonic Tutor (3ED) 105
-1 Diabolic Intent (PLS) 42
 1 Dictate of Erebos (JOU) 65
-1 Dockside Extortionist (2X2) 360
 1 Eldrazi Repurposer (MH3) 150
 1 Fabled Passage (ELD) 244
 1 Field of the Dead (M20) 247
@@ -44,13 +43,13 @@
 1 Goldspan Dragon (J22) 550
 1 Heroic Intervention (LTC) 249
 1 Ignoble Hierarch (MH2) 166
-1 Jeweled Lotus (CMR) 319
+1 Juri, Master of the Revue (MUL) 46
 1 Life from the Loam (RAV) 172
 1 Lightning Greaves (LTC) 281
 1 Liliana, Dreadhorde General (WAR) 97
 1 Lotus Petal (TMP) 294
 1 Luxury Suite (ZNE) 18
-1 Mana Crypt (2XM) 270
+1 Marionette Apprentice (MH3) 100
 1 Marsh Flats (MM3) 239
 1 Mayhem Devil (WAR) 204
 1 Mirkwood Bats (LTR) 95
@@ -73,6 +72,7 @@
 1 Reassembling Skeleton (J22) 125
 1 Reliquary Tower (BRC) 196
 1 Rhythm of the Wild (LCC) 287
+1 Rottenmouth Viper (BLB) 290
 1 Scalding Tarn (MM3) 244
 1 Shallow Grave (MIR) 141
 1 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354
@@ -91,10 +91,10 @@
 1 Undergrowth Stadium (CMR) 714
 1 Urborg, Tomb of Yawgmoth (TSR) 287
 1 Urza's Saga (MH2) 259
-1 Vampiric Tutor (VIS) 72
 1 Verdant Catacombs (MM3) 249
+1 Warren Soultrader (MH3) 414
 1 Wheel of Fortune (3ED) 185
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249
-1 Worldly Tutor (MIR) 255
+1 Ziatora, the Incinerator (M3C) 279
 1 Ziatora's Proving Ground (SNC) 295

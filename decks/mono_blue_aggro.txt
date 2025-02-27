@@ -3,7 +3,6 @@
 1 Apprentice Wizard (4ED) 61
 1 Arcane Heist (OTC) 13
 1 Bident of Thassa (LCC) 146
-1 Blightsteel Colossus (MBS) 99
 1 Blue Sun's Twilight (ONE) 379
 1 Brainstorm (ICE) 61
 1 Brazen Borrower // Petty Theft (SLD) 234
@@ -17,15 +16,14 @@
 1 Curiosity (WOT) 17
 1 Cyclonic Rift (2XM) 339
 1 Defiler of Dreams (DMU) 46
+1 Dreamtide Whale (MH3) 450
 1 Faerie Mastermind (PMOM) 58p
-1 Fierce Guardianship (C20) 35
 1 Grazilaxx, Illithid Scholar (CLB) 723
 1 Halimar Depths (C18) 253
 1 High Tide (FEM) 18c
 1 Horn of the Mark (LTR) 241
 1 Horned Loch-Whale // Lagoon Breach (WOE) 53
-23 Island (J22) 101
-1 Jeweled Lotus (CMR) 319
+25 Island (J22) 101
 1 Kefnet's Monument (AKH) 231
 1 Kukemssa Pirates (MIR) 71
 1 Ledger Shredder (PSNC) 46p
@@ -68,11 +66,11 @@
 1 Teferi's Ageless Insight (M21) 76
 1 Thada Adel, Acquisitor (WWK) 40
 1 The Indomitable (LCC) 75
-1 The One Ring (LTR) 451
 1 Thieving Otter (IKO) 69
 1 Thought Vessel (PLG22) 2
 1 Throne of Eldraine (WOC) 28
 1 Time Warp (STA) 22
 1 Treachery (UDS) 50
+1 Twenty-Toed Toad (BLC) 16
 1 Vanguard Suppressor (40K) 27
 1 War Room (WHO) 330

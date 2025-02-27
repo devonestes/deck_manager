@@ -1,49 +1,48 @@
 1 Disa the Restless (M3C) 1
 1 Abrupt Decay (OTP) 34
 1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+1 Anger (M3C) 208
 1 Arcane Signet (MOC) 348
+1 Archon of Cruelty (MH2) 75
 1 Assassin's Trophy (GRN) 152
 1 Barrowgoyf (M3C) 102
-1 Birds of Paradise (4ED) 234
 1 Black Market Connections (CLB) 620
-1 Blasphemous Act (BRC) 113
 1 Blood Crypt (UNF) 279
 1 Bloodstained Mire (KTK) 230
-1 Boseiju, Who Endures (NEO) 501
+1 Bojuka Bog (MOC) 391
 1 Brass's Tunnel-Grinder // Tecutlan, the Searing Rift (LCI) 135
 1 Buried Alive (WTH) 63
+1 Chainer, Nightmare Adept (C19) 39
+1 Chameleon Colossus (MOR) 116
 1 Changeling Outcast (MH1) 82
 1 Command Tower (MOC) 396
 1 Commercial District (MKM) 259
+1 Conspiracy (ACR) 88
 1 Coram, the Undertaker (M3C) 7
-1 Crop Rotation (DMR) 154
 1 Dakmor Salvage (M3C) 333
-1 Deadly Rollick (C20) 42
+1 Deathcap Glade (VOW) 281
 1 Deathrite Shaman (RTR) 213
-1 Deflecting Swat (C20) 50
-1 Delighted Halfling (LTR) 158
-1 Demonic Tutor (3ED) 105
 1 Detritivore (PLC) 96
-1 Diabolic Intent (PLS) 42
-1 Dockside Extortionist (2X2) 360
 1 Doom Whisperer (MKC) 128
-1 Eldritch Evolution (EMN) 155
+1 Dragonskull Summit (SLD) 458
 1 Entomb (EMA) 87
-1 Eternal Witness (M3C) 227
-1 Evolution Witness (MH3) 151
 1 Fabled Passage (ELD) 244
 1 Farseek (RVR) 138
-1 Fell the Profane // Fell Mire (MH3) 244
-1 Final Act (M3C) 104
-4 Forest (J22) 110
+1 Fecund Greenshell (BLB) 362
+1 Find // Finality (RVR) 245
+1 Forest (J22) 110
+1 Forgotten Cave (J22) 814
 1 Garruk's Uprising (WOT) 53
-1 Golgari Grave-Troll (RVR) 348
+1 Ghostfire Slice (MH3) 123
+1 Golgari Grave-Troll (RVR) 144
 1 Golgari Thug (RVR) 325
 1 Graveshifter (M3C) 198
+1 Grist, the Hunger Tide (MH2) 202
+1 Haunted Ridge (MID) 282
 1 Hermit Druid (STH) 108
 1 Ignoble Hierarch (MH2) 166
 1 Insidious Roots (MKM) 208
-1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190
+1 Invasion of Kaldheim // Pyre of the World Tree (MOM) 145
 1 Lhurgoyf (M3C) 235
 1 Life from the Loam (RAV) 172
 1 Lightning Bolt (4ED) 208
@@ -53,39 +52,49 @@
 1 Magnivore (9ED) 202
 1 Maskwood Nexus (PLST) KHM-240
 1 Mortivore (M3C) 201
-4 Mountain (J22) 107
-1 Nature's Lore (DMR) 170
+1 Mossfire Valley (NCC) 414
+1 Mountain (J22) 107
 1 Necrogoyf (M3C) 202
-1 Opposition Agent (CMR) 141
+1 Nethergoyf (MH3) 454
 1 Orcish Bowmasters (LTR) 103
 1 Overgrown Tomb (UNF) 284
 1 Palantír of Orthanc (LTR) 381
 1 Phyrexian Arena (MKC) 133
+1 Phyrexian Tower (JMP) 493
 1 Polygoyf (M3C) 117
 1 Pyrogoyf (M3C) 111
-1 Ragavan, Nimble Pilferer (MUL) 21
 1 Realmwalker (LCC) 250
 1 Reanimate (TMP) 151
 1 Rhythm of the Wild (LCC) 287
+1 Rockfall Vale (MID) 266
+1 Rogue's Passage (LTC) 326
+1 Rootbound Crag (SLD) 459
 1 Sheoldred, Whispering One (NPH) 73
+1 Six (MH3) 370
 1 Sol Ring (MOC) 381
 1 Spire Garden (ZNE) 19
-1 Stinkweed Imp (DDJ) 54
+1 Stinkweed Imp (MMA) 98
 1 Stomping Ground (UNF) 280
 1 Sulfurous Springs (5ED) 424
-4 Swamp (J22) 106
+1 Swamp (J22) 106
 1 Swiftfoot Boots (BRC) 166
 1 Sylvan Library (CC1) 5
+1 Syr Konrad, the Grim (MOC) 269
+1 Takenuma, Abandoned Mire (NEO) 416
+1 Tarmogoyf (FUT) 153
 1 Tarmogoyf Nest (M3C) 120
 1 Taurean Mauler (PLST) MOR-109
 1 Terravore (DMR) 181
 1 Three Visits (MKC) 189
 1 Toxic Deluge (C13) 96
+1 Tranquil Thicket (MKC) 309
+1 Underground Mortuary (MKM) 333
 1 Undergrowth Stadium (CMR) 714
 1 Urborg, Tomb of Yawgmoth (TSR) 287
-1 Vampiric Tutor (VIS) 72
 1 Verdant Catacombs (MM3) 249
-1 Wheel of Fortune (3ED) 185
+1 Vile Entomber (MH2) 403
+1 Viridescent Bog (M3C) 406
 1 Wooded Foothills (KTK) 249
+1 Woodland Cemetery (LTC) 346
 1 Yavimaya, Cradle of Growth (MH2) 441
 1 Ziatora's Proving Ground (SNC) 295

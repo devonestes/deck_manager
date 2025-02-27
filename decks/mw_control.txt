@@ -1,24 +1,17 @@
 1 Avacyn, Angel of Hope (2XM) 8
-1 Ancient Gold Dragon (CLB) 365
 1 Ancient Tomb (TMP) 315
-1 Angel of Jubilation (AVR) 2
 1 Arcane Signet (MOC) 348
 1 Archaeomancer's Map (C21) 339
 1 Archangel of Thune (M14) 5
-1 Archangel of Tithes (ORI) 4
 1 Armageddon (4ED) 5
-1 Austere Command (LCC) 126
 1 Authority of the Consuls (KLD) 5
+1 Basalt Monolith (3ED) 235
 1 Battle Angels of Tyr (CLB) 9
 1 Bitterthorn, Nissa's Animus (MOC) 45
-1 Bruna, the Fading Light (SLD) 1388
+1 Bruna, the Fading Light (INR) 14a
 1 Cavern of Souls (AVR) 226
-1 Commander's Plate (CMR) 692
-1 Court of Grace (ONC) 62
-1 Darksteel Plate (2X2) 304
-1 Debt of Loyalty (WTH) 11
+1 Day of Judgment (MB2) 8
 1 Eiganjo, Seat of the Empire (NEO) 413
-1 Elesh Norn, Grand Cenobite (NPH) 9
 1 Elesh Norn, Mother of Machines (ONE) 10
 1 Emeria, the Sky Ruin (ZEN) 213
 1 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 12
@@ -26,54 +19,58 @@
 1 Esper Sentinel (MH2) 12
 1 Everybody Lives! (WHO) 18
 1 Farewell (NEO) 365
+1 Final Showdown (OTJ) 11
 1 Fumigate (MKC) 66
 1 Ghostly Prison (ONC) 71
+1 Giada, Font of Hope (FDN) 141
+1 Gilded Lotus (BLC) 271
 1 Gisela, the Broken Blade (EMN) 28
 1 Giver of Runes (MH1) 13
-1 Grand Abolisher (SLD) 1285
 1 Heliod, Sun-Crowned (THB) 18
-1 Idyllic Tutor (MOR) 12
+1 Keeper of the Accord (MKC) 70
 1 Kjeldoran Outpost (ALL) 139
 1 Knight of the White Orchid (MOC) 193
 1 Land Tax (2XM) 20
-1 Lightning Greaves (LTC) 281
-1 Linvala, Keeper of Silence (ROE) 33
 1 Loran of the Third Path (BRO) 12
 1 Luminarch Ascension (ZEN) 25
+1 Mana Vault (2ED) 260
+1 Mangara, the Diplomat (BLC) 145
 1 Maze of Ith (DRK) 117
 1 Mirrex (PONE) 254s
 1 Moat (LEG) 28
-1 Mother of Runes (ULG) 14
 1 Myriad Landscape (MOC) 416
+1 Nevinyrral's Disk (MH2) 298
 1 Nykthos, Shrine to Nyx (THS) 223
+1 Nyx Lotus (THB) 344
 1 Oketra's Monument (PLST) AKH-233
 1 Peacekeeper (WTH) 22
 1 Pearl Medallion (TMP) 300
-22 Plains (3ED) 292
+25 Plains (3ED) 292
+1 Platinum Angel (MRD) 228
 1 Platinum Emperion (SOM) 193
 1 Plaza of Heroes (DMU) 421
 1 Ravages of War (PTK) 17
 1 Resplendent Angel (M19) 34
 1 Retribution of the Meek (VIS) 19
+1 Reya Dawnbringer (SLD) 1682
+1 Sceptre of Eternal Glory (40K) 166★
+1 Serenity (WTH) 24
 1 Serra Ascendant (IMA) 31
 1 Serra Paragon (DMU) 388
 1 Settle the Wreckage (XLN) 34
 1 Smothering Tithe (RNA) 22
 1 Sol Ring (MOC) 381
-1 Solitude (MH2) 32
-1 Swiftfoot Boots (BRC) 166
-1 Swords to Plowshares (MOC) 211
 1 Teferi's Protection (C17) 8
 1 Temple of the False God (MOC) 437
 1 The Immortal Sun (RIX) 180
 1 Thran Dynamo (BRC) 168
 1 Throne of Eldraine (WOC) 28
 1 Tithe (VIS) 23
+1 Trouble in Pairs (MKC) 15
 1 Vanquish the Horde (PMID) 41p
-1 Virtue of Loyalty // Ardenvale Fealty (WOE) 38
-1 Walking Ballista (AER) 181
 1 War Room (WHO) 330
-1 Wayfarer's Bauble (BRC) 171
 1 Weathered Wayfarer (LTC) 183
+1 Winter Moon (MH3) 213
 1 Witch's Clinic (C21) 407
 1 Worldslayer (M12) 222
+1 Wrath of God (5ED) 69

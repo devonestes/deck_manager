@@ -18,6 +18,7 @@ Nature's Lore (PROXY)
 Overgrown Farmland (PROXY)
 Prismatic Vista (PROXY)
 Rhythm of the Wild (PROXY)
+Roaming Throne (PROXY)
 Rockfall Vale (PROXY)
 Sacred Foundry (PROXY)
 Scalding Tarn (PROXY)
@@ -79,7 +80,6 @@ Regal Imperiosaur
 Regisaur Alpha
 Return of the Wildspeaker
 Ripjaw Raptor
-Roaming Throne
 Secluded Courtyard
 Sol Ring
 Sunfrill Imitator

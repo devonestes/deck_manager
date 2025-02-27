@@ -1,80 +1,77 @@
-1 Doric, Nature's Warden // Doric, Owlbear Avenger (SLD) 1241
+1 Casal, Lurkwood Pathfinder // Casal, Pathbreaker Owlbear (SLD) 1241
+1 Adventurers' Guildhouse (LEG) 300
 1 Akroma's Memorial (FUT) 159
-1 Ancient Tomb (TMP) 315
+1 Anara, Wolvid Familiar (CMR) 214
 1 Arwen, Weaver of Hope (LTC) 35
 1 Ashaya, Soul of the Wild (ZNR) 179
-1 Augur of Autumn (MID) 168
-1 Beast Within (ONC) 104
-1 Beastmaster Ascension (PLST) CMA-92
-1 Berserk (CN2) 175
 1 Boseiju, Who Endures (NEO) 501
+1 Bristly Bill, Spine Sower (OTJ) 157
 1 Castle Garenbrig (ELD) 240
 1 Commander's Plate (CMR) 692
-1 Cultivate (J22) 644
 1 Delighted Halfling (LTR) 158
 1 Dolmen Gate (LRW) 256
+1 Eladamri, Korvecdal (MH3) 369
 1 Emerald Medallion (CMM) 379
-21 Forest (J22) 110
+24 Forest (J22) 110
 1 Ghalta, Primal Hunger (CMM) 292
 1 Ghalta, Stampede Tyrant (LCI) 326
 1 Goreclaw, Terror of Qal Sisma (MUL) 27
 1 Greensleeves, Maro-Sorcerer (DMC) 77
-1 Helm of the Host (DOM) 217
 1 Heroic Intervention (LTC) 249
 1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190
 1 Jolrael, Mwonvuli Recluse (MKC) 173
-1 Kodama of the West Tree (NEO) 392
+1 Kodama of the East Tree (BLC) 227
 1 Kogla, the Titan Ape (IKO) 162
-1 Kozilek, Butcher of Truth (ROE) 6
+1 Kolvori, God of Kinship // The Ringhart Crest (KHM) 181
 1 Kura, the Boundless Sky (NEO) 200
 1 Last March of the Ents (LTR) 418
 1 Legolas Greenleaf (LTC) 40
-1 Legolas's Quick Reflexes (LTC) 493
 1 Maze of Ith (DRK) 117
 1 Mosswort Bridge (LCC) 342
-1 Natural Order (VIS) 114
 1 Nature's Lore (DMR) 170
 1 Nissa, Ascended Animist (ONE) 339
 1 Nissa, Resurgent Animist (MAT) 22
 1 Nykthos, Shrine to Nyx (THS) 223
-1 Nyxbloom Ancient (THB) 190
 1 Ohran Frostfang (SLD) 237
 1 Ojer Kaslem, Deepest Growth // Temple of Cultivation (LCI) 204
 1 Old Gnawbone (AFR) 197
+1 Omnath, Locus of Mana (CMM) 310
+1 Pathbreaker Ibex (SLD) 307
 1 Plaza of Heroes (DMU) 421
+1 Questing Beast (ELD) 171
 1 Radagast the Brown (LTR) 184
-1 Ram Through (J22) 91
 1 Rampant Growth (M12) 190
 1 Reki, the History of Kamigawa (SOK) 142
+1 Renata, Called to the Hunt (THB) 267
 1 Return of the Wildspeaker (ELD) 172
+1 Rhonas's Monument (AKH) 236
 1 Rishkar's Expertise (NEC) 127
 1 Rogue's Passage (LTC) 326
 1 Saryth, the Viper's Fang (MKC) 185
 1 Selvala, Heart of the Wilds (JMP) 429
-1 Skyshroud Claim (CMM) 321
+1 Six (MH3) 370
 1 Sol Ring (MOC) 381
-1 Song of the Dryads (CMM) 324
 1 Sword of Feast and Famine (2XM) 296
 1 Sylvan Library (CC1) 5
 1 The Great Henge (LTC) 348
 1 The Ring Goes South (LTR) 186
 1 The Shire (LTR) 345
 1 The Skullspore Nexus (LCI) 212
-1 Three Visits (PTK) 153
 1 Throne of Eldraine (WOC) 28
 1 Thrun, Breaker of Silence (ONE) 186
 1 Thrun, the Last Troll (MBS) 92
 1 Toski, Bearer of Secrets (KHM) 197
+1 Tribute to the World Tree (MOM) 211
 1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
-1 Ulamog, the Ceaseless Hunger (BFZ) 15
 1 Unnatural Growth (PMID) 206p
-1 Urza's Saga (MH2) 259
-1 Vigor (BBD) 215
+1 Virtue of Strength // Garenbrig Growth (WOE) 197
 1 Vorinclex // The Grand Evolution (MOM) 213
 1 Vorinclex, Monstrous Raider (KHM) 333
 1 Vorinclex, Voice of Hunger (IMA) 189
 1 War Room (WHO) 330
+1 Wilson, Refined Grizzly (CLB) 411
 1 Witch's Clinic (C21) 407
-1 Worldly Tutor (MIR) 255
 1 Yavimaya Hollow (UDS) 143
 1 Yavimaya, Cradle of Growth (MH2) 441
+1 Yeva, Nature's Herald (RVR) 162
+1 Yorvo, Lord of Garenbrig (ELD) 185

@@ -1,6 +1,5 @@
 1 Abrade (FDN) 188
 1 Abundant Harvest (MH2) 147
-1 Accorder Paladin (PLST) MBS-1
 1 Accursed Marauder (MH3) 80
 1 Adanto Vanguard (PLST) XLN-1
 1 Aerie Auxiliary (MH3) 18
@@ -78,7 +77,7 @@
 1 Chart a Course (LCI) 48
 1 Cheeky House-Mouse // Squeak By (WOE) 7
 1 Circuit Mender (PLST) NEO-242
-1 City of Brass (5ED) 413
+1 City of Brass (MB2) 240
 1 Cliffhaven Kitesail (ZNR) 243
 1 Cloudblazer (BLC) 249
 1 Cloudgoat Ranger (PLST) LRW-10
@@ -92,7 +91,7 @@
 1 Confounding Riddle (LCI) 50
 1 Consider (MKC) 98
 1 Contaminated Landscape (MH3) 218
-1 Control Magic (3ED) 52
+1 Control Magic (4ED) 64
 1 Coruscation Mage (BLB) 131
 1 Counterspell (TMP) 57
 1 Crackling Drake (C21) 213
@@ -102,8 +101,8 @@
 1 Crystal Shard (MRD) 159
 1 Cult Conscript (DMU) 88
 1 Curiosity (WOT) 17
-1 Curse of Disturbance (C21) 138
 1 Curse of Predation (C13) 140
+1 Cut Down (DMU) 432
 1 Cynette, Jelly Drover (J25) 35
 1 Dance of the Dead (ICE) 118
 1 Dance of the Tumbleweeds (OTJ) 160
@@ -117,14 +116,14 @@
 1 Dewdrop Cure (BLB) 10
 1 Dinrova Horror (BBD) 220
 1 Diresight (BLB) 91
-1 Disfigure (2X2) 74
+1 Disfigure (BRO) 91
 1 Dismember (NPH) 57
 1 Dragon Trainer (FDN) 84
 1 Dragon's Rage Channeler (MB2) 56
 1 Drown in Sorrow (2XM) 91
 1 Duress (ONE) 92
 1 Duskwatch Recruiter // Krallenhorde Howler (INR) 193
-1 Echoing Truth (C19) 84
+1 Echoing Truth (DST) 21
 1 Eddymurk Crab (BLB) 48
 1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
 1 Eldrazi Ravager (MH3) 5
@@ -175,16 +174,17 @@
 1 Frost Trickster (J25) 313
 1 Fyndhorn Elves (ICE) 244
 1 Gary Clone (PIP) 16
-1 General Marhault Elsdragon (DMC) 31
+1 General Marhault Elsdragon (DMC) 53
 1 Geological Appraiser (LCI) 150
 1 Getaway Glamer (OTJ) 14
 1 Ghor-Clan Rampager (MM3) 165
 1 Ghostfire Slice (MH3) 123
-1 Ghostly Flicker (CMM) 98
+1 Ghostly Flicker (AVR) 57
 1 Gifted Aetherborn (AER) 61
 1 Gingerbrute (ELD) 219
 1 Githzerai Monk (CLB) 20
 1 Glimmerpoint Stag (SOM) 9
+1 Gloryheath Lynx (DFT) 14
 1 Glyph Elemental (MH3) 27
 1 Go for the Throat (BRO) 102
 1 Goblin Banneret (GRN) 102
@@ -224,7 +224,7 @@
 1 Highway Robbery (OTJ) 129
 1 Hivespine Wolverine (BLB) 177
 1 Honest Rutstein (OTJ) 207
-1 Hordeling Outburst (A25) 134
+1 Hordeling Outburst (J22) 552
 1 Horizon Canopy (WHO) 287
 1 Howling Giant (M20) 177
 1 Hunter's Talent (BLB) 179
@@ -261,7 +261,7 @@
 1 Law-Rune Enforcer (WAR) 20
 1 Lesser Masticore (MH1) 225
 1 Life // Death (DMR) 216
-1 Lightning Bolt (SLD) 1743
+1 Lightning Bolt (4ED) 208
 1 Liliana's Devotee (MIC) 122
 1 Lingering Souls (DDK) 24
 1 Lionheart Glimmer (DSK) 19
@@ -312,7 +312,7 @@
 1 Ninja of the Deep Hours (BOK) 44
 1 Noble's Purse (CLB) 331
 1 Noise Marine (40K) 82
-1 Norin, Swift Survivalist (DSK) 145
+1 Norin, Swift Survivalist (DSK) 297
 1 Nurturing Pixie (OTJ) 20
 1 Nyxborn Hydra (MH3) 164
 1 Obsessive Stitcher (PLST) M21-223
@@ -504,7 +504,7 @@
 1 Undead Gladiator (A25) 112
 1 Undercity Sewers (MKM) 332
 1 Underground Mortuary (MKM) 333
-1 Undying Malice (FDN) 528
+1 Undying Malice (VOW) 134
 1 Unearth (2X2) 96
 1 Unnerving Grasp (DSK) 80
 1 Untamed Kavu (DOM) 186

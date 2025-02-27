@@ -24,13 +24,13 @@
 1 Dreamroot Cascade (VOW) 282
 1 Elementalist's Palette (C21) 76
 1 Exocrine (40K) 76
-1 Farseek (C19) 165
 1 Fierce Guardianship (C20) 35
 1 Finale of Devastation (WAR) 160
 1 Flooded Grove (LTC) 309
 2 Forest (J22) 110
 1 Fractal Harness (C21) 61
 1 Frontier Bivouac (40K) 281
+1 Goldvein Hydra (OTJ) 167
 1 Gyre Sage (MOC) 300
 1 Hardened Scales (WOT) 55
 1 Heroic Intervention (LTC) 249
@@ -43,6 +43,7 @@
 1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190
 2 Island (J22) 101
 1 Izzet Boilerworks (BRC) 188
+1 Kalonian Hydra (M14) 181
 1 Kami of Whispered Hopes (MOM) 196
 1 Karn's Bastion (CMM) 1007
 1 Ketria Triome (IKO) 310
@@ -52,16 +53,16 @@
 1 Misty Rainforest (MM3) 240
 2 Mountain (J22) 107
 1 Novijen, Heart of Progress (C21) 305
+1 Open the Way (MAT) 23
 1 Oran-Rief, the Vastwood (NEC) 173
 1 Otawara, Soaring City (NEO) 503
 1 Primordial Hydra (J22) 712
-1 Pull from Tomorrow (MOC) 230
-1 Rampant Growth (M12) 190
 1 Ravener (40K) 138
 1 Rejuvenating Springs (LTC) 325
-1 Rhystic Study (J22) 114
 1 Ripples of Potential (LCC) 77
 1 Rockfall Vale (MID) 266
+1 Rosheen Meanderer (IMA) 206
+1 Rosheen, Roaring Prophet (MH3) 380
 1 Runadi, Behemoth Caller (J22) 44
 1 Scalding Tarn (MM3) 244
 1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
@@ -80,7 +81,6 @@
 1 Temur Ascendancy (KTK) 207
 1 Termagant Swarm (40K) 99
 1 Tervigon (40K) 100
-1 The Goose Mother (WOE) 204
 1 The Ozolith (LTC) 351
 1 Thousand-Year Elixir (C13) 266
 1 Training Center (CMR) 713

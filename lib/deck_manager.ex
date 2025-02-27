@@ -1,6 +1,5 @@
 defmodule DeckManager do
   @decks [
-    #{"cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"},
     {"dandan", "vN9isPEhfUuM3UUh7JCHJg", "800bbb43-8c98-4126-80d3-8a2ae9991d7c"},
     {"thrasios_yoshimaru", "Bdwllw3tYka3tSfVrO6K5w", "d8b70926-1071-4c85-ac12-3b23ee79399b"},
     {"vampires", "jOUImhiaykKSYanHfKmkLA", "28309948-82fd-41f6-ab59-c18e3689e77d"},
@@ -18,8 +17,12 @@ defmodule DeckManager do
     {"monarch", "aHQmX2i_i0-hUQpdq0ta5w", "d5af5f3f-60ef-442e-a378-ac21792a1471"},
     {"shrines", "YontiLZZZEmugFVEqOhXKA", "828cf477-a6f5-450d-b14b-7b74f1dde4cb"},
     {"gitrog_ride", "wo9B3RfmDk-HnA_ywmH9NQ", "23d12b36-bb8b-4e6f-9f9a-07b9eafcb5d0"},
-    #{"peasant_cube", "xaM0NeOpV02u1g3LaG7nXQ", "ee59e00e-f986-468a-b751-44b878eaa5b1"},
+    {"hare_apparant", "juBb7nCb4UuPDDrc0PHp3Q", "6e7d9747-56d6-40c6-a0e1-27bb6822bae0"},
     {"temur_cube", "9aAuKWFZv0iOIzb_dHaQRQ", "e084d46c-ccdf-4bd9-a461-12711b6cb375"},
+    #{"cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"},
+    #{"peasant_cube", "xaM0NeOpV02u1g3LaG7nXQ", "ee59e00e-f986-468a-b751-44b878eaa5b1"},
+    #{"pauper_cube", "xTLumPuQs0e-4oWb2izZyw", "a615477e-c305-484a-b10b-eca8200aa213"},
+    #{"duskmourn_remastered", "In_QeFJrrk-6lenOjdG73w", "49cc2a21-50bd-4e09-9baa-d8740fb39c99"},
     {"bant_tokens", "1CtjbDS54kOSqeGlg2t22Q", "ff27a0e1-a95e-4d84-951e-a491ab20f1e4"},
     {"aristocats", "TYqGCS46qEaJMRKsasgcCQ", "be34ece7-5d32-44c3-b0e4-fa452b151cbc"},
     {"optimus_prime", "pLyCNHUPG02p0v5oY7HJLQ", "1f758cc9-15db-47c5-b78d-2b8f62e83a72"},
@@ -38,7 +41,6 @@ defmodule DeckManager do
     #{"merfolk", "ekHtx3vytky4yfEHOIpi2A", "0e516b67-5914-40fe-8bc3-31aaf4d63b73"},
     #{"omo", "YYF3-rUpU02AHaNF9AnSbg", "cda4a737-1336-40a2-9e26-880d4984462b"},
     #{"goyfs", "zlM5lMPXqEu88EgNmF-h8A", "a6e9261f-3165-4a08-bcab-1bf86cf3280e"},
-    #{"energy", "pc3UBVakNk-XMMUy1RAuFg", "e604695a-2b77-4c11-a508-a3ce5d19dda9"},
     #{"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
     #{"mw_control", "j8XE7zIQ70O5vRXmD5Ua3g", "bcad72f6-57ea-474d-aef7-a19a9f74931f"},
     #{"mirko", "yYJUeFoCNEaoTg8kBQgt6w", "cfcdd050-f39b-4302-8689-5b244bb2ddfd"},

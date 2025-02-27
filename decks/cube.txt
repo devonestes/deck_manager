@@ -16,7 +16,6 @@
 1 Ashen Rider (AFC) 175
 1 Atraxa, Grand Unifier (ONE) 316
 1 Augur of Autumn (DSC) 171
-1 Aurelia's Vindicator (MKM) 336
 1 Avacyn's Pilgrim (ISD) 170
 1 Badlands (3ED) 282
 1 Balance (3ED) 3
@@ -27,7 +26,6 @@
 1 Batterskull (NPH) 130
 1 Bayou (3ED) 283
 1 Bazaar of Baghdad (ARN) 70
-1 Benevolent Bodyguard (EMA) 4
 1 Beza, the Bounding Spring (BLB) 2
 1 Birds of Paradise (M12) 165
 1 Bitter Triumph (LCI) 91
@@ -48,7 +46,6 @@
 1 Bonecrusher Giant // Stomp (ELD) 115
 1 Bonehoard Dracosaur (LCI) 321
 1 Bonny Pall, Clearcutter (OTJ) 196
-1 Boon-Bringer Valkyrie (MOM) 343
 1 Boseiju, Who Endures (NEO) 266
 1 Botanical Sanctum (KLD) 244
 1 Brain Freeze (SCG) 29
@@ -69,7 +66,7 @@
 1 Chain Lightning (DMR) 113
 1 Chandra, Torch of Defiance (KLD) 110
 1 Channel (4ED) 236
-1 Chromatic Star (BRR) 11
+1 Chaos Defiler (40K) 110★
 1 Chrome Host Seedshark (MOM) 51
 1 Chrome Mox (2XM) 240
 1 City of Traitors (EXO) 143
@@ -91,6 +88,7 @@
 1 Crop Rotation (C20) 169
 1 Crucible of Worlds (M19) 229
 1 Cryptic Command (IMA) 48
+1 Currency Converter (NCC) 81
 1 Dack Fayden (MB2) 80
 1 Damn (MH2) 80
 1 Dark Confidant (RVR) 323
@@ -98,6 +96,7 @@
 1 Dark Ritual (3ED) 99
 1 Darkslick Shores (ZNE) 12
 1 Dauthi Voidwalker (PLST) MH2-81
+1 Daze (PLST) DD2-23
 1 Death-Greeter's Champion (MOC) 30
 1 Deathrite Shaman (RTR) 213
 1 Deep-Cavern Bat (LCI) 102
@@ -107,9 +106,9 @@
 1 Dig Through Time (KTK) 36
 1 Dismember (NPH) 57
 1 Displacer Kitten (CLB) 63
+1 Diversion Unit (DFT) 41
 1 Doomsday (WTH) 66
 1 Dragon's Rage Channeler (MB2) 56
-1 Dress Down (MH2) 334
 1 Dryad of the Ilysian Grove (SLD) 191
 1 Duress (ONE) 92
 1 Eagles of the North (LTR) 7
@@ -134,6 +133,7 @@
 1 Eternal Witness (M3C) 227
 1 Eureka (LEG) 185
 1 Everflowing Chalice (LTC) 278
+1 Exhume (DSC) 370
 1 Expedition Map (ZEN) 201
 1 Exploration (CNS) 164
 1 Expressive Iteration (BRC) 125
@@ -164,12 +164,12 @@
 1 Forth Eorlingas! (LTC) 56
 1 Fractured Identity (OTP) 45
 1 Frantic Search (CMM) 96
-1 From the Catacombs (CLB) 623
 1 Fury (MH2) 313
 1 Gaea's Cradle (USG) 321
 1 Gemstone Mine (DMR) 247
 1 Generous Ent (LTR) 169
 1 Generous Plunderer (BIG) 41
+1 Get Lost (LCI) 14
 1 Ghost Vacuum (DSK) 248
 1 Gitaxian Probe (NPH) 35
 1 Giver of Runes (MH1) 13
@@ -221,7 +221,6 @@
 1 Karn, Scion of Urza (DOM) 1
 1 Ketria Triome (IKO) 310
 1 Knight of the Reliquary (MMA) 178
-1 Kolaghan's Command (M3C) 268
 1 Kroxa, Titan of Death's Hunger (THB) 340
 1 Kumano Faces Kakkazan // Etching of Kumano (NEO) 152
 1 Laelia, the Blade Reforged (MH3) 281
@@ -232,7 +231,7 @@
 1 Leyline Binding (DMU) 387
 1 Library of Alexandria (ARN) 76
 1 Life // Death (DMR) 216
-1 Lightning Bolt (SLD) 1743
+1 Lightning Bolt (4ED) 208
 1 Lightning Greaves (SLD) 1493
 1 Liliana of the Veil (ISD) 105
 1 Lim-Dûl's Vault (ALL) 107
@@ -273,11 +272,10 @@
 1 Mox Diamond (STH) 138
 1 Mox Emerald (2ED) 262
 1 Mox Jet (2ED) 263
-1 Mox Opal (SOM) 179
+1 Mox Opal (2XM) 275
 1 Mox Pearl (2ED) 264
 1 Mox Ruby (2ED) 265
 1 Mox Sapphire (2ED) 266
-1 Mutavault (MOR) 148
 1 Myr Battlesphere (M3C) 301
 1 Mystic Confluence (LTC) 193
 1 Mystical Tutor (MIR) 80
@@ -292,6 +290,7 @@
 1 No More Lies (MKM) 221
 1 Noble Hierarch (2XM) 177
 1 Nurturing Peatland (MH1) 243
+1 Oath of Druids (G01) 2
 1 Ocelot Pride (MH3) 394
 1 Oko, Thief of Crowns (OTP) 50
 1 Oliphaunt (LTR) 426
@@ -309,6 +308,7 @@
 1 Palace Jailer (LTC) 174
 1 Palantír of Orthanc (LTR) 381
 1 Paradise Druid (SLD) 775
+1 Parallax Wave (NEM) 17
 1 Passageway Seer (CLB) 141
 1 Path to Exile (MOC) 198
 1 Pentad Prism (2XM) 281
@@ -320,12 +320,10 @@
 1 Phyrexian Metamorph (2XM) 341
 1 Phyrexian Revoker (CLB) 868
 1 Pick Your Poison (MKM) 170
-1 Pile On (MKC) 134
 1 Pillage the Bog (OTJ) 224
 1 Plateau (3ED) 284
 1 Polluted Delta (MH3) 438
 1 Ponder (SLP) 19
-1 Porcelain Legionnaire (NPH) 19
 1 Portable Hole (AFR) 33
 1 Portal to Phyrexia (BRO) 240
 1 Preacher of the Schism (LCI) 113
@@ -351,6 +349,7 @@
 1 Reckless Pyrosurfer (MH3) 133
 1 Reckless Stormseeker // Storm-Charged Slasher (MID) 157
 1 Reclamation Sage (LTC) 259
+1 Recurring Nightmare (EXO) 72
 1 Relic of Progenitus (MMA) 213
 1 Relic of Sauron (LTC) 79
 1 Remand (J25) 349
@@ -370,16 +369,14 @@
 1 Savannah (3ED) 285
 1 Scalding Tarn (MH2) 439
 1 Scapeshift (M19) 201
-1 Scavenging Ooze (FDN) 232
 1 Scrapwork Mutt (BRO) 164
 1 Screaming Nemesis (DSK) 157
 1 Scrubland (3ED) 286
 1 Seachrome Coast (ONE) 258
 1 Seasoned Dungeoneer (CLB) 660
-1 Seasoned Pyromancer (MH1) 145
+1 Seasoned Pyromancer (2X2) 123
 1 Securitron Squadron (PIP) 23
 1 Seething Song (MRD) 104
-1 Selfless Spirit (CLB) 706
 1 Selvala, Eager Trailblazer (OTJ) 231
 1 Sensei's Divining Top (MB2) 231
 1 Sentinel of the Nameless City (LCI) 211
@@ -411,8 +408,7 @@
 1 Soul-Guide Lantern (THB) 237
 1 Sowing Mycospawn (MH3) 340
 1 Spara's Headquarters (SNC) 293
-1 Spell Pierce (NEO) 80
-1 Spellbook Vendor (WOE) 31
+1 Spell Pierce (DFT) 64
 1 Spellseeker (BBD) 41
 1 Spirebluff Canal (KLD) 249
 1 Springheart Nantuko (MH3) 341
@@ -426,6 +422,7 @@
 1 Sun-Blessed Healer (FDN) 25
 1 Sunbaked Canyon (MH1) 247
 1 Sundering Titan (DST) 146
+1 Sunfall (MOM) 40
 1 Survival of the Fittest (EXO) 129
 1 Suspicious Stowaway // Seafaring Werewolf (MID) 80
 1 Sword of the Meek (BRR) 59
@@ -440,6 +437,7 @@
 1 Talisman of Dominance (MRD) 253
 1 Talisman of Indulgence (MRD) 255
 1 Talisman of Progress (LTC) 286
+1 Talon Gates of Madara (M3C) 134
 1 Tamiyo, Collector of Tales (WAR) 220
 1 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar (MH3) 242
 1 Tarmogoyf (FUT) 153
@@ -455,11 +453,10 @@
 1 The Wandering Emperor (NEO) 316
 1 Thespian's Stage (C19) 282
 1 Thief of Sanity (GRN) 205
-1 Thieving Skydiver (LCC) 177
 1 Third Path Iconoclast (OTC) 244
 1 Thopter Foundry (C13) 234
 1 Thought Scour (JMP) 185
-1 Thoughtseize (SLD) 1117
+1 Thoughtseize (LRW) 145
 1 Thraben Inspector (SOI) 44
 1 Through the Breach (CHK) 193
 1 Thundering Falls (MKM) 331
@@ -480,6 +477,7 @@
 1 Treasure Cruise (OTC) 120
 1 Tribal Flames (DDE) 51
 1 Trinket Mage (5DN) 39
+1 Triplicate Titan (DRC) 143
 1 Troll of Khazad-dûm (LTR) 111
 1 Tropical Island (3ED) 288
 1 True-Name Nemesis (C13) 63
@@ -493,7 +491,7 @@
 1 Underground Mortuary (MKM) 333
 1 Underground Sea (3ED) 290
 1 Undermountain Adventurer (CLB) 260
-1 Underworld Breach (THB) 324
+1 Underworld Breach (MB2) 200
 1 Unearth (2X2) 96
 1 Unexpectedly Absent (C20) 106
 1 Unholy Heat (OTC) 182
@@ -510,6 +508,7 @@
 1 Valki, God of Lies // Tibalt, Cosmic Impostor (KHM) 286
 1 Vampiric Tutor (6ED) 161
 1 Vaultborn Tyrant (BIG) 50
+1 Vendilion Clique (MMA) 70
 1 Verdant Catacombs (MH2) 440
 1 Vindicate (A25) 219
 1 Virtue of Loyalty // Ardenvale Fealty (WOE) 38
@@ -526,6 +525,7 @@
 1 Wight of the Reliquary (MH3) 207
 1 Windswept Heath (MH3) 440
 1 Wishclaw Talisman (ELD) 357
+1 Witch Enchanter // Witch-Blessed Meadow (MH3) 239
 1 Wooded Foothills (MH3) 441
 1 Woodfall Primus (LTC) 264
 1 Worldspine Wurm (DSC) 206

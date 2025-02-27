@@ -1,0 +1,260 @@
+6 Abandoned Campground (DSK) 255
+1 Abhorrent Oculus (DSK) 42
+4 Acrobatic Cheerleader (DSK) 1
+3 Altanak, the Thrice-Called (DSK) 166
+4 Anthropede (DSK) 167
+4 Appendage Amalgam (DSK) 83
+3 Arabella, Abandoned Doll (DSK) 208
+3 Attack-in-the-Box (DSK) 242
+4 Balemurk Leech (DSK) 84
+1 Balustrade Wurm (DSK) 168
+4 Baseball Bat (DSK) 209
+4 Bashful Beastie (DSK) 169
+4 Bear Trap (DSK) 243
+3 Beastie Beatdown (DSK) 210
+4 Bedhead Beastie (DSK) 125
+3 Betrayer's Bargain (DSK) 126
+6 Bleeding Woods (DSK) 257
+4 Boilerbilges Ripper (DSK) 127
+3 Bottomless Pool // Locker Room (DSK) 43
+3 Break Down the Door (DSK) 170
+3 Broodspinner (DSK) 211
+4 Cackling Slasher (DSK) 85
+3 Cathartic Parting (DSK) 171
+4 Cautious Survivor (DSK) 172
+2 Central Elevator // Promising Stairs (DSK) 336
+1 Chainsaw (DSK) 128
+1 Charred Foyer // Warped Space (DSK) 129
+4 Clammy Prowler (DSK) 45
+4 Clockwork Percussionist (DSK) 295
+2 Come Back Wrong (DSK) 86
+3 Commune with Evil (DSK) 87
+3 Conductive Machete (DSK) 244
+3 Coordinated Clobbering (DSK) 173
+4 Cracked Skull (DSK) 88
+4 Creeping Peeper (DSK) 46
+4 Cryptid Inspector (DSK) 174
+4 Cult Healer (DSK) 2
+1 Cursed Recording (DSK) 131
+3 Cursed Windbreaker (DSK) 47
+3 Cynical Loner (DSK) 89
+4 Daggermaw Megalodon (DSK) 48
+3 Dashing Bloodsucker (DSK) 90
+1 Dazzling Theater // Prop Room (DSK) 3
+3 Defiant Survivor (DSK) 175
+3 Defiled Crypt // Cadaver Lab (DSK) 91
+4 Derelict Attic // Widow's Walk (DSK) 93
+1 Dissection Tools (DSK) 245
+1 Disturbing Mirth (DSK) 212
+2 Disturbing Mirth (DSK) 212
+3 Diversion Specialist (DSK) 132
+1 Dollmaker's Shop // Porcelain Gallery (DSK) 4
+4 Don't Make a Sound (DSK) 49
+3 Drag to the Roots (DSK) 213
+3 Duskmourn's Domination (DSK) 50
+4 Emerge from the Cocoon (DSK) 5
+1 Enduring Courage (DSK) 133
+1 Enduring Curiosity (DSK) 51
+1 Enduring Innocence (DSK) 6
+1 Enduring Tenacity (DSK) 95
+1 Enduring Tenacity (DSK) 374
+1 Enduring Vitality (DSK) 176
+4 Enter the Enigma (DSK) 52
+1 Entity Tracker (DSK) 307
+4 Erratic Apparition (DSK) 54
+6 Etched Cornfield (DSK) 258
+3 Ethereal Armor (DSK) 7
+3 Exorcise (DSK) 8
+4 Fanatic of the Harrowing (DSK) 96
+3 Fear of Abduction (DSK) 9
+3 Fear of Being Hunted (DSK) 134
+3 Fear of Burning Alive (DSK) 135
+4 Fear of Exposure (DSK) 177
+3 Fear of Failed Tests (DSK) 55
+3 Fear of Falling (DSK) 56
+4 Fear of Immobility (DSK) 10
+3 Fear of Impostors (DSK) 57
+4 Fear of Infinity (DSK) 214
+3 Fear of Isolation (DSK) 58
+4 Fear of Lost Teeth (DSK) 97
+1 Fear of Missing Out (DSK) 136
+4 Fear of Surveillance (DSK) 11
+4 Fear of the Dark (DSK) 98
+4 Final Vengeance (DSK) 99
+4 Flesh Burrower (DSK) 178
+3 Floodpits Drowner (DSK) 59
+4 Found Footage (DSK) 246
+4 Frantic Strength (DSK) 179
+4 Friendly Ghost (DSK) 12
+4 Friendly Teddy (DSK) 247
+1 Funeral Room // Awakening Hall (DSK) 100
+3 Get Out (DSK) 60
+1 Ghost Vacuum (DSK) 248
+1 Ghostly Dancers (DSK) 302
+3 Ghostly Keybearer (DSK) 61
+4 Give In to Violence (DSK) 101
+4 Glassworks // Shattered Yard (DSK) 137
+3 Glimmer Seeker (DSK) 14
+4 Glimmerburst (DSK) 62
+4 Glimmerlight (DSK) 249
+4 Grab the Prize (DSK) 138
+4 Grand Entryway // Elegant Rotunda (DSK) 287
+4 Grasping Longneck (DSK) 180
+3 Greenhouse // Rickety Gazebo (DSK) 181
+3 Gremlin Tamer (DSK) 215
+3 Growing Dread (DSK) 216
+4 Hand That Feeds (DSK) 139
+4 Hardened Escort (DSK) 16
+1 Haunted Screen (DSK) 250
+2 Haunted Screen (DSK) 250
+1 Hauntwoods Shrieker (DSK) 182
+1 Hedge Shredder (DSK) 183
+4 Horrid Vigor (DSK) 184
+3 House Cartographer (DSK) 185
+4 Impossible Inferno (DSK) 140
+3 Infernal Phantom (DSK) 141
+4 Innocuous Rat (DSK) 103
+3 Inquisitive Glimmer (DSK) 217
+1 Insidious Fungus (DSK) 321
+2 Insidious Fungus (DSK) 186
+3 Intruding Soulrager (DSK) 218
+3 Irreverent Gremlin (DSK) 142
+4 Jump Scare (DSK) 17
+1 Kaito, Bane of Nightmares (DSK) 220
+3 Keys to the House (DSK) 251
+3 Killer's Mask (DSK) 104
+1 Kona, Rescue Beastie (DSK) 187
+6 Lakeside Shack (DSK) 262
+3 Let's Play a Game (DSK) 105
+3 Lionheart Glimmer (DSK) 19
+3 Live or Die (DSK) 107
+4 Living Phone (DSK) 20
+4 Malevolent Chandelier (DSK) 252
+4 Manifest Dread (DSK) 189
+1 Marina Vendrell (DSK) 360
+4 Meat Locker // Drowned Diner (DSK) 65
+1 Meathook Massacre II (DSK) 311
+3 Miasma Demon (DSK) 109
+3 Midnight Mayhem (DSK) 222
+1 Mirror Room // Fractured Realm (DSK) 337
+4 Moldering Gym // Weight Room (DSK) 190
+4 Monstrous Emergence (DSK) 191
+4 Most Valuable Slayer (DSK) 144
+4 Murder (DSK) 110
+6 Murky Sewer (DSK) 263
+1 Nashi, Searcher in the Dark (DSK) 223
+6 Neglected Manor (DSK) 264
+1 Niko, Light of Hope (DSK) 224
+1 Norin, Swift Survivalist (DSK) 145
+2 Norin, Swift Survivalist (DSK) 145
+3 Nowhere to Run (DSK) 111
+3 Oblivious Bookworm (DSK) 225
+1 Omnivorous Flytrap (DSK) 192
+3 Optimistic Scavenger (DSK) 21
+4 Orphans of the Wheat (DSK) 22
+3 Osseous Sticktwister (DSK) 112
+3 Overgrown Zealot (DSK) 193
+1 Overlord of the Balemurk (DSK) 113
+1 Overlord of the Boilerbilges (DSK) 146
+1 Overlord of the Floodpits (DSK) 373
+1 Overlord of the Hauntwoods (DSK) 194
+1 Overlord of the Mistmoors (DSK) 23
+3 Painter's Studio // Defaced Gallery (DSK) 147
+3 Paranormal Analyst (DSK) 69
+3 Patched Plaything (DSK) 24
+3 Patchwork Beastie (DSK) 195
+6 Peculiar Lighthouse (DSK) 265
+1 Peer Past the Veil (DSK) 226
+3 Piggy Bank (DSK) 148
+4 Piranha Fly (DSK) 70
+3 Popular Egotist (DSK) 114
+4 Possessed Goat (DSK) 25
+3 Pyroclasm (DSK) 149
+4 Ragged Playmate (DSK) 150
+4 Rampaging Soulrager (DSK) 151
+6 Raucous Carnival (DSK) 266
+3 Razorkin Hordecaller (DSK) 152
+1 Razorkin Needlehead (DSK) 153
+6 Razortrap Gorge (DSK) 267
+1 Reluctant Role Model (DSK) 303
+1 Restricted Office // Lecture Hall (DSK) 227
+4 Resurrected Cultist (DSK) 115
+1 Rip, Spawn Hunter (DSK) 228
+4 Ripchain Razorkin (DSK) 154
+3 Rite of the Moth (DSK) 229
+2 Roaring Furnace // Steaming Sauna (DSK) 230
+3 Rootwise Survivor (DSK) 196
+3 Savior of the Small (DSK) 27
+3 Saw (DSK) 254
+3 Sawblade Skinripper (DSK) 231
+4 Say Its Name (DSK) 197
+4 Scorching Dragonfire (DSK) 156
+4 Scrabbling Skullcrab (DSK) 71
+1 Screaming Nemesis (DSK) 157
+4 Seized from Slumber (DSK) 28
+3 Shardmage's Rescue (DSK) 29
+3 Sheltered by Ghosts (DSK) 30
+4 Shepherding Spirits (DSK) 31
+3 Shrewd Storyteller (DSK) 232
+3 Shroudstomper (DSK) 233
+1 Silent Hallcreeper (DSK) 72
+3 Skullsnap Nuisance (DSK) 234
+4 Slavering Branchsnapper (DSK) 198
+4 Smoky Lounge // Misty Salon (DSK) 235
+4 Spectral Snatcher (DSK) 116
+4 Spineseeker Centipede (DSK) 199
+1 Split Up (DSK) 32
+3 Splitskin Doll (DSK) 33
+3 Sporogenic Infection (DSK) 117
+4 Stalked Researcher (DSK) 73
+3 Stay Hidden, Stay Silent (DSK) 291
+6 Strangled Cemetery (DSK) 268
+3 Surgical Suite // Hospital Room (DSK) 34
+4 Terramorphic Expanse (DSK) 269
+1 The Jolly Balloon Man (DSK) 219
+1 The Mindskinner (DSK) 357
+1 The Rollercrusher Ride (DSK) 298
+1 The Swarmweaver (DSK) 236
+1 The Wandering Rescuer (DSK) 351
+3 Threats Around Every Corner (DSK) 200
+4 Ticket Booth // Tunnel of Hate (DSK) 158
+1 Toby, Beastie Befriender (DSK) 35
+4 Trapped in the Screen (DSK) 36
+3 Trial of Agony (DSK) 159
+4 Tunnel Surveyor (DSK) 76
+4 Turn Inside Out (DSK) 160
+4 Twist Reality (DSK) 77
+1 Twitching Doll (DSK) 201
+1 Tyvar, the Pummeler (DSK) 202
+4 Unable to Scream (DSK) 78
+1 Undead Sprinter (DSK) 237
+3 Under the Skin (DSK) 203
+4 Underwater Tunnel // Slimy Aquarium (DSK) 79
+1 Unholy Annex // Ritual Chamber (DSK) 339
+1 Unidentified Hovership (DSK) 37
+3 Unnerving Grasp (DSK) 80
+4 Unsettling Twins (DSK) 38
+1 Unstoppable Slasher (DSK) 119
+1 Untimely Malfunction (DSK) 161
+2 Untimely Malfunction (DSK) 161
+3 Unwanted Remake (DSK) 39
+3 Unwilling Vessel (DSK) 81
+1 Valgavoth, Terror Eater (DSK) 120
+3 Valgavoth's Faithful (DSK) 121
+1 Valgavoth's Lair (DSK) 271
+1 Valgavoth's Onslaught (DSK) 204
+4 Vanish from Sight (DSK) 82
+3 Vengeful Possession (DSK) 162
+3 Veteran Survivor (DSK) 40
+4 Vicious Clown (DSK) 163
+1 Victor, Valgavoth's Seneschal (DSK) 238
+3 Vile Mutilator (DSK) 122
+3 Violent Urge (DSK) 164
+1 Waltz of Rage (DSK) 165
+4 Wary Watchdog (DSK) 206
+3 Wickerfolk Thresher (DSK) 207
+3 Wildfire Wickerfolk (DSK) 239
+4 Winter's Intervention (DSK) 123
+1 Withering Torment (DSK) 124
+2 Withering Torment (DSK) 124
+1 Zimone, All-Questioning (DSK) 241

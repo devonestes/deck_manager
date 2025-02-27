@@ -13,6 +13,7 @@
 1 Bridgeworks Battle // Tanglespan Bridgeworks (MH3) 249
 1 Brushland (BRO) 259
 1 Canopy Vista (NCC) 389
+1 Caradora, Heart of Alacria (DFT) 195
 1 Champion of Lambholt (NCC) 284
 1 Circle of Dreams Druid (AFR) 176
 1 Command Tower (MOC) 396
@@ -57,7 +58,6 @@
 1 Primordial Hydra (J22) 712
 1 Quilled Greatwurm (FDN) 111
 1 Razorgrass Ambush // Razorgrass Field (MH3) 238
-1 Realmwalker (LCC) 250
 1 Restless Prairie (LCI) 348
 1 Scattered Groves (PLST) AKH-247
 1 Scavenging Ooze (FDN) 232

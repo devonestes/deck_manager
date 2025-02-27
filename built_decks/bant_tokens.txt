@@ -8,6 +8,7 @@ Gyre Sage (PROXY)
 Illustrious Wanderglyph (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
+Mondrak, Glory Dominus (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
 Oltec Matterweaver (PROXY)
 Rhys the Redeemed (PROXY)
@@ -69,7 +70,6 @@ Kami of Whispered Hopes
 Karn's Bastion
 Marketback Walker
 Master Biomancer
-Mondrak, Glory Dominus
 Noble Hierarch
 Otawara, Soaring City
 Overgrown Farmland

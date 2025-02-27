@@ -20,7 +20,6 @@
 1 Doppelgang (MKM) 198
 1 Eladamri, Lord of Leaves (TMP) 224
 1 Elvish Archdruid (LTC) 237
-1 Elvish Mystic (M15) 173
 1 Eternal Witness (M3C) 227
 1 Expand the Sphere (ONE) 168
 1 Expedition Map (ZEN) 201
@@ -78,6 +77,7 @@
 1 Tempt with Discovery (C19) 183
 1 Thespian's Stage (C19) 282
 1 Thrasios, Triton Hero (C16) 46
+1 Timber Protector (LRW) 238
 1 Tropical Island (3ED) 288
 1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
 1 Ulamog, the Ceaseless Hunger (BFZ) 15

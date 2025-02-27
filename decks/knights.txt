@@ -17,15 +17,15 @@
 1 Command Tower (MOC) 396
 1 Conjurer's Mantle (MOC) 12
 1 Corpse Knight (MOC) 321
-1 Demonic Tutor (3ED) 105
+1 Defiled Crypt // Cadaver Lab (DSK) 91
 1 Deserted Beach (MID) 281
-1 Despark (STA) 59
 1 Distant Melody (MOC) 220
 1 Elenda and Azor (MOC) 6
+1 Entomb (EMA) 87
 1 Ethersworn Adjudicator (MOC) 222
 1 Exsanguinator Cavalry (MOC) 26
 1 Fetid Heath (NCC) 401
-1 Fierce Guardianship (C20) 35
+1 Flare of Fortitude (MH3) 391
 1 Flawless Maneuver (C20) 26
 1 Flooded Strand (KTK) 233
 1 Foulmire Knight // Profane Insight (MOC) 249
@@ -33,6 +33,7 @@
 1 Godless Shrine (UNF) 282
 1 Haakon, Stromgald Scourge (MOC) 252
 1 Hallowed Fountain (UNF) 277
+1 Haytham Kenway (ACR) 57
 1 Herald of Hoofbeats (MOC) 22
 1 Herald's Horn (MOC) 360
 1 Hero of Bladehold (MOC) 188
@@ -62,18 +63,18 @@
 1 Polluted Delta (KTK) 239
 1 Raffine's Tower (SNC) 292
 1 Raise the Palisade (LTC) 23
-1 Rhystic Study (J22) 114
 1 Roaming Throne (LCI) 344
 1 Sea of Clouds (BBD) 84
 1 Secluded Courtyard (LTC) 330
 1 Shattered Sanctum (VOW) 283
 1 Shipwreck Marsh (MID) 285
 1 Silverwing Squadron (MOC) 207
+1 Skyhunter Strike Force (PLST) ONC-21
 1 Smitten Swordmaster // Curry Favor (MOC) 268
 1 Sol Ring (MOC) 381
 1 Sunken Ruins (SHM) 280
+1 Suppressor Skyguard (CLU) 46
 2 Swamp (MOM) 279
-1 Swan Song (LTC) 197
 1 Swords to Plowshares (MOC) 211
 1 Syr Konrad, the Grim (MOC) 269
 1 Takenuma, Abandoned Mire (NEO) 416
@@ -86,7 +87,6 @@
 1 Underground River (BRO) 267
 1 Urza's Incubator (C15) 273
 1 Valiant Knight (MOC) 214
-1 Vampiric Tutor (VIS) 72
 1 Vanquisher's Banner (MOC) 388
 1 Vault of Champions (CMR) 715
 1 Vault of the Archangel (LCC) 367
