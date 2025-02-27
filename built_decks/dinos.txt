@@ -1,5 +1,6 @@
 Akroma's Will (PROXY)
 Ancient Tomb (PROXY)
+Arid Mesa (PROXY)
 Bloodstained Mire (PROXY)
 Boseiju, Who Endures (PROXY)
 Cavern of Souls (PROXY)
@@ -38,7 +39,6 @@ Gishath, Sun's Avatar
 Agonasaur Rex
 Apex Altisaur
 Arcane Signet
-Arid Mesa
 Bonehoard Dracosaur
 Carnage Tyrant
 Command Tower

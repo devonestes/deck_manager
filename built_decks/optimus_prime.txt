@@ -8,14 +8,17 @@ Great Furnace (PROXY)
 Herald of Secret Streams (PROXY)
 Inventors' Fair (PROXY)
 Knight Paladin (PROXY)
+Mystic Gate (PROXY)
 Seat of the Synod (PROXY)
 Silverbluff Bridge (PROXY)
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
 Smothering Tithe (PROXY)
+Steam Vents (PROXY)
 Steel Overseer (PROXY)
 Teferi's Protection (PROXY)
 The Belligerent (PROXY)
 The Ozolith (PROXY)
+Training Center (PROXY)
 Unwinding Clock (PROXY)
 Urza's Saga (PROXY)
 Wave Goodbye (PROXY)
@@ -60,7 +63,6 @@ Mech Hangar
 Mendicant Core, Guidelight
 Mountain
 Mountain
-Mystic Gate
 Mystic Monastery
 Mystic Remora
 Organic Extinction
@@ -85,7 +87,6 @@ Smuggler's Copter
 Sol Ring
 Spectator Seating
 Spire of Industry
-Steam Vents
 Sword of Truth and Justice
 Swords to Plowshares
 The Indomitable
@@ -94,7 +95,6 @@ Thopter Spy Network
 Thought Monitor
 Thoughtcast
 Together Forever
-Training Center
 Urza, Prince of Kroog
 Weatherlight
 Zabaz, the Glimmerwasp

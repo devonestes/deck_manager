@@ -2,11 +2,13 @@ Ancient Copper Dragon (PROXY)
 Balefire Dragon (PROXY)
 Birds of Paradise (PROXY)
 Breeding Pool (PROXY)
+Cavern of Souls (PROXY)
 Cyclonic Rift (PROXY)
 Flooded Strand (PROXY)
 Forbidden Orchard (PROXY)
 Goldspan Dragon (PROXY)
 Guardian Project (PROXY)
+Hallowed Fountain (PROXY)
 Ketria Triome (PROXY)
 Klauth, Unrivaled Ancient (PROXY)
 Kokusho, the Evening Star (PROXY)
@@ -14,6 +16,7 @@ Kura, the Boundless Sky (PROXY)
 Miirym, Sentinel Wyrm (PROXY)
 Misty Rainforest (PROXY)
 Old Gnawbone (PROXY)
+Sacred Foundry (PROXY)
 Scalding Tarn (PROXY)
 Steam Vents (PROXY)
 Stomping Ground (PROXY)
@@ -36,7 +39,6 @@ Blood Crypt
 Bloodstained Mire
 Bloom Tender
 Bonehoard Dracosaur
-Cavern of Souls
 Cavern-Hoard Dragon
 City of Brass
 Command Tower
@@ -51,7 +53,6 @@ Farseek
 Fellwar Stone
 Forest
 Godless Shrine
-Hallowed Fountain
 Hellkite Courser
 Hellkite Tyrant
 Herald's Horn
@@ -79,7 +80,6 @@ Return of the Wildspeaker
 Rith, Liberated Primeval
 Rivaz of the Claw
 Roaming Throne
-Sacred Foundry
 Sarkhan, Fireblood
 Savage Ventmaw
 Scalelord Reckoner

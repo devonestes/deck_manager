@@ -2,6 +2,7 @@ Maelstrom Wanderer (PROXY)
 Ancient Copper Dragon (PROXY)
 Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
+Cascade Bluffs (PROXY)
 Dreamroot Cascade (PROXY)
 Entish Restoration (PROXY)
 Fiery Emancipation (PROXY)
@@ -23,6 +24,8 @@ Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Spire Garden (PROXY)
 Steam Vents (PROXY)
 Stomping Ground (PROXY)
+Stormcarved Coast (PROXY)
+Sulfur Falls (PROXY)
 Terror of the Peaks (PROXY)
 Time Warp (PROXY)
 Training Center (PROXY)
@@ -35,7 +38,6 @@ Wooded Foothills (PROXY)
 Ancient Tomb
 Arcane Signet
 Balefire Dragon
-Cascade Bluffs
 Command Tower
 Consecrated Sphinx
 Cultivate
@@ -87,8 +89,6 @@ Snow-Covered Forest
 Snow-Covered Island
 Snow-Covered Mountain
 Sol Ring
-Stormcarved Coast
-Sulfur Falls
 Sun Quan, Lord of Wu
 Sunbird's Invocation
 Sylvan Library

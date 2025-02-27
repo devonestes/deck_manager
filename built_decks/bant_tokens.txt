@@ -2,8 +2,11 @@ Arachnogenesis (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
 Charismatic Conqueror (PROXY)
+Deserted Beach (PROXY)
 Dreamroot Cascade (PROXY)
 Elven Chorus (PROXY)
+Flooded Strand (PROXY)
+Glacial Fortress (PROXY)
 Gyre Sage (PROXY)
 Illustrious Wanderglyph (PROXY)
 Koma, Cosmos Serpent (PROXY)
@@ -14,6 +17,7 @@ Oltec Matterweaver (PROXY)
 Rhys the Redeemed (PROXY)
 Scute Swarm (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
+Sea of Clouds (PROXY)
 The Ozolith (PROXY)
 Galadriel, Light of Valinor
 Adeline, Resplendent Cathar
@@ -35,7 +39,6 @@ Cyclonic Rift
 Damning Verdict
 Danny Pink
 Delighted Halfling
-Deserted Beach
 Detective of the Month
 District Mascot
 Dryad Arbor
@@ -47,13 +50,11 @@ Faerie Mastermind
 Felidar Retreat
 Fierce Guardianship
 Flooded Grove
-Flooded Strand
 Forest
 Forest
 Forest
 Gala Greeters
 Galadhrim Ambush
-Glacial Fortress
 Glen Elendra Archmage
 Gruff Triplets
 Hallowed Fountain
@@ -79,7 +80,6 @@ Plains
 Rejuvenating Springs
 Rhystic Study
 Ripples of Potential
-Sea of Clouds
 Shrieking Drake
 Sol Ring
 Spara's Headquarters

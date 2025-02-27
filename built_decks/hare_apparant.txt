@@ -1,16 +1,27 @@
 Zinnia, Valley's Voice
+Adarkar Wastes
 Agate Instigator
 Anointed Procession
 Arcane Signet
+Arid Mesa
 Austere Command
+Battlefield Forge
+Cascade Bluffs
+Cavern of Souls
+Clifftop Retreat
 Command Tower
 Delney, Streetwise Lookout
+Deserted Beach
 Devilish Valet
 Dusk // Dawn
+Elegant Parlor
 Elesh Norn, Mother of Machines
 Enduring Courage
 Enduring Innocence
 Flare of Fortitude
+Flooded Strand
+Glacial Fortress
+Hallowed Fountain
 Hare Apparent
 Hare Apparent
 Hare Apparent
@@ -47,38 +58,19 @@ Island
 Island
 Island
 Island
-Island
-Island
-Island
-Island
-Island
 Kindred Discovery
+Meticulous Archive
 Molten Gatekeeper
 Mondrak, Glory Dominus
 Moonshaker Cavalry
 Mountain
 Mountain
 Mountain
-Mountain
-Mountain
-Mountain
-Mountain
+Mystic Gate
 Ojer Taq, Deepest Foundation // Temple of Civilization
 Panharmonicon
+Path of Ancestry
 Path to Exile
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
 Plains
 Plains
 Plains
@@ -89,12 +81,20 @@ Plains
 Purphoros, God of the Forge
 Rally the Ranks
 Rapid Augmenter
+Raugrin Triome
 Roaming Throne
+Sacred Foundry
+Scalding Tarn
+Sea of Clouds
 Sol Ring
+Steam Vents
 Storm of Souls
+Stormcarved Coast
+Sulfur Falls
 Swords to Plowshares
 Tetsuko Umezawa, Fugitive
 Thrumming Stone
+Training Center
 Warleader's Call
 Welcoming Vampire
 Witty Roastmaster

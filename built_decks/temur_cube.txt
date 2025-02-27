@@ -13,6 +13,7 @@ Lotus Cobra (PROXY)
 Nissa, Resurgent Animist (PROXY)
 Oracle of Mul Daya (PROXY)
 Rootbound Crag (PROXY)
+Scalding Tarn (PROXY)
 Scute Swarm (PROXY)
 Temur Ascendancy (PROXY)
 The Great Henge (PROXY)
@@ -309,7 +310,6 @@ Ruin Crab
 Runaway Steam-Kin
 Saheeli, Sublime Artificer
 Sarkhan Unbroken
-Scalding Tarn
 Scalding Viper // Steam Clean
 Scapeshift
 Scavenging Ooze
