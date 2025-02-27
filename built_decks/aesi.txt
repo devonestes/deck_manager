@@ -8,12 +8,14 @@ Awaken the Woods
 Azusa, Lost but Seeking
 Bonny Pall, Clearcutter
 Breeding Pool
+Bristly Bill, Spine Sower
 Brokers Hideout
 Burgeoning
 Case of the Locked Hothouse
 Conduit of Worlds
 Constant Mists
 Coral Atoll
+Craterhoof Behemoth
 Crucible of Worlds
 Cultivator Colossus
 Doppelgang
@@ -24,6 +26,7 @@ Exploration
 Fabled Passage
 Fecund Greenshell
 Field of the Dead
+Flooded Shoreline
 Flooded Strand
 Forest
 Forest
@@ -51,16 +54,13 @@ Lotus Cobra
 Lotus Vale
 Lumbering Worldwagon
 Lumra, Bellow of the Woods
-Magus of the Candelabra
 Mana Breach
 Misty Rainforest
 Mossborn Hydra
 Mystic Sanctuary
 Nissa, Resurgent Animist
-Nyxbloom Ancient
 Oboro, Palace in the Clouds
 Omenpath Journey
-On the Trail
 Open the Way
 Oracle of Mul Daya
 Overburden
@@ -91,10 +91,10 @@ Storm Cauldron
 Tangled Islet
 Tatyova, Benthic Druid
 Thawing Glaciers
-Tireless Provisioner
 Titania, Protector of Argoth
 Undiscovered Paradise
 Uro, Titan of Nature's Wrath
+Vorinclex // The Grand Evolution
 Wayward Swordtooth
 Windswept Heath
 Wooded Foothills

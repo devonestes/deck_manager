@@ -33,7 +33,6 @@ Mana Vault
 Manabarbs
 March of Reckless Joy
 Mechanized Warfare
-Meekstone
 Mountain
 Mountain
 Mountain
@@ -72,6 +71,7 @@ Platinum Emperion
 Prisoner's Dilemma
 Pyrohemia
 Pyrostatic Pillar
+Razorkin Needlehead
 Reckless Impulse
 Resurrection Orb
 Rogue's Passage

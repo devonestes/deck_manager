@@ -62,7 +62,6 @@ Plains
 Plains
 Plains
 Priest of Forgotten Gods
-Promise of Aclazotz // Foul Rebirth
 Putrid Goblin
 Raise the Past
 Razorgrass Ambush // Razorgrass Field
@@ -72,12 +71,11 @@ Selfless Savior
 Selfless Spirit
 Serra Ascendant
 Servant of the Stinger
-Sevinne's Reclamation
 Shattered Sanctum
 Snuff Out
 Sol Ring
 Spirited Companion
-Stitcher's Supplier
+Suture Priest
 Swamp
 Swamp
 Swamp
@@ -87,6 +85,7 @@ Swamp
 Swamp
 Swamp
 Swords to Plowshares
+Tarrian's Soulcleaver
 Teferi's Protection
 Triarch Praetorian
 Urborg, Tomb of Yawgmoth
@@ -97,4 +96,5 @@ Village Rites
 Viscera Seer
 Weathered Wayfarer
 Westvale Abbey // Ormendahl, Profane Prince
+Zahur, Glory's Past
 Zulaport Cutthroat

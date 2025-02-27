@@ -15,6 +15,7 @@ Bloodghast
 Bloodletter of Aclazotz
 Bloodline Keeper // Lord of Lineage
 Bloodstained Mire
+Bloodthirsty Conqueror
 Captivating Vampire
 Cavern of Souls
 Caves of Koilos
@@ -31,7 +32,6 @@ Cordial Vampire
 Cruel Celebrant
 Damn
 Dark Ritual
-Demonic Tutor
 Dictate of Erebos
 Dragonskull Summit
 Drana and Linvala
@@ -63,7 +63,6 @@ Pact of the Serpent
 Patriarch's Bidding
 Phyrexian Tower
 Plains
-Redemption Choir
 Reflecting Pool
 Roaming Throne
 Rugged Prairie
@@ -77,6 +76,7 @@ Shadowy Backstreet
 Shared Animosity
 Shattered Sanctum
 Skullclamp
+Smothering Tithe
 Sol Ring
 Spectator Seating
 Stromkirk Captain

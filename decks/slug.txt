@@ -33,7 +33,6 @@
 1 Manabarbs (4ED) 212
 1 March of Reckless Joy (NEO) 386
 1 Mechanized Warfare (BRO) 139
-1 Meekstone (4ED) 335
 28 Mountain (J22) 107
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Ojer Axonil, Deepest Might // Temple of Power (LCI) 158
@@ -45,6 +44,7 @@
 1 Prisoner's Dilemma (MKC) 34
 1 Pyrohemia (CMA) 86
 1 Pyrostatic Pillar (SCG) 100
+1 Razorkin Needlehead (DSK) 347
 1 Reckless Impulse (VOW) 174
 1 Resurrection Orb (40K) 165
 1 Rogue's Passage (LTC) 326

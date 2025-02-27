@@ -1,4 +1,5 @@
 1 Gishath, Sun's Avatar (LCI) 229
+1 Agonasaur Rex (DFT) 151
 1 Akroma's Will (LCC) 125
 1 Ancient Tomb (TMP) 315
 1 Apex Altisaur (LCC) 232
@@ -63,7 +64,6 @@
 1 Rockfall Vale (MID) 266
 1 Sacred Foundry (UNF) 285
 1 Scalding Tarn (MM3) 244
-1 Scion of Calamity (LCC) 93
 1 Secluded Courtyard (LTC) 330
 1 Sol Ring (MOC) 381
 1 Spectator Seating (CMR) 711

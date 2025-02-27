@@ -31,7 +31,6 @@
 1 Great Furnace (BRC) 187
 1 Hallowed Fountain (RVR) 280
 1 Herald of Secret Streams (LCC) 158
-1 Illustrious Wanderglyph (LCC) 9
 1 Imposter Mech (NEC) 13
 1 Inventors' Fair (KLD) 247
 4 Island (J22) 101
@@ -57,10 +56,10 @@
 1 Ratchet, Field Medic // Ratchet, Rescue Racer (BOT) 2
 1 Raugrin Triome (IKO) 311
 1 Razortide Bridge (MH2) 252
+1 Resourceful Defense (NCC) 120
 1 Ripples of Potential (LCC) 77
 1 Rustvale Bridge (PIP) 285
 1 Sacred Foundry (UNF) 285
-1 Saheeli, Filigree Master (BRO) 219
 1 Scene of the Crime (MKM) 267
 1 Seat of the Synod (BRC) 198
 1 Shivan Reef (OTC) 320
@@ -71,6 +70,7 @@
 1 Smothering Tithe (RNA) 22
 1 Smuggler's Copter (NEC) 160
 1 Sol Ring (MOC) 381
+1 Spectator Seating (CMR) 711
 1 Spire of Industry (NEC) 178
 1 Steam Vents (UNF) 283
 1 Steel Overseer (PIP) 241
@@ -85,7 +85,7 @@
 1 Thought Monitor (MKC) 121
 1 Thoughtcast (BRC) 99
 1 Together Forever (C21) 108
-1 Trouble in Pairs (MKC) 15
+1 Training Center (CMR) 713
 1 Unwinding Clock (NPH) 164
 1 Urza, Prince of Kroog (BRO) 296
 1 Urza's Saga (MH2) 259

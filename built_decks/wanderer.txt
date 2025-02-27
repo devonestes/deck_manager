@@ -13,7 +13,6 @@ Kogla, the Titan Ape (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
 Nissa, Ascended Animist (PROXY)
-Nyxbloom Ancient (PROXY)
 Old Gnawbone (PROXY)
 Oracle of Mul Daya (PROXY)
 Rejuvenating Springs (PROXY)
@@ -26,6 +25,7 @@ Steam Vents (PROXY)
 Stomping Ground (PROXY)
 Terror of the Peaks (PROXY)
 Time Warp (PROXY)
+Training Center (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Up the Beanstalk (PROXY)
 Uro, Titan of Nature's Wrath (PROXY)
@@ -64,6 +64,7 @@ Misthollow Griffin
 Monstrous Vortex
 Mountain
 Mountain
+Nyxbloom Ancient
 Orcish Lumberjack
 Otawara, Soaring City
 Pathbreaker Ibex
@@ -94,7 +95,6 @@ Sylvan Library
 Temur Sabertooth
 Three Visits
 Time Spiral
-Training Center
 Vastwood Surge
 Wurmcoil Engine
 Yavimaya Coast

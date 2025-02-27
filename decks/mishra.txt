@@ -1,5 +1,4 @@
 1 Mishra, Eminent One (BRC) 1
-1 Ancient Tomb (TMP) 315
 1 Arcane Signet (BRC) 132
 1 Arcum Dagsson (CSP) 27
 1 Badlands (3ED) 282
@@ -17,7 +16,7 @@
 1 Command Tower (BRC) 178
 1 Cursed Mirror (BRC) 115
 1 Cyberdrive Awakener (NEC) 12
-1 Cyclonic Rift (RVR) 313
+1 Cyberman Patrol (WHO) 779
 1 Darksteel Citadel (DST) 164
 1 Darksteel Forge (M14) 206
 1 Deadly Dispute (P30A) 29
@@ -38,8 +37,6 @@
 1 Idol of Oblivion (BRC) 144
 1 Island (MOM) 278
 1 Jackdaw (ACR) 58
-1 Jhoira, Ageless Innovator (DMU) 301
-1 Jhoira, Weatherlight Captain (BRC) 126
 1 Kappa Cannoneer (NEC) 14
 1 Karn, Legacy Reforged (MAT) 184
 1 Knight Paladin (40K) 160
@@ -56,9 +53,12 @@
 1 Mountain (BRC) 35
 1 Mox Opal (2XM) 275
 1 Mystic Forge (CMM) 964
+1 Palantír of Orthanc (LTR) 381
 1 Polluted Delta (KTK) 239
 1 Portal to Phyrexia (BRO) 365
 1 Raucous Theater (MKM) 329
+1 Relic of Sauron (LTC) 79
+1 Rev, Tithe Extractor (J25) 45
 1 RMS Titanic (WHO) 93
 1 Rolling Hamsphere (BLC) 39
 1 Scalding Tarn (MM3) 244
@@ -86,6 +86,7 @@
 1 Thoughtcast (BRC) 99
 1 Thundering Falls (MKM) 331
 1 Training Center (CMR) 713
+1 Treasure Vault (AFR) 261
 1 Troll of Khazad-dûm (LTR) 111
 1 Undercity Sewers (MKM) 332
 1 Underground Sea (3ED) 290
@@ -96,5 +97,4 @@
 1 Volcanic Island (3ED) 291
 1 Watery Grave (UNF) 278
 1 Weatherlight (DOM) 237
-1 Wondrous Crucible (BRC) 20
 1 Worldwalker Helm (BIG) 37

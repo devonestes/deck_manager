@@ -2,10 +2,10 @@ Arachnogenesis (PROXY)
 Breeding Pool (PROXY)
 Cathars' Crusade (PROXY)
 Charismatic Conqueror (PROXY)
-Cyclonic Rift (PROXY)
 Dreamroot Cascade (PROXY)
 Elven Chorus (PROXY)
 Gyre Sage (PROXY)
+Illustrious Wanderglyph (PROXY)
 Koma, Cosmos Serpent (PROXY)
 Misty Rainforest (PROXY)
 Nykthos, Shrine to Nyx (PROXY)
@@ -30,6 +30,7 @@ Caretaker's Talent
 Cauldron of Souls
 Chulane, Teller of Tales
 Command Tower
+Cyclonic Rift
 Damning Verdict
 Danny Pink
 Delighted Halfling
@@ -58,7 +59,6 @@ Hallowed Fountain
 Herald of Secret Streams
 Herd Baloth
 Hinterland Harbor
-Illustrious Wanderglyph
 Imperious Perfect
 Incubation Druid
 Inspiring Call

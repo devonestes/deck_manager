@@ -53,7 +53,6 @@
 1 Phyrexian Tower (JMP) 493
 5 Plains (J22) 98
 1 Priest of Forgotten Gods (RVR) 90
-1 Promise of Aclazotz // Foul Rebirth (LCC) 84
 1 Putrid Goblin (MH1) 101
 1 Raise the Past (FDN) 22
 1 Razorgrass Ambush // Razorgrass Field (MH3) 238
@@ -63,16 +62,16 @@
 1 Selfless Spirit (CLB) 706
 1 Serra Ascendant (IMA) 31
 1 Servant of the Stinger (OTJ) 105
-1 Sevinne's Reclamation (CLB) 707
 1 Shattered Sanctum (VOW) 283
 1 Skullclamp (DST) 140
 1 Snuff Out (GVL) 53
 1 Sol Ring (MOC) 381
 1 Spirited Companion (NEO) 38
-1 Stitcher's Supplier (J22) 472
+1 Suture Priest (NPH) 25
 8 Swamp (J22) 106
 1 Swords to Plowshares (MOC) 211
 1 Takenuma, Abandoned Mire (NEO) 416
+1 Tarrian's Soulcleaver (LCI) 264
 1 Teferi's Protection (C17) 8
 1 The Meathook Massacre (MID) 112
 1 Triarch Praetorian (40K) 66
@@ -86,4 +85,5 @@
 1 Vraan, Executioner Thane (ONE) 114
 1 Weathered Wayfarer (LTC) 183
 1 Westvale Abbey // Ormendahl, Profane Prince (SOI) 281
+1 Zahur, Glory's Past (DFT) 229
 1 Zulaport Cutthroat (CLB) 775

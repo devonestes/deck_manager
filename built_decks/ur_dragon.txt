@@ -1,5 +1,4 @@
 Ancient Copper Dragon (PROXY)
-Ancient Tomb (PROXY)
 Balefire Dragon (PROXY)
 Birds of Paradise (PROXY)
 Breeding Pool (PROXY)
@@ -28,6 +27,7 @@ Windswept Heath (PROXY)
 Wooded Foothills (PROXY)
 The Ur-Dragon
 Ancient Silver Dragon
+Ancient Tomb
 Arcane Signet
 Atarka, World Render
 Badlands

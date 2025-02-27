@@ -12,7 +12,6 @@ Bloodstained Mire
 Bloom Tender
 Boseiju, Who Endures
 Bountiful Promenade
-Brimaz, King of Oreskos
 Champion of Lambholt
 Charismatic Conqueror
 Chittering Dispatcher
@@ -33,20 +32,21 @@ Final Fortune
 Flooded Strand
 Forbidden Orchard
 Forest
+Forest
 Forth Eorlingas!
 Fyndhorn Elves
 Genasi Enforcers
 Giver of Runes
+Gloryheath Lynx
 Grenzo, Havoc Raiser
 Heroic Intervention
 Hushbringer
-Hushwing Gryff
+Illustrious Wanderglyph
 Karplusan Forest
 Kellan, Daring Traveler // Journey On
 Kutzil, Malamet Exemplar
 Legolas's Quick Reflexes
 Llanowar Elves
-Loran of the Third Path
 Marsh Flats
 Misty Rainforest
 Mother of Runes
@@ -56,11 +56,12 @@ Ocelot Pride
 Ohran Frostfang
 Oltec Matterweaver
 Plains
+Plains
+Plains
 Plateau
 Polygoyf
 Professional Face-Breaker
 Ragavan, Nimble Pilferer
-Recruiter of the Guard
 Rhys the Redeemed
 Rootbound Crag
 Sacred Foundry
@@ -77,17 +78,16 @@ Skyhunter Strike Force
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist
 Sol Ring
 Song of Totentanz
+Sovereign Okinec Ahau
 Spire Garden
 Stomping Ground
 Sunpetal Grove
-Sylvan Safekeeper
 Taiga
 Teferi's Protection
 Temple Garden
 Tendershoot Dryad
 Thalia, Guardian of Thraben
 Toski, Bearer of Secrets
-Utopia Sprawl
 Varchild's War-Riders
 Verdant Catacombs
 Warden of the Inner Sky

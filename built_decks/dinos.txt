@@ -21,6 +21,7 @@ Rhythm of the Wild (PROXY)
 Rockfall Vale (PROXY)
 Sacred Foundry (PROXY)
 Scalding Tarn (PROXY)
+Spectator Seating (PROXY)
 Spire Garden (PROXY)
 Stomping Ground (PROXY)
 Sundown Pass (PROXY)
@@ -33,6 +34,7 @@ Windswept Heath (PROXY)
 Wooded Bastion (PROXY)
 Wooded Foothills (PROXY)
 Gishath, Sun's Avatar
+Agonasaur Rex
 Apex Altisaur
 Arcane Signet
 Arid Mesa
@@ -78,10 +80,8 @@ Regisaur Alpha
 Return of the Wildspeaker
 Ripjaw Raptor
 Roaming Throne
-Scion of Calamity
 Secluded Courtyard
 Sol Ring
-Spectator Seating
 Sunfrill Imitator
 Sunhome, Fortress of the Legion
 Sunpetal Grove

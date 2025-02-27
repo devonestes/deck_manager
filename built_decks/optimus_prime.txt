@@ -6,7 +6,6 @@ Eiganjo, Seat of the Empire (PROXY)
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (PROXY)
 Great Furnace (PROXY)
 Herald of Secret Streams (PROXY)
-Illustrious Wanderglyph (PROXY)
 Inventors' Fair (PROXY)
 Knight Paladin (PROXY)
 Seat of the Synod (PROXY)
@@ -74,16 +73,17 @@ Prowl, Stoic Strategist // Prowl, Pursuit Vehicle
 Ratchet, Field Medic // Ratchet, Rescue Racer
 Raugrin Triome
 Razortide Bridge
+Resourceful Defense
 Ripples of Potential
 Rustvale Bridge
 Sacred Foundry
-Saheeli, Filigree Master
 Scene of the Crime
 Shivan Reef
 Shorikai, Genesis Engine
 Skysovereign, Consul Flagship
 Smuggler's Copter
 Sol Ring
+Spectator Seating
 Spire of Industry
 Steam Vents
 Sword of Truth and Justice
@@ -94,7 +94,7 @@ Thopter Spy Network
 Thought Monitor
 Thoughtcast
 Together Forever
-Trouble in Pairs
+Training Center
 Urza, Prince of Kroog
 Weatherlight
 Zabaz, the Glimmerwasp

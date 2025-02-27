@@ -14,6 +14,7 @@
 1 Arena of Glory (MH3) 215
 1 Ashaya, Soul of the Wild (ZNR) 179
 1 Ashroot Animist (FDN) 117
+1 Atsushi, the Blazing Sky (NEO) 410
 1 Augur of Autumn (DSC) 171
 1 Balmor, Battlemage Captain (FDN) 237
 1 Balustrade Wurm (DSK) 168
@@ -30,12 +31,13 @@
 1 Bloodbraid Elf (M3C) 256
 1 Blossoming Defense (KLD) 146
 1 Boltwave (FDN) 79
+1 Borborygmos and Fblthp (MOM) 219
 1 Boseiju, Who Endures (NEO) 266
 1 Bounding Krasis (ORI) 212
 1 Brainstorm (MB2) 155
 1 Brazen Borrower // Petty Theft (SLD) 234
 1 Breeding Pool (RVR) 399
-1 Brineborn Cutthroat (FDN) 152
+1 Bria, Riptide Rogue (BLB) 379
 1 Bristly Bill, Spine Sower (OTJ) 157
 1 Broadside Bombardiers (LCC) 86
 1 Brushfire Elemental (ZNR) 221
@@ -52,7 +54,6 @@
 1 Chain Lightning (DMR) 113
 1 Chandra, Torch of Defiance (KLD) 110
 1 Chrome Host Seedshark (MOM) 51
-1 Cindervines (RNA) 161
 1 Cityscape Leveler (BRO) 363
 1 Consider (MKC) 98
 1 Contentious Plan (WAR) 46
@@ -64,8 +65,6 @@
 1 Cryptic Command (IMA) 48
 1 Cultivate (J22) 644
 1 Cultivator Colossus (VOW) 195
-1 Curator of Destinies (FDN) 34
-1 Cyberdrive Awakener (NEC) 12
 1 Cyclonic Rift (RVR) 313
 1 Dack Fayden (MB2) 80
 1 Daze (PLST) DD2-23
@@ -83,10 +82,11 @@
 1 Draconautics Engineer (DFT) 121
 1 Dragon Turtle (AFR) 56
 1 Dragon's Rage Channeler (MB2) 56
+1 Dragonborn Champion (AFC) 45
+1 Dragonhawk, Fate's Tempest (BLB) 291
 1 Dreadhorde Arcanist (J25) 539
 1 Dreamroot Cascade (VOW) 282
 1 Dreamtide Whale (MH3) 450
-1 Electrolyze (IMA) 198
 1 Electrostatic Infantry (DMU) 122
 1 Elvish Mystic (CMM) 648
 1 Emry, Lurker of the Loch (MUL) 9
@@ -144,7 +144,7 @@
 1 Green Sun's Zenith (2X2) 150
 1 Grim Lavamancer (DMR) 126
 1 Growth Spiral (CMR) 446
-1 Gruul Turf (C20) 279
+1 Gruul Turf (C16) 300
 1 Guildpact Informant (WAR) 271
 1 Gut, True Soul Zealot (CLB) 399
 1 Guttersnipe (IMA) 131
@@ -155,7 +155,6 @@
 1 Hedron Crab (ZEN) 47
 1 Hexdrinker (MH1) 168
 1 Hinterland Harbor (LTC) 317
-1 Horned Loch-Whale // Lagoon Breach (WOE) 278
 1 Hugs, Grisly Guardian (BLB) 218
 1 Hullbreacher (CMR) 74
 1 Icefall Regent (DTK) 58
@@ -179,12 +178,13 @@
 1 Iymrith, Desert Doom (AFR) 62
 1 Izzet Boilerworks (PLST) GK1-47
 1 Jace, the Mind Sculptor (2XM) 334
-1 Jace, the Perfected Mind (ONE) 325
+1 Jace, the Perfected Mind (ONE) 336
 1 Jegantha, the Wellspring (MUL) 44
 1 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 194
 1 Jwari Disruption // Jwari Ruins (ZNR) 64
 1 Kappa Cannoneer (NEC) 14
 1 Kari Zev, Skyship Raider (J22) 562
+1 Karn Liberated (NPH) 1
 1 Karn, Scion of Urza (DOM) 1
 1 Karplusan Forest (M3C) 351
 1 Kazandu Mammoth // Kazandu Valley (ZNR) 189
@@ -202,7 +202,7 @@
 1 Lava Spike (CHK) 178
 1 Ledger Shredder (SPG) 55
 1 Legion Warboss (RVR) 116
-1 Lightning Bolt (SLD) 1743
+1 Lightning Bolt (4ED) 208
 1 Lightning Greaves (SLD) 1493
 1 Lightning Strike (DFT) 136
 1 Living Twister (ZNC) 93
@@ -222,7 +222,6 @@
 1 Manamorphose (MMA) 191
 1 Memory Deluge (INR) 75
 1 Memory Lapse (5ED) 103
-1 Mercurial Spelldancer (ONE) 61
 1 Merfolk Skydiver (LCC) 277
 1 Mesmeric Orb (MRD) 204
 1 Midnight Clock (OTC) 100
@@ -233,7 +232,6 @@
 1 Mindslaver (OTP) 63
 1 Mine Collapse (MH2) 408
 1 Minsc & Boo, Timeless Heroes (CLB) 363
-1 Miscalculation (ULG) 36
 1 Misty Rainforest (MH2) 438
 1 Monastery Swiftspear (SCH) 27
 1 Murkfiend Liege (C13) 231
@@ -263,6 +261,7 @@
 1 Ornithopter of Paradise (MH2) 430
 1 Otawara, Soaring City (NEO) 503
 1 Outland Liberator // Frenzied Trapbreaker (MID) 190
+1 Ozolith, the Shattered Spire (MOM) 198
 1 Palantír of Orthanc (LTR) 381
 1 Party Thrasher (MH3) 129
 1 Pest Infestation (OTP) 30
@@ -289,7 +288,6 @@
 1 Reckless Impulse (PLST) VOW-174
 1 Reckless Stormseeker // Storm-Charged Slasher (MID) 157
 1 Reckoner Bankbuster (NEO) 255
-1 Remand (J25) 349
 1 Renata, Called to the Hunt (THB) 267
 1 Repulsive Mutation (MKM) 227
 1 Reservoir Kraken (SNC) 56
@@ -305,6 +303,7 @@
 1 Ruin Crab (ZNR) 295
 1 Runaway Steam-Kin (GRN) 115
 1 Saheeli, Sublime Artificer (MOC) 338
+1 Sarkhan Unbroken (MED) WS8
 1 Scalding Tarn (MH2) 439
 1 Scalding Viper // Steam Clean (WOE) 235
 1 Scapeshift (M19) 201
@@ -313,13 +312,13 @@
 1 Scythecat Cub (J25) 24
 1 Sentinel of the Nameless City (LCI) 211
 1 Serum Snare (ONE) 68
-1 Serum Visions (OTC) 112
 1 Shambleshark (GTC) 193
 1 Shard Volley (MOR) 103
+1 Shivan Devastator (DMU) 410
 1 Shivan Reef (OTC) 320
-1 Silent Hallcreeper (DSK) 72
 1 Simic Growth Chamber (CM2) 267
 1 Simic Sky Swallower (CMR) 452
+1 Simulacrum Synthesizer (BIG) 6
 1 Six (MH3) 370
 1 Skewer the Critics (PLST) RNA-115
 1 Skitterbeam Battalion (BRO) 165
@@ -337,7 +336,6 @@
 1 Solemn Simulacrum (BRC) 161
 1 Soul-Scar Mage (AKH) 148
 1 Sower of Temptation (BBD) 131
-1 Spectral Adversary (MID) 77
 1 Spell Pierce (DFT) 64
 1 Spell Swindle (PLST) XLN-82
 1 Springheart Nantuko (MH3) 341
@@ -368,6 +366,8 @@
 1 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar (MH3) 242
 1 Tasha's Hideous Laughter (PLST) AFR-78
 1 Tatyova, Benthic Druid (FDN) 247
+1 Teferi, Temporal Pilgrim (BRO) 66
+1 Tekuthal, Inquiry Dominus (ONE) 71
 1 Temur Ascendancy (KTK) 207
 1 Terisian Mindbreaker (BRO) 83
 1 Terror of the Peaks (M21) 369
@@ -388,6 +388,7 @@
 1 Tinker (PLST) ULG-45
 1 Tireless Provisioner (PLST) MH2-180
 1 Tishana's Tidebinder (LCI) 81
+1 Torbran, Thane of Red Fell (ELD) 367
 1 Torrential Gearhulk (KLD) 67
 1 Toski, Bearer of Secrets (KHM) 197
 1 Tovolar's Huntmaster // Tovolar's Packleader (MID) 204
@@ -413,7 +414,6 @@
 1 Vaultborn Tyrant (BIG) 50
 1 Vendilion Clique (MMA) 70
 1 Venerated Rotpriest (ONE) 192
-1 Venser, Shaper Savant (J25) 66
 1 Vines of Vastwood (ZEN) 193
 1 Viral Drake (NPH) 49
 1 Vivien, Champion of the Wilds (WAR) 180

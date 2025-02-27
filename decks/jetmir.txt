@@ -12,7 +12,6 @@
 1 Bloom Tender (EVE) 66
 1 Boseiju, Who Endures (NEO) 266
 1 Bountiful Promenade (ZNE) 20
-1 Brimaz, King of Oreskos (BNG) 5
 1 Champion of Lambholt (NCC) 284
 1 Charismatic Conqueror (LCC) 70
 1 Chittering Dispatcher (M3C) 63
@@ -32,21 +31,21 @@
 1 Final Fortune (MIR) 173
 1 Flooded Strand (KTK) 233
 1 Forbidden Orchard (C16) 296
-1 Forest (J22) 110
+2 Forest (J22) 110
 1 Forth Eorlingas! (LTC) 56
 1 Fyndhorn Elves (ICE) 244
 1 Genasi Enforcers (CLB) 177
 1 Giver of Runes (MH1) 13
+1 Gloryheath Lynx (DFT) 14
 1 Grenzo, Havoc Raiser (M3C) 213
 1 Heroic Intervention (LTC) 249
 1 Hushbringer (ELD) 18
-1 Hushwing Gryff (M15) 15
+1 Illustrious Wanderglyph (LCC) 9
 1 Karplusan Forest (M3C) 351
 1 Kellan, Daring Traveler // Journey On (LCI) 231
 1 Kutzil, Malamet Exemplar (LCI) 304
 1 Legolas's Quick Reflexes (LTC) 493
 1 Llanowar Elves (3ED) 211
-1 Loran of the Third Path (BRO) 12
 1 Marsh Flats (MM3) 239
 1 Misty Rainforest (MM3) 240
 1 Mother of Runes (ULG) 14
@@ -55,12 +54,11 @@
 1 Ocelot Pride (MH3) 394
 1 Ohran Frostfang (SLD) 237
 1 Oltec Matterweaver (PW24) 12
-1 Plains (J22) 98
+3 Plains (J22) 98
 1 Plateau (3ED) 284
 1 Polygoyf (M3C) 117
 1 Professional Face-Breaker (J22) 581
 1 Ragavan, Nimble Pilferer (MUL) 21
-1 Recruiter of the Guard (CN2) 22
 1 Rhys the Redeemed (SHM) 237
 1 Rootbound Crag (SLD) 459
 1 Sacred Foundry (UNF) 285
@@ -77,17 +75,16 @@
 1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (BOT) 6
 1 Sol Ring (MOC) 381
 1 Song of Totentanz (WOE) 150
+1 Sovereign Okinec Ahau (LCI) 240
 1 Spire Garden (ZNE) 19
 1 Stomping Ground (UNF) 280
 1 Sunpetal Grove (SLD) 460
-1 Sylvan Safekeeper (C14) 217
 1 Taiga (3ED) 287
 1 Teferi's Protection (SLD) 1691
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147
 1 Thalia, Guardian of Thraben (VOW) 38
 1 Toski, Bearer of Secrets (KHM) 197
-1 Utopia Sprawl (RVR) 159
 1 Varchild's War-Riders (ALL) 83
 1 Verdant Catacombs (MM3) 249
 1 Warden of the Inner Sky (LCI) 43

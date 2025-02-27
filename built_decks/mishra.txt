@@ -1,5 +1,4 @@
 Mishra, Eminent One
-Ancient Tomb
 Arcane Signet
 Arcum Dagsson
 Badlands
@@ -17,7 +16,7 @@ Coldsteel Heart
 Command Tower
 Cursed Mirror
 Cyberdrive Awakener
-Cyclonic Rift
+Cyberman Patrol
 Darksteel Citadel
 Darksteel Forge
 Deadly Dispute
@@ -38,8 +37,6 @@ Ichor Wellspring
 Idol of Oblivion
 Island
 Jackdaw
-Jhoira, Ageless Innovator
-Jhoira, Weatherlight Captain
 Kappa Cannoneer
 Karn, Legacy Reforged
 Knight Paladin
@@ -56,9 +53,12 @@ Morphic Pool
 Mountain
 Mox Opal
 Mystic Forge
+Palantír of Orthanc
 Polluted Delta
 Portal to Phyrexia
 Raucous Theater
+Relic of Sauron
+Rev, Tithe Extractor
 RMS Titanic
 Rolling Hamsphere
 Scalding Tarn
@@ -86,6 +86,7 @@ The Stasis Coffin
 Thoughtcast
 Thundering Falls
 Training Center
+Treasure Vault
 Troll of Khazad-dûm
 Undercity Sewers
 Underground Sea
@@ -96,5 +97,4 @@ Vault of Whispers
 Volcanic Island
 Watery Grave
 Weatherlight
-Wondrous Crucible
 Worldwalker Helm

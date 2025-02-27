@@ -3,7 +3,6 @@ Ancient Greenwarden (PROXY)
 Birgi, God of Storytelling // Harnfel, Horn of Bounty (PROXY)
 Cityscape Leveler (PROXY)
 Cultivator Colossus (PROXY)
-Cyberdrive Awakener (PROXY)
 Defiler of Vigor (PROXY)
 Eternal Witness (PROXY)
 Fire-Lit Thicket (PROXY)
@@ -33,6 +32,7 @@ Archive Trap
 Arena of Glory
 Ashaya, Soul of the Wild
 Ashroot Animist
+Atsushi, the Blazing Sky
 Augur of Autumn
 Balmor, Battlemage Captain
 Balustrade Wurm
@@ -48,12 +48,13 @@ Bloated Contaminator
 Bloodbraid Elf
 Blossoming Defense
 Boltwave
+Borborygmos and Fblthp
 Boseiju, Who Endures
 Bounding Krasis
 Brainstorm
 Brazen Borrower // Petty Theft
 Breeding Pool
-Brineborn Cutthroat
+Bria, Riptide Rogue
 Bristly Bill, Spine Sower
 Broadside Bombardiers
 Brushfire Elemental
@@ -70,7 +71,6 @@ Castle Vantress
 Chain Lightning
 Chandra, Torch of Defiance
 Chrome Host Seedshark
-Cindervines
 Consider
 Contentious Plan
 Coruscation Mage
@@ -80,7 +80,6 @@ Craterhoof Behemoth
 Cryptic Coat
 Cryptic Command
 Cultivate
-Curator of Destinies
 Cyclonic Rift
 Dack Fayden
 Daze
@@ -97,10 +96,11 @@ Doppelgang
 Draconautics Engineer
 Dragon Turtle
 Dragon's Rage Channeler
+Dragonborn Champion
+Dragonhawk, Fate's Tempest
 Dreadhorde Arcanist
 Dreamroot Cascade
 Dreamtide Whale
-Electrolyze
 Electrostatic Infantry
 Elvish Mystic
 Emry, Lurker of the Loch
@@ -166,7 +166,6 @@ Headliner Scarlett
 Hedron Crab
 Hexdrinker
 Hinterland Harbor
-Horned Loch-Whale // Lagoon Breach
 Hugs, Grisly Guardian
 Hullbreacher
 Icefall Regent
@@ -196,6 +195,7 @@ Jugan Defends the Temple // Remnant of the Rising Star
 Jwari Disruption // Jwari Ruins
 Kappa Cannoneer
 Kari Zev, Skyship Raider
+Karn Liberated
 Karn, Scion of Urza
 Kazandu Mammoth // Kazandu Valley
 Kazuul's Fury // Kazuul's Cliffs
@@ -230,7 +230,6 @@ Mana Leak
 Manamorphose
 Memory Deluge
 Memory Lapse
-Mercurial Spelldancer
 Merfolk Skydiver
 Mesmeric Orb
 Midnight Clock
@@ -241,7 +240,6 @@ Mindcrank
 Mindslaver
 Mine Collapse
 Minsc & Boo, Timeless Heroes
-Miscalculation
 Misty Rainforest
 Monastery Swiftspear
 Murkfiend Liege
@@ -269,6 +267,7 @@ Orcish Lumberjack
 Ornithopter of Paradise
 Otawara, Soaring City
 Outland Liberator // Frenzied Trapbreaker
+Ozolith, the Shattered Spire
 Palantír of Orthanc
 Party Thrasher
 Pest Infestation
@@ -295,7 +294,6 @@ Rattleclaw Mystic
 Reckless Impulse
 Reckless Stormseeker // Storm-Charged Slasher
 Reckoner Bankbuster
-Remand
 Renata, Called to the Hunt
 Repulsive Mutation
 Reservoir Kraken
@@ -310,6 +308,7 @@ Roxanne, Starfall Savant
 Ruin Crab
 Runaway Steam-Kin
 Saheeli, Sublime Artificer
+Sarkhan Unbroken
 Scalding Tarn
 Scalding Viper // Steam Clean
 Scapeshift
@@ -317,13 +316,13 @@ Scavenging Ooze
 Scythecat Cub
 Sentinel of the Nameless City
 Serum Snare
-Serum Visions
 Shambleshark
 Shard Volley
+Shivan Devastator
 Shivan Reef
-Silent Hallcreeper
 Simic Growth Chamber
 Simic Sky Swallower
+Simulacrum Synthesizer
 Six
 Skewer the Critics
 Skitterbeam Battalion
@@ -341,7 +340,6 @@ Sneak Attack
 Solemn Simulacrum
 Soul-Scar Mage
 Sower of Temptation
-Spectral Adversary
 Spell Pierce
 Spell Swindle
 Springheart Nantuko
@@ -372,6 +370,8 @@ Talisman of Curiosity
 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
 Tasha's Hideous Laughter
 Tatyova, Benthic Druid
+Teferi, Temporal Pilgrim
+Tekuthal, Inquiry Dominus
 Terisian Mindbreaker
 Terror of the Peaks
 The Mindskinner
@@ -390,6 +390,7 @@ Time Warp
 Tinker
 Tireless Provisioner
 Tishana's Tidebinder
+Torbran, Thane of Red Fell
 Torrential Gearhulk
 Tovolar's Huntmaster // Tovolar's Packleader
 Treachery
@@ -413,7 +414,6 @@ Valakut Exploration
 Vaultborn Tyrant
 Vendilion Clique
 Venerated Rotpriest
-Venser, Shaper Savant
 Vines of Vastwood
 Viral Drake
 Vivien, Champion of the Wilds

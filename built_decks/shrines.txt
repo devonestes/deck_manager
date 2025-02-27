@@ -51,6 +51,7 @@ Misty Rainforest
 Moat
 Moon-Blessed Cleric
 Mountain
+Mystic Remora
 Nessian Wanderer
 Overgrown Farmland
 Overgrown Tomb
@@ -72,7 +73,6 @@ Sea of Clouds
 Setessan Champion
 Shadow of the Second Sun
 Shrine Steward
-Smothering Tithe
 Sol Ring
 Spara's Headquarters
 Spectator Seating

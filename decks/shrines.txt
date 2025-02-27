@@ -51,6 +51,7 @@
 1 Moat (LEG) 28
 1 Moon-Blessed Cleric (AFR) 26
 1 Mountain (ONE) 270
+1 Mystic Remora (ICE) 87
 1 Nessian Wanderer (THB) 183
 1 Overgrown Farmland (WHO) 292
 1 Overgrown Tomb (UNF) 284
@@ -72,7 +73,6 @@
 1 Setessan Champion (CMM) 912
 1 Shadow of the Second Sun (MH3) 70
 1 Shrine Steward (NEO) 259
-1 Smothering Tithe (RNA) 22
 1 Sol Ring (3ED) 274
 1 Spara's Headquarters (SNC) 293
 1 Spectator Seating (CMM) 664
