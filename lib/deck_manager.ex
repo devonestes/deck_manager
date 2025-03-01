@@ -94,6 +94,23 @@ defmodule DeckManager do
     update_deck(deck)
   end
 
+  def diff(first, second) do
+    first_list = read_txt("decks/#{first}.txt")
+    second_list = read_txt("decks/#{second}.txt")
+
+    IO.puts("""
+    Cards in #{first} not in #{second}:
+      #{format_diff(first_list -- second_list)}
+
+    Cards in both #{first} and #{second}:
+      #{format_diff(Enum.filter(first_list, &(&1 in second_list)))}
+    """)
+  end
+
+  defp format_diff(list) do
+    list |> Enum.reverse() |> Enum.join("\n  ")
+  end
+
   defp build_decks() do
     collection = read_csv("decks/collection.csv")
 
