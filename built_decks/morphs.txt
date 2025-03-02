@@ -16,16 +16,16 @@ Command Tower
 Craterhoof Behemoth
 Cyclonic Rift
 Deadly Rollick
-Deathcap Glade
 Deathmist Raptor
 Den Protector
-Dreamroot Cascade
 Elven Chorus
 Etrata, Deadly Fugitive
 Experiment Twelve
 Farseek
 Fierce Guardianship
 Flourishing Bloom-Kin
+Forest
+Forest
 Forest
 Gift of Doom
 Grazilaxx, Illithid Scholar
@@ -35,6 +35,8 @@ Heroic Intervention
 High Fae Trickster
 Hooded Hydra
 Icefeather Aven
+Island
+Island
 Island
 Ixidron
 Kadena's Silencer
@@ -59,25 +61,24 @@ Revitalizing Repast // Old-Growth Grove
 Satoru, the Infiltrator
 Scroll of Fate
 Seedborn Muse
-Shipwreck Marsh
 Silumgar Assassin
 Simic Growth Chamber
 Sink into Stupor // Soporific Springs
 Skittering Cicada
 Sol Ring
 Stratus Dancer
-Sunken Ruins
+Swamp
+Swamp
 Swamp
 Teferi, Mage of Zhalfir
-Teferi's Ageless Insight
 Temur Sabertooth
 Thelonite Hermit
 Thieving Amalgam
 Thousand Winds
+Threats Around Every Corner
 Three Visits
 Triumph of the Hordes
 Tropical Island
-Twilight Mire
 Undercity Sewers
 Underground Mortuary
 Underground Sea
@@ -94,7 +95,6 @@ Wilderness Reclamation
 Winding Canyons
 Woodland Cemetery
 Worldly Tutor
-Yavimaya Coast
 Yavimaya, Cradle of Growth
 Yedora, Grave Gardener
 Zoetic Cavern

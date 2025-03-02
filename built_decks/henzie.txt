@@ -16,6 +16,7 @@ Bloodstained Mire
 Blossoming Tortoise
 Boggart Trawler // Boggart Bog
 Boseiju, Who Endures
+Braids, Arisen Nightmare
 Bringer of the Last Gift
 Buried Alive
 Cinder Glade
@@ -39,10 +40,10 @@ Forest
 Forest
 Garruk's Uprising
 Goreclaw, Terror of Qal Sisma
-Grave Pact
 Graven Cairns
 Gruff Triplets
 Haunted Ridge
+Heartless Summoning
 Ignoble Hierarch
 Industrial Advancement
 Junji, the Midnight Sky
@@ -50,7 +51,6 @@ Karplusan Forest
 Kessig Wolf Run
 Kethek, Crucible Goliath
 Kodama's Reach
-Kogla and Yidaro
 Kogla, the Titan Ape
 Kokusho, the Evening Star
 Kura, the Boundless Sky

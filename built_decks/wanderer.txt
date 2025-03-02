@@ -1,14 +1,17 @@
 Maelstrom Wanderer (PROXY)
 Ancient Copper Dragon (PROXY)
+Balefire Dragon (PROXY)
 Boseiju, Who Endures (PROXY)
 Breeding Pool (PROXY)
-Cascade Bluffs (PROXY)
 Dreamroot Cascade (PROXY)
 Entish Restoration (PROXY)
 Fiery Emancipation (PROXY)
 Fire-Lit Thicket (PROXY)
 Genesis Ultimatum (PROXY)
+Goldspan Dragon (PROXY)
 Hinterland Harbor (PROXY)
+Ketria Triome (PROXY)
+Klauth, Unrivaled Ancient (PROXY)
 Kodama's Reach (PROXY)
 Kogla, the Titan Ape (PROXY)
 Koma, Cosmos Serpent (PROXY)
@@ -27,6 +30,7 @@ Stomping Ground (PROXY)
 Stormcarved Coast (PROXY)
 Sulfur Falls (PROXY)
 Terror of the Peaks (PROXY)
+Three Visits (PROXY)
 Time Warp (PROXY)
 Training Center (PROXY)
 Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
@@ -37,7 +41,7 @@ Vorinclex, Monstrous Raider (PROXY)
 Wooded Foothills (PROXY)
 Ancient Tomb
 Arcane Signet
-Balefire Dragon
+Cascade Bluffs
 Command Tower
 Consecrated Sphinx
 Cultivate
@@ -51,15 +55,12 @@ Flooded Grove
 Food Chain
 Forest
 Forest
-Goldspan Dragon
 Hullbreaker Horror
 Ilysian Caryatid
 Imoti, Celebrant of Bounty
 Into the North
 Island
 Island
-Ketria Triome
-Klauth, Unrivaled Ancient
 Kogla and Yidaro
 Migration Path
 Misthollow Griffin
@@ -93,7 +94,6 @@ Sun Quan, Lord of Wu
 Sunbird's Invocation
 Sylvan Library
 Temur Sabertooth
-Three Visits
 Time Spiral
 Vastwood Surge
 Wurmcoil Engine

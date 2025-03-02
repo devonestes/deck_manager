@@ -1,16 +1,12 @@
 Ancient Copper Dragon (PROXY)
-Balefire Dragon (PROXY)
 Birds of Paradise (PROXY)
 Breeding Pool (PROXY)
 Cavern of Souls (PROXY)
 Cyclonic Rift (PROXY)
 Flooded Strand (PROXY)
 Forbidden Orchard (PROXY)
-Goldspan Dragon (PROXY)
 Guardian Project (PROXY)
 Hallowed Fountain (PROXY)
-Ketria Triome (PROXY)
-Klauth, Unrivaled Ancient (PROXY)
 Kokusho, the Evening Star (PROXY)
 Kura, the Boundless Sky (PROXY)
 Miirym, Sentinel Wyrm (PROXY)
@@ -25,7 +21,6 @@ Temur Ascendancy (PROXY)
 Terror of the Peaks (PROXY)
 The Great Henge (PROXY)
 The World Tree (PROXY)
-Three Visits (PROXY)
 Windswept Heath (PROXY)
 Wooded Foothills (PROXY)
 The Ur-Dragon
@@ -34,6 +29,7 @@ Ancient Tomb
 Arcane Signet
 Atarka, World Render
 Badlands
+Balefire Dragon
 Beledros Witherbloom
 Blood Crypt
 Bloodstained Mire
@@ -53,6 +49,7 @@ Farseek
 Fellwar Stone
 Forest
 Godless Shrine
+Goldspan Dragon
 Hellkite Courser
 Hellkite Tyrant
 Herald's Horn
@@ -61,8 +58,10 @@ Indatha Triome
 Island
 Jetmir's Garden
 Karrthus, Tyrant of Jund
+Ketria Triome
 Kindred Discovery
 Kindred Dominance
+Klauth, Unrivaled Ancient
 Lightning Greaves
 Mana Vault
 Marsh Flats
@@ -91,6 +90,7 @@ Swords to Plowshares
 Temple Garden
 Temple of the Dragon Queen
 The Kami War // O-Kagachi Made Manifest
+Three Visits
 Tiamat
 Urza's Incubator
 Utvara Hellkite

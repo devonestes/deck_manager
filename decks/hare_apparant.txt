@@ -54,6 +54,6 @@
 1 Tetsuko Umezawa, Fugitive (BLC) 177
 1 Thrumming Stone (CSP) 142
 1 Training Center (CMM) 665
-1 Warleader's Call (MKM) 242
+1 Valkyrie's Call (FDN) 27
 1 Welcoming Vampire (MKC) 91
 1 Witty Roastmaster (SNC) 131

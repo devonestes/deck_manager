@@ -15,6 +15,7 @@ Oracle of Mul Daya (PROXY)
 Rootbound Crag (PROXY)
 Scalding Tarn (PROXY)
 Scute Swarm (PROXY)
+Talisman of Creativity (PROXY)
 Temur Ascendancy (PROXY)
 The Great Henge (PROXY)
 Toski, Bearer of Secrets (PROXY)
@@ -365,7 +366,6 @@ Sweltering Suns
 Sylvan Scavenging
 Taiga
 Tainted Observer
-Talisman of Creativity
 Talisman of Curiosity
 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
 Tasha's Hideous Laughter

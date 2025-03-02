@@ -16,6 +16,7 @@
 1 Blossoming Tortoise (WOE) 163
 1 Boggart Trawler // Boggart Bog (MH3) 243
 1 Boseiju, Who Endures (NEO) 266
+1 Braids, Arisen Nightmare (DSC) 133
 1 Bringer of the Last Gift (LCI) 94
 1 Buried Alive (WTH) 63
 1 Cinder Glade (DMC) 203
@@ -35,10 +36,10 @@
 5 Forest (J22) 110
 1 Garruk's Uprising (WOT) 53
 1 Goreclaw, Terror of Qal Sisma (MUL) 27
-1 Grave Pact (CMM) 639
 1 Graven Cairns (SHM) 272
 1 Gruff Triplets (WOE) 172
 1 Haunted Ridge (MID) 282
+1 Heartless Summoning (INR) 383
 1 Ignoble Hierarch (MH2) 166
 1 Industrial Advancement (NCC) 47
 1 Junji, the Midnight Sky (NEO) 409
@@ -46,7 +47,6 @@
 1 Kessig Wolf Run (LCC) 340
 1 Kethek, Crucible Goliath (ONE) 206
 1 Kodama's Reach (CLB) 826
-1 Kogla and Yidaro (MOM) 244
 1 Kogla, the Titan Ape (IKO) 162
 1 Kokusho, the Evening Star (MMA) 89
 1 Kura, the Boundless Sky (NEO) 200
