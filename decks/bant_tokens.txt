@@ -1,78 +1,72 @@
 1 Galadriel, Light of Valinor (LTC) 498
 1 Adeline, Resplendent Cathar (MOC) 167
 1 Akroma's Will (LCC) 125
-1 Arachnogenesis (CMM) 647
+1 Aluren (TMP) 213
+1 Ancient Gold Dragon (CLB) 365
 1 Arcane Signet (MOC) 348
 1 Arwen, Weaver of Hope (LTC) 35
 1 Avenger of Zendikar (C13) 135
+1 Basking Broodscale (MH3) 145
 1 Beast Whisperer (P30A) 26
 1 Bennie Bracks, Zoologist (NCC) 86
 1 Birds of Paradise (4ED) 234
 1 Boseiju, Who Endures (NEO) 501
 1 Bountiful Promenade (ZNE) 20
-1 Breeding Pool (UNF) 286
 1 Bulwark Ox (DFT) 7
 1 Caretaker's Talent (BLB) 6
-1 Cathars' Crusade (AVR) 10
 1 Cauldron of Souls (SHM) 248
-1 Charismatic Conqueror (LCC) 70
 1 Chulane, Teller of Tales (ELD) 326
+1 Cloud of Faeries (DMR) 43
 1 Command Tower (LTC) 301
 1 Cyclonic Rift (RTR) 35
 1 Damning Verdict (NCC) 116
 1 Danny Pink (WHO) 39
 1 Delighted Halfling (LTR) 158
-1 Deserted Beach (MID) 281
 1 Detective of the Month (MKC) 21
 1 District Mascot (DFT) 158
 1 Dreamroot Cascade (VOW) 282
 1 Dryad Arbor (FUT) 174
 1 Earthcraft (TMP) 222
 1 Eladamri, Korvecdal (MH3) 369
-1 Elven Chorus (LTR) 160
+1 Elven Ambush (KHM) 391
+1 Envoy of the Ancestors (MH3) 23
 1 Evolution Witness (MH3) 151
 1 Faerie Artisans (CMM) 92
 1 Faerie Mastermind (PMOM) 58p
+1 Fanatic of Rhonas (MH3) 458
+1 Farseek (C19) 165
 1 Felidar Retreat (CMM) 821
 1 Fierce Guardianship (C20) 35
 1 Flooded Grove (LTC) 309
-1 Flooded Strand (KTK) 233
-3 Forest (LTR) 270
+6 Forest (LTR) 270
 1 Gala Greeters (SNC) 450
 1 Galadhrim Ambush (LTC) 38
-1 Glacial Fortress (LTC) 315
 1 Glen Elendra Archmage (MMA) 47
 1 Gruff Triplets (WOE) 172
-1 Gyre Sage (MOC) 300
 1 Hallowed Fountain (UNF) 277
 1 Herald of Secret Streams (LCC) 158
 1 Herd Baloth (MH2) 165
 1 Hinterland Harbor (LTC) 317
-1 Illustrious Wanderglyph (LCC) 9
 1 Imperious Perfect (J22) 677
 1 Incubation Druid (MOC) 302
 1 Inspiring Call (MOC) 304
-3 Island (LTR) 264
+5 Island (LTR) 264
 1 Kami of Whispered Hopes (MOM) 196
 1 Karn's Bastion (CMM) 1007
-1 Koma, Cosmos Serpent (KHM) 221
+1 Kitchen Finks (MB2) 85
+1 Kodama of the West Tree (NEO) 392
 1 Marketback Walker (DFT) 235
 1 Master Biomancer (2X2) 250
-1 Misty Rainforest (MM3) 240
-1 Mondrak, Glory Dominus (ONE) 23
+1 Mystic Gate (CMM) 1013
 1 Noble Hierarch (2XM) 177
-1 Nykthos, Shrine to Nyx (THS) 223
-1 Oltec Matterweaver (PW24) 12
 1 Otawara, Soaring City (NEO) 503
 1 Overgrown Farmland (WHO) 292
-3 Plains (J22) 98
+1 Overwhelming Stampede (LTC) 254
+5 Plains (J22) 98
 1 Rejuvenating Springs (LTC) 325
-1 Rhys the Redeemed (SHM) 237
 1 Rhystic Study (J22) 114
 1 Ripples of Potential (LCC) 77
-1 Scute Swarm (OTC) 205
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
-1 Sea of Clouds (BBD) 84
+1 Safehold Elite (SHM) 239
 1 Shrieking Drake (VIS) 43
 1 Sol Ring (LTC) 284
 1 Spara's Headquarters (SNC) 293
@@ -81,7 +75,6 @@
 1 Teferi's Protection (C17) 8
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147
-1 The Ozolith (LTC) 351
 1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
 1 Urza's Saga (MH2) 259
 1 Virtue of Loyalty // Ardenvale Fealty (WOE) 38

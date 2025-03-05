@@ -7,6 +7,7 @@ Great Furnace (PROXY)
 Herald of Secret Streams (PROXY)
 Inventors' Fair (PROXY)
 Knight Paladin (PROXY)
+Mystic Gate (PROXY)
 Seat of the Synod (PROXY)
 Silverbluff Bridge (PROXY)
 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
@@ -21,6 +22,7 @@ Unwinding Clock (PROXY)
 Urza's Saga (PROXY)
 Wave Goodbye (PROXY)
 Optimus Prime, Hero // Optimus Prime, Autobot Leader
+Abzan Battle Priest
 Abzan Falconer
 Ancient Den
 Arcane Signet
@@ -39,7 +41,6 @@ Cyclonic Rift
 Darksteel Citadel
 Dispatch
 Enthusiastic Mechanaut
-Envoy of the Ancestors
 Esper Sentinel
 Etherium Sculptor
 Felidar Retreat
@@ -62,7 +63,6 @@ Mech Hangar
 Mendicant Core, Guidelight
 Mountain
 Mountain
-Mystic Gate
 Mystic Monastery
 Mystic Remora
 Organic Extinction

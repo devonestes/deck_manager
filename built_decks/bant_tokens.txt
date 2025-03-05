@@ -1,29 +1,12 @@
-Arachnogenesis (PROXY)
-Breeding Pool (PROXY)
-Cathars' Crusade (PROXY)
-Charismatic Conqueror (PROXY)
-Deserted Beach (PROXY)
-Elven Chorus (PROXY)
-Flooded Strand (PROXY)
-Glacial Fortress (PROXY)
-Gyre Sage (PROXY)
-Illustrious Wanderglyph (PROXY)
-Koma, Cosmos Serpent (PROXY)
-Misty Rainforest (PROXY)
-Mondrak, Glory Dominus (PROXY)
-Nykthos, Shrine to Nyx (PROXY)
-Oltec Matterweaver (PROXY)
-Rhys the Redeemed (PROXY)
-Scute Swarm (PROXY)
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Sea of Clouds (PROXY)
-The Ozolith (PROXY)
 Galadriel, Light of Valinor
 Adeline, Resplendent Cathar
 Akroma's Will
+Aluren
+Ancient Gold Dragon
 Arcane Signet
 Arwen, Weaver of Hope
 Avenger of Zendikar
+Basking Broodscale
 Beast Whisperer
 Bennie Bracks, Zoologist
 Birds of Paradise
@@ -33,6 +16,7 @@ Bulwark Ox
 Caretaker's Talent
 Cauldron of Souls
 Chulane, Teller of Tales
+Cloud of Faeries
 Command Tower
 Cyclonic Rift
 Damning Verdict
@@ -44,12 +28,19 @@ Dreamroot Cascade
 Dryad Arbor
 Earthcraft
 Eladamri, Korvecdal
+Elven Ambush
+Envoy of the Ancestors
 Evolution Witness
 Faerie Artisans
 Faerie Mastermind
+Fanatic of Rhonas
+Farseek
 Felidar Retreat
 Fierce Guardianship
 Flooded Grove
+Forest
+Forest
+Forest
 Forest
 Forest
 Forest
@@ -67,19 +58,28 @@ Inspiring Call
 Island
 Island
 Island
+Island
+Island
 Kami of Whispered Hopes
 Karn's Bastion
+Kitchen Finks
+Kodama of the West Tree
 Marketback Walker
 Master Biomancer
+Mystic Gate
 Noble Hierarch
 Otawara, Soaring City
 Overgrown Farmland
+Overwhelming Stampede
+Plains
+Plains
 Plains
 Plains
 Plains
 Rejuvenating Springs
 Rhystic Study
 Ripples of Potential
+Safehold Elite
 Shrieking Drake
 Sol Ring
 Spara's Headquarters

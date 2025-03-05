@@ -1,4 +1,5 @@
 1 Optimus Prime, Hero // Optimus Prime, Autobot Leader (BOT) 13
+1 Abzan Battle Priest (KTK) 1
 1 Abzan Falconer (MIC) 77
 1 Akroma's Will (LCC) 125
 1 Ancient Den (MRD) 278
@@ -21,7 +22,6 @@
 1 Dispatch (NEC) 83
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Enthusiastic Mechanaut (NEO) 218
-1 Envoy of the Ancestors (MH3) 23
 1 Esper Sentinel (MH2) 12
 1 Etherium Sculptor (ALA) 42
 1 Felidar Retreat (CMM) 821
