@@ -57,7 +57,6 @@ Impact Tremors
 Island
 Island
 Island
-Island
 Kindred Discovery
 Meticulous Archive
 Molten Gatekeeper
@@ -93,6 +92,7 @@ Stormcarved Coast
 Sulfur Falls
 Swords to Plowshares
 Tetsuko Umezawa, Fugitive
+Three Tree City
 Thrumming Stone
 Training Center
 Valkyrie's Call

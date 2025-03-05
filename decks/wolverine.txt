@@ -11,6 +11,7 @@
 1 Biophagus (40K) 87★
 1 Bite Down (FDN) 212
 1 Branching Evolution (LCC) 234
+1 Bridgeworks Battle // Tanglespan Bridgeworks (MH3) 249
 1 Cinder Glade (DMC) 203
 1 Command Tower (MOC) 396
 1 Commercial District (MKM) 324
@@ -21,7 +22,7 @@
 1 Domri, Anarch of Bolas (BLC) 98
 1 Embercleave (ELD) 359
 1 Enduring Courage (DSK) 133
-12 Forest (J22) 110
+11 Forest (J22) 110
 1 Game Trail (LCC) 334
 1 Goblin Anarchomancer (MH2) 200
 1 Goldvein Hydra (OTJ) 167

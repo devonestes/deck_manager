@@ -24,7 +24,7 @@
 1 Hallowed Fountain (RVR) 404
 31 Hare Apparent (FDN) 15
 1 Impact Tremors (DTK) 140
-4 Island (J22) 101
+3 Island (J22) 101
 1 Kindred Discovery (CLB) 81
 1 Meticulous Archive (MKM) 328
 1 Molten Gatekeeper (MH3) 128
@@ -52,6 +52,7 @@
 1 Sulfur Falls (LTC) 333
 1 Swords to Plowshares (MB2) 153
 1 Tetsuko Umezawa, Fugitive (BLC) 177
+1 Three Tree City (BLB) 260
 1 Thrumming Stone (CSP) 142
 1 Training Center (CMM) 665
 1 Valkyrie's Call (FDN) 27

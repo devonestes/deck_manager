@@ -49,7 +49,7 @@
 1 Molten Rain (MRD) 101
 7 Mountain (J22) 107
 1 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time (LCI) 67
-1 Peregrine Drake (DMR) 65
+1 Palinchron (ULG) 38
 1 Polluted Delta (MH3) 438
 1 Primal Amulet // Primal Wellspring (XLN) 243
 1 Prismari Command (LCC) 279

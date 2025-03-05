@@ -11,6 +11,7 @@ Berserk
 Biophagus
 Bite Down
 Branching Evolution
+Bridgeworks Battle // Tanglespan Bridgeworks
 Cinder Glade
 Command Tower
 Commercial District
@@ -21,7 +22,6 @@ Defiler of Vigor
 Domri, Anarch of Bolas
 Embercleave
 Enduring Courage
-Forest
 Forest
 Forest
 Forest
