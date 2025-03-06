@@ -1,13 +1,12 @@
 1 Zinnia, Valley's Voice (BLC) 4
 1 Adarkar Wastes (ICE) 351
-1 Agate Instigator (BLC) 21
 1 Anointed Procession (SLD) 1511
 1 Arcane Signet (SLD) 1641
 1 Arid Mesa (MH2) 436
 1 Austere Command (LCC) 126
 1 Battlefield Forge (BRO) 257
+1 Bennie Bracks, Zoologist (NCC) 86
 1 Cascade Bluffs (CMM) 990
-1 Cavern of Souls (LCI) 269
 1 Clifftop Retreat (LTC) 300
 1 Command Tower (MOC) 396
 1 Delney, Streetwise Lookout (MKM) 337
@@ -18,36 +17,37 @@
 1 Enduring Courage (DSK) 133
 1 Enduring Innocence (DSK) 6
 1 Flare of Fortitude (MH3) 391
-1 Flooded Strand (MH3) 436
+1 Floodfarm Verge (DSK) 259
 1 Glacial Fortress (LTC) 315
 1 Hallowed Fountain (RVR) 404
 31 Hare Apparent (FDN) 15
+1 Hengegate Pathway // Mistgate Pathway (KHM) 260
 1 Impact Tremors (DTK) 140
 3 Island (J22) 101
 1 Kindred Discovery (CLB) 81
 1 Molten Gatekeeper (MH3) 128
-1 Mondrak, Glory Dominus (ONE) 23
 1 Moonshaker Cavalry (WOE) 21
-4 Mountain (J22) 107
+3 Mountain (J22) 107
 1 Mystic Gate (CMM) 1013
 1 Ojer Taq, Deepest Foundation // Temple of Civilization (LCI) 26
 1 Panharmonicon (TSR) 399
-1 Path of Ancestry (MOC) 418
 1 Path to Exile (MOC) 198
-8 Plains (MKM) 277
+1 Pearl Medallion (MH3) 294
+9 Plains (MKM) 277
 1 Purphoros, God of the Forge (THS) 135
 1 Rally the Ranks (KHM) 20
 1 Rapid Augmenter (BLC) 38
-1 Raugrin Triome (IKO) 311
 1 Roaming Throne (LCI) 344
+1 Rush of Inspiration // Crackling Falls (MH3) 257
 1 Sacred Foundry (RVR) 409
 1 Scalding Tarn (MH2) 439
-1 Sea of Clouds (ZNE) 16
+1 Skycloud Expanse (NCC) 427
 1 Sol Ring (MOC) 381
 1 Steam Vents (RVR) 412
 1 Storm of Souls (BLC) 156
 1 Stormcarved Coast (VOW) 284
 1 Sulfur Falls (LTC) 333
+1 Sunscorched Divide (BLC) 336
 1 Swords to Plowshares (MB2) 153
 1 Tetsuko Umezawa, Fugitive (BLC) 177
 1 Three Tree City (BLB) 260

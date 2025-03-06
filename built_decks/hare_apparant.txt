@@ -1,13 +1,12 @@
 Zinnia, Valley's Voice
 Adarkar Wastes
-Agate Instigator
 Anointed Procession
 Arcane Signet
 Arid Mesa
 Austere Command
 Battlefield Forge
+Bennie Bracks, Zoologist
 Cascade Bluffs
-Cavern of Souls
 Clifftop Retreat
 Command Tower
 Delney, Streetwise Lookout
@@ -18,7 +17,7 @@ Elesh Norn, Mother of Machines
 Enduring Courage
 Enduring Innocence
 Flare of Fortitude
-Flooded Strand
+Floodfarm Verge
 Glacial Fortress
 Hallowed Fountain
 Hare Apparent
@@ -52,23 +51,23 @@ Hare Apparent
 Hare Apparent
 Hare Apparent
 Hare Apparent
+Hengegate Pathway // Mistgate Pathway
 Impact Tremors
 Island
 Island
 Island
 Kindred Discovery
 Molten Gatekeeper
-Mondrak, Glory Dominus
 Moonshaker Cavalry
-Mountain
 Mountain
 Mountain
 Mountain
 Mystic Gate
 Ojer Taq, Deepest Foundation // Temple of Civilization
 Panharmonicon
-Path of Ancestry
 Path to Exile
+Pearl Medallion
+Plains
 Plains
 Plains
 Plains
@@ -80,16 +79,17 @@ Plains
 Purphoros, God of the Forge
 Rally the Ranks
 Rapid Augmenter
-Raugrin Triome
 Roaming Throne
+Rush of Inspiration // Crackling Falls
 Sacred Foundry
 Scalding Tarn
-Sea of Clouds
+Skycloud Expanse
 Sol Ring
 Steam Vents
 Storm of Souls
 Stormcarved Coast
 Sulfur Falls
+Sunscorched Divide
 Swords to Plowshares
 Tetsuko Umezawa, Fugitive
 Three Tree City

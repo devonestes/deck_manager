@@ -5,7 +5,6 @@ Birds of Paradise (PROXY)
 Bloodstained Mire (PROXY)
 Breeding Pool (PROXY)
 Eternal Witness (PROXY)
-Flooded Strand (PROXY)
 Goldspan Dragon (PROXY)
 Hallowed Fountain (PROXY)
 Ketria Triome (PROXY)
@@ -14,7 +13,6 @@ Misty Rainforest (PROXY)
 Noble Hierarch (PROXY)
 Overgrown Tomb (PROXY)
 Prismatic Vista (PROXY)
-Raugrin Triome (PROXY)
 Sacred Foundry (PROXY)
 Scalding Tarn (PROXY)
 Spara's Headquarters (PROXY)
@@ -180,6 +178,7 @@ Flame Slash
 Flare of Duplication
 Flash
 Flickerwisp
+Flooded Strand
 Force of Negation
 Force of Will
 Forensic Gadgeteer
@@ -357,6 +356,7 @@ Raging Ravine
 Rampaging Raptor
 Ramunap Excavator
 Raucous Theater
+Raugrin Triome
 Razorverge Thicket
 Reanimate
 Reckless Pyrosurfer
