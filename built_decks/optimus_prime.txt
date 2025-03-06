@@ -14,12 +14,9 @@ Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
 Smothering Tithe (PROXY)
 Spectator Seating (PROXY)
 Steam Vents (PROXY)
-Steel Overseer (PROXY)
 The Belligerent (PROXY)
-The Ozolith (PROXY)
 Training Center (PROXY)
 Unwinding Clock (PROXY)
-Urza's Saga (PROXY)
 Wave Goodbye (PROXY)
 Optimus Prime, Hero // Optimus Prime, Autobot Leader
 Abzan Battle Priest
@@ -86,15 +83,18 @@ Skysovereign, Consul Flagship
 Smuggler's Copter
 Sol Ring
 Spire of Industry
+Steel Overseer
 Sword of Truth and Justice
 Swords to Plowshares
 Teferi's Protection
 The Indomitable
+The Ozolith
 The Reality Chip
 Thopter Spy Network
 Thought Monitor
 Thoughtcast
 Together Forever
 Urza, Prince of Kroog
+Urza's Saga
 Weatherlight
 Zabaz, the Glimmerwasp

@@ -1,46 +1,11 @@
-Maelstrom Wanderer (PROXY)
-Ancient Copper Dragon (PROXY)
-Balefire Dragon (PROXY)
-Boseiju, Who Endures (PROXY)
-Breeding Pool (PROXY)
-Dreamroot Cascade (PROXY)
-Entish Restoration (PROXY)
-Fiery Emancipation (PROXY)
-Fire-Lit Thicket (PROXY)
-Genesis Ultimatum (PROXY)
-Goldspan Dragon (PROXY)
-Hinterland Harbor (PROXY)
-Ketria Triome (PROXY)
-Klauth, Unrivaled Ancient (PROXY)
-Kodama's Reach (PROXY)
-Kogla, the Titan Ape (PROXY)
-Koma, Cosmos Serpent (PROXY)
-Misty Rainforest (PROXY)
-Nissa, Ascended Animist (PROXY)
-Old Gnawbone (PROXY)
-Oracle of Mul Daya (PROXY)
-Rejuvenating Springs (PROXY)
-Rockfall Vale (PROXY)
-Scalding Tarn (PROXY)
-Scroll Rack (PROXY)
-Sea Gate Restoration // Sea Gate, Reborn (PROXY)
-Spire Garden (PROXY)
-Steam Vents (PROXY)
-Stomping Ground (PROXY)
-Stormcarved Coast (PROXY)
-Sulfur Falls (PROXY)
-Terror of the Peaks (PROXY)
-Three Visits (PROXY)
-Time Warp (PROXY)
-Training Center (PROXY)
-Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
-Up the Beanstalk (PROXY)
-Uro, Titan of Nature's Wrath (PROXY)
-Urza's Saga (PROXY)
-Vorinclex, Monstrous Raider (PROXY)
-Wooded Foothills (PROXY)
+Maelstrom Wanderer
 Ancient Tomb
 Arcane Signet
+Avenger of Zendikar
+Averna, the Chaos Bloom
+Balefire Dragon
+Bloom Tender
+Breeding Pool
 Cascade Bluffs
 Command Tower
 Consecrated Sphinx
@@ -48,26 +13,48 @@ Cultivate
 Defense of the Heart
 Delighted Halfling
 Drakuseth, Maw of Flames
+Dreamroot Cascade
 Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
+Fanatic of Rhonas
 Farseek
 Flooded Grove
 Food Chain
 Forest
 Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Genesis Ultimatum
+Goldspan Dragon
+Hinterland Harbor
 Hullbreaker Horror
 Ilysian Caryatid
 Imoti, Celebrant of Bounty
 Into the North
 Island
 Island
+Island
+Island
+Ketria Triome
+Klauth, Unrivaled Ancient
 Kogla and Yidaro
+Kozilek's Unsealing
+Lurking Predators
 Migration Path
 Misthollow Griffin
+Misty Rainforest
 Monstrous Vortex
 Mountain
 Mountain
+Mountain
+Mountain
+Nexus of Fate
+Nissa, Ascended Animist
 Nyxbloom Ancient
+Omnath, Locus of Rage
 Orcish Lumberjack
 Otawara, Soaring City
 Pathbreaker Ibex
@@ -77,6 +64,7 @@ Rampant Growth
 Ranger's Path
 Rishkar's Expertise
 Riverglide Pathway // Lavaglide Pathway
+Rockfall Vale
 Sakura-Tribe Elder
 Sarkhan's Unsealing
 Scourge of the Throne
@@ -90,11 +78,23 @@ Snow-Covered Forest
 Snow-Covered Island
 Snow-Covered Mountain
 Sol Ring
+Somberwald Sage
+Steam Vents
+Stomping Ground
+Stormcarved Coast
+Sulfur Falls
 Sun Quan, Lord of Wu
 Sunbird's Invocation
 Sylvan Library
 Temur Sabertooth
+Terror of the Peaks
+Three Visits
 Time Spiral
+Time Warp
 Vastwood Surge
+Vaultborn Tyrant
+Vorinclex // The Grand Evolution
+Vorinclex, Monstrous Raider
+Wooded Foothills
 Wurmcoil Engine
 Yavimaya Coast

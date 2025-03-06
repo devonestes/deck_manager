@@ -1,9 +1,10 @@
 1 Maelstrom Wanderer (CMM) 684
-1 Ancient Copper Dragon (CLB) 161
 1 Ancient Tomb (TMP) 315
 1 Arcane Signet (MOC) 348
+1 Avenger of Zendikar (C13) 135
+1 Averna, the Chaos Bloom (CMR) 269
 1 Balefire Dragon (ISD) 129
-1 Boseiju, Who Endures (NEO) 501
+1 Bloom Tender (EVE) 66
 1 Breeding Pool (UNF) 286
 1 Cascade Bluffs (CMM) 990
 1 Command Tower (MOC) 396
@@ -13,15 +14,13 @@
 1 Delighted Halfling (LTR) 158
 1 Drakuseth, Maw of Flames (CLB) 790
 1 Dreamroot Cascade (VOW) 282
-1 Entish Restoration (LTR) 163
 1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
+1 Fanatic of Rhonas (MH3) 458
 1 Farseek (RVR) 138
-1 Fiery Emancipation (M21) 366
-1 Fire-Lit Thicket (SHM) 271
 1 Flooded Grove (LTC) 309
 1 Food Chain (MMQ) 246
-2 Forest (J22) 110
+7 Forest (J22) 110
 1 Genesis Ultimatum (IKO) 189
 1 Goldspan Dragon (J22) 550
 1 Hinterland Harbor (LTC) 317
@@ -29,22 +28,21 @@
 1 Ilysian Caryatid (J22) 676
 1 Imoti, Celebrant of Bounty (MUL) 43
 1 Into the North (CSP) 111
-2 Island (J22) 101
+4 Island (J22) 101
 1 Ketria Triome (IKO) 310
 1 Klauth, Unrivaled Ancient (AFC) 320
-1 Kodama's Reach (CLB) 826
 1 Kogla and Yidaro (MOM) 244
-1 Kogla, the Titan Ape (IKO) 162
-1 Koma, Cosmos Serpent (KHM) 221
+1 Kozilek's Unsealing (MH3) 65
+1 Lurking Predators (C16) 156
 1 Migration Path (IKO) 164
 1 Misthollow Griffin (PLST) AVR-68
 1 Misty Rainforest (MM3) 240
 1 Monstrous Vortex (MH3) 162
-2 Mountain (J22) 107
+4 Mountain (J22) 107
+1 Nexus of Fate (SLD) 1498
 1 Nissa, Ascended Animist (ONE) 339
 1 Nyxbloom Ancient (THB) 190
-1 Old Gnawbone (AFR) 197
-1 Oracle of Mul Daya (JMP) 415
+1 Omnath, Locus of Rage (BFZ) 217
 1 Orcish Lumberjack (ICE) 210
 1 Otawara, Soaring City (NEO) 271
 1 Pathbreaker Ibex (SLD) 307
@@ -52,16 +50,12 @@
 1 Pyrewood Gearhulk (DFT) 216
 1 Rampant Growth (M12) 190
 1 Ranger's Path (M13) 186
-1 Rejuvenating Springs (LTC) 325
 1 Rishkar's Expertise (NEC) 127
 1 Riverglide Pathway // Lavaglide Pathway (ZNR) 289
 1 Rockfall Vale (MID) 266
 1 Sakura-Tribe Elder (CHK) 239
 1 Sarkhan's Unsealing (JMP) 361
-1 Scalding Tarn (MM3) 244
 1 Scourge of the Throne (CNS) 35
-1 Scroll Rack (TMP) 308
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
 1 Selvala, Heart of the Wilds (JMP) 429
 1 Selvala's Stampede (CN2) 71
 1 Sire of Seven Deaths (FDN) 1
@@ -70,7 +64,7 @@
 1 Snow-Covered Island (ICE) 371
 1 Snow-Covered Mountain (ICE) 379
 1 Sol Ring (MOC) 381
-1 Spire Garden (ZNE) 19
+1 Somberwald Sage (INR) 215
 1 Steam Vents (UNF) 283
 1 Stomping Ground (UNF) 280
 1 Stormcarved Coast (VOW) 284
@@ -83,12 +77,9 @@
 1 Three Visits (MKC) 189
 1 Time Spiral (USG) 103
 1 Time Warp (STA) 22
-1 Training Center (CMR) 713
-1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
-1 Up the Beanstalk (WOE) 195
-1 Uro, Titan of Nature's Wrath (THB) 229
-1 Urza's Saga (MH2) 259
 1 Vastwood Surge (ZNR) 217
+1 Vaultborn Tyrant (BIG) 50
+1 Vorinclex // The Grand Evolution (MOM) 213
 1 Vorinclex, Monstrous Raider (KHM) 333
 1 Wooded Foothills (KTK) 249
 1 Wurmcoil Engine (2XM) 308

@@ -1,25 +1,50 @@
 Ancient Copper Dragon (PROXY)
 Ancient Greenwarden (PROXY)
+Birds of Paradise (PROXY)
 Birgi, God of Storytelling // Harnfel, Horn of Bounty (PROXY)
+Breeding Pool (PROXY)
 Cityscape Leveler (PROXY)
 Cultivator Colossus (PROXY)
+Cyclonic Rift (PROXY)
 Defiler of Vigor (PROXY)
+Dreamroot Cascade (PROXY)
 Eternal Witness (PROXY)
 Fire-Lit Thicket (PROXY)
+Genesis Ultimatum (PROXY)
 Goblin Anarchomancer (PROXY)
+Goldspan Dragon (PROXY)
+Hinterland Harbor (PROXY)
 Karplusan Forest (PROXY)
+Ketria Triome (PROXY)
 Lórien Revealed (PROXY)
 Lotus Cobra (PROXY)
+Maelstrom Wanderer (PROXY)
+Miirym, Sentinel Wyrm (PROXY)
+Misty Rainforest (PROXY)
+Nissa, Ascended Animist (PROXY)
 Nissa, Resurgent Animist (PROXY)
+Omnath, Locus of Rage (PROXY)
 Oracle of Mul Daya (PROXY)
+Rockfall Vale (PROXY)
 Rootbound Crag (PROXY)
 Scalding Tarn (PROXY)
 Scute Swarm (PROXY)
+Steam Vents (PROXY)
+Steel Overseer (PROXY)
+Stomping Ground (PROXY)
+Stormcarved Coast (PROXY)
+Sulfur Falls (PROXY)
 Talisman of Creativity (PROXY)
 Temur Ascendancy (PROXY)
+Terror of the Peaks (PROXY)
 The Great Henge (PROXY)
+The Ozolith (PROXY)
+Time Warp (PROXY)
 Toski, Bearer of Secrets (PROXY)
 Up the Beanstalk (PROXY)
+Urza's Saga (PROXY)
+Vorinclex, Monstrous Raider (PROXY)
+Wooded Foothills (PROXY)
 Abbot of Keral Keep
 Abhorrent Oculus
 Abrade
@@ -43,7 +68,6 @@ Bard Class
 Basalt Monolith
 Beast Whisperer
 Behold the Multiverse
-Birds of Paradise
 Blighted Agent
 Blightsteel Colossus
 Bloated Contaminator
@@ -55,7 +79,6 @@ Boseiju, Who Endures
 Bounding Krasis
 Brainstorm
 Brazen Borrower // Petty Theft
-Breeding Pool
 Bria, Riptide Rogue
 Bristly Bill, Spine Sower
 Broadside Bombardiers
@@ -82,7 +105,6 @@ Craterhoof Behemoth
 Cryptic Coat
 Cryptic Command
 Cultivate
-Cyclonic Rift
 Dack Fayden
 Daze
 Death-Greeter's Champion
@@ -101,7 +123,6 @@ Dragon's Rage Channeler
 Dragonborn Champion
 Dragonhawk, Fate's Tempest
 Dreadhorde Arcanist
-Dreamroot Cascade
 Dreamtide Whale
 Electrostatic Infantry
 Elvish Mystic
@@ -146,14 +167,12 @@ Garruk Wildspeaker
 Garruk's Uprising
 Generous Ent
 Generous Plunderer
-Genesis Ultimatum
 Ghalta, Primal Hunger
 Ghitu Lavarunner
 Gitaxian Probe
 Glorybringer
 Goblin Guide
 Goblin Rabblemaster
-Goldspan Dragon
 Green Sun's Zenith
 Grim Lavamancer
 Growth Spiral
@@ -167,7 +186,6 @@ Hajar, Loyal Bodyguard
 Headliner Scarlett
 Hedron Crab
 Hexdrinker
-Hinterland Harbor
 Hugs, Grisly Guardian
 Hullbreacher
 Icefall Regent
@@ -202,7 +220,6 @@ Karn, Scion of Urza
 Kazandu Mammoth // Kazandu Valley
 Kazuul's Fury // Kazuul's Cliffs
 Keruga, the Macrosage
-Ketria Triome
 Kiln Fiend
 Kird Ape
 Kolaghan Warmonger
@@ -223,7 +240,6 @@ Lovestruck Beast // Heart's Desire
 Lozhan, Dragons' Legacy
 Lumbering Falls
 Lutri, the Spellchaser
-Maelstrom Wanderer
 Magma Opus
 Malcolm, Alluring Scoundrel
 Malevolent Rumble
@@ -236,13 +252,11 @@ Merfolk Skydiver
 Mesmeric Orb
 Midnight Clock
 Migloz, Maze Crusher
-Miirym, Sentinel Wyrm
 Mind Stone
 Mindcrank
 Mindslaver
 Mine Collapse
 Minsc & Boo, Timeless Heroes
-Misty Rainforest
 Monastery Swiftspear
 Murkfiend Liege
 Mutagenic Growth
@@ -255,14 +269,12 @@ Negate
 Nesting Dragon
 Nettlecyst
 Nightpack Ambusher
-Nissa, Ascended Animist
 Nissa, Who Shakes the World
 Niv-Mizzet, Parun
 Obosh, the Preypiercer
 Oko, Thief of Crowns
 Old-Growth Troll
 Oliphaunt
-Omnath, Locus of Rage
 Once Upon a Time
 Opt
 Orcish Lumberjack
@@ -305,7 +317,6 @@ River's Rebuke
 Riverchurn Monument
 Roalesk, Apex Hybrid
 Roaring Furnace // Steaming Sauna
-Rockfall Vale
 Roxanne, Starfall Savant
 Ruin Crab
 Runaway Steam-Kin
@@ -345,21 +356,16 @@ Spell Pierce
 Spell Swindle
 Springheart Nantuko
 Sprite Dragon
-Steam Vents
 Steel Hellkite
 Steel Leaf Champion
-Steel Overseer
 Stingerback Terror
 Stoic Sphinx
-Stomping Ground
-Stormcarved Coast
 Stormcatch Mentor
 Strangle
 Strider, Ranger of the North
 Strip Mine
 Sublime Epiphany
 Subtlety
-Sulfur Falls
 Surge Engine
 Surrak Dragonclaw
 Sweltering Suns
@@ -373,10 +379,8 @@ Tatyova, Benthic Druid
 Teferi, Temporal Pilgrim
 Tekuthal, Inquiry Dominus
 Terisian Mindbreaker
-Terror of the Peaks
 The Mindskinner
 The One Ring
-The Ozolith
 Thing in the Ice // Awoken Horror
 Third Path Iconoclast
 Thirsting Roots
@@ -386,7 +390,6 @@ Thran Dynamo
 Thran Spider
 Through the Breach
 Thrummingbird
-Time Warp
 Tinker
 Tireless Provisioner
 Tishana's Tidebinder
@@ -408,7 +411,6 @@ Unnatural Restoration
 Uro, Titan of Nature's Wrath
 Ursine Monstrosity
 Urza, Lord High Artificer
-Urza's Saga
 Utopia Sprawl
 Valakut Exploration
 Vaultborn Tyrant
@@ -421,7 +423,6 @@ Voidslime
 Volcanic Island
 Voldaren Epicure
 Voracious Greatshark
-Vorinclex, Monstrous Raider
 Walking Ballista
 Wandering Fumarole
 Wandering Mind
@@ -434,7 +435,6 @@ Wild Slash
 Wildborn Preserver
 Wilderness Reclamation
 Wildwood Scourge
-Wooded Foothills
 Woodfall Primus
 Workshop Warchief
 Worldspine Wurm
