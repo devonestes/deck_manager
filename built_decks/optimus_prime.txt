@@ -1,28 +1,10 @@
-Akroma's Will (PROXY)
-Anim Pakal, Thousandth Moon (PROXY)
-Danny Pink (PROXY)
-Eiganjo, Seat of the Empire (PROXY)
-Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (PROXY)
-Great Furnace (PROXY)
-Herald of Secret Streams (PROXY)
-Inventors' Fair (PROXY)
-Knight Paladin (PROXY)
-Mystic Gate (PROXY)
-Seat of the Synod (PROXY)
-Silverbluff Bridge (PROXY)
-Slicer, Hired Muscle // Slicer, High-Speed Antagonist (PROXY)
-Smothering Tithe (PROXY)
-Spectator Seating (PROXY)
-Steam Vents (PROXY)
-The Belligerent (PROXY)
-Training Center (PROXY)
-Unwinding Clock (PROXY)
-Wave Goodbye (PROXY)
 Optimus Prime, Hero // Optimus Prime, Autobot Leader
 Abzan Battle Priest
 Abzan Falconer
+Ainok Bond-Kin
 Ancient Den
 Arcane Signet
+Arcbound Javelineer
 Arcbound Mouser
 Arcbound Shikari
 Arcbound Slasher
@@ -34,7 +16,7 @@ Cascade Bluffs
 Cayth, Famed Mechanist
 Chaos Warp
 Command Tower
-Cyclonic Rift
+Counterspell
 Darksteel Citadel
 Dispatch
 Enthusiastic Mechanaut
@@ -43,27 +25,39 @@ Etherium Sculptor
 Felidar Retreat
 Foundry Inspector
 Gold-Forged Thopteryx
+Grateful Apparition
 Hallowed Fountain
 Imposter Mech
 Island
 Island
 Island
 Island
+Island
+Island
+Island
+Izzet Signet
 Jetfire, Ingenious Scientist // Jetfire, Air Guardian
 Kappa Cannoneer
 Karn's Bastion
-Lightning Greaves
 Lita, Mechanical Engineer
 Losheel, Clockwork Scholar
 Mana Drain
 Mech Hangar
 Mendicant Core, Guidelight
+Mikaeus, the Lunarch
+Mountain
+Mountain
+Mountain
 Mountain
 Mountain
 Mystic Monastery
 Mystic Remora
 Organic Extinction
 Otawara, Soaring City
+Padeem, Consul of Innovation
+Plains
+Plains
+Plains
 Plains
 Plains
 Plains
@@ -72,6 +66,8 @@ Prowl, Stoic Strategist // Prowl, Pursuit Vehicle
 Ratchet, Field Medic // Ratchet, Rescue Racer
 Raugrin Triome
 Razortide Bridge
+Reluctant Role Model
+Research Thief
 Resourceful Defense
 Ripples of Potential
 Rustvale Bridge
@@ -82,10 +78,13 @@ Shorikai, Genesis Engine
 Skysovereign, Consul Flagship
 Smuggler's Copter
 Sol Ring
+Solemn Simulacrum
 Spire of Industry
 Steel Overseer
+Subterranean Schooner
 Sword of Truth and Justice
 Swords to Plowshares
+Talisman of Conviction
 Teferi's Protection
 The Indomitable
 The Ozolith
@@ -96,5 +95,6 @@ Thoughtcast
 Together Forever
 Urza, Prince of Kroog
 Urza's Saga
+Voyager Quickwelder
 Weatherlight
 Zabaz, the Glimmerwasp

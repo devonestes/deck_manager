@@ -1,10 +1,10 @@
 1 Optimus Prime, Hero // Optimus Prime, Autobot Leader (BOT) 13
 1 Abzan Battle Priest (KTK) 1
 1 Abzan Falconer (MIC) 77
-1 Akroma's Will (LCC) 125
+1 Ainok Bond-Kin (KTK) 3
 1 Ancient Den (MRD) 278
-1 Anim Pakal, Thousandth Moon (LCI) 223
 1 Arcane Signet (MOC) 348
+1 Arcbound Javelineer (MH2) 2
 1 Arcbound Mouser (MH2) 3
 1 Arcbound Shikari (MH2) 184
 1 Arcbound Slasher (MH2) 111
@@ -16,68 +16,61 @@
 1 Cayth, Famed Mechanist (M3C) 6
 1 Chaos Warp (PW24) 7
 1 Command Tower (MOC) 396
-1 Cyclonic Rift (2XM) 339
-1 Danny Pink (WHO) 39
+1 Counterspell (TMP) 57
 1 Darksteel Citadel (MM2) 238
 1 Dispatch (NEC) 83
-1 Eiganjo, Seat of the Empire (NEO) 413
 1 Enthusiastic Mechanaut (NEO) 218
 1 Esper Sentinel (MH2) 12
 1 Etherium Sculptor (ALA) 42
 1 Felidar Retreat (CMM) 821
 1 Foundry Inspector (BRR) 79
 1 Gold-Forged Thopteryx (MAT) 31
-1 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (BOT) 11
-1 Great Furnace (BRC) 187
+1 Grateful Apparition (WAR) 17
 1 Hallowed Fountain (RVR) 280
-1 Herald of Secret Streams (LCC) 158
 1 Imposter Mech (NEC) 13
-1 Inventors' Fair (KLD) 247
-4 Island (J22) 101
+7 Island (J22) 101
+1 Izzet Signet (NCC) 369
 1 Jetfire, Ingenious Scientist // Jetfire, Air Guardian (BOT) 3
 1 Kappa Cannoneer (NEC) 14
 1 Karn's Bastion (CMM) 1007
-1 Knight Paladin (40K) 160
-1 Lightning Greaves (LTC) 281
 1 Lita, Mechanical Engineer (J22) 6
 1 Losheel, Clockwork Scholar (C21) 18
 1 Mana Drain (CMR) 80
 1 Mech Hangar (NEO) 270
 1 Mendicant Core, Guidelight (DFT) 213
-2 Mountain (J22) 107
-1 Mystic Gate (CMM) 1013
+1 Mikaeus, the Lunarch (ISD) 23
+5 Mountain (J22) 107
 1 Mystic Monastery (DMC) 221
 1 Mystic Remora (ICE) 87
 1 Organic Extinction (MKC) 76
 1 Otawara, Soaring City (NEO) 271
-3 Plains (J22) 98
+1 Padeem, Consul of Innovation (BRC) 91
+6 Plains (J22) 98
 1 Power Depot (MH2) 251
 1 Prowl, Stoic Strategist // Prowl, Pursuit Vehicle (BOT) 1
 1 Ratchet, Field Medic // Ratchet, Rescue Racer (BOT) 2
 1 Raugrin Triome (IKO) 311
 1 Razortide Bridge (MH2) 252
+1 Reluctant Role Model (DSK) 303
+1 Research Thief (NEC) 16
 1 Resourceful Defense (NCC) 120
 1 Ripples of Potential (LCC) 77
 1 Rustvale Bridge (PIP) 285
 1 Sacred Foundry (UNF) 285
 1 Scene of the Crime (MKM) 267
-1 Seat of the Synod (BRC) 198
 1 Shivan Reef (OTC) 320
 1 Shorikai, Genesis Engine (NEC) 4
-1 Silverbluff Bridge (BRC) 200
 1 Skysovereign, Consul Flagship (NEC) 159
-1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (BOT) 6
-1 Smothering Tithe (RNA) 22
 1 Smuggler's Copter (NEC) 160
 1 Sol Ring (MOC) 381
-1 Spectator Seating (CMR) 711
+1 Solemn Simulacrum (BRC) 161
 1 Spire of Industry (NEC) 178
-1 Steam Vents (UNF) 283
 1 Steel Overseer (PIP) 241
+1 Subterranean Schooner (LCI) 365
 1 Sword of Truth and Justice (MH1) 229
 1 Swords to Plowshares (MOC) 211
+1 Talisman of Conviction (LTC) 285
 1 Teferi's Protection (C17) 8
-1 The Belligerent (LCI) 225
 1 The Indomitable (LCC) 75
 1 The Ozolith (LTC) 351
 1 The Reality Chip (NEO) 74
@@ -85,10 +78,8 @@
 1 Thought Monitor (MKC) 121
 1 Thoughtcast (BRC) 99
 1 Together Forever (C21) 108
-1 Training Center (CMR) 713
-1 Unwinding Clock (NPH) 164
 1 Urza, Prince of Kroog (BRO) 296
 1 Urza's Saga (MH2) 259
-1 Wave Goodbye (LCC) 79
+1 Voyager Quickwelder (DFT) 37
 1 Weatherlight (DOM) 237
 1 Zabaz, the Glimmerwasp (MH2) 243

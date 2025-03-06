@@ -14,7 +14,6 @@ Delney, Streetwise Lookout
 Deserted Beach
 Devilish Valet
 Dusk // Dawn
-Elegant Parlor
 Elesh Norn, Mother of Machines
 Enduring Courage
 Enduring Innocence
@@ -58,10 +57,10 @@ Island
 Island
 Island
 Kindred Discovery
-Meticulous Archive
 Molten Gatekeeper
 Mondrak, Glory Dominus
 Moonshaker Cavalry
+Mountain
 Mountain
 Mountain
 Mountain
@@ -70,6 +69,7 @@ Ojer Taq, Deepest Foundation // Temple of Civilization
 Panharmonicon
 Path of Ancestry
 Path to Exile
+Plains
 Plains
 Plains
 Plains

@@ -14,7 +14,6 @@
 1 Deserted Beach (MID) 281
 1 Devilish Valet (BLC) 195
 1 Dusk // Dawn (PLST) CLB-691
-1 Elegant Parlor (MKM) 325
 1 Elesh Norn, Mother of Machines (ONE) 10
 1 Enduring Courage (DSK) 133
 1 Enduring Innocence (DSK) 6
@@ -26,17 +25,16 @@
 1 Impact Tremors (DTK) 140
 3 Island (J22) 101
 1 Kindred Discovery (CLB) 81
-1 Meticulous Archive (MKM) 328
 1 Molten Gatekeeper (MH3) 128
 1 Mondrak, Glory Dominus (ONE) 23
 1 Moonshaker Cavalry (WOE) 21
-3 Mountain (J22) 107
+4 Mountain (J22) 107
 1 Mystic Gate (CMM) 1013
 1 Ojer Taq, Deepest Foundation // Temple of Civilization (LCI) 26
 1 Panharmonicon (TSR) 399
 1 Path of Ancestry (MOC) 418
 1 Path to Exile (MOC) 198
-7 Plains (MKM) 277
+8 Plains (MKM) 277
 1 Purphoros, God of the Forge (THS) 135
 1 Rally the Ranks (KHM) 20
 1 Rapid Augmenter (BLC) 38

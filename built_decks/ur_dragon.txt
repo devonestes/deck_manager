@@ -1,29 +1,5 @@
-Ancient Copper Dragon (PROXY)
-Balefire Dragon (PROXY)
-Breeding Pool (PROXY)
-Cavern of Souls (PROXY)
-Flooded Strand (PROXY)
-Forbidden Orchard (PROXY)
-Guardian Project (PROXY)
-Hallowed Fountain (PROXY)
-Klauth, Unrivaled Ancient (PROXY)
-Kokusho, the Evening Star (PROXY)
-Kura, the Boundless Sky (PROXY)
-Misty Rainforest (PROXY)
-Old Gnawbone (PROXY)
-Sacred Foundry (PROXY)
-Scalding Tarn (PROXY)
-Steam Vents (PROXY)
-Stomping Ground (PROXY)
-Teferi's Protection (PROXY)
-Temur Ascendancy (PROXY)
-Terror of the Peaks (PROXY)
-The Great Henge (PROXY)
-The World Tree (PROXY)
-Three Visits (PROXY)
-Windswept Heath (PROXY)
-Wooded Foothills (PROXY)
 The Ur-Dragon
+Ancient Bronze Dragon
 Ancient Silver Dragon
 Ancient Tomb
 Arcane Signet
@@ -38,35 +14,48 @@ Bonehoard Dracosaur
 Cavern-Hoard Dragon
 City of Brass
 Command Tower
+Cultivate
 Cyclonic Rift
+Deathcap Glade
 Delighted Halfling
 Dragon Tempest
 Dragon's Hoard
+Dragonlord Atarka
 Dragonlord Dromoka
 Dragonlord's Servant
 Dragonspeaker Shaman
+Earthquake Dragon
 Exotic Orchard
 Farseek
 Fellwar Stone
 Forest
+Forest
+Frontier Bivouac
+Ganax, Astral Hunter
 Godless Shrine
 Goldspan Dragon
+Gruul Turf
 Hellkite Courser
 Hellkite Tyrant
 Herald's Horn
 Heroic Intervention
 Indatha Triome
 Island
+Island
 Jetmir's Garden
+Jungle Shrine
+Junji, the Midnight Sky
 Karrthus, Tyrant of Jund
 Ketria Triome
 Kindred Discovery
 Kindred Dominance
 Lightning Greaves
+Lozhan, Dragons' Legacy
 Mana Vault
 Marsh Flats
 Miirym, Sentinel Wyrm
 Morophon, the Boundless
+Mountain
 Mountain
 Nature's Lore
 Omniscience
@@ -74,27 +63,38 @@ Orb of Dragonkind
 Overgrown Tomb
 Path of Ancestry
 Plains
+Plains
 Polluted Delta
 Raise the Palisade
+Rampant Growth
 Return of the Wildspeaker
 Rith, Liberated Primeval
 Rivaz of the Claw
 Roaming Throne
+Sarkhan Unbroken
 Sarkhan, Fireblood
 Savage Ventmaw
+Savai Triome
 Scalelord Reckoner
+Scion of Draco
 Scourge of the Throne
+Shivan Reef
+Simic Growth Chamber
+Smuggler's Surprise
 Sol Ring
 Spara's Headquarters
+Swamp
 Swamp
 Swords to Plowshares
 Temple Garden
 Temple of the Dragon Queen
 The Kami War // O-Kagachi Made Manifest
 Tiamat
+Twinflame Tyrant
 Urza's Incubator
 Utvara Hellkite
 Watery Grave
+Yavimaya Coast
 Zagoth Triome
 Ziatora's Proving Ground
 Zurgo and Ojutai
