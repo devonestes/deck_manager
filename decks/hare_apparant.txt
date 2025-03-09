@@ -2,7 +2,6 @@
 1 Adarkar Wastes (ICE) 351
 1 Anointed Procession (SLD) 1511
 1 Arcane Signet (SLD) 1641
-1 Arid Mesa (MH2) 436
 1 Austere Command (LCC) 126
 1 Battlefield Forge (BRO) 257
 1 Bennie Bracks, Zoologist (NCC) 86
@@ -11,7 +10,6 @@
 1 Command Tower (MOC) 396
 1 Delney, Streetwise Lookout (MKM) 337
 1 Deserted Beach (MID) 281
-1 Devilish Valet (BLC) 195
 1 Dusk // Dawn (PLST) CLB-691
 1 Elesh Norn, Mother of Machines (ONE) 10
 1 Enduring Courage (DSK) 133
@@ -27,20 +25,20 @@
 1 Kindred Discovery (CLB) 81
 1 Molten Gatekeeper (MH3) 128
 1 Moonshaker Cavalry (WOE) 21
-3 Mountain (J22) 107
+4 Mountain (J22) 107
 1 Mystic Gate (CMM) 1013
 1 Ojer Taq, Deepest Foundation // Temple of Civilization (LCI) 26
 1 Panharmonicon (TSR) 399
 1 Path to Exile (MOC) 198
-1 Pearl Medallion (MH3) 294
-9 Plains (MKM) 277
+10 Plains (MKM) 277
 1 Purphoros, God of the Forge (THS) 135
+1 Raise the Past (FDN) 22
 1 Rally the Ranks (KHM) 20
 1 Rapid Augmenter (BLC) 38
 1 Roaming Throne (LCI) 344
 1 Rush of Inspiration // Crackling Falls (MH3) 257
 1 Sacred Foundry (RVR) 409
-1 Scalding Tarn (MH2) 439
+1 Selfless Spirit (CLB) 706
 1 Skycloud Expanse (NCC) 427
 1 Sol Ring (MOC) 381
 1 Steam Vents (RVR) 412

@@ -1,14 +1,14 @@
 1 The Ur-Dragon (C17) 48
 1 Ancient Bronze Dragon (CLB) 369
 1 Ancient Silver Dragon (CLB) 366
-1 Ancient Tomb (TMP) 315
 1 Arcane Signet (MOC) 348
 1 Atarka, World Render (SCD) 1
 1 Badlands (3ED) 282
+1 Bayou (3ED) 283
 1 Beledros Witherbloom (STX) 163
 1 Birds of Paradise (4ED) 234
+1 Blazemire Verge (DSK) 329
 1 Blood Crypt (UNF) 279
-1 Bloodstained Mire (KTK) 230
 1 Bloom Tender (EVE) 66
 1 Bonehoard Dracosaur (LCI) 321
 1 Cavern-Hoard Dragon (LTC) 114
@@ -20,6 +20,7 @@
 1 Delighted Halfling (LTR) 158
 1 Dragon Tempest (DTK) 136
 1 Dragon's Hoard (CLB) 858
+1 Dragonhawk, Fate's Tempest (BLB) 291
 1 Dragonlord Atarka (DTK) 216
 1 Dragonlord Dromoka (DTK) 217
 1 Dragonlord's Servant (PL24) 1
@@ -32,7 +33,6 @@
 1 Frontier Bivouac (40K) 281
 1 Ganax, Astral Hunter (CLB) 176
 1 Godless Shrine (UNF) 282
-1 Goldspan Dragon (J22) 550
 1 Gruul Turf (C16) 300
 1 Hellkite Courser (CMR) 183
 1 Hellkite Tyrant (C16) 128
@@ -41,14 +41,13 @@
 1 Indatha Triome (IKO) 309
 2 Island (MOM) 278
 1 Jetmir's Garden (SNC) 291
-1 Jungle Shrine (E02) 46
 1 Junji, the Midnight Sky (NEO) 409
 1 Karrthus, Tyrant of Jund (ARB) 117
-1 Ketria Triome (IKO) 310
 1 Kindred Discovery (CLB) 81
 1 Kindred Dominance (CMM) 640
 1 Lightning Greaves (LTC) 281
 1 Lozhan, Dragons' Legacy (CLB) 281
+1 Mana Confluence (JOU) 163
 1 Mana Vault (2ED) 260
 1 Marsh Flats (MM3) 239
 1 Miirym, Sentinel Wyrm (CLB) 284
@@ -57,7 +56,6 @@
 1 Nature's Lore (DMR) 170
 1 Omniscience (WOT) 70
 1 Orb of Dragonkind (AFR) 157
-1 Overgrown Tomb (UNF) 284
 1 Path of Ancestry (MOC) 418
 2 Plains (J22) 98
 1 Polluted Delta (KTK) 239
@@ -74,6 +72,7 @@
 1 Scalelord Reckoner (C17) 6
 1 Scion of Draco (MH2) 234
 1 Scourge of the Throne (CNS) 35
+1 Scrubland (3ED) 286
 1 Shivan Reef (OTC) 320
 1 Simic Growth Chamber (CM2) 267
 1 Smuggler's Surprise (OTJ) 180
@@ -84,12 +83,13 @@
 1 Temple Garden (UNF) 281
 1 Temple of the Dragon Queen (AFR) 260
 1 The Kami War // O-Kagachi Made Manifest (NEO) 227
+1 Thornspire Verge (DSK) 333
 1 Tiamat (AFR) 298
 1 Twinflame Tyrant (FDN) 97
 1 Urza's Incubator (C15) 273
 1 Utvara Hellkite (C17) 144
 1 Watery Grave (UNF) 278
+1 Xander's Lounge (SNC) 294
 1 Yavimaya Coast (DMU) 261
 1 Zagoth Triome (IKO) 313
-1 Ziatora's Proving Ground (SNC) 295
 1 Zurgo and Ojutai (PMOM) 258p

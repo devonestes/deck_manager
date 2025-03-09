@@ -1,41 +1,16 @@
-Adeline, Resplendent Cathar (PROXY)
-Ancient Tomb (PROXY)
-Arid Mesa (PROXY)
-Birds of Paradise (PROXY)
-Bloodstained Mire (PROXY)
-Breeding Pool (PROXY)
-Eternal Witness (PROXY)
-Goldspan Dragon (PROXY)
-Hallowed Fountain (PROXY)
-Ketria Triome (PROXY)
-Lotus Cobra (PROXY)
-Misty Rainforest (PROXY)
-Noble Hierarch (PROXY)
-Overgrown Tomb (PROXY)
-Prismatic Vista (PROXY)
-Sacred Foundry (PROXY)
-Scalding Tarn (PROXY)
-Spara's Headquarters (PROXY)
-Steam Vents (PROXY)
-Stomping Ground (PROXY)
-Talisman of Creativity (PROXY)
-Tear Asunder (PROXY)
-Time Warp (PROXY)
-Toxic Deluge (PROXY)
-Urza's Saga (PROXY)
-Windswept Heath (PROXY)
-Wooded Foothills (PROXY)
-Ziatora's Proving Ground (PROXY)
 Abrade
+Adeline, Resplendent Cathar
 Agatha's Soul Cauldron
 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
 Ancestral Recall
+Ancient Tomb
 Anger
 Animate Dead
 Anje's Ravager
 Arc Trail
 Archon of Cruelty
 Arena of Glory
+Arid Mesa
 Armageddon
 Arwen, Mortal Queen
 Ashen Rider
@@ -52,6 +27,7 @@ Batterskull
 Bayou
 Bazaar of Baghdad
 Beza, the Bounding Spring
+Birds of Paradise
 Bitter Triumph
 Black Lotus
 Blackcleave Cliffs
@@ -61,6 +37,7 @@ Blood Crypt
 Bloodbraid Challenger
 Bloodchief's Thirst
 Bloodghast
+Bloodstained Mire
 Bloodthirsty Adversary
 Bloodtithe Harvester
 Blooming Marsh
@@ -74,6 +51,7 @@ Botanical Sanctum
 Brain Freeze
 Brainstorm
 Brazen Borrower // Petty Theft
+Breeding Pool
 Briarbridge Tracker
 Bring to Light
 Broadside Bombardiers
@@ -152,6 +130,7 @@ Escape to the Wilds
 Esika's Chariot
 Esper Sentinel
 Etali, Primal Conqueror // Etali, Primal Sickness
+Eternal Witness
 Eureka
 Everflowing Chalice
 Exhume
@@ -199,6 +178,7 @@ Glissa Sunslayer
 Glorybringer
 Goblin Rabblemaster
 Godless Shrine
+Goldspan Dragon
 Golos, Tireless Pilgrim
 Grave Titan
 Green Sun's Zenith
@@ -208,6 +188,7 @@ Griselbrand
 Gruul Turf
 Guide of Souls
 Gut, True Soul Zealot
+Hallowed Fountain
 Haywire Mite
 Headliner Scarlett
 Hedge Maze
@@ -238,6 +219,7 @@ Kaldra Compleat
 Kappa Cannoneer
 Karakas
 Karn, Scion of Urza
+Ketria Triome
 Knight of the Reliquary
 Kroxa, Titan of Death's Hunger
 Kumano Faces Kakkazan // Etching of Kumano
@@ -258,6 +240,7 @@ Lion Sash
 Lion's Eye Diamond
 Llanowar Elves
 Loran of the Third Path
+Lotus Cobra
 Lotus Petal
 Luminarch Aspirant
 Lurrus of the Dream-Den
@@ -284,6 +267,7 @@ Minsc & Boo, Timeless Heroes
 Miscalculation
 Mishra's Bauble
 Mishra's Workshop
+Misty Rainforest
 Mother of Runes
 Mox Diamond
 Mox Emerald
@@ -304,6 +288,7 @@ Night's Whisper
 Nishoba Brawler
 Nissa, Who Shakes the World
 No More Lies
+Noble Hierarch
 Nurturing Peatland
 Oath of Druids
 Ocelot Pride
@@ -317,6 +302,7 @@ Otawara, Soaring City
 Otharri, Suns' Glory
 Oust
 Outland Liberator // Frenzied Trapbreaker
+Overgrown Tomb
 Overlord of the Balemurk
 Overlord of the Hauntwoods
 Palace Jailer
@@ -345,6 +331,7 @@ Preordain
 Primeval Titan
 Prismatic Ending
 Prismatic Omen
+Prismatic Vista
 Psychic Frog
 Pyrogoyf
 Pyrokinesis
@@ -371,6 +358,7 @@ Restless Vents
 Retrofitter Foundry
 Rite of Flame
 Robber of the Rich
+Sacred Foundry
 Saheeli, Sublime Artificer
 Sakura-Tribe Elder
 Samwise the Stouthearted
@@ -379,6 +367,7 @@ Satya, Aetherflux Genius
 Satyr Wayfinder
 Savai Triome
 Savannah
+Scalding Tarn
 Scapeshift
 Scrapwork Mutt
 Screaming Nemesis
@@ -418,11 +407,14 @@ Sol Ring
 Solitude
 Soul-Guide Lantern
 Sowing Mycospawn
+Spara's Headquarters
 Spell Pierce
 Spellseeker
 Spirebluff Canal
 Springheart Nantuko
+Steam Vents
 Stern Scolding
+Stomping Ground
 Stoneforge Mystic
 Strip Mine
 Student of Warfare
@@ -440,6 +432,7 @@ Sylvan Library
 Sylvan Safekeeper
 Taiga
 Talisman of Conviction
+Talisman of Creativity
 Talisman of Curiosity
 Talisman of Dominance
 Talisman of Indulgence
@@ -448,6 +441,7 @@ Talon Gates of Madara
 Tamiyo, Collector of Tales
 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
 Tarmogoyf
+Tear Asunder
 Teferi, Hero of Dominaria
 Teferi, Time Raveler
 Temple Garden
@@ -469,6 +463,7 @@ Thundering Falls
 Tidehollow Sculler
 Time Spiral
 Time Walk
+Time Warp
 Timetwister
 Tinker
 Tireless Tracker
@@ -477,6 +472,7 @@ Titania, Protector of Argoth
 Tolarian Academy
 Torsten, Founder of Benalia
 Touch the Spirit Realm
+Toxic Deluge
 Treachery
 Treasure Cruise
 Tribal Flames
@@ -505,6 +501,7 @@ Urborg, Tomb of Yawgmoth
 Uro, Titan of Nature's Wrath
 Ursine Monstrosity
 Urza, Lord High Artificer
+Urza's Saga
 Usher of the Fallen
 Valakut, the Molten Pinnacle
 Valgavoth, Terror Eater
@@ -526,8 +523,10 @@ Wheel of Fortune
 White Orchid Phantom
 White Plume Adventurer
 Wight of the Reliquary
+Windswept Heath
 Wishclaw Talisman
 Witch Enchanter // Witch-Blessed Meadow
+Wooded Foothills
 Woodfall Primus
 Worldspine Wurm
 Wrath of God
@@ -536,5 +535,6 @@ Xander's Lounge
 Yavimaya, Cradle of Growth
 Yawgmoth's Will
 Zagoth Triome
+Ziatora's Proving Ground
 Zirda, the Dawnwaker
 Zuran Orb

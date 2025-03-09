@@ -1,5 +1,4 @@
 1 Galadriel, Light of Valinor (LTC) 498
-1 Adeline, Resplendent Cathar (MOC) 167
 1 Akroma's Will (LCC) 125
 1 Aluren (TMP) 213
 1 Ancient Gold Dragon (CLB) 365
@@ -9,9 +8,8 @@
 1 Basking Broodscale (MH3) 145
 1 Beast Whisperer (P30A) 26
 1 Bennie Bracks, Zoologist (NCC) 86
-1 Birds of Paradise (4ED) 234
-1 Boseiju, Who Endures (NEO) 501
 1 Bountiful Promenade (ZNE) 20
+1 Bristly Bill, Spine Sower (OTJ) 157
 1 Bulwark Ox (DFT) 7
 1 Caretaker's Talent (BLB) 6
 1 Cauldron of Souls (SHM) 248
@@ -30,6 +28,7 @@
 1 Eladamri, Korvecdal (MH3) 369
 1 Elven Ambush (KHM) 391
 1 Envoy of the Ancestors (MH3) 23
+1 Evolution Sage (PLST) WAR-159
 1 Evolution Witness (MH3) 151
 1 Faerie Artisans (CMM) 92
 1 Faerie Mastermind (PMOM) 58p
@@ -38,15 +37,17 @@
 1 Felidar Retreat (CMM) 821
 1 Fierce Guardianship (C20) 35
 1 Flooded Grove (LTC) 309
-6 Forest (LTR) 270
+7 Forest (LTR) 270
 1 Gala Greeters (SNC) 450
 1 Galadhrim Ambush (LTC) 38
 1 Glen Elendra Archmage (MMA) 47
 1 Gruff Triplets (WOE) 172
+1 Gyre Sage (MOC) 300
 1 Hallowed Fountain (UNF) 277
 1 Herald of Secret Streams (LCC) 158
 1 Herd Baloth (MH2) 165
 1 Hinterland Harbor (LTC) 317
+1 Hushwood Verge (DSK) 261
 1 Imperious Perfect (J22) 677
 1 Incubation Druid (MOC) 302
 1 Inspiring Call (MOC) 304
@@ -58,29 +59,27 @@
 1 Marketback Walker (DFT) 235
 1 Master Biomancer (2X2) 250
 1 Mystic Gate (CMM) 1013
-1 Noble Hierarch (2XM) 177
 1 Otawara, Soaring City (NEO) 503
 1 Overgrown Farmland (WHO) 292
 1 Overwhelming Stampede (LTC) 254
 5 Plains (J22) 98
-1 Rejuvenating Springs (LTC) 325
 1 Rhystic Study (J22) 114
 1 Ripples of Potential (LCC) 77
 1 Safehold Elite (SHM) 239
+1 Seaside Citadel (PLST) ALA-229
 1 Shrieking Drake (VIS) 43
 1 Sol Ring (LTC) 284
-1 Spara's Headquarters (SNC) 293
 1 Strength of the Harvest // Haven of the Harvest (MH3) 258
+1 Sunpetal Grove (SLD) 460
 1 Suppression Ray // Orderly Plaza (MH3) 260
-1 Teferi's Protection (C17) 8
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147
-1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
-1 Urza's Saga (MH2) 259
+1 Thirsting Roots (ONE) 185
+1 Tyvar, the Pummeler (DSK) 202
 1 Virtue of Loyalty // Ardenvale Fealty (WOE) 38
 1 Wave Goodbye (LCC) 79
+1 Westvale Abbey // Ormendahl, Profane Prince (SOI) 281
 1 Whitemane Lion (DMR) 277
-1 Windswept Heath (KTK) 248
 1 Windswift Slice (LTC) 45
 1 Witch Enchanter // Witch-Blessed Meadow (MH3) 239
 1 Wolverine Riders (KHC) 14

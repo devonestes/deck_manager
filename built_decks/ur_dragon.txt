@@ -1,14 +1,14 @@
 The Ur-Dragon
 Ancient Bronze Dragon
 Ancient Silver Dragon
-Ancient Tomb
 Arcane Signet
 Atarka, World Render
 Badlands
+Bayou
 Beledros Witherbloom
 Birds of Paradise
+Blazemire Verge
 Blood Crypt
-Bloodstained Mire
 Bloom Tender
 Bonehoard Dracosaur
 Cavern-Hoard Dragon
@@ -20,6 +20,7 @@ Deathcap Glade
 Delighted Halfling
 Dragon Tempest
 Dragon's Hoard
+Dragonhawk, Fate's Tempest
 Dragonlord Atarka
 Dragonlord Dromoka
 Dragonlord's Servant
@@ -33,7 +34,6 @@ Forest
 Frontier Bivouac
 Ganax, Astral Hunter
 Godless Shrine
-Goldspan Dragon
 Gruul Turf
 Hellkite Courser
 Hellkite Tyrant
@@ -43,14 +43,13 @@ Indatha Triome
 Island
 Island
 Jetmir's Garden
-Jungle Shrine
 Junji, the Midnight Sky
 Karrthus, Tyrant of Jund
-Ketria Triome
 Kindred Discovery
 Kindred Dominance
 Lightning Greaves
 Lozhan, Dragons' Legacy
+Mana Confluence
 Mana Vault
 Marsh Flats
 Miirym, Sentinel Wyrm
@@ -60,7 +59,6 @@ Mountain
 Nature's Lore
 Omniscience
 Orb of Dragonkind
-Overgrown Tomb
 Path of Ancestry
 Plains
 Plains
@@ -78,6 +76,7 @@ Savai Triome
 Scalelord Reckoner
 Scion of Draco
 Scourge of the Throne
+Scrubland
 Shivan Reef
 Simic Growth Chamber
 Smuggler's Surprise
@@ -89,12 +88,13 @@ Swords to Plowshares
 Temple Garden
 Temple of the Dragon Queen
 The Kami War // O-Kagachi Made Manifest
+Thornspire Verge
 Tiamat
 Twinflame Tyrant
 Urza's Incubator
 Utvara Hellkite
 Watery Grave
+Xander's Lounge
 Yavimaya Coast
 Zagoth Triome
-Ziatora's Proving Ground
 Zurgo and Ojutai

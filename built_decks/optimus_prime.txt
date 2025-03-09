@@ -1,6 +1,7 @@
 Optimus Prime, Hero // Optimus Prime, Autobot Leader
 Abzan Battle Priest
 Abzan Falconer
+Adarkar Wastes
 Ainok Bond-Kin
 Ancient Den
 Arcane Signet
@@ -23,10 +24,10 @@ Enthusiastic Mechanaut
 Esper Sentinel
 Etherium Sculptor
 Felidar Retreat
+Floodfarm Verge
 Foundry Inspector
 Gold-Forged Thopteryx
 Grateful Apparition
-Hallowed Fountain
 Imposter Mech
 Island
 Island
@@ -71,7 +72,6 @@ Research Thief
 Resourceful Defense
 Ripples of Potential
 Rustvale Bridge
-Sacred Foundry
 Scene of the Crime
 Shivan Reef
 Shorikai, Genesis Engine

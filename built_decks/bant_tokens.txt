@@ -1,5 +1,4 @@
 Galadriel, Light of Valinor
-Adeline, Resplendent Cathar
 Akroma's Will
 Aluren
 Ancient Gold Dragon
@@ -9,9 +8,8 @@ Avenger of Zendikar
 Basking Broodscale
 Beast Whisperer
 Bennie Bracks, Zoologist
-Birds of Paradise
-Boseiju, Who Endures
 Bountiful Promenade
+Bristly Bill, Spine Sower
 Bulwark Ox
 Caretaker's Talent
 Cauldron of Souls
@@ -30,6 +28,7 @@ Earthcraft
 Eladamri, Korvecdal
 Elven Ambush
 Envoy of the Ancestors
+Evolution Sage
 Evolution Witness
 Faerie Artisans
 Faerie Mastermind
@@ -44,14 +43,17 @@ Forest
 Forest
 Forest
 Forest
+Forest
 Gala Greeters
 Galadhrim Ambush
 Glen Elendra Archmage
 Gruff Triplets
+Gyre Sage
 Hallowed Fountain
 Herald of Secret Streams
 Herd Baloth
 Hinterland Harbor
+Hushwood Verge
 Imperious Perfect
 Incubation Druid
 Inspiring Call
@@ -67,7 +69,6 @@ Kodama of the West Tree
 Marketback Walker
 Master Biomancer
 Mystic Gate
-Noble Hierarch
 Otawara, Soaring City
 Overgrown Farmland
 Overwhelming Stampede
@@ -76,24 +77,23 @@ Plains
 Plains
 Plains
 Plains
-Rejuvenating Springs
 Rhystic Study
 Ripples of Potential
 Safehold Elite
+Seaside Citadel
 Shrieking Drake
 Sol Ring
-Spara's Headquarters
 Strength of the Harvest // Haven of the Harvest
+Sunpetal Grove
 Suppression Ray // Orderly Plaza
-Teferi's Protection
 Temple Garden
 Tendershoot Dryad
-Turntimber Symbiosis // Turntimber, Serpentine Wood
-Urza's Saga
+Thirsting Roots
+Tyvar, the Pummeler
 Virtue of Loyalty // Ardenvale Fealty
 Wave Goodbye
+Westvale Abbey // Ormendahl, Profane Prince
 Whitemane Lion
-Windswept Heath
 Windswift Slice
 Witch Enchanter // Witch-Blessed Meadow
 Wolverine Riders

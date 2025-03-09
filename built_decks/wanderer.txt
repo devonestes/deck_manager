@@ -4,8 +4,8 @@ Arcane Signet
 Avenger of Zendikar
 Averna, the Chaos Bloom
 Balefire Dragon
+Barkchannel Pathway // Tidechannel Pathway
 Bloom Tender
-Breeding Pool
 Cascade Bluffs
 Command Tower
 Consecrated Sphinx
@@ -27,6 +27,7 @@ Forest
 Forest
 Forest
 Forest
+Forest
 Genesis Ultimatum
 Goldspan Dragon
 Hinterland Harbor
@@ -38,6 +39,7 @@ Island
 Island
 Island
 Island
+Island
 Ketria Triome
 Klauth, Unrivaled Ancient
 Kogla and Yidaro
@@ -45,8 +47,9 @@ Kozilek's Unsealing
 Lurking Predators
 Migration Path
 Misthollow Griffin
-Misty Rainforest
 Monstrous Vortex
+Mountain
+Mountain
 Mountain
 Mountain
 Mountain
@@ -58,7 +61,6 @@ Omnath, Locus of Rage
 Orcish Lumberjack
 Otawara, Soaring City
 Pathbreaker Ibex
-Prismatic Vista
 Pyrewood Gearhulk
 Rampant Growth
 Ranger's Path
@@ -79,8 +81,6 @@ Snow-Covered Island
 Snow-Covered Mountain
 Sol Ring
 Somberwald Sage
-Steam Vents
-Stomping Ground
 Stormcarved Coast
 Sulfur Falls
 Sun Quan, Lord of Wu
@@ -88,13 +88,13 @@ Sunbird's Invocation
 Sylvan Library
 Temur Sabertooth
 Terror of the Peaks
+Thornspire Verge
+Thran Dynamo
 Three Visits
 Time Spiral
-Time Warp
 Vastwood Surge
 Vaultborn Tyrant
 Vorinclex // The Grand Evolution
 Vorinclex, Monstrous Raider
-Wooded Foothills
 Wurmcoil Engine
 Yavimaya Coast

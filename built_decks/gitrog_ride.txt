@@ -4,6 +4,7 @@ Assassin's Trophy
 Avenger of Zendikar
 Beanstalk Giant // Fertile Footsteps
 Beast Within
+Berserk
 Birds of Paradise
 Bojuka Bog
 Clackbridge Troll
@@ -14,7 +15,6 @@ Daemogoth Titan
 Daemogoth Woe-Eater
 Darkbore Pathway // Slitherbore Pathway
 Deadly Rollick
-Eternal Witness
 Farseek
 Forest
 Forest
@@ -42,10 +42,10 @@ Hungry Mist
 Hunted Bonebrute
 Hunted Horror
 Hunted Troll
+Iridescent Vinelasher
 Kalakscion, Hunger Tyrant
 Llanowar Elves
 Llanowar Wastes
-Lotus Cobra
 Lupine Prototype
 Nature's Lore
 Necroblossom Snarl
@@ -57,6 +57,7 @@ Pugnacious Hammerskull
 Quakestrider Ceratops
 Rampaging Baloths
 Rampant Growth
+Reanimate
 Relic Golem
 Reliquary Tower
 Retreat to Hagra
@@ -79,13 +80,12 @@ Swamp
 Swamp
 Tainted Wood
 Tamiyo's Safekeeping
-Tear Asunder
 Terrian, World Tyrant
+The Skullspore Nexus
 Thought Vessel
 Three Visits
 Tireless Provisioner
 Torment of Hailfire
-Toxic Deluge
 Underground Mortuary
 Undergrowth Stadium
 Unnatural Growth

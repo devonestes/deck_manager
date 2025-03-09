@@ -4,6 +4,7 @@
 1 Avenger of Zendikar (C13) 135
 1 Beanstalk Giant // Fertile Footsteps (ELD) 149
 1 Beast Within (ONC) 104
+1 Berserk (SLD) 1738
 1 Birds of Paradise (M12) 165
 1 Bojuka Bog (MOC) 391
 1 Clackbridge Troll (ELD) 84
@@ -14,7 +15,6 @@
 1 Daemogoth Woe-Eater (STX) 175
 1 Darkbore Pathway // Slitherbore Pathway (KHM) 292
 1 Deadly Rollick (CMM) 695
-1 Eternal Witness (M3C) 227
 1 Farseek (RVR) 138
 14 Forest (J22) 112
 1 Fyndhorn Elves (ICE) 244
@@ -29,10 +29,10 @@
 1 Hunted Bonebrute (MKM) 87
 1 Hunted Horror (CLB) 758
 1 Hunted Troll (RAV) 170
+1 Iridescent Vinelasher (BLB) 99
 1 Kalakscion, Hunger Tyrant (DFT) 93
 1 Llanowar Elves (FDN) 227
 1 Llanowar Wastes (BRO) 299
-1 Lotus Cobra (ZNR) 307
 1 Lupine Prototype (INR) 267
 1 Nature's Lore (DMR) 170
 1 Necroblossom Snarl (BLC) 319
@@ -44,6 +44,7 @@
 1 Quakestrider Ceratops (FDN) 110
 1 Rampaging Baloths (C19) 176
 1 Rampant Growth (M12) 190
+1 Reanimate (TMP) 151
 1 Relic Golem (ZNR) 249
 1 Reliquary Tower (BRC) 196
 1 Retreat to Hagra (C18) 116
@@ -59,13 +60,12 @@
 8 Swamp (LCI) 397
 1 Tainted Wood (PLST) TOR-143
 1 Tamiyo's Safekeeping (NEO) 211
-1 Tear Asunder (BLC) 241
 1 Terrian, World Tyrant (DFT) 182
+1 The Skullspore Nexus (LCI) 212
 1 Thought Vessel (PLG22) 2
 1 Three Visits (MKC) 189
 1 Tireless Provisioner (PLST) MH2-180
 1 Torment of Hailfire (HOU) 77
-1 Toxic Deluge (C13) 96
 1 Underground Mortuary (MKM) 333
 1 Undergrowth Stadium (CMM) 666
 1 Unnatural Growth (SLD) 865

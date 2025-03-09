@@ -40,6 +40,7 @@ Horn of Gondor
 Horn of the Mark
 Imperial Recruiter
 Island
+Izzet Signet
 Kiki-Jiki, Mirror Breaker
 Knight of the White Orchid
 Loran of the Third Path
@@ -86,7 +87,6 @@ Sulfur Falls
 Swan Song
 Swords to Plowshares
 Talisman of Conviction
-Talisman of Creativity
 Talisman of Progress
 Taunt from the Rampart
 Teferi's Protection

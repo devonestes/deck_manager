@@ -40,6 +40,7 @@
 1 Horn of the Mark (LTR) 241
 1 Imperial Recruiter (2XM) 131
 1 Island (LTR) 264
+1 Izzet Signet (NCC) 369
 1 Kiki-Jiki, Mirror Breaker (CHK) 175
 1 Knight of the White Orchid (MOC) 193
 1 Loran of the Third Path (BRO) 12
@@ -83,7 +84,6 @@
 1 Swan Song (LTC) 197
 1 Swords to Plowshares (LTC) 178
 1 Talisman of Conviction (LTC) 285
-1 Talisman of Creativity (MH1) 231
 1 Talisman of Progress (LTC) 286
 1 Taunt from the Rampart (LTC) 71
 1 Teferi's Protection (C17) 8

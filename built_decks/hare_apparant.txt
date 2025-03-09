@@ -2,7 +2,6 @@ Zinnia, Valley's Voice
 Adarkar Wastes
 Anointed Procession
 Arcane Signet
-Arid Mesa
 Austere Command
 Battlefield Forge
 Bennie Bracks, Zoologist
@@ -11,7 +10,6 @@ Clifftop Retreat
 Command Tower
 Delney, Streetwise Lookout
 Deserted Beach
-Devilish Valet
 Dusk // Dawn
 Elesh Norn, Mother of Machines
 Enduring Courage
@@ -62,11 +60,12 @@ Moonshaker Cavalry
 Mountain
 Mountain
 Mountain
+Mountain
 Mystic Gate
 Ojer Taq, Deepest Foundation // Temple of Civilization
 Panharmonicon
 Path to Exile
-Pearl Medallion
+Plains
 Plains
 Plains
 Plains
@@ -77,12 +76,13 @@ Plains
 Plains
 Plains
 Purphoros, God of the Forge
+Raise the Past
 Rally the Ranks
 Rapid Augmenter
 Roaming Throne
 Rush of Inspiration // Crackling Falls
 Sacred Foundry
-Scalding Tarn
+Selfless Spirit
 Skycloud Expanse
 Sol Ring
 Steam Vents
