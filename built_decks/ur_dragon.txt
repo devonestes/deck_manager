@@ -8,9 +8,9 @@ Bayou
 Beledros Witherbloom
 Birds of Paradise
 Blazemire Verge
-Blood Crypt
 Bloom Tender
 Bonehoard Dracosaur
+Brushland
 Cavern-Hoard Dragon
 City of Brass
 Command Tower
@@ -31,6 +31,7 @@ Farseek
 Fellwar Stone
 Forest
 Forest
+Forest
 Frontier Bivouac
 Ganax, Astral Hunter
 Godless Shrine
@@ -40,7 +41,6 @@ Hellkite Tyrant
 Herald's Horn
 Heroic Intervention
 Indatha Triome
-Island
 Island
 Jetmir's Garden
 Junji, the Midnight Sky
@@ -61,10 +61,10 @@ Omniscience
 Orb of Dragonkind
 Path of Ancestry
 Plains
-Plains
 Polluted Delta
 Raise the Palisade
 Rampant Growth
+Rejuvenating Springs
 Return of the Wildspeaker
 Rith, Liberated Primeval
 Rivaz of the Claw
@@ -83,7 +83,6 @@ Smuggler's Surprise
 Sol Ring
 Spara's Headquarters
 Swamp
-Swamp
 Swords to Plowshares
 Temple Garden
 Temple of the Dragon Queen
@@ -91,6 +90,7 @@ The Kami War // O-Kagachi Made Manifest
 Thornspire Verge
 Tiamat
 Twinflame Tyrant
+Unclaimed Territory
 Urza's Incubator
 Utvara Hellkite
 Watery Grave

@@ -8,9 +8,9 @@
 1 Beledros Witherbloom (STX) 163
 1 Birds of Paradise (4ED) 234
 1 Blazemire Verge (DSK) 329
-1 Blood Crypt (UNF) 279
 1 Bloom Tender (EVE) 66
 1 Bonehoard Dracosaur (LCI) 321
+1 Brushland (BRO) 259
 1 Cavern-Hoard Dragon (LTC) 114
 1 City of Brass (5ED) 413
 1 Command Tower (MOC) 396
@@ -29,7 +29,7 @@
 1 Exotic Orchard (MOC) 398
 1 Farseek (C19) 165
 1 Fellwar Stone (MOC) 356
-2 Forest (ONE) 266
+3 Forest (ONE) 266
 1 Frontier Bivouac (40K) 281
 1 Ganax, Astral Hunter (CLB) 176
 1 Godless Shrine (UNF) 282
@@ -39,7 +39,7 @@
 1 Herald's Horn (LTC) 280
 1 Heroic Intervention (LTC) 249
 1 Indatha Triome (IKO) 309
-2 Island (MOM) 278
+1 Island (MOM) 278
 1 Jetmir's Garden (SNC) 291
 1 Junji, the Midnight Sky (NEO) 409
 1 Karrthus, Tyrant of Jund (ARB) 117
@@ -57,10 +57,11 @@
 1 Omniscience (WOT) 70
 1 Orb of Dragonkind (AFR) 157
 1 Path of Ancestry (MOC) 418
-2 Plains (J22) 98
+1 Plains (J22) 98
 1 Polluted Delta (KTK) 239
 1 Raise the Palisade (LTC) 23
 1 Rampant Growth (M12) 190
+1 Rejuvenating Springs (LTC) 325
 1 Return of the Wildspeaker (ELD) 172
 1 Rith, Liberated Primeval (DMU) 214
 1 Rivaz of the Claw (DMU) 215
@@ -78,7 +79,7 @@
 1 Smuggler's Surprise (OTJ) 180
 1 Sol Ring (MOC) 381
 1 Spara's Headquarters (SNC) 293
-2 Swamp (J22) 106
+1 Swamp (J22) 106
 1 Swords to Plowshares (MOC) 211
 1 Temple Garden (UNF) 281
 1 Temple of the Dragon Queen (AFR) 260
@@ -86,6 +87,7 @@
 1 Thornspire Verge (DSK) 333
 1 Tiamat (AFR) 298
 1 Twinflame Tyrant (FDN) 97
+1 Unclaimed Territory (LCC) 366
 1 Urza's Incubator (C15) 273
 1 Utvara Hellkite (C17) 144
 1 Watery Grave (UNF) 278

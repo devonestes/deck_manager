@@ -1,205 +1,205 @@
-5,Sol Ring,Artifact,uncommon
-7,Command Tower,Land,common
-11,Arcane Signet,Artifact,common
-14,Exotic Orchard,Land,rare
-6,Reliquary Tower,Land,uncommon
-6,Swords to Plowshares,Instant,uncommon
-2,Swiftfoot Boots,Artifact — Equipment,uncommon
-1,Lightning Greaves,Artifact — Equipment,uncommon
-12,Path of Ancestry,Land,common
-4,Path to Exile,Instant,uncommon
-4,Cultivate,Sorcery,common
-13,Evolving Wilds,Land,common
-10,Fellwar Stone,Artifact,uncommon
-6,Counterspell,Instant,uncommon
-4,Rogue's Passage,Land,uncommon
-9,Myriad Landscape,Land,uncommon
-4,Beast Within,Instant,uncommon
-5,Thought Vessel,Artifact,common
-6,Mind Stone,Artifact,uncommon
-9,Rampant Growth,Sorcery,common
-22,Terramorphic Expanse,Land,common
-4,Chaos Warp,Instant,rare
-4,Bojuka Bog,Land,common
-8,Commander's Sphere,Artifact,common
-3,Solemn Simulacrum,Artifact Creature — Golem,rare
-2,Rhystic Study,Enchantment,rare
-1,Cyclonic Rift,Instant,mythic
-17,Dark Ritual,Instant,common
-5,Generous Gift,Instant,uncommon
-4,Negate,Instant,common
-1,Marsh Flats,Land,rare
-5,Demonic Tutor,Sorcery,mythic
-1,An Offer You Can't Refuse,Instant,uncommon
-5,Brainstorm,Instant,common
-16,Arcane Denial,Instant,common
-3,Llanowar Elves,Creature — Elf Druid,common
-10,Temple of the False God,Land,uncommon
-5,Wayfarer's Bauble,Artifact,common
-1,Urborg, Tomb of Yawgmoth,Legendary Land,rare
-2,Chromatic Lantern,Artifact,rare
-1,Esper Sentinel,Artifact Creature — Human Soldier,rare
-2,Godless Shrine,Land — Plains Swamp,rare
-1,Fabled Passage,Land,rare
-2,Feed the Swarm,Sorcery,common
-3,Vampiric Tutor,Instant,mythic
-1,Teferi's Protection,Instant,rare
-1,Boseiju, Who Endures,Legendary Land,rare
-5,Sunken Hollow,Land — Island Swamp,rare
-2,Sakura-Tribe Elder,Creature — Snake Shaman,common
-3,Cinder Glade,Land — Mountain Forest,rare
-1,Elvish Mystic,Creature — Elf Druid,common
-2,Swan Song,Instant,rare
-3,Faithless Looting,Sorcery,common
-3,Talisman of Dominance,Artifact,uncommon
-1,City of Brass,Land,rare
-3,Enlightened Tutor,Instant,rare
-2,Deflecting Swat,Instant,rare
-6,Canopy Vista,Land — Forest Plains,rare
-1,Phyrexian Arena,Enchantment,rare
-2,The One Ring,Legendary Artifact,mythic
-1,Vandalblast,Sorcery,uncommon
-7,Prairie Stream,Land — Plains Island,rare
-2,Garruk's Uprising,Enchantment,uncommon
-2,Smoldering Marsh,Land — Swamp Mountain,rare
-3,Mana Drain,Instant,mythic
-4,Ashnod's Altar,Artifact,uncommon
-3,Dimir Signet,Artifact,common
-1,Mana Confluence,Land,rare
-2,Mystical Tutor,Instant,rare
-1,Cavern of Souls,Land,mythic
-2,Lotus Petal,Artifact,uncommon
-1,Drowned Catacomb,Land,rare
-2,Rakdos Signet,Artifact,uncommon
-1,Caves of Koilos,Land,rare
-1,Morphic Pool,Land,rare
-4,Worldly Tutor,Instant,rare
-3,Herald's Horn,Artifact,uncommon
-2,Izzet Signet,Artifact,common
-2,Windfall,Sorcery,uncommon
-1,Rejuvenating Springs,Land,rare
-1,Mana Vault,Artifact,mythic
-1,War Room,Land,rare
-1,Ponder,Sorcery,common
-1,Return of the Wildspeaker,Instant,rare
-3,Orzhov Signet,Artifact,uncommon
-1,Yavimaya Coast,Land,rare
-2,Talisman of Indulgence,Artifact,uncommon
-1,Victimize,Sorcery,uncommon
-1,Blood Artist,Creature — Vampire,uncommon
-3,Farewell,Sorcery,rare
-2,Propaganda,Enchantment,uncommon
-2,Austere Command,Sorcery,rare
-1,Battlefield Forge,Land,rare
-1,Mystic Sanctuary,Land — Island,common
-2,Vault of Champions,Land,rare
-1,Talisman of Hierarchy,Artifact,uncommon
-2,Pongify,Instant,uncommon
-2,Deadly Rollick,Instant,rare
-4,Azorius Signet,Artifact,uncommon
-1,Deadly Dispute,Instant,common
-5,Abrade,Instant,common
-1,Black Market Connections,Enchantment,rare
-1,Llanowar Wastes,Land,rare
-1,Beast Whisperer,Creature — Elf Druid,rare
-1,Force of Will,Instant,mythic
-1,Cabal Coffers,Land,mythic
-2,Talisman of Progress,Artifact,uncommon
-3,Lightning Bolt,Instant,uncommon
-1,Ghostly Prison,Enchantment,uncommon
-2,Tireless Provisioner,Creature — Elf Scout,uncommon
-2,Sylvan Library,Enchantment,mythic
-14,Wild Growth,Enchantment — Aura,common
-2,Boros Signet,Artifact,common
-1,Rhythm of the Wild,Enchantment,uncommon
-1,Underground River,Land,rare
-1,Preordain,Sorcery,common
-4,Unclaimed Territory,Land,uncommon
-4,Thrill of Possibility,Instant,common
-6,Ash Barrens,Land,common
-3,Village Rites,Instant,common
-4,Mosswort Bridge,Land,rare
-3,Growth Spiral,Instant,common
-3,Reclamation Sage,Creature — Elf Shaman,uncommon
-1,Impact Tremors,Enchantment,common
-1,Sign in Blood,Sorcery,common
-1,Thran Dynamo,Artifact,uncommon
-2,Zulaport Cutthroat,Creature — Human Rogue Ally,uncommon
-1,Mirkwood Bats,Creature — Bat,common
-1,Gamble,Sorcery,rare
-2,Animate Dead,Enchantment — Aura,uncommon
-2,Opt,Instant,common
-5,Secluded Courtyard,Land,uncommon
-2,Shipwreck Marsh,Land,rare
-2,Terminate,Instant,common
-3,Syr Konrad, the Grim,Legendary Creature — Human Knight,uncommon
-1,Dockside Extortionist,Creature — Goblin Pirate,mythic
-3,Idol of Oblivion,Artifact,rare
-2,Jeweled Lotus,Artifact,mythic
-1,Gray Merchant of Asphodel,Creature — Zombie,uncommon
-1,Crop Rotation,Instant,uncommon
-2,Everflowing Chalice,Artifact,uncommon
-1,Viscera Seer,Creature — Vampire Wizard,common
-2,Rapid Hybridization,Instant,uncommon
-1,Command Beacon,Land,rare
-2,Etali, Primal Storm,Legendary Creature — Elder Dinosaur,rare
-2,Sun Titan,Creature — Giant,mythic
-1,Doubling Season,Enchantment,mythic
-3,Big Score,Instant,common
-2,Ornithopter of Paradise,Artifact Creature — Thopter,common
-1,Simic Growth Chamber,Land,uncommon
-2,Mox Opal,Legendary Artifact,mythic
-3,Explore,Sorcery,common
-3,Reality Shift,Instant,uncommon
-1,Hardened Scales,Enchantment,rare
-3,Orcish Bowmasters,Creature — Orc Archer,rare
-4,Mithril Coat,Legendary Artifact — Equipment,rare
-1,Diabolic Intent,Sorcery,rare
-2,Temple of Epiphany,Land,rare
-2,Mox Amber,Legendary Artifact,mythic
-1,Adarkar Wastes,Land,rare
-4,Temple of Silence,Land,rare
-3,Dimir Aqueduct,Land,uncommon
-3,Choked Estuary,Land,rare
-2,Temple of Deceit,Land,rare
-2,Shamanic Revelation,Sorcery,rare
-1,Nature's Claim,Instant,common
-1,Foundry Inspector,Artifact Creature — Construct,common
-4,Vanquisher's Banner,Artifact,rare
-3,Harmonize,Sorcery,uncommon
-3,Academy Manufactor,Artifact Creature — Assembly-Worker,rare
-5,Burnished Hart,Artifact Creature — Elk,uncommon
-3,Stroke of Midnight,Instant,uncommon
-5,Temple of Mystery,Land,rare
-1,Anointed Procession,Enchantment,rare
-2,Pitiless Plunderer,Creature — Human Pirate,uncommon
-1,Phyrexian Altar,Artifact,rare
-4,Jungle Shrine,Land,uncommon
-1,Damnation,Sorcery,rare
-1,Dauthi Voidwalker,Creature — Dauthi Rogue,rare
-5,Temple of Triumph,Land,rare
-3,Golgari Rot Farm,Land,uncommon
-4,Finale of Devastation,Sorcery,mythic
-1,Read the Bones,Sorcery,common
-2,Ragavan, Nimble Pilferer,Legendary Creature — Monkey Pirate,mythic
-7,Temple of Enlightenment,Land,rare
-1,Jetmir's Garden,Land — Mountain Forest Plains,rare
-2,Izzet Boilerworks,Land,uncommon
-3,Darkwater Catacombs,Land,rare
-1,Inspiring Call,Instant,uncommon
-3,Utopia Sprawl,Enchantment — Aura,uncommon
-1,Orzhov Basilica,Land,uncommon
-1,Mondrak, Glory Dominus,Legendary Creature — Phyrexian Horror,mythic
-3,Crumbling Necropolis,Land,uncommon
-1,Foreboding Ruins,Land,rare
-1,Go for the Throat,Instant,uncommon
-1,Brushland,Land,rare
-1,Haunted Ridge,Land,rare
-2,Game Trail,Land,rare
-4,Temple of Malady,Land,rare
-1,Thassa's Oracle,Creature — Merfolk Wizard,rare
-2,Snap,Instant,common
-4,Port Town,Land,rare
+5 Sol Ring
+7 Command Tower
+11 Arcane Signet
+14 Exotic Orchard
+6 Reliquary Tower
+6 Swords to Plowshares
+2 Swiftfoot Boots
+1 Lightning Greaves
+12 Path of Ancestry
+4 Path to Exile
+4 Cultivate
+13 Evolving Wilds
+10 Fellwar Stone
+6 Counterspell
+4 Rogue's Passage
+9 Myriad Landscape
+4 Beast Within
+5 Thought Vessel
+6 Mind Stone
+9 Rampant Growth
+22 Terramorphic Expanse
+4 Chaos Warp
+4 Bojuka Bog
+8 Commander's Sphere
+3 Solemn Simulacrum
+2 Rhystic Study
+1 Cyclonic Rift
+17 Dark Ritual
+5 Generous Gift
+4 Negate
+1 Marsh Flats
+5 Demonic Tutor
+1 An Offer You Can't Refuse
+5 Brainstorm
+16 Arcane Denial
+3 Llanowar Elves
+10 Temple of the False God
+5 Wayfarer's Bauble
+1 Urborg
+2 Chromatic Lantern
+1 Esper Sentinel
+2 Godless Shrine
+1 Fabled Passage
+2 Feed the Swarm
+3 Vampiric Tutor
+1 Teferi's Protection
+1 Boseiju
+5 Sunken Hollow
+2 Sakura-Tribe Elder
+3 Cinder Glade
+1 Elvish Mystic
+2 Swan Song
+3 Faithless Looting
+3 Talisman of Dominance
+1 City of Brass
+3 Enlightened Tutor
+2 Deflecting Swat
+6 Canopy Vista
+1 Phyrexian Arena
+2 The One Ring
+1 Vandalblast
+7 Prairie Stream
+2 Garruk's Uprising
+2 Smoldering Marsh
+3 Mana Drain
+4 Ashnod's Altar
+3 Dimir Signet
+1 Mana Confluence
+2 Mystical Tutor
+1 Cavern of Souls
+2 Lotus Petal
+1 Drowned Catacomb
+2 Rakdos Signet
+1 Caves of Koilos
+1 Morphic Pool
+4 Worldly Tutor
+3 Herald's Horn
+2 Izzet Signet
+2 Windfall
+1 Rejuvenating Springs
+1 Mana Vault
+1 War Room
+1 Ponder
+1 Return of the Wildspeaker
+3 Orzhov Signet
+1 Yavimaya Coast
+2 Talisman of Indulgence
+1 Victimize
+1 Blood Artist
+3 Farewell
+2 Propaganda
+2 Austere Command
+1 Battlefield Forge
+1 Mystic Sanctuary
+2 Vault of Champions
+1 Talisman of Hierarchy
+2 Pongify
+2 Deadly Rollick
+4 Azorius Signet
+1 Deadly Dispute
+5 Abrade
+1 Black Market Connections
+1 Llanowar Wastes
+1 Beast Whisperer
+1 Force of Will
+1 Cabal Coffers
+2 Talisman of Progress
+3 Lightning Bolt
+1 Ghostly Prison
+2 Tireless Provisioner
+2 Sylvan Library
+14 Wild Growth
+2 Boros Signet
+1 Rhythm of the Wild
+1 Underground River
+1 Preordain
+4 Unclaimed Territory
+4 Thrill of Possibility
+6 Ash Barrens
+3 Village Rites
+4 Mosswort Bridge
+3 Growth Spiral
+3 Reclamation Sage
+1 Impact Tremors
+1 Sign in Blood
+1 Thran Dynamo
+2 Zulaport Cutthroat
+1 Mirkwood Bats
+1 Gamble
+2 Animate Dead
+2 Opt
+5 Secluded Courtyard
+2 Shipwreck Marsh
+2 Terminate
+3 Syr Konrad
+1 Dockside Extortionist
+3 Idol of Oblivion
+2 Jeweled Lotus
+1 Gray Merchant of Asphodel
+1 Crop Rotation
+2 Everflowing Chalice
+1 Viscera Seer
+2 Rapid Hybridization
+1 Command Beacon
+2 Etali
+2 Sun Titan
+1 Doubling Season
+3 Big Score
+2 Ornithopter of Paradise
+1 Simic Growth Chamber
+2 Mox Opal
+3 Explore
+3 Reality Shift
+1 Hardened Scales
+3 Orcish Bowmasters
+4 Mithril Coat
+1 Diabolic Intent
+2 Temple of Epiphany
+2 Mox Amber
+1 Adarkar Wastes
+4 Temple of Silence
+3 Dimir Aqueduct
+3 Choked Estuary
+2 Temple of Deceit
+2 Shamanic Revelation
+1 Nature's Claim
+1 Foundry Inspector
+4 Vanquisher's Banner
+3 Harmonize
+3 Academy Manufactor
+5 Burnished Hart
+3 Stroke of Midnight
+5 Temple of Mystery
+1 Anointed Procession
+2 Pitiless Plunderer
+1 Phyrexian Altar
+4 Jungle Shrine
+1 Damnation
+1 Dauthi Voidwalker
+5 Temple of Triumph
+3 Golgari Rot Farm
+4 Finale of Devastation
+1 Read the Bones
+2 Ragavan
+7 Temple of Enlightenment
+1 Jetmir's Garden
+2 Izzet Boilerworks
+3 Darkwater Catacombs
+1 Inspiring Call
+3 Utopia Sprawl
+1 Orzhov Basilica
+1 Mondrak
+3 Crumbling Necropolis
+1 Foreboding Ruins
+1 Go for the Throat
+1 Brushland
+1 Haunted Ridge
+2 Game Trail
+4 Temple of Malady
+1 Thassa's Oracle
+2 Snap
+4 Port Town
 1,Geier Reach Sanitarium,Legendary Land,rare
 1,Phyrexian Metamorph,Artifact Creature — Phyrexian Shapeshifter,rare
 1,Shadowspear,Legendary Artifact — Equipment,rare
