@@ -80,6 +80,7 @@ Plains
 Rhystic Study
 Ripples of Potential
 Safehold Elite
+Sea of Clouds
 Seaside Citadel
 Shrieking Drake
 Sol Ring
@@ -92,7 +93,6 @@ Thirsting Roots
 Tyvar, the Pummeler
 Virtue of Loyalty // Ardenvale Fealty
 Wave Goodbye
-Westvale Abbey // Ormendahl, Profane Prince
 Whitemane Lion
 Windswift Slice
 Witch Enchanter // Witch-Blessed Meadow

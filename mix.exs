@@ -22,6 +22,7 @@ defmodule DeckManager.MixProject do
   defp aliases do
     [
       build: &build/1,
+      show_remaining: &show_remaining/1,
       download: &download/1,
       diff: &diff/1
     ]
@@ -45,6 +46,11 @@ defmodule DeckManager.MixProject do
   defp diff([first, second]) do
     Mix.Task.run("app.start")
     DeckManager.diff(first, second)
+  end
+
+  defp show_remaining([]) do
+    Mix.Task.run("app.start")
+    DeckManager.show_remaining()
   end
 
   # Run "mix help deps" to learn about dependencies.
