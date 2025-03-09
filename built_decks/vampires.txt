@@ -1,3 +1,4 @@
+Caves of Koilos (PROXY)
 Edgar Markov
 Agadeem's Awakening // Agadeem, the Undercrypt
 Akroma's Will
@@ -18,7 +19,6 @@ Bloodstained Mire
 Bloodthirsty Conqueror
 Captivating Vampire
 Cavern of Souls
-Caves of Koilos
 Champion of Dusk
 Changeling Outcast
 Charismatic Conqueror
