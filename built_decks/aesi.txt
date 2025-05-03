@@ -26,6 +26,7 @@ Exploration
 Fabled Passage
 Fecund Greenshell
 Field of the Dead
+Finale of Revelation
 Flooded Shoreline
 Flooded Strand
 Forest
@@ -49,7 +50,6 @@ Koma, Cosmos Serpent
 Koma, World-Eater
 Last March of the Ents
 Llanowar Scout
-Loot, Exuberant Explorer
 Lotus Cobra
 Lotus Vale
 Lumbering Worldwagon

@@ -29,7 +29,7 @@
 1 Exotic Orchard (MOC) 398
 1 Farseek (C19) 165
 1 Fellwar Stone (MOC) 356
-3 Forest (ONE) 266
+2 Forest (ONE) 266
 1 Frontier Bivouac (40K) 281
 1 Ganax, Astral Hunter (CLB) 176
 1 Godless Shrine (UNF) 282
@@ -90,6 +90,7 @@
 1 Unclaimed Territory (LCC) 366
 1 Urza's Incubator (C15) 273
 1 Utvara Hellkite (C17) 144
+1 Vault of Champions (CMM) 667
 1 Watery Grave (UNF) 278
 1 Xander's Lounge (SNC) 294
 1 Yavimaya Coast (DMU) 261

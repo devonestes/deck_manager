@@ -65,7 +65,7 @@
 1 Plains (J22) 98
 1 Reflecting Pool (LTC) 373
 1 Roaming Throne (LCI) 344
-1 Rugged Prairie (2XM) 325
+1 Rugged Prairie (BLC) 327
 1 Ruinous Ultimatum (PIP) 220
 1 Sacred Foundry (UNF) 285
 1 Sanctum Seeker (LCC) 209

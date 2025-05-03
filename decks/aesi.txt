@@ -26,6 +26,7 @@
 1 Fabled Passage (ELD) 244
 1 Fecund Greenshell (BLB) 362
 1 Field of the Dead (M20) 247
+1 Finale of Revelation (M3C) 185
 1 Flooded Shoreline (VIS) 32
 1 Flooded Strand (KTK) 233
 5 Forest (J22) 110
@@ -41,7 +42,6 @@
 1 Koma, World-Eater (FDN) 121
 1 Last March of the Ents (LTR) 418
 1 Llanowar Scout (DOM) 170
-1 Loot, Exuberant Explorer (FDN) 106
 1 Lotus Cobra (BLC) 229
 1 Lotus Vale (WTH) 165
 1 Lumbering Worldwagon (DFT) 168

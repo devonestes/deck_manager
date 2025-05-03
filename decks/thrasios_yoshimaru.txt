@@ -13,6 +13,7 @@
 1 Boseiju, Who Endures (NEO) 501
 1 Breeding Pool (RVR) 399
 1 Cephalid Coliseum (MH3) 300
+1 Chain of Vapor (MB2) 156
 1 Chord of Calling (RAV) 156
 1 Chrome Mox (2XM) 240
 1 Command Tower (MOC) 396
@@ -28,7 +29,6 @@
 1 Esper Sentinel (MH2) 12
 1 Eternal Witness (M3C) 227
 1 Exotic Orchard (MOC) 398
-1 Faeburrow Elder (BLC) 252
 1 Faerie Mastermind (PMOM) 58p
 1 Fierce Guardianship (C20) 35
 1 Finale of Devastation (WAR) 160

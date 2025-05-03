@@ -7,6 +7,7 @@ Archmage of Runes
 Ashling, Flame Dancer
 Big Score
 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+Bohn, Beguiling Balladeer
 Brainsurge
 Brazen Borrower // Petty Theft
 Breeding Pool
@@ -84,7 +85,6 @@ Stomping Ground
 Storm-Kiln Artist
 Sulfur Falls
 Sword of Wealth and Power
-Tatyova, Benthic Druid
 Time Warp
 Training Center
 Treachery

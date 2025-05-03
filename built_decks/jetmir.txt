@@ -25,9 +25,11 @@ Dryad Arbor
 Eiganjo, Seat of the Empire
 Elesh Norn, Grand Cenobite
 Elvish Mystic
+Enduring Vitality
 Esper Sentinel
 Everybody Lives!
 Exotic Orchard
+Faeburrow Elder
 Final Fortune
 Flooded Strand
 Forbidden Orchard
@@ -38,6 +40,7 @@ Fyndhorn Elves
 Genasi Enforcers
 Giver of Runes
 Gloryheath Lynx
+Grand Crescendo
 Grenzo, Havoc Raiser
 Heroic Intervention
 Hushbringer
@@ -75,7 +78,6 @@ Searslicer Goblin
 Secure the Wastes
 Serra Ascendant
 Skyhunter Strike Force
-Slicer, Hired Muscle // Slicer, High-Speed Antagonist
 Sol Ring
 Song of Totentanz
 Sovereign Okinec Ahau
@@ -88,9 +90,7 @@ Temple Garden
 Tendershoot Dryad
 Thalia, Guardian of Thraben
 Toski, Bearer of Secrets
-Varchild's War-Riders
 Verdant Catacombs
-Warden of the Inner Sky
 Weathered Wayfarer
 Wild Growth
 Windswept Heath

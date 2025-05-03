@@ -13,6 +13,7 @@ Bloom Tender
 Boseiju, Who Endures
 Breeding Pool
 Cephalid Coliseum
+Chain of Vapor
 Chord of Calling
 Chrome Mox
 Command Tower
@@ -28,7 +29,6 @@ Enlightened Tutor
 Esper Sentinel
 Eternal Witness
 Exotic Orchard
-Faeburrow Elder
 Faerie Mastermind
 Fierce Guardianship
 Finale of Devastation

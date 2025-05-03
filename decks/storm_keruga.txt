@@ -7,6 +7,7 @@
 1 Ashling, Flame Dancer (MH3) 367
 1 Big Score (SNC) 102
 1 Birgi, God of Storytelling // Harnfel, Horn of Bounty (KHM) 123
+1 Bohn, Beguiling Balladeer (SLX) 30
 1 Brainsurge (MH3) 53
 1 Brazen Borrower // Petty Theft (SLD) 234
 1 Breeding Pool (RVR) 399
@@ -35,7 +36,7 @@
 1 Hour of Promise (M3C) 232
 1 Ice Storm (SLD) 1745
 7 Island (BLB) 372
-1 Jeska's Will (CMR) 668
+1 Jeska's Will (SLD) 1744
 1 Jin-Gitaxias, Progress Tyrant (NEO) 59
 1 Kellan, Inquisitive Prodigy // Tail the Suspect (MKM) 334
 1 Ketria Triome (IKO) 310
@@ -68,7 +69,6 @@
 1 Storm-Kiln Artist (OTC) 181
 1 Sulfur Falls (LTC) 333
 1 Sword of Wealth and Power (BIG) 56
-1 Tatyova, Benthic Druid (FDN) 247
 1 Time Warp (STA) 22
 1 Training Center (CMR) 713
 1 Treachery (UDS) 50

@@ -31,7 +31,6 @@ Farseek
 Fellwar Stone
 Forest
 Forest
-Forest
 Frontier Bivouac
 Ganax, Astral Hunter
 Godless Shrine
@@ -93,6 +92,7 @@ Twinflame Tyrant
 Unclaimed Territory
 Urza's Incubator
 Utvara Hellkite
+Vault of Champions
 Watery Grave
 Xander's Lounge
 Yavimaya Coast

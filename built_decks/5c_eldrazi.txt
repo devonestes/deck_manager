@@ -1,4 +1,3 @@
-Underground River (PROXY)
 Ulalek, Fused Atrocity
 Adarkar Wastes
 All Is Dust
@@ -86,6 +85,7 @@ Ulamog, the Ceaseless Hunger
 Ulamog, the Defiler
 Ulamog, the Infinite Gyre
 Unclaimed Territory
+Underground River
 Urza's Incubator
 Urza's Mine
 Urza's Power Plant
