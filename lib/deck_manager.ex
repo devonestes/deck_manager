@@ -1,8 +1,6 @@
 defmodule DeckManager do
   @decks [
     {"cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"},
-    #{"dimir_standard", "-htf3CURw0qUOSaKDyHfkw", "9ae96343-774f-42aa-83a2-47da2aa26b4e"},
-    #{"esper_pixie", "YMpYPatCsEqzxN__9hKB0w", "02694376-98d0-4225-9697-73e864a27c6e"},
     {"dandan", "vN9isPEhfUuM3UUh7JCHJg", "800bbb43-8c98-4126-80d3-8a2ae9991d7c"},
     {"thrasios_yoshimaru", "Bdwllw3tYka3tSfVrO6K5w", "d8b70926-1071-4c85-ac12-3b23ee79399b"},
     {"vampires", "jOUImhiaykKSYanHfKmkLA", "28309948-82fd-41f6-ab59-c18e3689e77d"},
@@ -13,7 +11,6 @@ defmodule DeckManager do
     {"5c_eldrazi", "05p1hDvFX0C63tM3pfe2LA", "fc411984-9974-44fe-9959-5108a32fb532"},
     {"aesi", "x3NtuV2jeEKPVA8YJVwkjA", "10f01741-98b9-4741-a9ad-7d31419ec516"},
     {"mishra", "ynyDvRw8G0Kmrajlp_UegA", "a735961f-9d0e-4fa7-8ca8-7035e88b06d6"},
-    {"meria", "Bu_ZwfjumUuFD1KuH2_FqQ", "40faed00-3b8a-4fbc-a711-aa8f753f1ab0"},
     {"storm_keruga", "GyHvudWmvkOgn3jMS4haqQ", "8e84f597-a92e-46ea-bfff-302db88991b1"},
     {"wolverine", "rrjD_aYBqk-KQ5dxPkOQJg", "a430ce29-b4ec-44b6-a7e7-e959b02abcba"},
     {"monarch", "aHQmX2i_i0-hUQpdq0ta5w", "d5af5f3f-60ef-442e-a378-ac21792a1471"},
@@ -23,19 +20,22 @@ defmodule DeckManager do
     {"bant_tokens", "1CtjbDS54kOSqeGlg2t22Q", "ff27a0e1-a95e-4d84-951e-a491ab20f1e4"},
     {"wanderer", "IoR8Jb5aB0ulmNOtWs5RZg", "e59cf956-680f-436a-b200-068f5962eaf1"},
     {"optimus_prime", "pLyCNHUPG02p0v5oY7HJLQ", "1f758cc9-15db-47c5-b78d-2b8f62e83a72"},
-    {"ur_dragon", "KSVzZ4Os-UKKFXud4-5Vnw", "acc8bcd4-3eea-4ada-9a4e-a70b43623366"}
+    {"ur_dragon", "KSVzZ4Os-UKKFXud4-5Vnw", "acc8bcd4-3eea-4ada-9a4e-a70b43623366"},
+    # {"felix_five_boots", "eJaeGUes4kC8XAqlKlyfEA", "bb40196d-9440-4d5e-9448-582e2d704f18"},
+    # {"doric", "r-Uw7LJz-EC5xeTvSLxcqg", "abd873c1-6927-422e-aef8-269d4d6e92d4"}
+    # {"meria", "Bu_ZwfjumUuFD1KuH2_FqQ", "40faed00-3b8a-4fbc-a711-aa8f753f1ab0"},
     # {"temur_cube", "9aAuKWFZv0iOIzb_dHaQRQ", "e084d46c-ccdf-4bd9-a461-12711b6cb375"},
     # {"peasant_cube", "xaM0NeOpV02u1g3LaG7nXQ", "ee59e00e-f986-468a-b751-44b878eaa5b1"},
     # {"pauper_cube", "xTLumPuQs0e-4oWb2izZyw", "a615477e-c305-484a-b10b-eca8200aa213"},
     # {"duskmourn_remastered", "In_QeFJrrk-6lenOjdG73w", "49cc2a21-50bd-4e09-9baa-d8740fb39c99"},
     # {"aristocats", "TYqGCS46qEaJMRKsasgcCQ", "be34ece7-5d32-44c3-b0e4-fa452b151cbc"},
     # {"dinos", "3Ekcem0mLk6xskQ8U5FJBg", "b80cc791-fcd2-4abc-af12-e7d8b18240f0"},
-    # {"kudo_hydras", "IC5cJBoBUUaQm9lrskUF6A", "51a8d379-9bc2-4f10-b584-68695873c4f8"},
+    # {"kudo_hydras", "IC5cJBoBUUaQm9lrskUF6A", "51a8d379-9bc2-4f10-b584-68695873c4f8"}
     # {"rusko", "M1VrL9dGFUiGiBL8eVTLqA", "d6aee0a6-2152-41c9-937f-6e06d6e16a45"},
     # {"izzet_spells", "HDyCBqmROkW0McecXAyHlQ", "87941965-d7b5-4e8b-996c-438ad40c6933"},
     # {"wolverine_3_drops", "JjsS9GSxWEq4JUP2Wpgk1A", "aaa89c83-9ecf-4bbc-b339-5ae439d46bad"},
     # {"eldrazi", "sB9e88BQ5UqFwb6tBUS2_w", "ae56d72e-baeb-4dee-9719-befc8c4d2256"},
-    # {"slivers", "G69IYzuFrkKvwQMumlgJog", "0c02b3ee-7672-4446-8178-b1fe4005a0ae"},
+    {"slivers", "G69IYzuFrkKvwQMumlgJog", "0c02b3ee-7672-4446-8178-b1fe4005a0ae"},
     # {"mono_blue_aggro", "v9iSDv4nO0im3LQ2sgpm0g", "3c6ed9e8-51d7-449e-be16-dbed52c101d8"},
     # {"korvold", "z3o8vEq1lEm0sk7cGP9_9g", "74060e7a-59a6-4e84-877f-9ff761c4237b"},
     # {"x_spells", "i1LRiXwbGEy1FC6weByOdQ", "f9c228f7-a0fa-4043-ab01-6505e1218c64"},
@@ -45,13 +45,14 @@ defmodule DeckManager do
     # {"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
     # {"mw_control", "j8XE7zIQ70O5vRXmD5Ua3g", "bcad72f6-57ea-474d-aef7-a19a9f74931f"},
     # {"mirko", "yYJUeFoCNEaoTg8kBQgt6w", "cfcdd050-f39b-4302-8689-5b244bb2ddfd"},
-    # {"doric", "r-Uw7LJz-EC5xeTvSLxcqg", "abd873c1-6927-422e-aef8-269d4d6e92d4"},
     # {"chatterfang", "qEQ49yCVEUqgPw9CG6w3cw", "e6c047ef-21c6-45d6-91a9-a7217d324de0"},
     # {"nazgul", "qp4inpYaK0Sm0gpwS0XXqQ", "80b455f0-e71b-4cb2-8186-1d594c8504ea"},
     # {"thalrog", "pXSEOh3nJUun86gLXS-DmQ", "710dd6ff-eebe-40c8-b4ef-ab416d2b616c"},
     # {"knights", "5F_piVq7KUKAwdAP2tw9Rw", "f4990f31-316c-4447-991d-a6aa77fabb7e"},
     # {"storm", "5QhHPYUuA0WaXwbL1L9JXg", "f90e064f-a71a-48ef-856f-0eab72cd5e8e"},
     # {"galadriel_cedh", "WT-etujvYUWLAa_ux-wUgA", "c20fbf07-be33-482f-996f-3a8d9800ff9b"},
+    # {"dimir_standard", "-htf3CURw0qUOSaKDyHfkw", "9ae96343-774f-42aa-83a2-47da2aa26b4e"},
+    # {"esper_pixie", "YMpYPatCsEqzxN__9hKB0w", "02694376-98d0-4225-9697-73e864a27c6e"},
   ]
 
   def run() do

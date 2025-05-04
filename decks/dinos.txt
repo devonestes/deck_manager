@@ -52,6 +52,7 @@
 2 Plains (J22) 98
 1 Polyraptor (RIX) 144
 1 Prismatic Vista (MH1) 244
+1 Quartzwood Crasher (LCC) 281
 1 Rampant Growth (M12) 190
 1 Ranging Raptors (LCC) 249
 1 Regal Behemoth (LCC) 251
@@ -85,7 +86,6 @@
 1 Unclaimed Territory (LCC) 366
 1 Urza's Incubator (C15) 273
 1 Urza's Saga (MH2) 259
-1 Vaultborn Tyrant (BIG) 50
 1 Verdant Catacombs (MM3) 249
 1 Welcome to . . . // Jurassic Park (REX) 7
 1 Windswept Heath (KTK) 248

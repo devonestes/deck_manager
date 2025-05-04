@@ -17,7 +17,7 @@
 2,Etali, Primal Storm,Legendary Creature — Elder Dinosaur,rare
 2,Sun Titan,Creature — Giant,mythic
 3,Academy Manufactor,Artifact Creature — Assembly-Worker,rare
-1,Foundry Inspector,Artifact Creature — Construct,common
+2,Foundry Inspector,Artifact Creature — Construct,common
 2,Pitiless Plunderer,Creature — Human Pirate,uncommon
 5,Burnished Hart,Artifact Creature — Elk,uncommon
 1,Dockside Extortionist,Creature — Goblin Pirate,mythic
@@ -26,6 +26,7 @@
 1,Braids, Arisen Nightmare,Legendary Creature — Nightmare,rare
 1,Phyrexian Metamorph,Artifact Creature — Phyrexian Shapeshifter,rare
 1,Thassa's Oracle,Creature — Merfolk Wizard,rare
+1,Toski, Bearer of Secrets,Legendary Creature — Squirrel,rare
 1,Opposition Agent,Creature — Human Rogue,rare
 1,Spark Double,Creature — Illusion,rare
 1,Rampaging Baloths,Creature — Beast,rare
@@ -64,6 +65,7 @@
 1,Goblin Electromancer,Creature — Goblin Wizard,common
 1,Rishkar, Peema Renegade,Legendary Creature — Elf Druid,uncommon
 1,Goreclaw, Terror of Qal Sisma,Legendary Creature — Bear,uncommon
+1,Reckless Fireweaver,Creature — Human Artificer,common
 1,Mesa Enchantress,Creature — Human Druid,rare
 1,Niv-Mizzet, Parun,Legendary Creature — Dragon Wizard,rare
 1,Ranger-Captain of Eos,Creature — Human Soldier Ranger,mythic
@@ -81,6 +83,7 @@
 1,Dryad Arbor,Land Creature — Forest Dryad,rare
 1,Ravenous Chupacabra,Creature — Beast Horror,uncommon
 1,Gilded Goose,Creature — Bird,rare
+1,Kodama of the West Tree,Legendary Creature — Spirit,mythic
 1,Midnight Reaper,Creature — Zombie Knight,rare
 2,Reassembling Skeleton,Creature — Skeleton Warrior,uncommon
 2,Managorger Hydra,Creature — Hydra,rare
@@ -95,7 +98,7 @@
 1,Aven Mindcensor,Creature — Bird Wizard,uncommon
 1,Zopandrel, Hunger Dominus,Legendary Creature — Phyrexian Horror,mythic
 1,Warren Soultrader,Creature — Zombie Goblin Wizard,rare
-1,Haywire Mite,Artifact Creature — Insect,uncommon
+2,Haywire Mite,Artifact Creature — Insect,uncommon
 4,Accursed Marauder,Creature — Zombie Warrior,common
 1,Six,Legendary Creature — Treefolk,rare
 5,Elvish Spirit Guide,Creature — Elf Spirit,uncommon
@@ -125,7 +128,7 @@
 1,Phantasmal Image,Creature — Illusion,rare
 1,Acidic Slime,Creature — Ooze,uncommon
 1,Ashaya, Soul of the Wild,Legendary Creature — Elemental,mythic
-2,Disciple of Freyalise // Garden of Freyalise,Creature — Elf Druid // Land,uncommon
+3,Disciple of Freyalise // Garden of Freyalise,Creature — Elf Druid // Land,uncommon
 1,Circle of Dreams Druid,Creature — Elf Druid,rare
 1,Farhaven Elf,Creature — Elf Druid,common
 1,Keeper of the Accord,Creature — Human Soldier,rare
@@ -192,7 +195,7 @@
 1,Gold Myr,Artifact Creature — Myr,common
 1,Aftermath Analyst,Creature — Elf Detective,uncommon
 1,Prosperous Innkeeper,Creature — Halfling Citizen,uncommon
-1,Apex Altisaur,Creature — Dinosaur,rare
+2,Apex Altisaur,Creature — Dinosaur,rare
 1,Atsushi, the Blazing Sky,Legendary Creature — Dragon Spirit,mythic
 1,Triskaidekaphile,Creature — Human Wizard,rare
 1,Murmuring Mystic,Creature — Human Wizard,common
@@ -200,6 +203,7 @@
 1,Murderous Rider // Swift End,Creature — Zombie Knight // Instant — Adventure,rare
 1,Bonehoard Dracosaur,Creature — Dinosaur Dragon,mythic
 1,Goblin Welder,Creature — Goblin Artificer,rare
+1,Odric, Lunarch Marshal,Legendary Creature — Human Soldier,rare
 1,Talion, the Kindly Lord,Legendary Creature — Faerie Noble,mythic
 1,Zetalpa, Primal Dawn,Legendary Creature — Elder Dinosaur,rare
 1,Ghalta and Mavren,Legendary Creature — Dinosaur Vampire,rare
@@ -282,7 +286,7 @@
 2,Razorkin Needlehead,Creature — Human Assassin,rare
 1,Gilded Drake,Creature — Drake,rare
 2,Whirler Rogue,Creature — Human Rogue Artificer,uncommon
-1,Emrakul, the Promised End,Legendary Creature — Eldrazi,mythic
+2,Emrakul, the Promised End,Legendary Creature — Eldrazi,mythic
 1,Shimmer Dragon,Creature — Dragon,rare
 1,Silverback Elder,Creature — Ape Shaman,mythic
 1,Grand Arbiter Augustin IV,Legendary Creature — Human Advisor,rare
@@ -301,6 +305,7 @@
 1,Snapcaster Mage,Creature — Human Wizard,mythic
 2,Molten Gatekeeper,Artifact Creature — Golem,common
 1,Thassa, God of the Sea,Legendary Enchantment Creature — God,mythic
+1,Metalwork Colossus,Artifact Creature — Construct,rare
 1,Doom Whisperer,Creature — Nightmare Demon,mythic
 1,Deepglow Skate,Creature — Fish,rare
 1,Beledros Witherbloom,Legendary Creature — Elder Dragon,mythic
@@ -402,7 +407,7 @@
 1,Marauding Raptor,Creature — Dinosaur,rare
 1,Emiel the Blessed,Legendary Creature — Unicorn,mythic
 1,Valgavoth, Terror Eater,Legendary Creature — Elder Demon,mythic
-1,Elder Gargaroth,Creature — Beast,mythic
+2,Elder Gargaroth,Creature — Beast,mythic
 1,Chulane, Teller of Tales,Legendary Creature — Human Druid,mythic
 1,Exalted Flamer of Tzeentch,Creature — Demon,rare
 1,Undead Warchief,Creature — Zombie,uncommon
@@ -469,6 +474,7 @@
 1,Selfless Savior,Creature — Dog,uncommon
 1,Primordial Hydra,Creature — Hydra,mythic
 1,Twenty-Toed Toad,Creature — Frog Wizard,rare
+1,Komainu Battle Armor,Artifact Creature — Equipment Dog,rare
 1,Celestine, the Living Saint,Legendary Creature — Human Warrior,rare
 1,Hooded Hydra,Creature — Snake Hydra,mythic
 1,Prava of the Steel Legion,Legendary Creature — Cat Soldier,uncommon
@@ -498,7 +504,6 @@
 1,Fain, the Broker,Legendary Creature — Human Warlock,rare
 1,Fog Bank,Creature — Wall,uncommon
 1,Coercive Recruiter,Creature — Orc Pirate,rare
-1,Gemhide Sliver,Creature — Sliver,common
 1,Archfiend of Despair,Creature — Demon,mythic
 1,Mogg War Marshal,Creature — Goblin Warrior,common
 2,Jazal Goldmane,Legendary Creature — Cat Warrior,rare
@@ -508,8 +513,7 @@
 3,Scytheclaw Raptor,Creature — Dinosaur,uncommon
 1,Reyav, Master Smith,Legendary Creature — Dwarf Artificer,uncommon
 1,Overseer of the Damned,Creature — Demon,rare
-1,Manaweft Sliver,Creature — Sliver,uncommon
-5,Phyrexian Walker,Artifact Creature — Phyrexian Construct,common
+6,Phyrexian Walker,Artifact Creature — Phyrexian Construct,common
 2,Frontier Warmonger,Creature — Human Warrior,rare
 1,Desolation Twin,Creature — Eldrazi,rare
 2,Greedy Freebooter,Creature — Human Pirate,common
@@ -546,7 +550,6 @@
 2,Golgari Thug,Creature — Human Warrior,uncommon
 1,Tandem Lookout,Creature — Human Scout,common
 1,Lord of the Nazgûl,Legendary Creature — Wraith Noble,rare
-1,Cloudshredder Sliver,Creature — Sliver,rare
 1,Cadira, Caller of the Small,Legendary Creature — Orc Ranger,uncommon
 2,Lathril, Blade of the Elves,Legendary Creature — Elf Noble,rare
 1,Ethereal Investigator,Creature — Spirit,rare
@@ -609,7 +612,6 @@
 1,Colossal Skyturtle,Enchantment Creature — Turtle,uncommon
 1,Spawning Kraken,Creature — Kraken,rare
 1,Gimli of the Glittering Caves,Legendary Creature — Dwarf Warrior,rare
-1,Sliver Hivelord,Legendary Creature — Sliver,mythic
 1,Reya Dawnbringer,Legendary Creature — Angel,rare
 1,Théoden, King of Rohan,Legendary Creature — Human Noble,uncommon
 2,Entity Tracker,Creature — Human Scout,rare
@@ -620,7 +622,6 @@
 1,Flaming Tyrannosaurus,Creature — Dinosaur,rare
 1,Svyelun of Sea and Sky,Legendary Creature — Merfolk God,mythic
 2,Wall of Roots,Creature — Plant Wall,common
-1,Harmonic Sliver,Creature — Sliver,uncommon
 3,Overlord of the Balemurk,Enchantment Creature — Avatar Horror,mythic
 1,Goblin Sharpshooter,Creature — Goblin,rare
 1,King of the Pride,Creature — Cat,uncommon
@@ -639,7 +640,6 @@
 1,Party Thrasher,Creature — Lizard Wizard,rare
 1,Bloodline Necromancer,Creature — Vampire Wizard,uncommon
 2,Merrow Reejerey,Creature — Merfolk Soldier,uncommon
-1,Galerider Sliver,Creature — Sliver,rare
 1,Yorion, Sky Nomad,Legendary Creature — Bird Serpent,rare
 1,Bishop of Wings,Creature — Human Cleric,rare
 1,Defiler of Dreams,Creature — Phyrexian Sphinx,rare
@@ -683,22 +683,17 @@
 1,Qasali Pridemage,Creature — Cat Wizard,common
 1,Mercurial Spelldancer,Creature — Phyrexian Rogue,rare
 1,Izoni, Thousand-Eyed,Legendary Creature — Elf Shaman,rare
-1,Bonescythe Sliver,Creature — Sliver,rare
+1,Sarinth Steelseeker,Creature — Human Artificer Scout,uncommon
 1,Marisi, Breaker of the Coil,Legendary Creature — Cat Warrior,mythic
 1,Emrakul's Messenger,Creature — Eldrazi Faerie Rogue,uncommon
-1,Crystalline Sliver,Creature — Sliver,uncommon
-1,Shifting Sliver,Creature — Sliver,uncommon
 1,Tyrant's Familiar,Creature — Dragon,rare
 1,Iymrith, Desert Doom,Legendary Creature — Dragon,mythic
 1,Lonis, Cryptozoologist,Legendary Creature — Snake Elf Scout,rare
-1,Diffusion Sliver,Creature — Sliver,uncommon
 1,Satoru, the Infiltrator,Legendary Creature — Human Ninja Rogue,rare
 2,Vizier of Many Faces,Creature — Shapeshifter Cleric,rare
-1,Sentinel Sliver,Creature — Sliver,common
 1,Apprentice Necromancer,Creature — Zombie Wizard,uncommon
 1,Herald of Hoofbeats,Creature — Human Knight,rare
 1,Amalia Benavides Aguirre,Legendary Creature — Vampire Scout,rare
-1,Venom Sliver,Creature — Sliver,uncommon
 1,Siege-Gang Lieutenant,Creature — Goblin,rare
 1,Lord of Extinction,Creature — Elemental,mythic
 1,Annoyed Altisaur,Creature — Dinosaur,uncommon
@@ -707,7 +702,6 @@
 2,Inquisitive Glimmer,Enchantment Creature — Fox Glimmer,uncommon
 1,Hunting Velociraptor,Creature — Dinosaur,rare
 1,Rabbit Battery,Artifact Creature — Equipment Rabbit,uncommon
-1,The First Sliver,Legendary Creature — Sliver,mythic
 1,Seafloor Oracle,Creature — Merfolk Wizard,rare
 1,Gyome, Master Chef,Legendary Creature — Troll Warlock,mythic
 1,Omnath, Locus of Creation,Legendary Creature — Elemental,mythic
@@ -726,7 +720,6 @@
 1,Anowon, the Ruin Sage,Legendary Creature — Vampire Shaman,rare
 1,River Kelpie,Creature — Beast,rare
 1,Wildwood Scourge,Creature — Hydra,uncommon
-1,Syphon Sliver,Creature — Sliver,rare
 3,Shield Sphere,Artifact Creature — Wall,common
 1,Muxus, Goblin Grandee,Legendary Creature — Goblin Noble,rare
 1,Psychic Frog,Creature — Frog,rare
@@ -746,10 +739,8 @@
 1,Kumena, Tyrant of Orazca,Legendary Creature — Merfolk Shaman,mythic
 1,Terisian Mindbreaker,Artifact Creature — Juggernaut,rare
 1,Angelic Field Marshal,Creature — Angel,rare
-1,Quick Sliver,Creature — Sliver,common
 1,Auriok Champion,Creature — Human Cleric,rare
 1,Darien, King of Kjeldor,Legendary Creature — Human Soldier,rare
-1,Spiteful Sliver,Creature — Sliver,rare
 1,Thraben Watcher,Creature — Angel,uncommon
 1,Sandstone Oracle,Artifact Creature — Sphinx,uncommon
 1,Hanna, Ship's Navigator,Legendary Creature — Human Artificer,rare
@@ -757,6 +748,7 @@
 1,Helpful Hunter,Creature — Cat,common
 1,Sapphire Dragon // Psionic Pulse,Creature — Dragon // Instant — Adventure,uncommon
 1,Gisa, the Hellraiser,Legendary Creature — Human Warlock,mythic
+1,Displaced Dinosaurs,Creature — Dinosaur,uncommon
 1,Nested Shambler,Creature — Zombie,common
 1,Tuskguard Captain,Creature — Human Warrior,common
 1,Fell Stinger,Creature — Zombie Scorpion,uncommon
@@ -766,16 +758,15 @@
 1,Esix, Fractal Bloom,Legendary Creature — Fractal,mythic
 1,Doomed Traveler,Creature — Human Soldier,common
 1,Bonecrusher Giant // Stomp,Creature — Giant // Instant — Adventure,rare
-1,Necrotic Sliver,Creature — Sliver,uncommon
 1,Hazel of the Rootbloom,Legendary Creature — Squirrel Druid,mythic
 1,Gilraen, Dúnedain Protector,Legendary Creature — Human Noble,rare
 1,The Necrobloom,Legendary Creature — Plant,rare
 1,Zegana, Utopian Speaker,Legendary Creature — Merfolk Wizard,rare
 1,Deranged Assistant,Creature — Human Wizard,common
 1,Phenax, God of Deception,Legendary Enchantment Creature — God,mythic
+1,Traxos, Scourge of Kroog,Legendary Artifact Creature — Construct,rare
 1,Scryb Ranger,Creature — Faerie Ranger,uncommon
 1,Queza, Augur of Agonies,Legendary Creature — Octopus Advisor,uncommon
-1,Sliver Legion,Legendary Creature — Sliver,mythic
 1,Erdwal Illuminator,Creature — Spirit,uncommon
 1,Tyrant Guard,Creature — Tyranid,rare
 1,Jugan Defends the Temple // Remnant of the Rising Star,Enchantment — Saga // Enchantment Creature — Dragon Spirit,mythic
@@ -790,7 +781,6 @@
 1,Reverent Hoplite,Creature — Human Soldier,uncommon
 1,Trailtracker Scout,Creature — Raccoon Scout,rare
 1,Relentless Dead,Creature — Zombie,mythic
-1,Striking Sliver,Creature — Sliver,common
 1,Overlord of the Floodpits,Enchantment Creature — Avatar Horror,mythic
 1,Angel of Jubilation,Creature — Angel,rare
 2,Vona, Butcher of Magan,Legendary Creature — Vampire Knight,mythic
@@ -820,7 +810,6 @@
 9,Shrieking Drake,Creature — Drake,uncommon
 1,Cartographer's Hawk,Creature — Bird,uncommon
 1,Undercover Operative,Creature — Shapeshifter Rogue,rare
-1,Brood Sliver,Creature — Sliver,rare
 2,Pollenbright Druid,Creature — Elf Druid,common
 1,Minthara, Merciless Soul,Legendary Creature — Elf Cleric,uncommon
 1,Ulamog's Dreadsire,Creature — Eldrazi,rare
@@ -840,10 +829,8 @@
 1,Lightning Runner,Creature — Human Warrior,mythic
 1,Aberrant,Creature — Tyranid Mutant,uncommon
 1,Tishana, Voice of Thunder,Legendary Creature — Merfolk Shaman,mythic
-1,Crypt Sliver,Creature — Sliver,common
 1,Vodalian Wave-Knight,Creature — Merfolk Knight,rare
 2,Distinguished Conjurer,Creature — Human Wizard,uncommon
-1,Sinew Sliver,Creature — Sliver,common
 1,Benthic Anomaly,Creature — Eldrazi Serpent,rare
 1,Qasali Slingers,Creature — Cat Warrior,rare
 1,Sprite Dragon,Creature — Faerie Dragon,uncommon
@@ -859,7 +846,6 @@
 1,Gravelighter,Creature — Spirit,uncommon
 1,Amoeboid Changeling,Creature — Shapeshifter,common
 1,Ainok Bond-Kin,Creature — Dog Soldier,common
-1,Hibernation Sliver,Creature — Sliver,uncommon
 1,Kira, Great Glass-Spinner,Legendary Creature — Spirit,rare
 1,Judith, the Scourge Diva,Legendary Creature — Human Shaman,uncommon
 1,Sword Coast Serpent // Capsizing Wave,Creature — Serpent Dragon // Instant — Adventure,common
@@ -917,7 +903,6 @@
 1,Goblin Cratermaker,Creature — Goblin Warrior,uncommon
 1,Enterprising Scallywag,Creature — Goblin Pirate,uncommon
 1,Exsanguinator Cavalry,Creature — Vampire Knight,rare
-1,Sliver Overlord,Legendary Creature — Sliver Mutant,rare
 1,Termagant Swarm,Creature — Tyranid,rare
 3,Faerie Vandal,Creature — Faerie Rogue,uncommon
 1,Baral and Kari Zev,Legendary Creature — Human,rare
@@ -929,7 +914,6 @@
 1,Svella, Ice Shaper,Legendary Snow Creature — Troll Warrior,uncommon
 1,Whisperwood Elemental,Creature — Elemental,mythic
 1,Ironsoul Enforcer,Artifact Creature — Human Samurai,rare
-1,Synapse Sliver,Creature — Sliver,rare
 1,Haakon, Stromgald Scourge,Legendary Creature — Zombie Knight,rare
 1,Gemcutter Buccaneer,Creature — Orc Pirate Artificer,rare
 1,Ainok Survivalist,Creature — Dog Shaman,uncommon
@@ -944,7 +928,6 @@
 1,Tangled Colony,Creature — Rat,rare
 1,Signal Pest,Artifact Creature — Pest,uncommon
 1,Elenda and Azor,Legendary Creature — Vampire Knight Sphinx,mythic
-1,Winged Sliver,Creature — Sliver,common
 1,Drana, the Last Bloodchief,Legendary Creature — Vampire Cleric,mythic
 1,Obeka, Splitter of Seconds,Legendary Creature — Ogre Warlock,rare
 1,Leonin Relic-Warder,Creature — Cat Cleric,uncommon
@@ -969,7 +952,6 @@
 1,Hammers of Moradin,Creature — Dwarf Cleric,uncommon
 1,Ephara, God of the Polis,Legendary Enchantment Creature — God,mythic
 2,Go-Shintai of Shared Purpose,Legendary Enchantment Creature — Shrine,uncommon
-1,Predatory Sliver,Creature — Sliver,common
 1,Breaker of Creation,Creature — Eldrazi,uncommon
 1,Myr Enforcer,Artifact Creature — Myr,common
 1,Great Oak Guardian,Creature — Treefolk,uncommon
@@ -978,7 +960,6 @@
 1,Cult Conscript,Creature — Skeleton Warrior,uncommon
 1,Michiko Konda, Truth Seeker,Legendary Creature — Human Advisor,rare
 1,Skeleton Crew,Creature — Skeleton Pirate,rare
-1,Two-Headed Sliver,Creature — Sliver,common
 2,Kibo, Uktabi Prince,Legendary Creature — Monkey Noble,mythic
 1,Felix Five-Boots,Legendary Creature — Ooze Rogue,mythic
 1,Dogged Detective,Creature — Human Rogue,rare
@@ -987,7 +968,6 @@
 1,Zimone, Quandrix Prodigy,Legendary Creature — Human Wizard,uncommon
 1,Oathsworn Vampire,Creature — Vampire Knight,uncommon
 1,Captain Storm, Cosmium Raider,Legendary Creature — Human Pirate,uncommon
-1,Sliver Gravemother,Legendary Creature — Sliver,mythic
 1,Riddlesmith,Creature — Human Artificer,uncommon
 1,Subtlety,Creature — Elemental Incarnation,mythic
 1,Hanged Executioner,Creature — Spirit,rare
@@ -1028,7 +1008,7 @@
 1,Anax, Hardened in the Forge,Legendary Enchantment Creature — Demigod,uncommon
 1,Wintermoor Commander,Creature — Human Knight,uncommon
 1,Heritage Druid,Creature — Elf Druid,rare
-4,Heart Sliver,Creature — Sliver,common
+3,Heart Sliver,Creature — Sliver,common
 1,Yisan, the Wanderer Bard,Legendary Creature — Human Rogue Bard,rare
 1,Aethersquall Ancient,Creature — Leviathan,rare
 1,Constricting Sliver,Creature — Sliver,uncommon
@@ -1040,7 +1020,6 @@
 1,Boros Reckoner,Creature — Minotaur Wizard,rare
 2,Greater Tanuki,Enchantment Creature — Dog,common
 1,Putrid Imp,Creature — Zombie Imp,common
-1,Muscle Sliver,Creature — Sliver,common
 1,Thraben Inspector,Creature — Human Soldier,common
 1,Shield-Wall Sentinel,Artifact Creature — Golem,common
 1,Viral Drake,Creature — Phyrexian Drake,uncommon
@@ -1067,7 +1046,6 @@
 1,Eris, Roar of the Storm,Legendary Creature — Elemental Warlock,mythic
 1,Slobad, Goblin Tinkerer,Legendary Creature — Goblin Artificer,rare
 1,Master Splicer,Creature — Phyrexian Human Artificer,uncommon
-1,Virulent Sliver,Creature — Sliver,common
 1,Deeproot Historian,Creature — Merfolk Druid,rare
 1,Finneas, Ace Archer,Legendary Creature — Rabbit Archer,rare
 1,Troyan, Gutsy Explorer,Legendary Creature — Vedalken Scout,uncommon
@@ -1094,7 +1072,6 @@
 3,Beza, the Bounding Spring,Legendary Creature — Elemental Elk,mythic
 1,Hugs, Grisly Guardian,Legendary Creature — Badger Warrior,mythic
 1,Thing in the Ice // Awoken Horror,Creature — Horror // Creature — Kraken Horror,rare
-1,Lazotep Sliver,Creature — Zombie Sliver,rare
 1,Elder Deep-Fiend,Creature — Eldrazi Octopus,rare
 1,Geth, Lord of the Vault,Legendary Creature — Phyrexian Zombie,mythic
 1,Gonti, Night Minister,Legendary Creature — Aetherborn Rogue,rare
@@ -1105,12 +1082,12 @@
 1,Azlask, the Swelling Scourge,Legendary Creature — Eldrazi,mythic
 1,Akroma, Angel of Fury,Legendary Creature — Angel,mythic
 1,Broodhatch Nantuko,Creature — Insect Druid,uncommon
+1,Thrun, Breaker of Silence,Legendary Creature — Troll Shaman,rare
 1,Iraxxa, Empress of Mars,Legendary Creature — Alien Warrior,uncommon
 1,Dionus, Elvish Archdruid,Legendary Creature — Elf Druid,uncommon
 3,Myr Kinsmith,Artifact Creature — Myr,common
 1,Sage of the Maze,Creature — Elf Wizard,rare
 1,Sharae of Numbing Depths,Legendary Creature — Merfolk Wizard,uncommon
-1,Might Sliver,Creature — Sliver,uncommon
 1,Ethersworn Adjudicator,Artifact Creature — Vedalken Knight,mythic
 1,Kinsbaile Cavalier,Creature — Kithkin Knight,rare
 1,Oloro, Ageless Ascetic,Legendary Creature — Giant Soldier,mythic
@@ -1134,7 +1111,7 @@
 1,Teysa, Opulent Oligarch,Legendary Creature — Human Advisor,rare
 1,Starscream, Power Hungry // Starscream, Seeker Leader,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
 1,Toggo, Goblin Weaponsmith,Legendary Creature — Goblin Artificer,uncommon
-1,Bladegraft Aspirant,Creature — Phyrexian Warrior,common
+2,Bladegraft Aspirant,Creature — Phyrexian Warrior,common
 1,Grothama, All-Devouring,Legendary Creature — Wurm,mythic
 1,Boon-Bringer Valkyrie,Creature — Angel Warrior,rare
 1,Owlbear Cub,Creature — Bird Bear,rare
@@ -1224,7 +1201,6 @@
 3,Rust Elemental,Artifact Creature — Elemental,uncommon
 2,Firja, Judge of Valor,Legendary Creature — Angel Cleric,uncommon
 1,Thorn of the Black Rose,Creature — Human Assassin,common
-1,Sliver Queen,Legendary Creature — Sliver,mythic
 1,Fblthp, the Lost,Legendary Creature — Homunculus,rare
 3,Man-o'-War,Creature — Jellyfish,common
 1,Torch Courier,Creature — Goblin,common
@@ -1376,7 +1352,6 @@
 1,Novice Inspector,Creature — Human Detective,common
 1,Mother Bear,Creature — Bear,common
 3,Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar,Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiyo,mythic
-1,Basal Sliver,Creature — Sliver,common
 1,Tolsimir, Midnight's Light,Legendary Creature — Elf Scout,rare
 1,Kappa Tech-Wrecker,Creature — Turtle Ninja,uncommon
 1,Daring Saboteur,Creature — Human Pirate,uncommon
@@ -1430,7 +1405,6 @@
 1,Generous Visitor,Creature — Spirit,uncommon
 1,Slumbering Keepguard,Creature — Human Knight,common
 1,Guildsworn Prowler,Creature — Tiefling Rogue Assassin,common
-1,Cleaving Sliver,Creature — Sliver,common
 1,Sinister Starfish,Creature — Starfish,common
 1,Engulfing Slagwurm,Creature — Wurm,rare
 1,Blitzwing, Cruel Tormentor // Blitzwing, Adaptive Assailant,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
@@ -1512,7 +1486,6 @@
 1,Pestermite,Creature — Faerie Rogue,common
 1,Twinshot Sniper,Artifact Creature — Goblin Archer,uncommon
 2,Perforating Artist,Creature — Devil,uncommon
-1,Ward Sliver,Creature — Sliver,uncommon
 1,Shroofus Sproutsire,Legendary Creature — Saproling,rare
 1,Erestor of the Council,Legendary Creature — Elf Noble,rare
 1,Indominus Rex, Alpha,Legendary Creature — Dinosaur Mutant,rare
@@ -1552,6 +1525,7 @@
 2,Adaptive Sporesinger,Creature — Phyrexian Druid,common
 1,Suppressor Skyguard,Creature — Human Knight,rare
 3,Kraum, Violent Cacophony,Legendary Creature — Zombie Horror,uncommon
+1,Meria, Scholar of Antiquity,Legendary Creature — Elf Artificer,rare
 1,Agate-Blade Assassin,Creature — Lizard Assassin,common
 1,Eye of Duskmantle,Creature — Eye,rare
 1,Territory Culler,Creature — Eldrazi,uncommon
@@ -1654,7 +1628,6 @@
 1,Staunch Crewmate,Creature — Human Pirate,uncommon
 1,Acolyte of Aclazotz,Creature — Vampire Cleric,common
 1,Rambunctious Mutt,Creature — Dog,common
-1,Capricious Sliver,Creature — Sliver,rare
 1,Gornog, the Red Reaper,Legendary Creature — Minotaur Warrior,rare
 1,Niko, Light of Hope,Legendary Creature — Human Wizard,mythic
 1,Oaken Siren,Artifact Creature — Siren Pirate,common
@@ -1693,6 +1666,7 @@
 1,Jyoti, Moag Ancient,Legendary Creature — Elemental,mythic
 1,Slaughter Singer,Creature — Phyrexian Cleric,uncommon
 1,Rampaging Ceratops,Creature — Dinosaur,uncommon
+1,Sarinth Greatwurm,Creature — Wurm,mythic
 1,Dragonborn Looter,Creature — Dragon Rogue,common
 1,Doomskar Warrior,Creature — Human Warrior,rare
 1,Toxic Scorpion,Creature — Scorpion,common
@@ -1758,7 +1732,6 @@
 1,Summit Apes,Creature — Ape,uncommon
 1,Recruitment Officer,Creature — Human Soldier,uncommon
 1,Sophia, Dogged Detective,Legendary Creature — Human Detective,mythic
-1,Belligerent Sliver,Creature — Sliver,uncommon
 1,Lonis, Genetics Expert,Legendary Creature — Snake Elf Detective,rare
 1,Phyrexian Ghoul,Creature — Phyrexian Zombie,common
 1,Seht's Tiger,Creature — Cat,rare
@@ -1812,6 +1785,7 @@
 1,Bramble Wurm,Creature — Wurm,common
 1,Geological Appraiser,Creature — Human Artificer,uncommon
 1,Sagu Mauler,Creature — Beast,rare
+1,Thrun, the Last Troll,Legendary Creature — Troll Shaman,mythic
 1,Timberland Ancient,Creature — Treefolk,common
 1,Flametongue Kavu,Creature — Kavu,uncommon
 1,Kolaghan Warmonger,Creature — Ogre Warrior,uncommon
@@ -1848,7 +1822,6 @@
 1,Genku, Future Shaper,Legendary Creature — Moonfolk Wizard,rare
 1,Queen's Bay Paladin,Creature — Vampire Knight,rare
 1,Midnight Guard,Creature — Human Soldier,common
-1,Guardian Sunmare,Creature — Horse Mount,rare
 4,Norin, Swift Survivalist,Legendary Creature — Human Coward,uncommon
 1,Riveteers Requisitioner,Creature — Lizard Rogue,uncommon
 1,Rescuer Chwinga,Creature — Elemental Spirit,uncommon
@@ -1891,7 +1864,7 @@
 1,Plague Nurse,Creature — Phyrexian Cleric,common
 1,Brimstone Trebuchet,Artifact Creature — Wall,common
 1,Shambling Suit,Artifact Creature — Construct,uncommon
-2,Blade Sliver,Creature — Sliver,uncommon
+1,Blade Sliver,Creature — Sliver,uncommon
 2,Rooftop Assassin,Creature — Vampire Assassin,common
 1,Skittering Precursor,Creature — Eldrazi Drone,uncommon
 1,Lara Croft, Tomb Raider,Legendary Creature — Human Ranger,mythic
@@ -1995,7 +1968,7 @@
 1,Exit Specialist,Creature — Human Detective,uncommon
 10,Innocuous Rat,Creature — Rat,common
 1,Plundering Pirate,Creature — Orc Pirate,common
-4,Talon Sliver,Creature — Sliver,common
+3,Talon Sliver,Creature — Sliver,common
 1,Aurelia's Vindicator,Creature — Angel,mythic
 3,Fear of Failed Tests,Enchantment Creature — Nightmare,uncommon
 3,Thallid Devourer,Creature — Fungus,common
@@ -3947,7 +3920,7 @@
 8,Gremlin,Token Creature — Gremlin,common
 2,Wizard,Token Creature — Wizard,common
 2,Shrine,Token Enchantment Creature — Shrine,common
-5,Ornithopter,Token Artifact Creature — Thopter,common
+6,Ornithopter,Token Artifact Creature — Thopter,common
 1,Primo, the Indivisible,Token Legendary Creature — Fractal,common
 2,Rogue,Token Creature — Rogue,common
 4,Human Warrior,Token Creature — Human Warrior,common

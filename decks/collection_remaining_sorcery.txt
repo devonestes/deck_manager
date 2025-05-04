@@ -1,7 +1,8 @@
-4,Cultivate,Sorcery,common
-9,Rampant Growth,Sorcery,common
-5,Demonic Tutor,Sorcery,mythic
+3,Cultivate,Sorcery,common
+8,Rampant Growth,Sorcery,common
+4,Demonic Tutor,Sorcery,mythic
 2,Feed the Swarm,Sorcery,common
+1,Jeska's Will,Sorcery,rare
 3,Faithless Looting,Sorcery,common
 1,Vandalblast,Sorcery,uncommon
 2,Windfall,Sorcery,uncommon
@@ -10,12 +11,13 @@
 3,Farewell,Sorcery,rare
 2,Austere Command,Sorcery,rare
 1,Preordain,Sorcery,common
+1,Rishkar's Expertise,Sorcery,rare
 1,Sign in Blood,Sorcery,common
 1,Gamble,Sorcery,rare
 3,Explore,Sorcery,common
 1,Diabolic Intent,Sorcery,rare
 3,Harmonize,Sorcery,uncommon
-2,Shamanic Revelation,Sorcery,rare
+1,Shamanic Revelation,Sorcery,rare
 4,Finale of Devastation,Sorcery,mythic
 1,Damnation,Sorcery,rare
 1,Read the Bones,Sorcery,common
@@ -26,7 +28,8 @@
 1,Fabricate,Sorcery,uncommon
 1,Overwhelming Stampede,Sorcery,rare
 1,Dread Return,Sorcery,common
-2,Distant Melody,Sorcery,common
+1,Chandra's Ignition,Sorcery,rare
+1,Distant Melody,Sorcery,common
 5,Wheel of Fortune,Sorcery,mythic
 1,Grim Tutor,Sorcery,mythic
 3,Curse of the Swine,Sorcery,rare
@@ -56,7 +59,7 @@
 3,Sylvan Scrying,Sorcery,uncommon
 1,Vindicate,Sorcery,rare
 1,Painful Truths,Sorcery,rare
-2,Bridgeworks Battle // Tanglespan Bridgeworks,Sorcery // Land,uncommon
+3,Bridgeworks Battle // Tanglespan Bridgeworks,Sorcery // Land,uncommon
 2,Fell the Mighty,Sorcery,rare
 1,Ravenform,Sorcery,common
 1,Brass's Bounty,Sorcery,rare
@@ -93,6 +96,7 @@
 1,Fractured Sanity,Sorcery,rare
 1,Infectious Inquiry,Sorcery,common
 1,Requisition Raid,Sorcery,uncommon
+1,Stump Stomp // Burnwillow Clearing,Sorcery // Land,uncommon
 2,Krenko's Command,Sorcery,common
 1,Life's Legacy,Sorcery,rare
 1,Thirsting Roots,Sorcery,common

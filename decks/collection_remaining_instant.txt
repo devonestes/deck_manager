@@ -1,8 +1,8 @@
-6,Swords to Plowshares,Instant,uncommon
+5,Swords to Plowshares,Instant,uncommon
 4,Path to Exile,Instant,uncommon
 6,Counterspell,Instant,uncommon
 4,Beast Within,Instant,uncommon
-4,Chaos Warp,Instant,rare
+5,Chaos Warp,Instant,rare
 1,Cyclonic Rift,Instant,mythic
 17,Dark Ritual,Instant,common
 5,Generous Gift,Instant,uncommon
@@ -10,15 +10,14 @@
 1,An Offer You Can't Refuse,Instant,uncommon
 16,Arcane Denial,Instant,common
 5,Brainstorm,Instant,common
-1,Teferi's Protection,Instant,rare
 3,Vampiric Tutor,Instant,mythic
 2,Swan Song,Instant,rare
-2,Deflecting Swat,Instant,rare
+3,Deflecting Swat,Instant,rare
 3,Enlightened Tutor,Instant,rare
 3,Mana Drain,Instant,mythic
 2,Mystical Tutor,Instant,rare
 4,Worldly Tutor,Instant,rare
-1,Return of the Wildspeaker,Instant,rare
+2,Return of the Wildspeaker,Instant,rare
 2,Deadly Rollick,Instant,rare
 1,Deadly Dispute,Instant,common
 2,Pongify,Instant,uncommon
@@ -71,6 +70,7 @@
 9,High Tide,Instant,uncommon
 3,Untimely Malfunction,Instant,uncommon
 3,Spell Pierce,Instant,uncommon
+1,Hunter's Insight,Instant,uncommon
 2,Narset's Reversal,Instant,rare
 3,Return to Dust,Instant,uncommon
 1,Defile,Instant,common
@@ -144,6 +144,7 @@
 1,Fire Covenant,Instant,uncommon
 1,Otherworldly Gaze,Instant,common
 1,Null Elemental Blast,Instant,uncommon
+1,Silkguard,Instant,rare
 1,Spell Swindle,Instant,rare
 1,Quick Study,Instant,common
 1,March of the Multitudes,Instant,mythic
@@ -210,11 +211,13 @@
 1,Cut Down,Instant,uncommon
 1,Comeuppance,Instant,rare
 2,Fanatical Offering,Instant,common
+1,Peerless Recycling,Instant,uncommon
 1,Ruinous Intrusion,Instant,rare
 1,Vines of Vastwood,Instant,common
 1,Illusionist's Gambit,Instant,rare
 2,Take Up the Shield,Instant,common
 1,Magmaquake,Instant,rare
+1,Berserk,Instant,mythic
 1,Take the Bait,Instant,rare
 1,Visions of Beyond,Instant,rare
 1,Capsize,Instant,uncommon

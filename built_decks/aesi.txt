@@ -25,7 +25,6 @@ Entish Restoration
 Exploration
 Fabled Passage
 Fecund Greenshell
-Field of the Dead
 Finale of Revelation
 Flooded Shoreline
 Flooded Strand
@@ -36,6 +35,7 @@ Forest
 Forest
 Greensleeves, Maro-Sorcerer
 Growth Spiral
+Guildless Commons
 Halimar Depths
 Hedge Maze
 Hydroid Krasis

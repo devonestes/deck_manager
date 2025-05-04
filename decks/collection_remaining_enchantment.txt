@@ -1,4 +1,4 @@
-2,Rhystic Study,Enchantment,rare
+1,Rhystic Study,Enchantment,rare
 1,Phyrexian Arena,Enchantment,rare
 2,Garruk's Uprising,Enchantment,uncommon
 2,Propaganda,Enchantment,uncommon
@@ -28,7 +28,7 @@
 3,Beastmaster Ascension,Enchantment,rare
 1,Warstorm Surge,Enchantment,rare
 2,Teferi's Ageless Insight,Legendary Enchantment,rare
-2,Reflections of Littjara,Enchantment,rare
+1,Reflections of Littjara,Enchantment,rare
 1,Intangible Virtue,Enchantment,uncommon
 1,Grave Pact,Enchantment,mythic
 1,Greater Good,Enchantment,rare
@@ -53,7 +53,7 @@
 2,Trouble in Pairs,Enchantment,rare
 1,Courser of Kruphix,Enchantment Creature — Centaur,rare
 1,Revel in Riches,Enchantment,rare
-2,Cryptolith Rite,Enchantment,rare
+1,Cryptolith Rite,Enchantment,rare
 2,Necromancy,Enchantment,uncommon
 1,Carpet of Flowers,Enchantment,uncommon
 1,Teleportation Circle,Enchantment,rare
@@ -139,7 +139,6 @@
 1,Rest in Peace,Enchantment,mythic
 2,Dazzling Theater // Prop Room,Enchantment — Room // Enchantment — Room,rare
 1,Dress Down,Enchantment,rare
-1,Descendants' Path,Enchantment,rare
 1,Leyline of the Guildpact,Enchantment,rare
 1,Bitter Reunion,Enchantment,common
 1,Revenge of Ravens,Enchantment,uncommon
@@ -203,8 +202,8 @@
 1,Growing Ranks,Enchantment,rare
 1,Echoing Assault,Enchantment,rare
 1,Marshal's Anthem,Enchantment,rare
+1,Strong Back,Enchantment — Aura,rare
 2,Ugin's Mastery,Enchantment,rare
-1,Mana Echoes,Enchantment,mythic
 1,Oblivion Ring,Enchantment,uncommon
 7,Pestilence,Enchantment,uncommon
 2,Spirit Link,Enchantment — Aura,common
@@ -285,6 +284,7 @@
 2,Go-Shintai of Shared Purpose,Legendary Enchantment Creature — Shrine,uncommon
 13,Pacifism,Enchantment — Aura,common
 2,Ulvenwald Mysteries,Enchantment,uncommon
+1,Blacksmith's Talent,Enchantment — Class,uncommon
 1,Archetype of Finality,Enchantment Creature — Gorgon,uncommon
 1,Primal Rage,Enchantment,uncommon
 1,Search the Premises,Enchantment,rare

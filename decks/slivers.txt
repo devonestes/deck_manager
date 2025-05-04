@@ -1,69 +1,68 @@
 1 The First Sliver (MH1) 200
+1 Adarkar Wastes (ICE) 351
 1 Arcane Signet (MOC) 348
-1 Arid Mesa (MM3) 229
 1 Basal Sliver (TSP) 96
 1 Belligerent Sliver (M15) 129
 1 Blade Sliver (CMM) 871
-1 Blood Crypt (UNF) 279
 1 Bonescythe Sliver (CMM) 815
-1 Breeding Pool (UNF) 286
 1 Brood Sliver (CMM) 887
+1 Canopy Vista (NCC) 389
 1 Capricious Sliver (CMM) 765
 1 Cavern of Souls (AVR) 226
 1 Chromatic Lantern (RTR) 226
+1 Chromatic Orrery (M21) 382
+1 City of Brass (MB2) 240
 1 Cleaving Sliver (MH1) 121
 1 Cloudshredder Sliver (CMM) 919
 1 Command Tower (MOC) 396
 1 Crypt Sliver (CMM) 863
+1 Cryptolith Rite (SOI) 200
 1 Crystalline Sliver (CMM) 920
 1 Cultivate (J22) 644
-1 Cyclonic Rift (2XM) 339
 1 Demonic Tutor (3ED) 105
+1 Descendants' Path (LCC) 238
 1 Diffusion Sliver (CMM) 845
 1 Distant Melody (MOC) 220
-1 Eladamri's Call (PLS) 106
-1 Elven Chorus (LTR) 160
 1 Exotic Orchard (MOC) 398
-1 Farseek (C19) 165
 1 Fellwar Stone (MOC) 356
-1 Flooded Strand (KTK) 233
 2 Forest (J22) 110
 1 Galerider Sliver (CMM) 849
 1 Gemhide Sliver (CMM) 896
 1 Godless Shrine (UNF) 282
-1 Hallowed Fountain (UNF) 277
 1 Harmonic Sliver (CMM) 924
 1 Heart Sliver (TMP) 182
 1 Herald's Horn (LTC) 280
-1 Heroic Intervention (LTC) 249
 1 Hibernation Sliver (CMM) 925
-1 Island (ONE) 263
+2 Island (ONE) 263
 1 Jetmir's Garden (SNC) 291
-1 Kindred Discovery (CLB) 81
+1 Jungle Shrine (E02) 46
 1 Lazotep Sliver (CMM) 733
+1 Llanowar Wastes (BRO) 299
+1 Mana Confluence (JOU) 163
 1 Mana Echoes (ONS) 218
 1 Manaweft Sliver (CMM) 900
 1 Marsh Flats (MM3) 239
 1 Might Sliver (CMM) 903
-1 Misty Rainforest (MM3) 240
-1 Mountain (J22) 107
+1 Morphic Pool (ZNE) 17
+2 Mountain (J22) 107
 1 Muscle Sliver (TMP) 238
-1 Nature's Lore (DMR) 170
 1 Necrotic Sliver (CMM) 932
-1 Overgrown Tomb (UNF) 284
 1 Path of Ancestry (MOC) 418
-1 Patriarch's Bidding (MH2) 275
-1 Plains (J22) 98
+2 Plains (J22) 98
 1 Predatory Sliver (M14) 189
 1 Quick Sliver (CMM) 907
+1 Raffine's Tower (SNC) 292
+1 Rampant Growth (M12) 190
 1 Reflections of Littjara (CLB) 733
 1 Rhystic Study (J22) 114
-1 Sacred Foundry (UNF) 285
-1 Scalding Tarn (MM3) 244
+1 Rockfall Vale (INR) 282
+1 Rootbound Crag (SLD) 459
 1 Secluded Courtyard (LTC) 330
 1 Sentinel Sliver (CMM) 835
-1 Shared Animosity (LTC) 226
+1 Shamanic Revelation (NCC) 311
+1 Shattered Sanctum (INR) 283
 1 Shifting Sliver (CMM) 855
+1 Shipwreck Marsh (MID) 285
 1 Sinew Sliver (CMM) 837
 1 Sliver Gravemother (CMM) 777
 1 Sliver Hive (M15) 247
@@ -72,28 +71,25 @@
 1 Sliver Overlord (SCG) 139
 1 Sliver Queen (STH) 129
 1 Sol Ring (MOC) 381
-1 Spara's Headquarters (SNC) 293
 1 Spiteful Sliver (CMM) 881
-1 Steam Vents (UNF) 283
 1 Stomping Ground (UNF) 280
 1 Striking Sliver (CMM) 882
-1 Swamp (MOM) 287
+2 Swamp (J22) 106
+1 Swords to Plowshares (MOC) 211
 1 Synapse Sliver (CMM) 857
 1 Syphon Sliver (CMM) 870
 1 Talon Sliver (TMP) 50
 1 Teferi's Protection (C17) 8
-1 Temple Garden (UNF) 281
-1 Three Visits (PTK) 153
+1 Thundering Falls (MKM) 331
 1 Timeless Lotus (DMU) 239
 1 Two-Headed Sliver (CMM) 883
 1 Unclaimed Territory (LCC) 366
-1 Vampiric Tutor (VIS) 72
 1 Vanquisher's Banner (MOC) 388
+1 Vault of Champions (CMM) 667
 1 Venom Sliver (PLST) M15-205
-1 Verdant Catacombs (MM3) 249
 1 Virulent Sliver (PLST) FUT-155
-1 Watery Grave (UNF) 278
-1 Windswept Heath (KTK) 248
+1 Ward Sliver (SLD) 617
 1 Winged Sliver (TMP) 106
 1 Wooded Foothills (KTK) 249
-1 Ziatora's Proving Ground (SNC) 295
+1 Xander's Lounge (SNC) 294
+1 Yavimaya Coast (DMU) 261

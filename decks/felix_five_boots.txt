@@ -1,0 +1,89 @@
+1 Felix Five-Boots (OTC) 6
+1 Ancient Brass Dragon (CLB) 367
+1 Ancient Bronze Dragon (CLB) 369
+1 Ancient Silver Dragon (CLB) 366
+1 Arcane Heist (OTC) 13
+1 Arcane Signet (MOC) 348
+1 Archpriest of Shadows (MOM) 89
+1 Baleful Strix (MKC) 200
+1 Beast Within (ONC) 104
+1 Bident of Thassa (LCC) 146
+1 Bismuth Mindrender (M3C) 51
+1 Breeding Pool (UNF) 286
+1 Broodbirth Viper (PLST) C15-10
+1 Champion of Lambholt (NCC) 284
+1 Changeling Outcast (MH1) 82
+1 Cold-Eyed Selkie (LCC) 266
+1 Command Tower (MOC) 396
+1 Cultivate (J22) 644
+1 Dark Ritual (3ED) 99
+1 Deeproot Wayfinder (MOM) 184
+1 Doomskar Warrior (MOM) 185
+1 Drana, Liberator of Malakir (LCC) 193
+1 Dreamroot Cascade (VOW) 282
+1 Drowned Catacomb (SLD) 457
+1 Edric, Spymaster of Trest (CNS) 187
+1 Etrata, Deadly Fugitive (MKM) 200
+1 Exotic Orchard (MOC) 398
+1 Farseek (RVR) 138
+1 Fell the Profane // Fell Mire (MH3) 244
+1 Fireshrieker (NEC) 151
+4 Forest (J22) 110
+1 Giant Adephage (CLU) 164
+1 Gix, Yawgmoth Praetor (BRO) 326
+1 Glissa Sunslayer (ONE) 202
+1 Grazilaxx, Illithid Scholar (CLB) 723
+1 Grim Hireling (AFC) 25
+1 Heroic Intervention (LTC) 249
+1 Hinterland Harbor (LTC) 317
+1 Ink-Eyes, Servant of Oni (BOK) 71
+6 Island (J22) 101
+1 Iymrith, Desert Doom (AFR) 62
+1 Kotis, the Fangkeeper (TDM) 202
+1 Legolas Greenleaf (LTC) 40
+1 Lightning Greaves (LTC) 281
+1 Llanowar Wastes (BRO) 299
+1 Malcolm, Alluring Scoundrel (LCI) 63
+1 Misty Rainforest (MM3) 240
+1 Morphic Pool (BBD) 83
+1 Nature's Lore (DMR) 170
+1 Ohran Frostfang (SLD) 237
+1 Ojer Kaslem, Deepest Growth // Temple of Cultivation (LCI) 204
+1 Old Gnawbone (AFR) 197
+1 Opulent Palace (DMC) 223
+1 Orochi Soul-Reaver (OTC) 22
+1 Overgrown Tomb (UNF) 284
+1 Psychic Frog (MH3) 344
+1 Rampant Frogantua (M3C) 118
+1 Rampant Growth (M12) 190
+1 Reconnaissance Mission (WOC) 105
+1 Rejuvenating Springs (LTC) 325
+1 Reliquary Tower (BRC) 196
+1 Revitalizing Repast // Old-Growth Grove (MH3) 256
+1 Rogue's Passage (LTC) 326
+1 Schema Thief (MOC) 24
+1 Scion of Calamity (LCC) 93
+1 Sol Ring (MOC) 381
+1 Stolen Identity (ZNC) 37
+1 Sunken Hollow (MOC) 428
+4 Swamp (J22) 106
+1 Swiftfoot Boots (BRC) 166
+1 Sword of Feast and Famine (2XM) 296
+1 Sword of Forge and Frontier (PONE) 244s
+1 Sword of Hearth and Home (MH2) 433
+1 Thada Adel, Acquisitor (WWK) 40
+1 The Indomitable (LCC) 75
+1 The Key to the Vault (OTJ) 54
+1 Thought Vessel (PLG22) 2
+1 Three Visits (MKC) 189
+1 Tinybones, the Pickpocket (OTJ) 109
+1 Toski, Bearer of Secrets (KHM) 197
+1 Toxic Deluge (C13) 96
+1 Trash the Town (OTJ) 186
+1 Undergrowth Stadium (CMR) 714
+1 Vanguard Suppressor (40K) 27
+1 Watery Grave (UNF) 278
+1 Winged Boots (OTC) 124
+1 Woodland Cemetery (LTC) 346
+1 Yavimaya Coast (DMU) 261
+1 Zagoth Triome (IKO) 313

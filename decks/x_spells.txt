@@ -6,6 +6,7 @@
 1 Arcane Signet (MOC) 348
 1 Awaken the Woods (BRO) 344
 1 Benevolent Hydra (J22) 38
+1 Bloom Tender (EVE) 66
 1 Blue Sun's Twilight (ONE) 379
 1 Boseiju, Who Endures (NEO) 501
 1 Branching Evolution (JMP) 29
@@ -23,7 +24,6 @@
 1 Doppelgang (MKM) 198
 1 Dreamroot Cascade (VOW) 282
 1 Elementalist's Palette (C21) 76
-1 Exocrine (40K) 76
 1 Fierce Guardianship (C20) 35
 1 Finale of Devastation (WAR) 160
 1 Flooded Grove (LTC) 309
@@ -44,18 +44,19 @@
 2 Island (J22) 101
 1 Izzet Boilerworks (BRC) 188
 1 Kalonian Hydra (M14) 181
-1 Kami of Whispered Hopes (MOM) 196
 1 Karn's Bastion (CMM) 1007
 1 Ketria Triome (IKO) 310
 1 Kiora, Behemoth Beckoner (WAR) 232
 1 Kiora's Follower (LCC) 273
 1 Lightning Greaves (LTC) 281
+1 Marvin, Murderous Mimic (DSK) 253
+1 Mawloc (40K) 133★
 1 Misty Rainforest (MM3) 240
 2 Mountain (J22) 107
 1 Novijen, Heart of Progress (C21) 305
-1 Open the Way (MAT) 23
 1 Oran-Rief, the Vastwood (NEC) 173
 1 Otawara, Soaring City (NEO) 503
+1 Ozolith, the Shattered Spire (MOM) 198
 1 Primordial Hydra (J22) 712
 1 Ravener (40K) 138
 1 Rejuvenating Springs (LTC) 325
@@ -87,7 +88,6 @@
 1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
 1 Twinning Staff (NCC) 383
 1 Tyrant Guard (40K) 103
-1 Tyvar's Stand (ONE) 190
 1 Unbound Flourishing (MH1) 189
 1 Up the Beanstalk (WOE) 195
 1 Vorinclex, Monstrous Raider (KHM) 333

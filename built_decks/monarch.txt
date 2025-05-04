@@ -2,7 +2,6 @@ Aragorn, King of Gondor
 Adarkar Wastes
 Adeline, Resplendent Cathar
 Akroma's Will
-Ancient Tomb
 Arcane Denial
 Arcane Signet
 Archivist of Gondor
@@ -12,6 +11,7 @@ Bastion Protector
 Battlefield Forge
 Beregond of the Guard
 Blade Historian
+Cascade Bluffs
 Cathars' Crusade
 Cavern of Souls
 Champions of Minas Tirith
@@ -35,6 +35,7 @@ Ghostly Prison
 Glacial Fortress
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout
 Greymond, Avacyn's Stalwart
+Guardian Sunmare
 Hallowed Fountain
 Horn of Gondor
 Horn of the Mark
@@ -50,7 +51,6 @@ Meticulous Archive
 Minamo, School at Water's Edge
 Mind Stone
 Mountain
-Odric, Lunarch Marshal
 Odric, Master Tactician
 Otawara, Soaring City
 Palace Jailer

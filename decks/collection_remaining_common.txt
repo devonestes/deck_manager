@@ -1,9 +1,9 @@
 7,Command Tower,Land,common
-12,Path of Ancestry,Land,common
+11,Path of Ancestry,Land,common
 13,Evolving Wilds,Land,common
-4,Cultivate,Sorcery,common
+3,Cultivate,Sorcery,common
 5,Thought Vessel,Artifact,common
-9,Rampant Growth,Sorcery,common
+8,Rampant Growth,Sorcery,common
 22,Terramorphic Expanse,Land,common
 4,Bojuka Bog,Land,common
 8,Commander's Sphere,Artifact,common
@@ -38,11 +38,11 @@
 3,Big Score,Instant,common
 2,Ornithopter of Paradise,Artifact Creature — Thopter,common
 3,Explore,Sorcery,common
-1,Foundry Inspector,Artifact Creature — Construct,common
+2,Foundry Inspector,Artifact Creature — Construct,common
 1,Nature's Claim,Instant,common
 1,Read the Bones,Sorcery,common
 2,Snap,Instant,common
-1,Gruul Turf,Land,common
+2,Gruul Turf,Land,common
 3,Boros Garrison,Land,common
 1,Rakdos Carnarium,Land,common
 1,Consider,Instant,common
@@ -55,7 +55,7 @@
 1,Opal Palace,Land,common
 2,Gruul Signet,Artifact,common
 2,Corrupted Conviction,Instant,common
-2,Distant Melody,Sorcery,common
+1,Distant Melody,Sorcery,common
 2,Mortuary Mire,Land,common
 1,Ghostly Flicker,Instant,common
 1,Sky Diamond,Artifact,common
@@ -65,6 +65,7 @@
 1,Elves of Deep Shadow,Creature — Elf Druid,common
 1,Goblin Electromancer,Creature — Goblin Wizard,common
 3,Forgotten Cave,Land,common
+1,Reckless Fireweaver,Creature — Human Artificer,common
 3,Scoured Barrens,Land,common
 1,Aqueous Form,Enchantment — Aura,common
 1,Grapeshot,Sorcery,common
@@ -151,6 +152,7 @@
 1,Satyr Wayfinder,Creature — Satyr,common
 2,Rakdos Guildgate,Land — Gate,common
 1,Gruul Guildgate,Land — Gate,common
+1,Tree of Tales,Artifact Land,common
 3,Rimewood Falls,Snow Land — Forest Island,common
 1,Universal Automaton,Artifact Creature — Shapeshifter,common
 1,End the Festivities,Sorcery,common
@@ -195,6 +197,7 @@
 4,Contaminated Aquifer,Land — Island Swamp,common
 2,Crib Swap,Kindred Instant — Shapeshifter,common
 1,Bitter Reunion,Enchantment,common
+1,Beamtown Beatstick,Artifact — Equipment,common
 1,Mycosynth Wellspring,Artifact,common
 1,Caustic Caterpillar,Creature — Insect,common
 2,Overgrowth,Enchantment — Aura,common
@@ -238,11 +241,10 @@
 4,Think Twice,Instant,common
 1,Tanglepool Bridge,Artifact Land,common
 1,Reckoner's Bargain,Instant,common
-1,Gemhide Sliver,Creature — Sliver,common
 1,Mogg War Marshal,Creature — Goblin Warrior,common
 1,Desert of the Indomitable,Land — Desert,common
 3,Shadow Rift,Instant,common
-5,Phyrexian Walker,Artifact Creature — Phyrexian Construct,common
+6,Phyrexian Walker,Artifact Creature — Phyrexian Construct,common
 14,Memory Lapse,Instant,common
 4,Glacial Floodplain,Snow Land — Plains Island,common
 1,Prizefight,Instant,common
@@ -262,6 +264,7 @@
 1,Careful Study,Sorcery,common
 2,Deceptive Landscape,Land,common
 1,Tandem Lookout,Creature — Human Scout,common
+1,Slagwoods Bridge,Artifact Land,common
 4,Alpine Meadow,Snow Land — Mountain Plains,common
 1,Heliod's Pilgrim,Creature — Human Cleric,common
 1,Ninja of the Deep Hours,Creature — Human Ninja,common
@@ -314,7 +317,6 @@
 1,Qasali Pridemage,Creature — Cat Wizard,common
 2,Fanatical Offering,Instant,common
 2,Frogify,Enchantment — Aura,common
-1,Sentinel Sliver,Creature — Sliver,common
 2,Martial Impetus,Enchantment — Aura,common
 1,Vines of Vastwood,Instant,common
 4,Sulfurous Mire,Snow Land — Swamp Mountain,common
@@ -335,7 +337,6 @@
 3,Blazing Crescendo,Instant,common
 4,Mirage Mesa,Land — Desert,common
 1,Plundering Barbarian,Creature — Dwarf Barbarian,common
-1,Quick Sliver,Creature — Sliver,common
 1,Idyllic Grange,Land — Plains,common
 1,Scour from Existence,Instant,common
 1,Thornglint Bridge,Artifact Land,common
@@ -356,7 +357,6 @@
 1,Into the Roil,Instant,common
 1,Spitfire Lagac,Creature — Lizard,common
 1,Spider Umbra,Enchantment — Aura,common
-1,Striking Sliver,Creature — Sliver,common
 15,Giant Growth,Instant,common
 1,Elven Farsight,Sorcery,common
 1,Cast into the Fire,Instant,common
@@ -376,8 +376,6 @@
 2,Hidden Necropolis,Land — Cave,common
 2,Pollenbright Druid,Creature — Elf Druid,common
 2,Goldhound,Artifact Creature — Treasure Dog,common
-1,Crypt Sliver,Creature — Sliver,common
-1,Sinew Sliver,Creature — Sliver,common
 1,Omen of the Sea,Enchantment,common
 1,Tocasia's Dig Site,Land,common
 1,Snapping Voidcraw,Creature — Eldrazi Turtle,common
@@ -395,6 +393,7 @@
 1,Hidden Strings,Sorcery,common
 2,Vedalken Engineer,Creature — Vedalken Artificer,common
 1,Eviscerator's Insight,Instant,common
+1,Vorrac Battlehorns,Artifact — Equipment,common
 1,Pestilent Syphoner,Creature — Phyrexian Insect,common
 2,Dazzling Angel,Creature — Angel,common
 1,Waterfront District,Land,common
@@ -402,7 +401,6 @@
 2,Putrid Goblin,Creature — Zombie Goblin,common
 2,Defiant Strike,Instant,common
 2,Prey Upon,Sorcery,common
-1,Winged Sliver,Creature — Sliver,common
 1,Gush,Instant,common
 2,Gift of Paradise,Enchantment — Aura,common
 2,The Fair Basilica,Land — Sphere,common
@@ -411,10 +409,8 @@
 1,Voracious Vermin,Creature — Rat,common
 1,You Are Already Dead,Instant,common
 1,Tramway Station,Land,common
-1,Predatory Sliver,Creature — Sliver,common
 1,Myr Enforcer,Artifact Creature — Myr,common
 1,Botanical Plaza,Land,common
-1,Two-Headed Sliver,Creature — Sliver,common
 1,Scale the Heights,Sorcery,common
 1,Scrollshift,Instant,common
 13,Pacifism,Enchantment — Aura,common
@@ -436,14 +432,13 @@
 1,Mana Geode,Artifact,common
 1,Dawnbringer Cleric,Creature — Human Cleric,common
 1,Annihilating Glare,Sorcery,common
-4,Heart Sliver,Creature — Sliver,common
+3,Heart Sliver,Creature — Sliver,common
 1,Cliffhaven Kitesail,Artifact — Equipment,common
 1,Sinister Sabotage,Instant,common
 4,Hopeless Nightmare,Enchantment,common
 1,Benevolent Bodyguard,Creature — Human Cleric,common
 2,Greater Tanuki,Enchantment Creature — Dog,common
 1,Putrid Imp,Creature — Zombie Imp,common
-1,Muscle Sliver,Creature — Sliver,common
 8,Unable to Scream,Enchantment — Aura,common
 1,Thraben Inspector,Creature — Human Soldier,common
 1,Shield-Wall Sentinel,Artifact Creature — Golem,common
@@ -458,7 +453,6 @@
 1,Three Tree Mascot,Artifact Creature — Shapeshifter,common
 1,Phyrexian Rager,Creature — Phyrexian Horror,common
 2,New Horizons,Enchantment — Aura,common
-1,Virulent Sliver,Creature — Sliver,common
 2,Master's Rebuke,Instant,common
 2,Deduce,Instant,common
 2,Thraben Charm,Instant,common
@@ -496,7 +490,7 @@
 1,Haunted Fengraf,Land,common
 4,Axgard Cavalry,Creature — Dwarf Berserker,common
 6,Don't Make a Sound,Instant,common
-1,Bladegraft Aspirant,Creature — Phyrexian Warrior,common
+2,Bladegraft Aspirant,Creature — Phyrexian Warrior,common
 1,Ardent Elementalist,Creature — Human Shaman,common
 1,Refocus,Instant,common
 12,Soldevi Adnate,Creature — Human Cleric,common
@@ -622,7 +616,6 @@
 1,Journey to Nowhere,Enchantment,common
 1,Exclude,Instant,common
 1,Mother Bear,Creature — Bear,common
-1,Basal Sliver,Creature — Sliver,common
 1,Bladebrand,Instant,common
 2,Skewer the Critics,Sorcery,common
 2,Perilous Research,Instant,common
@@ -650,7 +643,6 @@
 3,Corrupted Shapeshifter,Creature — Eldrazi Shapeshifter,common
 1,Slumbering Keepguard,Creature — Human Knight,common
 1,Guildsworn Prowler,Creature — Tiefling Rogue Assassin,common
-1,Cleaving Sliver,Creature — Sliver,common
 1,Sinister Starfish,Creature — Starfish,common
 2,Fanatical Firebrand,Creature — Goblin Pirate,common
 1,Yavimaya Steelcrusher,Creature — Ape Warrior,common
@@ -1053,7 +1045,7 @@
 10,Innocuous Rat,Creature — Rat,common
 1,Plundering Pirate,Creature — Orc Pirate,common
 1,Reality Ripple,Instant,common
-4,Talon Sliver,Creature — Sliver,common
+3,Talon Sliver,Creature — Sliver,common
 2,Debt to the Kami,Instant,common
 1,High Stride,Instant,common
 1,Countermand,Instant,common
@@ -2785,7 +2777,7 @@
 11,Snow-Covered Mountain,Basic Snow Land — Mountain,common
 3,Dog,Token Creature — Dog,common
 4,Squirrel,Token Creature — Squirrel,common
-135,Plains,Basic Land — Plains,common
+133,Plains,Basic Land — Plains,common
 8,Snow-Covered Forest,Basic Snow Land — Forest,common
 13,Copy,Token,common
 8,Undercity // The Initiative,Dungeon — Undercity // Card,common
@@ -2869,7 +2861,7 @@
 4,Rabbit,Token Creature — Rabbit,common
 2,Phyrexian Myr,Token Artifact Creature — Phyrexian Myr,common
 1,Kithkin Soldier,Token Creature — Kithkin Soldier,common
-129,Forest,Basic Land — Forest,common
+134,Forest,Basic Land — Forest,common
 3,Dinosaur Beast,Token Creature — Dinosaur Beast,common
 1,Orochi Colony,Plane — Kamigawa,common
 14,Thopter,Token Artifact Creature — Thopter,common
@@ -2884,7 +2876,7 @@
 8,Gremlin,Token Creature — Gremlin,common
 2,Wizard,Token Creature — Wizard,common
 2,Shrine,Token Enchantment Creature — Shrine,common
-5,Ornithopter,Token Artifact Creature — Thopter,common
+6,Ornithopter,Token Artifact Creature — Thopter,common
 1,Primo, the Indivisible,Token Legendary Creature — Fractal,common
 15,Treasure,Card,common
 2,Rogue,Token Creature — Rogue,common
@@ -2931,7 +2923,7 @@
 4,Shapeshifter,Token Creature — Shapeshifter,common
 2,Phyrexian Germ,Token Creature — Phyrexian Germ,common
 4,Germ,Token Creature — Germ,common
-62,Mountain,Basic Land — Mountain,common
+66,Mountain,Basic Land — Mountain,common
 1,The Caldaia,Plane — Capenna,common
 2,Dinosaur Egg,Token Creature — Dinosaur Egg,common
 1,Hydra,Token Creature — Hydra,common
@@ -2948,7 +2940,7 @@
 2,Monster // Sorcerer,Token Enchantment — Aura Role // Token Enchantment — Aura Role,common
 1,Truga Jungle,Plane — Ergamon,common
 1,Octopus,Token Creature — Octopus,common
-118,Island,Basic Land — Island,common
+116,Island,Basic Land — Island,common
 9,Servo,Token Artifact Creature — Servo,common
 3,Map,Token Artifact — Map,common
 1,Crab,Token Creature — Crab,common
@@ -2970,6 +2962,6 @@
 2,Wolf,Token Creature — Wolf,common
 3,Bear,Token Creature — Bear,common
 7,Elf Warrior,Token Creature — Elf Warrior,common
-81,Swamp,Basic Land — Swamp,common
+79,Swamp,Basic Land — Swamp,common
 3,Toy,Token Artifact Creature — Toy,common
 4,Wurm,Token Creature — Wurm,common

@@ -2,7 +2,6 @@
 1 Adarkar Wastes (ICE) 351
 1 Adeline, Resplendent Cathar (MOC) 167
 1 Akroma's Will (CMR) 615
-1 Ancient Tomb (TMP) 315
 1 Arcane Denial (ALL) 22a
 1 Arcane Signet (LTC) 273
 1 Archivist of Gondor (LTC) 18
@@ -12,6 +11,7 @@
 1 Battlefield Forge (LTC) 296
 1 Beregond of the Guard (LTC) 9
 1 Blade Historian (PSTX) 165p
+1 Cascade Bluffs (CMM) 990
 1 Cathars' Crusade (AVR) 10
 1 Cavern of Souls (AVR) 226
 1 Champions of Minas Tirith (LTC) 10
@@ -35,6 +35,7 @@
 1 Glacial Fortress (LTC) 315
 1 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (BOT) 11
 1 Greymond, Avacyn's Stalwart (SLD) 143
+1 Guardian Sunmare (DFT) 15
 1 Hallowed Fountain (UNF) 277
 1 Horn of Gondor (LTR) 240
 1 Horn of the Mark (LTR) 241
@@ -50,7 +51,6 @@
 1 Minamo, School at Water's Edge (CHK) 279
 1 Mind Stone (MOC) 364
 1 Mountain (LTR) 268
-1 Odric, Lunarch Marshal (PLST) SOI-31
 1 Odric, Master Tactician (MIC) 90
 1 Otawara, Soaring City (NEO) 503
 1 Palace Jailer (LTC) 174
