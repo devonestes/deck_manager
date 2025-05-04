@@ -1,0 +1,58 @@
+1,Narset, Parter of Veils,Legendary Planeswalker — Narset,uncommon
+2,Elspeth, Sun's Champion,Legendary Planeswalker — Elspeth,mythic
+1,Liliana, Dreadhorde General,Legendary Planeswalker — Liliana,mythic
+1,Ugin, the Ineffable,Legendary Planeswalker — Ugin,rare
+1,Teferi, Time Raveler,Legendary Planeswalker — Teferi,mythic
+1,Ugin, the Spirit Dragon,Legendary Planeswalker — Ugin,mythic
+1,Vraska, Betrayal's Sting,Legendary Planeswalker — Vraska,mythic
+1,Tezzeret the Seeker,Legendary Planeswalker — Tezzeret,mythic
+1,Oko, Thief of Crowns,Legendary Planeswalker — Oko,mythic
+1,Teferi, Master of Time,Legendary Planeswalker — Teferi,mythic
+2,Liliana, Death's Majesty,Legendary Planeswalker — Liliana,mythic
+2,Grist, the Hunger Tide,Legendary Planeswalker — Grist,mythic
+2,Wrenn and Realmbreaker,Legendary Planeswalker — Wrenn,mythic
+1,Kiora, Behemoth Beckoner,Legendary Planeswalker — Kiora,uncommon
+1,Teferi, Temporal Pilgrim,Legendary Planeswalker — Teferi,mythic
+1,Vivien, Champion of the Wilds,Legendary Planeswalker — Vivien,rare
+1,Chandra, Awakened Inferno,Legendary Planeswalker — Chandra,mythic
+1,Tevesh Szat, Doom of Fools,Legendary Planeswalker — Szat,mythic
+1,Liliana of the Veil,Legendary Planeswalker — Liliana,mythic
+1,Lolth, Spider Queen,Legendary Planeswalker — Lolth,mythic
+1,Tezzeret, Betrayer of Flesh,Legendary Planeswalker — Tezzeret,mythic
+1,Minsc & Boo, Timeless Heroes,Legendary Planeswalker — Minsc,mythic
+1,Tamiyo, Field Researcher,Legendary Planeswalker — Tamiyo,mythic
+1,Garruk, Cursed Huntsman,Legendary Planeswalker — Garruk,mythic
+1,Calix, Destiny's Hand,Legendary Planeswalker — Calix,mythic
+1,Vivien Reid,Legendary Planeswalker — Vivien,mythic
+1,Sorin, Imperious Bloodlord,Legendary Planeswalker — Sorin,mythic
+1,Sorin, Lord of Innistrad,Legendary Planeswalker — Sorin,mythic
+1,Nicol Bolas, the Ravager // Nicol Bolas, the Arisen,Legendary Creature — Elder Dragon // Legendary Planeswalker — Bolas,mythic
+1,Jiang Yanggu, Wildcrafter,Legendary Planeswalker — Yanggu,uncommon
+2,Jace, the Perfected Mind,Legendary Planeswalker — Jace,mythic
+1,Garruk Wildspeaker,Legendary Planeswalker — Garruk,mythic
+1,Kaito, Dancing Shadow,Legendary Planeswalker — Kaito,rare
+2,Sorin of House Markov // Sorin, Ravenous Neonate,Legendary Creature — Human Noble // Legendary Planeswalker — Sorin,mythic
+2,Nissa, Steward of Elements,Legendary Planeswalker — Nissa,mythic
+1,Serra the Benevolent,Legendary Planeswalker — Serra,mythic
+1,Karn Liberated,Legendary Planeswalker — Karn,mythic
+1,Vivien on the Hunt,Legendary Planeswalker — Vivien,mythic
+1,Kasmina, Enigmatic Mentor,Legendary Planeswalker — Kasmina,uncommon
+1,Vraska the Unseen,Legendary Planeswalker — Vraska,mythic
+1,Dack Fayden,Legendary Planeswalker — Dack,mythic
+1,Lord Windgrace,Legendary Planeswalker — Windgrace,mythic
+2,Ajani, Nacatl Pariah // Ajani, Nacatl Avenger,Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani,mythic
+1,Ral, Monsoon Mage // Ral, Leyline Prodigy,Legendary Creature — Human Wizard // Legendary Planeswalker — Ral,mythic
+1,Quintorius Kand,Legendary Planeswalker — Quintorius,mythic
+1,Narset Transcendent,Legendary Planeswalker — Narset,mythic
+1,Jace, Architect of Thought,Legendary Planeswalker — Jace,mythic
+6,Kaito, Bane of Nightmares,Legendary Planeswalker — Kaito,mythic
+1,Invasion of New Phyrexia // Teferi Akosa of Zhalfir,Battle — Siege // Legendary Planeswalker — Teferi,mythic
+1,Saheeli, Filigree Master,Legendary Planeswalker — Saheeli,mythic
+1,Garruk, Apex Predator,Legendary Planeswalker — Garruk,mythic
+3,Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar,Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiyo,mythic
+1,Koth of the Hammer,Legendary Planeswalker — Koth,mythic
+1,Daretti, Ingenious Iconoclast,Legendary Planeswalker — Daretti,mythic
+1,Sorin, Solemn Visitor,Legendary Planeswalker — Sorin,mythic
+2,Arlinn, Voice of the Pack,Legendary Planeswalker — Arlinn,uncommon
+1,Sarkhan, the Dragonspeaker,Legendary Planeswalker — Sarkhan,mythic
+1,Wrenn and One,Land Planeswalker — Wrenn,rare

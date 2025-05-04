@@ -1,0 +1,726 @@
+4,Cultivate,Sorcery,common
+9,Rampant Growth,Sorcery,common
+5,Demonic Tutor,Sorcery,mythic
+2,Feed the Swarm,Sorcery,common
+3,Faithless Looting,Sorcery,common
+1,Vandalblast,Sorcery,uncommon
+2,Windfall,Sorcery,uncommon
+1,Victimize,Sorcery,uncommon
+1,Ponder,Sorcery,common
+3,Farewell,Sorcery,rare
+2,Austere Command,Sorcery,rare
+1,Preordain,Sorcery,common
+1,Sign in Blood,Sorcery,common
+1,Gamble,Sorcery,rare
+3,Explore,Sorcery,common
+1,Diabolic Intent,Sorcery,rare
+3,Harmonize,Sorcery,uncommon
+2,Shamanic Revelation,Sorcery,rare
+4,Finale of Devastation,Sorcery,mythic
+1,Damnation,Sorcery,rare
+1,Read the Bones,Sorcery,common
+1,Sevinne's Reclamation,Sorcery,rare
+3,Exsanguinate,Sorcery,uncommon
+1,Supreme Verdict,Sorcery,rare
+1,Buried Alive,Sorcery,uncommon
+1,Fabricate,Sorcery,uncommon
+1,Overwhelming Stampede,Sorcery,rare
+1,Dread Return,Sorcery,common
+2,Distant Melody,Sorcery,common
+5,Wheel of Fortune,Sorcery,mythic
+1,Grim Tutor,Sorcery,mythic
+3,Curse of the Swine,Sorcery,rare
+1,Grapeshot,Sorcery,common
+1,Life from the Loam,Sorcery,rare
+1,Rise of the Dark Realms,Sorcery,mythic
+2,Decimate,Sorcery,rare
+2,Tempt with Discovery,Sorcery,rare
+2,Dusk // Dawn,Sorcery // Sorcery,rare
+1,Mizzix's Mastery,Sorcery,rare
+14,Thoughtcast,Sorcery,common
+2,Disrupt Decorum,Sorcery,rare
+3,Tezzeret's Gambit,Sorcery,rare
+1,Vanquish the Horde,Sorcery,rare
+1,Expressive Iteration,Sorcery,uncommon
+1,Rite of Replication,Sorcery,rare
+1,Blasphemous Edict,Sorcery,rare
+1,Fumigate,Sorcery,rare
+2,Time Wipe,Sorcery,rare
+2,Regrowth,Sorcery,uncommon
+1,Triumph of the Hordes,Sorcery,uncommon
+1,Ezuri's Predation,Sorcery,rare
+1,Decree of Pain,Sorcery,rare
+1,Martial Coup,Sorcery,rare
+1,Unnatural Restoration,Sorcery,uncommon
+1,Syphon Mind,Sorcery,common
+3,Sylvan Scrying,Sorcery,uncommon
+1,Vindicate,Sorcery,rare
+1,Painful Truths,Sorcery,rare
+2,Bridgeworks Battle // Tanglespan Bridgeworks,Sorcery // Land,uncommon
+2,Fell the Mighty,Sorcery,rare
+1,Ravenform,Sorcery,common
+1,Brass's Bounty,Sorcery,rare
+1,Traverse the Outlands,Sorcery,rare
+3,Promise of Loyalty,Sorcery,rare
+1,Cut a Deal,Sorcery,uncommon
+2,Tormenting Voice,Sorcery,common
+1,Winds of Rath,Sorcery,rare
+1,Urza's Ruinous Blast,Legendary Sorcery,rare
+1,Steelshaper's Gift,Sorcery,rare
+2,Deep Analysis,Sorcery,common
+2,Finale of Revelation,Sorcery,mythic
+1,Genesis Wave,Sorcery,rare
+1,White Sun's Twilight,Sorcery,rare
+1,Crackle with Power,Sorcery,mythic
+1,Organic Extinction,Sorcery,rare
+1,Sundering Eruption // Volcanic Fissure,Sorcery // Land,uncommon
+1,Secret Rendezvous,Sorcery,uncommon
+3,Bushwhack,Sorcery,common
+1,Casualties of War,Sorcery,rare
+1,Blood Money,Sorcery,mythic
+1,Rise of the Witch-king,Sorcery,uncommon
+1,Brilliant Restoration,Sorcery,rare
+1,Natural Order,Sorcery,mythic
+2,Drown in Ichor,Sorcery,uncommon
+1,End the Festivities,Sorcery,common
+1,Scheming Symmetry,Sorcery,rare
+1,Virtue of Strength // Garenbrig Growth,Enchantment // Sorcery — Adventure,mythic
+1,Chart a Course,Sorcery,uncommon
+1,Urban Evolution,Sorcery,uncommon
+1,Dragon Fodder,Sorcery,common
+1,Turntimber Symbiosis // Turntimber, Serpentine Wood,Sorcery // Land,mythic
+1,Villainous Wealth,Sorcery,rare
+1,Fractured Sanity,Sorcery,rare
+1,Infectious Inquiry,Sorcery,common
+1,Requisition Raid,Sorcery,uncommon
+2,Krenko's Command,Sorcery,common
+1,Life's Legacy,Sorcery,rare
+1,Thirsting Roots,Sorcery,common
+2,Dance of the Manse,Sorcery,rare
+1,Day of Judgment,Sorcery,rare
+1,Earthquake,Sorcery,rare
+1,Crash Through,Sorcery,common
+1,Reckless Impulse,Sorcery,common
+2,Contentious Plan,Sorcery,common
+1,Hordeling Outburst,Sorcery,common
+1,Personal Tutor,Sorcery,rare
+1,Reckless Handling,Sorcery,uncommon
+7,Merchant Scroll,Sorcery,uncommon
+1,Mizzium Mortars,Sorcery,rare
+1,Expropriate,Sorcery,mythic
+2,Molten Duplication,Sorcery,mythic
+1,Insurrection,Sorcery,mythic
+2,Tectonic Hazard,Sorcery,common
+1,Black Sun's Zenith,Sorcery,rare
+1,Debt to the Deathless,Sorcery,uncommon
+1,Increasing Devotion,Sorcery,rare
+1,Olivia's Wrath,Sorcery,rare
+1,Slaughter the Strong,Sorcery,uncommon
+8,Enter the Enigma,Sorcery,common
+1,Spectacular Showdown,Sorcery,rare
+1,Rousing Refrain,Sorcery,rare
+1,Winds of Change,Sorcery,uncommon
+6,Grab the Prize,Sorcery,common
+1,Emeria's Call // Emeria, Shattered Skyclave,Sorcery // Land,mythic
+1,Rise and Shine,Sorcery,rare
+1,Sunfall,Sorcery,rare
+1,Titania's Command,Sorcery,rare
+1,Chain of Smog,Sorcery,uncommon
+1,One with the Machine,Sorcery,rare
+1,Lively Dirge,Sorcery,uncommon
+1,Reshape the Earth,Sorcery,mythic
+1,River's Rebuke,Sorcery,rare
+1,Heat Shimmer,Sorcery,rare
+1,Animist's Awakening,Sorcery,rare
+1,Renegade Tactics,Sorcery,common
+1,Careful Study,Sorcery,common
+1,Temporal Trespass,Sorcery,mythic
+1,Bribery,Sorcery,mythic
+1,Blue Sun's Twilight,Sorcery,rare
+1,Devastation Tide,Sorcery,rare
+1,Summer Bloom,Sorcery,uncommon
+1,Tasha's Hideous Laughter,Sorcery,rare
+1,Tempt with Bunnies,Sorcery,rare
+1,Temporal Manipulation,Sorcery,mythic
+1,Sylvan Tutor,Sorcery,uncommon
+1,Green Sun's Twilight,Sorcery,rare
+1,Duress,Sorcery,common
+1,Chatterstorm,Sorcery,common
+1,Unburial Rites,Sorcery,uncommon
+1,Swarmyard Massacre,Sorcery,rare
+1,Transmute Artifact,Sorcery,rare
+1,Wear Down,Sorcery,uncommon
+3,Demonic Counsel,Sorcery,rare
+1,Grow from the Ashes,Sorcery,common
+1,Smell Fear,Sorcery,common
+2,Boltwave,Sorcery,uncommon
+1,Hell to Pay,Sorcery,rare
+7,Eaten Alive,Sorcery,common
+1,Fangs of Kalonia,Sorcery,uncommon
+1,Doppelgang,Sorcery,rare
+1,Prosperity,Sorcery,uncommon
+1,Portent,Sorcery,common
+2,Glimpse the Impossible,Sorcery,common
+1,Calamity of the Titans,Sorcery,rare
+1,Volcanic Torrent,Sorcery,uncommon
+2,Maelstrom Pulse,Sorcery,rare
+1,Expand the Sphere,Sorcery,uncommon
+1,Thrilling Discovery,Sorcery,common
+1,Primal Might,Sorcery,rare
+1,Stolen Identity,Sorcery,rare
+1,Fell,Sorcery,uncommon
+1,Vat Emergence,Sorcery,uncommon
+1,Baral's Expertise,Sorcery,rare
+1,Diresight,Sorcery,common
+1,Split Up,Sorcery,rare
+2,Open the Gates,Sorcery,common
+1,Nylea's Intervention,Sorcery,rare
+1,Map the Frontier,Sorcery,uncommon
+1,Compulsive Research,Sorcery,common
+3,Fireball,Sorcery,uncommon
+1,Collective Voyage,Sorcery,rare
+1,Sleight of Hand,Sorcery,common
+1,Gift of Estates,Sorcery,uncommon
+1,Skittering Invasion,Kindred Sorcery — Eldrazi,uncommon
+1,Rootcast Apprenticeship,Sorcery,rare
+4,Thoughtseize,Sorcery,rare
+1,Red Sun's Twilight,Sorcery,rare
+1,Thunderherd Migration,Sorcery,uncommon
+1,Elven Farsight,Sorcery,common
+4,Act of Treason,Sorcery,common
+1,Replication Technique,Sorcery,rare
+1,Sylvan Offering,Sorcery,rare
+1,Finale of Promise,Sorcery,mythic
+1,Plea for Power,Sorcery,rare
+2,Find // Finality,Sorcery // Sorcery,rare
+1,Mosswood Dreadknight // Dread Whispers,Creature — Human Knight // Sorcery — Adventure,rare
+1,Capture of Jingzhou,Sorcery,mythic
+1,Visions of Glory,Sorcery,rare
+1,Burn Down the House,Sorcery,rare
+2,Gaea's Blessing,Sorcery,uncommon
+1,Hidden Strings,Sorcery,common
+2,Sleep,Sorcery,uncommon
+1,Coiling Rebirth,Sorcery,rare
+1,The Ring Goes South,Sorcery,rare
+1,Epic Experiment,Sorcery,mythic
+1,Stormkeld Vanguard // Bear Down,Creature — Giant Warrior // Sorcery — Adventure,uncommon
+2,Prey Upon,Sorcery,common
+1,Savage Order,Sorcery,rare
+1,Rush of Dread,Sorcery,rare
+1,Savage Stomp,Sorcery,uncommon
+1,Lock and Load,Sorcery,rare
+1,Stolen by the Fae,Sorcery,rare
+1,Selective Obliteration,Sorcery,rare
+1,Electroduplicate,Sorcery,rare
+1,Preposterous Proportions,Sorcery,rare
+1,Scale the Heights,Sorcery,common
+3,Come Back Wrong,Sorcery,rare
+2,Carnivorous Canopy,Sorcery,common
+1,Malevolent Rumble,Sorcery,common
+2,Open into Wonder,Sorcery,uncommon
+1,Bond of Discipline,Sorcery,uncommon
+1,Furnace Reins,Sorcery,uncommon
+1,Highway Robbery,Sorcery,common
+1,Roar of Challenge,Sorcery,uncommon
+1,Scalding Viper // Steam Clean,Creature — Elemental Snake // Sorcery — Adventure,rare
+1,Annihilating Glare,Sorcery,common
+1,Arcane Heist,Sorcery,rare
+1,Tendrils of Agony,Sorcery,uncommon
+1,Realm-Cloaked Giant // Cast Off,Creature — Giant // Sorcery — Adventure,mythic
+2,Divination,Sorcery,common
+1,Final Act,Sorcery,rare
+1,Mire in Misery,Sorcery,uncommon
+1,Spider Spawning,Sorcery,uncommon
+2,Mass Appeal,Sorcery,uncommon
+1,Smitten Swordmaster // Curry Favor,Creature — Human Knight // Sorcery — Adventure,common
+4,Borrowing 100,000 Arrows,Sorcery,common
+1,Abundant Harvest,Sorcery,common
+1,Vivisurgeon's Insight,Sorcery,common
+1,Universal Surveillance,Sorcery,rare
+1,Hop to It,Sorcery,uncommon
+1,Slime Against Humanity,Sorcery,common
+1,Terisiare's Devastation,Sorcery,rare
+1,Promise of Aclazotz // Foul Rebirth,Enchantment // Sorcery — Adventure,rare
+1,From the Catacombs,Sorcery,rare
+2,Zombify,Sorcery,uncommon
+1,Hex,Sorcery,rare
+1,Gleeful Demolition,Sorcery,uncommon
+1,Twisted Fealty,Sorcery,uncommon
+1,Citywide Bust,Sorcery,rare
+1,Dance of the Tumbleweeds,Sorcery,common
+1,Rabid Bite,Sorcery,common
+1,Noxious Assault,Sorcery,uncommon
+1,Battle Screech,Sorcery,common
+1,Rally at the Hornburg,Sorcery,common
+2,Strategic Planning,Sorcery,common
+1,Over the Edge,Sorcery,common
+1,Reckless Charge,Sorcery,common
+5,Involuntary Employment,Sorcery,common
+2,Anchor to Reality,Sorcery,uncommon
+1,Aggressive Biomancy,Sorcery,rare
+1,Rise from the Tides,Sorcery,uncommon
+1,Call for Aid,Sorcery,rare
+1,Embereth Shieldbreaker // Battle Display,Creature — Human Knight // Sorcery — Adventure,uncommon
+1,Part the Waterveil,Sorcery,mythic
+2,Jolted Awake,Sorcery,common
+1,Warp World,Sorcery,rare
+1,Confiscation Coup,Sorcery,rare
+1,Notion Rain,Sorcery,common
+1,Cruelclaw's Heist,Sorcery,rare
+4,Macabre Waltz,Sorcery,common
+1,Scouring Sands,Sorcery,common
+6,Final Vengeance,Sorcery,common
+1,Attempted Murder,Sorcery,uncommon
+1,Helping Hand,Sorcery,uncommon
+2,Sunset Revelry,Sorcery,uncommon
+1,Call of the Death-Dweller,Sorcery,uncommon
+1,Winding Way,Sorcery,common
+1,Hard Evidence,Sorcery,common
+2,Decree of Justice,Sorcery,uncommon
+5,Pyroclasm,Sorcery,uncommon
+2,Courage in Crisis,Sorcery,common
+1,Connive // Concoct,Sorcery // Sorcery,rare
+1,Order of Midnight // Alter Fate,Creature — Human Knight // Sorcery — Adventure,uncommon
+1,Young Blue Dragon // Sand Augury,Creature — Dragon // Sorcery — Adventure,common
+2,Waltz of Rage,Sorcery,rare
+2,Ral's Reinforcements,Sorcery,common
+1,Mob Verdict,Sorcery,rare
+2,Atraxa's Fall,Sorcery,common
+1,Diabolic Vision,Sorcery,uncommon
+1,Bygone Marvels,Sorcery,rare
+1,Slagstorm,Sorcery,rare
+1,Rush of Knowledge,Sorcery,uncommon
+1,Heroic Reinforcements,Sorcery,uncommon
+1,Localized Destruction,Sorcery,rare
+1,Glimpse of Nature,Sorcery,rare
+1,Calamity of Cinders,Sorcery,rare
+3,Hazardous Blast,Sorcery,common
+1,Ugin's Insight,Sorcery,rare
+1,Adventurous Impulse,Sorcery,common
+1,Discovery // Dispersal,Sorcery // Instant,uncommon
+1,Worldfire,Sorcery,mythic
+2,Mark of Mutiny,Sorcery,common
+1,Mishra's Command,Sorcery,rare
+3,Dream Cache,Sorcery,common
+1,Feed the Infection,Sorcery,uncommon
+1,Hurricane,Sorcery,rare
+3,Exorcise,Sorcery,uncommon
+2,Skewer the Critics,Sorcery,common
+1,Ancient Stirrings,Sorcery,common
+1,Temporal Extortion,Sorcery,rare
+1,Goblin Negotiation,Sorcery,uncommon
+1,Irencrag Feat,Sorcery,rare
+1,Road of Return,Sorcery,rare
+1,Worst Fears,Sorcery,mythic
+1,Rob the Archives,Sorcery,uncommon
+1,Against All Odds,Sorcery,uncommon
+2,Energy Tap,Sorcery,common
+2,Flux,Sorcery,common
+2,Dewdrop Cure,Sorcery,uncommon
+1,Journey of Discovery,Sorcery,common
+2,Nissa's Expedition,Sorcery,uncommon
+2,Make Your Own Luck,Sorcery,uncommon
+1,Gravitic Punch,Sorcery,common
+2,Meltdown,Sorcery,uncommon
+9,Hymn to Tourach,Sorcery,uncommon
+2,Lunar Insight,Sorcery,rare
+1,Illicit Shipment,Sorcery,uncommon
+1,Charnel Serenade,Sorcery,rare
+2,Sweltering Suns,Sorcery,rare
+1,Ghastly Conscription,Sorcery,mythic
+1,Spark Harvest,Sorcery,common
+1,Alchemist's Gambit,Sorcery,rare
+2,Valgavoth's Onslaught,Sorcery,rare
+1,Pirate's Prize,Sorcery,common
+1,Stock Up,Sorcery,uncommon
+2,Explosive Entry,Sorcery,common
+2,Sunder the Gateway,Sorcery,common
+1,Waves of Aggression,Sorcery,rare
+1,Overwhelming Encounter,Sorcery,uncommon
+3,Pilfer,Sorcery,common
+1,Lovestruck Beast // Heart's Desire,Creature — Beast Noble // Sorcery — Adventure,rare
+7,Raise Dead,Sorcery,common
+1,Invoke the Winds,Sorcery,rare
+2,Pox,Sorcery,rare
+1,Planar Outburst,Sorcery,rare
+1,Witherbloom Command,Sorcery,rare
+1,Grizzly Fate,Sorcery,uncommon
+1,Pyretic Charge,Sorcery,rare
+1,Hard-Hitting Question,Sorcery,uncommon
+1,One Last Job,Sorcery,rare
+1,Tamiyo's Epiphany,Sorcery,common
+1,Hide in Plain Sight,Sorcery,rare
+1,Forked Bolt,Sorcery,common
+7,Monstrous Emergence,Sorcery,common
+1,Storm the Seedcore,Sorcery,uncommon
+1,Forbidden Friendship,Sorcery,common
+1,Banishing Slash,Sorcery,uncommon
+1,Ransack the Lab,Sorcery,common
+1,Savor the Moment,Sorcery,rare
+1,Flame Jab,Sorcery,uncommon
+1,Besmirch,Sorcery,uncommon
+1,Step Between Worlds,Sorcery,rare
+1,Cosmotronic Wave,Sorcery,common
+1,Ill-Timed Explosion,Sorcery,rare
+1,Spectral Procession,Sorcery,uncommon
+1,Soul Transfer,Sorcery,rare
+1,They Went This Way,Sorcery,common
+1,Scorching Shot,Sorcery,uncommon
+7,Spitting Earth,Sorcery,common
+1,Follow the Bodies,Sorcery,rare
+1,Horrific Assault,Sorcery,common
+1,Savage Twister,Sorcery,uncommon
+1,Travel Through Caradhras,Sorcery,rare
+1,March from Velis Vel,Sorcery,rare
+1,Revenge of the Rats,Sorcery,uncommon
+1,Ravages of War,Sorcery,rare
+1,Indomitable Creativity,Sorcery,mythic
+3,Vengeful Possession,Sorcery,uncommon
+6,Under the Skin,Sorcery,uncommon
+1,Stormshriek Feral // Flush Out,Creature — Dragon // Sorcery — Omen,common
+1,Reap and Sow,Sorcery,common
+1,Cheeky House-Mouse // Squeak By,Creature — Mouse // Sorcery — Adventure,uncommon
+1,Longstalk Brawl,Sorcery,common
+1,Cemetery Recruitment,Sorcery,common
+1,Vampire's Kiss,Sorcery,common
+1,Feral Encounter,Sorcery,rare
+1,Patch Up,Sorcery,uncommon
+3,Let's Play a Game,Sorcery,uncommon
+2,Self-Reflection,Sorcery,uncommon
+1,Agate Assault,Sorcery,common
+1,Edgar's Awakening,Sorcery,uncommon
+1,Amethyst Dragon // Explosive Crystal,Creature — Dragon // Sorcery — Adventure,uncommon
+1,Mobilize,Sorcery,common
+1,Blaze,Sorcery,uncommon
+1,Overwhelming Forces,Sorcery,rare
+1,Tome Scour,Sorcery,common
+2,Strangle,Sorcery,common
+2,Extract a Confession,Sorcery,common
+2,Crawl from the Cellar,Sorcery,common
+1,Wrangle,Sorcery,common
+1,Daring Discovery,Sorcery,common
+5,Fade into Antiquity,Sorcery,common
+1,Honor the God-Pharaoh,Sorcery,common
+1,Corpse Explosion,Sorcery,rare
+1,Soul's Might,Sorcery,common
+2,Wake the Reflections,Sorcery,common
+2,Barrage of Boulders,Sorcery,common
+2,Retribution of the Meek,Sorcery,rare
+1,Breath of Darigaaz,Sorcery,uncommon
+1,Felling Blow,Sorcery,uncommon
+1,Go for Blood,Sorcery,common
+2,Kruphix's Insight,Sorcery,common
+2,Defossilize,Sorcery,uncommon
+1,Rolling Thunder,Sorcery,uncommon
+1,Temporal Cleansing,Sorcery,common
+1,Ancestral Reminiscence,Sorcery,common
+1,Callous Dismissal,Sorcery,common
+1,Lava Spike,Sorcery — Arcane,uncommon
+1,Start the TARDIS,Sorcery,uncommon
+1,Illicit Auction,Sorcery,rare
+1,Malamet Battle Glyph,Sorcery,uncommon
+2,Severed Strands,Sorcery,common
+1,Roots of Wisdom,Sorcery,common
+1,Mind Twist,Sorcery,rare
+1,Fade Away,Sorcery,common
+1,Pore Over the Pages,Sorcery,uncommon
+1,Alms of the Vein,Sorcery,common
+1,Triplicate Spirits,Sorcery,common
+1,Rift Bolt,Sorcery,common
+1,Hearth Elemental // Stoke Genius,Creature — Elemental // Sorcery — Adventure,uncommon
+1,Draconic Intervention,Sorcery,rare
+10,Stone Rain,Sorcery,common
+5,Pillage,Sorcery,uncommon
+1,Angelic Purge,Sorcery,common
+3,Lucky Offering,Sorcery,common
+2,Commune with Spirits,Sorcery,common
+1,Seeds of Renewal,Sorcery,rare
+1,Syphon Soul,Sorcery,common
+1,Sagu Wildling // Roost Seek,Creature — Dragon // Sorcery — Omen,common
+1,Lead the Stampede,Sorcery,uncommon
+2,Tumbleweed Rising,Sorcery,common
+4,Commune with Nature,Sorcery,common
+1,Spectacular Pileup,Sorcery,rare
+3,Ashes to Ashes,Sorcery,uncommon
+1,Gravedig,Sorcery,common
+1,Cartographer's Survey,Sorcery,uncommon
+2,Picnic Ruiner // Stolen Goodies,Creature — Goblin Rogue // Sorcery — Adventure,uncommon
+1,You've Been Caught Stealing,Sorcery,common
+2,Mourner's Surprise,Sorcery,common
+1,Death Begets Life,Sorcery,mythic
+3,Commune with Evil,Sorcery,uncommon
+1,Curse of the Werefox,Sorcery,common
+1,You Meet in a Tavern,Sorcery,common
+1,Inspiration from Beyond,Sorcery,uncommon
+1,Lithomantic Barrage,Sorcery,uncommon
+1,Pack's Betrayal,Sorcery,common
+5,Metamorphosis,Sorcery,common
+3,Coordinated Clobbering,Sorcery,uncommon
+2,Legerdemain,Sorcery,uncommon
+1,Refurbish,Sorcery,uncommon
+1,Raven's Crime,Sorcery,common
+2,Taigam's Scheming,Sorcery,common
+2,Plan the Heist,Sorcery,uncommon
+1,Subterranean Tremors,Sorcery,mythic
+1,Map the Wastes,Sorcery,common
+1,Talrand's Invocation,Sorcery,uncommon
+1,Settle Beyond Reality,Sorcery,common
+6,Emerge from the Cocoon,Sorcery,common
+1,Winternight Stories,Sorcery,rare
+3,Beastie Beatdown,Sorcery,uncommon
+1,Recall,Sorcery,uncommon
+1,Cosmium Confluence,Sorcery,rare
+6,Act on Impulse,Sorcery,uncommon
+3,Soul Exchange,Sorcery,uncommon
+1,Faerie Guidemother // Gift of the Fae,Creature — Faerie // Sorcery — Adventure,common
+1,Mind Spiral,Sorcery,common
+3,Midnight Mayhem,Sorcery,uncommon
+15,Drain Life,Sorcery,common
+1,Improvised Weaponry,Sorcery,common
+1,Enlarge,Sorcery,uncommon
+1,Thrash // Threat,Instant // Sorcery,rare
+2,Reconstruction,Sorcery,common
+1,Hive Stirrings,Sorcery,common
+1,Macabre Reconstruction,Sorcery,common
+5,Molten Rain,Sorcery,uncommon
+2,Fanged Flames,Sorcery,common
+1,Recross the Paths,Sorcery,uncommon
+1,Awaken the Sleeper,Sorcery,uncommon
+1,Crashing Footfalls,Sorcery,rare
+1,Roamer's Routine,Sorcery,common
+1,Rumbling Rockslide,Sorcery,common
+1,Incriminate,Sorcery,common
+3,Imperial Oath,Sorcery,common
+1,Survival Cache,Sorcery,common
+1,Savage Smash,Sorcery,common
+3,Incinerating Blast,Sorcery,common
+1,Viral Spawning,Sorcery,uncommon
+10,Disintegrate,Sorcery,special
+1,Mentor's Guidance,Sorcery,uncommon
+1,Rofellos's Gift,Sorcery,common
+1,Blightning,Sorcery,uncommon
+1,Monastery Raid,Sorcery,uncommon
+2,Shatterstorm,Sorcery,uncommon
+2,Abuelo's Awakening,Sorcery,rare
+1,Mwonvuli Acid-Moss,Sorcery,common
+1,Jailbreak Scheme,Sorcery,common
+1,Path of the Enigma,Sorcery,rare
+1,Imodane's Recruiter // Train Troops,Creature — Human Knight // Sorcery — Adventure,uncommon
+2,Stealth Mission,Sorcery,common
+1,Aftershock,Sorcery,common
+4,Deconstruct,Sorcery,common
+2,Ruthless Predation,Sorcery,common
+6,Manifest Dread,Sorcery,common
+2,Seeker's Folly,Sorcery,uncommon
+2,Terashi's Grasp,Sorcery — Arcane,common
+1,King Harald's Revenge,Sorcery,common
+4,Creeping Mold,Sorcery,uncommon
+5,Desert Twister,Sorcery,uncommon
+1,Agonizing Remorse,Sorcery,uncommon
+4,Cathartic Parting,Sorcery,uncommon
+1,Besotted Knight // Betroth the Beast,Creature — Human Knight // Sorcery — Adventure,common
+5,Trial of Agony,Sorcery,uncommon
+1,Devastation,Sorcery,rare
+1,Counsel of the Soratami,Sorcery,common
+1,Amass the Components,Sorcery,common
+3,Unnerving Grasp,Sorcery,uncommon
+3,Untamed Wilds,Sorcery,uncommon
+1,Graceful Restoration,Sorcery,uncommon
+2,Eyes of Gitaxias,Sorcery,common
+1,Queen's Commission,Sorcery,common
+2,Dreadwaters,Sorcery,common
+1,Wildfire Howl,Sorcery,uncommon
+3,Incremental Growth,Sorcery,uncommon
+10,Tranquility,Sorcery,uncommon
+1,Apocalypse,Sorcery,rare
+1,Lethal Throwdown,Sorcery,uncommon
+1,Okiba Salvage,Sorcery,uncommon
+1,Dreams of Steel and Oil,Sorcery,uncommon
+1,Roar of the Wurm,Sorcery,uncommon
+1,Blinding Light,Sorcery,uncommon
+2,Lava Axe,Sorcery,common
+1,Ritual of the Machine,Sorcery,rare
+2,Winter Sky,Sorcery,rare
+1,Mind Bomb,Sorcery,uncommon
+1,Humiliate,Sorcery,uncommon
+1,Wolf's Quarry,Sorcery,common
+1,Drag Under,Sorcery,common
+3,Throw from the Saddle,Sorcery,common
+3,Rite of the Moth,Sorcery,uncommon
+1,Invoke the Ancients,Sorcery,rare
+1,Primitive Justice,Sorcery,uncommon
+2,Press for Answers,Sorcery,common
+2,Invasion of Kylem // Valor's Reach Tag Team,Battle — Siege // Sorcery,uncommon
+5,Stream of Life,Sorcery,uncommon
+3,Hunter's Edge,Sorcery,common
+1,Declare Dominance,Sorcery,uncommon
+1,Relentless Pursuit,Sorcery,common
+1,Excavation Explosion,Sorcery,common
+1,No Way Out,Sorcery,common
+1,Rise of the Varmints,Sorcery,uncommon
+1,Explosive Getaway,Sorcery,rare
+1,Malicious Eclipse,Sorcery,uncommon
+4,Disturbed Burial,Sorcery,common
+1,Drown in Sorrow,Sorcery,common
+1,Collision Course,Sorcery,common
+4,Tsunami,Sorcery,rare
+1,Binding Negotiation,Sorcery,uncommon
+9,Say Its Name,Sorcery,common
+2,Crashing Tide,Sorcery,common
+2,Sworn Companions,Sorcery,common
+1,Seeds of Innocence,Sorcery,rare
+1,Ruthless Negotiation,Sorcery,uncommon
+1,Hunt for Specimens,Sorcery,common
+1,Infernal Contract,Sorcery,rare
+1,Glistening Deluge,Sorcery,uncommon
+1,Ritual of Restoration,Sorcery,common
+1,Trade the Helm,Sorcery,uncommon
+1,Arms of Hadar,Sorcery,common
+1,Relentless Advance,Sorcery,common
+1,Kaervek's Torch,Sorcery,uncommon
+1,Maximize Altitude,Sorcery,common
+2,Deem Inferior,Sorcery,common
+1,Strategic Betrayal,Sorcery,uncommon
+1,Overwhelm,Sorcery,uncommon
+2,Goblin Gathering,Sorcery,common
+2,Benefaction of Rhonas,Sorcery,common
+2,Lava Burst,Sorcery,uncommon
+2,Glacial Dragonhunt,Sorcery,uncommon
+1,Waiting in the Weeds,Sorcery,rare
+1,Scour the Desert,Sorcery,uncommon
+4,One Dozen Eyes,Sorcery,uncommon
+20,Dry Spell,Sorcery,common
+3,Reckoner Shakedown,Sorcery,common
+2,Reave Soul,Sorcery,common
+3,Shrouded Shepherd // Cleave Shadows,Creature — Spirit Warrior // Sorcery — Adventure,uncommon
+1,Storm the Citadel,Sorcery,uncommon
+1,Molten Rebuke,Sorcery,common
+1,Scout the Borders,Sorcery,common
+1,Chandra's Revolution,Sorcery,common
+1,Call of the Herd,Sorcery,uncommon
+1,Ondu Knotmaster // Throw a Line,Creature — Kor Rogue // Sorcery — Adventure,uncommon
+1,Malicious Malfunction,Sorcery,uncommon
+2,Rise from the Wreck,Sorcery,uncommon
+1,Dust to Dust,Sorcery,uncommon
+1,Inaction Injunction,Sorcery,common
+3,Flashfires,Sorcery,uncommon
+2,Cry of the Carnarium,Sorcery,uncommon
+9,Foresight,Sorcery,common
+5,Tremor,Sorcery,common
+1,Brilliant Plan,Sorcery,uncommon
+1,Library of Lat-Nam,Sorcery,rare
+1,Legion's Judgment,Sorcery,common
+1,Firecannon Blast,Sorcery,common
+1,Rise of the Ants,Sorcery,uncommon
+1,Set Adrift,Sorcery,uncommon
+1,Price of Betrayal,Sorcery,uncommon
+6,Elven Cache,Sorcery,common
+1,Natural Balance,Sorcery,rare
+2,Perish,Sorcery,uncommon
+2,Tromp the Domains,Sorcery,uncommon
+1,Selective Snare,Sorcery,uncommon
+1,Gift of the Gargantuan,Sorcery,common
+10,Coercion,Sorcery,common
+1,Cenn's Enlistment,Sorcery,common
+1,Joyous Respite,Sorcery — Arcane,common
+1,Sins of the Past,Sorcery,rare
+1,Canopy Surge,Sorcery,uncommon
+1,Detonate,Sorcery,uncommon
+1,Cone of Flame,Sorcery,uncommon
+2,Blinding Flare,Sorcery,uncommon
+1,Ray of Ruin,Sorcery,common
+1,Thassa's Bounty,Sorcery,common
+7,Uncovered Clues,Sorcery,common
+2,Hymn of Rebirth,Sorcery,uncommon
+1,Push // Pull,Sorcery // Sorcery,uncommon
+1,Gaze of Pain,Sorcery,common
+2,Evincar's Justice,Sorcery,common
+1,Seismic Shift,Sorcery,common
+1,Sunlance,Sorcery,common
+1,Fatal Lore,Sorcery,rare
+3,Choking Sands,Sorcery,common
+1,Ready to Rumble,Sorcery,common
+1,Trumpeting Herd,Sorcery,common
+4,Soul Burn,Sorcery,common
+1,Horncaller's Chant,Sorcery,common
+1,Soul Search,Sorcery,uncommon
+2,Juxtapose,Sorcery,uncommon
+2,Intimidation Tactics,Sorcery,uncommon
+6,Renewal,Sorcery,common
+1,Inferno Jet,Sorcery,uncommon
+1,Join the Maestros,Sorcery,common
+3,Meteor Shower,Sorcery,common
+1,Deadly Complication,Sorcery,uncommon
+1,Rain of Daggers,Sorcery,rare
+8,Builder's Bane,Sorcery,common
+1,Forbidden Ritual,Sorcery,rare
+1,Fit of Rage,Sorcery,common
+6,Time Ebb,Sorcery,common
+2,Hammer of Bogardan,Sorcery,rare
+1,Calamitous Cave-In,Sorcery,uncommon
+2,Pyrotechnics,Sorcery,uncommon
+1,Stupor,Sorcery,special
+1,Hellfire,Sorcery,rare
+1,Icequake,Sorcery,common
+1,Ancestral Memories,Sorcery,rare
+3,Lyev Decree,Sorcery,common
+2,Thermokarst,Sorcery,common
+1,Whack,Sorcery,uncommon
+7,Word of Binding,Sorcery,common
+1,Winter Blast,Sorcery,uncommon
+1,Painful Memories,Sorcery,common
+2,Unearthly Blizzard,Sorcery — Arcane,common
+1,Energy Bolt,Sorcery,rare
+1,Spirit Summoning,Sorcery — Lesson,common
+7,Undo,Sorcery,uncommon
+1,Pain // Suffering,Sorcery // Sorcery,uncommon
+3,Shattered Crypt,Sorcery,common
+7,An-Havva Inn,Sorcery,uncommon
+1,Leeches,Sorcery,rare
+1,Tendrils of Despair,Sorcery,common
+4,Peace Talks,Sorcery,uncommon
+2,Forget,Sorcery,rare
+1,Cached Defenses,Sorcery,uncommon
+5,Retribution,Sorcery,uncommon
+1,Spoils of War,Sorcery,rare
+1,Essence Filter,Sorcery,uncommon
+1,Gerrard's Wisdom,Sorcery,uncommon
+3,Mind Ravel,Sorcery,common
+2,Kaervek's Purge,Sorcery,uncommon
+3,Natural Spring,Sorcery,common
+1,Mind Warp,Sorcery,uncommon
+2,Reign of Chaos,Sorcery,uncommon
+1,Kaleidoscorch,Sorcery,uncommon
+8,Prophecy,Sorcery,common
+11,Infernal Harvest,Sorcery,common
+1,Agonizing Memories,Sorcery,uncommon
+1,Terashi's Cry,Sorcery — Arcane,common
+1,Lair Delve,Sorcery,common
+3,Sealed Fate,Sorcery,uncommon
+2,Haunting Misery,Sorcery,common
+3,Structural Collapse,Sorcery,common
+4,Song of Blood,Sorcery,common
+3,Touch of Death,Sorcery,common
+1,Tropical Storm,Sorcery,uncommon
+3,Misfortune,Sorcery,rare
+1,Crippling Fatigue,Sorcery,common
+1,Dakmor Plague,Sorcery,uncommon
+1,Fumarole,Sorcery,uncommon
+1,Mischief and Mayhem,Sorcery,uncommon
+1,Torrent of Lava,Sorcery,rare
+1,Lobotomy,Sorcery,uncommon
+1,Fallow Earth,Sorcery,uncommon
+2,Kaervek's Hex,Sorcery,uncommon
+2,Clear a Path,Sorcery,common
+1,Reign of Terror,Sorcery,uncommon
+6,Baki's Curse,Sorcery,rare
+1,Unyaro Bee Sting,Sorcery,uncommon
+3,Superior Numbers,Sorcery,uncommon
+1,Take Inventory,Sorcery,common
+6,Evaporate,Sorcery,uncommon
+1,Swelter,Sorcery,uncommon
+1,Who's That Praetor?,Sorcery,rare
+1,Rebirth,Sorcery,rare
+1,Balance,Sorcery,mythic
+1,Channel,Sorcery,mythic
+1,You Compleat Me,Sorcery,rare

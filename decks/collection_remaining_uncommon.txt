@@ -1,0 +1,2147 @@
+5,Sol Ring,Artifact,uncommon
+11,Arcane Signet,Artifact,uncommon
+6,Reliquary Tower,Land,uncommon
+6,Swords to Plowshares,Instant,uncommon
+2,Swiftfoot Boots,Artifact — Equipment,uncommon
+1,Lightning Greaves,Artifact — Equipment,uncommon
+4,Path to Exile,Instant,uncommon
+10,Fellwar Stone,Artifact,uncommon
+6,Counterspell,Instant,uncommon
+4,Rogue's Passage,Land,uncommon
+9,Myriad Landscape,Land,uncommon
+4,Beast Within,Instant,uncommon
+6,Mind Stone,Artifact,uncommon
+5,Generous Gift,Instant,uncommon
+1,An Offer You Can't Refuse,Instant,uncommon
+10,Temple of the False God,Land,uncommon
+3,Talisman of Dominance,Artifact,uncommon
+2,Garruk's Uprising,Enchantment,uncommon
+1,Vandalblast,Sorcery,uncommon
+4,Ashnod's Altar,Artifact,uncommon
+2,Lotus Petal,Artifact,uncommon
+3,Talisman of Creativity,Artifact,uncommon
+2,Rakdos Signet,Artifact,uncommon
+3,Herald's Horn,Artifact,uncommon
+2,Windfall,Sorcery,uncommon
+2,Talisman of Indulgence,Artifact,uncommon
+1,Victimize,Sorcery,uncommon
+2,Propaganda,Enchantment,uncommon
+1,Blood Artist,Creature — Vampire,uncommon
+1,Talisman of Hierarchy,Artifact,uncommon
+2,Pongify,Instant,uncommon
+5,Abrade,Instant,uncommon
+4,Azorius Signet,Artifact,uncommon
+2,Talisman of Progress,Artifact,uncommon
+3,Lightning Bolt,Instant,uncommon
+1,Ghostly Prison,Enchantment,uncommon
+2,Tireless Provisioner,Creature — Elf Scout,uncommon
+1,Rhythm of the Wild,Enchantment,uncommon
+2,Boros Signet,Artifact,uncommon
+3,Unclaimed Territory,Land,uncommon
+1,Thran Dynamo,Artifact,uncommon
+5,Secluded Courtyard,Land,uncommon
+2,Zulaport Cutthroat,Creature — Human Rogue Ally,uncommon
+2,Animate Dead,Enchantment — Aura,uncommon
+3,Reclamation Sage,Creature — Elf Shaman,uncommon
+2,Rapid Hybridization,Instant,uncommon
+3,Syr Konrad, the Grim,Legendary Creature — Human Knight,uncommon
+1,Gray Merchant of Asphodel,Creature — Zombie,uncommon
+1,Crop Rotation,Instant,uncommon
+2,Everflowing Chalice,Artifact,uncommon
+3,Reality Shift,Instant,uncommon
+1,Simic Growth Chamber,Land,uncommon
+3,Stroke of Midnight,Instant,uncommon
+3,Dimir Aqueduct,Land,uncommon
+2,Pitiless Plunderer,Creature — Human Pirate,uncommon
+3,Harmonize,Sorcery,uncommon
+3,Golgari Rot Farm,Land,uncommon
+5,Burnished Hart,Artifact Creature — Elk,uncommon
+4,Jungle Shrine,Land,uncommon
+1,Inspiring Call,Instant,uncommon
+3,Utopia Sprawl,Enchantment — Aura,uncommon
+1,Orzhov Basilica,Land,uncommon
+2,Izzet Boilerworks,Land,uncommon
+3,Crumbling Necropolis,Land,uncommon
+1,Go for the Throat,Instant,uncommon
+2,Despark,Instant,uncommon
+2,Arcane Sanctum,Land,uncommon
+2,Putrefy,Instant,uncommon
+1,Rakdos Charm,Instant,uncommon
+2,Nomad Outpost,Land,uncommon
+1,Bastion of Remembrance,Enchantment,uncommon
+3,Azorius Chancery,Land,uncommon
+1,Morbid Opportunist,Creature — Human Rogue,uncommon
+2,Opulent Palace,Land,uncommon
+1,Tainted Field,Land,uncommon
+1,Liquimetal Torque,Artifact,uncommon
+1,Krosan Grip,Instant,uncommon
+4,Simic Signet,Artifact,uncommon
+3,Guttersnipe,Creature — Goblin Shaman,uncommon
+3,Mystic Monastery,Land,uncommon
+7,Red Elemental Blast,Instant,uncommon
+3,Exsanguinate,Sorcery,uncommon
+3,Aetherize,Instant,uncommon
+2,Evolution Sage,Creature — Elf Druid,uncommon
+3,Seaside Citadel,Land,uncommon
+1,Mental Misstep,Instant,uncommon
+6,Pyroblast,Instant,uncommon
+1,Buried Alive,Sorcery,uncommon
+2,Tainted Wood,Land,uncommon
+4,Tatyova, Benthic Druid,Legendary Creature — Merfolk Druid,uncommon
+1,Hedron Archive,Artifact,uncommon
+1,Fact or Fiction,Instant,uncommon
+3,Demolition Field,Land,uncommon
+1,Tainted Isle,Land,uncommon
+1,Mother of Runes,Creature — Human Cleric,uncommon
+1,Fabricate,Sorcery,uncommon
+1,Sandsteppe Citadel,Land,uncommon
+4,Talisman of Resilience,Artifact,uncommon
+1,Mentor of the Meek,Creature — Human Soldier,uncommon
+2,Mulldrifter,Creature — Elemental,uncommon
+3,Golgari Signet,Artifact,uncommon
+1,Cankerbloom,Creature — Phyrexian Fungus,uncommon
+1,Tainted Peak,Land,uncommon
+1,Noxious Revival,Instant,uncommon
+1,Elas il-Kor, Sadistic Pilgrim,Legendary Creature — Phyrexian Kor Cleric,uncommon
+1,Carrion Feeder,Creature — Zombie,uncommon
+3,Krosan Verge,Land,uncommon
+1,Emergence Zone,Land,uncommon
+3,Plaguecrafter,Creature — Human Shaman,uncommon
+1,Access Tunnel,Land,uncommon
+1,Intangible Virtue,Enchantment,uncommon
+2,Mayhem Devil,Creature — Devil,uncommon
+4,Talisman of Impulse,Artifact,uncommon
+1,Narset, Parter of Veils,Legendary Planeswalker — Narset,uncommon
+2,Savage Lands,Land,uncommon
+1,Reconnaissance Mission,Enchantment,uncommon
+1,Rancor,Enchantment — Aura,uncommon
+1,Young Pyromancer,Creature — Human Shaman,uncommon
+2,Field of Ruin,Land,uncommon
+1,Rishkar, Peema Renegade,Legendary Creature — Elf Druid,uncommon
+1,Goreclaw, Terror of Qal Sisma,Legendary Creature — Bear,uncommon
+1,Wizard Class,Enchantment — Class,uncommon
+2,Meteor Golem,Artifact Creature — Golem,uncommon
+5,Withering Torment,Instant,uncommon
+1,Palladium Myr,Artifact Creature — Myr,uncommon
+1,Demonic Consultation,Instant,uncommon
+1,Urza's Cave,Land — Urza's Cave,uncommon
+1,Nadier's Nightblade,Creature — Elf Warrior,uncommon
+1,Ravenous Chupacabra,Creature — Beast Horror,uncommon
+1,Barren Moor,Land,uncommon
+2,Reassembling Skeleton,Creature — Skeleton Warrior,uncommon
+1,Curse of Opulence,Enchantment — Aura Curse,uncommon
+9,High Tide,Instant,uncommon
+3,Priest of Titania,Creature — Elf Druid,uncommon
+2,Heraldic Banner,Artifact,uncommon
+1,Aura Shards,Enchantment,uncommon
+2,Curiosity,Enchantment — Aura,uncommon
+1,Moldervine Reclamation,Enchantment,uncommon
+3,Untimely Malfunction,Instant,uncommon
+3,Spell Pierce,Instant,uncommon
+1,Aven Mindcensor,Creature — Bird Wizard,uncommon
+1,Haywire Mite,Artifact Creature — Insect,uncommon
+1,Wilderness Reclamation,Enchantment,uncommon
+1,Phyrexian Reclamation,Enchantment,uncommon
+5,Elvish Spirit Guide,Creature — Elf Spirit,uncommon
+1,Oketra's Monument,Legendary Artifact,uncommon
+2,Stitcher's Supplier,Creature — Zombie,uncommon
+1,Thrummingbird,Creature — Phyrexian Bird Horror,uncommon
+3,Return to Dust,Instant,uncommon
+1,Marionette Apprentice,Creature — Human Artificer,uncommon
+1,Fireshrieker,Artifact — Equipment,uncommon
+6,Talisman of Unity,Artifact,uncommon
+1,Nesting Grounds,Land,uncommon
+1,Wonder,Creature — Incarnation,uncommon
+2,Necromancy,Enchantment,uncommon
+1,Carpet of Flowers,Enchantment,uncommon
+1,Mindcrank,Artifact,uncommon
+1,Acidic Slime,Creature — Ooze,uncommon
+2,Disciple of Freyalise // Garden of Freyalise,Creature — Elf Druid // Land,uncommon
+4,Ethereal Armor,Enchantment — Aura,uncommon
+2,Siren Stormtamer,Creature — Siren Pirate Wizard,uncommon
+1,Fiery Inscription,Enchantment,uncommon
+1,Colossal Majesty,Enchantment,uncommon
+1,Expressive Iteration,Sorcery,uncommon
+2,Mask of Memory,Artifact — Equipment,uncommon
+1,Arcane Lighthouse,Land,uncommon
+1,Temur Sabertooth,Creature — Cat,uncommon
+2,Rumor Gatherer,Creature — Elf Wizard,uncommon
+2,Regrowth,Sorcery,uncommon
+1,Triumph of the Hordes,Sorcery,uncommon
+1,Plumb the Forbidden,Instant,uncommon
+1,Wall of Omens,Creature — Wall,uncommon
+1,Rosie Cotton of South Lane,Legendary Creature — Halfling Peasant,uncommon
+1,Shimmer Myr,Artifact Creature — Myr,uncommon
+1,Guildless Commons,Land,uncommon
+1,Unnatural Restoration,Sorcery,uncommon
+1,Flux Channeler,Creature — Human Wizard,uncommon
+1,Pinnacle Monk // Mystic Peak,Creature — Djinn Monk // Land,uncommon
+1,Corpse Knight,Creature — Zombie Knight,uncommon
+2,Angel of the Ruins,Artifact Creature — Angel,uncommon
+1,Timeless Witness,Creature — Human Shaman,uncommon
+1,Dragonlord's Servant,Creature — Goblin Shaman,uncommon
+3,Sylvan Scrying,Sorcery,uncommon
+1,Hydroelectric Specimen // Hydroelectric Laboratory,Creature — Weird // Land,uncommon
+1,Vampiric Rites,Enchantment,uncommon
+2,Electrostatic Field,Creature — Wall,uncommon
+1,Slip Out the Back,Instant,uncommon
+1,Thermo-Alchemist,Creature — Human Shaman,uncommon
+2,Bridgeworks Battle // Tanglespan Bridgeworks,Sorcery // Land,uncommon
+1,Izzet Charm,Instant,uncommon
+1,Kiora's Follower,Creature — Merfolk,uncommon
+1,Cut a Deal,Sorcery,uncommon
+1,Aftermath Analyst,Creature — Elf Detective,uncommon
+1,Prosperous Innkeeper,Creature — Halfling Citizen,uncommon
+1,Binding the Old Gods,Enchantment — Saga,uncommon
+1,Shriekmaw,Creature — Elemental,uncommon
+1,Ruin Crab,Creature — Crab,uncommon
+1,Desperate Ritual,Instant — Arcane,uncommon
+1,Golgari Charm,Instant,uncommon
+2,Junk Winder,Creature — Serpent,uncommon
+2,Bloodline Pretender,Artifact Creature — Shapeshifter,uncommon
+1,Manglehorn,Creature — Beast,uncommon
+1,Sundering Eruption // Volcanic Fissure,Sorcery // Land,uncommon
+1,Collective Resistance,Instant,uncommon
+1,The Eldest Reborn,Enchantment — Saga,uncommon
+1,Kazuul's Fury // Kazuul's Cliffs,Instant // Land,uncommon
+2,Sunhome, Fortress of the Legion,Land,uncommon
+1,Secret Rendezvous,Sorcery,uncommon
+1,Soulherder,Creature — Spirit,uncommon
+2,Dreamstone Hedron,Artifact,uncommon
+1,Eldrazi Temple,Land,uncommon
+2,Tomb of the Spirit Dragon,Land,uncommon
+1,Poison-Tip Archer,Creature — Elf Archer,uncommon
+1,Deafening Silence,Enchantment,uncommon
+2,Vampire Nighthawk,Creature — Vampire Shaman,uncommon
+2,Paradise Druid,Creature — Elf Druid,uncommon
+1,Krark-Clan Ironworks,Artifact,uncommon
+1,Collector's Vault,Artifact,uncommon
+1,Rise of the Witch-king,Sorcery,uncommon
+1,Lord of the Accursed,Creature — Zombie,uncommon
+2,Greed,Enchantment,uncommon
+1,Dakmor Salvage,Land,uncommon
+2,Hydra's Growth,Enchantment — Aura,uncommon
+1,Teshar, Ancestor's Apostle,Legendary Creature — Bird Cleric,uncommon
+6,Spectral Sailor,Creature — Spirit Pirate,uncommon
+1,Satyr Enchanter,Creature — Satyr Druid,uncommon
+3,Bartolomé del Presidio,Legendary Creature — Vampire Knight,uncommon
+1,Vile Entomber,Creature — Zombie Warlock,uncommon
+1,Rhonas's Monument,Legendary Artifact,uncommon
+1,Insidious Roots,Enchantment,uncommon
+1,Humble Defector,Creature — Human Rogue,uncommon
+2,Coastal Piracy,Enchantment,uncommon
+1,Touch the Spirit Realm,Enchantment,uncommon
+2,Ancestral Mask,Enchantment — Aura,uncommon
+2,Drown in Ichor,Sorcery,uncommon
+1,Crystal Vein,Land,uncommon
+2,Whirler Rogue,Creature — Human Rogue Artificer,uncommon
+1,Sonic Screwdriver,Artifact,uncommon
+1,Hero's Downfall,Instant,uncommon
+2,Vat of Rebirth,Artifact,uncommon
+1,Renata, Called to the Hunt,Legendary Enchantment Creature — Demigod,uncommon
+1,Llanowar Reborn,Land,uncommon
+1,Chart a Course,Sorcery,uncommon
+1,Enthusiastic Mechanaut,Artifact Creature — Goblin Artificer,uncommon
+1,Deathreap Ritual,Enchantment,uncommon
+1,Urban Evolution,Sorcery,uncommon
+2,Tormod's Crypt,Artifact,uncommon
+1,Brawn,Creature — Incarnation,uncommon
+1,Brave the Sands,Enchantment,uncommon
+1,Rebuff the Wicked,Instant,uncommon
+1,Doom Blade,Instant,uncommon
+2,Juri, Master of the Revue,Legendary Creature — Human Shaman,uncommon
+9,Quirion Ranger,Creature — Elf Ranger,uncommon
+2,Lim-Dûl's Vault,Instant,uncommon
+1,Myr Convert,Artifact Creature — Phyrexian Myr,uncommon
+1,Requisition Raid,Sorcery,uncommon
+1,Conclave Mentor,Creature — Centaur Cleric,uncommon
+1,Surge of Salvation,Instant,uncommon
+2,Thrashing Brontodon,Creature — Dinosaur,uncommon
+1,Honest Rutstein,Legendary Creature — Human Warlock,uncommon
+1,Nuka-Cola Vending Machine,Artifact,uncommon
+1,Scurry Oak,Creature — Treefolk,uncommon
+1,Garruk's Packleader,Creature — Beast,uncommon
+1,Trophy Mage,Creature — Human Wizard,uncommon
+1,Dragon's Rage Channeler,Creature — Human Shaman,uncommon
+2,Warping Wail,Instant,uncommon
+1,Umbral Mantle,Artifact — Equipment,uncommon
+1,Dance of the Dead,Enchantment — Aura,uncommon
+1,Stormcatch Mentor,Creature — Otter Wizard,uncommon
+1,Thrakkus the Butcher,Legendary Creature — Dragon Peasant,uncommon
+1,Legion Leadership // Legion Stronghold,Instant // Land,uncommon
+1,Kiora, Behemoth Beckoner,Legendary Planeswalker — Kiora,uncommon
+1,Lazotep Plating,Instant,uncommon
+3,Circuit Mender,Artifact Creature — Insect,uncommon
+1,Not of This World,Kindred Instant — Eldrazi,uncommon
+1,Reckless Handling,Sorcery,uncommon
+1,Bloodthirsty Blade,Artifact — Equipment,uncommon
+5,Disdainful Stroke,Instant,uncommon
+7,Merchant Scroll,Sorcery,uncommon
+1,Zhalfirin Void,Land,uncommon
+3,Earthshaker Dreadmaw,Creature — Dinosaur,uncommon
+1,Wall of Blossoms,Creature — Plant Wall,uncommon
+3,Balmor, Battlemage Captain,Legendary Creature — Bird Wizard,uncommon
+1,Prosperous Thief,Creature — Human Ninja,uncommon
+6,Thirst for Knowledge,Instant,uncommon
+1,Hedron Crab,Creature — Crab,uncommon
+1,Karametra's Acolyte,Creature — Human Druid,uncommon
+1,Infectious Bite,Instant,uncommon
+1,Geode Golem,Artifact Creature — Golem,uncommon
+1,Planar Genesis,Instant,uncommon
+1,Bane of Bala Ged,Creature — Eldrazi,uncommon
+1,Revenge of Ravens,Enchantment,uncommon
+1,Etchings of the Chosen,Enchantment,uncommon
+1,Brainsurge,Instant,uncommon
+1,God-Pharaoh's Statue,Legendary Artifact,uncommon
+1,Thornbite Staff,Kindred Artifact — Shaman Equipment,uncommon
+1,Dockside Chef,Enchantment Creature — Human Citizen,uncommon
+1,Ranging Raptors,Creature — Dinosaur,uncommon
+1,Twinferno,Instant,uncommon
+1,Long River's Pull,Instant,uncommon
+1,Memnite,Artifact Creature — Construct,uncommon
+4,Mishra's Factory,Land,uncommon
+9,Nazgûl,Creature — Wraith Knight,uncommon
+1,Fire Covenant,Instant,uncommon
+1,Null Elemental Blast,Instant,uncommon
+1,Debt to the Deathless,Sorcery,uncommon
+1,Undead Warchief,Creature — Zombie,uncommon
+1,Malcolm, Keen-Eyed Navigator,Legendary Creature — Siren Pirate,uncommon
+1,Fynn, the Fangbearer,Legendary Creature — Human Warrior,uncommon
+1,Treasonous Ogre,Creature — Ogre Shaman,uncommon
+1,Baird, Steward of Argive,Legendary Creature — Human Soldier,uncommon
+1,Otepec Huntmaster,Creature — Human Shaman,uncommon
+1,Slaughter the Strong,Sorcery,uncommon
+1,Ruby, Daring Tracker,Legendary Creature — Human Scout,uncommon
+1,Vexing Bauble,Artifact,uncommon
+1,Keeper of Fables,Creature — Cat,uncommon
+2,Volatile Fault,Land — Cave,uncommon
+1,Winds of Change,Sorcery,uncommon
+2,Overprotect,Instant,uncommon
+1,Valorous Stance,Instant,uncommon
+1,Dragon Mage,Creature — Dragon Wizard,uncommon
+1,Autumn's Veil,Instant,uncommon
+1,Selfless Savior,Creature — Dog,uncommon
+1,And They Shall Know No Fear,Instant,uncommon
+1,Prava of the Steel Legion,Legendary Creature — Cat Soldier,uncommon
+1,Dwynen, Gilt-Leaf Daen,Legendary Creature — Elf Warrior,uncommon
+1,Yedora, Grave Gardener,Legendary Creature — Treefolk Druid,uncommon
+1,Ravenous Squirrel,Creature — Squirrel,uncommon
+1,Jwari Disruption // Jwari Ruins,Instant // Land,uncommon
+1,Cloudblazer,Creature — Human Scout,uncommon
+1,Crush Contraband,Instant,uncommon
+1,Cackling Counterpart,Instant,uncommon
+1,Trygon Predator,Creature — Beast,uncommon
+1,Chain of Smog,Sorcery,uncommon
+1,Skullwinder,Creature — Snake,uncommon
+1,Metastatic Evangel,Creature — Phyrexian Human Cleric,uncommon
+1,Fog Bank,Creature — Wall,uncommon
+1,Lively Dirge,Sorcery,uncommon
+2,Manamorphose,Instant,uncommon
+4,Grinding Station,Artifact,uncommon
+3,Scytheclaw Raptor,Creature — Dinosaur,uncommon
+1,Reyav, Master Smith,Legendary Creature — Dwarf Artificer,uncommon
+1,Manaweft Sliver,Creature — Sliver,uncommon
+1,Favorable Winds,Enchantment,uncommon
+1,Invigorating Surge,Instant,uncommon
+1,Keen Sense,Enchantment — Aura,uncommon
+1,Liliana's Caress,Enchantment,uncommon
+1,Orzhov Advokist,Creature — Human Advisor,uncommon
+1,Efficient Construction,Enchantment,uncommon
+1,Titan's Presence,Instant,uncommon
+1,Korlessa, Scale Singer,Legendary Creature — Dragon Bard,uncommon
+2,Graveshifter,Creature — Shapeshifter,uncommon
+1,Crawling Sensation,Enchantment,uncommon
+1,Thryx, the Sudden Storm,Legendary Creature — Elemental Giant,uncommon
+2,Ajani's Pridemate,Creature — Cat Soldier,uncommon
+1,Vindictive Vampire,Creature — Vampire,uncommon
+1,It That Heralds the End,Creature — Eldrazi Drone,uncommon
+1,Hamza, Guardian of Arashin,Legendary Creature — Elephant Warrior,uncommon
+1,Razorgrass Ambush // Razorgrass Field,Instant // Land,uncommon
+3,Heirloom Blade,Artifact — Equipment,uncommon
+1,Fiend Hunter,Creature — Human Cleric,uncommon
+2,Golgari Thug,Creature — Human Warrior,uncommon
+1,Rite of the Raging Storm,Enchantment,uncommon
+1,Cadira, Caller of the Small,Legendary Creature — Orc Ranger,uncommon
+1,Pemmin's Aura,Enchantment — Aura,uncommon
+1,Mistveil Plains,Land — Plains,uncommon
+2,Port of Karfell,Land,uncommon
+1,Good-Fortune Unicorn,Creature — Unicorn,uncommon
+1,Summer Bloom,Sorcery,uncommon
+1,Ramunap Ruins,Land — Desert,uncommon
+1,Beetleback Chief,Creature — Goblin Warrior,uncommon
+1,Blossoming Defense,Instant,uncommon
+1,Mage-Ring Network,Land,uncommon
+4,Sheltered by Ghosts,Enchantment — Aura,uncommon
+1,Sylvan Tutor,Sorcery,uncommon
+1,Curse of Verbosity,Enchantment — Aura Curse,uncommon
+1,Parting Gust,Instant,uncommon
+1,Zada, Hedron Grinder,Legendary Creature — Goblin Ally,uncommon
+1,Joint Exploration,Instant,uncommon
+1,Aether Hub,Land,uncommon
+1,Unburial Rites,Sorcery,uncommon
+1,Tectonic Edge,Land,uncommon
+4,Goblin Recruiter,Creature — Goblin,uncommon
+1,Blanchwood Armor,Enchantment — Aura,uncommon
+3,Rapacious Dragon,Creature — Dragon,uncommon
+1,Grumgully, the Generous,Legendary Creature — Goblin Shaman,uncommon
+1,Bred for the Hunt,Enchantment,uncommon
+1,Wear Down,Sorcery,uncommon
+3,Welding Jar,Artifact,uncommon
+2,Squirrel Nest,Enchantment — Aura,uncommon
+1,Empyrean Eagle,Creature — Bird Spirit,uncommon
+2,Ordeal of Nylea,Enchantment — Aura,uncommon
+2,Songs of the Damned,Instant,uncommon
+5,Arabella, Abandoned Doll,Legendary Artifact Creature — Toy,uncommon
+1,Colossal Skyturtle,Enchantment Creature — Turtle,uncommon
+1,Théoden, King of Rohan,Legendary Creature — Human Noble,uncommon
+3,Insidious Fungus,Creature — Fungus,uncommon
+1,Joraga Treespeaker,Creature — Elf Druid,uncommon
+2,Boltwave,Sorcery,uncommon
+1,Fangs of Kalonia,Sorcery,uncommon
+1,Harmonic Sliver,Creature — Sliver,uncommon
+1,Jwar Isle Refuge,Land,uncommon
+1,Infiltration Lens,Artifact — Equipment,uncommon
+1,King of the Pride,Creature — Cat,uncommon
+2,Essence Scatter,Instant,uncommon
+1,Price of Fame,Instant,uncommon
+1,Breeches, Brazen Plunderer,Legendary Creature — Goblin Pirate,uncommon
+3,Grasslands,Land,uncommon
+1,Prosperity,Sorcery,uncommon
+1,Wilson, Refined Grizzly,Legendary Creature — Bear Warrior,uncommon
+2,Decisive Denial,Instant,uncommon
+1,Bloodline Necromancer,Creature — Vampire Wizard,uncommon
+1,Power Conduit,Artifact,uncommon
+2,Merrow Reejerey,Creature — Merfolk Soldier,uncommon
+1,Mage Slayer,Artifact — Equipment,uncommon
+3,Sultai Charm,Instant,uncommon
+1,Urza's Bauble,Artifact,uncommon
+1,Repulsive Mutation,Instant,uncommon
+1,Bloodbraid Elf,Creature — Elf Berserker,uncommon
+1,Faerie Conclave,Land,uncommon
+2,Armored Scrapgorger,Creature — Phyrexian Beast,uncommon
+1,Youthful Valkyrie,Creature — Angel,uncommon
+1,Hashep Oasis,Land — Desert,uncommon
+1,Serum Snare,Instant,uncommon
+1,Volcanic Torrent,Sorcery,uncommon
+1,Oblivion Ring,Enchantment,uncommon
+1,Consuming Corruption,Instant,uncommon
+1,Atzocan Seer,Creature — Human Druid,uncommon
+7,Pestilence,Enchantment,uncommon
+1,Cut Down,Instant,uncommon
+1,Liquimetal Coating,Artifact,uncommon
+1,Rogue's Gloves,Artifact — Equipment,uncommon
+1,Anara, Wolvid Familiar,Legendary Creature — Wolf Beast,uncommon
+1,Expand the Sphere,Sorcery,uncommon
+1,Halo Forager,Creature — Faerie Rogue,uncommon
+1,Deeproot Waters,Enchantment,uncommon
+1,Emrakul's Messenger,Creature — Eldrazi Faerie Rogue,uncommon
+1,Rocky Tar Pit,Land,uncommon
+1,Crystalline Sliver,Creature — Sliver,uncommon
+1,Shifting Sliver,Creature — Sliver,uncommon
+1,Fell,Sorcery,uncommon
+1,Diffusion Sliver,Creature — Sliver,uncommon
+1,Desert,Land — Desert,uncommon
+1,Apprentice Necromancer,Creature — Zombie Wizard,uncommon
+1,Venom Sliver,Creature — Sliver,uncommon
+1,Spawning Bed,Land,uncommon
+1,Trail of Crumbs,Enchantment,uncommon
+1,Cast Out,Enchantment,uncommon
+1,Vat Emergence,Sorcery,uncommon
+1,Annoyed Altisaur,Creature — Dinosaur,uncommon
+2,Inquisitive Glimmer,Enchantment Creature — Fox Glimmer,uncommon
+1,Rabbit Battery,Artifact Creature — Equipment Rabbit,uncommon
+5,Mountain Valley,Land,uncommon
+1,Solar Transformer,Artifact,uncommon
+1,Azusa's Many Journeys // Likeness of the Seeker,Enchantment — Saga // Enchantment Creature — Human Monk,uncommon
+2,Wolfwillow Haven,Enchantment — Aura,uncommon
+1,Archetype of Courage,Enchantment Creature — Human Soldier,uncommon
+1,Michiko's Reign of Truth // Portrait of Michiko,Enchantment — Saga // Enchantment Creature — Human Noble,uncommon
+1,Slimefoot, the Stowaway,Legendary Creature — Fungus,uncommon
+1,Vengeful Bloodwitch,Creature — Vampire Warlock,uncommon
+1,Decoction Module,Artifact,uncommon
+1,Foul Orchard,Land,uncommon
+1,Anafenza, Kin-Tree Spirit,Legendary Creature — Spirit Soldier,uncommon
+1,Map the Frontier,Sorcery,uncommon
+1,Wildwood Scourge,Creature — Hydra,uncommon
+1,Oakhollow Village,Land,uncommon
+1,Capsize,Instant,uncommon
+1,Merfolk Looter,Creature — Merfolk Rogue,uncommon
+2,Spawning Pit,Artifact,uncommon
+1,Gifted Aetherborn,Creature — Aetherborn Vampire,uncommon
+1,Kelpie Guide,Creature — Beast,uncommon
+1,Warden of Evos Isle,Creature — Bird Wizard,uncommon
+1,Breaker of Armies,Creature — Eldrazi,uncommon
+1,Witherbloom Apprentice,Creature — Human Druid,uncommon
+1,Ramirez DePietro, Pillager,Legendary Creature — Human Pirate,uncommon
+3,Fireball,Sorcery,uncommon
+1,Thraben Watcher,Creature — Angel,uncommon
+1,Sandstone Oracle,Artifact Creature — Sphinx,uncommon
+1,Sapphire Dragon // Psionic Pulse,Creature — Dragon // Instant — Adventure,uncommon
+1,Fell Stinger,Creature — Zombie Scorpion,uncommon
+1,Arvad the Cursed,Legendary Creature — Vampire Knight,uncommon
+1,Squee, Goblin Nabob,Legendary Creature — Goblin,uncommon
+1,Condemn,Instant,uncommon
+1,Gift of Estates,Sorcery,uncommon
+1,Necrogen Communion,Enchantment — Aura,uncommon
+1,Skittering Invasion,Kindred Sorcery — Eldrazi,uncommon
+3,Crystal Shard,Artifact,uncommon
+1,Necrotic Sliver,Creature — Sliver,uncommon
+1,Thunderherd Migration,Sorcery,uncommon
+1,Scryb Ranger,Creature — Faerie Ranger,uncommon
+1,Queza, Augur of Agonies,Legendary Creature — Octopus Advisor,uncommon
+1,Erdwal Illuminator,Creature — Spirit,uncommon
+3,Oni-Cult Anvil,Artifact,uncommon
+1,Kefnet's Monument,Legendary Artifact,uncommon
+4,Instill Energy,Enchantment — Aura,uncommon
+1,Reverent Hoplite,Creature — Human Soldier,uncommon
+2,Far Traveler,Legendary Enchantment — Background,uncommon
+1,Armadillo Cloak,Enchantment — Aura,uncommon
+1,Mobilizer Mech,Artifact — Vehicle,uncommon
+1,Oreskos Explorer,Creature — Cat Scout,uncommon
+1,Reflector Mage,Creature — Human Wizard,uncommon
+1,Tenza, Godo's Maul,Legendary Artifact — Equipment,uncommon
+1,Jiang Yanggu, Wildcrafter,Legendary Planeswalker — Yanggu,uncommon
+1,Glasswing Grace // Age-Graced Chapel,Enchantment — Aura // Land,uncommon
+1,Submerge,Instant,uncommon
+1,Rain of Filth,Instant,uncommon
+9,Shrieking Drake,Creature — Drake,uncommon
+1,Cartographer's Hawk,Creature — Bird,uncommon
+1,Minthara, Merciless Soul,Legendary Creature — Elf Cleric,uncommon
+1,Drover of the Mighty,Creature — Human Druid,uncommon
+3,Nicanzil, Current Conductor,Legendary Creature — Merfolk Scout,uncommon
+1,Boseiju Reaches Skyward // Branch of Boseiju,Enchantment — Saga // Enchantment Creature — Plant,uncommon
+1,Squirrel Sovereign,Creature — Squirrel Noble,uncommon
+1,Skyfisher Spider,Creature — Spider,uncommon
+1,Aberrant,Creature — Tyranid Mutant,uncommon
+2,Distinguished Conjurer,Creature — Human Wizard,uncommon
+1,The Underworld Cookbook,Artifact,uncommon
+1,Sprite Dragon,Creature — Faerie Dragon,uncommon
+1,Stocking the Pantry,Enchantment,uncommon
+2,Honored Dreyleader,Creature — Squirrel Warrior,uncommon
+1,Angel of Despair,Creature — Angel,uncommon
+1,Gravelighter,Creature — Spirit,uncommon
+1,Hibernation Sliver,Creature — Sliver,uncommon
+1,Judith, the Scourge Diva,Legendary Creature — Human Shaman,uncommon
+1,On Serra's Wings,Legendary Enchantment — Aura,uncommon
+2,Goblin War Drums,Enchantment,uncommon
+1,Forsaken Miner,Creature — Skeleton Rogue,uncommon
+1,Raff Capashen, Ship's Mage,Legendary Creature — Human Wizard,uncommon
+1,Lord Skitter's Butcher,Creature — Rat Peasant,uncommon
+1,Gandalf, Friend of the Shire,Legendary Creature — Avatar Wizard,uncommon
+1,Itzquinth, Firstborn of Gishath,Legendary Creature — Dinosaur,uncommon
+5,Crypt Rats,Creature — Rat,uncommon
+1,Murderous Redcap,Creature — Goblin Assassin,uncommon
+1,Hunter's Talent,Enchantment — Class,uncommon
+1,Duskwatch Recruiter // Krallenhorde Howler,Creature — Human Warrior Werewolf // Creature — Werewolf,uncommon
+1,Merfolk Mistbinder,Creature — Merfolk Shaman,uncommon
+2,Inquisitor's Flail,Artifact — Equipment,uncommon
+1,Bladehold War-Whip,Artifact — Equipment,uncommon
+1,Tainted Observer,Creature — Phyrexian Bird,uncommon
+1,Sword Coast Sailor,Legendary Enchantment — Background,uncommon
+1,Mirror of Galadriel,Legendary Artifact,uncommon
+2,Gaea's Blessing,Sorcery,uncommon
+1,Bulk Up,Instant,uncommon
+2,Sleep,Sorcery,uncommon
+1,Amonkhet Raceway,Land,uncommon
+1,Lilypad Village,Land,uncommon
+1,Renari, Merchant of Marvels,Legendary Creature — Dragon Artificer,uncommon
+2,Ixalli's Lorekeeper,Creature — Human Druid,uncommon
+1,Unstable Amulet,Artifact,uncommon
+1,Short Bow,Artifact — Equipment,uncommon
+1,Obsessive Stitcher,Creature — Human Wizard,uncommon
+1,Glimmer of Genius,Instant,uncommon
+1,Goblin Cratermaker,Creature — Goblin Warrior,uncommon
+1,Enterprising Scallywag,Creature — Goblin Pirate,uncommon
+1,Riveteers Charm,Instant,uncommon
+3,Faerie Vandal,Creature — Faerie Rogue,uncommon
+1,Mirror Image,Creature — Shapeshifter,uncommon
+1,Omen Hawker,Creature — Octopus Advisor,uncommon
+1,Svella, Ice Shaper,Legendary Snow Creature — Troll Warrior,uncommon
+1,Ominous Cemetery,Land,uncommon
+1,Ainok Survivalist,Creature — Dog Shaman,uncommon
+1,Treetop Village,Land,uncommon
+2,Military Intelligence,Enchantment,uncommon
+1,Stormkeld Vanguard // Bear Down,Creature — Giant Warrior // Sorcery — Adventure,uncommon
+1,Merfolk Skydiver,Creature — Merfolk Mutant,uncommon
+1,Reinforced Ronin,Artifact Creature — Human Samurai,uncommon
+1,Foulmire Knight // Profane Insight,Creature — Zombie Knight // Instant — Adventure,uncommon
+2,Izzet Generatorium,Artifact,uncommon
+1,Signal Pest,Artifact Creature — Pest,uncommon
+1,Savage Stomp,Sorcery,uncommon
+1,Leonin Relic-Warder,Creature — Cat Cleric,uncommon
+1,Bad River,Land,uncommon
+1,Dimir Keyrune,Artifact,uncommon
+1,Raging Swordtooth,Creature — Dinosaur,uncommon
+1,Veteran Explorer,Creature — Human Soldier Scout,uncommon
+1,Raiders' Wake,Enchantment,uncommon
+1,Soul Snare,Enchantment,uncommon
+1,Tough Cookie,Artifact Creature — Food Golem,uncommon
+1,Zoyowa's Justice,Instant,uncommon
+1,Hypnotic Sprite // Mesmeric Glare,Creature — Faerie // Instant — Adventure,uncommon
+1,Hammers of Moradin,Creature — Dwarf Cleric,uncommon
+1,Novijen, Heart of Progress,Land,uncommon
+2,Go-Shintai of Shared Purpose,Legendary Enchantment Creature — Shrine,uncommon
+1,Breaker of Creation,Creature — Eldrazi,uncommon
+1,Great Oak Guardian,Creature — Treefolk,uncommon
+1,Loyal Inventor,Creature — Human Artificer,uncommon
+5,Karoo,Land,uncommon
+1,Cult Conscript,Creature — Skeleton Warrior,uncommon
+1,Zimone, Quandrix Prodigy,Legendary Creature — Human Wizard,uncommon
+1,Oathsworn Vampire,Creature — Vampire Knight,uncommon
+1,Captain Storm, Cosmium Raider,Legendary Creature — Human Pirate,uncommon
+1,Riddlesmith,Creature — Human Artificer,uncommon
+1,Merchant Raiders,Creature — Human Pirate,uncommon
+1,Familiar's Ruse,Instant,uncommon
+2,Ulvenwald Mysteries,Enchantment,uncommon
+3,Withering Boon,Instant,uncommon
+1,Roil Cartographer,Creature — Merfolk Rogue,uncommon
+1,Archetype of Finality,Enchantment Creature — Gorgon,uncommon
+1,Prodigy's Prototype,Artifact — Vehicle,uncommon
+1,Primal Rage,Enchantment,uncommon
+4,Lure,Enchantment — Aura,uncommon
+3,Nowhere to Run,Enchantment,uncommon
+1,Servo Schematic,Artifact,uncommon
+2,Open into Wonder,Sorcery,uncommon
+1,Whirler Virtuoso,Creature — Vedalken Artificer,uncommon
+1,Kasmina, Enigmatic Mentor,Legendary Planeswalker — Kasmina,uncommon
+1,Bond of Discipline,Sorcery,uncommon
+1,Furnace Reins,Sorcery,uncommon
+1,Electrostatic Infantry,Creature — Dwarf Wizard,uncommon
+1,Roar of Challenge,Sorcery,uncommon
+1,Cormela, Glamour Thief,Legendary Creature — Vampire Rogue,uncommon
+1,Nightveil Sprite,Creature — Faerie Rogue,uncommon
+1,Go-Shintai of Boundless Vigor,Legendary Enchantment Creature — Shrine,uncommon
+1,Electrolyze,Instant,uncommon
+1,Botanical Brawler,Creature — Elemental Warrior,uncommon
+2,Neutralize,Instant,uncommon
+1,Aryel, Knight of Windgrace,Legendary Creature — Human Knight,uncommon
+1,Anax, Hardened in the Forge,Legendary Enchantment Creature — Demigod,uncommon
+1,Wintermoor Commander,Creature — Human Knight,uncommon
+2,Temur Charm,Instant,uncommon
+1,Constricting Sliver,Creature — Sliver,uncommon
+2,No More Lies,Instant,uncommon
+1,Chemister's Insight,Instant,uncommon
+6,Unwanted Remake,Instant,uncommon
+1,Tendrils of Agony,Sorcery,uncommon
+1,Dowsing Device // Geode Grotto,Artifact // Land — Cave,uncommon
+1,Cast Down,Instant,uncommon
+1,Viral Drake,Creature — Phyrexian Drake,uncommon
+1,Necrogen Rotpriest,Creature — Phyrexian Zombie Cleric,uncommon
+1,Frilled Mystic,Creature — Elf Lizard Wizard,uncommon
+1,Mischievous Mystic,Creature — Human Wizard,uncommon
+3,Wandertale Mentor,Creature — Raccoon Bard,uncommon
+2,Marshal of Zhalfir,Creature — Human Knight,uncommon
+1,Mire in Misery,Sorcery,uncommon
+1,Ghostfire Slice,Instant,uncommon
+1,Master Splicer,Creature — Phyrexian Human Artificer,uncommon
+1,Flickering Ward,Enchantment — Aura,uncommon
+1,Spider Spawning,Sorcery,uncommon
+1,Troyan, Gutsy Explorer,Legendary Creature — Vedalken Scout,uncommon
+1,Idol of False Gods,Kindred Artifact — Eldrazi,uncommon
+2,Mass Appeal,Sorcery,uncommon
+1,Condescend,Instant,uncommon
+1,Magebane Lizard,Creature — Lizard,uncommon
+1,Faerie Dreamthief,Creature — Faerie Warlock,uncommon
+1,Essence Capture,Instant,uncommon
+1,Vryn Wingmare,Creature — Pegasus,uncommon
+4,Drag to the Roots,Instant,uncommon
+1,Seal from Existence,Enchantment,uncommon
+1,Erkenbrand, Lord of Westfold,Legendary Creature — Human Soldier,uncommon
+1,Zoetic Cavern,Land,uncommon
+2,Bellowing Aegisaur,Creature — Dinosaur,uncommon
+1,Hop to It,Sorcery,uncommon
+1,Vow of Duty,Enchantment — Aura,uncommon
+1,Merrow Commerce,Kindred Enchantment — Merfolk,uncommon
+1,Broodhatch Nantuko,Creature — Insect Druid,uncommon
+1,Iraxxa, Empress of Mars,Legendary Creature — Alien Warrior,uncommon
+1,Dreadmaw's Ire,Instant,uncommon
+1,Dionus, Elvish Archdruid,Legendary Creature — Elf Druid,uncommon
+1,Sharae of Numbing Depths,Legendary Creature — Merfolk Wizard,uncommon
+1,Might Sliver,Creature — Sliver,uncommon
+1,Bituminous Blast,Instant,uncommon
+1,Control Magic,Enchantment — Aura,uncommon
+1,Boar Umbra,Enchantment — Aura,uncommon
+1,Elite Scaleguard,Creature — Human Soldier,uncommon
+1,One with Nature,Enchantment — Aura,uncommon
+1,Rush of Inspiration // Crackling Falls,Instant // Land,uncommon
+1,Invasion of New Capenna // Holy Frazzle-Cannon,Battle — Siege // Artifact — Equipment,uncommon
+1,Picklock Prankster // Free the Fae,Creature — Faerie Rogue // Instant — Adventure,uncommon
+1,Armed and Armored,Instant,uncommon
+2,Zombify,Sorcery,uncommon
+1,Pawpatch Formation,Instant,uncommon
+1,Era of Innovation,Enchantment,uncommon
+1,Gleeful Demolition,Sorcery,uncommon
+1,Monastery Swiftspear,Creature — Human Monk,uncommon
+1,Twisted Fealty,Sorcery,uncommon
+1,Toggo, Goblin Weaponsmith,Legendary Creature — Goblin Artificer,uncommon
+1,Noble's Purse,Artifact,uncommon
+3,Bespoke Battlewagon,Artifact — Vehicle,uncommon
+2,Trash the Town,Instant,uncommon
+2,Firespitter Whelp,Creature — Dragon,uncommon
+1,Soul Manipulation,Instant,uncommon
+1,Mask of Riddles,Artifact — Equipment,uncommon
+1,Archon of Absolution,Creature — Archon,uncommon
+1,Drumhunter,Creature — Human Druid Warrior,uncommon
+1,Noxious Assault,Sorcery,uncommon
+2,Willbender,Creature — Human Wizard,uncommon
+2,Trickster's Elk,Enchantment Creature — Elk,uncommon
+4,Bottomless Pool // Locker Room,Enchantment — Room // Enchantment — Room,uncommon
+1,Pledge of Unity,Instant,uncommon
+1,Sage of Fables,Creature — Merfolk Wizard,uncommon
+1,Thopter Engineer,Creature — Human Artificer,uncommon
+1,Patchwork Automaton,Artifact Creature — Construct,uncommon
+1,Gorilla Shaman,Creature — Ape Shaman,uncommon
+2,Anchor to Reality,Sorcery,uncommon
+2,Enhanced Surveillance,Enchantment,uncommon
+1,Branch of Vitu-Ghazi,Land,uncommon
+1,Rise from the Tides,Sorcery,uncommon
+1,Vow of Lightning,Enchantment — Aura,uncommon
+1,Ruthless Knave,Creature — Orc Pirate,uncommon
+4,Defiled Crypt // Cadaver Lab,Enchantment — Room // Enchantment — Room,uncommon
+1,Frolicking Familiar // Blow Off Steam,Creature — Otter Wizard // Instant — Adventure,uncommon
+1,Bladestitched Skaab,Creature — Zombie Soldier,uncommon
+1,Resolute Reinforcements,Creature — Human Soldier,uncommon
+1,Embereth Shieldbreaker // Battle Display,Creature — Human Knight // Sorcery — Adventure,uncommon
+1,Wastescape Battlemage,Creature — Eldrazi Wizard,uncommon
+1,Acolyte of Bahamut,Legendary Enchantment — Background,uncommon
+1,Thundering Spineback,Creature — Dinosaur,uncommon
+1,Raging Regisaur,Creature — Dinosaur,uncommon
+1,Noise Marine,Creature — Astartes Warrior,uncommon
+1,Power Word Kill,Instant,uncommon
+1,Verdeloth the Ancient,Legendary Creature — Treefolk,uncommon
+1,Aeronaut Admiral,Creature — Human Pilot,uncommon
+1,Sandstorm Verge,Land — Desert,uncommon
+1,Ministrant of Obligation,Creature — Human Cleric,uncommon
+1,Triarch Praetorian,Artifact Creature — Necron,uncommon
+1,Barrow-Blade,Artifact — Equipment,uncommon
+1,Orzhov Enforcer,Creature — Human Rogue,uncommon
+1,Guardian Idol,Artifact,uncommon
+1,Wispdrinker Vampire,Creature — Vampire Rogue,uncommon
+1,Colossal Plow,Artifact — Vehicle,uncommon
+1,General Marhault Elsdragon,Legendary Creature — Elf Warrior,uncommon
+1,Attempted Murder,Sorcery,uncommon
+1,Leadership Vacuum,Instant,uncommon
+1,Helping Hand,Sorcery,uncommon
+3,Rust Elemental,Artifact Creature — Elemental,uncommon
+2,Firja, Judge of Valor,Legendary Creature — Angel Cleric,uncommon
+6,Nature's Chosen,Enchantment — Aura,uncommon
+5,Get Out,Instant,uncommon
+1,Celeborn the Wise,Legendary Creature — Elf Noble,uncommon
+2,Sunset Revelry,Sorcery,uncommon
+1,Call of the Death-Dweller,Sorcery,uncommon
+2,Threats Around Every Corner,Enchantment,uncommon
+1,Primal Bellow,Instant,uncommon
+1,Coastline Marauders,Creature — Human Pirate,uncommon
+2,Decree of Justice,Sorcery,uncommon
+5,Pyroclasm,Sorcery,uncommon
+1,Memorial to Genius,Land,uncommon
+1,Blightbeetle,Creature — Insect,uncommon
+1,Tatyova, Steward of Tides,Legendary Creature — Merfolk Druid,uncommon
+1,Daring Piracy,Enchantment,uncommon
+1,Ring of Kalonia,Artifact — Equipment,uncommon
+1,Buried in the Garden,Enchantment — Aura,uncommon
+1,Wasteland Viper,Creature — Snake,uncommon
+1,Order of Midnight // Alter Fate,Creature — Human Knight // Sorcery — Adventure,uncommon
+1,Amped Raptor,Creature — Dinosaur,uncommon
+1,Departed Deckhand,Creature — Spirit Pirate,uncommon
+1,Chainweb Aracnir,Creature — Spider,uncommon
+1,Plumecreed Escort,Creature — Bird Scout,uncommon
+1,Demonic Ruckus,Enchantment — Aura,uncommon
+1,Deadeye Quartermaster,Creature — Human Pirate,uncommon
+1,Spyglass Siren,Creature — Siren Pirate,uncommon
+1,Holy Mantle,Enchantment — Aura,uncommon
+1,Majestic Heliopterus,Creature — Dinosaur,uncommon
+1,Neva, Stalked by Nightmares,Legendary Creature — Human Noble,uncommon
+1,Tempest Caller,Creature — Merfolk Wizard,uncommon
+1,Diabolic Vision,Sorcery,uncommon
+2,Fleshtaker,Creature — Human Assassin,uncommon
+3,Fear of Impostors,Enchantment Creature — Nightmare,uncommon
+1,Secret Plans,Enchantment,uncommon
+1,Ongoing Investigation,Enchantment,uncommon
+1,Vampire Hexmage,Creature — Vampire Shaman,uncommon
+1,Rush of Knowledge,Sorcery,uncommon
+1,Twinblade Blessing,Enchantment — Aura,uncommon
+2,Stoke the Flames,Instant,uncommon
+1,Githzerai Monk,Creature — Gith Monk,uncommon
+1,Heroic Reinforcements,Sorcery,uncommon
+3,Greenhouse // Rickety Gazebo,Enchantment — Room // Enchantment — Room,uncommon
+1,Liliana's Devotee,Creature — Human Warlock,uncommon
+1,Shrike Force,Creature — Bird Knight,uncommon
+3,Dwarven Ruins,Land,uncommon
+4,Spell Snare,Instant,uncommon
+1,Confounding Riddle,Instant,uncommon
+2,Annex Sentry,Artifact Creature — Phyrexian Cleric,uncommon
+2,Stab Wound,Enchantment — Aura,uncommon
+1,Feral Hydra,Creature — Hydra Beast,uncommon
+1,Craig Boone, Novac Guard,Legendary Creature — Human Soldier,uncommon
+1,Discovery // Dispersal,Sorcery // Instant,uncommon
+1,Batwing Brume,Instant,uncommon
+1,Hoarding Dragon,Creature — Dragon,uncommon
+1,Hotshot Mechanic,Artifact Creature — Fox Pilot,uncommon
+3,Transplant Theorist,Artifact Creature — Phyrexian Artificer,uncommon
+1,Packsong Pup,Creature — Wolf,uncommon
+1,Charitable Levy,Enchantment,uncommon
+1,Spiteful Prankster,Creature — Devil,uncommon
+1,Orochi Merge-Keeper,Creature — Snake Druid,uncommon
+1,Feed the Infection,Sorcery,uncommon
+1,Fallowsage,Creature — Merfolk Wizard,uncommon
+1,Careening Mine Cart,Artifact — Vehicle,uncommon
+1,High-Speed Hoverbike,Artifact — Vehicle,uncommon
+2,Gravedigger,Creature — Zombie,uncommon
+4,Vile Mutilator,Creature — Demon,uncommon
+1,Skeleton Key,Artifact — Equipment,uncommon
+1,Pelakka Wurm,Creature — Wurm,uncommon
+1,Shipwreck Dowser,Creature — Merfolk Wizard,uncommon
+1,Ravenous Amulet,Artifact,uncommon
+4,Fear of Burning Alive,Enchantment Creature — Nightmare,uncommon
+1,Crackling Drake,Creature — Drake,uncommon
+1,Kappa Tech-Wrecker,Creature — Turtle Ninja,uncommon
+3,Exorcise,Sorcery,uncommon
+1,Cathar's Call,Enchantment — Aura,uncommon
+1,Daring Saboteur,Creature — Human Pirate,uncommon
+1,Lost to Legend,Instant,uncommon
+1,Tymaret, Chosen from Death,Legendary Enchantment Creature — Demigod,uncommon
+1,Swarm of Rats,Creature — Rat,uncommon
+1,Soaring Thought-Thief,Creature — Human Rogue,uncommon
+1,Bretagard Stronghold,Land,uncommon
+1,Static Prison,Enchantment,uncommon
+1,Merfolk Cave-Diver,Creature — Merfolk Scout,uncommon
+1,Drillworks Mole,Artifact Creature — Mole,uncommon
+1,Vow of Malice,Enchantment — Aura,uncommon
+2,Scrabbling Claws,Artifact,uncommon
+1,Lesser Masticore,Artifact Creature — Masticore,uncommon
+3,Shardmage's Rescue,Enchantment — Aura,uncommon
+1,Goblin Negotiation,Sorcery,uncommon
+1,Merfolk Trickster,Creature — Merfolk Wizard,uncommon
+1,Shuko,Artifact — Equipment,uncommon
+1,Faramir, Field Commander,Legendary Creature — Human Soldier,uncommon
+1,Voice of Many,Creature — Elf Druid,uncommon
+4,Overgrown Zealot,Creature — Elf Druid,uncommon
+1,Rob the Archives,Sorcery,uncommon
+1,Against All Odds,Sorcery,uncommon
+3,Uktabi Orangutan,Creature — Ape,uncommon
+1,Imperial Recovery Unit,Artifact — Vehicle,uncommon
+1,Prosthetic Injector,Artifact — Equipment,uncommon
+1,Gorgon Flail,Artifact — Equipment,uncommon
+2,Turn to Frog,Instant,uncommon
+2,Feldon's Cane,Artifact,uncommon
+1,Time of Ice,Enchantment — Saga,uncommon
+1,Ghost of Ramirez DePietro,Legendary Creature — Spirit Pirate,uncommon
+2,Dewdrop Cure,Sorcery,uncommon
+1,Play with Fire,Instant,uncommon
+1,Getaway Glamer,Instant,uncommon
+1,Nacatl War-Pride,Creature — Cat Warrior,uncommon
+1,Mage's Attendant,Creature — Cat Rogue,uncommon
+2,Akawalli, the Seething Tower,Legendary Creature — Fungus,uncommon
+1,Luxurious Locomotive,Artifact — Vehicle,uncommon
+1,Dusk Mangler,Creature — Horror,uncommon
+1,Generous Visitor,Creature — Spirit,uncommon
+1,Gaea's Touch,Enchantment,uncommon
+1,Puppet Strings,Artifact,uncommon
+1,Vampires' Vengeance,Instant,uncommon
+2,Nissa's Expedition,Sorcery,uncommon
+2,Make Your Own Luck,Sorcery,uncommon
+6,Icy Manipulator,Artifact,uncommon
+1,Dauntless Bodyguard,Creature — Human Knight,uncommon
+2,Meltdown,Sorcery,uncommon
+1,Breaching Dragonstorm,Enchantment,uncommon
+1,Citizen's Crowbar,Artifact — Equipment,uncommon
+1,Argothian Elder,Creature — Elf Druid,uncommon
+1,Grafted Wargear,Artifact — Equipment,uncommon
+1,Dauthi Embrace,Enchantment,uncommon
+1,Experiment One,Creature — Human Ooze,uncommon
+1,Lulu, Loyal Hollyphant,Legendary Creature — Elephant Angel,uncommon
+1,Propagator Drone,Creature — Eldrazi Drone,uncommon
+1,Mutagenic Growth,Instant,uncommon
+5,Nekrataal,Creature — Human Assassin,uncommon
+9,Hymn to Tourach,Sorcery,uncommon
+1,Mana Breach,Enchantment,uncommon
+1,Summary Dismissal,Instant,uncommon
+1,Compost,Enchantment,uncommon
+3,Splitskin Doll,Artifact Creature — Toy,uncommon
+1,Blazing Rootwalla,Creature — Lizard,uncommon
+1,Indebted Spirit,Enchantment Creature — Spirit,uncommon
+2,Infested Fleshcutter,Artifact — Equipment,uncommon
+1,Illicit Shipment,Sorcery,uncommon
+1,Khenra Spellspear // Gitaxian Spellstalker,Creature — Jackal Warrior // Creature — Phyrexian Jackal,uncommon
+1,Treasure Keeper,Artifact Creature — Construct,uncommon
+2,Rasaad yn Bashir,Legendary Creature — Human Monk,uncommon
+1,Knights of the Black Rose,Creature — Human Knight,uncommon
+1,Withered Wretch,Creature — Zombie Cleric,uncommon
+1,Lookout's Dispersal,Instant,uncommon
+3,Gremlin Tamer,Creature — Human Scout,uncommon
+2,Dormant Volcano,Land,uncommon
+1,Stock Up,Sorcery,uncommon
+1,Pulse of Murasa,Instant,uncommon
+1,Reality Heist,Instant,uncommon
+1,Norika Yamazaki, the Poet,Legendary Creature — Human Samurai,uncommon
+1,Improbable Alliance,Enchantment,uncommon
+2,Dusk Rose Reliquary,Artifact,uncommon
+1,Learn from the Past,Instant,uncommon
+1,Visage Bandit,Creature — Shapeshifter Rogue,uncommon
+2,Meteoric Mace,Artifact — Equipment,uncommon
+1,Teapot Slinger,Creature — Raccoon Warrior,uncommon
+1,Overwhelming Encounter,Sorcery,uncommon
+1,Twinshot Sniper,Artifact Creature — Goblin Archer,uncommon
+1,Psychic Spiral,Instant,uncommon
+2,Perforating Artist,Creature — Devil,uncommon
+1,Ward Sliver,Creature — Sliver,uncommon
+4,Consign to Memory,Instant,uncommon
+1,Altar of the Goyf,Kindred Artifact — Lhurgoyf,uncommon
+1,Defend the Rider,Instant,uncommon
+1,Invasion of Mercadia // Kyren Flamewright,Battle — Siege // Creature — Goblin Spellshaper,uncommon
+1,Old Man Willow,Legendary Creature — Treefolk,uncommon
+1,Illusory Ambusher,Creature — Cat Illusion,uncommon
+2,Sengir Autocrat,Creature — Human,uncommon
+2,Twists and Turns // Mycoid Maze,Enchantment // Land — Cave,uncommon
+4,Altanak, the Thrice-Called,Legendary Creature — Insect Beast,uncommon
+1,Mad Ratter,Creature — Goblin,uncommon
+5,Osseous Sticktwister,Artifact Creature — Scarecrow,uncommon
+1,Rowdy Research,Instant,uncommon
+4,Surgical Suite // Hospital Room,Enchantment — Room // Enchantment — Room,uncommon
+2,Elephant Grass,Enchantment,uncommon
+1,Gleaming Geardrake,Artifact Creature — Drake,uncommon
+1,Grizzly Fate,Sorcery,uncommon
+1,Tyrant's Scorn,Instant,uncommon
+1,Hard-Hitting Question,Sorcery,uncommon
+3,Kraum, Violent Cacophony,Legendary Creature — Zombie Horror,uncommon
+12,Blue Elemental Blast,Instant,uncommon
+1,Rebuild,Instant,uncommon
+1,Territory Culler,Creature — Eldrazi,uncommon
+1,Mischievous Catgeist // Catlike Curiosity,Creature — Cat Spirit // Enchantment — Aura,uncommon
+3,Serra Angel,Creature — Angel,uncommon
+1,Jolene, Plundering Pugilist,Legendary Creature — Human Mercenary,uncommon
+1,Auriok Salvagers,Creature — Human Soldier,uncommon
+1,Hexgold Hoverwings,Artifact — Equipment,uncommon
+1,Ambitious Farmhand // Seasoned Cathar,Creature — Human Peasant // Creature — Human Knight,uncommon
+1,Nightveil Predator,Creature — Vampire,uncommon
+1,Atraxa's Skitterfang,Artifact Creature — Phyrexian Insect,uncommon
+1,Arcbound Condor,Artifact Creature — Bird,uncommon
+2,Rebel Salvo,Instant,uncommon
+2,Splash Lasher,Creature — Frog Wizard,uncommon
+1,Salt Road Ambushers,Creature — Dog Warrior,uncommon
+4,Prodigal Sorcerer,Creature — Human Wizard,uncommon
+1,Storm the Seedcore,Sorcery,uncommon
+1,Skullcrack,Instant,uncommon
+1,Banisher Priest,Creature — Human Cleric,uncommon
+1,Flesh-Eater Imp,Creature — Phyrexian Imp,uncommon
+1,Augur of Bolas,Creature — Merfolk Wizard,uncommon
+1,Clinquant Skymage,Creature — Bird Wizard,uncommon
+1,Huskburster Swarm,Creature — Elemental Insect,uncommon
+1,Everglades,Land,uncommon
+1,Tax Collector,Creature — Human Advisor,uncommon
+3,Glowcap Lantern,Artifact — Equipment,uncommon
+1,Micromancer,Creature — Human Wizard,uncommon
+1,Zameck Guildmage,Creature — Elf Wizard,uncommon
+1,Banishing Slash,Sorcery,uncommon
+1,Cenote Scout,Creature — Merfolk Scout,uncommon
+1,Ivora, Insatiable Heir,Legendary Creature — Vampire Warrior,uncommon
+1,Long Goodbye,Instant,uncommon
+2,Dwarven Miner,Creature — Dwarf,uncommon
+1,Rosheen Meanderer,Legendary Creature — Giant Shaman,uncommon
+1,Flame Jab,Sorcery,uncommon
+1,Deadly Plot,Instant,uncommon
+1,Triskaidekaphobia,Enchantment,uncommon
+1,Besmirch,Sorcery,uncommon
+3,Valgavoth's Faithful,Creature — Human Cleric,uncommon
+1,Havenwood Battleground,Land,uncommon
+1,Turn the Earth,Instant,uncommon
+2,Adventuring Gear,Artifact — Equipment,uncommon
+1,Dismiss,Instant,uncommon
+1,Dingus Staff,Artifact,uncommon
+1,Fireglass Mentor,Creature — Lizard Warlock,uncommon
+1,Clay-Fired Bricks // Cosmium Kiln,Artifact // Artifact,uncommon
+1,Spectral Procession,Sorcery,uncommon
+1,Johann, Apprentice Sorcerer,Legendary Creature — Human Wizard,uncommon
+1,Crab Umbra,Enchantment — Aura,uncommon
+1,Dwarven Recruiter,Creature — Dwarf,uncommon
+1,Vampire Gourmand,Creature — Vampire,uncommon
+1,Behold the Unspeakable // Vision of the Unspeakable,Enchantment — Saga // Enchantment Creature — Spirit,uncommon
+16,Power Sink,Instant,uncommon
+2,Towering Gibbon,Creature — Ape,uncommon
+1,Bounty of the Luxa,Enchantment,uncommon
+1,Scorching Shot,Sorcery,uncommon
+1,Transit Mage,Creature — Human Wizard,uncommon
+1,Savage Twister,Sorcery,uncommon
+1,Shadowfax, Lord of Horses,Legendary Creature — Horse,uncommon
+1,Combat Thresher,Artifact Creature — Construct,uncommon
+1,Staunch Crewmate,Creature — Human Pirate,uncommon
+1,Revenge of the Rats,Sorcery,uncommon
+1,Midnight Snack,Enchantment,uncommon
+1,Ride Down,Instant,uncommon
+1,Racers' Scoreboard,Artifact,uncommon
+2,Boon of Boseiju,Instant,uncommon
+1,Slickshot Lockpicker,Creature — Human Rogue,uncommon
+3,Vengeful Possession,Sorcery,uncommon
+1,Gold Rush,Instant,uncommon
+2,Reckless Spite,Instant,uncommon
+1,Butch DeLoria, Tunnel Snake,Legendary Creature — Human Rogue,uncommon
+1,Glyph Elemental,Enchantment Creature — Elemental,uncommon
+2,Arlinn, Voice of the Pack,Legendary Planeswalker — Arlinn,uncommon
+1,Frenzied Goblin,Creature — Goblin Berserker,uncommon
+2,Servant of the Stinger,Creature — Human Warlock,uncommon
+1,Disrupt,Instant,uncommon
+3,Irreverent Gremlin,Creature — Gremlin,uncommon
+1,Duty Beyond Death,Instant,uncommon
+1,Nantuko Cultivator,Creature — Insect Druid,uncommon
+6,Under the Skin,Sorcery,uncommon
+1,Kitesail Freebooter,Creature — Human Pirate,uncommon
+1,Shivan Dragon,Creature — Dragon,uncommon
+1,Slaughter Singer,Creature — Phyrexian Cleric,uncommon
+1,Rampaging Ceratops,Creature — Dinosaur,uncommon
+1,Karametra's Favor,Enchantment — Aura,uncommon
+1,Cheeky House-Mouse // Squeak By,Creature — Mouse // Sorcery — Adventure,uncommon
+1,Grab the Reins,Instant,uncommon
+1,Suffer the Past,Instant,uncommon
+2,Scurry of Gremlins,Enchantment,uncommon
+1,Invasion of Regatha // Disciples of the Inferno,Battle — Siege // Creature — Human Monk,uncommon
+1,Quest for the Necropolis,Enchantment,uncommon
+1,Untethered Express,Artifact — Vehicle,uncommon
+4,Ebon Stronghold,Land,uncommon
+1,Mogg Maniac,Creature — Goblin,uncommon
+1,Chupacabra Echo,Creature — Beast Horror Spirit,uncommon
+4,Smoky Lounge // Misty Salon,Enchantment — Room // Enchantment — Room,uncommon
+3,Elvish Regrower,Creature — Elf Druid,uncommon
+1,Draconic Disciple,Creature — Human Shaman,uncommon
+1,Fire // Ice,Instant // Instant,uncommon
+1,Auroral Procession,Instant,uncommon
+1,Shepherd of the Flock // Usher to Safety,Creature — Human Peasant // Instant — Adventure,uncommon
+1,Rakish Crew,Enchantment,uncommon
+2,Xerex Strobe-Knight,Creature — Human Knight,uncommon
+1,Patch Up,Sorcery,uncommon
+3,Let's Play a Game,Sorcery,uncommon
+1,Gary Clone,Creature — Human Citizen,uncommon
+1,Priest of the Blood Rite,Creature — Human Cleric,uncommon
+3,Growing Dread,Enchantment,uncommon
+3,Painter's Studio // Defaced Gallery,Enchantment — Room // Enchantment — Room,uncommon
+2,Self-Reflection,Sorcery,uncommon
+2,Master's Guide-Mural // Master's Manufactory,Artifact // Artifact,uncommon
+1,Wall of Essence,Creature — Wall,uncommon
+1,Broodbirth Viper,Creature — Snake,uncommon
+1,Replication Specialist,Creature — Moonfolk Artificer,uncommon
+1,Savannah Lions,Creature — Cat,uncommon
+1,Edgar's Awakening,Sorcery,uncommon
+1,Bounding Felidar,Creature — Cat Beast Mount,uncommon
+4,Hydroblast,Instant,uncommon
+1,Brineborn Cutthroat,Creature — Merfolk Pirate,uncommon
+2,Fumble,Instant,uncommon
+1,Amethyst Dragon // Explosive Crystal,Creature — Dragon // Sorcery — Adventure,uncommon
+1,Disinformation Campaign,Enchantment,uncommon
+1,Blaze,Sorcery,uncommon
+1,Terravore,Creature — Lhurgoyf,uncommon
+1,Eldrazi Ravager,Creature — Eldrazi,uncommon
+1,Blighted Fen,Land,uncommon
+1,Gamekeeper,Creature — Elf,uncommon
+1,Night Scythe,Artifact — Vehicle,uncommon
+1,Treasure Dredger,Creature — Human Rogue,uncommon
+1,Summit Apes,Creature — Ape,uncommon
+1,Recruitment Officer,Creature — Human Soldier,uncommon
+1,Base Camp,Land,uncommon
+1,Belligerent Sliver,Creature — Sliver,uncommon
+1,Cephalopod Sentry,Artifact Creature — Phyrexian Squid,uncommon
+1,Vitu-Ghazi Guildmage,Creature — Dryad Shaman,uncommon
+3,Optimistic Scavenger,Creature — Human Scout,uncommon
+1,Cacophony Scamp,Creature — Phyrexian Goblin Warrior,uncommon
+1,Hope-Ender Coatl,Creature — Eldrazi Snake,uncommon
+1,Scrounging Skyray,Creature — Fish Pirate,uncommon
+1,Millstone,Artifact,uncommon
+4,Paranormal Analyst,Creature — Human Detective,uncommon
+5,Break Down the Door,Instant,uncommon
+1,Origin of the Hidden Ones,Enchantment — Saga,uncommon
+3,Tel-Jilad Stylus,Artifact,uncommon
+1,Vizier of Remedies,Creature — Human Cleric,uncommon
+1,Strangleroot Geist,Creature — Spirit,uncommon
+1,Graf Mole,Creature — Mole Beast,uncommon
+1,Young Deathclaws,Creature — Lizard Mutant,uncommon
+1,Spitemare,Creature — Elemental,uncommon
+2,Restoration Specialist,Creature — Dwarf Artificer,uncommon
+1,Fyndhorn Elder,Creature — Elf Druid,uncommon
+1,Rattleback Apothecary,Creature — Gorgon Warlock,uncommon
+1,Groundskeeper,Creature — Human Druid,uncommon
+1,Geological Appraiser,Creature — Human Artificer,uncommon
+1,Flametongue Kavu,Creature — Kavu,uncommon
+1,Kolaghan Warmonger,Creature — Ogre Warrior,uncommon
+1,Fleetfoot Panther,Creature — Cat,uncommon
+1,Persuasive Interrogators,Creature — Gorgon Detective,uncommon
+1,Call the Bloodline,Enchantment,uncommon
+1,Halsin, Emerald Archdruid,Legendary Creature — Elf Druid,uncommon
+3,Keys to the House,Artifact,uncommon
+1,Vhal, Candlekeep Researcher,Legendary Creature — Human Wizard,uncommon
+2,Cat Collector,Creature — Human Citizen,uncommon
+1,Once and Future,Instant,uncommon
+4,Cynical Loner,Creature — Human Survivor,uncommon
+1,Breath of Darigaaz,Sorcery,uncommon
+2,Sunbird Standard // Sunbird Effigy,Artifact // Artifact Creature — Bird Construct,uncommon
+1,Felling Blow,Sorcery,uncommon
+1,Ulamog's Nullifier,Creature — Eldrazi Processor,uncommon
+4,Floodpits Drowner,Creature — Merfolk,uncommon
+1,Curious Inquiry,Enchantment — Aura,uncommon
+1,Necrosquito,Creature — Phyrexian Insect,uncommon
+1,Taj-Nar Swordsmith,Creature — Cat Soldier,uncommon
+4,Norin, Swift Survivalist,Legendary Creature — Human Coward,uncommon
+1,Riveteers Requisitioner,Creature — Lizard Rogue,uncommon
+2,Defossilize,Sorcery,uncommon
+1,Country Roads,Land,uncommon
+1,Rescuer Chwinga,Creature — Elemental Spirit,uncommon
+1,Syr Elenora, the Discerning,Legendary Creature — Human Knight,uncommon
+1,Sprite Noble,Creature — Faerie Noble,uncommon
+1,Rolling Thunder,Sorcery,uncommon
+1,Venerated Stormsinger,Creature — Orc Cleric,uncommon
+3,Spring-Loaded Sawblades // Bladewheel Chariot,Artifact // Artifact — Vehicle,uncommon
+1,Moonstone Harbinger,Creature — Bat Warrior,uncommon
+3,Burnout,Instant,uncommon
+3,Wickerfolk Thresher,Artifact Creature — Scarecrow,uncommon
+5,Fountain of Youth,Artifact,uncommon
+1,Chalk Outline,Enchantment,uncommon
+2,Minor Misstep,Instant,uncommon
+1,Fae Flight,Enchantment — Aura,uncommon
+3,Mischievous Pup,Creature — Dog,uncommon
+1,Brazen Collector,Creature — Raccoon Rogue,uncommon
+1,Lava Spike,Sorcery — Arcane,uncommon
+1,Mobile Homestead,Artifact — Vehicle,uncommon
+2,Chittering Skitterling,Creature — Phyrexian Rat,uncommon
+1,Exuberant Fuseling,Creature — Phyrexian Goblin Warrior,uncommon
+1,Penumbra Wurm,Creature — Wurm,uncommon
+2,Delirium,Instant,uncommon
+1,Start the TARDIS,Sorcery,uncommon
+3,Diversion Unit,Artifact Creature — Robot,uncommon
+1,Fleeting Reflection,Instant,uncommon
+1,Shambling Suit,Artifact Creature — Construct,uncommon
+2,Blade Sliver,Creature — Sliver,uncommon
+1,Skittering Precursor,Creature — Eldrazi Drone,uncommon
+1,Nesting Bot,Artifact Creature — Robot,uncommon
+1,Malamet Battle Glyph,Sorcery,uncommon
+1,Dimir Spybug,Creature — Insect,uncommon
+1,Arcbound Whelp,Artifact Creature — Dragon,uncommon
+1,Abolish,Instant,uncommon
+1,Witchstalker Frenzy,Instant,uncommon
+1,Oathsworn Giant,Creature — Giant Soldier,uncommon
+1,Nikko-Onna,Creature — Spirit,uncommon
+1,Vengeful Tracker,Creature — Human Detective,uncommon
+1,Slice in Twain,Instant,uncommon
+2,Boosted Sloop,Artifact — Vehicle,uncommon
+1,Pore Over the Pages,Sorcery,uncommon
+1,Bushy Bodyguard,Creature — Squirrel Warrior,uncommon
+1,Goremand,Creature — Demon,uncommon
+2,Lodestone Needle // Guidestone Compass,Artifact // Artifact,uncommon
+4,Broodspinner,Creature — Spider,uncommon
+1,Hearth Elemental // Stoke Genius,Creature — Elemental // Sorcery — Adventure,uncommon
+3,Skeleton Shard,Artifact,uncommon
+5,Pillage,Sorcery,uncommon
+2,Volcanic Geyser,Instant,uncommon
+1,Archive Dragon,Creature — Dragon Wizard,uncommon
+1,Wurmcoil Larva,Artifact Creature — Phyrexian Wurm,uncommon
+1,Invasion of Moag // Bloomwielder Dryads,Battle — Siege // Creature — Dryad,uncommon
+3,Righteous Aura,Enchantment,uncommon
+1,Invasion of Belenon // Belenon War Anthem,Battle — Siege // Enchantment,uncommon
+1,Rune-Sealed Wall,Artifact Creature — Wall,uncommon
+1,Wardens of the Cycle,Creature — Elf Warlock,uncommon
+1,Reach of Branches,Kindred Instant — Treefolk,uncommon
+1,Cursed Wombat,Creature — Nightmare Wombat,uncommon
+1,Atraxi Warden,Creature — Alien Eye,uncommon
+3,The Witch's Vanity,Enchantment — Saga,uncommon
+1,Galewind Moose,Creature — Elemental Elk,uncommon
+1,Mystic Subdual,Enchantment — Aura,uncommon
+1,Mishra's Research Desk,Artifact,uncommon
+1,Colossadactyl,Creature — Dinosaur,uncommon
+5,Lionheart Glimmer,Enchantment Creature — Cat Glimmer,uncommon
+1,Ultimate Price,Instant,uncommon
+1,Lead the Stampede,Sorcery,uncommon
+1,Disciple of Perdition,Creature — Human Warlock,uncommon
+1,Outcaster Greenblade,Creature — Human Mercenary,uncommon
+1,Nessian Hornbeetle,Creature — Insect,uncommon
+1,Brightmare,Creature — Unicorn,uncommon
+1,Goblin Oriflamme,Enchantment,uncommon
+1,Oracle of Tragedy,Creature — Human Wizard,uncommon
+1,Sutina, Speaker of the Tajuru,Legendary Creature — Elf Scout,uncommon
+2,Arbiter of Woe,Creature — Demon,uncommon
+3,Assert Authority,Instant,uncommon
+1,Proud Pack-Rhino,Creature — Rhino,uncommon
+2,Heir of the Wilds,Creature — Human Warrior,uncommon
+3,Ashes to Ashes,Sorcery,uncommon
+1,Metamorphic Blast,Instant,uncommon
+1,Cartographer's Survey,Sorcery,uncommon
+2,Picnic Ruiner // Stolen Goodies,Creature — Goblin Rogue // Sorcery — Adventure,uncommon
+1,Greenbelt Radical,Creature — Centaur Citizen,uncommon
+2,Pteramander,Creature — Salamander Drake,uncommon
+2,Master Thief,Creature — Human Rogue,uncommon
+1,Marsh Flitter,Creature — Faerie Rogue,uncommon
+1,Thought-Stalker Warlock,Creature — Lizard Warlock,uncommon
+1,Fiendish Panda,Creature — Bear Demon,uncommon
+5,Scrabbling Skullcrab,Creature — Crab Skeleton,uncommon
+1,Mercy Killing,Instant,uncommon
+3,Commune with Evil,Sorcery,uncommon
+3,Live or Die,Instant,uncommon
+4,Fear of Infinity,Enchantment Creature — Nightmare,uncommon
+1,Exit Specialist,Creature — Human Detective,uncommon
+4,This Town Ain't Big Enough,Instant,uncommon
+3,Fear of Failed Tests,Enchantment Creature — Nightmare,uncommon
+2,Energy Flux,Enchantment,uncommon
+1,Faebloom Trick,Instant,uncommon
+1,Vilespawn Spider,Creature — Spider,uncommon
+1,Inspiration from Beyond,Sorcery,uncommon
+1,Brushfire Elemental,Creature — Elemental,uncommon
+3,Patchwork Beastie,Artifact Creature — Beast,uncommon
+1,Archfiend of Sorrows,Creature — Demon,uncommon
+1,Lithomantic Barrage,Sorcery,uncommon
+1,Sontaran General,Creature — Alien Soldier,uncommon
+1,Enigma Drake,Creature — Drake,uncommon
+1,Cloudspire Captain,Creature — Human Pilot,uncommon
+1,Briarbridge Patrol,Creature — Human Warrior,uncommon
+1,Astral Wingspan,Enchantment — Aura,uncommon
+1,Miriam, Herd Whisperer,Legendary Creature — Human Druid,uncommon
+1,Boros Keyrune,Artifact,uncommon
+1,Bottle Gnomes,Artifact Creature — Gnome,uncommon
+1,Arcanist's Owl,Artifact Creature — Bird,uncommon
+2,Phyrexian Devourer,Artifact Creature — Phyrexian Construct,uncommon
+1,Loam Lion,Creature — Cat,uncommon
+3,Coordinated Clobbering,Sorcery,uncommon
+2,Legerdemain,Sorcery,uncommon
+1,Refurbish,Sorcery,uncommon
+1,Goblin Warrens,Enchantment,uncommon
+1,Veteran Beastrider,Creature — Human Knight,uncommon
+3,Sporogenic Infection,Enchantment — Aura,uncommon
+1,Pyretic Rebirth,Instant,uncommon
+1,Hoarder's Overflow,Enchantment,uncommon
+1,Tiller of Flesh,Creature — Phyrexian Knight,uncommon
+1,Undercity Eliminator,Creature — Gorgon Assassin,uncommon
+1,Jolly Gerbils,Creature — Hamster Citizen,uncommon
+1,Reito Sentinel,Artifact Creature — Construct,uncommon
+2,Nimraiser Paladin,Creature — Phyrexian Knight,uncommon
+1,Uchbenbak, the Great Mistake,Legendary Creature — Skeleton Horror,uncommon
+1,Elvish Vatkeeper,Creature — Phyrexian Elf,uncommon
+2,Plan the Heist,Sorcery,uncommon
+5,Ghostly Keybearer,Creature — Spirit,uncommon
+1,Assassin's Ink,Instant,uncommon
+1,Barbed Spike,Artifact — Equipment,uncommon
+1,Joyful Stormsculptor,Creature — Human Shaman,uncommon
+1,Angelic Cub,Creature — Cat Angel,uncommon
+2,Nuisance Engine,Artifact,uncommon
+1,Hunting Pack,Instant,uncommon
+1,Talrand's Invocation,Sorcery,uncommon
+5,Oblivious Bookworm,Creature — Human Wizard,uncommon
+1,Not on My Watch,Instant,uncommon
+1,Grimdancer,Creature — Nightmare,uncommon
+1,Thassa's Emissary,Enchantment Creature — Crab,uncommon
+2,Hurl into History,Instant,uncommon
+1,Reptilian Recruiter,Creature — Lizard Warrior,uncommon
+1,Telekinetic Sliver,Creature — Sliver,uncommon
+1,Canonized in Blood,Enchantment,uncommon
+1,Waker of Waves,Creature — Whale,uncommon
+3,Beastie Beatdown,Sorcery,uncommon
+1,Nivix Guildmage,Creature — Human Wizard,uncommon
+1,Recall,Sorcery,uncommon
+1,Claws Out,Instant,uncommon
+6,Act on Impulse,Sorcery,uncommon
+3,Soul Exchange,Sorcery,uncommon
+1,Ghostblade Eidolon,Enchantment Creature — Spirit,uncommon
+1,Rope,Artifact — Clue Equipment,uncommon
+4,Popular Egotist,Creature — Human Rogue,uncommon
+3,Haunted Screen,Artifact,uncommon
+3,Piggy Bank,Artifact Creature — Boar Toy,uncommon
+1,Syr Alin, the Lion's Claw,Legendary Creature — Human Knight,uncommon
+1,Hivespine Wolverine,Creature — Elemental Wolverine,uncommon
+1,Alacrian Armory,Artifact,uncommon
+6,Quicksand,Land,uncommon
+1,Sunstone,Artifact,uncommon
+1,Synapse Necromage,Creature — Fungus Wizard,uncommon
+2,Saheeli's Lattice // Mastercraft Raptor,Artifact // Artifact Creature — Dinosaur,uncommon
+1,Rooting Moloch,Creature — Lizard,uncommon
+1,Strider, Ranger of the North,Legendary Creature — Human Ranger,uncommon
+5,Momentum Breaker,Enchantment,uncommon
+3,Midnight Mayhem,Sorcery,uncommon
+2,Ribskiff,Artifact — Vehicle,uncommon
+4,Svyelunite Temple,Land,uncommon
+1,Miraculous Recovery,Instant,uncommon
+3,Shroudstomper,Creature — Elemental,uncommon
+1,Ordeal of Heliod,Enchantment — Aura,uncommon
+1,Lay Claim,Enchantment — Aura,uncommon
+1,Evolving Adaptive,Creature — Phyrexian Warrior,uncommon
+1,Grey Knight Paragon,Creature — Astartes Knight,uncommon
+1,Ferocification,Enchantment,uncommon
+1,Spinewoods Armadillo,Creature — Armadillo,uncommon
+1,Enlarge,Sorcery,uncommon
+1,Expose the Culprit,Instant,uncommon
+1,Broadside Barrage,Instant,uncommon
+1,Broodheart Engine,Artifact,uncommon
+1,Tandem Takedown,Instant,uncommon
+1,Undead Gladiator,Creature — Zombie Barbarian,uncommon
+16,Regeneration,Enchantment — Aura,uncommon
+1,Mercadia's Downfall,Instant,uncommon
+1,Trostani's Summoner,Creature — Elf Shaman,uncommon
+1,Punishing Fire,Instant,uncommon
+5,Molten Rain,Sorcery,uncommon
+1,Leonin Skyhunter,Creature — Cat Knight,uncommon
+1,Trawler Drake,Creature — Phyrexian Drake,uncommon
+1,Elspeth's Smite,Instant,uncommon
+1,Rocky Roads,Land,uncommon
+1,Recross the Paths,Sorcery,uncommon
+6,Cuombajj Witches,Creature — Human Wizard,uncommon
+1,Shocking Sharpshooter,Creature — Human Archer,uncommon
+1,Adanto Vanguard,Creature — Vampire Soldier,uncommon
+1,Awaken the Sleeper,Sorcery,uncommon
+1,Ramosian Greatsword,Artifact — Equipment,uncommon
+1,Inga Rune-Eyes,Legendary Creature — Human Wizard,uncommon
+1,Leshrac's Sigil,Enchantment,uncommon
+1,Contortionist Troupe,Creature — Human,uncommon
+1,Faceless Butcher,Creature — Nightmare Horror,uncommon
+1,Lim-Dûl's Hex,Enchantment,uncommon
+1,Metropolis Angel,Creature — Angel Soldier,uncommon
+1,Vigilante Justice,Enchantment,uncommon
+1,Eddymurk Crab,Creature — Elemental Crab,uncommon
+1,Myth Realized,Enchantment,uncommon
+1,Caught in the Crossfire,Instant,uncommon
+2,Farsight Mask,Artifact,uncommon
+1,Charging Monstrosaur,Creature — Dinosaur,uncommon
+1,Kraul Whipcracker,Creature — Insect Assassin,uncommon
+2,Energy Arc,Instant,uncommon
+1,Guidelight Synergist,Artifact Creature — Robot Artificer,uncommon
+1,Viral Spawning,Sorcery,uncommon
+1,Invasion of Ulgrotha // Grandmother Ravi Sengir,Battle — Siege // Legendary Creature — Human Wizard,uncommon
+1,Thoughtbound Phantasm,Creature — Spirit,uncommon
+1,Mentor's Guidance,Sorcery,uncommon
+1,Mist Raven,Creature — Bird,uncommon
+3,Viridian Shaman,Creature — Elf Shaman,uncommon
+1,Blightning,Sorcery,uncommon
+1,Cynette, Jelly Drover,Legendary Creature — Human Wizard,uncommon
+1,Monastery Raid,Sorcery,uncommon
+1,Oak Street Innkeeper,Creature — Elf,uncommon
+3,Skullsnap Nuisance,Creature — Insect Skeleton,uncommon
+2,Shatterstorm,Sorcery,uncommon
+1,Ahn-Crop Crasher,Creature — Minotaur Warrior,uncommon
+3,House Cartographer,Creature — Human Scout Survivor,uncommon
+1,Mardu Charm,Instant,uncommon
+1,Divide by Zero,Instant,uncommon
+4,Wall of Air,Creature — Wall,uncommon
+4,Sawblade Skinripper,Creature — Human Assassin,uncommon
+1,Whispering Snitch,Creature — Vampire Rogue,uncommon
+2,Clockwork Hydra,Artifact Creature — Hydra,uncommon
+1,Afterlife,Instant,uncommon
+3,Heartfire Immolator,Creature — Human Wizard,uncommon
+1,Canyon Crab,Creature — Crab,uncommon
+1,Mardu Woe-Reaper,Creature — Human Warrior,uncommon
+1,Riftwing Cloudskate,Creature — Illusion,uncommon
+1,Imodane's Recruiter // Train Troops,Creature — Human Knight // Sorcery — Adventure,uncommon
+1,Rampaging Growth,Instant,uncommon
+2,Trove of Temptation,Enchantment,uncommon
+5,Rootwater Hunter,Creature — Merfolk,uncommon
+2,Black Knight,Creature — Human Knight,uncommon
+1,Souldrinker,Creature — Spirit,uncommon
+10,Fireblast,Instant,uncommon
+1,Healer's Flock,Creature — Bird,uncommon
+7,River Boa,Creature — Snake,uncommon
+1,Coerced to Kill,Enchantment — Aura,uncommon
+1,Bounding Krasis,Creature — Fish Lizard,uncommon
+4,Spectral Bears,Creature — Bear Spirit,uncommon
+1,Quiet Contemplation,Enchantment,uncommon
+2,Seeker's Folly,Sorcery,uncommon
+1,Arcane Epiphany,Instant,uncommon
+1,Intimidation Campaign,Enchantment,uncommon
+1,Will-o'-the-Wisp,Creature — Spirit,uncommon
+3,Blanket of Night,Enchantment,uncommon
+1,Dauthi Ghoul,Creature — Dauthi Zombie,uncommon
+2,Choke,Enchantment,uncommon
+1,Unlucky Witness,Creature — Human Citizen,uncommon
+1,Faerie Swarm,Creature — Faerie,uncommon
+1,Scrappy Bruiser,Creature — Raccoon Warrior,uncommon
+4,Creeping Mold,Sorcery,uncommon
+5,Desert Twister,Sorcery,uncommon
+2,Canyon Vaulter,Creature — Kor Pilot,uncommon
+1,Rubblebelt Rioters,Creature — Human Berserker,uncommon
+1,Agonizing Remorse,Sorcery,uncommon
+4,Cathartic Parting,Sorcery,uncommon
+1,Invasion of Pyrulea // Gargantuan Slabhorn,Battle — Siege // Creature — Beast,uncommon
+1,Glimmerpoint Stag,Creature — Elk,uncommon
+1,Etherium Pteramander,Artifact Creature — Salamander Drake,uncommon
+4,Glimmer Seeker,Creature — Human Survivor,uncommon
+2,Scampering Scorcher,Creature — Elemental,uncommon
+2,Abyssal Specter,Creature — Specter,uncommon
+2,Psychic Membrane,Creature — Wall,uncommon
+5,Trial of Agony,Sorcery,uncommon
+2,Floodgate,Creature — Wall,uncommon
+1,Shepherd of the Clouds,Creature — Pegasus,uncommon
+1,Commander's Authority,Enchantment — Aura,uncommon
+1,Essence Reliquary,Artifact,uncommon
+2,Dream Tides,Enchantment,uncommon
+1,Orcish Settlers,Creature — Orc,uncommon
+1,Tooth and Claw,Enchantment,uncommon
+1,Shivan Branch-Burner,Creature — Dragon,uncommon
+3,Unnerving Grasp,Sorcery,uncommon
+1,Fortifying Draught,Instant,uncommon
+3,Untamed Wilds,Sorcery,uncommon
+1,Wild Slash,Instant,uncommon
+1,Nimble Brigand,Creature — Human Rogue,uncommon
+1,Ridgescale Tusker,Creature — Pangolin Beast,uncommon
+1,Nevermaker,Creature — Elemental,uncommon
+1,Crested Herdcaller,Creature — Dinosaur,uncommon
+1,Goblin Banneret,Creature — Goblin Soldier,uncommon
+2,Domesticated Hydra,Creature — Hydra,uncommon
+1,Elven Bow,Artifact — Equipment,uncommon
+2,Ruins of Trokair,Land,uncommon
+2,Didgeridoo,Artifact,uncommon
+1,Explosive Welcome,Instant,uncommon
+1,Brood of Cockroaches,Creature — Insect,uncommon
+1,Graceful Restoration,Sorcery,uncommon
+1,Civic Saber,Artifact — Equipment,uncommon
+1,Dryad Militant,Creature — Dryad Soldier,uncommon
+1,Lagorin, Soul of Alacria,Legendary Creature — Beast Mount,uncommon
+1,Veil of Assimilation,Artifact,uncommon
+1,Furnace Whelp,Creature — Dragon,uncommon
+1,Scuttling Sliver,Creature — Sliver Trilobite,uncommon
+7,Fear of Isolation,Enchantment Creature — Nightmare,uncommon
+1,Staff of the Wild Magus,Artifact,uncommon
+2,First Response,Enchantment,uncommon
+1,Rigging Runner,Creature — Goblin Pirate,uncommon
+1,Predator's Howl,Instant,uncommon
+1,Wildfire Howl,Sorcery,uncommon
+1,Futurist Operative,Creature — Human Ninja,uncommon
+1,Flametongue Yearling,Creature — Kavu,uncommon
+3,Neurok Commando,Creature — Human Rogue,uncommon
+1,Invasion of Xerex // Vertex Paladin,Battle — Siege // Creature — Angel Knight,uncommon
+1,Cloudgoat Ranger,Creature — Giant Warrior Ranger,uncommon
+3,Incremental Growth,Sorcery,uncommon
+3,Unwilling Vessel,Creature — Human Wizard,uncommon
+10,Tranquility,Sorcery,uncommon
+3,Might of the Ancestors,Enchantment,uncommon
+2,Torch Breath,Instant,uncommon
+1,Seismic Wave,Instant,uncommon
+1,Lethal Throwdown,Sorcery,uncommon
+4,Nurturing Pixie,Creature — Faerie Rogue,uncommon
+4,Fear of Exposure,Enchantment Creature — Nightmare,uncommon
+1,Ghor-Clan Rampager,Creature — Beast,uncommon
+1,Detention Chariot,Artifact — Vehicle,uncommon
+1,Congregation Gryff,Creature — Hippogriff Mount,uncommon
+1,Phyrexian Vault,Artifact,uncommon
+3,Violent Urge,Instant,uncommon
+1,Naomi, Pillar of Order,Legendary Creature — Human Advisor,uncommon
+1,Prismatic Boon,Instant,uncommon
+1,Okiba Salvage,Sorcery,uncommon
+2,Steal Artifact,Enchantment — Aura,uncommon
+1,Mistway Spy,Creature — Merfolk Detective,uncommon
+3,Saw,Artifact — Equipment,uncommon
+1,Beckoning Will-o'-Wisp,Creature — Spirit,uncommon
+2,Imperial Ceratops,Creature — Dinosaur,uncommon
+1,Burning Vengeance,Enchantment,uncommon
+1,Dreams of Steel and Oil,Sorcery,uncommon
+1,Roar of the Wurm,Sorcery,uncommon
+1,Pillory of the Sleepless,Enchantment — Aura,uncommon
+1,Blinding Light,Sorcery,uncommon
+1,Moldervine Cloak,Enchantment — Aura,uncommon
+4,Cursed Windbreaker,Artifact — Equipment,uncommon
+3,Defiant Survivor,Creature — Human Survivor,uncommon
+1,Dreadmalkin,Creature — Zombie Cat,uncommon
+3,Razorkin Hordecaller,Creature — Human Clown Berserker,uncommon
+1,Mind Bomb,Sorcery,uncommon
+1,Humiliate,Sorcery,uncommon
+1,Knife,Artifact — Clue Equipment,uncommon
+1,Hold for Questioning,Enchantment — Aura,uncommon
+1,Sanguine Statuette,Artifact,uncommon
+1,Illumination,Instant,uncommon
+1,Hellraiser Goblin,Creature — Goblin Berserker,uncommon
+3,Sengir Vampire,Creature — Vampire,uncommon
+3,Gruul Keyrune,Artifact,uncommon
+4,Dragon Whelp,Creature — Dragon,uncommon
+2,Storm Fleet Aerialist,Creature — Human Pirate,uncommon
+3,Rite of the Moth,Sorcery,uncommon
+1,Accorder Paladin,Creature — Human Knight,uncommon
+3,Savior of the Small,Creature — Kor Survivor,uncommon
+1,Beastbond Outcaster,Creature — Human Druid,uncommon
+6,Wildfire Wickerfolk,Artifact Creature — Scarecrow,uncommon
+2,Synod Sanctum,Artifact,uncommon
+2,Cephalid Inkmage,Creature — Octopus Wizard,uncommon
+2,Needletooth Pack,Creature — Dinosaur,uncommon
+1,Outlaw Stitcher,Creature — Human Warlock,uncommon
+1,White Knight,Creature — Human Knight,uncommon
+1,Primitive Justice,Sorcery,uncommon
+1,Heirloom Mirror // Inherited Fiend,Artifact // Creature — Demon,uncommon
+4,Fear of Being Hunted,Enchantment Creature — Nightmare,uncommon
+1,Blossom Prancer,Creature — Spirit,uncommon
+1,Goblin Artillery,Creature — Goblin Warrior,uncommon
+2,Invasion of Kylem // Valor's Reach Tag Team,Battle — Siege // Sorcery,uncommon
+1,Untamed Kavu,Creature — Kavu,uncommon
+5,Stream of Life,Sorcery,uncommon
+1,Blood of the Martyr,Instant,uncommon
+1,Declare Dominance,Sorcery,uncommon
+1,Tangle Tumbler,Artifact — Vehicle,uncommon
+1,Baton of Morale,Artifact,uncommon
+3,Suq'Ata Firewalker,Creature — Human Wizard,uncommon
+1,Eager Trufflesnout,Creature — Boar,uncommon
+1,Dragon Trainer,Creature — Human,uncommon
+1,Thunderous Orator,Creature — Kor Wizard,uncommon
+2,Joust Through,Instant,uncommon
+1,Hero of the Dunes,Creature — Human Soldier,uncommon
+1,Suq'Ata Assassin,Creature — Human Assassin,uncommon
+1,Guarded Heir,Creature — Human Noble,uncommon
+2,Abduction,Enchantment — Aura,uncommon
+1,Unswerving Sloth,Creature — Sloth Mount,uncommon
+1,Incubation Sac,Artifact,uncommon
+14,False Demise,Enchantment — Aura,uncommon
+1,Rise of the Varmints,Sorcery,uncommon
+3,Shrewd Storyteller,Creature — Human Survivor,uncommon
+1,Mardu Monument,Artifact,uncommon
+1,Sudden Impact,Instant,uncommon
+1,Roots of Life,Enchantment,uncommon
+1,Etched Slith,Artifact Creature — Phyrexian Slith,uncommon
+1,Imperial Aerosaur,Creature — Dinosaur,uncommon
+1,Malicious Eclipse,Sorcery,uncommon
+1,Brimstone Volley,Instant,uncommon
+1,Mesmeric Fiend,Creature — Nightmare Horror,uncommon
+1,Fearless Skald,Creature — Dwarf Berserker,uncommon
+3,Stay Hidden, Stay Silent,Enchantment — Aura,uncommon
+1,Depth Defiler,Creature — Eldrazi,uncommon
+2,Aleatory,Instant,uncommon
+1,Bronze Cudgels,Artifact — Equipment,uncommon
+12,Circle of Protection: White,Enchantment,uncommon
+2,Sun-Blessed Healer,Creature — Human Cleric,uncommon
+1,Maalfeld Twins,Creature — Zombie,uncommon
+1,Churning Reservoir,Artifact,uncommon
+1,Fallen Angel,Creature — Angel,uncommon
+1,Saddle of the Cavalier,Artifact — Equipment,uncommon
+1,Ichorplate Golem,Artifact Creature — Phyrexian Golem,uncommon
+1,Wurmweaver Coil,Enchantment — Aura,uncommon
+2,Karma,Enchantment,uncommon
+1,Annex,Enchantment — Aura,uncommon
+1,Viridian Claw,Artifact — Equipment,uncommon
+2,Orcish Artillery,Creature — Orc Warrior,uncommon
+1,Rust Scarab,Creature — Insect,uncommon
+1,Hidetsugu's Second Rite,Instant,uncommon
+3,Bog Wraith,Creature — Wraith,uncommon
+1,Sanctuary Wall,Artifact Creature — Wall,uncommon
+1,Carrion Cruiser,Artifact — Vehicle,uncommon
+1,Binding Negotiation,Sorcery,uncommon
+4,Simulacrum,Instant,uncommon
+1,Dreadmobile,Artifact — Vehicle,uncommon
+1,Gingerbread Hunter // Puny Snack,Creature — Giant // Instant — Adventure,uncommon
+1,Castle,Enchantment,uncommon
+1,Skullslither Worm,Creature — Worm,uncommon
+1,Beloved Chaplain,Creature — Human Cleric,uncommon
+5,Active Volcano,Instant,uncommon
+1,Alpine Guide,Snow Creature — Human Scout,uncommon
+1,Belltoll Dragon,Creature — Dragon,uncommon
+1,Knight of the Holy Nimbus,Creature — Human Rebel Knight,uncommon
+1,Belbe's Armor,Artifact,uncommon
+1,Ruthless Negotiation,Sorcery,uncommon
+3,Frontier Seeker,Creature — Human Scout,uncommon
+1,Adrenaline Jockey,Creature — Minotaur Pilot,uncommon
+3,Veteran Survivor,Creature — Human Survivor,uncommon
+1,Pack Guardian,Creature — Wolf Spirit,uncommon
+1,Sleep with the Fishes,Enchantment — Aura,uncommon
+3,Favorable Destiny,Enchantment — Aura,uncommon
+1,Yavimaya Iconoclast,Creature — Elf,uncommon
+1,Juggernaut,Artifact Creature — Juggernaut,uncommon
+1,Flame Discharge,Instant,uncommon
+1,Cloudspire Skycycle,Artifact — Vehicle,uncommon
+1,Deem Worthy,Instant,uncommon
+1,Goblin Settler,Creature — Goblin,uncommon
+1,Shrine of Burning Rage,Artifact,uncommon
+2,Rambling Possum,Creature — Possum Mount,uncommon
+7,Leonin Scimitar,Artifact — Equipment,uncommon
+3,Malamet War Scribe,Creature — Cat Warrior,uncommon
+1,Blade-Blizzard Kitsune,Creature — Fox Ninja,uncommon
+1,Reckless Pyrosurfer,Creature — Human Scout,uncommon
+1,Unctus's Retrofitter,Creature — Phyrexian Artificer,uncommon
+1,Atmosphere Surgeon,Creature — Phyrexian Wizard,uncommon
+1,Glistening Deluge,Sorcery,uncommon
+1,Knight of the Last Breath,Creature — Giant Knight,uncommon
+1,Cunning Coyote,Creature — Coyote,uncommon
+1,Trade the Helm,Sorcery,uncommon
+1,Mind Harness,Enchantment — Aura,uncommon
+1,Staggershock,Instant,uncommon
+2,Wall of Bone,Creature — Skeleton Wall,uncommon
+1,Plumecreed Mentor,Creature — Bird Scout,uncommon
+3,Fear of Abduction,Enchantment Creature — Nightmare,uncommon
+1,Topple the Statue,Instant,uncommon
+1,Pyre-Sledge Arsonist,Creature — Lizard Shaman,uncommon
+4,Attack-in-the-Box,Artifact Creature — Toy,uncommon
+2,Wall of Swords,Creature — Wall,uncommon
+1,Ghostly Touch,Enchantment — Aura,uncommon
+1,Wandering Mind,Creature — Horror,uncommon
+10,Reprisal,Instant,uncommon
+1,Jem Lightfoote, Sky Explorer,Legendary Creature — Human Scout,uncommon
+1,Kaervek's Torch,Sorcery,uncommon
+3,Betrayer's Bargain,Instant,uncommon
+1,Eaten by Spiders,Instant,uncommon
+2,Bloodscent,Instant,uncommon
+1,Dimir Guildmage,Creature — Human Wizard,uncommon
+2,Trial of Knowledge,Enchantment,uncommon
+1,Dinrova Horror,Creature — Horror,uncommon
+1,Furnace Punisher,Creature — Phyrexian Warrior,uncommon
+1,Strategic Betrayal,Sorcery,uncommon
+2,Skilled Animator,Creature — Human Artificer,uncommon
+2,Thrull Wizard,Creature — Thrull Wizard,uncommon
+4,Conductive Machete,Artifact — Equipment,uncommon
+1,Sunhome Stalwart,Creature — Human Soldier,uncommon
+1,Magmatic Sprinter,Creature — Phyrexian Warrior,uncommon
+2,Jayemdae Tome,Artifact,uncommon
+1,Quarry Beetle,Creature — Insect,uncommon
+1,Bat Colony,Enchantment,uncommon
+1,Air Response Unit,Artifact — Vehicle,uncommon
+1,Overwhelm,Sorcery,uncommon
+3,Book of Rass,Artifact,uncommon
+1,Vivisection Evangelist,Creature — Phyrexian Cleric,uncommon
+2,Nezumi Freewheeler // Hideous Fleshwheeler,Creature — Rat Samurai // Creature — Phyrexian Rat,uncommon
+1,Paragon of Gathering Mists,Creature — Human Wizard,uncommon
+3,Storm Seeker,Instant,uncommon
+1,Mirror-Shield Hoplite,Creature — Human Soldier,uncommon
+8,Circle of Protection: Red,Enchantment,uncommon
+2,Foul Roads,Land,uncommon
+1,Storm Fleet Swashbuckler,Creature — Human Pirate,uncommon
+1,Withering Wisps,Enchantment,uncommon
+2,Lava Burst,Sorcery,uncommon
+2,Flashfreeze,Instant,uncommon
+1,Woebringer Demon,Creature — Demon,uncommon
+2,Glacial Dragonhunt,Sorcery,uncommon
+1,Flash of Insight,Instant,uncommon
+1,Nimble Larcenist,Creature — Bird Rogue,uncommon
+1,Golgari Raiders,Creature — Elf Warrior,uncommon
+1,Obstinate Baloth,Creature — Beast,uncommon
+3,Fear of Falling,Enchantment Creature — Nightmare,uncommon
+1,Weaponize the Monsters,Enchantment,uncommon
+4,Siren's Call,Instant,uncommon
+2,Lumengrid Sentinel,Creature — Human Wizard,uncommon
+4,Wall of Stone,Creature — Wall,uncommon
+4,Ovinomancer,Creature — Human Wizard,uncommon
+1,Roar of the Kha,Instant,uncommon
+1,Femeref Archers,Creature — Human Archer,uncommon
+1,Havengul Vampire,Creature — Vampire,uncommon
+1,Scour the Desert,Sorcery,uncommon
+4,One Dozen Eyes,Sorcery,uncommon
+1,Daring Buccaneer,Creature — Human Pirate,uncommon
+3,Soldevi Digger,Artifact,uncommon
+5,Circle of Protection: Green,Enchantment,uncommon
+2,Tibalt's Rager,Creature — Devil,uncommon
+9,Circle of Protection: Black,Enchantment,uncommon
+1,Endrider Spikespitter,Creature — Human Mercenary,uncommon
+2,Urabrask's Anointer,Artifact Creature — Phyrexian Wizard,uncommon
+2,Guardian of the Great Door,Creature — Angel,uncommon
+2,Order of Yawgmoth,Creature — Phyrexian Zombie Knight,uncommon
+1,Mob Mentality,Enchantment — Aura,uncommon
+2,Army Ants,Creature — Insect,uncommon
+2,Jade Seedstones // Jadeheart Attendant,Artifact // Artifact Creature — Golem,uncommon
+3,Lifetap,Enchantment,uncommon
+3,Flash Flood,Instant,uncommon
+4,Killer's Mask,Artifact — Equipment,uncommon
+2,Nether Shadow,Creature — Spirit,uncommon
+3,Shrouded Shepherd // Cleave Shadows,Creature — Spirit Warrior // Sorcery — Adventure,uncommon
+4,Baseball Bat,Artifact — Equipment,uncommon
+1,Kinjalli's Dawnrunner,Creature — Human Scout,uncommon
+1,Necratog,Creature — Atog,uncommon
+3,Disturbing Mirth,Enchantment,uncommon
+1,Storm the Citadel,Sorcery,uncommon
+2,Font of Progress,Artifact,uncommon
+2,Hamlet Captain,Creature — Human Warrior,uncommon
+2,Foratog,Creature — Atog,uncommon
+1,Chill,Enchantment,uncommon
+1,Rites of Initiation,Instant,uncommon
+1,Satyr Piper,Creature — Satyr Rogue,uncommon
+1,Sylvok Battle-Chair,Artifact — Equipment,uncommon
+4,Tempest of Light,Instant,uncommon
+1,Marchesa's Infiltrator,Creature — Human Rogue,uncommon
+1,Slick Imitator,Creature — Ooze,uncommon
+1,Cement Shoes,Artifact — Equipment,uncommon
+1,Tempered Veteran,Creature — Human Knight,uncommon
+1,Rakdos Firewheeler,Creature — Human Rogue,uncommon
+5,Miasma Demon,Creature — Demon,uncommon
+1,Bolrac-Clan Basher,Creature — Cyclops Warrior,uncommon
+1,Embereth Veteran,Creature — Human Knight,uncommon
+1,Call of the Herd,Sorcery,uncommon
+1,Worldsoul Colossus,Creature — Elemental,uncommon
+1,Streetwise Negotiator,Creature — Cat Citizen,uncommon
+3,Mtenda Griffin,Creature — Griffin,uncommon
+1,Ondu Knotmaster // Throw a Line,Creature — Kor Rogue // Sorcery — Adventure,uncommon
+1,Malicious Malfunction,Sorcery,uncommon
+2,Rise from the Wreck,Sorcery,uncommon
+1,Dust to Dust,Sorcery,uncommon
+1,Snare Thopter,Artifact Creature — Thopter,uncommon
+1,Armament Dragon,Creature — Dragon,uncommon
+2,Leshrac's Rite,Enchantment — Aura,uncommon
+1,Meddle,Instant,uncommon
+1,Serum-Core Chimera,Creature — Phyrexian Chimera,uncommon
+1,Case of the Gorgon's Kiss,Enchantment — Case,uncommon
+2,Killer Bees,Creature — Insect,uncommon
+3,Flashfires,Sorcery,uncommon
+1,Cursed Rack,Artifact,uncommon
+1,Collective Nightmare,Instant,uncommon
+1,Diseased Vermin,Creature — Rat,uncommon
+1,Dune Drifter,Artifact — Vehicle,uncommon
+1,Rally the Peasants,Instant,uncommon
+1,Flame Javelin,Instant,uncommon
+1,Ravenous Necrotitan,Creature — Phyrexian Horror,uncommon
+2,Cry of the Carnarium,Sorcery,uncommon
+1,Brilliant Plan,Sorcery,uncommon
+6,Circle of Protection: Blue,Enchantment,uncommon
+4,Serum Tank,Artifact,uncommon
+3,Zebra Unicorn,Creature — Unicorn,uncommon
+1,Fleeting Effigy,Creature — Elemental,uncommon
+1,Autarch Mammoth,Creature — Elephant Mount,uncommon
+1,Daraja Griffin,Creature — Griffin,uncommon
+1,Gastal Raider,Creature — Vampire Rogue,uncommon
+1,Clockwork Servant,Artifact Creature — Gnome,uncommon
+1,Rise of the Ants,Sorcery,uncommon
+1,Set Adrift,Sorcery,uncommon
+1,Goblin Psychopath,Creature — Goblin Mutant,uncommon
+5,Patched Plaything,Artifact Creature — Toy,uncommon
+1,Price of Betrayal,Sorcery,uncommon
+3,Breeding Pit,Enchantment,uncommon
+1,Ley Druid,Creature — Human Druid,uncommon
+2,Fractured Loyalty,Enchantment — Aura,uncommon
+1,Zhalfirin Lancer,Creature — Human Knight,uncommon
+1,Sandstalker Moloch,Creature — Lizard,uncommon
+1,Mild-Mannered Librarian,Creature — Human,uncommon
+1,Adventurers' Guildhouse,Land,uncommon
+2,Perish,Sorcery,uncommon
+2,Tromp the Domains,Sorcery,uncommon
+2,Unyaro Griffin,Creature — Griffin,uncommon
+2,Watchful Blisterzoa,Creature — Phyrexian Jellyfish,uncommon
+2,Abu Ja'far,Creature — Human,uncommon
+1,Agatha's Champion,Creature — Human Knight,uncommon
+1,Howling Giant,Creature — Giant Druid,uncommon
+1,Phyrexian Splicer,Artifact,uncommon
+1,Selective Snare,Sorcery,uncommon
+1,Eliminate the Impossible,Instant,uncommon
+1,Enchantment Alteration,Instant,uncommon
+1,Haunted Hellride,Artifact — Vehicle,uncommon
+2,Myr Prototype,Artifact Creature — Myr,uncommon
+1,Soul Separator,Artifact,uncommon
+1,Riveteers Decoy,Creature — Human Warrior,uncommon
+3,Infernal Phantom,Creature — Spirit,uncommon
+4,Orphans of the Wheat,Creature — Human,uncommon
+1,Canopy Surge,Sorcery,uncommon
+1,Detonate,Sorcery,uncommon
+2,Blue Ward,Enchantment — Aura,uncommon
+1,Polygraph Orb,Artifact,uncommon
+2,Lightning Prowess,Enchantment — Aura,uncommon
+1,Rootwater Diver,Creature — Merfolk,uncommon
+1,Historian's Wisdom,Enchantment — Aura,uncommon
+3,Alabaster Potion,Instant,uncommon
+1,Skyship Buccaneer,Creature — Human Pirate,uncommon
+1,Black Ward,Enchantment — Aura,uncommon
+1,Thought Prison,Artifact,uncommon
+1,Cone of Flame,Sorcery,uncommon
+1,Windrider Patrol,Creature — Merfolk Wizard,uncommon
+2,Blinding Flare,Sorcery,uncommon
+3,Dashing Bloodsucker,Creature — Vampire Warrior,uncommon
+2,Slumbering Cerberus,Creature — Dog,uncommon
+4,Clockwork Steed,Artifact Creature — Horse,uncommon
+1,Mindstorm Crown,Artifact,uncommon
+1,Grip of the Roil,Instant,uncommon
+1,Scuttling Sentinel,Creature — Crab Elf,uncommon
+1,Altar's Light,Instant,uncommon
+1,Storm Fleet Spy,Creature — Human Pirate,uncommon
+2,Triangle of War,Artifact,uncommon
+1,Ooze Patrol,Creature — Ooze,uncommon
+2,Soldier of Fortune,Creature — Human Mercenary,uncommon
+1,Nearheath Pilgrim,Creature — Human Cleric,uncommon
+1,Synchronized Eviction,Instant,uncommon
+2,Rangers' Aetherhive,Artifact — Vehicle,uncommon
+1,Horizon Scholar,Creature — Sphinx,uncommon
+1,Herbology Instructor // Malady Invoker,Creature — Treefolk Druid // Creature — Phyrexian Treefolk,uncommon
+2,Burrowing,Enchantment — Aura,uncommon
+2,Serra Aviary,World Enchantment,uncommon
+1,Longbow Archer,Creature — Human Soldier Archer,uncommon
+2,Hymn of Rebirth,Sorcery,uncommon
+1,Quirion Dryad,Creature — Dryad,uncommon
+1,Push // Pull,Sorcery // Sorcery,uncommon
+1,Ivory Cup,Artifact,uncommon
+2,Spontaneous Combustion,Instant,uncommon
+1,Temur Monument,Artifact,uncommon
+1,Reveka, Wizard Savant,Legendary Creature — Dwarf Wizard,uncommon
+2,Bronze Horse,Artifact Creature — Horse,uncommon
+5,Inheritance,Enchantment,uncommon
+5,Keldon Warlord,Creature — Human Barbarian,uncommon
+5,Red Ward,Enchantment — Aura,uncommon
+3,Mystic Compass,Artifact,uncommon
+1,Descendant of Storms,Creature — Human Soldier,uncommon
+1,Genju of the Spires,Enchantment — Aura,uncommon
+2,Scarab of the Unseen,Artifact,uncommon
+2,Sarkhan's Whelp,Creature — Dragon,uncommon
+1,Battlesong Berserker,Creature — Human Berserker,uncommon
+2,Clockwork Vorrac,Artifact Creature — Boar Beast,uncommon
+1,Vulshok Morningstar,Artifact — Equipment,uncommon
+9,Root Spider,Creature — Spider,uncommon
+1,Soul Search,Sorcery,uncommon
+2,Juxtapose,Sorcery,uncommon
+1,Knight of Dusk,Creature — Human Knight,uncommon
+1,Blight,Enchantment — Aura,uncommon
+2,Green Ward,Enchantment — Aura,uncommon
+1,Keeper of the Dead,Creature — Human Wizard,uncommon
+4,Mundungu,Creature — Human Wizard,uncommon
+1,Magmaw,Creature — Elemental,uncommon
+1,Blood Knight,Creature — Human Knight,uncommon
+2,Intimidation Tactics,Sorcery,uncommon
+1,Impending Doom,Enchantment — Aura,uncommon
+1,Boggart Ram-Gang,Creature — Goblin Warrior,uncommon
+1,Backfire,Enchantment — Aura,uncommon
+1,Inferno Jet,Sorcery,uncommon
+1,Perimeter Enforcer,Creature — Human Detective,uncommon
+3,Rootwise Survivor,Creature — Human Survivor,uncommon
+1,Apes of Rath,Creature — Ape,uncommon
+2,Brown Ouphe,Creature — Ouphe,uncommon
+1,Nebuchadnezzar,Legendary Creature — Human Wizard,uncommon
+1,Visionary Augmenter,Creature — Dwarf Artificer,uncommon
+1,Throne of Bone,Artifact,uncommon
+5,Aether Storm,Enchantment,uncommon
+1,Dancing Scimitar,Artifact Creature — Spirit,uncommon
+3,Volrath's Curse,Enchantment — Aura,uncommon
+1,Revered Unicorn,Creature — Unicorn,uncommon
+2,Urza's Engine,Artifact Creature — Juggernaut,uncommon
+1,Stormfront Pegasus,Creature — Pegasus,uncommon
+1,Firmament Sage,Creature — Human Wizard,uncommon
+1,Homarid Spawning Bed,Enchantment,uncommon
+1,Council of Echoes,Creature — Spirit Advisor,uncommon
+2,Mogg Hollows,Land,uncommon
+3,Arrows of Justice,Instant,uncommon
+1,Ravenous Giant,Creature — Giant,uncommon
+3,Duskmourn's Domination,Enchantment — Aura,uncommon
+1,Deadly Complication,Sorcery,uncommon
+3,Spiny Starfish,Creature — Starfish,uncommon
+10,Errand of Duty,Instant,uncommon
+1,Ashen Ghoul,Creature — Zombie,uncommon
+1,Mystic Decree,World Enchantment,uncommon
+2,Auriok Bladewarden,Creature — Human Soldier,uncommon
+3,Diversion Specialist,Creature — Human Warrior,uncommon
+2,Morkrut Banshee,Creature — Spirit,uncommon
+2,Pit Trap,Artifact,uncommon
+1,Resolute Rider,Creature — Human Knight,uncommon
+1,Vec Townships,Land,uncommon
+1,Mahamoti Djinn,Creature — Djinn,uncommon
+4,Wall of Dust,Creature — Wall,uncommon
+1,Ghirapur Guide,Creature — Elf Scout,uncommon
+2,Air Elemental,Creature — Elemental,uncommon
+2,Cursed Land,Enchantment — Aura,uncommon
+3,Ihsan's Shade,Legendary Creature — Shade Knight,uncommon
+1,Sun-Blessed Guardian // Furnace-Blessed Conqueror,Creature — Human Cleric // Creature — Phyrexian Cleric,uncommon
+1,Basalt Golem,Artifact Creature — Golem,uncommon
+1,Wall of Spears,Artifact Creature — Wall,uncommon
+4,Goblin Artisans,Creature — Goblin Artificer,uncommon
+2,Green Scarab,Enchantment — Aura,uncommon
+2,Tar Pitcher,Creature — Goblin Shaman,uncommon
+4,Stampeding Wildebeests,Creature — Antelope Beast,uncommon
+1,Touch of Vitae,Instant,uncommon
+1,Sinuous Benthisaur,Creature — Dinosaur,uncommon
+3,Viashino Sandstalker,Creature — Lizard Warrior,uncommon
+2,Angelic Protector,Creature — Angel,uncommon
+4,Trolls of Tel-Jilad,Creature — Troll Shaman,uncommon
+5,Unstable Mutation,Enchantment — Aura,uncommon
+2,Soul Net,Artifact,uncommon
+1,Calamitous Cave-In,Sorcery,uncommon
+2,Pyrotechnics,Sorcery,uncommon
+1,Gallantry,Instant,uncommon
+1,Thundering Broodwagon,Artifact — Vehicle,uncommon
+1,Lifecraft Awakening,Instant,uncommon
+1,Animate Artifact,Enchantment — Aura,uncommon
+1,Hematite Talisman,Artifact,uncommon
+2,Wild Hunger,Instant,uncommon
+1,Voltaic Visionary // Volt-Charged Berserker,Creature — Human Wizard // Creature — Human Berserker,uncommon
+2,Aerie Worshippers,Creature — Human Cleric,uncommon
+1,War-Name Aspirant,Creature — Human Warrior,uncommon
+3,Intruding Soulrager,Creature — Spirit,uncommon
+1,Circle of Protection: Artifacts,Enchantment,uncommon
+1,Clockwork Gnomes,Artifact Creature — Gnome,uncommon
+2,Dragon Mask,Artifact,uncommon
+1,Hedge Whisperer,Creature — Elf Druid Detective,uncommon
+2,Baneblade Scoundrel // Baneclaw Marauder,Creature — Human Rogue Werewolf // Creature — Werewolf,uncommon
+1,Castle Sengir,Land,uncommon
+1,Onyx Talisman,Artifact,uncommon
+2,Bewildering Blizzard,Instant,uncommon
+1,Giant Trap Door Spider,Creature — Spider,uncommon
+1,Sarcomancy,Enchantment,uncommon
+1,Whack,Sorcery,uncommon
+1,White Ward,Enchantment — Aura,uncommon
+1,Dragonbroods' Relic,Artifact,uncommon
+1,Sidar Jabari,Legendary Creature — Human Knight,uncommon
+1,Ambulatory Edifice,Artifact Creature — Phyrexian Construct,uncommon
+5,Tanglebloom,Artifact,uncommon
+1,Debtor's Pulpit,Enchantment — Aura,uncommon
+8,Granite Shard,Artifact,uncommon
+1,Imps' Taunt,Instant,uncommon
+1,Winter Blast,Sorcery,uncommon
+2,Mogg Cannon,Artifact,uncommon
+2,Brazen Scourge,Creature — Gremlin,uncommon
+1,Curious Cadaver,Creature — Zombie Detective,uncommon
+1,Trueheart Twins,Creature — Jackal Warrior,uncommon
+7,Undo,Sorcery,uncommon
+1,Pain // Suffering,Sorcery // Sorcery,uncommon
+2,Elven Riders,Creature — Elf,uncommon
+1,Mirror Golem,Artifact Creature — Golem,uncommon
+2,Mutagen Connoisseur,Creature — Vedalken Mutant,uncommon
+1,Equilibrium Adept,Creature — Dog Monk,uncommon
+7,An-Havva Inn,Sorcery,uncommon
+2,Mausoleum Turnkey,Creature — Ogre Rogue,uncommon
+6,Wizards' School,Land,uncommon
+1,Primordial Ooze,Creature — Ooze,uncommon
+1,Horn of Deafening,Artifact,uncommon
+1,Reptilian Reflection,Enchantment,uncommon
+2,Wall of Water,Creature — Wall,uncommon
+4,Rod of Ruin,Artifact,uncommon
+2,Soldevi Machinist,Creature — Human Wizard Artificer,uncommon
+5,Mourner's Shield,Artifact,uncommon
+4,Peace Talks,Sorcery,uncommon
+5,School of the Unseen,Land,uncommon
+1,Abomination,Creature — Horror,uncommon
+8,Drudge Spell,Enchantment,uncommon
+2,Excavator,Artifact,uncommon
+2,Coral Fighters,Creature — Merfolk Soldier,uncommon
+1,Time and Tide,Instant,uncommon
+8,An-Havva Township,Land,uncommon
+2,Unseen Walker,Creature — Dryad,uncommon
+1,Blind Fury,Instant,uncommon
+2,Divine Transformation,Enchantment — Aura,uncommon
+2,Fylamarid,Creature — Squid Beast,uncommon
+2,Shimmering Efreet,Creature — Efreet,uncommon
+1,Slith Strider,Creature — Slith,uncommon
+1,Narwhal,Creature — Whale,uncommon
+3,Aysen Abbey,Land,uncommon
+1,Cached Defenses,Sorcery,uncommon
+1,Ersatz Gnomes,Artifact Creature — Gnome,uncommon
+1,Thalakos Dreamsower,Creature — Thalakos Wizard,uncommon
+5,Retribution,Sorcery,uncommon
+7,Irini Sengir,Legendary Creature — Vampire Dwarf,uncommon
+3,Dwarven Catapult,Instant,uncommon
+2,Magma Mine,Artifact,uncommon
+5,Relic Ward,Enchantment — Aura,uncommon
+1,Soul Kiss,Enchantment — Aura,uncommon
+1,The Wretched,Creature — Demon,uncommon
+13,Soldevi Sage,Creature — Human Wizard,uncommon
+1,Cackling Witch,Creature — Human Spellshaper,uncommon
+1,Enraging Licid,Creature — Licid,uncommon
+3,Tor Wauki,Legendary Creature — Human Archer,uncommon
+2,Invulnerability,Instant,uncommon
+1,Flinthoof Boar,Creature — Boar,uncommon
+1,Nightdrinker Moroii,Creature — Vampire,uncommon
+2,Vitalizing Cascade,Instant,uncommon
+1,Order of the White Shield,Creature — Human Knight,uncommon
+1,Gargoyle Sentinel,Artifact Creature — Gargoyle,uncommon
+2,Justice,Enchantment,uncommon
+2,Yavimaya Ants,Creature — Insect,uncommon
+1,Hope and Glory,Instant,uncommon
+13,Joven's Ferrets,Creature — Ferret,uncommon
+1,Essence Filter,Sorcery,uncommon
+1,Pacesetter Paragon,Creature — Human Pilot,uncommon
+1,Wind Dancer,Creature — Faerie,uncommon
+2,Wooden Sphere,Artifact,uncommon
+3,Thicket Basilisk,Creature — Basilisk,uncommon
+1,Stir the Pride,Instant,uncommon
+1,Angelic Observer,Creature — Angel Advisor,uncommon
+2,Iron Star,Artifact,uncommon
+2,Carrion Ants,Creature — Insect,uncommon
+1,Gnottvold Hermit // Chrome Host Hulk,Creature — Troll // Creature — Phyrexian Troll,uncommon
+2,Crystal Rod,Artifact,uncommon
+1,Gerrard's Wisdom,Sorcery,uncommon
+4,Gravebane Zombie,Creature — Zombie,uncommon
+5,Guerrilla Tactics,Instant,uncommon
+2,Vampirism,Enchantment — Aura,uncommon
+1,Drought,Enchantment,uncommon
+1,Surveillance Monitor,Creature — Vedalken Detective,uncommon
+2,Kaervek's Purge,Sorcery,uncommon
+1,Heat Wave,Enchantment,uncommon
+2,Slith Firewalker,Creature — Slith,uncommon
+5,Tourach's Chant,Enchantment,uncommon
+6,Warthog,Creature — Boar,uncommon
+2,Segovian Leviathan,Creature — Leviathan,uncommon
+2,Sunken City,Enchantment,uncommon
+1,Zhalfirin Commander,Creature — Human Knight,uncommon
+1,Rootbreaker Wurm,Creature — Wurm,uncommon
+1,Spectral Shield,Enchantment — Aura,uncommon
+1,Mind Warp,Sorcery,uncommon
+2,Reign of Chaos,Sorcery,uncommon
+1,Locust Swarm,Creature — Insect,uncommon
+3,Mishra's Groundbreaker,Artifact,uncommon
+1,Haunted Guardian,Artifact Creature — Construct,uncommon
+1,Kaleidoscorch,Sorcery,uncommon
+3,Ether Well,Instant,uncommon
+3,Banshee,Creature — Spirit,uncommon
+6,Koskun Keep,Land,uncommon
+1,Agonizing Memories,Sorcery,uncommon
+1,Slith Predator,Creature — Slith,uncommon
+1,Fog Elemental,Creature — Elemental,uncommon
+2,Simoon,Instant,uncommon
+2,Feedback,Enchantment — Aura,uncommon
+1,Force Void,Instant,uncommon
+1,Sylvan Hierophant,Creature — Human Cleric,uncommon
+2,Consuming Ferocity,Enchantment — Aura,uncommon
+1,Crypt Cobra,Creature — Snake,uncommon
+3,Sealed Fate,Sorcery,uncommon
+3,Carnivorous Plant,Creature — Plant Wall,uncommon
+1,Heartwood Shard,Artifact,uncommon
+1,Nacre Talisman,Artifact,uncommon
+1,Trial of Strength,Enchantment,uncommon
+2,Lim-Dûl's Paladin,Creature — Human Knight,uncommon
+1,Lumbering Laundry,Artifact Creature — Golem,uncommon
+4,Clay Statue,Artifact Creature — Golem,uncommon
+2,Clockwork Avian,Artifact Creature — Bird,uncommon
+1,Avenging Angel,Creature — Angel,uncommon
+3,Farrel's Mantle,Enchantment — Aura,uncommon
+1,Wall of Pine Needles,Creature — Plant Wall,uncommon
+1,Forge Armor,Instant,uncommon
+7,Joven's Tools,Artifact,uncommon
+12,Phyrexian War Beast,Artifact Creature — Phyrexian Beast,uncommon
+1,Arcum's Weathervane,Artifact,uncommon
+1,Tropical Storm,Sorcery,uncommon
+1,Barbed Foliage,Enchantment,uncommon
+2,Marhault Elsdragon,Legendary Creature — Elf Warrior,uncommon
+4,Foreshadow,Instant,uncommon
+1,Vodalian Knights,Creature — Merfolk Knight,uncommon
+1,Soul Rend,Instant,uncommon
+3,Willow Priestess,Creature — Faerie Druid,uncommon
+2,Cinder Cloud,Instant,uncommon
+3,Needlebug,Artifact Creature — Insect,uncommon
+1,Granite Gargoyle,Creature — Gargoyle,uncommon
+3,Faerie Noble,Creature — Faerie Noble,uncommon
+3,Uncontrollable Anger,Enchantment — Aura,uncommon
+3,Yavimaya Gnats,Creature — Insect,uncommon
+2,Wall of Lava,Creature — Wall,uncommon
+1,Aysen Crusader,Creature — Human Knight,uncommon
+1,Unrooted Ancestor,Creature — Spirit Cleric,uncommon
+1,Wall of Tombstones,Creature — Wall,uncommon
+1,Call to Arms,Enchantment,uncommon
+3,Farrel's Zealot,Creature — Human,uncommon
+1,Rustmouth Ogre,Creature — Ogre,uncommon
+1,Barrage Ogre,Creature — Ogre Warrior,uncommon
+1,Rusko, Clockmaker,Legendary Creature — Human Artificer,uncommon
+2,Thelon's Chant,Enchantment,uncommon
+2,Broken Visage,Instant,uncommon
+3,Domineer,Enchantment — Aura,uncommon
+3,Ghost Hounds,Creature — Dog Spirit,uncommon
+1,Dakmor Plague,Sorcery,uncommon
+2,Kei Takahashi,Legendary Creature — Human Cleric,uncommon
+1,Fumarole,Sorcery,uncommon
+1,Straw Golem,Artifact Creature — Golem,uncommon
+1,Heavy Ballista,Creature — Human Soldier,uncommon
+2,Viscerid Drone,Creature — Homarid Drone,uncommon
+2,Stone Giant,Creature — Giant,uncommon
+5,Abbey Gargoyles,Creature — Gargoyle,uncommon
+1,Unchained Berserker,Creature — Human Berserker,uncommon
+1,Mischief and Mayhem,Sorcery,uncommon
+1,Puppet Master,Enchantment — Aura,uncommon
+2,Teferi's Honor Guard,Creature — Human Knight,uncommon
+2,Pompous Gadabout,Creature — Human Citizen,uncommon
+7,Orcish Mine,Enchantment — Aura,uncommon
+1,Llanowar Behemoth,Creature — Elemental,uncommon
+1,Freyalise's Charm,Enchantment,uncommon
+2,Celestial Prism,Artifact,uncommon
+1,Lobotomy,Sorcery,uncommon
+4,Whirling Catapult,Artifact,uncommon
+3,Cocoon,Enchantment — Aura,uncommon
+1,Fallow Earth,Sorcery,uncommon
+2,Kjeldoran Home Guard,Creature — Human Soldier,uncommon
+1,Starlit Angel,Creature — Angel,uncommon
+2,Kaervek's Hex,Sorcery,uncommon
+2,Ali Baba,Creature — Human Rogue,uncommon
+1,Karoo Meerkat,Creature — Mongoose,uncommon
+2,Erhnam Djinn,Creature — Djinn,uncommon
+1,Kuldotha Flamefiend,Creature — Elemental,uncommon
+1,Shadowbane,Instant,uncommon
+1,Shield of the Ages,Artifact,uncommon
+1,Absolving Lammasu,Creature — Lammasu,uncommon
+2,Juniper Order Advocate,Creature — Human Knight,uncommon
+2,Tin-Wing Chimera,Artifact Creature — Chimera,uncommon
+2,War Chariot,Artifact,uncommon
+1,Cerulean Wyvern,Creature — Drake,uncommon
+7,Grapeshot Catapult,Artifact Creature — Construct,uncommon
+2,Rashka the Slayer,Legendary Creature — Human Archer,uncommon
+4,Duskworker,Artifact Creature — Construct,uncommon
+1,Lead-Belly Chimera,Artifact Creature — Chimera,uncommon
+1,Soldevi Golem,Artifact Creature — Golem,uncommon
+4,Brass-Talon Chimera,Artifact Creature — Chimera,uncommon
+1,Dread Wight,Creature — Zombie,uncommon
+2,Patagia Golem,Artifact Creature — Golem,uncommon
+2,Wind Shear,Instant,uncommon
+5,King Cheetah,Creature — Cat,uncommon
+1,Kjeldoran Frostbeast,Creature — Elemental Beast,uncommon
+1,Reign of Terror,Sorcery,uncommon
+1,Iron-Heart Chimera,Artifact Creature — Chimera,uncommon
+7,Rustspore Ram,Artifact Creature — Sheep,uncommon
+2,Soul Nova,Instant,uncommon
+1,Ashnod's Battle Gear,Artifact,uncommon
+7,Browse,Enchantment,uncommon
+1,Dread Specter,Creature — Specter,uncommon
+1,Nocturnal Raid,Instant,uncommon
+2,Talruum Piper,Creature — Minotaur,uncommon
+1,Roc of Kher Ridges,Creature — Bird,uncommon
+1,Derelor,Creature — Thrull,uncommon
+5,Greater Werewolf,Creature — Werewolf,uncommon
+2,Scavenging Ghoul,Creature — Zombie,uncommon
+1,Unyaro Bee Sting,Sorcery,uncommon
+1,Tuknir Deathlock,Legendary Creature — Human Wizard,uncommon
+3,Superior Numbers,Sorcery,uncommon
+4,Tunnel,Instant,uncommon
+2,Seasoned Tactician,Creature — Human Advisor,uncommon
+1,Soldevi Simulacrum,Artifact Creature — Soldier,uncommon
+1,Ardent Militia,Creature — Human Soldier,uncommon
+1,Dauntless River Marshal,Creature — Human Soldier,uncommon
+2,Wall of Opposition,Creature — Wall,uncommon
+1,Silver Erne,Creature — Bird,uncommon
+2,Diabolic Machine,Artifact Creature — Construct,uncommon
+2,Radjan Spirit,Creature — Spirit,uncommon
+1,Maddening Wind,Enchantment — Aura,uncommon
+2,Mangara's Equity,Enchantment,uncommon
+1,Nightfire Giant,Creature — Zombie Giant,uncommon
+2,Cave People,Creature — Human,uncommon
+2,Mogg Squad,Creature — Goblin,uncommon
+1,Sand Golem,Artifact Creature — Golem,uncommon
+1,Skyshroud Vampire,Creature — Vampire,uncommon
+2,Unlikely Alliance,Enchantment,uncommon
+2,Jungle Troll,Creature — Troll,uncommon
+2,Unerring Sling,Artifact,uncommon
+2,Centaur Archer,Creature — Centaur Archer,uncommon
+2,Matopi Golem,Artifact Creature — Golem,uncommon
+1,Renegade Warlord,Creature — Human Soldier,uncommon
+1,Shimian Night Stalker,Creature — Nightstalker,uncommon
+1,Flame Elemental,Creature — Elemental,uncommon
+1,Igneous Golem,Artifact Creature — Golem,uncommon
+1,Scoria Cat,Creature — Cat,uncommon
+2,Illusionary Forces,Creature — Illusion,uncommon
+1,Pardic Collaborator,Creature — Human Barbarian,uncommon
+2,Suffocation,Instant,uncommon
+1,Wind Spirit,Creature — Elemental Spirit,uncommon
+5,Beasts of Bogardan,Creature — Beast,uncommon
+6,Evaporate,Sorcery,uncommon
+1,Johtull Wurm,Creature — Wurm,uncommon
+1,Coral Helm,Artifact,uncommon
+2,Fanatical Fever,Instant,uncommon
+1,Haunting Apparition,Creature — Spirit,uncommon
+2,Storm Shaman,Creature — Human Cleric Shaman,uncommon
+2,Firefly,Creature — Insect,uncommon
+1,Cold Snap,Enchantment,uncommon
+2,Goblin Dirigible,Artifact Creature — Construct,uncommon
+1,Hulking Cyclops,Creature — Cyclops,uncommon
+3,Waterspout Djinn,Creature — Djinn,uncommon
+5,Serra Paladin,Creature — Human Knight,uncommon
+3,Storm Elemental,Creature — Elemental,uncommon
+1,Mire Shade,Creature — Shade,uncommon
+2,Conservator,Artifact,uncommon
+2,Stone Spirit,Creature — Elemental Spirit,uncommon
+3,Tempest Drake,Creature — Drake,uncommon
+3,Cloud Djinn,Creature — Djinn,uncommon
+1,Flame Spirit,Creature — Elemental Spirit,uncommon
+1,Forsaken Crossroads,Land,uncommon
+1,Orcish Healer,Creature — Orc Cleric,uncommon
+1,Sea Spirit,Creature — Elemental Spirit,uncommon
+2,Word of Blasting,Instant,uncommon
+2,Barbed-Back Wurm,Creature — Wurm,uncommon
+1,Melting,Enchantment,uncommon
+1,Serra Inquisitors,Creature — Human Cleric,uncommon
+4,Sea Troll,Creature — Troll,uncommon
+2,Spitting Drake,Creature — Drake,uncommon
+1,Segmented Wurm,Creature — Wurm,uncommon
+1,Tenacious Pup,Creature — Wolf,uncommon
+2,Harmattan Efreet,Creature — Efreet,uncommon
+1,Swelter,Sorcery,uncommon
+1,Flailing Drake,Creature — Drake,uncommon
+1,Flowstone Wyvern,Creature — Drake,uncommon
+1,Ivory Guardians,Creature — Giant Cleric,uncommon
+1,Master of Arms,Creature — Human Soldier,uncommon
+5,Elite Javelineer,Creature — Human Soldier,uncommon
+1,Kyscu Drake,Creature — Drake,uncommon
+2,Looming Hoverguard,Creature — Drone,uncommon
+3,Hazerider Drake,Creature — Drake,uncommon
+2,Scalebane's Elite,Creature — Human Soldier,uncommon
+1,Nettletooth Djinn,Creature — Djinn,uncommon
+2,Krovikan Elementalist,Creature — Human Wizard,uncommon
+3,Heroism,Enchantment,uncommon
+1,Radiant Essence,Creature — Spirit,uncommon
+1,Shauku's Minion,Creature — Human Minion,uncommon
+1,Toralf's Disciple,Creature — Human Warrior,uncommon
+1,Sigardian Evangel,Creature — Human Cleric,uncommon
+1,Snow-Covered Wastes,Basic Snow Land,uncommon

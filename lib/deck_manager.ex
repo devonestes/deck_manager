@@ -347,7 +347,7 @@ defmodule DeckManager do
         Map.take(entry, ["name", "rarity", "edhrec_rank", "type_line"])
       end)
 
-    formatted =
+    sorted =
       collection
       |> Enum.reduce([], fn {card, remaining}, acc ->
         non_proxy_count = Enum.count(remaining, fn inner -> inner["Proxy"] == false end)
@@ -360,11 +360,36 @@ defmodule DeckManager do
         end
       end)
       |> Enum.sort_by(fn {card_data, _} -> card_data["edhrec_rank"] end, :desc)
-      |> Enum.reduce("", fn {card_data, non_proxy_count}, acc ->
+
+    formatted_everything = Enum.reduce(sorted, "", fn {card_data, non_proxy_count}, acc ->
         "#{non_proxy_count},#{card_data["name"]},#{card_data["type_line"]},#{card_data["rarity"]}\n#{acc}"
       end)
 
-    File.write!("decks/collection_remaining.txt", formatted)
+    File.write!("decks/collection_remaining.txt", formatted_everything)
+
+    for type <- ["land", "creature", "instant", "sorcery", "enchantment", "artifact", "planeswalker", "battle"] do
+      formatted = 
+        sorted
+        |> Enum.filter(fn {card_data, _} -> String.downcase(card_data["type_line"]) =~ type end)
+        |> Enum.reduce("", fn {card_data, non_proxy_count}, acc ->
+          "#{non_proxy_count},#{card_data["name"]},#{card_data["type_line"]},#{card_data["rarity"]}\n#{acc}"
+        end)
+
+      File.write!("decks/collection_remaining_#{type}.txt", formatted)
+    end
+
+    for rarity <- ["mythic", "rare", "uncommon", "common"] do
+      formatted = 
+        sorted
+        |> Enum.filter(fn {card_data, _} -> card_data["rarity"] == rarity end)
+        |> Enum.reduce("", fn {card_data, non_proxy_count}, acc ->
+          "#{non_proxy_count},#{card_data["name"]},#{card_data["type_line"]},#{card_data["rarity"]}\n#{acc}"
+        end)
+
+      File.write!("decks/collection_remaining_#{rarity}.txt", formatted)
+    end
+
+
   end
 
   defp find_card(card_name, collection, proxy) do
