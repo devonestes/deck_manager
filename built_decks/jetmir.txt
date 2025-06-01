@@ -41,7 +41,6 @@ Genasi Enforcers
 Giver of Runes
 Gloryheath Lynx
 Grand Crescendo
-Grenzo, Havoc Raiser
 Heroic Intervention
 Hushbringer
 Illustrious Wanderglyph
@@ -91,6 +90,7 @@ Tendershoot Dryad
 Thalia, Guardian of Thraben
 Toski, Bearer of Secrets
 Verdant Catacombs
+Voice of Victory
 Weathered Wayfarer
 Wild Growth
 Windswept Heath

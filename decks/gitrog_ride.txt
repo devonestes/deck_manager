@@ -7,7 +7,6 @@
 1 Berserk (SLD) 1738
 1 Birds of Paradise (M12) 165
 1 Bojuka Bog (MOC) 391
-1 Clackbridge Troll (ELD) 84
 1 Colossal Rattlewurm (OTJ) 159
 1 Command Tower (MOC) 396
 1 Cultivate (J22) 644
@@ -30,6 +29,7 @@
 1 Hunted Horror (CLB) 758
 1 Hunted Troll (RAV) 170
 1 Iridescent Vinelasher (BLB) 99
+1 Jarad, Golgari Lich Lord (TDC) 293
 1 Kalakscion, Hunger Tyrant (DFT) 93
 1 Llanowar Elves (FDN) 227
 1 Llanowar Wastes (BRO) 299

@@ -1,6 +1,7 @@
 Auntie Blyte, Bad Influence
 Acidic Soil
 Alexios, Deimos of Kosmos
+Ali from Cairo
 Ankh of Mishra
 Arcane Signet
 Barbarian Ring
@@ -11,7 +12,6 @@ Copper Tablet
 Defiler of Instinct
 Deflecting Swat
 Earthquake
-Exocrine
 Extraplanar Lens
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 Fiendish Duo
@@ -68,7 +68,6 @@ Orcish Artillery
 Orcish Cannoneers
 Pinnacle Monk // Mystic Peak
 Platinum Emperion
-Prisoner's Dilemma
 Pyrohemia
 Pyrostatic Pillar
 Razorkin Needlehead
@@ -79,6 +78,7 @@ Ruby Medallion
 Scrawling Crawler
 Shadowspear
 Shatterskull Smashing // Shatterskull, the Hammer Pass
+Slicer, Hired Muscle // Slicer, High-Speed Antagonist
 Smoke
 Sol Ring
 Solphim, Mayhem Dominus

@@ -1,7 +1,6 @@
 1 Zinnia, Valley's Voice (BLC) 4
 1 Adarkar Wastes (ICE) 351
 1 Anointed Procession (SLD) 1511
-1 Arcane Signet (SLD) 1641
 1 Austere Command (LCC) 126
 1 Battlefield Forge (BRO) 257
 1 Bennie Bracks, Zoologist (NCC) 86
@@ -12,6 +11,7 @@
 1 Deserted Beach (MID) 281
 1 Dusk // Dawn (PLST) CLB-691
 1 Elesh Norn, Mother of Machines (ONE) 10
+1 Elspeth, Storm Slayer (TDM) 398
 1 Enduring Courage (DSK) 133
 1 Enduring Innocence (DSK) 6
 1 Flare of Fortitude (MH3) 391
@@ -30,10 +30,10 @@
 1 Ojer Taq, Deepest Foundation // Temple of Civilization (LCI) 26
 1 Panharmonicon (TSR) 399
 1 Path to Exile (MOC) 198
+1 Pearl Medallion (MH3) 294
 10 Plains (MKM) 277
 1 Purphoros, God of the Forge (THS) 135
 1 Raise the Past (FDN) 22
-1 Rally the Ranks (KHM) 20
 1 Rapid Augmenter (BLC) 38
 1 Roaming Throne (LCI) 344
 1 Rush of Inspiration // Crackling Falls (MH3) 257

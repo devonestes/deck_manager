@@ -40,7 +40,6 @@
 1 Giver of Runes (MH1) 13
 1 Gloryheath Lynx (DFT) 14
 1 Grand Crescendo (NCC) 16
-1 Grenzo, Havoc Raiser (M3C) 213
 1 Heroic Intervention (LTC) 249
 1 Hushbringer (ELD) 18
 1 Illustrious Wanderglyph (LCC) 9
@@ -88,6 +87,7 @@
 1 Thalia, Guardian of Thraben (VOW) 38
 1 Toski, Bearer of Secrets (KHM) 197
 1 Verdant Catacombs (MM3) 249
+1 Voice of Victory (TDM) 33
 1 Weathered Wayfarer (LTC) 183
 1 Wild Growth (DMR) 184
 1 Windswept Heath (KTK) 248

@@ -1,5 +1,6 @@
 Go-Shintai of Life's Origin
 Adarkar Wastes
+Arcane Signet
 Argothian Enchantress
 Atraxa, Grand Unifier
 Birds of Paradise
@@ -88,7 +89,6 @@ Temple Garden
 The World Tree
 Undergrowth Stadium
 Valgavoth's Lair
-Vampiric Tutor
 Verdant Catacombs
 Verduran Enchantress
 Watery Grave

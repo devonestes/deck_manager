@@ -28,6 +28,7 @@ Forest
 Forest
 Forest
 Gift of Doom
+Gloomlake Verge
 Grazilaxx, Illithid Scholar
 Grim Haruspex
 Guardian Project
@@ -62,7 +63,6 @@ Satoru, the Infiltrator
 Scroll of Fate
 Seedborn Muse
 Silumgar Assassin
-Simic Growth Chamber
 Sink into Stupor // Soporific Springs
 Skittering Cicada
 Sol Ring
@@ -92,8 +92,8 @@ Waterlogged Teachings // Inundated Archive
 Watery Grave
 Whisperwood Elemental
 Wilderness Reclamation
+Willowrush Verge
 Winding Canyons
-Woodland Cemetery
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Yedora, Grave Gardener

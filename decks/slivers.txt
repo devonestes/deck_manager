@@ -1,16 +1,15 @@
 1 The First Sliver (MH1) 200
 1 Adarkar Wastes (ICE) 351
 1 Arcane Signet (MOC) 348
+1 Banner of Kinship (FDN) 352
 1 Basal Sliver (TSP) 96
 1 Belligerent Sliver (M15) 129
 1 Blade Sliver (CMM) 871
 1 Bonescythe Sliver (CMM) 815
 1 Brood Sliver (CMM) 887
-1 Canopy Vista (NCC) 389
 1 Capricious Sliver (CMM) 765
 1 Cavern of Souls (AVR) 226
 1 Chromatic Lantern (RTR) 226
-1 Chromatic Orrery (M21) 382
 1 City of Brass (MB2) 240
 1 Cleaving Sliver (MH1) 121
 1 Cloudshredder Sliver (CMM) 919
@@ -33,6 +32,7 @@
 1 Heart Sliver (TMP) 182
 1 Herald's Horn (LTC) 280
 1 Hibernation Sliver (CMM) 925
+1 Hushwood Verge (DSK) 261
 2 Island (ONE) 263
 1 Jetmir's Garden (SNC) 291
 1 Jungle Shrine (E02) 46

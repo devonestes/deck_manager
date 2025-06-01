@@ -23,7 +23,6 @@
 1 Command Tower (MOC) 396
 1 Commercial District (MKM) 259
 1 Culling Ritual (ONC) 117
-1 Cultivate (J22) 644
 1 Deadly Rollick (C20) 42
 1 Deflecting Swat (CMM) 698
 1 Delighted Halfling (LTR) 158
@@ -46,7 +45,6 @@
 1 Karplusan Forest (M3C) 351
 1 Kessig Wolf Run (LCC) 340
 1 Kethek, Crucible Goliath (ONE) 206
-1 Kodama's Reach (CLB) 826
 1 Kogla, the Titan Ape (IKO) 162
 1 Kokusho, the Evening Star (MMA) 89
 1 Kura, the Boundless Sky (NEO) 200
@@ -59,6 +57,8 @@
 1 Old Gnawbone (AFR) 197
 1 Overgrown Tomb (UNF) 284
 1 Primeval Herald (J22) 42
+1 Protean Hulk (RVR) 435
+1 Rampant Rejuvenator (FIC) 314
 1 Reanimate (TMP) 151
 1 Rise of the Dark Realms (M14) 111
 1 Riveteers Ascendancy (SNC) 216

@@ -1,16 +1,15 @@
 The First Sliver
 Adarkar Wastes
 Arcane Signet
+Banner of Kinship
 Basal Sliver
 Belligerent Sliver
 Blade Sliver
 Bonescythe Sliver
 Brood Sliver
-Canopy Vista
 Capricious Sliver
 Cavern of Souls
 Chromatic Lantern
-Chromatic Orrery
 City of Brass
 Cleaving Sliver
 Cloudshredder Sliver
@@ -34,6 +33,7 @@ Harmonic Sliver
 Heart Sliver
 Herald's Horn
 Hibernation Sliver
+Hushwood Verge
 Island
 Island
 Jetmir's Garden

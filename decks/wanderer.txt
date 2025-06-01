@@ -35,8 +35,8 @@
 1 Kozilek's Unsealing (MH3) 65
 1 Lurking Predators (C16) 156
 1 Migration Path (IKO) 164
-1 Misthollow Griffin (PLST) AVR-68
 1 Monstrous Vortex (MH3) 162
+1 Moraug, Fury of Akoum (ZNR) 300
 6 Mountain (J22) 107
 1 Nexus of Fate (SLD) 1498
 1 Nissa, Ascended Animist (ONE) 339
@@ -55,7 +55,6 @@
 1 Sarkhan's Unsealing (JMP) 361
 1 Scourge of the Throne (CNS) 35
 1 Selvala, Heart of the Wilds (JMP) 429
-1 Selvala's Stampede (CN2) 71
 1 Sire of Seven Deaths (FDN) 1
 1 Skyshroud Claim (CMM) 321
 3 Snow-Covered Forest (ICE) 383
@@ -64,6 +63,7 @@
 1 Sol Ring (MOC) 381
 1 Somberwald Sage (INR) 215
 1 Stormcarved Coast (VOW) 284
+1 Stormscale Scion (TDM) 303
 1 Sulfur Falls (LTC) 333
 1 Sun Quan, Lord of Wu (CMM) 123
 1 Sunbird's Invocation (SCD) 159

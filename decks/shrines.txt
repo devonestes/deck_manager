@@ -1,5 +1,6 @@
 1 Go-Shintai of Life's Origin (NEC) 37
 1 Adarkar Wastes (ICE) 351
+1 Arcane Signet (BRC) 132
 1 Argothian Enchantress (USG) 234
 1 Atraxa, Grand Unifier (ONE) 196
 1 Birds of Paradise (4ED) 234
@@ -88,7 +89,6 @@
 1 The World Tree (KHM) 373
 1 Undergrowth Stadium (CMM) 666
 1 Valgavoth's Lair (DSK) 271
-1 Vampiric Tutor (VIS) 72
 1 Verdant Catacombs (MM3) 249
 1 Verduran Enchantress (4ED) 281
 1 Watery Grave (UNF) 278

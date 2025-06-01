@@ -1,7 +1,6 @@
 Zinnia, Valley's Voice
 Adarkar Wastes
 Anointed Procession
-Arcane Signet
 Austere Command
 Battlefield Forge
 Bennie Bracks, Zoologist
@@ -12,6 +11,7 @@ Delney, Streetwise Lookout
 Deserted Beach
 Dusk // Dawn
 Elesh Norn, Mother of Machines
+Elspeth, Storm Slayer
 Enduring Courage
 Enduring Innocence
 Flare of Fortitude
@@ -65,6 +65,7 @@ Mystic Gate
 Ojer Taq, Deepest Foundation // Temple of Civilization
 Panharmonicon
 Path to Exile
+Pearl Medallion
 Plains
 Plains
 Plains
@@ -77,7 +78,6 @@ Plains
 Plains
 Purphoros, God of the Forge
 Raise the Past
-Rally the Ranks
 Rapid Augmenter
 Roaming Throne
 Rush of Inspiration // Crackling Falls

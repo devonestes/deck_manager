@@ -4,7 +4,6 @@ Adeline, Resplendent Cathar
 Akroma's Will
 Arcane Denial
 Arcane Signet
-Archivist of Gondor
 Arid Mesa
 Azure Fleet Admiral
 Bastion Protector
@@ -96,5 +95,6 @@ Throne of the High City
 Tithe
 Training Center
 Tundra
+Voice of Victory
 Warleader's Call
 Weathered Wayfarer

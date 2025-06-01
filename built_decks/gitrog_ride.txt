@@ -7,7 +7,6 @@ Beast Within
 Berserk
 Birds of Paradise
 Bojuka Bog
-Clackbridge Troll
 Colossal Rattlewurm
 Command Tower
 Cultivate
@@ -43,6 +42,7 @@ Hunted Bonebrute
 Hunted Horror
 Hunted Troll
 Iridescent Vinelasher
+Jarad, Golgari Lich Lord
 Kalakscion, Hunger Tyrant
 Llanowar Elves
 Llanowar Wastes

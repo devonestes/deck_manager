@@ -46,8 +46,8 @@ Kogla and Yidaro
 Kozilek's Unsealing
 Lurking Predators
 Migration Path
-Misthollow Griffin
 Monstrous Vortex
+Moraug, Fury of Akoum
 Mountain
 Mountain
 Mountain
@@ -71,7 +71,6 @@ Sakura-Tribe Elder
 Sarkhan's Unsealing
 Scourge of the Throne
 Selvala, Heart of the Wilds
-Selvala's Stampede
 Sire of Seven Deaths
 Skyshroud Claim
 Snow-Covered Forest
@@ -82,6 +81,7 @@ Snow-Covered Mountain
 Sol Ring
 Somberwald Sage
 Stormcarved Coast
+Stormscale Scion
 Sulfur Falls
 Sun Quan, Lord of Wu
 Sunbird's Invocation

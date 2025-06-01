@@ -4,7 +4,6 @@
 1 Akroma's Will (CMR) 615
 1 Arcane Denial (ALL) 22a
 1 Arcane Signet (LTC) 273
-1 Archivist of Gondor (LTC) 18
 1 Arid Mesa (MM3) 229
 1 Azure Fleet Admiral (CMR) 58
 1 Bastion Protector (LTC) 162
@@ -93,5 +92,6 @@
 1 Tithe (VIS) 23
 1 Training Center (CMR) 713
 1 Tundra (3ED) 289
+1 Voice of Victory (TDM) 33
 1 Warleader's Call (MKM) 242
 1 Weathered Wayfarer (LTC) 183

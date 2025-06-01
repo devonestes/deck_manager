@@ -1,6 +1,7 @@
 1 Auntie Blyte, Bad Influence (J22) 30
 1 Acidic Soil (PLST) USG-172
 1 Alexios, Deimos of Kosmos (ACR) 33
+1 Ali from Cairo (ARN) 36
 1 Ankh of Mishra (4ED) 294
 1 Arcane Signet (MOC) 348
 1 Barbarian Ring (PLST) ODY-313
@@ -11,7 +12,6 @@
 1 Defiler of Instinct (DMU) 119
 1 Deflecting Swat (C20) 50
 1 Earthquake (4ED) 189
-1 Exocrine (40K) 76
 1 Extraplanar Lens (MRD) 169
 1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
 1 Fiendish Duo (MKC) 153
@@ -41,7 +41,6 @@
 1 Orcish Cannoneers (ICE) 205
 1 Pinnacle Monk // Mystic Peak (MH3) 246
 1 Platinum Emperion (SOM) 193
-1 Prisoner's Dilemma (MKC) 34
 1 Pyrohemia (CMA) 86
 1 Pyrostatic Pillar (SCG) 100
 1 Razorkin Needlehead (DSK) 347
@@ -52,6 +51,7 @@
 1 Scrawling Crawler (FDN) 354
 1 Shadowspear (THB) 345
 1 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354
+1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (BOT) 6
 1 Smoke (4ED) 222
 1 Sol Ring (MOC) 381
 1 Solphim, Mayhem Dominus (ONE) 312

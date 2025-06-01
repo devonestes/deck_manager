@@ -11,15 +11,17 @@
 1 Bloom Tender (EVE) 66
 1 Bonehoard Dracosaur (LCI) 321
 1 Brushland (BRO) 259
+1 Call the Spirit Dragons (TDM) 309
 1 Cavern-Hoard Dragon (LTC) 114
 1 City of Brass (5ED) 413
 1 Command Tower (MOC) 396
+1 Crux of Fate (FIC) 275
 1 Cultivate (J22) 644
 1 Cyclonic Rift (RTR) 35
 1 Deathcap Glade (VOW) 281
 1 Delighted Halfling (LTR) 158
+1 Dracogenesis (TDM) 300
 1 Dragon Tempest (DTK) 136
-1 Dragon's Hoard (CLB) 858
 1 Dragonhawk, Fate's Tempest (BLB) 291
 1 Dragonlord Atarka (DTK) 216
 1 Dragonlord Dromoka (DTK) 217
@@ -31,8 +33,8 @@
 1 Fellwar Stone (MOC) 356
 2 Forest (ONE) 266
 1 Frontier Bivouac (40K) 281
-1 Ganax, Astral Hunter (CLB) 176
 1 Godless Shrine (UNF) 282
+1 Goldlust Triad (TDC) 74
 1 Gruul Turf (C16) 300
 1 Hellkite Courser (CMR) 183
 1 Hellkite Tyrant (C16) 128
@@ -41,10 +43,7 @@
 1 Indatha Triome (IKO) 309
 1 Island (MOM) 278
 1 Jetmir's Garden (SNC) 291
-1 Junji, the Midnight Sky (NEO) 409
-1 Karrthus, Tyrant of Jund (ARB) 117
 1 Kindred Discovery (CLB) 81
-1 Kindred Dominance (CMM) 640
 1 Lightning Greaves (LTC) 281
 1 Lozhan, Dragons' Legacy (CLB) 281
 1 Mana Confluence (JOU) 163
@@ -53,6 +52,7 @@
 1 Miirym, Sentinel Wyrm (CLB) 284
 1 Morophon, the Boundless (CMM) 669
 2 Mountain (J22) 107
+1 Mox Jasper (TDM) 246
 1 Nature's Lore (DMR) 170
 1 Omniscience (WOT) 70
 1 Orb of Dragonkind (AFR) 157
@@ -67,12 +67,13 @@
 1 Rivaz of the Claw (DMU) 215
 1 Roaming Throne (LCI) 344
 1 Sarkhan Unbroken (MED) WS8
-1 Sarkhan, Fireblood (M19) 154
 1 Savage Ventmaw (DTK) 231
 1 Savai Triome (IKO) 312
 1 Scalelord Reckoner (C17) 6
 1 Scion of Draco (MH2) 234
+1 Scion of the Ur-Dragon (SLD) 1531
 1 Scourge of the Throne (CNS) 35
+1 Scourge of Valkas (SLD) 1490
 1 Scrubland (3ED) 286
 1 Shivan Reef (OTC) 320
 1 Simic Growth Chamber (CM2) 267
@@ -80,14 +81,13 @@
 1 Sol Ring (MOC) 381
 1 Spara's Headquarters (SNC) 293
 1 Swamp (J22) 106
-1 Swords to Plowshares (MOC) 211
 1 Temple Garden (UNF) 281
 1 Temple of the Dragon Queen (AFR) 260
-1 The Kami War // O-Kagachi Made Manifest (NEO) 227
 1 Thornspire Verge (DSK) 333
 1 Tiamat (AFR) 298
 1 Twinflame Tyrant (FDN) 97
 1 Unclaimed Territory (LCC) 366
+1 Ureni of the Unwritten (TDC) 9
 1 Urza's Incubator (C15) 273
 1 Utvara Hellkite (C17) 144
 1 Vault of Champions (CMM) 667

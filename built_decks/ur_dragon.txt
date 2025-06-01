@@ -11,15 +11,17 @@ Blazemire Verge
 Bloom Tender
 Bonehoard Dracosaur
 Brushland
+Call the Spirit Dragons
 Cavern-Hoard Dragon
 City of Brass
 Command Tower
+Crux of Fate
 Cultivate
 Cyclonic Rift
 Deathcap Glade
 Delighted Halfling
+Dracogenesis
 Dragon Tempest
-Dragon's Hoard
 Dragonhawk, Fate's Tempest
 Dragonlord Atarka
 Dragonlord Dromoka
@@ -32,8 +34,8 @@ Fellwar Stone
 Forest
 Forest
 Frontier Bivouac
-Ganax, Astral Hunter
 Godless Shrine
+Goldlust Triad
 Gruul Turf
 Hellkite Courser
 Hellkite Tyrant
@@ -42,10 +44,7 @@ Heroic Intervention
 Indatha Triome
 Island
 Jetmir's Garden
-Junji, the Midnight Sky
-Karrthus, Tyrant of Jund
 Kindred Discovery
-Kindred Dominance
 Lightning Greaves
 Lozhan, Dragons' Legacy
 Mana Confluence
@@ -55,6 +54,7 @@ Miirym, Sentinel Wyrm
 Morophon, the Boundless
 Mountain
 Mountain
+Mox Jasper
 Nature's Lore
 Omniscience
 Orb of Dragonkind
@@ -69,12 +69,13 @@ Rith, Liberated Primeval
 Rivaz of the Claw
 Roaming Throne
 Sarkhan Unbroken
-Sarkhan, Fireblood
 Savage Ventmaw
 Savai Triome
 Scalelord Reckoner
 Scion of Draco
+Scion of the Ur-Dragon
 Scourge of the Throne
+Scourge of Valkas
 Scrubland
 Shivan Reef
 Simic Growth Chamber
@@ -82,14 +83,13 @@ Smuggler's Surprise
 Sol Ring
 Spara's Headquarters
 Swamp
-Swords to Plowshares
 Temple Garden
 Temple of the Dragon Queen
-The Kami War // O-Kagachi Made Manifest
 Thornspire Verge
 Tiamat
 Twinflame Tyrant
 Unclaimed Territory
+Ureni of the Unwritten
 Urza's Incubator
 Utvara Hellkite
 Vault of Champions

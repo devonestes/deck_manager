@@ -12,6 +12,7 @@
 1 Bite Down (FDN) 212
 1 Branching Evolution (LCC) 234
 1 Bridgeworks Battle // Tanglespan Bridgeworks (MH3) 249
+1 Chandra's Ignition (LCC) 220
 1 Cinder Glade (DMC) 203
 1 Command Tower (MOC) 396
 1 Commercial District (MKM) 324
@@ -20,7 +21,6 @@
 1 Court of Garenbrig (WOC) 25
 1 Defiler of Vigor (DMU) 412
 1 Domri, Anarch of Bolas (BLC) 98
-1 Embercleave (ELD) 359
 1 Enduring Courage (DSK) 133
 11 Forest (J22) 110
 1 Game Trail (LCC) 334

@@ -12,6 +12,7 @@ Biophagus
 Bite Down
 Branching Evolution
 Bridgeworks Battle // Tanglespan Bridgeworks
+Chandra's Ignition
 Cinder Glade
 Command Tower
 Commercial District
@@ -20,7 +21,6 @@ Cosmic Hunger
 Court of Garenbrig
 Defiler of Vigor
 Domri, Anarch of Bolas
-Embercleave
 Enduring Courage
 Forest
 Forest
