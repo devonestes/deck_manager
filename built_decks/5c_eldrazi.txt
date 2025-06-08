@@ -49,7 +49,6 @@ Oblivion Sower
 Path of Ancestry
 Path of Annihilation
 Plains
-Propagator Drone
 Reality Smasher
 Reliquary Tower
 Return of the Wildspeaker
@@ -84,6 +83,7 @@ Ugin's Labyrinth
 Ulamog, the Ceaseless Hunger
 Ulamog, the Defiler
 Ulamog, the Infinite Gyre
+Ultima, Origin of Oblivion
 Unclaimed Territory
 Underground River
 Urza's Incubator

@@ -20,6 +20,7 @@
 1 Entity Tracker (DSK) 53
 1 Exotic Orchard (C19) 242
 1 Extinguish All Hope (JOU) 68
+1 Eye of Nidhogg (FIC) 44
 1 Fierce Guardianship (C20) 35
 1 Forest (ONE) 266
 1 Ghostly Prison (ONC) 71
@@ -40,7 +41,6 @@
 1 Honden of Life's Web (CHK) 213
 1 Honden of Night's Reach (CHK) 116
 1 Honden of Seeing Winds (CHK) 69
-1 Idyllic Tutor (MOR) 12
 1 Indatha Triome (IKO) 309
 1 Inquisitive Glimmer (DSK) 217
 1 Island (ONE) 263

@@ -49,7 +49,6 @@
 1 Path of Ancestry (MOC) 418
 1 Path of Annihilation (MH3) 165
 1 Plains (J22) 98
-1 Propagator Drone (MH3) 167
 1 Reality Smasher (OGW) 7
 1 Reliquary Tower (BRC) 196
 1 Return of the Wildspeaker (ELD) 172
@@ -84,6 +83,7 @@
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 1 Ulamog, the Defiler (MH3) 15
 1 Ulamog, the Infinite Gyre (ROE) 12
+1 Ultima, Origin of Oblivion (FIN) 2
 1 Unclaimed Territory (LCC) 366
 1 Underground River (BRO) 267
 1 Urza's Incubator (C15) 273

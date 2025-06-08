@@ -67,7 +67,6 @@ Karn's Bastion
 Kitchen Finks
 Kodama of the West Tree
 Marketback Walker
-Master Biomancer
 Mystic Gate
 Otawara, Soaring City
 Overgrown Farmland
@@ -85,13 +84,14 @@ Seaside Citadel
 Shrieking Drake
 Sol Ring
 Strength of the Harvest // Haven of the Harvest
+Summoner's Sending
 Sunpetal Grove
 Suppression Ray // Orderly Plaza
 Temple Garden
 Tendershoot Dryad
+The Earth Crystal
 Thirsting Roots
 Tyvar, the Pummeler
-Virtue of Loyalty // Ardenvale Fealty
 Wave Goodbye
 Whitemane Lion
 Windswift Slice

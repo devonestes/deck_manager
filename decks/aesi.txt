@@ -41,7 +41,6 @@
 1 Koma, Cosmos Serpent (KHM) 221
 1 Koma, World-Eater (FDN) 121
 1 Last March of the Ents (LTR) 418
-1 Llanowar Scout (DOM) 170
 1 Lotus Cobra (BLC) 229
 1 Lotus Vale (WTH) 165
 1 Lumbering Worldwagon (DFT) 168
@@ -52,7 +51,6 @@
 1 Mystic Sanctuary (ELD) 247
 1 Nissa, Resurgent Animist (MAT) 22
 1 Oboro, Palace in the Clouds (LTC) 371
-1 Omenpath Journey (BIG) 18
 1 Open the Way (MAT) 23
 1 Oracle of Mul Daya (JMP) 415
 1 Overburden (PCY) 39
@@ -60,6 +58,7 @@
 1 Planar Genesis (MH3) 198
 1 Polluted Delta (MH3) 438
 1 Prismatic Vista (MH1) 244
+1 PuPu UFO (FIN) 266
 1 Rampaging Baloths (C19) 176
 1 Ramunap Excavator (M3C) 241
 1 Reliquary Tower (BRC) 196
@@ -73,7 +72,6 @@
 1 Simic Growth Chamber (CM2) 267
 1 Sink into Stupor // Soporific Springs (MH3) 241
 1 Skyserpent Seeker (DFT) 224
-1 Skyshroud Ranger (TMP) 256
 1 Snow-Covered Forest (ICE) 383
 1 Snow-Covered Island (ICE) 371
 1 Sol Ring (MOC) 381
@@ -83,10 +81,12 @@
 1 Tangled Islet (DMU) 258
 1 Tatyova, Benthic Druid (DMR) 203
 1 Thawing Glaciers (ALL) 144
+1 Tifa Lockhart (FIN) 206
 1 Titania, Protector of Argoth (CMA) 157
+1 Traveling Chocobo (FIN) 210
 1 Undiscovered Paradise (VIS) 167
-1 Uro, Titan of Nature's Wrath (THB) 229
 1 Vorinclex // The Grand Evolution (MOM) 213
 1 Wayward Swordtooth (LCC) 263
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249
+1 Zanarkand, Ancient Metropolis // Lasting Fayth (FIN) 293

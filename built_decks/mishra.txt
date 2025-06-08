@@ -12,7 +12,6 @@ Bloodsoaked Insight // Sanguine Morass
 Bloodstained Mire
 Chimil, the Inner Sun
 Cityscape Leveler
-Coldsteel Heart
 Command Tower
 Cursed Mirror
 Cyberdrive Awakener
@@ -46,7 +45,7 @@ Magmatic Galleon
 Mana Drain
 Mana Vault
 Metalworker
-Mind Stone
+Midgar, City of Mako // Reactor Raid
 Mindslaver
 Mistvault Bridge
 Morphic Pool
@@ -57,12 +56,11 @@ Palantír of Orthanc
 Polluted Delta
 Portal to Phyrexia
 Raucous Theater
+Reaver Titan
 Relic of Sauron
-Rev, Tithe Extractor
 RMS Titanic
 Rolling Hamsphere
 Scalding Tarn
-Scroll Rack
 Seat of the Synod
 Sensei's Divining Top
 Shipwreck Marsh
@@ -72,18 +70,20 @@ Sink into Stupor // Soporific Springs
 Sol Ring
 Steam Vents
 Stormcarved Coast
-Strionic Resonator
 Swamp
 Swiftfoot Boots
 Talisman of Creativity
 Talisman of Dominance
 Talisman of Indulgence
 The Belligerent
+The Lunar Whale
 The Master, Multiplied
 The One Ring
 The Reality Chip
+The Regalia
 The Stasis Coffin
 Thoughtcast
+Thunderhawk Gunship
 Thundering Falls
 Training Center
 Treasure Vault

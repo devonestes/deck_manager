@@ -57,7 +57,6 @@
 1 Kitchen Finks (MB2) 85
 1 Kodama of the West Tree (NEO) 392
 1 Marketback Walker (DFT) 235
-1 Master Biomancer (2X2) 250
 1 Mystic Gate (CMM) 1013
 1 Otawara, Soaring City (NEO) 503
 1 Overgrown Farmland (WHO) 292
@@ -71,13 +70,14 @@
 1 Shrieking Drake (VIS) 43
 1 Sol Ring (LTC) 284
 1 Strength of the Harvest // Haven of the Harvest (MH3) 258
+1 Summoner's Sending (FIC) 29
 1 Sunpetal Grove (SLD) 460
 1 Suppression Ray // Orderly Plaza (MH3) 260
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147
+1 The Earth Crystal (FIN) 184
 1 Thirsting Roots (ONE) 185
 1 Tyvar, the Pummeler (DSK) 202
-1 Virtue of Loyalty // Ardenvale Fealty (WOE) 38
 1 Wave Goodbye (LCC) 79
 1 Whitemane Lion (DMR) 277
 1 Windswift Slice (LTC) 45

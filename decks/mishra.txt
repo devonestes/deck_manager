@@ -12,7 +12,6 @@
 1 Bloodstained Mire (KTK) 230
 1 Chimil, the Inner Sun (LCI) 249
 1 Cityscape Leveler (BRO) 363
-1 Coldsteel Heart (2X2) 301
 1 Command Tower (BRC) 178
 1 Cursed Mirror (BRC) 115
 1 Cyberdrive Awakener (NEC) 12
@@ -46,7 +45,7 @@
 1 Mana Drain (CMR) 80
 1 Mana Vault (2ED) 260
 1 Metalworker (UDS) 135
-1 Mind Stone (MOC) 364
+1 Midgar, City of Mako // Reactor Raid (FIN) 286
 1 Mindslaver (MRD) 206
 1 Mistvault Bridge (BRC) 189
 1 Morphic Pool (ZNE) 17
@@ -57,12 +56,11 @@
 1 Polluted Delta (KTK) 239
 1 Portal to Phyrexia (BRO) 365
 1 Raucous Theater (MKM) 329
+1 Reaver Titan (40K) 163
 1 Relic of Sauron (LTC) 79
-1 Rev, Tithe Extractor (J25) 45
 1 RMS Titanic (WHO) 93
 1 Rolling Hamsphere (BLC) 39
 1 Scalding Tarn (MM3) 244
-1 Scroll Rack (TMP) 308
 1 Seat of the Synod (BRC) 198
 1 Sensei's Divining Top (2X2) 398
 1 Shipwreck Marsh (MID) 285
@@ -72,18 +70,20 @@
 1 Sol Ring (BRC) 160
 1 Steam Vents (UNF) 283
 1 Stormcarved Coast (VOW) 284
-1 Strionic Resonator (BRC) 165
 1 Swamp (MOM) 279
 1 Swiftfoot Boots (NCC) 382
 1 Talisman of Creativity (MH1) 231
 1 Talisman of Dominance (MRD) 253
 1 Talisman of Indulgence (MRD) 255
 1 The Belligerent (LCI) 225
+1 The Lunar Whale (FIN) 60
 1 The Master, Multiplied (WHO) 146
 1 The One Ring (LTR) 451
 1 The Reality Chip (NEO) 74
+1 The Regalia (FIN) 267
 1 The Stasis Coffin (BRO) 245
 1 Thoughtcast (BRC) 99
+1 Thunderhawk Gunship (40K) 167
 1 Thundering Falls (MKM) 331
 1 Training Center (CMR) 713
 1 Treasure Vault (AFR) 261

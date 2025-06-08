@@ -20,6 +20,7 @@ Enlightened Tutor
 Entity Tracker
 Exotic Orchard
 Extinguish All Hope
+Eye of Nidhogg
 Fierce Guardianship
 Forest
 Ghostly Prison
@@ -40,7 +41,6 @@ Honden of Infinite Rage
 Honden of Life's Web
 Honden of Night's Reach
 Honden of Seeing Winds
-Idyllic Tutor
 Indatha Triome
 Inquisitive Glimmer
 Island

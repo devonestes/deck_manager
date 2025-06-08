@@ -1,3 +1,9 @@
+Arid Mesa (PROXY)
+Sacred Foundry (PROXY)
+Skullclamp (PROXY)
+Solitude (PROXY)
+Stoneforge Mystic (PROXY)
+Temple Garden (PROXY)
 Abrade
 Adeline, Resplendent Cathar
 Agatha's Soul Cauldron
@@ -10,7 +16,6 @@ Anje's Ravager
 Arc Trail
 Archon of Cruelty
 Arena of Glory
-Arid Mesa
 Armageddon
 Arwen, Mortal Queen
 Ashen Rider
@@ -358,7 +363,6 @@ Restless Vents
 Retrofitter Foundry
 Rite of Flame
 Robber of the Rich
-Sacred Foundry
 Saheeli, Sublime Artificer
 Sakura-Tribe Elder
 Samwise the Stouthearted
@@ -396,7 +400,6 @@ Show and Tell
 Silent Clearing
 Simic Growth Chamber
 Six
-Skullclamp
 Skyclave Apparition
 Slickshot Show-Off
 Smuggler's Copter
@@ -404,7 +407,6 @@ Snapcaster Mage
 Sneak Attack
 Snuff Out
 Sol Ring
-Solitude
 Soul-Guide Lantern
 Sowing Mycospawn
 Spara's Headquarters
@@ -415,7 +417,6 @@ Springheart Nantuko
 Steam Vents
 Stern Scolding
 Stomping Ground
-Stoneforge Mystic
 Strip Mine
 Student of Warfare
 Subtlety
@@ -444,7 +445,6 @@ Tarmogoyf
 Tear Asunder
 Teferi, Hero of Dominaria
 Teferi, Time Raveler
-Temple Garden
 Tendrils of Agony
 Territorial Kavu
 Thalia, Guardian of Thraben

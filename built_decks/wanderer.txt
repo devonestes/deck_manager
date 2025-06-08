@@ -29,7 +29,6 @@ Forest
 Forest
 Forest
 Genesis Ultimatum
-Goldspan Dragon
 Hinterland Harbor
 Hullbreaker Horror
 Ilysian Caryatid
@@ -40,6 +39,7 @@ Island
 Island
 Island
 Island
+Jumbo Cactuar
 Ketria Triome
 Klauth, Unrivaled Ancient
 Kogla and Yidaro
@@ -92,9 +92,9 @@ Thornspire Verge
 Thran Dynamo
 Three Visits
 Time Spiral
+Triple Triad
 Vastwood Surge
 Vaultborn Tyrant
 Vorinclex // The Grand Evolution
-Vorinclex, Monstrous Raider
 Wurmcoil Engine
 Yavimaya Coast

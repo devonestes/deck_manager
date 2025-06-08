@@ -22,13 +22,13 @@
 1 Food Chain (MMQ) 246
 8 Forest (J22) 110
 1 Genesis Ultimatum (IKO) 189
-1 Goldspan Dragon (J22) 550
 1 Hinterland Harbor (LTC) 317
 1 Hullbreaker Horror (WOC) 95
 1 Ilysian Caryatid (J22) 676
 1 Imoti, Celebrant of Bounty (MUL) 43
 1 Into the North (CSP) 111
 5 Island (J22) 101
+1 Jumbo Cactuar (FIN) 191
 1 Ketria Triome (IKO) 310
 1 Klauth, Unrivaled Ancient (AFC) 320
 1 Kogla and Yidaro (MOM) 244
@@ -74,9 +74,9 @@
 1 Thran Dynamo (BRC) 168
 1 Three Visits (MKC) 189
 1 Time Spiral (USG) 103
+1 Triple Triad (FIN) 166
 1 Vastwood Surge (ZNR) 217
 1 Vaultborn Tyrant (BIG) 50
 1 Vorinclex // The Grand Evolution (MOM) 213
-1 Vorinclex, Monstrous Raider (KHM) 333
 1 Wurmcoil Engine (2XM) 308
 1 Yavimaya Coast (DMU) 261

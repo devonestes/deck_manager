@@ -49,7 +49,6 @@ Kodama of the East Tree
 Koma, Cosmos Serpent
 Koma, World-Eater
 Last March of the Ents
-Llanowar Scout
 Lotus Cobra
 Lotus Vale
 Lumbering Worldwagon
@@ -60,7 +59,6 @@ Mossborn Hydra
 Mystic Sanctuary
 Nissa, Resurgent Animist
 Oboro, Palace in the Clouds
-Omenpath Journey
 Open the Way
 Oracle of Mul Daya
 Overburden
@@ -68,6 +66,7 @@ Overlord of the Hauntwoods
 Planar Genesis
 Polluted Delta
 Prismatic Vista
+PuPu UFO
 Rampaging Baloths
 Ramunap Excavator
 Reliquary Tower
@@ -81,7 +80,6 @@ Scute Swarm
 Simic Growth Chamber
 Sink into Stupor // Soporific Springs
 Skyserpent Seeker
-Skyshroud Ranger
 Snow-Covered Forest
 Snow-Covered Island
 Sol Ring
@@ -91,10 +89,12 @@ Storm Cauldron
 Tangled Islet
 Tatyova, Benthic Druid
 Thawing Glaciers
+Tifa Lockhart
 Titania, Protector of Argoth
+Traveling Chocobo
 Undiscovered Paradise
-Uro, Titan of Nature's Wrath
 Vorinclex // The Grand Evolution
 Wayward Swordtooth
 Windswept Heath
 Wooded Foothills
+Zanarkand, Ancient Metropolis // Lasting Fayth

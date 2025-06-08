@@ -1,0 +1,87 @@
+1 Cloud, Ex-SOLDIER (FIC) 2
+1 Adaptive Omnitool (DRC) 16
+1 Aettir and Priwen (FIN) 253
+1 Akiri, Fearless Voyager (CMM) 335
+1 Arcane Signet (SLD) 1641
+1 Arid Mesa (MH2) 436
+1 Astor, Bearer of Blades (DMU) 194
+1 Barret, Avalanche Leader (FIC) 79
+1 Basilisk Collar (CLB) 300
+1 Battlefield Forge (BRO) 257
+1 Beatrix, Loyal General (FIN) 554
+1 Blackblade Reforged (DMC) 178
+1 Blacksmith's Talent (BLB) 125
+1 Bruenor Battlehammer (AFR) 337
+1 Brushland (BRO) 259
+1 Canopy Vista (NCC) 389
+1 Champion's Helm (PIP) 228
+1 Cinder Glade (DMC) 203
+1 Cloud, Midgar Mercenary (FIN) 10
+1 Cloud, Planet's Champion (FIN) 552
+1 Cloud's Limit Break (FIC) 14
+1 Codsworth, Handy Helper (PIP) 366
+1 Colossus Hammer (FIC) 338
+1 Command Tower (MOC) 396
+1 Conformer Shuriken (FIC) 98
+1 Cultivate (J22) 644
+1 Danitha Capashen, Paragon (FCA) 22
+1 Dragonfire Blade (TDM) 240
+1 Embercleave (ELD) 359
+1 Excalibur, Sword of Eden (ACR) 72
+1 Exotic Orchard (MOC) 398
+1 Farseek (RVR) 138
+4 Forest (J22) 112
+1 Genji Glove (FIN) 258
+1 Gilgamesh, Master-at-Arms (FIN) 139
+1 Halvar, God of Battle // Sword of the Realms (KHM) 299
+1 Hammer of Nazahn (C17) 51
+1 Helm of the Host (DOM) 217
+1 Jetmir's Garden (SNC) 291
+1 Jor Kadeen, First Goldwarden (ONE) 203
+1 Jungle Shrine (E02) 46
+1 Kodama of the West Tree (NEO) 392
+1 Leyline Axe (FDN) 129
+1 Mask of Memory (MRD) 203
+1 Mithril Coat (LTR) 379
+5 Mountain (J22) 107
+1 Nature's Lore (DMR) 170
+1 Nettlecyst (MOC) 367
+1 Path of Ancestry (MOC) 418
+1 Path to Exile (MOC) 198
+7 Plains (UNF) 240
+1 Professor Hojo (FIC) 69
+1 Puresteel Paladin (FIC) 250
+1 Rampant Growth (M12) 190
+1 Raubahn, Bull of Ala Mhigo (FIN) 151
+1 Red XIII, Proud Warrior (FIC) 91
+1 Reliquary Tower (BRC) 196
+1 Rogue's Passage (LTC) 326
+1 Rootbound Crag (SLD) 459
+1 Sacred Foundry (RVR) 409
+1 Shadowspear (LTC) 353
+1 Sigarda's Aid (CMR) 384
+1 Sol Ring (MOC) 381
+1 Spire Garden (ZNE) 19
+1 Sram, Senior Edificer (NEC) 88
+1 Steelshaper's Gift (5DN) 19
+1 Stomping Ground (RVR) 413
+1 Stoneforge Mystic (SLD) 1253
+1 Sunpetal Grove (SLD) 460
+1 Swiftfoot Boots (BRC) 166
+1 Sword of Feast and Famine (2XM) 296
+1 Sword of Fire and Ice (2XM) 297
+1 Sword of the Animist (AFC) 218
+1 Swords to Plowshares (MB2) 153
+1 Temple Garden (RVR) 414
+1 The Aetherspark (DFT) 231
+1 The Reaver Cleaver (DMC) 8
+1 Three Visits (MKC) 189
+1 Ultima Weapon (FIN) 563
+1 Ultimate Magic: Holy (FIC) 32
+1 Urza's Saga (MB2) 114
+1 Vincent, Vengeful Atoner (FIC) 64
+1 Windcrag Siege (TDM) 392
+1 Windswept Heath (MH3) 440
+1 Wooded Foothills (MH3) 441
+1 Wrecking Ball Arm (FIC) 100
+1 Yuffie, Materia Hunter (FIC) 65
