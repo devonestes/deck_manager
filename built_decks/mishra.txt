@@ -21,12 +21,13 @@ Darksteel Forge
 Deadly Dispute
 Demonic Junker
 Determined Iteration
-Drossforge Bridge
+Drowned Catacomb
 Emry, Lurker of the Loch
 Esoteric Duplicator
 Etherium Sculptor
 Fabricate
 Fomori Vault
+Gloomlake Verge
 Gonti's Aether Heart
 Great Furnace
 Haunted Ridge
@@ -47,7 +48,6 @@ Mana Vault
 Metalworker
 Midgar, City of Mako // Reactor Raid
 Mindslaver
-Mistvault Bridge
 Morphic Pool
 Mountain
 Mox Opal
@@ -55,7 +55,6 @@ Mystic Forge
 Palantír of Orthanc
 Polluted Delta
 Portal to Phyrexia
-Raucous Theater
 Reaver Titan
 Relic of Sauron
 RMS Titanic
@@ -64,7 +63,7 @@ Scalding Tarn
 Seat of the Synod
 Sensei's Divining Top
 Shipwreck Marsh
-Silverbluff Bridge
+Shivan Reef
 Simulacrum Synthesizer
 Sink into Stupor // Soporific Springs
 Sol Ring
@@ -98,3 +97,4 @@ Volcanic Island
 Watery Grave
 Weatherlight
 Worldwalker Helm
+Xander's Lounge

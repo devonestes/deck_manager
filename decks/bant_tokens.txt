@@ -8,6 +8,7 @@
 1 Basking Broodscale (MH3) 145
 1 Beast Whisperer (P30A) 26
 1 Bennie Bracks, Zoologist (NCC) 86
+1 Boseiju, Who Endures (NEO) 266
 1 Bountiful Promenade (ZNE) 20
 1 Bristly Bill, Spine Sower (OTJ) 157
 1 Bulwark Ox (DFT) 7
@@ -37,7 +38,8 @@
 1 Felidar Retreat (CMM) 821
 1 Fierce Guardianship (C20) 35
 1 Flooded Grove (LTC) 309
-7 Forest (LTR) 270
+1 Floodfarm Verge (DSK) 259
+5 Forest (LTR) 270
 1 Gala Greeters (SNC) 450
 1 Galadhrim Ambush (LTC) 38
 1 Glen Elendra Archmage (MMA) 47
@@ -66,7 +68,6 @@
 1 Ripples of Potential (LCC) 77
 1 Safehold Elite (SHM) 239
 1 Sea of Clouds (ZNE) 16
-1 Seaside Citadel (PLST) ALA-229
 1 Shrieking Drake (VIS) 43
 1 Sol Ring (LTC) 284
 1 Strength of the Harvest // Haven of the Harvest (MH3) 258
@@ -80,6 +81,7 @@
 1 Tyvar, the Pummeler (DSK) 202
 1 Wave Goodbye (LCC) 79
 1 Whitemane Lion (DMR) 277
+1 Willowrush Verge (DFT) 270
 1 Windswift Slice (LTC) 45
 1 Witch Enchanter // Witch-Blessed Meadow (MH3) 239
 1 Wolverine Riders (KHC) 14

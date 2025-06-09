@@ -2,6 +2,7 @@ Mog, Moogle Warrior
 Agate Instigator
 Anointed Procession
 Arcane Signet
+Ash Barrens
 Barkform Harvester
 Battlefield Forge
 Big Score
@@ -22,7 +23,6 @@ Cut a Deal
 Delivery Moogle
 Elspeth, Storm Slayer
 Enduring Innocence
-Faithless Looting
 Furycalm Snarl
 Generous Gift
 Ghostly Prison
@@ -33,6 +33,7 @@ Iroas, God of Victory
 Lightning Greaves
 Loran of the Third Path
 Maskwood Nexus
+Master of Ceremonies
 Mentor of the Meek
 Metallic Mimic
 Mirror Entity
@@ -48,7 +49,7 @@ Mountain
 Mountain
 Mountain
 Mountain
-Mountain
+Myriad Landscape
 Nesting Dovehawk
 Neyali, Suns' Vanguard
 Ocelot Pride
@@ -70,10 +71,10 @@ Plains
 Plains
 Plains
 Plains
-Plains
 Professional Face-Breaker
 Reliquary Tower
 Renewed Solidarity
+Restoration Magic
 Rugged Prairie
 Sephiroth, Fallen Hero
 Sevinne's Reclamation
@@ -97,4 +98,3 @@ Three Tree Mascot
 Toby, Beastie Befriender
 Universal Automaton
 Vandalblast
-War-Spike Changeling

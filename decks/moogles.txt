@@ -2,6 +2,7 @@
 1 Agate Instigator (BLC) 21
 1 Anointed Procession (AKH) 2
 1 Arcane Signet (SLD) 1641
+1 Ash Barrens (BRC) 174
 1 Barkform Harvester (BLB) 243
 1 Battlefield Forge (BRO) 257
 1 Big Score (SNC) 102
@@ -22,7 +23,6 @@
 1 Delivery Moogle (FIN) 15
 1 Elspeth, Storm Slayer (TDM) 11
 1 Enduring Innocence (DSK) 6
-1 Faithless Looting (BRC) 116
 1 Furycalm Snarl (LTC) 313
 1 Generous Gift (CMM) 624
 1 Ghostly Prison (PLST) CHK-10
@@ -33,21 +33,24 @@
 1 Lightning Greaves (SLD) 1493
 1 Loran of the Third Path (BRO) 12
 1 Maskwood Nexus (PLST) KHM-240
+1 Master of Ceremonies (NCC) 119
 1 Mentor of the Meek (INR) 34
 1 Metallic Mimic (LCC) 308
 1 Mirror Entity (MKC) 75
 1 Monument to Endurance (DFT) 394
 1 Moogles' Valor (FIN) 27
 1 Moonshaker Cavalry (WOE) 21
-10 Mountain (J22) 107
+9 Mountain (J22) 107
+1 Myriad Landscape (MOC) 416
 1 Nesting Dovehawk (MOC) 17
 1 Neyali, Suns' Vanguard (ONC) 2
 1 Ocelot Pride (MH3) 394
 1 Path to Exile (MOC) 198
-18 Plains (UNF) 240
+17 Plains (UNF) 240
 1 Professional Face-Breaker (J22) 581
 1 Reliquary Tower (BRC) 196
 1 Renewed Solidarity (DRC) 23
+1 Restoration Magic (FIN) 30
 1 Rugged Prairie (BLC) 327
 1 Sephiroth, Fallen Hero (FIC) 92
 1 Sevinne's Reclamation (MH3) 267
@@ -66,9 +69,8 @@
 1 Talisman of Conviction (LTC) 285
 1 Tataru Taru (FIC) 30
 1 Taurean Mauler (PLST) MOR-109
-1 The Wind Crystal (FIN) 43
+1 The Wind Crystal (FIN) 330
 1 Three Tree Mascot (BLB) 251
 1 Toby, Beastie Befriender (DSK) 35
 1 Universal Automaton (J22) 803
 1 Vandalblast (OTC) 183
-1 War-Spike Changeling (MMA) 139

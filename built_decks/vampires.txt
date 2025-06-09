@@ -1,7 +1,6 @@
 Edgar Markov
 Agadeem's Awakening // Agadeem, the Undercrypt
 Akroma's Will
-Ancient Tomb
 Anguished Unmaking
 Arcane Signet
 Arid Mesa
@@ -9,6 +8,8 @@ Ashnod's Altar
 Badlands
 Beseech the Mirror
 Black Market Connections
+Blazemire Verge
+Bleachbone Verge
 Blood Crypt
 Bloodchief Ascension
 Bloodghast
@@ -17,12 +18,10 @@ Bloodline Keeper // Lord of Lineage
 Bloodstained Mire
 Bloodthirsty Conqueror
 Captivating Vampire
-Cavern of Souls
 Caves of Koilos
 Champion of Dusk
 Changeling Outcast
 Charismatic Conqueror
-City of Brass
 Clavileño, First of the Blessed
 Clifftop Retreat
 Coat of Arms
@@ -81,6 +80,7 @@ Sol Ring
 Spectator Seating
 Stromkirk Captain
 Sulfurous Springs
+Sunbillow Verge
 Sundering Eruption // Volcanic Fissure
 Sundown Pass
 Swamp

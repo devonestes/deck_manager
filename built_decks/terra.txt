@@ -3,8 +3,10 @@ Accursed Marauder
 Alesha, Who Laughs at Fate
 Animate Dead
 Arcane Signet
-Banon, the Returners' Leader
+Archivist of Oghma
 Battlefield Forge
+Blazemire Verge
+Bleachbone Verge
 Blood Crypt
 Braids, Arisen Nightmare
 Buried Alive
@@ -19,14 +21,16 @@ Demand Answers
 Dragonskull Summit
 Esper Sentinel
 Espers to Magicite
-Exotic Orchard
 Faithless Looting
 Fear of Missing Out
-Gau, Feral Youth
+Fetid Heath
 General Leo Cristophe
+Gix, Yawgmoth Praetor
 Goblin Bombardment
 Godless Shrine
+Graven Cairns
 Grim Hireling
+High Market
 Isolated Chapel
 Joshua, Phoenix's Dominant // Phoenix, Warden of Fire
 Kalitas, Traitor of Ghet
@@ -37,21 +41,16 @@ Loran of the Third Path
 Lurrus of the Dream-Den
 Marsh Flats
 Michiko Konda, Truth Seeker
-Mog, Moogle Warrior
+Morbid Opportunist
 Mountain
 Mountain
 Mountain
 Mountain
 Mountain
-Mountain
-Mountain
-Nomad Outpost
 Orcish Bowmasters
-Path of Ancestry
 Path to Exile
 Pinnacle Monk // Mystic Peak
 Pitiless Plunderer
-Plains
 Plains
 Plains
 Plains
@@ -64,7 +63,9 @@ Rejoin the Fight
 Rev, Tithe Extractor
 Ripples of Undeath
 Rogue's Passage
+Rugged Prairie
 Ruinous Ultimatum
+Savai Triome
 Selfless Spirit
 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 Shadow, Mysterious Assassin
@@ -72,13 +73,12 @@ Shadowy Backstreet
 Siegfried, Famed Swordsman
 Skullclamp
 Skyclave Apparition
-Smoldering Marsh
 Sol Ring
 Solemn Simulacrum
 Solitude
 Sulfurous Springs
 Summon: Knights of Round
-Swamp
+Sunbillow Verge
 Swamp
 Swamp
 Swamp
@@ -89,12 +89,12 @@ Talisman of Conviction
 Talisman of Hierarchy
 Talisman of Indulgence
 Teferi's Protection
+Threefold Thunderhulk
 Thrill of Possibility
 Tinybones, the Pickpocket
 Trouble in Pairs
 Tymna the Weaver
-Vault of Champions
+Urza's Saga
 Victimize
 Vile Entomber
-Voice of Victory
 Wheel of Fortune
