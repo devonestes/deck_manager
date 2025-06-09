@@ -13,32 +13,31 @@
 1 Blacksmith's Talent (BLB) 125
 1 Bruenor Battlehammer (AFR) 337
 1 Brushland (BRO) 259
-1 Canopy Vista (NCC) 389
 1 Champion's Helm (PIP) 228
-1 Cinder Glade (DMC) 203
 1 Cloud, Midgar Mercenary (FIN) 10
 1 Cloud, Planet's Champion (FIN) 552
 1 Cloud's Limit Break (FIC) 14
 1 Codsworth, Handy Helper (PIP) 366
 1 Colossus Hammer (FIC) 338
 1 Command Tower (MOC) 396
+1 Commercial District (MKM) 324
 1 Conformer Shuriken (FIC) 98
 1 Cultivate (J22) 644
 1 Danitha Capashen, Paragon (FCA) 22
 1 Dragonfire Blade (TDM) 240
 1 Embercleave (ELD) 359
 1 Excalibur, Sword of Eden (ACR) 72
-1 Exotic Orchard (MOC) 398
 1 Farseek (RVR) 138
-4 Forest (J22) 112
+1 Fire-Lit Thicket (SHM) 271
+2 Forest (J22) 112
 1 Genji Glove (FIN) 258
 1 Gilgamesh, Master-at-Arms (FIN) 139
 1 Halvar, God of Battle // Sword of the Realms (KHM) 299
 1 Hammer of Nazahn (C17) 51
 1 Helm of the Host (DOM) 217
+1 Hushwood Verge (DSK) 261
 1 Jetmir's Garden (SNC) 291
 1 Jor Kadeen, First Goldwarden (ONE) 203
-1 Jungle Shrine (E02) 46
 1 Kodama of the West Tree (NEO) 392
 1 Leyline Axe (FDN) 129
 1 Mask of Memory (MRD) 203
@@ -46,7 +45,6 @@
 5 Mountain (J22) 107
 1 Nature's Lore (DMR) 170
 1 Nettlecyst (MOC) 367
-1 Path of Ancestry (MOC) 418
 1 Path to Exile (MOC) 198
 7 Plains (UNF) 240
 1 Professor Hojo (FIC) 69
@@ -62,10 +60,12 @@
 1 Sigarda's Aid (CMR) 384
 1 Sol Ring (MOC) 381
 1 Spire Garden (ZNE) 19
-1 Sram, Senior Edificer (NEC) 88
+1 Sram, Senior Edificer (FCA) 3
 1 Steelshaper's Gift (5DN) 19
 1 Stomping Ground (RVR) 413
 1 Stoneforge Mystic (SLD) 1253
+1 Sunbillow Verge (DFT) 264
+1 Sunhome, Fortress of the Legion (CMR) 496
 1 Sunpetal Grove (SLD) 460
 1 Swiftfoot Boots (BRC) 166
 1 Sword of Feast and Famine (2XM) 296
@@ -75,6 +75,7 @@
 1 Temple Garden (RVR) 414
 1 The Aetherspark (DFT) 231
 1 The Reaver Cleaver (DMC) 8
+1 Thornspire Verge (DSK) 333
 1 Three Visits (MKC) 189
 1 Ultima Weapon (FIN) 563
 1 Ultimate Magic: Holy (FIC) 32
@@ -84,4 +85,5 @@
 1 Windswept Heath (MH3) 440
 1 Wooded Foothills (MH3) 441
 1 Wrecking Ball Arm (FIC) 100
+1 Yavimaya, Cradle of Growth (MH2) 441
 1 Yuffie, Materia Hunter (FIC) 65

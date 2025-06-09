@@ -21,12 +21,13 @@
 1 Deadly Dispute (P30A) 29
 1 Demonic Junker (DFT) 83
 1 Determined Iteration (NCC) 45
-1 Drossforge Bridge (BRC) 183
+1 Drowned Catacomb (SLD) 457
 1 Emry, Lurker of the Loch (MUL) 9
 1 Esoteric Duplicator (BIG) 35
 1 Etherium Sculptor (ALA) 42
 1 Fabricate (MRD) 35
 1 Fomori Vault (BIG) 59
+1 Gloomlake Verge (DSK) 331
 1 Gonti's Aether Heart (M3C) 294
 1 Great Furnace (BRC) 187
 1 Haunted Ridge (MID) 282
@@ -47,7 +48,6 @@
 1 Metalworker (UDS) 135
 1 Midgar, City of Mako // Reactor Raid (FIN) 286
 1 Mindslaver (MRD) 206
-1 Mistvault Bridge (BRC) 189
 1 Morphic Pool (ZNE) 17
 1 Mountain (BRC) 35
 1 Mox Opal (2XM) 275
@@ -55,7 +55,6 @@
 1 Palantír of Orthanc (LTR) 381
 1 Polluted Delta (KTK) 239
 1 Portal to Phyrexia (BRO) 365
-1 Raucous Theater (MKM) 329
 1 Reaver Titan (40K) 163
 1 Relic of Sauron (LTC) 79
 1 RMS Titanic (WHO) 93
@@ -64,7 +63,7 @@
 1 Seat of the Synod (BRC) 198
 1 Sensei's Divining Top (2X2) 398
 1 Shipwreck Marsh (MID) 285
-1 Silverbluff Bridge (BRC) 200
+1 Shivan Reef (OTC) 320
 1 Simulacrum Synthesizer (BIG) 6
 1 Sink into Stupor // Soporific Springs (MH3) 241
 1 Sol Ring (BRC) 160
@@ -98,3 +97,4 @@
 1 Watery Grave (UNF) 278
 1 Weatherlight (DOM) 237
 1 Worldwalker Helm (BIG) 37
+1 Xander's Lounge (SNC) 294

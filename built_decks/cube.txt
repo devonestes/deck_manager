@@ -1,9 +1,17 @@
 Arid Mesa (PROXY)
+Jetmir's Garden (PROXY)
+Ketria Triome (PROXY)
+Marsh Flats (PROXY)
 Sacred Foundry (PROXY)
+Savai Triome (PROXY)
 Skullclamp (PROXY)
 Solitude (PROXY)
 Stoneforge Mystic (PROXY)
 Temple Garden (PROXY)
+Urza's Saga (PROXY)
+Windswept Heath (PROXY)
+Wooded Foothills (PROXY)
+Xander's Lounge (PROXY)
 Abrade
 Adeline, Resplendent Cathar
 Agatha's Soul Cauldron
@@ -217,14 +225,12 @@ Jace, the Mind Sculptor
 Jace, Vryn's Prodigy // Jace, Telepath Unbound
 Jacked Rabbit
 Jegantha, the Wellspring
-Jetmir's Garden
 Kaervek, the Punisher
 Kaito Shizuki
 Kaldra Compleat
 Kappa Cannoneer
 Karakas
 Karn, Scion of Urza
-Ketria Triome
 Knight of the Reliquary
 Kroxa, Titan of Death's Hunger
 Kumano Faces Kakkazan // Etching of Kumano
@@ -261,7 +267,6 @@ Mana Tithe
 Mana Vault
 Manifold Key
 Marchesa, Dealer of Death
-Marsh Flats
 Memory Jar
 Memory Lapse
 Meticulous Archive
@@ -369,7 +374,6 @@ Samwise the Stouthearted
 Sanguine Evangelist
 Satya, Aetherflux Genius
 Satyr Wayfinder
-Savai Triome
 Savannah
 Scalding Tarn
 Scapeshift
@@ -501,7 +505,6 @@ Urborg, Tomb of Yawgmoth
 Uro, Titan of Nature's Wrath
 Ursine Monstrosity
 Urza, Lord High Artificer
-Urza's Saga
 Usher of the Fallen
 Valakut, the Molten Pinnacle
 Valgavoth, Terror Eater
@@ -523,15 +526,12 @@ Wheel of Fortune
 White Orchid Phantom
 White Plume Adventurer
 Wight of the Reliquary
-Windswept Heath
 Wishclaw Talisman
 Witch Enchanter // Witch-Blessed Meadow
-Wooded Foothills
 Woodfall Primus
 Worldspine Wurm
 Wrath of God
 Wrenn and Six
-Xander's Lounge
 Yavimaya, Cradle of Growth
 Yawgmoth's Will
 Zagoth Triome

@@ -8,6 +8,7 @@ Avenger of Zendikar
 Basking Broodscale
 Beast Whisperer
 Bennie Bracks, Zoologist
+Boseiju, Who Endures
 Bountiful Promenade
 Bristly Bill, Spine Sower
 Bulwark Ox
@@ -37,8 +38,7 @@ Farseek
 Felidar Retreat
 Fierce Guardianship
 Flooded Grove
-Forest
-Forest
+Floodfarm Verge
 Forest
 Forest
 Forest
@@ -80,7 +80,6 @@ Rhystic Study
 Ripples of Potential
 Safehold Elite
 Sea of Clouds
-Seaside Citadel
 Shrieking Drake
 Sol Ring
 Strength of the Harvest // Haven of the Harvest
@@ -94,6 +93,7 @@ Thirsting Roots
 Tyvar, the Pummeler
 Wave Goodbye
 Whitemane Lion
+Willowrush Verge
 Windswift Slice
 Witch Enchanter // Witch-Blessed Meadow
 Wolverine Riders

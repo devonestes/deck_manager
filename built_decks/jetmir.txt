@@ -4,7 +4,6 @@ Agate Instigator
 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
 Anim Pakal, Thousandth Moon
 Arbor Elf
-Archivist of Oghma
 Arid Mesa
 Aurelia, the Law Above
 Birds of Paradise
@@ -91,6 +90,7 @@ Thalia, Guardian of Thraben
 Toski, Bearer of Secrets
 Verdant Catacombs
 Voice of Victory
+Vryn Wingmare
 Weathered Wayfarer
 Wild Growth
 Windswept Heath

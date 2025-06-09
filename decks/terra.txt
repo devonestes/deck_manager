@@ -3,8 +3,10 @@
 1 Alesha, Who Laughs at Fate (FDN) 343
 1 Animate Dead (LEB) 93
 1 Arcane Signet (SLD) 1641
-1 Banon, the Returners' Leader (FIC) 78
+1 Archivist of Oghma (PLST) CLB-4
 1 Battlefield Forge (BRO) 257
+1 Blazemire Verge (DSK) 329
+1 Bleachbone Verge (DFT) 250
 1 Blood Crypt (RVR) 397
 1 Braids, Arisen Nightmare (DSC) 133
 1 Buried Alive (WTH) 63
@@ -19,14 +21,16 @@
 1 Dragonskull Summit (SLD) 458
 1 Esper Sentinel (H2R) 2
 1 Espers to Magicite (FIC) 43
-1 Exotic Orchard (MOC) 398
 1 Faithless Looting (BRC) 116
 1 Fear of Missing Out (DSK) 136
-1 Gau, Feral Youth (FIC) 55
+1 Fetid Heath (NCC) 401
 1 General Leo Cristophe (FIC) 20
+1 Gix, Yawgmoth Praetor (MB2) 245
 1 Goblin Bombardment (TMP) 179
 1 Godless Shrine (RVR) 401
+1 Graven Cairns (SHM) 272
 1 Grim Hireling (PLST) AFC-25
+1 High Market (FIC) 402
 1 Isolated Chapel (LCC) 337
 1 Joshua, Phoenix's Dominant // Phoenix, Warden of Fire (FIN) 397
 1 Kalitas, Traitor of Ghet (OGW) 86
@@ -37,15 +41,13 @@
 1 Lurrus of the Dream-Den (MUL) 51
 1 Marsh Flats (MH2) 437
 1 Michiko Konda, Truth Seeker (SOK) 19
-1 Mog, Moogle Warrior (FIC) 89
-7 Mountain (J22) 107
-1 Nomad Outpost (TDM) 263
+1 Morbid Opportunist (BLC) 183
+5 Mountain (J22) 107
 1 Orcish Bowmasters (LTR) 103
-1 Path of Ancestry (MOC) 418
 1 Path to Exile (MOC) 198
 1 Pinnacle Monk // Mystic Peak (MH3) 246
 1 Pitiless Plunderer (MB2) 46
-6 Plains (UNF) 240
+5 Plains (UNF) 240
 1 Preston, the Vanisher (J22) 8
 1 Ragavan, Nimble Pilferer (MUL) 21
 1 Reanimate (TMP) 151
@@ -53,7 +55,9 @@
 1 Rev, Tithe Extractor (J25) 45
 1 Ripples of Undeath (MH3) 107
 1 Rogue's Passage (LTC) 326
+1 Rugged Prairie (BLC) 327
 1 Ruinous Ultimatum (PIP) 220
+1 Savai Triome (IKO) 312
 1 Selfless Spirit (CLB) 706
 1 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel (FIN) 451
 1 Shadow, Mysterious Assassin (FIC) 50
@@ -61,24 +65,24 @@
 1 Siegfried, Famed Swordsman (FIC) 51
 1 Skullclamp (DST) 140
 1 Skyclave Apparition (M3C) 172
-1 Smoldering Marsh (BRC) 202
 1 Sol Ring (MOC) 381
 1 Solemn Simulacrum (BRC) 161
 1 Solitude (MH2) 32
 1 Sulfurous Springs (5ED) 424
 1 Summon: Knights of Round (FIN) 36
-6 Swamp (J22) 106
+1 Sunbillow Verge (DFT) 264
+5 Swamp (J22) 106
 1 Swords to Plowshares (MB2) 153
 1 Talisman of Conviction (LTC) 285
 1 Talisman of Hierarchy (LCC) 315
 1 Talisman of Indulgence (MRD) 255
 1 Teferi's Protection (SLD) 1691
+1 Threefold Thunderhulk (LCI) 265
 1 Thrill of Possibility (FDN) 210
 1 Tinybones, the Pickpocket (OTJ) 109
 1 Trouble in Pairs (MKC) 15
 1 Tymna the Weaver (C16) 48
-1 Vault of Champions (CMM) 667
+1 Urza's Saga (MB2) 114
 1 Victimize (MH3) 278
 1 Vile Entomber (MH2) 403
-1 Voice of Victory (TDM) 33
 1 Wheel of Fortune (3ED) 185

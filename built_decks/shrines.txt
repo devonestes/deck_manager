@@ -9,6 +9,7 @@ Bountiful Promenade
 Breeding Pool
 Brushland
 Cacophony Unleashed
+City of Brass
 Command Tower
 Cyclonic Rift
 Demonic Tutor
@@ -33,7 +34,6 @@ Go-Shintai of Hidden Cruelty
 Go-Shintai of Lost Wisdom
 Go-Shintai of Shared Purpose
 Greater Auramancy
-Hall of Heliod's Generosity
 Hallowed Fountain
 Heroic Intervention
 Honden of Cleansing Fire
@@ -46,12 +46,12 @@ Inquisitive Glimmer
 Island
 Jetmir's Garden
 Jukai Naturalist
+Ketria Triome
 Lush Portico
 Mirari's Wake
 Misty Rainforest
 Moat
 Moon-Blessed Cleric
-Mountain
 Mystic Remora
 Nessian Wanderer
 Overgrown Farmland
