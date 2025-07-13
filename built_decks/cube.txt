@@ -16,12 +16,11 @@ Abrade
 Adeline, Resplendent Cathar
 Agatha's Soul Cauldron
 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+Alpha Deathclaw
 Ancestral Recall
 Ancient Tomb
-Anger
 Animate Dead
 Anje's Ravager
-Arc Trail
 Archon of Cruelty
 Arena of Glory
 Armageddon
@@ -39,7 +38,6 @@ Basalt Monolith
 Batterskull
 Bayou
 Bazaar of Baghdad
-Beza, the Bounding Spring
 Birds of Paradise
 Bitter Triumph
 Black Lotus
@@ -49,9 +47,7 @@ Blightsteel Colossus
 Blood Crypt
 Bloodbraid Challenger
 Bloodchief's Thirst
-Bloodghast
 Bloodstained Mire
-Bloodthirsty Adversary
 Bloodtithe Harvester
 Blooming Marsh
 Bolas's Citadel
@@ -66,11 +62,11 @@ Brainstorm
 Brazen Borrower // Petty Theft
 Breeding Pool
 Briarbridge Tracker
-Bring to Light
 Broadside Bombardiers
 Burst Lightning
 Cabal Ritual
 Calamity, Galloping Inferno
+Candelabra of Tawnos
 Carnage Interpreter
 Cathar Commando
 Caustic Bronco
@@ -84,6 +80,7 @@ Chrome Host Seedshark
 Chrome Mox
 City of Traitors
 Coalition Relic
+Cogwork Librarian
 Collective Brutality
 Comet, Stellar Pup
 Commercial District
@@ -92,6 +89,7 @@ Concealing Curtains // Revealing Eye
 Consider
 Containment Priest
 Copperline Gorge
+Cori-Steel Cutter
 Corpse Dance
 Council's Judgment
 Counterspell
@@ -102,6 +100,7 @@ Crop Rotation
 Crucible of Worlds
 Cryptic Command
 Currency Converter
+Cut Down
 Dack Fayden
 Damn
 Dark Confidant
@@ -117,6 +116,7 @@ Delighted Halfling
 Demonic Tutor
 Detective's Phoenix
 Dig Through Time
+Dion, Bahamut's Dominant // Bahamut, Warden of Light
 Dismember
 Displacer Kitten
 Diversion Unit
@@ -126,7 +126,6 @@ Dryad of the Ilysian Grove
 Duress
 Eagles of the North
 Echo of Eons
-Elegant Parlor
 Elemental Eruption
 Elesh Norn // The Argent Etchings
 Elite Spellbinder
@@ -192,12 +191,14 @@ Glorybringer
 Goblin Rabblemaster
 Godless Shrine
 Goldspan Dragon
+Goldvein Hydra
 Golos, Tireless Pilgrim
 Grave Titan
 Green Sun's Zenith
 Grief
 Grim Monolith
 Griselbrand
+Grist, the Hunger Tide
 Gruul Turf
 Guide of Souls
 Gut, True Soul Zealot
@@ -205,11 +206,12 @@ Hallowed Fountain
 Haywire Mite
 Headliner Scarlett
 Hedge Maze
+Heritage Reclamation
 Hero of Bladehold
 Hexdrinker
+Hildibrand Manderville // Gentleman's Rise
 Horizon Canopy
 Hostile Investigator
-Huatli, Poet of Unity // Roar of the Fifth People
 Hullbreacher
 Hymn to Tourach
 Ignoble Hierarch
@@ -221,12 +223,12 @@ Inspiring Vantage
 Inti, Seneschal of the Sun
 Intrepid Adversary
 Invert Polarity
+Ivora, Insatiable Heir
 Jace, the Mind Sculptor
 Jace, Vryn's Prodigy // Jace, Telepath Unbound
 Jacked Rabbit
 Jegantha, the Wellspring
 Kaervek, the Punisher
-Kaito Shizuki
 Kaldra Compleat
 Kappa Cannoneer
 Karakas
@@ -266,9 +268,9 @@ Mana Leak
 Mana Tithe
 Mana Vault
 Manifold Key
-Marchesa, Dealer of Death
 Memory Jar
 Memory Lapse
+Metamorphosis Fanatic
 Meticulous Archive
 Mind Stone
 Mind Twist
@@ -318,6 +320,7 @@ Overlord of the Hauntwoods
 Palace Jailer
 Palantír of Orthanc
 Paradise Druid
+Paradoxical Outcome
 Parallax Wave
 Passageway Seer
 Path to Exile
@@ -340,7 +343,6 @@ Preacher of the Schism
 Preordain
 Primeval Titan
 Prismatic Ending
-Prismatic Omen
 Prismatic Vista
 Psychic Frog
 Pyrogoyf
@@ -356,10 +358,8 @@ Raucous Theater
 Raugrin Triome
 Razorverge Thicket
 Reanimate
-Reckless Pyrosurfer
 Reckless Stormseeker // Storm-Charged Slasher
 Reclamation Sage
-Recurring Nightmare
 Relic of Progenitus
 Relic of Sauron
 Remand
@@ -369,7 +369,6 @@ Retrofitter Foundry
 Rite of Flame
 Robber of the Rich
 Saheeli, Sublime Artificer
-Sakura-Tribe Elder
 Samwise the Stouthearted
 Sanguine Evangelist
 Satya, Aetherflux Genius
@@ -398,7 +397,6 @@ Shallow Grave
 Shelldock Isle
 Sheoldred, the Apocalypse
 Sheoldred's Edict
-Shoot the Sheriff
 Shorikai, Genesis Engine
 Show and Tell
 Silent Clearing
@@ -415,6 +413,7 @@ Soul-Guide Lantern
 Sowing Mycospawn
 Spara's Headquarters
 Spell Pierce
+Spellbook Vendor
 Spellseeker
 Spirebluff Canal
 Springheart Nantuko
@@ -424,10 +423,12 @@ Stomping Ground
 Strip Mine
 Student of Warfare
 Subtlety
-Sun-Blessed Healer
+Summon: Yojimbo
 Sunbaked Canyon
-Sundering Titan
+Sunbillow Verge
 Sunfall
+Suplex
+Surrak, Elusive Hunter
 Survival of the Fittest
 Suspicious Stowaway // Seafaring Werewolf
 Sword of the Meek
@@ -451,6 +452,7 @@ Teferi, Hero of Dominaria
 Teferi, Time Raveler
 Tendrils of Agony
 Territorial Kavu
+Tersa Lightshatter
 Thalia, Guardian of Thraben
 Thassa's Oracle
 The One Ring
@@ -477,7 +479,6 @@ Tolarian Academy
 Torsten, Founder of Benalia
 Touch the Spirit Realm
 Toxic Deluge
-Treachery
 Treasure Cruise
 Tribal Flames
 Trinket Mage
@@ -488,7 +489,7 @@ True-Name Nemesis
 Trumpeting Carnosaur
 Tundra
 Ulamog, the Ceaseless Hunger
-Ulamog, the Infinite Gyre
+Ultima
 Ulvenwald Oddity // Ulvenwald Behemoth
 Umezawa's Jitte
 Undercity Sewers
@@ -508,14 +509,13 @@ Urza, Lord High Artificer
 Usher of the Fallen
 Valakut, the Molten Pinnacle
 Valgavoth, Terror Eater
-Valki, God of Lies // Tibalt, Cosmic Impostor
 Vampiric Tutor
 Vaultborn Tyrant
 Vendilion Clique
 Verdant Catacombs
 Vindicate
-Virtue of Loyalty // Ardenvale Fealty
 Virtue of Persistence // Locthwain Scorn
+Vivi Ornitier
 Volcanic Island
 Voldaren Epicure
 Walking Ballista

@@ -1,6 +1,7 @@
 Terra, Herald of Hope
 Accursed Marauder
 Alesha, Who Laughs at Fate
+Alesha, Who Smiles at Death
 Animate Dead
 Arcane Signet
 Archivist of Oghma
@@ -35,10 +36,10 @@ Isolated Chapel
 Joshua, Phoenix's Dominant // Phoenix, Warden of Fire
 Kalitas, Traitor of Ghet
 Karmic Guide
+Konda, Lord of Eiganjo
 Lightning Greaves
 Locke, Treasure Hunter
 Loran of the Third Path
-Lurrus of the Dream-Den
 Marsh Flats
 Michiko Konda, Truth Seeker
 Morbid Opportunist
@@ -59,7 +60,6 @@ Plains
 Preston, the Vanisher
 Ragavan, Nimble Pilferer
 Reanimate
-Rejoin the Fight
 Rev, Tithe Extractor
 Ripples of Undeath
 Rogue's Passage
@@ -91,10 +91,10 @@ Talisman of Indulgence
 Teferi's Protection
 Threefold Thunderhulk
 Thrill of Possibility
-Tinybones, the Pickpocket
 Trouble in Pairs
 Tymna the Weaver
 Urza's Saga
 Victimize
 Vile Entomber
 Wheel of Fortune
+Wingmate Roc

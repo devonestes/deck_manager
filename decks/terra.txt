@@ -1,6 +1,7 @@
 1 Terra, Herald of Hope (FIC) 4
 1 Accursed Marauder (MH3) 80
 1 Alesha, Who Laughs at Fate (FDN) 343
+1 Alesha, Who Smiles at Death (FRF) 90
 1 Animate Dead (LEB) 93
 1 Arcane Signet (SLD) 1641
 1 Archivist of Oghma (PLST) CLB-4
@@ -35,10 +36,10 @@
 1 Joshua, Phoenix's Dominant // Phoenix, Warden of Fire (FIN) 397
 1 Kalitas, Traitor of Ghet (OGW) 86
 1 Karmic Guide (MH2) 263
+1 Konda, Lord of Eiganjo (CHK) 30
 1 Lightning Greaves (SLD) 1493
 1 Locke, Treasure Hunter (FIC) 87
 1 Loran of the Third Path (BRO) 12
-1 Lurrus of the Dream-Den (MUL) 51
 1 Marsh Flats (MH2) 437
 1 Michiko Konda, Truth Seeker (SOK) 19
 1 Morbid Opportunist (BLC) 183
@@ -51,7 +52,6 @@
 1 Preston, the Vanisher (J22) 8
 1 Ragavan, Nimble Pilferer (MUL) 21
 1 Reanimate (TMP) 151
-1 Rejoin the Fight (FIC) 49
 1 Rev, Tithe Extractor (J25) 45
 1 Ripples of Undeath (MH3) 107
 1 Rogue's Passage (LTC) 326
@@ -79,10 +79,10 @@
 1 Teferi's Protection (SLD) 1691
 1 Threefold Thunderhulk (LCI) 265
 1 Thrill of Possibility (FDN) 210
-1 Tinybones, the Pickpocket (OTJ) 109
 1 Trouble in Pairs (MKC) 15
 1 Tymna the Weaver (C16) 48
 1 Urza's Saga (MB2) 114
 1 Victimize (MH3) 278
 1 Vile Entomber (MH2) 403
 1 Wheel of Fortune (3ED) 185
+1 Wingmate Roc (KTK) 31

@@ -7,6 +7,7 @@
 1 Agatha's Champion (WOE) 160
 1 Agonizing Remorse (STA) 24
 1 Ahn-Crop Crasher (J25) 514
+1 Alseid of Life's Bounty (PLST) THB-1
 1 Ambush Viper (CMR) 213
 1 Amethyst Dragon // Explosive Crystal (CLB) 160
 1 Anafenza, Kin-Tree Spirit (MUL) 1
@@ -287,6 +288,7 @@
 1 Mayhem Devil (WAR) 204
 1 Meat Locker // Drowned Diner (DSK) 65
 1 Memory Lapse (5ED) 103
+1 Mentor of the Meek (J25) 99
 1 Metallic Mimic (LCC) 308
 1 Meteor Golem (FDN) 256
 1 Meticulous Archive (MKM) 328
@@ -401,6 +403,7 @@
 1 Rootbound Crag (SLD) 459
 1 Rosie Cotton of South Lane (LTR) 27
 1 Rubblebelt Maverick (MKM) 174
+1 Rumor Gatherer (PLST) SNC-29
 1 Sacred Foundry (RVR) 409
 1 Sakura-Tribe Elder (CHK) 239
 1 Sandstone Oracle (CMM) 406
@@ -447,6 +450,7 @@
 1 Spectral Procession (SHM) 23
 1 Spider Spawning (INR) 419
 1 Spinewoods Paladin (OTJ) 183
+1 Spirit Mantle (PLST) M12-35
 1 Spiteful Prankster (PLST) JMP-26
 1 Splash Lasher (BLB) 73
 1 Sprite Dragon (IKO) 211
@@ -511,6 +515,7 @@
 1 Untethered Express (AER) 179
 1 Usher of the Fallen (KHM) 35
 1 Utopia Sprawl (RVR) 159
+1 Valorous Stance (J22) 263
 1 Vampire Gourmand (FDN) 74
 1 Vampire Nighthawk (FDN) 186
 1 Vampire Sovereign (M19) 125

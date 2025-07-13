@@ -30,6 +30,7 @@ Guide of Souls
 Idol of Oblivion
 Impact Tremors
 Iroas, God of Victory
+Irregular Cohort
 Lightning Greaves
 Loran of the Third Path
 Maskwood Nexus
@@ -86,13 +87,12 @@ Strionic Resonator
 Summon: Choco/Mog
 Summon: Good King Mog XII
 Sun Titan
-Sunbillow Verge
 Sunscorched Divide
-Swiftfoot Boots
 Swords to Plowshares
 Talisman of Conviction
 Tataru Taru
 Taurean Mauler
+Temple of Triumph
 The Wind Crystal
 Three Tree Mascot
 Toby, Beastie Befriender

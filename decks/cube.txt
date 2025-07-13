@@ -2,19 +2,18 @@
 1 Adeline, Resplendent Cathar (DBL) 1
 1 Agatha's Soul Cauldron (WOE) 242
 1 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger (MH3) 237
+1 Alpha Deathclaw (PIP) 91
 1 Ancestral Recall (2ED) 48
 1 Ancient Tomb (TMP) 315
-1 Anger (M3C) 208
 1 Animate Dead (LEB) 93
 1 Anje's Ravager (C19) 22
-1 Arc Trail (SOM) 81
 1 Archon of Cruelty (MH2) 75
 1 Arena of Glory (MH3) 215
 1 Arid Mesa (MH2) 436
 1 Armageddon (4ED) 5
 1 Arwen, Mortal Queen (LTR) 193
 1 Ashen Rider (AFC) 175
-1 Atraxa, Grand Unifier (ONE) 316
+1 Atraxa, Grand Unifier (FCA) 49
 1 Augur of Autumn (DSC) 171
 1 Avacyn's Pilgrim (ISD) 170
 1 Badlands (3ED) 282
@@ -26,7 +25,6 @@
 1 Batterskull (NPH) 130
 1 Bayou (3ED) 283
 1 Bazaar of Baghdad (ARN) 70
-1 Beza, the Bounding Spring (BLB) 2
 1 Birds of Paradise (M12) 165
 1 Bitter Triumph (LCI) 91
 1 Black Lotus (2ED) 233
@@ -36,12 +34,10 @@
 1 Blood Crypt (RVR) 397
 1 Bloodbraid Challenger (M3C) 122
 1 Bloodchief's Thirst (ZNR) 94
-1 Bloodghast (ZEN) 83
 1 Bloodstained Mire (MH3) 435
-1 Bloodthirsty Adversary (OTC) 157
 1 Bloodtithe Harvester (VOW) 310
 1 Blooming Marsh (KLD) 243
-1 Bolas's Citadel (SLD) 1187
+1 Bolas's Citadel (FCA) 7
 1 Bone Shards (MH2) 76
 1 Bonecrusher Giant // Stomp (ELD) 115
 1 Bonehoard Dracosaur (LCI) 321
@@ -49,15 +45,15 @@
 1 Boseiju, Who Endures (NEO) 266
 1 Botanical Sanctum (KLD) 244
 1 Brain Freeze (SCG) 29
-1 Brainstorm (MB2) 155
+1 Brainstorm (FCA) 28
 1 Brazen Borrower // Petty Theft (SLD) 234
 1 Breeding Pool (RVR) 399
 1 Briarbridge Tracker (MID) 361
-1 Bring to Light (2X2) 188
 1 Broadside Bombardiers (LCC) 86
 1 Burst Lightning (FDN) 192
 1 Cabal Ritual (MB2) 177
 1 Calamity, Galloping Inferno (OTJ) 116
+1 Candelabra of Tawnos (ATQ) 43
 1 Carnage Interpreter (CLU) 26
 1 Cathar Commando (FDN) 139
 1 Caustic Bronco (OTJ) 82
@@ -71,6 +67,7 @@
 1 Chrome Mox (2XM) 240
 1 City of Traitors (EXO) 143
 1 Coalition Relic (M3C) 286
+1 Cogwork Librarian (CNS) 58
 1 Collective Brutality (PLST) EMN-85
 1 Comet, Stellar Pup (MB2) 79
 1 Commercial District (MKM) 324
@@ -79,9 +76,10 @@
 1 Consider (MKC) 98
 1 Containment Priest (M21) 13
 1 Copperline Gorge (ONE) 371
+1 Cori-Steel Cutter (TDM) 103
 1 Corpse Dance (TMP) 116
 1 Council's Judgment (OTC) 79
-1 Counterspell (TMP) 57
+1 Counterspell (FCA) 4
 1 Coveted Jewel (BLC) 268
 1 Crabomination (MH3) 85
 1 Creeping Tar Pit (CLB) 888
@@ -89,9 +87,10 @@
 1 Crucible of Worlds (M19) 229
 1 Cryptic Command (IMA) 48
 1 Currency Converter (NCC) 81
+1 Cut Down (DMU) 432
 1 Dack Fayden (MB2) 80
 1 Damn (MH2) 80
-1 Dark Confidant (RVR) 323
+1 Dark Confidant (FIN) 94
 1 Dark Depths (M3C) 334
 1 Dark Ritual (3ED) 99
 1 Darkslick Shores (ZNE) 12
@@ -104,6 +103,7 @@
 1 Demonic Tutor (3ED) 105
 1 Detective's Phoenix (MH3) 116
 1 Dig Through Time (KTK) 36
+1 Dion, Bahamut's Dominant // Bahamut, Warden of Light (FIN) 376
 1 Dismember (NPH) 57
 1 Displacer Kitten (CLB) 63
 1 Diversion Unit (DFT) 41
@@ -113,7 +113,6 @@
 1 Duress (ONE) 92
 1 Eagles of the North (LTR) 7
 1 Echo of Eons (MH1) 46
-1 Elegant Parlor (MKM) 325
 1 Elemental Eruption (OTC) 27
 1 Elesh Norn // The Argent Etchings (MOM) 12
 1 Elite Spellbinder (STX) 17
@@ -144,7 +143,7 @@
 1 Fallen Shinobi (MH1) 199
 1 Fanatic of Rhonas (MH3) 458
 1 Fastbond (LEB) 193
-1 Fatal Push (ACR) 90
+1 Fatal Push (FCA) 9
 1 Feywild Caretaker (CLB) 69
 1 Field of the Dead (M20) 247
 1 Fiery Confluence (LCC) 226
@@ -179,24 +178,27 @@
 1 Goblin Rabblemaster (DDT) 46
 1 Godless Shrine (RVR) 401
 1 Goldspan Dragon (J22) 550
+1 Goldvein Hydra (OTJ) 167
 1 Golos, Tireless Pilgrim (M20) 226
 1 Grave Titan (C14) 145
 1 Green Sun's Zenith (2X2) 150
 1 Grief (MH2) 87
 1 Grim Monolith (ULG) 126
 1 Griselbrand (AVR) 106
-1 Gruul Turf (C20) 279
+1 Grist, the Hunger Tide (MH2) 202
+1 Gruul Turf (C16) 300
 1 Guide of Souls (MH3) 29
 1 Gut, True Soul Zealot (CLB) 399
 1 Hallowed Fountain (RVR) 404
 1 Haywire Mite (BRO) 199
 1 Headliner Scarlett (CLU) 4
 1 Hedge Maze (MKM) 326
+1 Heritage Reclamation (TDM) 145
 1 Hero of Bladehold (MOC) 188
 1 Hexdrinker (MH1) 168
+1 Hildibrand Manderville // Gentleman's Rise (FIC) 83
 1 Horizon Canopy (WHO) 287
 1 Hostile Investigator (BIG) 40
-1 Huatli, Poet of Unity // Roar of the Fifth People (LCI) 189
 1 Hullbreacher (CMR) 74
 1 Hymn to Tourach (FEM) 38d
 1 Ignoble Hierarch (MH2) 166
@@ -208,13 +210,13 @@
 1 Inti, Seneschal of the Sun (LCI) 156
 1 Intrepid Adversary (MID) 25
 1 Invert Polarity (MH3) 190
+1 Ivora, Insatiable Heir (J25) 50
 1 Jace, the Mind Sculptor (2XM) 334
 1 Jace, Vryn's Prodigy // Jace, Telepath Unbound (ORI) 60
 1 Jacked Rabbit (BLC) 9
 1 Jegantha, the Wellspring (MUL) 44
 1 Jetmir's Garden (SNC) 291
 1 Kaervek, the Punisher (OTJ) 92
-1 Kaito Shizuki (NEO) 226
 1 Kaldra Compleat (MH2) 227
 1 Kappa Cannoneer (NEC) 14
 1 Karakas (LEG) 303
@@ -255,10 +257,10 @@
 1 Mana Tithe (TSR) 26
 1 Mana Vault (2ED) 260
 1 Manifold Key (CLB) 319
-1 Marchesa, Dealer of Death (OTJ) 220
 1 Marsh Flats (MH2) 437
 1 Memory Jar (ULG) 129
 1 Memory Lapse (5ED) 103
+1 Metamorphosis Fanatic (DSC) 21
 1 Meticulous Archive (MKM) 328
 1 Mind Stone (MOC) 364
 1 Mind Twist (4ED) 147
@@ -280,7 +282,7 @@
 1 Mystic Confluence (LTC) 193
 1 Mystical Tutor (MIR) 80
 1 Nadu, Winged Wisdom (MH3) 377
-1 Narset, Parter of Veils (WAR) 61
+1 Narset, Parter of Veils (WAR) 61★
 1 Natural Order (EMA) 177
 1 Necromancy (VIS) 64
 1 Nethergoyf (MH3) 454
@@ -290,7 +292,7 @@
 1 No More Lies (MKM) 221
 1 Noble Hierarch (2XM) 177
 1 Nurturing Peatland (MH1) 243
-1 Oath of Druids (G01) 2
+1 Oath of Druids (MB2) 212
 1 Ocelot Pride (MH3) 394
 1 Oko, Thief of Crowns (OTP) 50
 1 Oliphaunt (LTR) 426
@@ -308,6 +310,7 @@
 1 Palace Jailer (LTC) 174
 1 Palantír of Orthanc (LTR) 381
 1 Paradise Druid (SLD) 775
+1 Paradoxical Outcome (TSR) 314
 1 Parallax Wave (NEM) 17
 1 Passageway Seer (CLB) 141
 1 Path to Exile (MOC) 198
@@ -328,9 +331,8 @@
 1 Portal to Phyrexia (BRO) 240
 1 Preacher of the Schism (LCI) 113
 1 Preordain (LTC) 196
-1 Primeval Titan (TSR) 365
+1 Primeval Titan (FCA) 48
 1 Prismatic Ending (MH2) 384
-1 Prismatic Omen (WOT) 60
 1 Prismatic Vista (SPG) 38
 1 Psychic Frog (MH3) 344
 1 Pyrogoyf (M3C) 111
@@ -346,10 +348,8 @@
 1 Raugrin Triome (IKO) 311
 1 Razorverge Thicket (ONE) 257
 1 Reanimate (TMP) 151
-1 Reckless Pyrosurfer (MH3) 133
 1 Reckless Stormseeker // Storm-Charged Slasher (MID) 157
 1 Reclamation Sage (LTC) 259
-1 Recurring Nightmare (EXO) 72
 1 Relic of Progenitus (MMA) 213
 1 Relic of Sauron (LTC) 79
 1 Remand (J25) 349
@@ -360,7 +360,6 @@
 1 Robber of the Rich (ELD) 138
 1 Sacred Foundry (RVR) 409
 1 Saheeli, Sublime Artificer (MOC) 338
-1 Sakura-Tribe Elder (CHK) 239
 1 Samwise the Stouthearted (LTR) 306
 1 Sanguine Evangelist (LCI) 34
 1 Satya, Aetherflux Genius (M3C) 3
@@ -390,7 +389,6 @@
 1 Shelldock Isle (PLST) LRW-272
 1 Sheoldred, the Apocalypse (DMU) 107
 1 Sheoldred's Edict (ONE) 108
-1 Shoot the Sheriff (OTJ) 106
 1 Shorikai, Genesis Engine (NEC) 4
 1 Show and Tell (USG) 96
 1 Silent Clearing (MH1) 246
@@ -399,7 +397,7 @@
 1 Skullclamp (DST) 140
 1 Skyclave Apparition (M3C) 172
 1 Slickshot Show-Off (OTJ) 146
-1 Smuggler's Copter (NEC) 160
+1 Smuggler's Copter (FCA) 62
 1 Snapcaster Mage (ISD) 78
 1 Sneak Attack (EMA) 148
 1 Snuff Out (GVL) 53
@@ -409,6 +407,7 @@
 1 Sowing Mycospawn (MH3) 340
 1 Spara's Headquarters (SNC) 293
 1 Spell Pierce (DFT) 64
+1 Spellbook Vendor (WOE) 31
 1 Spellseeker (BBD) 41
 1 Spirebluff Canal (KLD) 249
 1 Springheart Nantuko (MH3) 341
@@ -419,10 +418,12 @@
 1 Strip Mine (ATH) 77
 1 Student of Warfare (ROE) 47
 1 Subtlety (H2R) 6
-1 Sun-Blessed Healer (FDN) 25
+1 Summon: Yojimbo (FIC) 28
 1 Sunbaked Canyon (MH1) 247
-1 Sundering Titan (DST) 146
+1 Sunbillow Verge (DFT) 264
 1 Sunfall (MOM) 40
+1 Suplex (FIN) 164
+1 Surrak, Elusive Hunter (TDM) 161
 1 Survival of the Fittest (EXO) 129
 1 Suspicious Stowaway // Seafaring Werewolf (MID) 80
 1 Sword of the Meek (BRR) 59
@@ -432,7 +433,7 @@
 1 Sylvan Safekeeper (MH3) 287
 1 Taiga (3ED) 287
 1 Talisman of Conviction (LTC) 285
-1 Talisman of Creativity (MH1) 231
+1 Talisman of Creativity (M3C) 308
 1 Talisman of Curiosity (MKC) 241
 1 Talisman of Dominance (MRD) 253
 1 Talisman of Indulgence (MRD) 255
@@ -447,6 +448,7 @@
 1 Temple Garden (RVR) 414
 1 Tendrils of Agony (STA) 34
 1 Territorial Kavu (MH2) 216
+1 Tersa Lightshatter (TDM) 345
 1 Thalia, Guardian of Thraben (VOW) 38
 1 Thassa's Oracle (MB2) 175
 1 The One Ring (LTR) 697
@@ -473,7 +475,6 @@
 1 Torsten, Founder of Benalia (DMC) 47
 1 Touch the Spirit Realm (NEO) 40
 1 Toxic Deluge (C13) 96
-1 Treachery (UDS) 50
 1 Treasure Cruise (OTC) 120
 1 Tribal Flames (DDE) 51
 1 Trinket Mage (5DN) 39
@@ -484,7 +485,7 @@
 1 Trumpeting Carnosaur (LCI) 171
 1 Tundra (3ED) 289
 1 Ulamog, the Ceaseless Hunger (CMM) 670
-1 Ulamog, the Infinite Gyre (ROE) 12
+1 Ultima (FIN) 38
 1 Ulvenwald Oddity // Ulvenwald Behemoth (VOW) 225
 1 Umezawa's Jitte (BOK) 163
 1 Undercity Sewers (MKM) 332
@@ -500,19 +501,18 @@
 1 Urborg, Tomb of Yawgmoth (LTC) 375
 1 Uro, Titan of Nature's Wrath (MB2) 93
 1 Ursine Monstrosity (DSC) 63
-1 Urza, Lord High Artificer (CMM) 674
+1 Urza, Lord High Artificer (FCA) 5
 1 Urza's Saga (MB2) 114
 1 Usher of the Fallen (KHM) 35
 1 Valakut, the Molten Pinnacle (ZEN) 228
 1 Valgavoth, Terror Eater (DSK) 120
-1 Valki, God of Lies // Tibalt, Cosmic Impostor (KHM) 286
 1 Vampiric Tutor (6ED) 161
 1 Vaultborn Tyrant (BIG) 50
 1 Vendilion Clique (MMA) 70
 1 Verdant Catacombs (MH2) 440
 1 Vindicate (A25) 219
-1 Virtue of Loyalty // Ardenvale Fealty (WOE) 38
 1 Virtue of Persistence // Locthwain Scorn (WOE) 115
+1 Vivi Ornitier (FIN) 321
 1 Volcanic Island (3ED) 291
 1 Voldaren Epicure (J25) 613
 1 Walking Ballista (AER) 181
