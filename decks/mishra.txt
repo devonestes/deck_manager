@@ -42,7 +42,6 @@
 1 Knight Paladin (40K) 160
 1 Lightning Greaves (LTC) 281
 1 Luxury Suite (ZNE) 18
-1 Magmatic Galleon (LCI) 157
 1 Mana Drain (CMR) 80
 1 Mana Vault (2ED) 260
 1 Metalworker (UDS) 135
@@ -51,6 +50,7 @@
 1 Morphic Pool (ZNE) 17
 1 Mountain (BRC) 35
 1 Mox Opal (2XM) 275
+1 Mutinous Massacre (EOE) 222
 1 Mystic Forge (CMM) 964
 1 Palantír of Orthanc (LTR) 381
 1 Polluted Delta (KTK) 239
@@ -58,7 +58,6 @@
 1 Reaver Titan (40K) 163
 1 Relic of Sauron (LTC) 79
 1 RMS Titanic (WHO) 93
-1 Rolling Hamsphere (BLC) 39
 1 Scalding Tarn (MM3) 244
 1 Seat of the Synod (BRC) 198
 1 Sensei's Divining Top (2X2) 398
@@ -94,6 +93,7 @@
 1 Urza's Saga (MH2) 259
 1 Vault of Whispers (BRC) 211
 1 Volcanic Island (3ED) 291
+1 Warmaker Gunship (EOE) 167
 1 Watery Grave (UNF) 278
 1 Weatherlight (DOM) 237
 1 Worldwalker Helm (BIG) 37

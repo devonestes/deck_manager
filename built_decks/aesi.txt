@@ -33,6 +33,7 @@ Forest
 Forest
 Forest
 Forest
+Genemorph Imago
 Greensleeves, Maro-Sorcerer
 Growth Spiral
 Guildless Commons
@@ -66,7 +67,6 @@ Overlord of the Hauntwoods
 Planar Genesis
 Polluted Delta
 Prismatic Vista
-PuPu UFO
 Rampaging Baloths
 Ramunap Excavator
 Reliquary Tower

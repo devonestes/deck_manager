@@ -25,24 +25,22 @@ Archon of Cruelty
 Arena of Glory
 Armageddon
 Arwen, Mortal Queen
-Ashen Rider
 Atraxa, Grand Unifier
 Augur of Autumn
 Avacyn's Pilgrim
+Aven Interrupter
 Badlands
 Balance
 Baleful Mastery
 Baleful Strix
 Barrowgoyf
 Basalt Monolith
-Batterskull
 Bayou
 Bazaar of Baghdad
 Birds of Paradise
 Bitter Triumph
 Black Lotus
 Blackcleave Cliffs
-Blade Splicer
 Blightsteel Colossus
 Blood Crypt
 Bloodbraid Challenger
@@ -103,7 +101,6 @@ Currency Converter
 Cut Down
 Dack Fayden
 Damn
-Dark Confidant
 Dark Depths
 Dark Ritual
 Darkslick Shores
@@ -401,6 +398,7 @@ Shorikai, Genesis Engine
 Show and Tell
 Silent Clearing
 Simic Growth Chamber
+Sin, Spira's Punishment
 Six
 Skyclave Apparition
 Slickshot Show-Off
@@ -413,7 +411,6 @@ Soul-Guide Lantern
 Sowing Mycospawn
 Spara's Headquarters
 Spell Pierce
-Spellbook Vendor
 Spellseeker
 Spirebluff Canal
 Springheart Nantuko
@@ -427,6 +424,7 @@ Summon: Yojimbo
 Sunbaked Canyon
 Sunbillow Verge
 Sunfall
+Sunset Saboteur
 Suplex
 Surrak, Elusive Hunter
 Survival of the Fittest
@@ -455,6 +453,7 @@ Territorial Kavu
 Tersa Lightshatter
 Thalia, Guardian of Thraben
 Thassa's Oracle
+The Endstone
 The One Ring
 The Wandering Emperor
 Thespian's Stage
@@ -516,6 +515,7 @@ Verdant Catacombs
 Vindicate
 Virtue of Persistence // Locthwain Scorn
 Vivi Ornitier
+Voice of Victory
 Volcanic Island
 Voldaren Epicure
 Walking Ballista

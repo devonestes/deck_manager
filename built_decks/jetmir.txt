@@ -19,6 +19,7 @@ Clifftop Retreat
 Collector Ouphe
 Combat Celebrant
 Command Tower
+Dalkovan Packbeasts
 Doorkeeper Thrull
 Dryad Arbor
 Eiganjo, Seat of the Empire
@@ -55,7 +56,6 @@ Mountain
 Myrel, Shield of Argive
 Ocelot Pride
 Ohran Frostfang
-Oltec Matterweaver
 Plains
 Plains
 Plains

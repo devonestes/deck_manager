@@ -42,7 +42,6 @@ Karn, Legacy Reforged
 Knight Paladin
 Lightning Greaves
 Luxury Suite
-Magmatic Galleon
 Mana Drain
 Mana Vault
 Metalworker
@@ -51,6 +50,7 @@ Mindslaver
 Morphic Pool
 Mountain
 Mox Opal
+Mutinous Massacre
 Mystic Forge
 Palantír of Orthanc
 Polluted Delta
@@ -58,7 +58,6 @@ Portal to Phyrexia
 Reaver Titan
 Relic of Sauron
 RMS Titanic
-Rolling Hamsphere
 Scalding Tarn
 Seat of the Synod
 Sensei's Divining Top
@@ -94,6 +93,7 @@ Urza, Lord High Artificer
 Urza's Saga
 Vault of Whispers
 Volcanic Island
+Warmaker Gunship
 Watery Grave
 Weatherlight
 Worldwalker Helm

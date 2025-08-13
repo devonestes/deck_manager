@@ -12,24 +12,22 @@
 1 Arid Mesa (MH2) 436
 1 Armageddon (4ED) 5
 1 Arwen, Mortal Queen (LTR) 193
-1 Ashen Rider (AFC) 175
 1 Atraxa, Grand Unifier (FCA) 49
 1 Augur of Autumn (DSC) 171
 1 Avacyn's Pilgrim (ISD) 170
+1 Aven Interrupter (PWCS) 2024-08
 1 Badlands (3ED) 282
 1 Balance (3ED) 3
 1 Baleful Mastery (OTC) 126
 1 Baleful Strix (MKC) 200
 1 Barrowgoyf (M3C) 102
 1 Basalt Monolith (LEB) 232
-1 Batterskull (NPH) 130
 1 Bayou (3ED) 283
 1 Bazaar of Baghdad (ARN) 70
 1 Birds of Paradise (M12) 165
 1 Bitter Triumph (LCI) 91
 1 Black Lotus (2ED) 233
 1 Blackcleave Cliffs (OTC) 272
-1 Blade Splicer (MOC) 175
 1 Blightsteel Colossus (MBS) 99
 1 Blood Crypt (RVR) 397
 1 Bloodbraid Challenger (M3C) 122
@@ -45,7 +43,7 @@
 1 Boseiju, Who Endures (NEO) 266
 1 Botanical Sanctum (KLD) 244
 1 Brain Freeze (SCG) 29
-1 Brainstorm (FCA) 28
+1 Brainstorm (ICE) 61
 1 Brazen Borrower // Petty Theft (SLD) 234
 1 Breeding Pool (RVR) 399
 1 Briarbridge Tracker (MID) 361
@@ -79,7 +77,7 @@
 1 Cori-Steel Cutter (TDM) 103
 1 Corpse Dance (TMP) 116
 1 Council's Judgment (OTC) 79
-1 Counterspell (FCA) 4
+1 Counterspell (4ED) 65
 1 Coveted Jewel (BLC) 268
 1 Crabomination (MH3) 85
 1 Creeping Tar Pit (CLB) 888
@@ -90,7 +88,6 @@
 1 Cut Down (DMU) 432
 1 Dack Fayden (MB2) 80
 1 Damn (MH2) 80
-1 Dark Confidant (FIN) 94
 1 Dark Depths (M3C) 334
 1 Dark Ritual (3ED) 99
 1 Darkslick Shores (ZNE) 12
@@ -393,6 +390,7 @@
 1 Show and Tell (USG) 96
 1 Silent Clearing (MH1) 246
 1 Simic Growth Chamber (CM2) 267
+1 Sin, Spira's Punishment (FIN) 242
 1 Six (MH3) 370
 1 Skullclamp (DST) 140
 1 Skyclave Apparition (M3C) 172
@@ -407,7 +405,6 @@
 1 Sowing Mycospawn (MH3) 340
 1 Spara's Headquarters (SNC) 293
 1 Spell Pierce (DFT) 64
-1 Spellbook Vendor (WOE) 31
 1 Spellseeker (BBD) 41
 1 Spirebluff Canal (KLD) 249
 1 Springheart Nantuko (MH3) 341
@@ -422,6 +419,7 @@
 1 Sunbaked Canyon (MH1) 247
 1 Sunbillow Verge (DFT) 264
 1 Sunfall (MOM) 40
+1 Sunset Saboteur (EOE) 116
 1 Suplex (FIN) 164
 1 Surrak, Elusive Hunter (TDM) 161
 1 Survival of the Fittest (EXO) 129
@@ -451,6 +449,7 @@
 1 Tersa Lightshatter (TDM) 345
 1 Thalia, Guardian of Thraben (VOW) 38
 1 Thassa's Oracle (MB2) 175
+1 The Endstone (EOE) 240
 1 The One Ring (LTR) 697
 1 The Wandering Emperor (NEO) 316
 1 Thespian's Stage (C19) 282
@@ -501,7 +500,7 @@
 1 Urborg, Tomb of Yawgmoth (LTC) 375
 1 Uro, Titan of Nature's Wrath (MB2) 93
 1 Ursine Monstrosity (DSC) 63
-1 Urza, Lord High Artificer (FCA) 5
+1 Urza, Lord High Artificer (CMM) 674
 1 Urza's Saga (MB2) 114
 1 Usher of the Fallen (KHM) 35
 1 Valakut, the Molten Pinnacle (ZEN) 228
@@ -513,6 +512,7 @@
 1 Vindicate (A25) 219
 1 Virtue of Persistence // Locthwain Scorn (WOE) 115
 1 Vivi Ornitier (FIN) 321
+1 Voice of Victory (TDM) 33
 1 Volcanic Island (3ED) 291
 1 Voldaren Epicure (J25) 613
 1 Walking Ballista (AER) 181

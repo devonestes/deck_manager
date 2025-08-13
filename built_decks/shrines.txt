@@ -73,7 +73,6 @@ Sanctum Weaver
 Sea of Clouds
 Setessan Champion
 Shadow of the Second Sun
-Shrine Steward
 Sol Ring
 Spara's Headquarters
 Spectator Seating
@@ -92,6 +91,7 @@ Valgavoth's Lair
 Verdant Catacombs
 Verduran Enchantress
 Watery Grave
+Weftwalking
 Windswept Heath
 Wooded Bastion
 Wooded Foothills

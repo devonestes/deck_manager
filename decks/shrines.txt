@@ -73,7 +73,6 @@
 1 Sea of Clouds (BBD) 84
 1 Setessan Champion (CMM) 912
 1 Shadow of the Second Sun (MH3) 70
-1 Shrine Steward (NEO) 259
 1 Sol Ring (3ED) 274
 1 Spara's Headquarters (SNC) 293
 1 Spectator Seating (CMM) 664
@@ -92,6 +91,7 @@
 1 Verdant Catacombs (MM3) 249
 1 Verduran Enchantress (4ED) 281
 1 Watery Grave (UNF) 278
+1 Weftwalking (EOE) 86
 1 Windswept Heath (EXP) 20
 1 Wooded Bastion (SHM) 281
 1 Wooded Foothills (KTK) 249
