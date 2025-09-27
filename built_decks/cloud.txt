@@ -23,12 +23,12 @@ Command Tower
 Commercial District
 Conformer Shuriken
 Cultivate
-Danitha Capashen, Paragon
 Dragonfire Blade
 Embercleave
 Excalibur, Sword of Eden
 Farseek
 Fire-Lit Thicket
+Sram, Senior Edificer
 Forest
 Forest
 Genji Glove
@@ -39,10 +39,12 @@ Helm of the Host
 Hushwood Verge
 Jetmir's Garden
 Jor Kadeen, First Goldwarden
+Jungle Shrine
 Kodama of the West Tree
 Leyline Axe
 Mask of Memory
 Mithril Coat
+Shadowspear
 Mountain
 Mountain
 Mountain
@@ -67,11 +69,10 @@ Reliquary Tower
 Rogue's Passage
 Rootbound Crag
 Sacred Foundry
-Shadowspear
 Sigarda's Aid
 Sol Ring
 Spire Garden
-Sram, Senior Edificer
+Danitha Capashen, Paragon
 Steelshaper's Gift
 Stomping Ground
 Stoneforge Mystic
@@ -86,7 +87,6 @@ Swords to Plowshares
 Temple Garden
 The Aetherspark
 The Reaver Cleaver
-Thornspire Verge
 Three Visits
 Ultima Weapon
 Ultimate Magic: Holy

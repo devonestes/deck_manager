@@ -10,6 +10,7 @@
 1 Blazemire Verge (DSK) 329
 1 Bloom Tender (EVE) 66
 1 Bonehoard Dracosaur (LCI) 321
+1 Breaching Dragonstorm (TDM) 101
 1 Brushland (BRO) 259
 1 Call the Spirit Dragons (TDM) 309
 1 Cavern-Hoard Dragon (LTC) 114
@@ -22,7 +23,6 @@
 1 Delighted Halfling (LTR) 158
 1 Dracogenesis (TDM) 300
 1 Dragon Tempest (DTK) 136
-1 Dragonhawk, Fate's Tempest (BLB) 291
 1 Dragonlord Atarka (DTK) 216
 1 Dragonlord Dromoka (DTK) 217
 1 Dragonlord's Servant (PL24) 1

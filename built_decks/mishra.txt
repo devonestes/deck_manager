@@ -42,6 +42,7 @@ Karn, Legacy Reforged
 Knight Paladin
 Lightning Greaves
 Luxury Suite
+Magmatic Galleon
 Mana Drain
 Mana Vault
 Metalworker
@@ -78,7 +79,6 @@ The Lunar Whale
 The Master, Multiplied
 The One Ring
 The Reality Chip
-The Regalia
 The Stasis Coffin
 Thoughtcast
 Thunderhawk Gunship

@@ -46,6 +46,7 @@ Fetid Heath
 Florian, Voldaren Scion
 Godless Shrine
 Haunted Ridge
+Reflecting Pool
 Immersturm Predator
 Indulgent Aristocrat
 Isolated Chapel
@@ -62,7 +63,6 @@ Pact of the Serpent
 Patriarch's Bidding
 Phyrexian Tower
 Plains
-Reflecting Pool
 Roaming Throne
 Rugged Prairie
 Ruinous Ultimatum

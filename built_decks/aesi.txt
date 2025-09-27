@@ -10,6 +10,7 @@ Bonny Pall, Clearcutter
 Breeding Pool
 Bristly Bill, Spine Sower
 Brokers Hideout
+Oboro, Palace in the Clouds
 Burgeoning
 Case of the Locked Hothouse
 Conduit of Worlds
@@ -33,7 +34,6 @@ Forest
 Forest
 Forest
 Forest
-Genemorph Imago
 Greensleeves, Maro-Sorcerer
 Growth Spiral
 Guildless Commons
@@ -59,7 +59,6 @@ Misty Rainforest
 Mossborn Hydra
 Mystic Sanctuary
 Nissa, Resurgent Animist
-Oboro, Palace in the Clouds
 Open the Way
 Oracle of Mul Daya
 Overburden
@@ -88,6 +87,7 @@ Springheart Nantuko
 Storm Cauldron
 Tangled Islet
 Tatyova, Benthic Druid
+Tatyova, Steward of Tides
 Thawing Glaciers
 Tifa Lockhart
 Titania, Protector of Argoth

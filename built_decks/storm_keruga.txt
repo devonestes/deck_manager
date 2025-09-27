@@ -46,7 +46,6 @@ Island
 Island
 Island
 Island
-Jeska's Will
 Jin-Gitaxias, Progress Tyrant
 Kellan, Inquisitive Prodigy // Tail the Suspect
 Ketria Triome
@@ -70,6 +69,7 @@ Palinchron
 Polluted Delta
 Primal Amulet // Primal Wellspring
 Prismari Command
+Prisoner's Dilemma
 Rejuvenating Springs
 Sakashima of a Thousand Faces
 Sakashima the Impostor
@@ -82,7 +82,7 @@ Spark Double
 Steam Vents
 Stitch in Time
 Stomping Ground
-Storm-Kiln Artist
+Jeska's Will
 Sulfur Falls
 Sword of Wealth and Power
 Time Warp

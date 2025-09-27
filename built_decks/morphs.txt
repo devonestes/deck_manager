@@ -27,8 +27,9 @@ Flourishing Bloom-Kin
 Forest
 Forest
 Forest
+Forest
+Forest
 Gift of Doom
-Gloomlake Verge
 Grazilaxx, Illithid Scholar
 Grim Haruspex
 Guardian Project
@@ -36,6 +37,8 @@ Heroic Intervention
 High Fae Trickster
 Hooded Hydra
 Icefeather Aven
+Island
+Island
 Island
 Island
 Island
@@ -50,6 +53,7 @@ Morphic Pool
 Nantuko Vigilante
 Nature's Lore
 Nervous Gardener
+On the Trail
 Orochi Soul-Reaver
 Otawara, Soaring City
 Overgrown Tomb
@@ -79,8 +83,6 @@ Threats Around Every Corner
 Three Visits
 Triumph of the Hordes
 Tropical Island
-Undercity Sewers
-Underground Mortuary
 Underground Sea
 Undergrowth Stadium
 Urza's Saga
@@ -94,7 +96,5 @@ Whisperwood Elemental
 Wilderness Reclamation
 Willowrush Verge
 Winding Canyons
-Worldly Tutor
-Yavimaya, Cradle of Growth
 Yedora, Grave Gardener
 Zoetic Cavern

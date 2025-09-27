@@ -20,15 +20,15 @@ defmodule DeckManager do
     {"cloud", "lDXJ9pEYKE6nDBQM0PFftw", "f2e054fc-60fe-43a4-b4a5-d99ae5cabce4"},
     {"slivers", "G69IYzuFrkKvwQMumlgJog", "0c02b3ee-7672-4446-8178-b1fe4005a0ae"},
     {"storm_keruga", "GyHvudWmvkOgn3jMS4haqQ", "8e84f597-a92e-46ea-bfff-302db88991b1"},
-    #{"doric", "r-Uw7LJz-EC5xeTvSLxcqg", "abd873c1-6927-422e-aef8-269d4d6e92d4"},
-    #{"wolverine", "rrjD_aYBqk-KQ5dxPkOQJg", "a430ce29-b4ec-44b6-a7e7-e959b02abcba"},
-    #{"optimus_prime", "pLyCNHUPG02p0v5oY7HJLQ", "1f758cc9-15db-47c5-b78d-2b8f62e83a72"},
-    #{"slug", "3F4O9kcJ1Ea6YK0wPlUSSw", "eb09e94c-031d-411f-8301-0592285445cf"},
+    # {"doric", "r-Uw7LJz-EC5xeTvSLxcqg", "abd873c1-6927-422e-aef8-269d4d6e92d4"},
+    # {"wolverine", "rrjD_aYBqk-KQ5dxPkOQJg", "a430ce29-b4ec-44b6-a7e7-e959b02abcba"},
+    # {"optimus_prime", "pLyCNHUPG02p0v5oY7HJLQ", "1f758cc9-15db-47c5-b78d-2b8f62e83a72"},
+    # {"slug", "3F4O9kcJ1Ea6YK0wPlUSSw", "eb09e94c-031d-411f-8301-0592285445cf"},
     # {"felix_five_boots", "eJaeGUes4kC8XAqlKlyfEA", "bb40196d-9440-4d5e-9448-582e2d704f18"},
     # {"meria", "Bu_ZwfjumUuFD1KuH2_FqQ", "40faed00-3b8a-4fbc-a711-aa8f753f1ab0"},
-     #{"peasant_cube", "xaM0NeOpV02u1g3LaG7nXQ", "ee59e00e-f986-468a-b751-44b878eaa5b1"},
-     #{"pauper_cube", "xTLumPuQs0e-4oWb2izZyw", "a615477e-c305-484a-b10b-eca8200aa213"},
-     #{"final_fantasy_remastered", "LKCKJ78Ao0ibohPEq2QRlQ", "2535f467-fd2d-4157-a395-b19fd6520c46"},
+    # {"peasant_cube", "xaM0NeOpV02u1g3LaG7nXQ", "ee59e00e-f986-468a-b751-44b878eaa5b1"},
+    # {"pauper_cube", "xTLumPuQs0e-4oWb2izZyw", "a615477e-c305-484a-b10b-eca8200aa213"},
+    # {"final_fantasy_remastered", "LKCKJ78Ao0ibohPEq2QRlQ", "2535f467-fd2d-4157-a395-b19fd6520c46"},
     # {"duskmourn_remastered", "In_QeFJrrk-6lenOjdG73w", "49cc2a21-50bd-4e09-9baa-d8740fb39c99"},
     # {"aristocats", "TYqGCS46qEaJMRKsasgcCQ", "be34ece7-5d32-44c3-b0e4-fa452b151cbc"},
     # {"dinos", "3Ekcem0mLk6xskQ8U5FJBg", "b80cc791-fcd2-4abc-af12-e7d8b18240f0"},
@@ -55,8 +55,8 @@ defmodule DeckManager do
     # {"dimir_standard", "-htf3CURw0qUOSaKDyHfkw", "9ae96343-774f-42aa-83a2-47da2aa26b4e"},
     # {"esper_pixie", "YMpYPatCsEqzxN__9hKB0w", "02694376-98d0-4225-9697-73e864a27c6e"},
     {"dandan", "vN9isPEhfUuM3UUh7JCHJg", "800bbb43-8c98-4126-80d3-8a2ae9991d7c"},
-    # {"cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"}
     {"temur_cube", "9aAuKWFZv0iOIzb_dHaQRQ", "e084d46c-ccdf-4bd9-a461-12711b6cb375"}
+    # {"cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"}
   ]
 
   def run() do
@@ -307,6 +307,7 @@ defmodule DeckManager do
       regex = ~r/(\d*) (.*) \((.*)\) (\d*)/
       [_, count, name, _set, _collector_number] = Regex.run(regex, card)
       {count, _} = Integer.parse(count)
+      name = name |> String.replace(" / ", " // ") |> normalize_name()
       %{"Count" => count, "Name" => name}
     end)
     |> Enum.reduce([], fn card, acc ->
@@ -366,13 +367,23 @@ defmodule DeckManager do
       end)
       |> Enum.sort_by(fn {card_data, _} -> card_data["edhrec_rank"] end, :desc)
 
-    formatted_everything = Enum.reduce(sorted, "", fn {card_data, non_proxy_count}, acc ->
+    formatted_everything =
+      Enum.reduce(sorted, "", fn {card_data, non_proxy_count}, acc ->
         "#{non_proxy_count},#{card_data["name"]},#{card_data["type_line"]},#{card_data["rarity"]}\n#{acc}"
       end)
 
     File.write!("decks/collection_remaining.txt", formatted_everything)
 
-    for type <- ["land", "creature", "instant", "sorcery", "enchantment", "artifact", "planeswalker", "battle"] do
+    for type <- [
+          "land",
+          "creature",
+          "instant",
+          "sorcery",
+          "enchantment",
+          "artifact",
+          "planeswalker",
+          "battle"
+        ] do
       formatted =
         sorted
         |> Enum.filter(fn {card_data, _} -> String.downcase(card_data["type_line"]) =~ type end)
@@ -393,8 +404,6 @@ defmodule DeckManager do
 
       File.write!("decks/collection_remaining_#{rarity}.txt", formatted)
     end
-
-
   end
 
   defp find_card(card_name, collection, proxy) do
@@ -440,4 +449,21 @@ defmodule DeckManager do
   defp scryfall_bulk_data_api() do
     "https://api.scryfall.com/bulk-data/oracle_cards"
   end
+
+  defp normalize_name("Henneth Annûn"), do: "Reflecting Pool"
+  defp normalize_name("The Party Tree"), do: "The Great Henge"
+  defp normalize_name("Bucklebury Ferry"), do: "Oboro, Palace in the Clouds"
+  defp normalize_name("Rick, Steadfast Leader"), do: "Greymond, Avacyn's Stalwart"
+  defp normalize_name("The Dead Marshes"), do: "Urborg, Tomb of Yawgmoth"
+  defp normalize_name("Firion, Swordmaster"), do: "Sram, Senior Edificer"
+  defp normalize_name("Morgul-Knife"), do: "Shadowspear"
+  defp normalize_name("Squall Leonhart"), do: "Danitha Capashen, Paragon"
+  defp normalize_name("Storm's Will"), do: "Jeska's Will"
+  defp normalize_name("Adamantium Bonding Tank"), do: "The Ozolith"
+  defp normalize_name("Astral Titan"), do: "Primeval Titan"
+  defp normalize_name("Endwalker"), do: "Brainstorm"
+  defp normalize_name("Terra Branford"), do: "Urza, Lord High Artificer"
+  defp normalize_name("Wild Rose Rebellion"), do: "Counterspell"
+  defp normalize_name(""), do: ""
+  defp normalize_name(name), do: name
 end

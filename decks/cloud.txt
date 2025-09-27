@@ -38,6 +38,7 @@
 1 Hushwood Verge (DSK) 261
 1 Jetmir's Garden (SNC) 291
 1 Jor Kadeen, First Goldwarden (ONE) 203
+1 Jungle Shrine (E02) 46
 1 Kodama of the West Tree (NEO) 392
 1 Leyline Axe (FDN) 129
 1 Mask of Memory (MRD) 203
@@ -75,7 +76,6 @@
 1 Temple Garden (RVR) 414
 1 The Aetherspark (DFT) 231
 1 The Reaver Cleaver (DMC) 8
-1 Thornspire Verge (DSK) 333
 1 Three Visits (MKC) 189
 1 Ultima Weapon (FIN) 563
 1 Ultimate Magic: Holy (FIC) 32

@@ -30,7 +30,6 @@
 1 Flooded Shoreline (VIS) 32
 1 Flooded Strand (KTK) 233
 5 Forest (J22) 110
-1 Genemorph Imago (EOE) 299
 1 Greensleeves, Maro-Sorcerer (DMC) 77
 1 Growth Spiral (CMR) 446
 1 Guildless Commons (PLST) CMR-351
@@ -80,6 +79,7 @@
 1 Storm Cauldron (ALL) 134
 1 Tangled Islet (DMU) 258
 1 Tatyova, Benthic Druid (DMR) 203
+1 Tatyova, Steward of Tides (DMU) 222
 1 Thawing Glaciers (ALL) 144
 1 Tifa Lockhart (FIN) 206
 1 Titania, Protector of Argoth (CMA) 157

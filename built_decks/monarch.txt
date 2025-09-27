@@ -33,7 +33,6 @@ Flooded Strand
 Ghostly Prison
 Glacial Fortress
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout
-Greymond, Avacyn's Stalwart
 Guardian Sunmare
 Hallowed Fountain
 Horn of Gondor
@@ -68,6 +67,7 @@ Ragavan, Nimble Pilferer
 Ranger-Captain of Eos
 Raugrin Triome
 Reconnaissance
+Greymond, Avacyn's Stalwart
 Rugged Prairie
 Sacred Foundry
 Savage Beating

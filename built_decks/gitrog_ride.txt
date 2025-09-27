@@ -81,6 +81,7 @@ Swamp
 Tainted Wood
 Tamiyo's Safekeeping
 Terrian, World Tyrant
+Urborg, Tomb of Yawgmoth
 The Skullspore Nexus
 Thought Vessel
 Three Visits
@@ -89,7 +90,6 @@ Torment of Hailfire
 Underground Mortuary
 Undergrowth Stadium
 Unnatural Growth
-Urborg, Tomb of Yawgmoth
 Verdant Catacombs
 Viridescent Bog
 Waning Wurm
