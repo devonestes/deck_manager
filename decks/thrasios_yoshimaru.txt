@@ -80,7 +80,7 @@
 1 Seedborn Muse (C19) 179
 1 Sevinne's Reclamation (CLB) 707
 1 Silence (M11) 30
-1 Sink into Stupor // Soporific Springs (MH3) 241
+1 Sink into Stupor / Soporific Springs (MH3) 241
 1 Sol Ring (MOC) 381
 1 Spell Pierce (NEO) 80
 1 Springleaf Drum (BRR) 55

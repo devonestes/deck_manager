@@ -26,7 +26,6 @@ defmodule DeckManager do
     #{"slug", "3F4O9kcJ1Ea6YK0wPlUSSw", "eb09e94c-031d-411f-8301-0592285445cf"},
     # {"felix_five_boots", "eJaeGUes4kC8XAqlKlyfEA", "bb40196d-9440-4d5e-9448-582e2d704f18"},
     # {"meria", "Bu_ZwfjumUuFD1KuH2_FqQ", "40faed00-3b8a-4fbc-a711-aa8f753f1ab0"},
-     #{"temur_cube", "9aAuKWFZv0iOIzb_dHaQRQ", "e084d46c-ccdf-4bd9-a461-12711b6cb375"},
      #{"peasant_cube", "xaM0NeOpV02u1g3LaG7nXQ", "ee59e00e-f986-468a-b751-44b878eaa5b1"},
      #{"pauper_cube", "xTLumPuQs0e-4oWb2izZyw", "a615477e-c305-484a-b10b-eca8200aa213"},
      #{"final_fantasy_remastered", "LKCKJ78Ao0ibohPEq2QRlQ", "2535f467-fd2d-4157-a395-b19fd6520c46"},
@@ -56,7 +55,8 @@ defmodule DeckManager do
     # {"dimir_standard", "-htf3CURw0qUOSaKDyHfkw", "9ae96343-774f-42aa-83a2-47da2aa26b4e"},
     # {"esper_pixie", "YMpYPatCsEqzxN__9hKB0w", "02694376-98d0-4225-9697-73e864a27c6e"},
     {"dandan", "vN9isPEhfUuM3UUh7JCHJg", "800bbb43-8c98-4126-80d3-8a2ae9991d7c"},
-    {"cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"}
+    # {"cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"}
+    {"temur_cube", "9aAuKWFZv0iOIzb_dHaQRQ", "e084d46c-ccdf-4bd9-a461-12711b6cb375"}
   ]
 
   def run() do

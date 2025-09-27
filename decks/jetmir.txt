@@ -1,7 +1,7 @@
 1 Jetmir, Nexus of Revels (SLD) 1509
 1 Adeline, Resplendent Cathar (MOC) 167
 1 Agate Instigator (BLC) 21
-1 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger (MH3) 237
+1 Ajani, Nacatl Pariah / Ajani, Nacatl Avenger (MH3) 237
 1 Anim Pakal, Thousandth Moon (LCI) 223
 1 Arbor Elf (M13) 160
 1 Arid Mesa (MM3) 229
@@ -44,7 +44,7 @@
 1 Hushbringer (ELD) 18
 1 Illustrious Wanderglyph (LCC) 9
 1 Karplusan Forest (M3C) 351
-1 Kellan, Daring Traveler // Journey On (LCI) 231
+1 Kellan, Daring Traveler / Journey On (LCI) 231
 1 Kutzil, Malamet Exemplar (LCI) 304
 1 Legolas's Quick Reflexes (LTC) 493
 1 Llanowar Elves (3ED) 211

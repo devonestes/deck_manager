@@ -8,7 +8,7 @@
 1 Blasphemous Act (BRC) 113
 1 Blightsteel Colossus (MBS) 99
 1 Blood Crypt (UNF) 279
-1 Bloodsoaked Insight // Sanguine Morass (MH3) 252
+1 Bloodsoaked Insight / Sanguine Morass (MH3) 252
 1 Bloodstained Mire (KTK) 230
 1 Chimil, the Inner Sun (LCI) 249
 1 Cityscape Leveler (BRO) 363
@@ -45,7 +45,7 @@
 1 Mana Drain (CMR) 80
 1 Mana Vault (2ED) 260
 1 Metalworker (UDS) 135
-1 Midgar, City of Mako // Reactor Raid (FIN) 286
+1 Midgar, City of Mako / Reactor Raid (FIN) 286
 1 Mindslaver (MRD) 206
 1 Morphic Pool (ZNE) 17
 1 Mountain (BRC) 35
@@ -64,7 +64,7 @@
 1 Shipwreck Marsh (MID) 285
 1 Shivan Reef (OTC) 320
 1 Simulacrum Synthesizer (BIG) 6
-1 Sink into Stupor // Soporific Springs (MH3) 241
+1 Sink into Stupor / Soporific Springs (MH3) 241
 1 Sol Ring (BRC) 160
 1 Steam Vents (UNF) 283
 1 Stormcarved Coast (VOW) 284

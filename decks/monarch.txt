@@ -32,8 +32,7 @@
 1 Flooded Strand (KTK) 233
 1 Ghostly Prison (PLST) CHK-10
 1 Glacial Fortress (LTC) 315
-1 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout (BOT) 11
-1 Greymond, Avacyn's Stalwart (SLD) 143
+1 Goldbug, Humanity's Ally / Goldbug, Scrappy Scout (BOT) 11
 1 Guardian Sunmare (DFT) 15
 1 Hallowed Fountain (UNF) 277
 1 Horn of Gondor (LTR) 240
@@ -65,11 +64,12 @@
 1 Ranger-Captain of Eos (MH1) 21
 1 Raugrin Triome (IKO) 311
 1 Reconnaissance (ACR) 82
+1 Rick, Steadfast Leader (SLD) 143
 1 Rugged Prairie (CMM) 1022
 1 Sacred Foundry (UNF) 285
 1 Savage Beating (DST) 67
 1 Scalding Tarn (MM3) 244
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 333
 1 Sea of Clouds (BBD) 84
 1 Secluded Courtyard (LTC) 330
 1 Serra Ascendant (IMA) 31

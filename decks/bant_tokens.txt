@@ -70,10 +70,10 @@
 1 Sea of Clouds (ZNE) 16
 1 Shrieking Drake (VIS) 43
 1 Sol Ring (LTC) 284
-1 Strength of the Harvest // Haven of the Harvest (MH3) 258
+1 Strength of the Harvest / Haven of the Harvest (MH3) 258
 1 Summoner's Sending (FIC) 29
 1 Sunpetal Grove (SLD) 460
-1 Suppression Ray // Orderly Plaza (MH3) 260
+1 Suppression Ray / Orderly Plaza (MH3) 260
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147
 1 The Earth Crystal (FIN) 184
@@ -83,6 +83,6 @@
 1 Whitemane Lion (DMR) 277
 1 Willowrush Verge (DFT) 270
 1 Windswift Slice (LTC) 45
-1 Witch Enchanter // Witch-Blessed Meadow (MH3) 239
+1 Witch Enchanter / Witch-Blessed Meadow (MH3) 239
 1 Wolverine Riders (KHC) 14
 1 Yavimaya Hollow (UDS) 143

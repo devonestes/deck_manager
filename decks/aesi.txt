@@ -10,6 +10,7 @@
 1 Breeding Pool (UNF) 286
 1 Bristly Bill, Spine Sower (OTJ) 157
 1 Brokers Hideout (SNC) 248
+1 Bucklebury Ferry (LTC) 371
 1 Burgeoning (STH) 102
 1 Case of the Locked Hothouse (MKM) 155
 1 Conduit of Worlds (ONE) 163
@@ -51,7 +52,6 @@
 1 Mossborn Hydra (FDN) 107
 1 Mystic Sanctuary (ELD) 247
 1 Nissa, Resurgent Animist (MAT) 22
-1 Oboro, Palace in the Clouds (LTC) 371
 1 Open the Way (MAT) 23
 1 Oracle of Mul Daya (JMP) 415
 1 Overburden (PCY) 39
@@ -70,7 +70,7 @@
 1 Scapeshift (M19) 201
 1 Scute Swarm (OTC) 205
 1 Simic Growth Chamber (CM2) 267
-1 Sink into Stupor // Soporific Springs (MH3) 241
+1 Sink into Stupor / Soporific Springs (MH3) 241
 1 Skyserpent Seeker (DFT) 224
 1 Snow-Covered Forest (ICE) 383
 1 Snow-Covered Island (ICE) 371
@@ -85,8 +85,8 @@
 1 Titania, Protector of Argoth (CMA) 157
 1 Traveling Chocobo (FIN) 210
 1 Undiscovered Paradise (VIS) 167
-1 Vorinclex // The Grand Evolution (MOM) 213
+1 Vorinclex / The Grand Evolution (MOM) 213
 1 Wayward Swordtooth (LCC) 263
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249
-1 Zanarkand, Ancient Metropolis // Lasting Fayth (FIN) 293
+1 Zanarkand, Ancient Metropolis / Lasting Fayth (FIN) 293

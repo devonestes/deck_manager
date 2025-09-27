@@ -4,7 +4,7 @@
 1 Avenger of Zendikar (C13) 135
 1 Averna, the Chaos Bloom (CMR) 269
 1 Balefire Dragon (ISD) 129
-1 Barkchannel Pathway // Tidechannel Pathway (KHM) 290
+1 Barkchannel Pathway / Tidechannel Pathway (KHM) 290
 1 Bloom Tender (EVE) 66
 1 Cascade Bluffs (CMM) 990
 1 Command Tower (MOC) 396
@@ -14,7 +14,7 @@
 1 Delighted Halfling (LTR) 158
 1 Drakuseth, Maw of Flames (CLB) 790
 1 Dreamroot Cascade (VOW) 282
-1 Etali, Primal Conqueror // Etali, Primal Sickness (MOM) 137
+1 Etali, Primal Conqueror / Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
 1 Fanatic of Rhonas (MH3) 458
 1 Farseek (RVR) 138
@@ -49,7 +49,7 @@
 1 Rampant Growth (M12) 190
 1 Ranger's Path (M13) 186
 1 Rishkar's Expertise (NEC) 127
-1 Riverglide Pathway // Lavaglide Pathway (ZNR) 289
+1 Riverglide Pathway / Lavaglide Pathway (ZNR) 289
 1 Rockfall Vale (MID) 266
 1 Sakura-Tribe Elder (CHK) 239
 1 Sarkhan's Unsealing (JMP) 361
@@ -77,6 +77,6 @@
 1 Triple Triad (FIN) 166
 1 Vastwood Surge (ZNR) 217
 1 Vaultborn Tyrant (BIG) 50
-1 Vorinclex // The Grand Evolution (MOM) 213
+1 Vorinclex / The Grand Evolution (MOM) 213
 1 Wurmcoil Engine (2XM) 308
 1 Yavimaya Coast (DMU) 261

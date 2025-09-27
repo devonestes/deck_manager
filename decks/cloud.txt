@@ -23,16 +23,16 @@
 1 Commercial District (MKM) 324
 1 Conformer Shuriken (FIC) 98
 1 Cultivate (J22) 644
-1 Danitha Capashen, Paragon (FCA) 22
 1 Dragonfire Blade (TDM) 240
 1 Embercleave (ELD) 359
 1 Excalibur, Sword of Eden (ACR) 72
 1 Farseek (RVR) 138
 1 Fire-Lit Thicket (SHM) 271
+1 Firion, Swordmaster (FCA) 3
 2 Forest (J22) 112
 1 Genji Glove (FIN) 258
 1 Gilgamesh, Master-at-Arms (FIN) 139
-1 Halvar, God of Battle // Sword of the Realms (KHM) 299
+1 Halvar, God of Battle / Sword of the Realms (KHM) 299
 1 Hammer of Nazahn (C17) 51
 1 Helm of the Host (DOM) 217
 1 Hushwood Verge (DSK) 261
@@ -42,6 +42,7 @@
 1 Leyline Axe (FDN) 129
 1 Mask of Memory (MRD) 203
 1 Mithril Coat (LTR) 379
+1 Morgul-Knife (LTC) 353
 5 Mountain (J22) 107
 1 Nature's Lore (DMR) 170
 1 Nettlecyst (MOC) 367
@@ -56,11 +57,10 @@
 1 Rogue's Passage (LTC) 326
 1 Rootbound Crag (SLD) 459
 1 Sacred Foundry (RVR) 409
-1 Shadowspear (LTC) 353
 1 Sigarda's Aid (CMR) 384
 1 Sol Ring (MOC) 381
 1 Spire Garden (ZNE) 19
-1 Sram, Senior Edificer (FCA) 3
+1 Squall Leonhart (FCA) 22
 1 Steelshaper's Gift (5DN) 19
 1 Stomping Ground (RVR) 413
 1 Stoneforge Mystic (SLD) 1253

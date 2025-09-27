@@ -33,7 +33,7 @@
 1 Grim Hireling (PLST) AFC-25
 1 High Market (FIC) 402
 1 Isolated Chapel (LCC) 337
-1 Joshua, Phoenix's Dominant // Phoenix, Warden of Fire (FIN) 397
+1 Joshua, Phoenix's Dominant / Phoenix, Warden of Fire (FIN) 397
 1 Kalitas, Traitor of Ghet (OGW) 86
 1 Karmic Guide (MH2) 263
 1 Konda, Lord of Eiganjo (CHK) 30
@@ -46,7 +46,7 @@
 5 Mountain (J22) 107
 1 Orcish Bowmasters (LTR) 103
 1 Path to Exile (MOC) 198
-1 Pinnacle Monk // Mystic Peak (MH3) 246
+1 Pinnacle Monk / Mystic Peak (MH3) 246
 1 Pitiless Plunderer (MB2) 46
 5 Plains (UNF) 240
 1 Preston, the Vanisher (J22) 8
@@ -59,7 +59,7 @@
 1 Ruinous Ultimatum (PIP) 220
 1 Savai Triome (IKO) 312
 1 Selfless Spirit (CLB) 706
-1 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel (FIN) 451
+1 Sephiroth, Fabled SOLDIER / Sephiroth, One-Winged Angel (FIN) 451
 1 Shadow, Mysterious Assassin (FIC) 50
 1 Shadowy Backstreet (MKM) 330
 1 Siegfried, Famed Swordsman (FIC) 51

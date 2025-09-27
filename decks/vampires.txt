@@ -1,5 +1,5 @@
 1 Edgar Markov (C17) 36
-1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90
 1 Akroma's Will (CMR) 615
 1 Anguished Unmaking (SLD) 138
 1 Arcane Signet (MOC) 348
@@ -14,7 +14,7 @@
 1 Bloodchief Ascension (CMM) 636
 1 Bloodghast (LCC) 184
 1 Bloodletter of Aclazotz (LCI) 336
-1 Bloodline Keeper // Lord of Lineage (ISD) 90
+1 Bloodline Keeper / Lord of Lineage (ISD) 90
 1 Bloodstained Mire (KTK) 230
 1 Bloodthirsty Conqueror (FDN) 58
 1 Captivating Vampire (M11) 87
@@ -37,15 +37,16 @@
 1 Drana, Liberator of Malakir (LCC) 193
 1 Dusk Legion Duelist (MOM) 11
 1 Dusk Legion Sergeant (LCC) 80
-1 Edgar, Charmed Groom // Edgar Markov's Coffin (DBL) 503
+1 Edgar, Charmed Groom / Edgar Markov's Coffin (DBL) 503
 1 Elenda, the Dusk Rose (RIX) 157
 1 Everything Comes to Dust (WHO) 19
 1 Exquisite Blood (AVR) 102
-1 Fell the Profane // Fell Mire (MH3) 244
+1 Fell the Profane / Fell Mire (MH3) 244
 1 Fetid Heath (NCC) 401
 1 Florian, Voldaren Scion (MID) 223
 1 Godless Shrine (UNF) 282
 1 Haunted Ridge (MID) 282
+1 Henneth Annûn (LTC) 373
 1 Immersturm Predator (KHM) 214
 1 Indulgent Aristocrat (LCC) 200
 1 Isolated Chapel (LCC) 337
@@ -62,7 +63,6 @@
 1 Patriarch's Bidding (MH2) 275
 1 Phyrexian Tower (JMP) 493
 1 Plains (J22) 98
-1 Reflecting Pool (LTC) 373
 1 Roaming Throne (LCI) 344
 1 Rugged Prairie (BLC) 327
 1 Ruinous Ultimatum (PIP) 220
@@ -81,7 +81,7 @@
 1 Stromkirk Captain (VOC) 157
 1 Sulfurous Springs (5ED) 424
 1 Sunbillow Verge (DFT) 264
-1 Sundering Eruption // Volcanic Fissure (MH3) 248
+1 Sundering Eruption / Volcanic Fissure (MH3) 248
 1 Sundown Pass (WHO) 310
 1 Swamp (J22) 106
 1 Swords to Plowshares (MOC) 211

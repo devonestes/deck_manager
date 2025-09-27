@@ -10,7 +10,7 @@
 1 Bloodline Pretender (J22) 757
 1 Boros Garrison (C21) 282
 1 Boros Signet (ONC) 126
-1 Brass's Tunnel-Grinder // Tecutlan, the Searing Rift (LCI) 135
+1 Brass's Tunnel-Grinder / Tecutlan, the Searing Rift (LCI) 135
 1 Cait Sith, Fortune Teller (FIC) 54
 1 Caretaker's Talent (BLB) 6
 1 Champions from Beyond (FIC) 11

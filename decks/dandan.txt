@@ -2,7 +2,7 @@
 2 Bad River (MIR) 324
 2 Brainstorm (ICE) 61
 2 Chart a Course (LCI) 48
-1 Commit // Memory (LCC) 147
+1 Commit / Memory (LCC) 147
 2 Control Magic (3ED) 52
 10 Dandân (CHR) 18
 1 Diminishing Returns (ALL) 26

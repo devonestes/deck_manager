@@ -62,7 +62,7 @@
 1 Replenish (UDS) 15
 1 Retribution of the Meek (VIS) 19
 1 Rhystic Study (J22) 114
-1 Roaring Furnace // Steaming Sauna (DSK) 230
+1 Roaring Furnace / Steaming Sauna (DSK) 230
 1 Sanctum of All (M21) 225
 1 Sanctum of Calm Waters (M21) 68
 1 Sanctum of Fruitful Harvest (M21) 203

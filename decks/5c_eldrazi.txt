@@ -13,7 +13,7 @@
 1 Calamity of the Titans (CMM) 713
 1 Command Tower (MOC) 396
 1 Darksteel Monolith (CMM) 743
-1 Drowner of Truth // Drowned Jungle (MH3) 253
+1 Drowner of Truth / Drowned Jungle (MH3) 253
 1 Echoes of Eternity (MH3) 320
 1 Eldrazi Confluence (M3C) 32
 1 Eldrazi Conscription (UMA) 3
@@ -33,7 +33,7 @@
 1 Herald of Kozilek (BFZ) 205
 1 Herald's Horn (LTC) 280
 1 Hideous Taskmaster (M3C) 109
-1 Hydroelectric Specimen // Hydroelectric Laboratory (MH3) 240
+1 Hydroelectric Specimen / Hydroelectric Laboratory (MH3) 240
 1 Island (J22) 101
 1 It That Betrays (ROE) 7
 1 It That Heralds the End (MH3) 385
@@ -65,7 +65,7 @@
 1 Sol Ring (MOC) 381
 1 Sowing Mycospawn (MH3) 340
 1 Sulfurous Springs (5ED) 424
-1 Sundering Eruption // Volcanic Fissure (MH3) 248
+1 Sundering Eruption / Volcanic Fissure (MH3) 248
 1 Swamp (MH3) 314
 1 Talisman of Curiosity (MKC) 241
 1 Talisman of Impulse (MRD) 254
