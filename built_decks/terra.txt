@@ -12,7 +12,6 @@ Blood Crypt
 Braids, Arisen Nightmare
 Buried Alive
 Caves of Koilos
-Celes, Rune Knight
 Celestine, the Living Saint
 Clifftop Retreat
 Command Tower
@@ -66,6 +65,7 @@ Rogue's Passage
 Rugged Prairie
 Ruinous Ultimatum
 Savai Triome
+Seasoned Dungeoneer
 Selfless Spirit
 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 Shadow, Mysterious Assassin
@@ -96,5 +96,5 @@ Tymna the Weaver
 Urza's Saga
 Victimize
 Vile Entomber
-Wheel of Fortune
+White Plume Adventurer
 Wingmate Roc

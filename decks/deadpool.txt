@@ -1,0 +1,88 @@
+1 Deadpool, Trading Card (SLD) 1753
+1 Ancient Tomb (TMP) 315
+1 Animate Dead (LEB) 93
+1 Arcane Signet (SLD) 1641
+1 Arid Mesa (MH2) 436
+1 Badlands (3ED) 282
+1 Black Market Connections (CLB) 620
+1 Blade of Selves (CLB) 596
+1 Blasphemous Act (BRC) 113
+1 Blazemire Verge (DSK) 329
+1 Blood Crypt (RVR) 397
+1 Bloodstained Mire (MH3) 435
+1 Braids, Arisen Nightmare (DSC) 133
+1 Cabal Ritual (MB2) 177
+1 Chaos Warp (PW24) 7
+1 Chrome Mox (2XM) 240
+1 City of Brass (MB2) 240
+1 Command Tower (MOC) 396
+1 Conjurer's Closet (AVR) 214
+1 Culling the Weak (EXO) 55
+1 Cursed Mirror (BRC) 115
+1 Dance of the Dead (ICE) 118
+1 Dark Ritual (3ED) 99
+1 Dauthi Voidwalker (PLST) MH2-81
+1 Deadly Rollick (CMM) 695
+1 Deflecting Swat (CMM) 698
+1 Demonic Tutor (3ED) 105
+1 Dragonskull Summit (SLD) 458
+1 Electroduplicate (FDN) 85
+1 Entomb (EMA) 87
+1 Fellwar Stone (MOC) 356
+1 Gamble (EMA) 132
+1 Gemstone Caverns (TSP) 274
+1 Haunted Ridge (INR) 280
+1 Heat Shimmer (LRW) 175
+1 Helm of the Host (DOM) 217
+1 Imperial Seal (2X2) 79
+1 Lotus Petal (TMP) 294
+1 Luxury Suite (ZNE) 18
+1 Mana Confluence (JOU) 163
+1 Mana Vault (2ED) 260
+1 Marsh Flats (MH2) 437
+1 Mayhem Devil (WAR) 204
+1 Molten Duplication (BIG) 14
+8 Mountain (J22) 107
+1 Mox Opal (2XM) 275
+1 Necromancy (VIS) 64
+1 Necropotence (5ED) 182
+1 Opposition Agent (CMR) 141
+1 Orcish Bowmasters (LTR) 103
+1 Phyrexian Tower (JMP) 493
+1 Pinnacle Monk / Mystic Peak (MH3) 246
+1 Polluted Delta (MH3) 438
+1 Professional Face-Breaker (J22) 581
+1 Prosper, Tome-Bound (AFC) 324
+1 Pyroblast (MB2) 198
+1 Ragavan, Nimble Pilferer (MUL) 21
+1 Rakdos Signet (BRC) 156
+1 Raucous Theater (MKM) 329
+1 Reanimate (TMP) 151
+1 Red Elemental Blast (4ED) 218
+1 Rev, Tithe Extractor (J25) 45
+1 Saw in Half (BLC) 113
+1 Scalding Tarn (MH2) 439
+1 Sheoldred, the Apocalypse (DMU) 107
+1 Simian Spirit Guide (PLST) PLC-122
+1 Slicer, Hired Muscle / Slicer, High-Speed Antagonist (BOT) 6
+1 Sol Ring (MOC) 381
+1 Solemn Simulacrum (BRC) 161
+1 Splinter Twin (ROE) 165
+1 Storm's Will (SLD) 1744
+1 Sulfurous Springs (5ED) 424
+6 Swamp (J22) 106
+1 Talisman of Indulgence (MRD) 255
+1 Terror of the Peaks (M21) 369
+1 The Dead Marshes (LTC) 375
+1 The Master, Multiplied (WHO) 146
+1 The One Ring (LTR) 697
+1 Toxic Deluge (C13) 96
+1 Underworld Breach (MB2) 200
+1 Untimely Malfunction (DSK) 161
+1 Urza's Saga (MB2) 114
+1 Valgavoth, Harrower of Souls (DSC) 6
+1 Vampiric Tutor (6ED) 161
+1 Vandalblast (OTC) 183
+1 Verdant Catacombs (MH2) 440
+1 Wheel of Fortune (3ED) 185
+1 Wooded Foothills (MH3) 441

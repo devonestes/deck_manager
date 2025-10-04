@@ -1,4 +1,4 @@
-1 Casal, Lurkwood Pathfinder // Casal, Pathbreaker Owlbear (SLD) 1241
+1 Doric, Nature's Warden / Doric, Owlbear Avenger (SLD) 1241
 1 Adventurers' Guildhouse (LEG) 300
 1 Akroma's Memorial (FUT) 159
 1 Anara, Wolvid Familiar (CMR) 214
@@ -18,11 +18,11 @@
 1 Ghalta, Stampede Tyrant (LCI) 326
 1 Goreclaw, Terror of Qal Sisma (MUL) 27
 1 Heroic Intervention (LTC) 249
-1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190
+1 Invasion of Ikoria / Zilortha, Apex of Ikoria (MOM) 190
 1 Jolrael, Mwonvuli Recluse (MKC) 173
 1 Kodama of the East Tree (BLC) 227
 1 Kogla, the Titan Ape (IKO) 162
-1 Kolvori, God of Kinship // The Ringhart Crest (KHM) 181
+1 Kolvori, God of Kinship / The Ringhart Crest (KHM) 181
 1 Kona, Rescue Beastie (DSK) 358
 1 Last March of the Ents (LTR) 418
 1 Legolas Greenleaf (LTC) 40
@@ -52,7 +52,7 @@
 1 Surrak, Elusive Hunter (TDM) 161
 1 Sword of Feast and Famine (2XM) 296
 1 Sylvan Library (CC1) 5
-1 The Great Henge (LTC) 348
+1 The Party Tree (LTC) 348
 1 The Ring Goes South (LTR) 186
 1 The Shire (LTR) 345
 1 The Skullspore Nexus (LCI) 212
@@ -62,10 +62,10 @@
 1 Torgal, A Fine Hound (FIN) 208
 1 Toski, Bearer of Secrets (KHM) 197
 1 Tribute to the World Tree (MOM) 211
-1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
+1 Turntimber Symbiosis / Turntimber, Serpentine Wood (ZNR) 364
 1 Unnatural Growth (PMID) 206p
-1 Virtue of Strength // Garenbrig Growth (WOE) 197
-1 Vorinclex // The Grand Evolution (MOM) 213
+1 Virtue of Strength / Garenbrig Growth (WOE) 197
+1 Vorinclex / The Grand Evolution (MOM) 213
 1 Vorinclex, Monstrous Raider (KHM) 333
 1 War Room (WHO) 330
 1 Wilson, Refined Grizzly (CLB) 411

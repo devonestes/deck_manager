@@ -1,0 +1,88 @@
+1 Choco, Seeker of Paradise (FIN) 215
+1 Ambrosia Whiteheart (FIN) 6
+1 Animal Sanctuary (PLST) M21-242
+1 Arcane Signet (SLD) 1641
+1 Aven Interrupter (PWCS) 2024-08
+1 Aven Mindcensor (CLB) 688
+1 Bartz and Boko (FIN) 175
+1 Battle Screech (MH1) 4
+1 Beast Within (ONC) 104
+1 Beastmaster Ascension (PLST) ZEN-159
+1 Benedikta Harman (FCA) 53
+1 Bident of Thassa (LCC) 146
+1 Birds of Paradise (M12) 165
+1 Bountiful Promenade (ZNE) 20
+1 Breeding Pool (RVR) 399
+1 Canopy Vista (NCC) 389
+1 Cartographer's Hawk (SCD) 10
+1 Coastal Piracy (PLST) MMQ-68
+1 Command Tower (MOC) 396
+1 Counterspell (TMP) 57
+1 Cultivate (J22) 644
+1 Curiosity Crafter (BLC) 165
+1 Derevi, Empyrial Tactician (C13) 186
+1 Emeria Angel (IMA) 20
+1 Empyrean Eagle (FDN) 239
+1 Enduring Curiosity (DSK) 51
+1 Exotic Orchard (MOC) 398
+1 Farseek (RVR) 138
+1 Favorable Winds (AVR) 51
+1 Felidar Retreat (CMM) 821
+1 Flooded Strand (MH3) 436
+5 Forest (J22) 112
+1 Gilded Goose (BLC) 221
+1 Glacial Fortress (LTC) 315
+1 Gysahl Greens (FIN) 190
+1 Hallowed Fountain (RVR) 404
+1 Healer's Hawk (FDN) 142
+1 Herald's Horn (LTC) 280
+1 Hermes, Overseer of Elpis (FIC) 36
+1 Heroic Intervention (LTC) 249
+1 Hinterland Harbor (LTC) 317
+1 Irregular Cohort (MH1) 15
+5 Island (J22) 101
+1 Judge's Familiar (RVR) 192
+1 Kastral, the Windcrested (BLB) 335
+1 Kindred Discovery (CLB) 81
+1 Ledger Shredder (SPG) 55
+1 Misty Rainforest (MH2) 438
+1 Mockingbird (BLB) 305
+1 Murmuration (BLC) 10
+1 Nature's Lore (DMR) 170
+1 Owlbear Cub (CLB) 246
+1 Patchwork Banner (BLB) 247
+1 Path of Ancestry (MOC) 418
+1 Path to Exile (MOC) 198
+1 Perch Protection (BLC) 11
+5 Plains (UNF) 240
+1 Plumecreed Escort (BLB) 65
+1 Prairie Stream (MOC) 420
+1 Raise the Palisade (LTC) 23
+1 Rampant Growth (M12) 190
+1 Reconnaissance Mission (WOC) 105
+1 Rejuvenating Springs (LTC) 325
+1 Reliquary Tower (BRC) 196
+1 Restless Anchorage (LCI) 347
+1 Sazh Katzroy (FIN) 199
+1 Sazh's Chocobo (FIN) 200
+1 Sea of Clouds (ZNE) 16
+1 Seaside Citadel (PLST) ALA-229
+1 Shrike Force (BLB) 31
+1 Sidequest: Raise a Chocobo / Black Chocobo (FIN) 201
+1 Sol Ring (MOC) 381
+1 Soraya the Falconer (HML) 18
+1 Spara's Headquarters (SNC) 293
+1 Summon: Fat Chocobo (FIN) 202
+1 Sunpetal Grove (SLD) 460
+1 Swan Song (THS) 65
+1 Swords to Plowshares (MB2) 153
+1 Temple Garden (RVR) 414
+1 Teshar, Ancestor's Apostle (NEC) 90
+1 The Goose Mother (WOE) 204
+1 Three Tree City (BLB) 260
+1 Three Visits (MKC) 189
+1 Traveling Chocobo (FIN) 210
+1 Urza's Incubator (C15) 273
+1 Warden of Evos Isle (CMR) 106
+1 Windswept Heath (MH3) 440
+1 Wingmate Roc (KTK) 31

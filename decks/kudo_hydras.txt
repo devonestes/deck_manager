@@ -9,29 +9,29 @@
 1 Bloodline Pretender (J22) 757
 1 Boseiju, Who Endures (NEO) 266
 1 Branching Evolution (LCC) 234
-1 Branchloft Pathway // Boulderloft Pathway (ZNR) 284
-1 Bridgeworks Battle // Tanglespan Bridgeworks (MH3) 249
+1 Branchloft Pathway / Boulderloft Pathway (ZNR) 284
+1 Bridgeworks Battle / Tanglespan Bridgeworks (MH3) 249
 1 Brushland (BRO) 259
 1 Canopy Vista (NCC) 389
-1 Caradora, Heart of Alacria (DFT) 195
 1 Champion of Lambholt (NCC) 284
-1 Circle of Dreams Druid (AFR) 176
 1 Command Tower (MOC) 396
 1 Conclave Mentor (2X2) 195
 1 Court of Garenbrig (WOC) 25
 1 Cryptolith Rite (SOI) 200
-1 Disciple of Freyalise // Garden of Freyalise (MH3) 250
+1 Disciple of Freyalise / Garden of Freyalise (MH3) 250
+1 Dr. John Seward (VOW) 344
+1 Dyadrine, Synthesis Amalgam (EOE) 298
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Elementalist's Palette (C21) 76
 1 Elesh Norn, Grand Cenobite (NPH) 9
-1 Elven Chorus (LTR) 160
 1 Endless One (CMM) 804
 1 Enduring Vitality (PDSK) 176p
 10 Forest (J22) 112
 1 Gala Greeters (SNC) 450
+1 Genesis Hydra (OTC) 193
 1 Goldvein Hydra (OTJ) 167
 1 Grand Crescendo (NCC) 16
-1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (XLN) 191
+1 Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun (XLN) 191
 1 Hamza, Guardian of Arashin (MOC) 327
 1 Hooded Hydra (C19) 172
 1 Horizon Canopy (WHO) 287
@@ -42,43 +42,41 @@
 1 Kalonian Hydra (M14) 181
 1 Kami of Whispered Hopes (MOM) 196
 1 Karametra, God of Harvests (BNG) 148
-1 Khalni Hydra (ROE) 192
 1 Kodama of the West Tree (NEO) 392
 1 Krosan Verge (MKC) 271
 1 Kutzil, Malamet Exemplar (LCI) 304
 1 Managorger Hydra (C21) 199
 1 March of the Multitudes (SCD) 236
 1 Mikaeus, the Lunarch (ISD) 23
-1 Mirror Entity (MKC) 75
 1 Nyxborn Hydra (MH3) 164
 1 Overgrown Farmland (MID) 283
 1 Patchwork Banner (BLB) 247
 1 Path to Exile (MOC) 198
-8 Plains (MKM) 277
+10 Plains (MKM) 277
 1 Primordial Hydra (J22) 712
 1 Quilled Greatwurm (FDN) 111
-1 Razorgrass Ambush // Razorgrass Field (MH3) 238
+1 Razorgrass Ambush / Razorgrass Field (MH3) 238
 1 Restless Prairie (LCI) 348
 1 Scattered Groves (PLST) AKH-247
 1 Scavenging Ooze (FDN) 232
+1 Shelinda, Yevon Acolyte (FIC) 94
 1 Silkguard (NEC) 29
 1 Sol Ring (MOC) 381
 1 Sovereign Okinec Ahau (LCI) 240
-1 Spinner of Souls (FDN) 341
+1 Sphere Grid (FIC) 70
 1 Steelbane Hydra (NCC) 313
 1 Stonecoil Serpent (CMM) 976
-1 Strength of the Harvest // Haven of the Harvest (MH3) 258
-1 Stumpsquall Hydra (CMR) 367
+1 Strength of the Harvest / Haven of the Harvest (MH3) 258
 1 Sungrass Prairie (C19) 277
 1 Swords to Plowshares (MB2) 153
 1 Tervigon (40K) 100
+1 The Earth Crystal (FIN) 184
 1 Threefold Thunderhulk (LCI) 265
-1 Torens, Fist of the Angels (VOW) 344
-1 Tribute to the World Tree (MOM) 211
 1 Triumph of the Hordes (NPH) 123
 1 Unbound Flourishing (MH1) 189
+1 Unbreakable Formation (MOC) 213
 1 Vrestin, Menoptra Leader (WHO) 1042
+1 Warden of the Grove (TDM) 166
 1 White Sun's Twilight (ONE) 38
-1 Witch Enchanter // Witch-Blessed Meadow (MH3) 239
-1 Wooded Bastion (SHM) 281
+1 Witch Enchanter / Witch-Blessed Meadow (MH3) 239
 1 Worldsoul Colossus (GRN) 215

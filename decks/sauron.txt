@@ -1,0 +1,85 @@
+1 Sauron, the Dark Lord (LTR) 224
+1 Animate Dead (3ED) 93
+1 Arcane Denial (ALL) 22a
+1 Arcane Signet (MOC) 348
+1 Beseech the Mirror (WOE) 336
+1 Black Market Connections (CLB) 620
+1 Blasphemous Act (BRC) 113
+1 Blood Crypt (UNF) 279
+1 Bringer of the Last Gift (LCI) 94
+1 Cavern-Hoard Dragon (LTC) 114
+1 Chaos Warp (BRC) 114
+1 Choked Estuary (MOC) 394
+1 Command Tower (MOC) 396
+1 Crumbling Necropolis (BRC) 179
+1 Cyclonic Rift (2XM) 339
+1 Damnation (TSR) 106
+1 Dark Ritual (3ED) 99
+1 Deadly Rollick (C20) 42
+1 Deflecting Swat (C20) 50
+1 Demonic Tutor (3ED) 105
+1 Dimir Signet (BRC) 138
+1 Dragonskull Summit (SLD) 458
+1 Drowned Catacomb (SLD) 457
+1 Entomb (EMA) 87
+1 Exotic Orchard (MOC) 398
+1 Faerie Mastermind (PMOM) 58p
+1 Faithless Looting (BRC) 116
+1 Force of Negation (MH1) 52
+1 Foreboding Ruins (LCC) 330
+5 Island (J22) 101
+1 Jeska's Will (CMR) 668
+1 Ledger Shredder (PSNC) 46p
+1 Lord of the Nazgûl (LTC) 60
+1 Mana Drain (CMR) 80
+1 Mana Vault (2ED) 260
+4 Mountain (J22) 107
+1 Mystic Remora (ICE) 87
+1 Nazgûl (LTR) 335
+1 Nazgûl (LTR) 338
+1 Nazgûl (LTR) 334
+1 Nazgûl (LTR) 337
+1 Nazgûl (LTR) 332
+1 Nazgûl (LTR) 336
+1 Nazgûl (LTR) 339
+1 Nazgûl (LTR) 333
+1 Nazgûl (LTR) 100
+1 Necromancy (VIS) 64
+1 Notion Thief (LTC) 270
+1 Opposition Agent (CMR) 141
+1 Orcish Bowmasters (LTR) 103
+1 Ragavan, Nimble Pilferer (MUL) 21
+1 Razaketh, the Foulblooded (CMM) 181
+1 Reanimate (TMP) 151
+1 Relic of Sauron (LTC) 79
+1 Rhystic Study (J22) 114
+1 Roaming Throne (LCI) 344
+1 Rogue's Passage (LTC) 326
+1 Sheoldred, the Apocalypse (DMU) 107
+1 Smoldering Marsh (BRC) 202
+1 Sol Ring (MOC) 381
+1 Spiteful Banditry (LTR) 439
+1 Steam Vents (UNF) 283
+1 Sulfur Falls (LTC) 333
+1 Sulfurous Springs (5ED) 424
+1 Sunken Hollow (MOC) 428
+9 Swamp (J22) 106
+1 Swan Song (LTC) 197
+1 Talisman of Creativity (MH1) 231
+1 Talisman of Dominance (MRD) 253
+1 Talisman of Indulgence (MRD) 255
+1 The One Ring (LTR) 451
+1 Thrill of Possibility (ONE) 151
+1 Toxic Deluge (C13) 96
+1 Troll of Khazad-dûm (LTR) 111
+1 Underground River (BRO) 267
+1 Vampiric Tutor (VIS) 72
+1 Virtue of Persistence / Locthwain Scorn (WOE) 115
+1 Warren Soultrader (MH3) 414
+1 Watery Grave (UNF) 278
+1 Wheel of Fortune (3ED) 185
+1 Windfall (LCC) 180
+1 Witch-king of Angmar (LTR) 423
+1 Wonder (MH2) 271
+1 Xander's Lounge (SNC) 294
+1 Yawgmoth, Thran Physician (TSR) 336

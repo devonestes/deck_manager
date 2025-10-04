@@ -1,0 +1,85 @@
+1 Yuna, Hope of Spira (FIN) 404
+1 A Realm Reborn (FIN) 344
+1 Aftermath Analyst (MKM) 148
+1 Arcane Signet (SLD) 1641
+1 Beast Within (ONC) 104
+1 Boseiju, Who Endures (NEO) 266
+1 Bountiful Promenade (ZNE) 20
+1 Brilliant Restoration (NEO) 7
+1 Brushland (BRO) 259
+1 Cache Grab (BLB) 167
+1 Calix, Guided by Fate (MAT) 165
+1 Canopy Vista (NCC) 389
+1 Command Tower (MOC) 396
+1 Crawling Sensation (J22) 642
+1 Eidolon of Blossoms (JOU) 122
+1 Eldrazi Conscription (UMA) 3
+1 Elspeth Conquers Death (THB) 13
+1 Enchantress's Presence (MH2) 283
+1 Enduring Vitality (DSK) 176
+1 Farewell (M3C) 170
+1 Flawless Maneuver (C20) 26
+8 Forest (J22) 112
+1 Ghostly Prison (PLST) CHK-10
+1 Golgari Grave-Troll (RVR) 144
+1 Greater Auramancy (WOT) 64
+1 Hallowed Haunting (SPG) 64
+1 Heliod, Sun-Crowned (THB) 18
+1 Hermit Druid (STH) 108
+1 Heroic Intervention (LTC) 249
+1 Horizon Canopy (WHO) 287
+1 Hushwood Verge (DSK) 261
+1 Ishgard, the Holy See / Faith & Grief (FIN) 283
+1 Karametra, God of Harvests (BNG) 148
+1 Lurking Predators (PLST) M10-190
+1 Lush Portico (MKM) 327
+1 Malevolent Rumble (MH3) 161
+1 Mana Reflection (M3C) 237
+1 Mirari's Wake (C17) 181
+1 Nature's Lore (DMR) 170
+1 Nesting Grounds (FIC) 408
+1 Newfound Adventure (FCA) 45
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Nyxbloom Ancient (THB) 190
+1 Ondu Spiritdancer (CMM) 756
+1 Overgrown Farmland (MID) 283
+1 Overlord of the Hauntwoods (DSK) 194
+1 Overlord of the Mistmoors (DSK) 23
+1 Path to Exile (MOC) 198
+9 Plains (3ED) 292
+1 Power Conduit (MRD) 229
+1 Privileged Position (RAV) 251
+1 Rampant Growth (M12) 190
+1 Reliquary Tower (BRC) 196
+1 Replenish (UDS) 15
+1 Sanctum Weaver (MH2) 171
+1 Satyr Wayfinder (BNG) 136
+1 Savannah (3ED) 285
+1 Scholar of New Horizons (FIC) 252
+1 Setessan Champion (CMM) 912
+1 Shifting Woodland (MH3) 357
+1 Shigeki, Jukai Visionary (NEO) 206
+1 Sigil of the Empty Throne (J22) 244
+1 Smothering Tithe (WOT) 67
+1 Sol Ring (MOC) 381
+1 Sphere of Safety (DSC) 104
+1 Starfield of Nyx (ORI) 33
+1 Sterling Grove (MH2) 293
+1 Strength of the Harvest / Haven of the Harvest (MH3) 258
+1 Summon: Good King Mog XII (FIC) 26
+1 Summon: Ixion (FIC) 195
+1 Summon: Knights of Round (FIN) 36
+1 Summon: Magus Sisters (FIC) 71
+1 Summon: Primal Garuda (FIN) 37
+1 Summon: Titan (FIN) 204
+1 Summon: Yojimbo (FIC) 28
+1 Sunpetal Grove (SLD) 460
+1 Swords to Plowshares (MB2) 153
+1 Sylvan Library (DMR) 350
+1 Teferi's Protection (SLD) 1691
+1 Temple Garden (RVR) 414
+1 Trouble in Pairs (MKC) 15
+1 Weaver of Harmony (NEO) 213
+1 Windswept Heath (MH3) 440
+1 Wooded Bastion (SHM) 281
+1 Yavimaya, Cradle of Growth (MH2) 441

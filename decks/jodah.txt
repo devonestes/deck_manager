@@ -1,0 +1,100 @@
+1 Warrior of Light (FCA) 17
+1 Absolute Virtue (FIN) 476
+1 Aerith Gainsborough (FIN) 4
+1 Arcane Signet (FIC) 332
+1 Ardbert, Warrior of Darkness (FIC) 77
+1 Ardyn Izunia (FCA) 37
+1 Barnabas Tharmr (FCA) 56
+1 Baron, Airship Kingdom (FIN) 273
+1 Bartz Klauser (FCA) 19
+1 Battlefield Forge (FIC) 375
+1 Brushland (FIC) 377
+1 Bugenhagen, Wise Elder (FIC) 159
+1 Cecil, Dark Knight / Cecil, Redeemed Paladin (FIN) 380
+1 Clive's Hideaway (FIN) 275
+1 Cloud Strife (FCA) 42
+1 Command Tower (FIC) 382
+1 Crystal of Altar Cave (FCA) 61
+1 Darkwater Catacombs (FIC) 384
+1 Desolate Mire (FIC) 386
+1 Dion, Bahamut's Dominant / Bahamut, Warden of Light (FIN) 376
+1 Exotic Orchard (FIC) 390
+1 Fang, Fearless l'Cie (FIN) 526
+1 Fetid Heath (FIC) 391
+1 Fire-Lit Thicket (FIC) 392
+1 Flooded Grove (FIC) 393
+1 Forest (FIN) 307
+1 Garnet Til Alexandros 17th (FCA) 24
+1 Gogo, Master of Mimicry (FIN) 437
+1 Gogo, Mysterious Mime (FIC) 153
+1 Gohn, Town of Ruin (FIN) 278
+1 Gongaga, Reactor Town (FIN) 280
+1 Graven Cairns (FIC) 401
+1 Guadosalam, Farplane Gateway (FIN) 281
+1 Hero of Light (FCA) 1
+1 Hinterland Harbor (FIC) 403
+1 Hraesvelgr of the First Brood (FIC) 37
+1 Hugo Kupka (FCA) 50
+1 Ignis Scientia (FIN) 227
+1 Island (FIN) 298
+1 Isolated Chapel (FIC) 405
+1 Jecht, Reluctant Guardian / Braska's Final Aeon (FIN) 363
+1 Jenova, Ancient Calamity (FIN) 228
+1 Jill, Shiva's Dominant / Shiva, Warden of Ice (FIN) 378
+1 Joshua, Phoenix's Dominant / Phoenix, Warden of Fire (FIN) 397
+1 Kefka, Court Mage / Kefka, Ruler of Ruin (FIN) 231
+1 Kefka, Dancing Mad (FIC) 174
+1 Kimahri, Valiant Guardian (FIC) 175
+1 Locke, Treasure Hunter (FIC) 177
+1 Master Xande (FCA) 6
+1 Minwu, Rebellion Strategist (FCA) 25
+1 Mossfire Valley (FIC) 407
+1 Mountain (FIN) 303
+1 Newfound Adventure (FCA) 45
+1 Noctis Lucis Caelum (FCA) 23
+1 Orphan, Cocoon fal'Cie (FCA) 57
+1 Overflowing Basin (FIC) 410
+1 Path to Exile (FIC) 248
+1 Plains (FIN) 295
+1 Protection Magic (FIC) 107
+1 Rabanastre, Royal City (FIN) 287
+1 Reach the Horizon (FIN) 195
+1 Relic of Legends (FIC) 354
+1 Rosa, Resolute White Mage (FIN) 555
+1 Rugged Prairie (FIC) 417
+1 Sephiroth, the Savior (FCA) 49
+1 Serah Farron / Crystallized Serah (FIN) 240
+1 Seymour Guado (FCA) 55
+1 Shadowblood Ridge (FIC) 421
+1 Sin, Spira's Punishment (FIN) 348
+1 Skycloud Expanse (FIC) 423
+1 Sol Ring (FIC) 356
+1 Squall, SeeD Mercenary (FIN) 243
+1 Starting Town (FIN) 289
+1 Sulfurous Springs (FIC) 427
+1 Summon: Fenrir (FIN) 372
+1 Sunken Ruins (FIC) 430
+1 Sunscorched Divide (FIC) 433
+1 Swamp (FIN) 302
+1 Swords to Plowshares (FIC) 256
+1 Talisman of Conviction (FIC) 363
+1 Talisman of Dominance (FIC) 364
+1 Tataru Taru (FIC) 30
+1 Temple of Enlightenment (FIC) 435
+1 Temple of Mystery (FIC) 436
+1 Temple of Plenty (FIC) 437
+1 The Lunar Whale (FIN) 60
+1 The Regalia (FIN) 267
+1 The Wandering Minstrel (FIN) 548
+1 The Warring Triad (FIC) 99
+1 Thought Vessel (FIC) 368
+1 Tidus, Yuna's Guardian (FIC) 205
+1 Torgal, A Fine Hound (FIN) 345
+1 Underground River (FIC) 439
+1 Vaan, Aspiring Sky Pirate (FCA) 38
+1 Vanille, Cheerful l'Cie (FIN) 392
+1 Vector, Imperial Capital (FIN) 291
+1 Venat, Heart of Hydaelyn / Hydaelyn, the Mothercrystal (FIN) 329
+1 Wild Rose Rebellion (FCA) 4
+1 Windurst, Federation Center (FIN) 292
+1 Yuna, Grand Summoner (FIC) 8

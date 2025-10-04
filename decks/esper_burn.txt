@@ -1,0 +1,92 @@
+1 Y'shtola, Night's Blessed (FIC) 7
+1 Adarkar Wastes (ICE) 351
+1 Alisaie Leveilleur (FIC) 9
+1 Alphinaud Leveilleur (FIC) 33
+1 Anguished Unmaking (SLD) 138
+1 Arcane Sanctum (MOC) 390
+1 Arcane Signet (SLD) 1641
+1 Baleful Strix (MKC) 200
+1 Black Market Connections (CLB) 620
+1 Bloodchief Ascension (CMM) 636
+1 Caves of Koilos (MD1) 14
+1 Chromatic Lantern (RTR) 226
+1 Circle of Power (FIN) 92
+1 City of Brass (MB2) 240
+1 Command Tower (MOC) 396
+1 Commander's Sphere (MOC) 352
+1 Curiosity (WOT) 17
+1 Deadly Rollick (CMM) 695
+1 Delney, Streetwise Lookout (MKM) 337
+1 Demonic Tutor (3ED) 105
+1 Deserted Beach (MID) 281
+1 Dismember (NPH) 57
+1 Drowned Catacomb (SLD) 457
+1 Emet-Selch of the Third Seat (FIC) 81
+1 Enduring Tenacity (DSK) 374
+1 Esper Sentinel (H2R) 2
+1 Exotic Orchard (MOC) 398
+1 Exsanguinate (FDN) 173
+1 Fell the Profane / Fell Mire (MH3) 244
+1 Fellwar Stone (MOC) 356
+1 Fierce Guardianship (CMM) 694
+1 Flawless Maneuver (C20) 26
+1 Flooded Strand (MH3) 436
+1 Force of Negation (MH1) 52
+1 Frantic Search (CMM) 96
+1 G'raha Tia, Scion Reborn (FIC) 3
+1 Ghostly Prison (PLST) CHK-10
+1 Glacial Fortress (LTC) 315
+1 Godless Shrine (RVR) 401
+1 Hallowed Fountain (RVR) 404
+1 High Fae Trickster (FDN) 40
+1 Inkshield (C21) 398
+3 Island (J22) 101
+1 Isolated Chapel (LCC) 337
+1 Lethal Scheme (FIC) 277
+1 Lyse Hext (FIC) 88
+1 Marsh Flats (MH2) 437
+1 Mindsplice Apparatus (ONE) 63
+1 Morphic Pool (ZNE) 17
+1 Mystic Remora (ICE) 87
+1 Otawara, Soaring City (NEO) 503
+1 Papalymo Totolymo (FIC) 90
+1 Phyrexian Arena (MKC) 133
+3 Plains (UNF) 240
+1 Polluted Delta (MH3) 438
+1 Press the Enemy (LTR) 65
+1 Promise of Loyalty (MOC) 200
+1 Propaganda (OTC) 108
+1 Raffine's Tower (SNC) 292
+1 Reliquary Tower (BRC) 196
+1 Rhystic Study (WOT) 71
+1 Sea of Clouds (ZNE) 16
+1 Sheoldred, the Apocalypse (DMU) 107
+1 Shipwreck Marsh (MID) 285
+1 Sink into Stupor / Soporific Springs (MH3) 241
+1 Smothering Tithe (WOT) 67
+1 Snuff Out (GVL) 53
+1 Sol Ring (MOC) 381
+1 Submerge (PLST) NEM-48
+1 Sunken Hollow (MOC) 428
+5 Swamp (J22) 106
+1 Swords to Plowshares (MB2) 153
+1 Talion, the Kindly Lord (WOE) 301
+1 Talisman of Dominance (MRD) 253
+1 Talisman of Hierarchy (LCC) 315
+1 Talisman of Progress (LTC) 286
+1 Teferi, Time Raveler (WAR) 221
+1 Teferi's Protection (SLD) 1691
+1 The Darkness Crystal (FIN) 96
+1 The One Ring (LTR) 697
+1 Thought Vessel (PLG22) 2
+1 Torment of Hailfire (HOU) 77
+1 Toxic Deluge (C13) 96
+1 Transpose (FIC) 52
+1 Treasure Cruise (OTC) 120
+1 Underground River (BRO) 267
+1 Unwind (DOM) 72
+1 Vault of Champions (CMM) 667
+1 Vito, Thorn of the Dusk Rose (M21) 127
+1 Void Rend (FIC) 331
+1 Watery Grave (RVR) 415
+1 Windfall (LCC) 180

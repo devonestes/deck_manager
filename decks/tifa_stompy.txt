@@ -1,0 +1,95 @@
+1 Tifa, Martial Artist (FIC) 6
+1 Adeline, Resplendent Cathar (DBL) 1
+1 Adriana, Captain of the Guard (C20) 200
+1 Akroma's Will (LCC) 125
+1 Anzrag, the Quake-Mole (MKM) 186
+1 Arcane Signet (SLD) 1641
+1 Arid Mesa (MH2) 436
+1 Aura Shards (CMD) 182
+1 Aurelia, the Warleader (GTC) 143
+1 Avacyn's Pilgrim (ISD) 170
+1 Beastmaster Ascension (PLST) ZEN-159
+1 Birds of Paradise (M12) 165
+1 Bloodstained Mire (MH3) 435
+1 Bloodthirster (40K) 73
+1 Bloom Tender (EVE) 66
+1 Boseiju, Who Endures (NEO) 266
+1 Bountiful Promenade (ZNE) 20
+1 Cavern of Souls (LCI) 269
+1 City of Brass (MB2) 240
+1 Combat Celebrant (LTC) 212
+1 Command Tower (MOC) 396
+1 Cultivate (J22) 644
+1 Deflecting Swat (CMM) 698
+1 Delighted Halfling (LTR) 402
+1 Dolmen Gate (LRW) 256
+1 Enduring Courage (DSK) 133
+1 Esper Sentinel (H2R) 2
+1 Exotic Orchard (MOC) 398
+1 Fanatic of Rhonas (MH3) 458
+1 Farseek (RVR) 138
+1 Finale of Devastation (WAR) 160
+1 Flawless Maneuver (C20) 26
+1 Flooded Strand (MH3) 436
+4 Forest (J22) 112
+1 Galadriel's Dismissal (LTC) 500
+1 Garruk's Uprising (WOT) 53
+1 Ghalta, Primal Hunger (FDN) 222
+1 Goreclaw, Terror of Qal Sisma (MUL) 27
+1 Guardian Project (RNA) 130
+1 Halana and Alena, Partners (VOW) 239
+1 Heroic Intervention (LTC) 249
+1 Iroas, God of Victory (PLST) C16-205
+1 Jetmir's Garden (SNC) 291
+1 Karlach, Fury of Avernus (CLB) 186
+1 Kessig Wolf Run (LCC) 340
+1 Kutzil, Malamet Exemplar (LCI) 304
+1 Legion Leadership / Legion Stronghold (MH3) 255
+1 Lightning Greaves (SLD) 1493
+1 Llanowar Elves (FDN) 227
+1 Mana Confluence (JOU) 163
+1 Marsh Flats (MH2) 437
+1 Misty Rainforest (MH2) 438
+1 Moraug, Fury of Akoum (ZNR) 300
+2 Mountain (J22) 107
+1 Nature's Lore (DMR) 170
+1 Ohran Frostfang (SLD) 237
+1 Old Gnawbone (AFR) 197
+1 Path to Exile (MOC) 198
+1 Pathbreaker Ibex (SLD) 307
+2 Plains (UNF) 240
+1 Plateau (3ED) 284
+1 Prismatic Vista (SPG) 38
+1 Professional Face-Breaker (J22) 581
+1 Ragavan, Nimble Pilferer (MUL) 21
+1 Rhythm of the Wild (SLD) 1740
+1 Rishkar's Expertise (NEC) 127
+1 Roaming Throne (LCI) 344
+1 Rogue's Passage (LTC) 326
+1 Sacred Foundry (RVR) 409
+1 Savannah (3ED) 285
+1 Scalding Tarn (MH2) 439
+1 Sephiroth, Fallen Hero (FIC) 92
+1 Skyhunter Strike Force (PLST) ONC-21
+1 Sol Ring (MOC) 381
+1 Spectator Seating (CMM) 664
+1 Spire Garden (ZNE) 19
+1 Stomping Ground (RVR) 413
+1 Swiftfoot Boots (BRC) 166
+1 Swords to Plowshares (MB2) 153
+1 Taiga (3ED) 287
+1 Talisman of Impulse (MRD) 254
+1 Teferi's Protection (SLD) 1691
+1 Temple Garden (RVR) 414
+1 The Party Tree (LTC) 348
+1 Three Visits (MKC) 189
+1 Toski, Bearer of Secrets (KHM) 197
+1 Unnatural Growth (SLD) 865
+1 Verdant Catacombs (MH2) 440
+1 Voice of Victory (TDM) 33
+1 Windcrag Siege (TDM) 392
+1 Windswept Heath (MH3) 440
+1 Wooded Foothills (MH3) 441
+1 Xenagos, God of Revels (LCC) 295
+1 Yavimaya, Cradle of Growth (MH2) 441
+1 Zopandrel, Hunger Dominus (ONE) 195

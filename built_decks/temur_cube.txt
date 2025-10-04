@@ -1,30 +1,34 @@
 Ancient Copper Dragon (PROXY)
 Ancient Greenwarden (PROXY)
-Birgi, God of Storytelling // Harnfel, Horn of Bounty (PROXY)
+Ashaya, Soul of the Wild (PROXY)
+Beast Whisperer (PROXY)
+Birds of Paradise (PROXY)
 Cityscape Leveler (PROXY)
 Cultivator Colossus (PROXY)
+Delighted Halfling (PROXY)
+Doppelgang (PROXY)
 Dreamroot Cascade (PROXY)
-Frontier Bivouac (PROXY)
 Genesis Ultimatum (PROXY)
-Ketria Triome (PROXY)
-Lórien Revealed (PROXY)
 Maelstrom Wanderer (PROXY)
 Miirym, Sentinel Wyrm (PROXY)
 Nissa, Resurgent Animist (PROXY)
 Omnath, Locus of Rage (PROXY)
 Oracle of Mul Daya (PROXY)
+Ramunap Excavator (PROXY)
+Renata, Called to the Hunt (PROXY)
 Rockfall Vale (PROXY)
-Rootbound Crag (PROXY)
 Sarkhan Unbroken (PROXY)
 Scute Swarm (PROXY)
 Skullclamp (PROXY)
-Stormcarved Coast (PROXY)
-Sulfur Falls (PROXY)
+Talisman of Curiosity (PROXY)
 Temur Ascendancy (PROXY)
 Terror of the Peaks (PROXY)
 The Great Henge (PROXY)
-Urza's Saga (PROXY)
-Wooded Foothills (PROXY)
+Tifa Lockhart (PROXY)
+Tribute to the World Tree (PROXY)
+Triumph of the Hordes (PROXY)
+Vorinclex, Monstrous Raider (PROXY)
+Yeva, Nature's Herald (PROXY)
 Abbot of Keral Keep
 Abhorrent Oculus
 Abrade
@@ -38,7 +42,6 @@ Anax, Hardened in the Forge
 Archaeomancer
 Archive Trap
 Arena of Glory
-Ashaya, Soul of the Wild
 Ashroot Animist
 Primeval Titan
 Astrologian's Planisphere
@@ -48,9 +51,8 @@ Balmor, Battlemage Captain
 Baral and Kari Zev
 Bard Class
 Basalt Monolith
-Beast Whisperer
 Behold the Multiverse
-Birds of Paradise
+Birgi, God of Storytelling // Harnfel, Horn of Bounty
 Blighted Agent
 Blightsteel Colossus
 Bloated Contaminator
@@ -93,12 +95,10 @@ Daze
 Death-Greeter's Champion
 Deepglow Skate
 Defiler of Vigor
-Delighted Halfling
 Delver of Secrets // Insectile Aberration
 Dig Through Time
 Disciple of Freyalise // Garden of Freyalise
 Doomskar Warrior
-Doppelgang
 Dragon Turtle
 Dragon's Rage Channeler
 Dragonback Assault
@@ -145,6 +145,7 @@ Fractured Sanity
 Frantic Search
 Fraying Sanity
 Frilled Mystic
+Frontier Bivouac
 Fury
 Garruk Wildspeaker
 Garruk's Uprising
@@ -209,6 +210,7 @@ Karn, Scion of Urza
 Kazandu Mammoth // Kazandu Valley
 Kazuul's Fury // Kazuul's Cliffs
 Keruga, the Macrosage
+Ketria Triome
 Kiln Fiend
 Kird Ape
 Kolaghan Warmonger
@@ -224,6 +226,7 @@ Lightning Greaves
 Lightning Strike
 Living Twister
 Llanowar Elves
+Lórien Revealed
 Lotus Cobra
 Lovestruck Beast // Heart's Desire
 Lutri, the Spellchaser
@@ -287,13 +290,11 @@ Pyrogoyf
 Questing Beast
 Ragavan, Nimble Pilferer
 Rampaging Baloths
-Ramunap Excavator
 Rattleclaw Mystic
 Reckless Impulse
 Reckless Stormseeker // Storm-Charged Slasher
 Reckoner Bankbuster
 Relic of Sauron
-Renata, Called to the Hunt
 Repulsive Mutation
 Retrofitter Foundry
 Rhythm of the Wild
@@ -302,6 +303,7 @@ Riverchurn Monument
 Riverpyre Verge
 Roar of Endless Song
 Roaring Furnace // Steaming Sauna
+Rootbound Crag
 Roxanne, Starfall Savant
 Ruin Crab
 Runaway Steam-Kin
@@ -347,11 +349,13 @@ Stingerback Terror
 Stoic Sphinx
 Stomping Ground
 Storm-Kiln Artist
+Stormcarved Coast
 Stormcatch Mentor
 Strangle
 Strip Mine
 Sublime Epiphany
 Subtlety
+Sulfur Falls
 Summon: Leviathan
 Suplex
 Surge Engine
@@ -361,7 +365,6 @@ Sylvan Scavenging
 Taiga
 Tainted Observer
 Talisman of Creativity
-Talisman of Curiosity
 Talisman of Impulse
 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
 Tasha's Hideous Laughter
@@ -384,7 +387,6 @@ Thought Scour
 Thran Dynamo
 Through the Breach
 Thrummingbird
-Tifa Lockhart
 Time Warp
 Tinker
 Tireless Provisioner
@@ -395,9 +397,7 @@ Toski, Bearer of Secrets
 Tovolar's Huntmaster // Tovolar's Packleader
 Traveling Chocobo
 Treachery
-Tribute to the World Tree
 Triplicate Titan
-Triumph of the Hordes
 Tropical Island
 Trumpeting Carnosaur
 Ulvenwald Oddity // Ulvenwald Behemoth
@@ -409,6 +409,7 @@ Unnatural Restoration
 Ureni, the Song Unending
 Uro, Titan of Nature's Wrath
 Ursine Monstrosity
+Urza's Saga
 Utopia Sprawl
 Valakut Exploration
 Vaultborn Tyrant
@@ -421,7 +422,6 @@ Vivien, Champion of the Wilds
 Volcanic Island
 Voldaren Epicure
 Voracious Greatshark
-Vorinclex, Monstrous Raider
 Walking Ballista
 Wandering Mind
 Wasteland
@@ -435,12 +435,12 @@ Wildborn Preserver
 Wilderness Reclamation
 Wildwood Scourge
 Willowrush Verge
+Wooded Foothills
 Woodfall Primus
 Workshop Warchief
 Worldspine Wurm
 Wrenn and Six
 Wurmcoil Engine
-Yeva, Nature's Herald
 Yorion, Sky Nomad
 Young Pyromancer
 Zealous Conscripts

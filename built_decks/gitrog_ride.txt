@@ -7,6 +7,7 @@ Beast Within
 Berserk
 Birds of Paradise
 Bojuka Bog
+Bygone Colossus
 Colossal Rattlewurm
 Command Tower
 Cultivate
@@ -28,8 +29,6 @@ Forest
 Forest
 Forest
 Forest
-Forest
-Fyndhorn Elves
 Garruk's Uprising
 Ghalta, Primal Hunger
 Golgari Rot Farm
@@ -61,12 +60,11 @@ Reanimate
 Relic Golem
 Reliquary Tower
 Retreat to Hagra
-Retreat to Kazandu
-Return of the Wildspeaker
 Roaring Earth
 Rogue's Passage
 Selvala, Heart of the Wilds
 Shakedown Heavy
+Shizo, Death's Storehouse
 Sol Ring
 Spectral Force
 Spinner of Souls
@@ -87,6 +85,7 @@ Thought Vessel
 Three Visits
 Tireless Provisioner
 Torment of Hailfire
+Trailblazer's Boots
 Underground Mortuary
 Undergrowth Stadium
 Unnatural Growth
@@ -94,6 +93,7 @@ Verdant Catacombs
 Viridescent Bog
 Waning Wurm
 Whispersilk Cloak
+Xu-Ifit, Osteoharmonist
 Yargle and Multani
 Yargle, Glutton of Urborg
 Zendikar's Roil

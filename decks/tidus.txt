@@ -1,0 +1,90 @@
+1 Tidus, Yuna's Guardian (FIC) 5
+1 Adamantium Bonding Tank (SLD) 1741
+1 Arcane Signet (SLD) 1641
+1 Arid Mesa (MH2) 436
+1 Arwen, Mortal Queen (LTR) 193
+1 Birds of Paradise (M12) 165
+1 Boseiju, Who Endures (NEO) 266
+1 Bountiful Promenade (ZNE) 20
+1 Branching Evolution (LCC) 234
+1 Breeding Pool (RVR) 399
+1 Bristly Bill, Spine Sower (OTJ) 157
+1 Champion of Lambholt (NCC) 284
+1 Command Tower (MOC) 396
+1 Cyclonic Rift (RVR) 313
+1 Damning Verdict (NCC) 116
+1 Danny Pink (WHO) 39
+1 District Mascot (DFT) 158
+1 Doubling Season (2XM) 350
+1 Dreamtide Whale (MH3) 450
+1 Envoy of the Ancestors (MH3) 23
+1 Esper Sentinel (H2R) 2
+1 Everflowing Chalice (LTC) 278
+1 Evolution Sage (PLST) WAR-159
+1 Evolution Witness (MH3) 151
+1 Exotic Orchard (MOC) 398
+1 Farewell (M3C) 170
+1 Fathom Mage (GTC) 162
+1 Flooded Strand (MH3) 436
+5 Forest (J22) 112
+1 Forgotten Ancient (NCC) 291
+1 Grateful Apparition (WAR) 17
+1 Gyre Sage (MOC) 300
+1 Hallowed Fountain (RVR) 404
+1 Hardened Scales (WOT) 55
+1 Herald of Secret Streams (LCC) 158
+1 Incubation Druid (MOC) 302
+1 Innkeeper's Talent (BLB) 180
+1 Inspiring Call (MOC) 304
+4 Island (J22) 101
+1 Kami of Whispered Hopes (MOM) 196
+1 Karn's Bastion (CMM) 1007
+1 Kimahri, Valiant Guardian (FIC) 175
+1 Kodama of the West Tree (NEO) 392
+1 Luminous Broodmoth (FIC) 246
+1 Marketback Walker (DFT) 235
+1 Marsh Flats (MH2) 437
+1 Misty Rainforest (MH2) 438
+1 Nature's Lore (DMR) 170
+1 Nesting Grounds (MH3) 302
+1 Newfound Adventure (FCA) 45
+1 Noble Hierarch (2XM) 177
+1 Otawara, Soaring City (NEO) 503
+1 Ozolith, the Shattered Spire (MOM) 198
+1 Path to Exile (MOC) 198
+4 Plains (UNF) 240
+1 Polluted Delta (MH3) 438
+1 Pollywog Prodigy (BLC) 15
+1 Protection Magic (FIC) 107
+1 Rejuvenating Springs (LTC) 325
+1 Reluctant Role Model (DSK) 303
+1 Resourceful Defense (FIC) 251
+1 Rhystic Study (WOT) 71
+1 Rikku, Resourceful Guardian (FIC) 41
+1 Ripples of Potential (LCC) 77
+1 Scalding Tarn (MH2) 439
+1 Sea of Clouds (ZNE) 16
+1 Shelinda, Yevon Acolyte (FIC) 94
+1 Sin, Unending Cataclysm (FIC) 95
+1 Sol Ring (MOC) 381
+1 Spara's Headquarters (SNC) 293
+1 Sphere Grid (FIC) 70
+1 Summon: Valefor (FIC) 197
+1 Summon: Yojimbo (FIC) 28
+1 Sword of Truth and Justice (MH1) 229
+1 Swords to Plowshares (MB2) 153
+1 Teferi's Protection (SLD) 1691
+1 Tekuthal, Inquiry Dominus (ONE) 71
+1 Temple Garden (RVR) 414
+1 The Party Tree (LTC) 348
+1 Three Visits (MKC) 189
+1 Thrummingbird (ONE) 288
+1 Verdant Catacombs (MH2) 440
+1 Vorinclex, Monstrous Raider (KHM) 333
+1 Wakka, Devoted Guardian (FIC) 97
+1 Wave Goodbye (LCC) 79
+1 Willowrush Verge (DFT) 270
+1 Windswept Heath (MH3) 440
+1 Wooded Foothills (MH3) 441
+1 Yavimaya, Cradle of Growth (MH2) 441
+1 Yuna, Grand Summoner (FIC) 8

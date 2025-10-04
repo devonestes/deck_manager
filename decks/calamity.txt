@@ -1,0 +1,71 @@
+1 Calamity, Galloping Inferno (OTJ) 116
+1 Abrade (FDN) 188
+1 Arcane Signet (SLD) 1641
+1 Beetleback Chief (PC2) 40
+1 Big Score (SNC) 102
+1 Blasphemous Act (BRC) 113
+1 Bloodthirster (40K) 73
+1 Castle Embereth (ELD) 239
+1 Cavalier of Flame (PLST) M20-125
+1 Caves of Chaos Adventurer (CLB) 167
+1 Chaos Warp (PW24) 7
+1 Circuit Mender (PLST) NEO-242
+1 Combustible Gearhulk (M3C) 210
+1 Count on Luck (DFT) 118
+1 Cursed Mirror (BRC) 115
+1 Demand Answers (MKM) 122
+1 Dragon Trainer (FDN) 84
+1 Faithless Looting (BRC) 116
+1 Fear of Burning Alive (DSK) 135
+1 Fear of Missing Out (DSK) 136
+1 Filigree Familiar (KLD) 212
+1 Flametongue Kavu (DMR) 432
+1 Flaming Tyrannosaurus (WHO) 385
+1 Fury (MH2) 313
+1 Goblin Bombardment (TMP) 179
+1 Hoarding Dragon (PLST) IMA-134
+1 Idol of Oblivion (BRC) 144
+1 Impact Tremors (DTK) 140
+1 Industrial Advancement (NCC) 47
+1 Inferno Titan (BLC) 198
+1 Mana Geyser (PLST) 5DN-75
+1 Meteor Golem (FDN) 256
+1 Mind Stone (MOC) 364
+30 Mountain (J22) 107
+1 Myr Battlesphere (M3C) 301
+1 Myriad Landscape (MOC) 416
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Overlord of the Boilerbilges (DSK) 146
+1 Overpowering Attack (ACR) 37
+1 Panharmonicon (TSR) 399
+1 Piggy Bank (DSK) 148
+1 Pinnacle Monk / Mystic Peak (MH3) 246
+1 Plundering Barbarian (AFR) 158
+1 Port Razer (LCC) 230
+1 Professional Face-Breaker (J22) 581
+1 Rapacious Dragon (PLST) 2XM-140
+1 Rogue's Passage (LTC) 326
+1 Rose Room Treasurer (BLC) 201
+1 Ruby Medallion (CMM) 613
+1 Siege-Gang Commander (BLC) 202
+1 Sol Ring (MOC) 381
+1 Solemn Simulacrum (BRC) 161
+1 Storm's Will (SLD) 1744
+1 Strionic Resonator (BRC) 165
+1 Sundering Eruption / Volcanic Fissure (MH3) 248
+1 Sundial of the Infinite (M12) 218
+1 Sunspine Lynx (BLB) 155
+1 Swiftfoot Boots (BRC) 166
+1 Terror of the Peaks (M21) 369
+1 Thought Vessel (PLG22) 2
+1 Trumpeting Carnosaur (LCI) 171
+1 Twinflame Tyrant (FDN) 97
+1 Unlucky Witness (SNC) 128
+1 Untimely Malfunction (DSK) 161
+1 Valakut, the Molten Pinnacle (ZEN) 228
+1 Vandalblast (OTC) 183
+1 War Room (WHO) 330
+1 Warstorm Surge (BLC) 117
+1 Wayfarer's Bauble (BRC) 171
+1 Wurmcoil Engine (SOM) 223
+1 Zealous Conscripts (LTC) 231

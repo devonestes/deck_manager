@@ -1,0 +1,79 @@
+1 Teysa, Opulent Oligarch (MKM) 234
+1 Academy Manufactor (MH2) 219
+1 Acolyte of Aclazotz (LCI) 89
+1 Anguished Unmaking (SLD) 138
+1 Anointed Procession (AKH) 2
+1 Arcane Signet (MOC) 348
+1 Ashnod's Altar (5ED) 349
+1 Austere Command (LCC) 126
+1 Bartolomé del Presidio (LCI) 301
+1 Bastion of Remembrance (BLC) 179
+1 Bennie Bracks, Zoologist (NCC) 86
+1 Black Market Connections (CLB) 620
+1 Bojuka Bog (MOC) 391
+1 Carmen, Cruel Skymarcher (LCC) 5
+1 Caves of Koilos (MD1) 14
+1 Command Tower (MOC) 396
+1 Corpse Knight (MOC) 321
+1 Cruel Celebrant (LCC) 267
+1 Crypt Ghast (GTC) 61
+1 Damn (LCC) 191
+1 Deadly Dispute (P30A) 29
+1 Deadly Rollick (C20) 42
+1 Debt to the Deathless (RVR) 364
+1 Delney, Streetwise Lookout (MKM) 337
+1 Despark (MOC) 322
+1 Dreg Recycler (MOM) 100
+1 Dusk / Dawn (PLST) CLB-691
+1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
+1 Elspeth, Storm Slayer (TDM) 398
+1 Elspeth, Sun's Champion (BLC) 97
+1 Exotic Orchard (MOC) 398
+1 Exsanguinate (SOM) 61
+1 Fanatical Offering (LCI) 105
+1 Farewell (M3C) 170
+1 Flare of Fortitude (MH3) 391
+1 Generous Gift (NEC) 84
+1 Glasswing Grace / Age-Graced Chapel (MH3) 254
+1 Godless Shrine (RVR) 401
+1 Idol of Oblivion (BRC) 144
+1 Inkshield (C21) 398
+1 Inspiring Statuary (MKC) 230
+1 Isolated Chapel (LCC) 337
+1 Lim-Dûl's Hex (ICE) 146
+1 Marionette Apprentice (MH3) 100
+1 Merchant of Truth (MKC) 11
+1 Mind Stone (MOC) 364
+1 Mirkwood Bats (LTR) 95
+1 Mondrak, Glory Dominus (ONE) 23
+1 Morbid Opportunist (BLC) 183
+1 Nadier's Nightblade (BLC) 184
+1 Novice Inspector (MKM) 29
+1 Orzhov Basilica (LCC) 345
+1 Orzhov Signet (MOC) 369
+1 Path to Exile (MOC) 198
+1 Persuasive Interrogators (MKM) 98
+11 Plains (J22) 98
+1 Priest of Forgotten Gods (RVR) 90
+1 Reliquary Tower (BRC) 196
+1 Rottenmouth Viper (BLB) 290
+1 Sanctum of Stone Fangs (M21) 120
+1 Shadowy Backstreet (MKM) 268
+1 Shineshadow Snarl (MOC) 422
+1 Skullclamp (DST) 140
+1 Smothering Tithe (RNA) 22
+1 Sol Ring (MOC) 381
+12 Swamp (J22) 106
+1 Swords to Plowshares (MOC) 211
+1 Tainted Field (LCC) 356
+1 Talisman of Hierarchy (LCC) 315
+1 Temple of Silence (MOC) 436
+1 Thought Vessel (PLG22) 2
+1 Tocasia's Welcome (PLST) BRO-30
+1 Toxic Deluge (C13) 96
+1 Treacherous Greed (MKM) 237
+1 Trouble in Pairs (MKC) 15
+1 Vault of Champions (CMR) 715
+1 Village Rites (J22) 486
+1 Welcoming Vampire (LCC) 140
+1 Zulaport Cutthroat (CLB) 775

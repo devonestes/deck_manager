@@ -1,0 +1,89 @@
+1 Vivi Ornitier (FIN) 321
+1 An Offer You Can't Refuse (SLP) 7
+1 Ancient Tomb (TMP) 315
+1 Arcane Denial (ALL) 22a
+1 Arcane Signet (SLD) 1641
+1 Archmage Emeritus (OTC) 90
+1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 123
+1 Brain Freeze (SCG) 29
+1 Brainstorm (MB2) 155
+1 Chrome Mox (2XM) 240
+1 Command Tower (MOC) 396
+1 Consider (MKC) 98
+1 Counterspell (TMP) 57
+1 Curiosity (WOT) 17
+1 Cyclonic Rift (RVR) 313
+1 Deflecting Swat (CMM) 698
+1 Faithless Looting (BRC) 116
+1 Fellwar Stone (MOC) 356
+1 Fierce Guardianship (CMM) 694
+1 Fiery Islet (WHO) 278
+1 Flooded Strand (MH3) 436
+1 Flusterstorm (MH1) 255
+1 Force of Negation (MH1) 52
+1 Force of Will (ALL) 28
+1 Frantic Search (CMM) 96
+1 Gamble (EMA) 132
+1 Gitaxian Probe (NPH) 35
+1 Grapeshot (STA) 39
+1 Gut Shot (NPH) 86
+1 Guttersnipe (IMA) 131
+1 Harmonic Prodigy (MH2) 132
+1 Hullbreaker Horror (WOC) 95
+8 Island (J22) 101
+1 Izzet Signet (NCC) 369
+1 Lightning Bolt (4ED) 208
+1 Lion's Eye Diamond (MIR) 307
+1 Lotus Petal (TMP) 294
+1 Mana Vault (2ED) 260
+1 Mental Misstep (SLD) 1179
+1 Mistrise Village (TDM) 261
+1 Misty Rainforest (MH2) 438
+5 Mountain (J22) 107
+1 Mox Amber (BRR) 35
+1 Mox Diamond (STH) 138
+1 Mox Opal (2XM) 275
+1 Mystic Remora (ICE) 87
+1 Mystical Tutor (MIR) 80
+1 Niv-Mizzet, Parun (OTC) 235
+1 Niv-Mizzet, Visionary (PFDN) 123p
+1 Ophidian Eye (TSP) 70
+1 Opt (LTC) 194
+1 Otawara, Soaring City (NEO) 503
+1 Pact of Negation (FUT) 42
+1 Pinnacle Monk / Mystic Peak (MH3) 246
+1 Polluted Delta (MH3) 438
+1 Ponder (SLP) 19
+1 Pongify (OTC) 106
+1 Preordain (LTC) 196
+1 Quicksilver Elemental (MRD) 47
+1 Reliquary Tower (BRC) 196
+1 Rhystic Study (WOT) 71
+1 Rite of Flame (MB2) 59
+1 Riverpyre Verge (DFT) 260
+1 Scalding Tarn (MH2) 439
+1 Shivan Reef (OTC) 320
+1 Sigil of Sleep (DDI) 25
+1 Simian Spirit Guide (PLST) PLC-122
+1 Sink into Stupor / Soporific Springs (MH3) 241
+1 Snap (PLST) ULG-43
+1 Sol Ring (MOC) 381
+1 Steam Vents (RVR) 412
+1 Storm-Kiln Artist (OTC) 181
+1 Storm's Will (SLD) 1744
+1 Stormcarved Coast (VOW) 284
+1 Strike It Rich (MH2) 143
+1 Sulfur Falls (LTC) 333
+1 Swan Song (THS) 65
+1 Talisman of Creativity (M3C) 308
+1 Tandem Lookout (AVR) 80
+1 Thundering Falls (MKM) 331
+1 Training Center (CMM) 665
+1 Underworld Breach (MB2) 200
+1 Valley Floodcaller (BLB) 79
+1 Veyran, Voice of Duality (C21) 330
+1 Volcanic Island (3ED) 291
+1 Wheel of Fortune (3ED) 185
+1 Wild Ride (TDM) 132
+1 Will of the Jeskai (TDC) 40
+1 Windfall (LCC) 180

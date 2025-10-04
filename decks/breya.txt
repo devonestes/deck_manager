@@ -1,0 +1,98 @@
+1 Breya, Etherium Shaper (MH3) 372
+1 Academy Ruins (MMA) 219
+1 Access Denied (NEC) 11
+1 Ancient Den (MRD) 278
+1 Arcane Signet (MOC) 348
+1 Arid Mesa (MM3) 229
+1 Ashnod's Altar (5ED) 349
+1 Austere Command (LCC) 126
+1 Azorius Signet (NEC) 145
+1 Baleful Strix (MKC) 200
+1 Blasphemous Act (BRC) 113
+1 Blood Crypt (UNF) 279
+1 Brudiclad, Telchor Engineer (BRC) 122
+1 Buried Ruin (BRC) 177
+1 Cayth, Famed Mechanist (M3C) 6
+1 Chromatic Lantern (RTR) 226
+1 Command Tower (MOC) 396
+1 Commander's Sphere (MOC) 352
+1 Conjurer's Closet (AVR) 214
+1 Counterspell (TMP) 57
+1 Cranial Ram (MH3) 180
+1 Cyclonic Rift (2XM) 339
+1 Darksteel Citadel (MM2) 238
+1 Demonic Tutor (3ED) 105
+1 Dimir Signet (BRC) 138
+1 Dispatch (NEC) 83
+1 Drossforge Bridge (BRC) 183
+1 Emry, Lurker of the Loch (MUL) 9
+1 Enlightened Tutor (MIR) 14
+1 Enthusiastic Mechanaut (NEO) 218
+1 Esoteric Duplicator (BIG) 35
+1 Esper Sentinel (MH2) 12
+1 Etherium Sculptor (ALA) 42
+1 Exotic Orchard (MOC) 398
+1 Fabricate (MRD) 35
+1 Farewell (M3C) 170
+1 Fellwar Stone (MOC) 356
+1 Flooded Strand (KTK) 233
+1 Fomori Vault (BIG) 59
+1 Foundry Inspector (BRR) 79
+1 Goblin Welder (C14) 177
+1 Godless Shrine (UNF) 282
+1 Goldmire Bridge (MH2) 247
+1 Great Furnace (BRC) 187
+1 Hallowed Fountain (RVR) 280
+1 Ichor Wellspring (BRC) 143
+1 Inventors' Fair (KLD) 247
+3 Island (J22) 101
+1 Izzet Signet (NCC) 369
+1 Jhoira, Weatherlight Captain (BRC) 126
+1 Krark-Clan Ironworks (5DN) 134
+1 Loyal Inventor (ACR) 21
+1 Marionette Apprentice (MH3) 100
+1 Marsh Flats (MM3) 239
+1 Master Transmuter (BRC) 87
+1 Mechanized Production (J22) 320
+1 Mistvault Bridge (BRC) 189
+1 Mountain (MH3) 317
+1 Mox Opal (2XM) 275
+1 Myr Battlesphere (M3C) 301
+1 Myr Retriever (C14) 255
+1 Organic Extinction (NEC) 8
+1 Padeem, Consul of Innovation (BRC) 91
+1 Path to Exile (MOC) 198
+1 Phyrexian Metamorph (2XM) 341
+1 Plains (J22) 98
+1 Post's Citadel (SLD) 1187
+1 Razortide Bridge (MH2) 252
+1 Rhystic Study (J22) 114
+1 Rustvale Bridge (PIP) 285
+1 Sacred Foundry (UNF) 285
+1 Saheeli, Filigree Master (BRO) 219
+1 Sai, Master Thopterist (NEC) 97
+1 Scalding Tarn (MM3) 244
+1 Scrap Trawler (MOC) 373
+1 Seat of the Synod (BRC) 198
+1 Silverbluff Bridge (BRC) 200
+1 Simulacrum Synthesizer (BIG) 6
+1 Skullclamp (DST) 140
+1 Smothering Tithe (RNA) 22
+1 Sol Ring (MOC) 381
+1 Solemn Simulacrum (BRC) 161
+1 Spire of Industry (BRC) 203
+1 Steam Vents (UNF) 283
+1 Steel Overseer (PIP) 241
+1 Swamp (MH3) 314
+1 Swords to Plowshares (MOC) 211
+1 Talisman of Dominance (MRD) 253
+1 Thopter Spy Network (J22) 361
+1 Thought Monitor (MKC) 121
+1 Thoughtcast (BRC) 99
+1 Transmutation Font (BIG) 28
+1 Unwinding Clock (NPH) 164
+1 Urza, Lord High Artificer (CMM) 674
+1 Vampiric Tutor (VIS) 72
+1 Vault of Whispers (BRC) 211
+1 Watery Grave (UNF) 278
+1 Worldwalker Helm (BIG) 37
