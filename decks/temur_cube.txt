@@ -49,7 +49,6 @@
 1 Burn Down the House (MID) 131
 1 Burning-Tree Emissary (MM3) 207
 1 Calamity, Galloping Inferno (OTJ) 116
-1 Cargo Ship (FIN) 47
 1 Chain Lightning (DMR) 113
 1 Chandra, Awakened Inferno (M20) 127
 1 Chandra, Torch of Defiance (KLD) 110
@@ -69,7 +68,6 @@
 1 Dack Fayden (MB2) 80
 1 Daze (PLST) DD2-23
 1 Death-Greeter's Champion (MOC) 30
-1 Deepglow Skate (C16) 7
 1 Defiler of Vigor (DMU) 412
 1 Delighted Halfling (LTR) 402
 1 Delver of Secrets / Insectile Aberration (INR) 60
@@ -90,11 +88,11 @@
 1 Elvish Mystic (CMM) 648
 1 Emry, Lurker of the Loch (MUL) 9
 1 Endwalker (FCA) 28
-1 Enigma Drake (M19) 216
 1 Enthusiastic Mechanaut (NEO) 218
 1 Eris, Roar of the Storm (OTC) 5
 1 Escape to the Wilds (CLB) 843
 1 Eshki Dragonclaw (TDM) 182
+1 Eshki, Temur's Roar (TDC) 3
 1 Esika's Chariot (BLC) 215
 1 Etali, Primal Conqueror / Etali, Primal Sickness (MOM) 137
 1 Eternal Witness (M3C) 227
@@ -114,7 +112,6 @@
 1 Fire / Ice (MH2) 290
 1 Fireblast (PLST) VIS-79
 1 Flame Slash (ROE) 145
-1 Flash (MIR) 66
 1 Flux Channeler (WAR) 52
 1 Force of Negation (MH1) 52
 1 Force of Will (ALL) 28
@@ -146,6 +143,7 @@
 1 Grim Lavamancer (DMR) 126
 1 Growth Spiral (CMR) 446
 1 Gruul Turf (C16) 300
+1 Guided Passage (2X2) 224
 1 Guildpact Informant (WAR) 271
 1 Gut, True Soul Zealot (CLB) 399
 1 Guttersnipe (IMA) 131
@@ -182,6 +180,7 @@
 1 Jidoor, Aristocratic Capital / Overture (FIN) 284
 1 Jugan Defends the Temple / Remnant of the Rising Star (NEO) 194
 1 Jwari Disruption / Jwari Ruins (ZNR) 64
+1 Kaheera, the Orphanguard (IKO) 224
 1 Kappa Cannoneer (NEC) 14
 1 Karakyk Guardian (TDM) 312
 1 Kari Zev, Skyship Raider (J22) 562
@@ -200,7 +199,6 @@
 1 Laelia, the Blade Reforged (MH3) 281
 1 Lathliss, Dragon Queen (TDC) 219
 1 Lava Spike (CHK) 178
-1 Legion Warboss (RVR) 116
 1 Lightning Bolt (4ED) 208
 1 Lightning Greaves (SLD) 1493
 1 Lightning Strike (DFT) 136
@@ -233,7 +231,6 @@
 1 Murkfiend Liege (C13) 231
 1 Mutagenic Growth (NPH) 116
 1 Myr Battlesphere (M3C) 301
-1 Myr Convert (ONE) 234
 1 Mystic Snake (APC) 112
 1 Nadu, Winged Wisdom (MH3) 377
 1 Natural Order (EMA) 177
@@ -270,10 +267,12 @@
 1 Portal to Phyrexia (BRO) 240
 1 Primal Might (M21) 197
 1 Prologue to Phyresis (ONE) 65
+1 Psychic Corrosion (SLD) 1669
 1 Pteramander (RVR) 54
 1 Pyrogoyf (M3C) 111
 1 Questing Beast (PLST) ELD-171
 1 Ragavan, Nimble Pilferer (MUL) 21
+1 Railway Brawler (OTJ) 175
 1 Rampaging Baloths (C19) 176
 1 Ramunap Excavator (M3C) 241
 1 Rattleclaw Mystic (KTK) 144
@@ -316,6 +315,7 @@
 1 Skewer the Critics (PLST) RNA-115
 1 Skitterbeam Battalion (BRO) 165
 1 Skullclamp (DST) 140
+1 Skysovereign, Consul Flagship (NEC) 159
 1 Slagstorm (FDN) 207
 1 Slickshot Show-Off (OTJ) 146
 1 Slip Out the Back (SNC) 62
@@ -364,6 +364,7 @@
 1 Teferi, Temporal Pilgrim (BRO) 66
 1 Tekuthal, Inquiry Dominus (ONE) 71
 1 Temur Ascendancy (KTK) 207
+1 Temur Battlecrier (TDM) 228
 1 Terisian Mindbreaker (BRO) 83
 1 Terra Branford (FCA) 5
 1 Terror of the Peaks (M21) 369
@@ -398,7 +399,6 @@
 1 Triumph of the Hordes (NPH) 123
 1 Tropical Island (3ED) 288
 1 Trumpeting Carnosaur (LCI) 171
-1 Ulvenwald Oddity / Ulvenwald Behemoth (VOW) 225
 1 Umezawa's Jitte (BOK) 163
 1 Umori, the Collector (MUL) 62
 1 Undergrowth Champion (BFZ) 197
@@ -409,12 +409,12 @@
 1 Ursine Monstrosity (DSC) 63
 1 Urza's Saga (MB2) 114
 1 Utopia Sprawl (RVR) 159
-1 Valakut Exploration (ZNR) 303
 1 Vaultborn Tyrant (BIG) 50
 1 Vendilion Clique (MMA) 70
 1 Venerated Rotpriest (ONE) 192
 1 Vines of Vastwood (ZEN) 193
 1 Viral Drake (NPH) 49
+1 Virulent Silencer (EOE) 248
 1 Vivi Ornitier (FIN) 321
 1 Vivien, Champion of the Wilds (WAR) 180
 1 Volcanic Island (3ED) 291

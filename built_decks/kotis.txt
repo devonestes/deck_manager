@@ -1,8 +1,6 @@
 Assassin's Trophy (PROXY)
-Heroic Intervention (PROXY)
 Llanowar Wastes (PROXY)
 Morphic Pool (PROXY)
-Nature's Lore (PROXY)
 Rejuvenating Springs (PROXY)
 Roaming Throne (PROXY)
 Undergrowth Stadium (PROXY)
@@ -33,6 +31,7 @@ Drowned Catacomb
 Elves of Deep Shadow
 Elvish Mystic
 Exotic Orchard
+Favor of the Overbeing
 Felix Five-Boots
 Fellwar Stone
 Fierce Guardianship
@@ -50,7 +49,6 @@ Gonti, Night Minister
 Hinterland Harbor
 Hollowmurk Siege
 Indomitable Might
-Inquisitor's Flail
 Invigorate
 Island
 Island
@@ -65,7 +63,6 @@ Llanowar Elves
 Misty Rainforest
 Shadowspear
 Negate
-Farseek
 Opulent Palace
 Overgrown Tomb
 Polluted Delta
@@ -75,8 +72,10 @@ Rancor
 Rhystic Study
 Rogue's Passage
 Sakura-Tribe Elder
+Security Bypass
 Silver Shroud Costume
 Slip Out the Back
+Slip Through Space
 Snakeskin Veil
 Sol Ring
 Strong Back
@@ -97,4 +96,5 @@ Watery Grave
 Counterspell
 Winged Boots
 Woodland Cemetery
+Wrecking Ball Arm
 Zagoth Triome

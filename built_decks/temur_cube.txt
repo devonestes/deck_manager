@@ -75,7 +75,6 @@ Bruvac the Grandiloquent
 Burn Down the House
 Burning-Tree Emissary
 Calamity, Galloping Inferno
-Cargo Ship
 Chain Lightning
 Chandra, Awakened Inferno
 Chandra, Torch of Defiance
@@ -93,7 +92,6 @@ Cyclonic Rift
 Dack Fayden
 Daze
 Death-Greeter's Champion
-Deepglow Skate
 Defiler of Vigor
 Delver of Secrets // Insectile Aberration
 Dig Through Time
@@ -111,11 +109,11 @@ Electrostatic Infantry
 Elvish Mystic
 Emry, Lurker of the Loch
 Brainstorm
-Enigma Drake
 Enthusiastic Mechanaut
 Eris, Roar of the Storm
 Escape to the Wilds
 Eshki Dragonclaw
+Eshki, Temur's Roar
 Esika's Chariot
 Etali, Primal Conqueror // Etali, Primal Sickness
 Eternal Witness
@@ -135,7 +133,6 @@ Finale of Devastation
 Fire // Ice
 Fireblast
 Flame Slash
-Flash
 Flux Channeler
 Force of Negation
 Force of Will
@@ -166,6 +163,7 @@ Green Sun's Zenith
 Grim Lavamancer
 Growth Spiral
 Gruul Turf
+Guided Passage
 Guildpact Informant
 Gut, True Soul Zealot
 Guttersnipe
@@ -202,6 +200,7 @@ Jegantha, the Wellspring
 Jidoor, Aristocratic Capital // Overture
 Jugan Defends the Temple // Remnant of the Rising Star
 Jwari Disruption // Jwari Ruins
+Kaheera, the Orphanguard
 Kappa Cannoneer
 Karakyk Guardian
 Kari Zev, Skyship Raider
@@ -220,7 +219,6 @@ Kumano Faces Kakkazan // Etching of Kumano
 Laelia, the Blade Reforged
 Lathliss, Dragon Queen
 Lava Spike
-Legion Warboss
 Lightning Bolt
 Lightning Greaves
 Lightning Strike
@@ -251,7 +249,6 @@ Monastery Swiftspear
 Murkfiend Liege
 Mutagenic Growth
 Myr Battlesphere
-Myr Convert
 Mystic Snake
 Nadu, Winged Wisdom
 Natural Order
@@ -285,10 +282,12 @@ Ponder
 Portal to Phyrexia
 Primal Might
 Prologue to Phyresis
+Psychic Corrosion
 Pteramander
 Pyrogoyf
 Questing Beast
 Ragavan, Nimble Pilferer
+Railway Brawler
 Rampaging Baloths
 Rattleclaw Mystic
 Reckless Impulse
@@ -325,6 +324,7 @@ Simic Sky Swallower
 Simulacrum Synthesizer
 Skewer the Critics
 Skitterbeam Battalion
+Skysovereign, Consul Flagship
 Slagstorm
 Slickshot Show-Off
 Slip Out the Back
@@ -371,6 +371,7 @@ Tasha's Hideous Laughter
 Tatyova, Benthic Druid
 Teferi, Temporal Pilgrim
 Tekuthal, Inquiry Dominus
+Temur Battlecrier
 Terisian Mindbreaker
 Urza, Lord High Artificer
 The Endstone
@@ -400,7 +401,6 @@ Treachery
 Triplicate Titan
 Tropical Island
 Trumpeting Carnosaur
-Ulvenwald Oddity // Ulvenwald Behemoth
 Umezawa's Jitte
 Umori, the Collector
 Undergrowth Champion
@@ -411,12 +411,12 @@ Uro, Titan of Nature's Wrath
 Ursine Monstrosity
 Urza's Saga
 Utopia Sprawl
-Valakut Exploration
 Vaultborn Tyrant
 Vendilion Clique
 Venerated Rotpriest
 Vines of Vastwood
 Viral Drake
+Virulent Silencer
 Vivi Ornitier
 Vivien, Champion of the Wilds
 Volcanic Island

@@ -43,7 +43,6 @@ Forest
 Forest
 Forest
 Forest
-Forest
 Garruk's Uprising
 Ghalta, Primal Hunger
 Ghalta, Stampede Tyrant
@@ -60,6 +59,7 @@ Nature's Lore
 Nissa, Ascended Animist
 Nykthos, Shrine to Nyx
 Ohran Frostfang
+Okina, Temple to the Grandfathers
 Omnath, Locus of Mana
 Plaza of Heroes
 Questing Beast

@@ -1,18 +1,21 @@
 Kudo, King Among Bears
 Akroma's Will
 Angel of Invention
+Arcane Signet
+Arwen, Weaver of Hope
 Avacyn's Pilgrim
 Banquet Guests
 Beast Whisperer
 Benevolent Hydra
 Birds of Paradise
-Bloodline Pretender
 Boseiju, Who Endures
+Bountiful Promenade
 Branching Evolution
 Branchloft Pathway // Boulderloft Pathway
 Bridgeworks Battle // Tanglespan Bridgeworks
 Brushland
 Canopy Vista
+Cathars' Crusade
 Champion of Lambholt
 Command Tower
 Conclave Mentor
@@ -22,12 +25,10 @@ Disciple of Freyalise // Garden of Freyalise
 Torens, Fist of the Angels
 Dyadrine, Synthesis Amalgam
 Eiganjo, Seat of the Empire
-Elementalist's Palette
 Elesh Norn, Grand Cenobite
 Endless One
 Enduring Vitality
-Forest
-Forest
+Faithful Watchdog
 Forest
 Forest
 Forest
@@ -40,10 +41,10 @@ Gala Greeters
 Genesis Hydra
 Goldvein Hydra
 Grand Crescendo
-Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
 Hamza, Guardian of Arashin
 Hooded Hydra
 Horizon Canopy
+Hushwood Verge
 Innkeeper's Talent
 Inspiring Call
 Jacked Rabbit
@@ -59,10 +60,7 @@ March of the Multitudes
 Mikaeus, the Lunarch
 Nyxborn Hydra
 Overgrown Farmland
-Patchwork Banner
 Path to Exile
-Plains
-Plains
 Plains
 Plains
 Plains
@@ -78,6 +76,7 @@ Restless Prairie
 Scattered Groves
 Scavenging Ooze
 Shelinda, Yevon Acolyte
+Sidar Kondo of Jamuraa
 Silkguard
 Sol Ring
 Sovereign Okinec Ahau
@@ -86,12 +85,13 @@ Steelbane Hydra
 Stonecoil Serpent
 Strength of the Harvest // Haven of the Harvest
 Sungrass Prairie
+Sunpetal Grove
 Swords to Plowshares
+Temple Garden
 Tervigon
 The Earth Crystal
 Threefold Thunderhulk
 Triumph of the Hordes
-Unbound Flourishing
 Unbreakable Formation
 Vrestin, Menoptra Leader
 Warden of the Grove

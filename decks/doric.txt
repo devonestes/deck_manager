@@ -12,7 +12,7 @@
 1 Cultivate (J22) 644
 1 Delighted Halfling (LTR) 158
 1 Emerald Medallion (CMM) 379
-24 Forest (J22) 110
+23 Forest (J22) 110
 1 Garruk's Uprising (WOT) 53
 1 Ghalta, Primal Hunger (CMM) 292
 1 Ghalta, Stampede Tyrant (LCI) 326
@@ -33,6 +33,7 @@
 1 Nissa, Resurgent Animist (MAT) 22
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Ohran Frostfang (SLD) 237
+1 Okina, Temple to the Grandfathers (CHK) 280
 1 Old Gnawbone (AFR) 197
 1 Omnath, Locus of Mana (CMM) 310
 1 Plaza of Heroes (DMU) 421
