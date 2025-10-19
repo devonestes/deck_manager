@@ -1,8 +1,8 @@
-2,Rhystic Study,Enchantment,rare
+3,Rhystic Study,Enchantment,rare
 1,Smothering Tithe,Enchantment,mythic
 1,Mystic Remora,Enchantment,rare
 1,Phyrexian Arena,Enchantment,rare
-1,Urza's Saga,Enchantment Land — Urza's Saga,rare
+3,Urza's Saga,Enchantment Land — Urza's Saga,rare
 2,Propaganda,Enchantment,uncommon
 1,Black Market Connections,Enchantment,rare
 1,Ghostly Prison,Enchantment,uncommon
@@ -33,6 +33,7 @@
 1,Reflections of Littjara,Enchantment,rare
 1,Intangible Virtue,Enchantment,uncommon
 1,Shared Animosity,Enchantment,rare
+1,Purphoros, God of the Forge,Legendary Enchantment Creature — God,mythic
 2,Curiosity,Enchantment — Aura,uncommon
 1,Greater Good,Enchantment,rare
 1,Bitterblossom,Kindred Enchantment — Faerie,mythic
@@ -41,6 +42,7 @@
 1,Enduring Vitality,Enchantment Creature — Elk Glimmer,rare
 1,Reconnaissance Mission,Enchantment,uncommon
 1,Curse of Opulence,Enchantment — Aura Curse,uncommon
+1,Aggravated Assault,Enchantment,rare
 1,Whip of Erebos,Legendary Enchantment Artifact,rare
 1,Imprisoned in the Moon,Enchantment — Aura,common
 1,City on Fire,Enchantment,rare
@@ -57,6 +59,7 @@
 1,Moldervine Reclamation,Enchantment,uncommon
 1,Innkeeper's Talent,Enchantment — Class,rare
 1,Tocasia's Welcome,Enchantment,rare
+1,Nyxbloom Ancient,Enchantment Creature — Elemental,mythic
 2,Mechanized Production,Enchantment — Aura,mythic
 1,Fiery Inscription,Enchantment,uncommon
 2,Carpet of Flowers,Enchantment,uncommon
@@ -101,7 +104,7 @@
 2,Fable of the Mirror-Breaker // Reflection of Kiki-Jiki,Enchantment — Saga // Enchantment Creature — Goblin Shaman,rare
 1,Whirlwind of Thought,Enchantment,rare
 1,The Eldest Reborn,Enchantment — Saga,uncommon
-2,Sticky Fingers,Enchantment — Aura,common
+3,Sticky Fingers,Enchantment — Aura,common
 1,Rain of Riches,Enchantment,rare
 1,Eldrazi Conscription,Kindred Enchantment — Eldrazi Aura,rare
 1,No Mercy,Enchantment,mythic
@@ -124,6 +127,7 @@
 1,Divine Visitation,Enchantment,mythic
 2,Extravagant Replication,Enchantment,rare
 1,Thassa, God of the Sea,Legendary Enchantment Creature — God,mythic
+1,Ophidian Eye,Enchantment — Aura,common
 1,Virtue of Strength // Garenbrig Growth,Enchantment // Sorcery — Adventure,mythic
 1,Deathreap Ritual,Enchantment,uncommon
 1,Outpost Siege,Enchantment,rare
@@ -140,7 +144,6 @@
 1,Spiteful Banditry,Enchantment,mythic
 1,Starfield of Nyx,Enchantment,mythic
 1,Lignify,Kindred Enchantment — Treefolk Aura,common
-1,Combat Research,Enchantment — Aura,uncommon
 4,Sheltered by Ghosts,Enchantment — Aura,uncommon
 3,Silent Hallcreeper,Enchantment Creature — Horror,rare
 1,Dance of the Dead,Enchantment — Aura,uncommon
@@ -171,6 +174,7 @@
 1,Legion Loyalty,Enchantment,mythic
 2,Together Forever,Enchantment,rare
 1,Chivalric Alliance,Enchantment,rare
+1,Summon: Bahamut,Enchantment Creature — Saga Dragon,mythic
 1,Vraska Joins Up,Legendary Enchantment,rare
 1,Crawling Sensation,Enchantment,uncommon
 1,Athreos, God of Passage,Legendary Enchantment Creature — God,mythic
@@ -184,6 +188,7 @@
 1,Court of Locthwain,Enchantment,rare
 1,Estrid's Invocation,Enchantment,rare
 2,Seal of Cleansing,Enchantment,common
+1,Out of the Tombs,Enchantment,rare
 1,Lurking Predators,Enchantment,rare
 1,Pemmin's Aura,Enchantment — Aura,uncommon
 1,Sulfuric Vortex,Enchantment,rare
@@ -248,6 +253,7 @@
 7,Pestilence,Enchantment,uncommon
 1,Cast Out,Enchantment,uncommon
 1,Grievous Wound,Enchantment — Aura,rare
+1,Sigil of Sleep,Enchantment — Aura,common
 1,Rally the Ranks,Enchantment,rare
 1,March of the Canonized,Enchantment,rare
 1,Solemnity,Enchantment,rare
@@ -338,6 +344,7 @@
 1,Summon: Magus Sisters,Enchantment Creature — Saga Faerie,rare
 1,Descendants' Fury,Enchantment,rare
 2,Trickster's Elk,Enchantment Creature — Elk,uncommon
+1,Super State,Legendary Enchantment — Aura,mythic
 4,Bottomless Pool // Locker Room,Enchantment — Room // Enchantment — Room,uncommon
 2,Ulvenwald Mysteries,Enchantment,uncommon
 1,Oath of Eorl,Enchantment — Saga,rare
@@ -458,6 +465,7 @@
 1,Aluren,Enchantment,rare
 2,Cartouche of Strength,Enchantment — Aura Cartouche,common
 1,Tymaret, Chosen from Death,Legendary Enchantment Creature — Demigod,uncommon
+1,Sothera, the Supervoid,Legendary Enchantment,mythic
 3,Mesmerizing Dose,Enchantment — Aura,common
 1,Power Artifact,Enchantment — Aura,rare
 1,The Apprentice's Folly,Enchantment — Saga,rare
@@ -586,8 +594,10 @@
 1,Veiled Ascension,Enchantment,rare
 1,Gift of Fangs,Enchantment — Aura,common
 8,Stuck in Summoner's Sanctum,Enchantment — Aura,common
+1,Vile Consumption,Enchantment,rare
 8,Cracked Skull,Enchantment — Aura,common
 2,Energy Flux,Enchantment,uncommon
+1,Darkest Hour,Enchantment,rare
 6,Fear of Surveillance,Enchantment Creature — Nightmare,common
 1,Gift of Orzhova,Enchantment — Aura,common
 3,Sidequest: Play Blitzball // World Champion, Celestial Weapon,Enchantment // Legendary Artifact — Equipment,uncommon
@@ -626,7 +636,7 @@
 1,Lay Claim,Enchantment — Aura,uncommon
 7,Fear of Isolation,Enchantment Creature — Nightmare,uncommon
 1,Lim-Dûl's Hex,Enchantment,uncommon
-2,Most Wanted,Enchantment — Aura,common
+3,Most Wanted,Enchantment — Aura,common
 2,Urban Utopia,Enchantment — Aura,common
 1,Coerced to Kill,Enchantment — Aura,uncommon
 1,Vigilante Justice,Enchantment,uncommon
@@ -646,10 +656,12 @@
 1,Myth Realized,Enchantment,uncommon
 1,Commander's Authority,Enchantment — Aura,uncommon
 4,Sleep Magic,Enchantment — Aura,uncommon
+1,Corruption of Towashi,Enchantment,uncommon
 1,Grim Feast,Enchantment,rare
 4,Fear of Exposure,Enchantment Creature — Nightmare,uncommon
 4,Fear of Being Hunted,Enchantment Creature — Nightmare,uncommon
 2,Dream Tides,Enchantment,uncommon
+1,Hidden Gibbons,Enchantment,rare
 1,Divine Favor,Enchantment — Aura,common
 3,Might of the Ancestors,Enchantment,uncommon
 2,Flood the Engine,Enchantment — Aura,common

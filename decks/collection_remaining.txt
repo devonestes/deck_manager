@@ -16,46 +16,51 @@
 8,Myriad Landscape,Land,uncommon
 4,Farseek,Sorcery,common
 1,Blasphemous Act,Sorcery,rare
-3,Beast Within,Instant,uncommon
+4,Beast Within,Instant,uncommon
 7,Rampant Growth,Sorcery,common
 22,Terramorphic Expanse,Land,common
 10,Mind Stone,Artifact,uncommon
 6,Chaos Warp,Instant,rare
 3,Bojuka Bog,Land,common
+1,Heroic Intervention,Instant,rare
 9,Commander's Sphere,Artifact,common
 3,Solemn Simulacrum,Artifact Creature — Golem,rare
 1,Kodama's Reach,Sorcery — Arcane,common
-2,Rhystic Study,Enchantment,rare
+3,Rhystic Study,Enchantment,rare
 18,Dark Ritual,Instant,common
-1,Polluted Delta,Land,rare
+3,Polluted Delta,Land,rare
+1,Cyclonic Rift,Instant,mythic
 1,An Offer You Can't Refuse,Instant,uncommon
-2,Misty Rainforest,Land,rare
-5,Flooded Strand,Land,rare
-2,Bloodstained Mire,Land,rare
-1,Verdant Catacombs,Land,rare
+4,Misty Rainforest,Land,rare
+2,Three Visits,Sorcery,uncommon
+7,Flooded Strand,Land,rare
+4,Bloodstained Mire,Land,rare
+3,Verdant Catacombs,Land,rare
 3,Windswept Heath,Land,rare
-3,Scalding Tarn,Land,rare
+5,Scalding Tarn,Land,rare
 4,Generous Gift,Instant,uncommon
-2,Marsh Flats,Land,rare
-1,Wooded Foothills,Land,rare
+4,Marsh Flats,Land,rare
+3,Wooded Foothills,Land,rare
 2,Negate,Instant,common
 1,Smothering Tithe,Enchantment,mythic
-4,Arid Mesa,Land,rare
+6,Arid Mesa,Land,rare
 5,Demonic Tutor,Sorcery,mythic
 16,Arcane Denial,Instant,common
+2,Watery Grave,Land — Island Swamp,rare
 4,Ancient Tomb,Land,rare
 12,Temple of the False God,Land,uncommon
 1,Reanimate,Sorcery,rare
 4,Llanowar Elves,Creature — Elf Druid,common
-1,Toxic Deluge,Sorcery,rare
+2,Toxic Deluge,Sorcery,rare
 7,Brainstorm,Instant,common
-1,Godless Shrine,Land — Plains Swamp,rare
+3,Godless Shrine,Land — Plains Swamp,rare
 1,Fabled Passage,Land,rare
+2,Breeding Pool,Land — Forest Island,rare
 2,Urborg, Tomb of Yawgmoth,Legendary Land,rare
 5,Esper Sentinel,Artifact Creature — Human Soldier,rare
 4,Hallowed Fountain,Land — Plains Island,rare
 2,Fierce Guardianship,Instant,rare
-3,Stomping Ground,Land — Mountain Forest,rare
+5,Stomping Ground,Land — Mountain Forest,rare
 2,Chromatic Lantern,Artifact,rare
 6,Sunken Hollow,Land — Island Swamp,rare
 2,Yavimaya, Cradle of Growth,Legendary Land,rare
@@ -67,7 +72,7 @@
 1,Blood Crypt,Land — Swamp Mountain,rare
 6,Wayfarer's Bauble,Artifact,common
 5,Talisman of Dominance,Artifact,uncommon
-3,Sacred Foundry,Land — Mountain Plains,rare
+5,Sacred Foundry,Land — Mountain Plains,rare
 1,Mystic Remora,Enchantment,rare
 3,Temple Garden,Land — Forest Plains,rare
 3,Otawara, Soaring City,Legendary Land,rare
@@ -84,6 +89,7 @@
 1,Phyrexian Arena,Enchantment,rare
 3,Jeska's Will,Sorcery,rare
 1,Vandalblast,Sorcery,uncommon
+1,City of Brass,Land,rare
 2,Elvish Mystic,Creature — Elf Druid,common
 1,Isolated Chapel,Land,rare
 1,Hinterland Harbor,Land,rare
@@ -93,7 +99,7 @@
 4,Mana Drain,Instant,mythic
 3,Lotus Petal,Artifact,uncommon
 1,Mana Confluence,Land,rare
-1,Urza's Saga,Enchantment Land — Urza's Saga,rare
+3,Urza's Saga,Enchantment Land — Urza's Saga,rare
 1,Shivan Reef,Land,rare
 1,Frantic Search,Instant,common
 3,Battlefield Forge,Land,rare
@@ -101,12 +107,15 @@
 4,Ashnod's Altar,Artifact,uncommon
 2,Propaganda,Enchantment,uncommon
 3,Dimir Signet,Artifact,common
+1,Roaming Throne,Artifact Creature — Golem,rare
 1,Deadly Rollick,Instant,rare
 3,Talisman of Indulgence,Artifact,uncommon
 4,Mystical Tutor,Instant,rare
+1,Morphic Pool,Land,rare
 2,Chrome Mox,Artifact,mythic
 2,Rakdos Signet,Artifact,uncommon
 4,Mana Vault,Artifact,mythic
+1,Rejuvenating Springs,Land,rare
 4,Deadly Dispute,Instant,common
 1,Talisman of Hierarchy,Artifact,uncommon
 2,Herald's Horn,Artifact,uncommon
@@ -115,7 +124,7 @@
 4,Farewell,Sorcery,rare
 1,Rootbound Crag,Land,rare
 1,Black Market Connections,Enchantment,rare
-2,Training Center,Land,rare
+4,Training Center,Land,rare
 4,Izzet Signet,Artifact,common
 1,Blood Artist,Creature — Vampire,uncommon
 1,Ponder,Sorcery,common
@@ -126,13 +135,16 @@
 2,Talisman of Conviction,Artifact,uncommon
 6,Worldly Tutor,Instant,rare
 3,Orzhov Signet,Artifact,common
-2,Sea of Clouds,Land,rare
+2,Luxury Suite,Land,rare
+4,Sea of Clouds,Land,rare
 2,Pongify,Instant,uncommon
+2,Vault of Champions,Land,rare
 2,Underground River,Land,rare
 9,Ash Barrens,Land,common
 2,Return of the Wildspeaker,Instant,rare
-1,Spectator Seating,Land,rare
+3,Spectator Seating,Land,rare
 6,Lightning Bolt,Instant,uncommon
+1,Sulfurous Springs,Land,rare
 1,Mystic Sanctuary,Land — Island,common
 1,Ghostly Prison,Enchantment,uncommon
 4,Azorius Signet,Artifact,uncommon
@@ -140,18 +152,19 @@
 2,Force of Will,Instant,mythic
 1,Gemstone Caverns,Legendary Land,mythic
 1,Tireless Provisioner,Creature — Elf Scout,uncommon
+1,Undergrowth Stadium,Land,rare
 1,Rhythm of the Wild,Enchantment,uncommon
 3,Mosswort Bridge,Land,rare
 1,Prismatic Vista,Land,rare
-1,Cabal Coffers,Land,mythic
-2,Spire Garden,Land,rare
+2,Cabal Coffers,Land,mythic
+4,Spire Garden,Land,rare
 6,Stroke of Midnight,Instant,uncommon
 15,Wild Growth,Enchantment — Aura,common
 1,Buried Ruin,Land,uncommon
-1,Bountiful Promenade,Land,rare
+3,Bountiful Promenade,Land,rare
 2,Fyndhorn Elves,Creature — Elf Druid,common
 4,Big Score,Instant,common
-1,Command Beacon,Land,rare
+2,Command Beacon,Land,rare
 1,Mirkwood Bats,Creature — Bat,common
 3,Village Rites,Instant,common
 1,Boros Signet,Artifact,uncommon
@@ -159,7 +172,7 @@
 2,Idol of Oblivion,Artifact,rare
 2,Karn's Bastion,Land,rare
 2,Growth Spiral,Instant,common
-2,Preordain,Sorcery,common
+3,Preordain,Sorcery,common
 2,Unclaimed Territory,Land,uncommon
 2,Night's Whisper,Sorcery,common
 3,Thrill of Possibility,Instant,common
@@ -173,7 +186,7 @@
 4,Everflowing Chalice,Artifact,uncommon
 1,Shipwreck Marsh,Land,rare
 1,Rishkar's Expertise,Sorcery,rare
-1,Akroma's Will,Instant,rare
+2,Akroma's Will,Instant,rare
 1,Crop Rotation,Instant,uncommon
 1,Gamble,Sorcery,rare
 1,Doubling Season,Enchantment,mythic
@@ -191,7 +204,7 @@
 2,Terminate,Instant,common
 2,Professional Face-Breaker,Creature — Human Warrior,rare
 2,Sword of the Animist,Legendary Artifact — Equipment,rare
-1,Karplusan Forest,Land,rare
+2,Karplusan Forest,Land,rare
 1,Viscera Seer,Creature — Vampire Wizard,common
 2,Temple of Epiphany,Land,rare
 2,Pitiless Plunderer,Creature — Human Pirate,uncommon
@@ -218,7 +231,7 @@
 2,Basilisk Collar,Artifact — Equipment,rare
 2,Temple of Deceit,Land,rare
 4,Darkwater Catacombs,Land,rare
-3,Ragavan, Nimble Pilferer,Legendary Creature — Monkey Pirate,mythic
+4,Ragavan, Nimble Pilferer,Legendary Creature — Monkey Pirate,mythic
 1,Inspiring Call,Instant,uncommon
 4,Jungle Shrine,Land,uncommon
 4,Harmonize,Sorcery,uncommon
@@ -248,7 +261,7 @@
 1,Phyrexian Altar,Artifact,rare
 5,Game Trail,Land,rare
 1,Entomb,Instant,rare
-1,Damn,Sorcery,rare
+2,Damn,Sorcery,rare
 3,Finale of Devastation,Sorcery,mythic
 3,Arcane Sanctum,Land,uncommon
 1,Orzhov Basilica,Land,uncommon
@@ -304,7 +317,7 @@
 2,Helm of the Host,Legendary Artifact — Equipment,rare
 2,Ruby Medallion,Artifact,rare
 1,Mana Crypt,Artifact,mythic
-1,Gilded Lotus,Artifact,rare
+2,Gilded Lotus,Artifact,rare
 5,Demolition Field,Land,uncommon
 1,Kutzil, Malamet Exemplar,Legendary Creature — Cat Warrior,uncommon
 1,Scrubland,Land — Plains Swamp,rare
@@ -323,6 +336,7 @@
 1,Badlands,Land — Swamp Mountain,rare
 5,Temple of Plenty,Land,rare
 1,Kami of Whispered Hopes,Creature — Spirit,uncommon
+1,Lotho, Corrupt Shirriff,Legendary Creature — Halfling Rogue,rare
 2,Raffine's Tower,Land — Plains Island Swamp,rare
 1,Mental Misstep,Instant,uncommon
 1,Hall of Heliod's Generosity,Legendary Land,rare
@@ -383,6 +397,7 @@
 3,Raugrin Triome,Land — Island Mountain Plains,rare
 1,Ephemerate,Instant,common
 1,Dread Return,Sorcery,common
+1,Dawn's Truce,Instant,rare
 1,Strionic Resonator,Artifact,rare
 3,Mother of Runes,Creature — Human Cleric,uncommon
 4,Chandra's Ignition,Sorcery,rare
@@ -485,6 +500,7 @@
 1,Shared Animosity,Enchantment,rare
 1,Sheoldred, Whispering One,Legendary Creature — Phyrexian Praetor,mythic
 2,Raucous Theater,Land — Swamp Mountain,rare
+1,Purphoros, God of the Forge,Legendary Enchantment Creature — God,mythic
 1,Ozolith, the Shattered Spire,Legendary Artifact,rare
 2,Curiosity,Enchantment — Aura,uncommon
 1,Shadowy Backstreet,Land — Plains Swamp,rare
@@ -512,6 +528,7 @@
 1,Grim Monolith,Artifact,rare
 1,Trouble in Pairs,Enchantment,rare
 1,Talrand, Sky Summoner,Legendary Creature — Merfolk Wizard,rare
+1,Goreclaw, Terror of Qal Sisma,Legendary Creature — Bear,uncommon
 1,Open the Armory,Sorcery,uncommon
 2,Abrupt Decay,Instant,rare
 2,Etali, Primal Conqueror // Etali, Primal Sickness,Legendary Creature — Elder Dinosaur // Legendary Creature — Phyrexian Elder Dinosaur,rare
@@ -528,7 +545,7 @@
 1,Resculpt,Instant,common
 3,Stitcher's Supplier,Creature — Zombie,uncommon
 2,Oran-Rief, the Vastwood,Land,rare
-3,Ranger-Captain of Eos,Creature — Human Soldier Ranger,mythic
+4,Ranger-Captain of Eos,Creature — Human Soldier Ranger,mythic
 2,Irrigated Farmland,Land — Plains Island,rare
 1,Brightclimb Pathway // Grimclimb Pathway,Land // Land,rare
 3,Meteor Golem,Artifact Creature — Golem,uncommon
@@ -563,6 +580,7 @@
 1,Gravecrawler,Creature — Zombie,rare
 1,Pinnacle Monk // Mystic Peak,Creature — Djinn Monk // Land,uncommon
 1,Demonic Consultation,Instant,uncommon
+1,Aggravated Assault,Enchantment,rare
 1,Tyvar's Stand,Instant,uncommon
 2,Reassembling Skeleton,Creature — Skeleton Warrior,uncommon
 1,Rite of Flame,Sorcery,common
@@ -578,7 +596,7 @@
 1,Gilded Goose,Creature — Bird,rare
 2,Scattered Groves,Land — Forest Plains,rare
 1,Avacyn, Angel of Hope,Legendary Creature — Angel,mythic
-8,Murder,Instant,common
+9,Murder,Instant,common
 1,City on Fire,Enchantment,rare
 1,Chain of Vapor,Instant,uncommon
 3,Dryad Arbor,Land Creature — Forest Dryad,rare
@@ -590,6 +608,7 @@
 1,Urza, Lord High Artificer,Legendary Creature — Human Artificer,mythic
 1,Kodama of the West Tree,Legendary Creature — Spirit,mythic
 3,Overflowing Basin,Land,rare
+1,Old Gnawbone,Legendary Creature — Dragon,mythic
 2,Tempt with Discovery,Sorcery,rare
 1,Thought Monitor,Artifact Creature — Construct,rare
 1,Scrap Trawler,Artifact Creature — Construct,rare
@@ -681,6 +700,7 @@
 3,Serra Ascendant,Creature — Human Monk,rare
 1,Unearth,Sorcery,common
 2,Ferrous Lake,Land,rare
+1,Cabaretti Courtyard,Land,common
 1,Moldervine Reclamation,Enchantment,uncommon
 3,Gloomlake Verge,Land,rare
 1,Fireshrieker,Artifact — Equipment,uncommon
@@ -709,12 +729,14 @@
 1,Charismatic Conqueror,Creature — Vampire Soldier,rare
 5,Swiftwater Cliffs,Land,common
 3,Angel of the Ruins,Artifact Creature — Angel,rare
+1,Nyxbloom Ancient,Enchantment Creature — Elemental,mythic
 1,Topiary Stomper,Creature — Plant Dinosaur,rare
 1,The Gitrog Monster,Legendary Creature — Frog Horror,mythic
 2,Mechanized Production,Enchantment — Aura,mythic
 1,Fiery Inscription,Enchantment,uncommon
 2,Carpet of Flowers,Enchantment,uncommon
 10,Disenchant,Instant,common
+1,Zopandrel, Hunger Dominus,Legendary Creature — Phyrexian Horror,mythic
 2,Combat Celebrant,Creature — Human Warrior,mythic
 1,Revel in Riches,Enchantment,rare
 1,Elvish Archdruid,Creature — Elf Druid,rare
@@ -880,6 +902,7 @@
 2,Organic Extinction,Sorcery,rare
 1,Snake Umbra,Enchantment — Aura,uncommon
 1,Vampiric Rites,Enchantment,uncommon
+2,Mossborn Hydra,Creature — Elemental Hydra,rare
 1,Secure the Wastes,Instant,rare
 1,Binding the Old Gods,Enchantment — Saga,uncommon
 1,Asceticism,Enchantment,rare
@@ -892,6 +915,7 @@
 5,Enduring Curiosity,Enchantment Creature — Cat Glimmer,rare
 1,Dragonmaster Outcast,Creature — Human Shaman,mythic
 2,Enduring Tenacity,Enchantment Creature — Snake Glimmer,rare
+1,Twinflame Tyrant,Creature — Dragon,mythic
 1,Rugged Highlands,Land,common
 3,Seachrome Coast,Land,rare
 1,Deflecting Palm,Instant,rare
@@ -1049,6 +1073,7 @@
 2,Junk Winder,Creature — Serpent,uncommon
 1,Sheoldred // The True Scriptures,Legendary Creature — Phyrexian Praetor // Enchantment — Saga,mythic
 1,Legion Leadership // Legion Stronghold,Instant // Land,uncommon
+1,Isshin, Two Heavens as One,Legendary Creature — Human Samurai,rare
 8,Sacred Peaks,Land — Mountain Plains,common
 1,Silent Clearing,Land,rare
 2,Elspeth, Storm Slayer,Legendary Planeswalker — Elspeth,mythic
@@ -1074,7 +1099,7 @@
 1,The Eldest Reborn,Enchantment — Saga,uncommon
 1,Sonic Screwdriver,Artifact,uncommon
 1,Persist,Sorcery,rare
-2,Sticky Fingers,Enchantment — Aura,common
+3,Sticky Fingers,Enchantment — Aura,common
 1,Rain of Riches,Enchantment,rare
 2,Sunbillow Verge,Land,rare
 2,Vampire Nighthawk,Creature — Vampire Shaman,uncommon
@@ -1236,6 +1261,7 @@
 1,Everybody Lives!,Instant,rare
 1,Null Elemental Blast,Instant,uncommon
 1,Thassa, God of the Sea,Legendary Enchantment Creature — God,mythic
+1,Ophidian Eye,Enchantment — Aura,common
 1,Forge of Heroes,Land,common
 1,Jetmir, Nexus of Revels,Legendary Creature — Cat Demon,mythic
 1,Teferi, Master of Time,Legendary Planeswalker — Teferi,mythic
@@ -1249,7 +1275,7 @@
 1,Twinning Staff,Artifact,rare
 2,Ancestral Mask,Enchantment — Aura,uncommon
 1,Phyrexian Obliterator,Creature — Phyrexian Horror,mythic
-1,Starting Town,Land — Town,rare
+4,Starting Town,Land — Town,rare
 1,Drumbellower,Creature — Spirit,rare
 1,Vengeful Ancestor,Creature — Spirit Dragon,rare
 1,Verduran Enchantress,Creature — Human Druid,rare
@@ -1257,6 +1283,7 @@
 3,Run Away Together,Instant,common
 1,Sepulchral Primordial,Creature — Avatar,rare
 1,Imposter Mech,Artifact — Vehicle,rare
+1,Glittering Stockpile,Artifact — Treasure,uncommon
 1,Ancient Gold Dragon,Creature — Elder Dragon,mythic
 1,Sakashima the Impostor,Legendary Creature — Human Rogue,rare
 1,Curiosity Crafter,Creature — Bird Wizard,rare
@@ -1355,7 +1382,6 @@
 1,Lignify,Kindred Enchantment — Treefolk Aura,common
 1,Personal Tutor,Sorcery,rare
 1,Cloudstone Curio,Artifact,mythic
-1,Combat Research,Enchantment — Aura,uncommon
 1,Shinka, the Bloodsoaked Keep,Legendary Land,rare
 1,Power Depot,Artifact Land,uncommon
 1,Trophy Mage,Creature — Human Wizard,uncommon
@@ -1388,6 +1414,7 @@
 1,Proft's Eidetic Memory,Legendary Enchantment,rare
 1,Boltwave,Sorcery,uncommon
 1,Conduit Pylons,Land — Desert,common
+1,Silver Shroud Costume,Artifact — Equipment,uncommon
 2,Niv-Mizzet, the Firemind,Legendary Creature — Dragon Wizard,rare
 1,Flickerwisp,Creature — Elemental,uncommon
 1,Toxrill, the Corrosive,Legendary Creature — Slug Horror,mythic
@@ -1417,6 +1444,7 @@
 1,Blade of the Bloodchief,Artifact — Equipment,rare
 4,Molten Tributary,Land — Island Mountain,common
 1,Contentious Plan,Sorcery,common
+2,Icetill Explorer,Creature — Insect Scout,rare
 2,Displace,Instant,common
 1,Life's Legacy,Sorcery,rare
 1,Lair of the Hydra,Land,rare
@@ -1435,6 +1463,7 @@
 1,Rest in Peace,Enchantment,mythic
 1,Giant Adephage,Creature — Insect,mythic
 1,Linvala, Keeper of Silence,Legendary Creature — Angel,mythic
+1,Buster Sword,Artifact — Equipment,mythic
 1,Insurrection,Sorcery,mythic
 1,Prosper, Tome-Bound,Legendary Creature — Tiefling Warlock,mythic
 1,The Fire Crystal,Legendary Artifact,rare
@@ -1471,7 +1500,7 @@
 1,The Immortal Sun,Legendary Artifact,mythic
 1,Parting Gust,Instant,uncommon
 3,Demonic Counsel,Sorcery,rare
-1,Bloodthirster,Creature — Demon,rare
+2,Bloodthirster,Creature — Demon,rare
 1,Not of This World,Kindred Instant — Eldrazi,uncommon
 1,Flicker of Fate,Instant,common
 1,Wrathful Raptors,Creature — Dinosaur,rare
@@ -1514,6 +1543,7 @@
 2,Tishana's Tidebinder,Creature — Merfolk Wizard,rare
 1,Full Throttle,Sorcery,rare
 1,Reckless Handling,Sorcery,uncommon
+1,Rograkh, Son of Rohgahh,Legendary Creature — Kobold Warrior,uncommon
 1,Ashling, Flame Dancer,Legendary Creature — Elemental Shaman,mythic
 1,Quick Study,Instant,common
 2,Deceptive Landscape,Land,common
@@ -1584,6 +1614,7 @@
 1,Double Vision,Enchantment,rare
 2,Overgrowth,Enchantment — Aura,common
 1,Burglar Rat,Creature — Rat,common
+1,Yuriko, the Tiger's Shadow,Legendary Creature — Human Ninja,rare
 1,Court of Vantress,Enchantment,rare
 1,Emiel the Blessed,Legendary Creature — Unicorn,mythic
 1,Funeral Room // Awakening Hall,Enchantment — Room // Enchantment — Room,mythic
@@ -1628,9 +1659,11 @@
 1,Ichormoon Gauntlet,Artifact,mythic
 5,Arboreal Grazer,Creature — Sloth Beast,common
 1,See Double,Instant,rare
+1,Summon: Bahamut,Enchantment Creature — Saga Dragon,mythic
 1,Momentary Blink,Instant,common
 1,Vraska Joins Up,Legendary Enchantment,rare
 1,Witch-king of Angmar,Legendary Creature — Wraith Noble,mythic
+1,Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel,Legendary Creature — Human Avatar Soldier // Legendary Creature — Angel Nightmare Avatar,mythic
 3,Scytheclaw Raptor,Creature — Dinosaur,uncommon
 1,Crawling Sensation,Enchantment,uncommon
 1,Athreos, God of Passage,Legendary Enchantment Creature — God,mythic
@@ -1686,6 +1719,7 @@
 2,Glimpse the Impossible,Sorcery,common
 1,Trygon Predator,Creature — Beast,uncommon
 1,Misleading Signpost,Artifact,rare
+1,Keeper of Secrets,Creature — Demon,rare
 2,Fire Covenant,Instant,uncommon
 2,Ishgard, the Holy See // Faith & Grief,Land — Town // Sorcery — Adventure,rare
 1,Troll of Khazad-dûm,Creature — Troll,common
@@ -1698,10 +1732,11 @@
 1,Hall of the Bandit Lord,Legendary Land,rare
 1,Reyav, Master Smith,Legendary Creature — Dwarf Artificer,uncommon
 2,Jodah, the Unifier,Legendary Creature — Human Wizard,mythic
+1,Out of the Tombs,Enchantment,rare
 1,Skyhunter Strike Force,Creature — Cat Knight,rare
 2,Restoration Magic,Instant,uncommon
 1,Mirrorworks,Artifact,rare
-1,Danny Pink,Legendary Creature — Human Soldier Advisor,rare
+2,Danny Pink,Legendary Creature — Human Soldier Advisor,rare
 1,Kona, Rescue Beastie,Legendary Creature — Beast Survivor,rare
 1,Keeper of Fables,Creature — Cat,uncommon
 1,Sporemound,Creature — Fungus,common
@@ -1724,6 +1759,7 @@
 1,Fain, the Broker,Legendary Creature — Human Warlock,rare
 2,Lavinia, Azorius Renegade,Legendary Creature — Human Soldier,rare
 1,Fangs of Kalonia,Sorcery,uncommon
+1,Cryptothrall,Artifact Creature — Construct,rare
 1,Necroduality,Enchantment,mythic
 2,Ajani's Pridemate,Creature — Cat Soldier,uncommon
 1,Split Up,Sorcery,rare
@@ -1761,6 +1797,7 @@
 1,Galvanic Iteration,Instant,rare
 1,Luminarch Ascension,Enchantment,rare
 1,Consuming Corruption,Instant,uncommon
+1,Commissar Severina Raine,Legendary Creature — Human Soldier,rare
 2,Psychic Frog,Creature — Frog,rare
 1,Frostcliff Siege,Enchantment,rare
 1,Rhys the Redeemed,Legendary Creature — Elf Warrior,rare
@@ -1798,7 +1835,7 @@
 1,Privileged Position,Enchantment,rare
 1,Sylvan Tutor,Sorcery,uncommon
 1,Tarnished Citadel,Land,rare
-1,Umezawa's Jitte,Legendary Artifact — Equipment,rare
+2,Umezawa's Jitte,Legendary Artifact — Equipment,rare
 1,Heat Shimmer,Sorcery,rare
 1,Winter Moon,Artifact,rare
 1,Pyrohemia,Enchantment,uncommon
@@ -1841,6 +1878,7 @@
 1,Goblin Instigator,Creature — Goblin Rogue,common
 1,Sunfrill Imitator,Creature — Dinosaur,rare
 1,Prince Imrahil the Fair,Legendary Creature — Human Noble,uncommon
+1,Tree of Perdition,Creature — Plant,rare
 1,Aetherworks Marvel,Legendary Artifact,mythic
 1,Invigorating Surge,Instant,uncommon
 2,Port of Karfell,Land,uncommon
@@ -1874,7 +1912,6 @@
 1,Reckoner's Bargain,Instant,common
 1,Fell,Sorcery,uncommon
 1,Krark, the Thumbless,Legendary Creature — Goblin Wizard,rare
-1,Titania's Command,Sorcery,rare
 1,Crossway Troublemakers,Creature — Vampire,rare
 1,Mavren Fein, Dusk Apostle,Legendary Creature — Vampire Cleric,rare
 1,Hidden Volcano,Land — Cave,common
@@ -1893,6 +1930,7 @@
 1,Renegade Tactics,Sorcery,common
 1,Gemstone Mine,Land,rare
 1,Fight Rigging,Enchantment,rare
+1,Tiller Engine,Artifact Creature — Construct,rare
 2,Bristling Backwoods,Land — Desert,common
 1,Good-Fortune Unicorn,Creature — Unicorn,uncommon
 1,Mistveil Plains,Land — Plains,uncommon
@@ -1951,6 +1989,7 @@
 1,Satoru, the Infiltrator,Legendary Creature — Human Ninja Rogue,rare
 1,Bronzebeak Foragers,Creature — Dinosaur,rare
 1,Devastation Tide,Sorcery,rare
+1,Evendo, Waking Haven,Land — Planet,mythic
 1,Bonny Pall, Clearcutter,Legendary Creature — Giant Scout,rare
 1,Grow from the Ashes,Sorcery,common
 1,Heliod's Pilgrim,Creature — Human Cleric,common
@@ -1983,6 +2022,8 @@
 2,Maelstrom Pulse,Sorcery,rare
 1,Leyline of the Void,Enchantment,rare
 1,Hunting Velociraptor,Creature — Dinosaur,rare
+1,Traveling Chocobo,Creature — Bird,mythic
+1,Pathbreaker Ibex,Creature — Goat,rare
 1,Maul of the Skyclaves,Artifact — Equipment,rare
 1,Coppercoat Vanguard,Creature — Human Soldier,uncommon
 1,Youthful Valkyrie,Creature — Angel,uncommon
@@ -1998,12 +2039,13 @@
 2,Spirit Link,Enchantment — Aura,common
 1,Benevolent Hydra,Creature — Hydra,rare
 1,Elesh Norn // The Argent Etchings,Legendary Creature — Phyrexian Praetor // Enchantment — Saga,mythic
+1,Tezzeret, Cruel Captain,Legendary Planeswalker — Tezzeret,mythic
 1,Burnt Offering,Instant,common
 1,Jagged Barrens,Land — Desert,common
 4,Alpine Meadow,Snow Land — Mountain Plains,common
 1,Deep Forest Hermit,Creature — Elf Druid,rare
 1,Svyelun of Sea and Sky,Legendary Creature — Merfolk God,mythic
-1,Cloud, Midgar Mercenary,Legendary Creature — Human Soldier Mercenary,mythic
+2,Cloud, Midgar Mercenary,Legendary Creature — Human Soldier Mercenary,mythic
 9,Goblin Chirurgeon,Creature — Goblin Shaman,common
 1,Bloodline Necromancer,Creature — Vampire Wizard,uncommon
 1,Llanowar Loamspeaker,Creature — Elf Druid,rare
@@ -2077,6 +2119,7 @@
 1,Invigorating Hot Spring,Enchantment,uncommon
 1,Jinnie Fay, Jetmir's Second,Legendary Creature — Elf Druid,rare
 1,Ulamog's Dreadsire,Creature — Eldrazi,rare
+1,Sygg, River Cutthroat,Legendary Creature — Merfolk Rogue,rare
 1,Adaptive Omnitool,Artifact — Equipment,rare
 1,Seer's Sundial,Artifact,rare
 1,Warden of Evos Isle,Creature — Bird Wizard,uncommon
@@ -2132,6 +2175,7 @@
 1,Summon: Yojimbo,Enchantment Creature — Saga Samurai,rare
 1,Spawning Bed,Land,uncommon
 1,Zara, Renegade Recruiter,Legendary Creature — Human Pirate,rare
+1,MacCready, Lamplight Mayor,Legendary Creature — Human Advisor,rare
 1,Visions of Beyond,Instant,rare
 1,World Breaker,Creature — Eldrazi,mythic
 3,Grasslands,Land,uncommon
@@ -2148,6 +2192,7 @@
 1,Spitfire Lagac,Creature — Lizard,common
 1,Pile On,Instant,rare
 1,Scurry of Squirrels,Creature — Squirrel Scout,rare
+1,Uthros, Titanic Godcore,Land — Planet,mythic
 2,Blade Splicer,Creature — Phyrexian Human Artificer,rare
 1,Rain of Filth,Instant,uncommon
 7,Pestilence,Enchantment,uncommon
@@ -2173,7 +2218,6 @@
 1,Digsite Engineer,Creature — Dwarf Artificer,rare
 1,Sleight of Hand,Sorcery,common
 1,Zur, Eternal Schemer,Legendary Creature — Human Wizard,mythic
-1,Tyvar, the Pummeler,Legendary Creature — Elf Warrior,mythic
 2,Throne of the High City,Land,rare
 2,Honored Dreyleader,Creature — Squirrel Warrior,uncommon
 1,Malevolent Rumble,Sorcery,common
@@ -2204,10 +2248,12 @@
 1,Pilgrim's Eye,Artifact Creature — Thopter,common
 1,Alrund's Epiphany,Sorcery,mythic
 1,Sorin, Imperious Bloodlord,Legendary Planeswalker — Sorin,mythic
+1,Sigil of Sleep,Enchantment — Aura,common
 1,Harbinger of the Seas,Creature — Merfolk Wizard,rare
 1,Thalia's Lieutenant,Creature — Human Soldier,rare
 1,Éomer, King of Rohan,Legendary Creature — Human Noble,rare
 3,Sultai Charm,Instant,uncommon
+1,Shadow of Mortality,Creature — Avatar,rare
 1,Tithing Blade // Consuming Sepulcher,Artifact // Artifact,common
 2,Omnath, Locus of Creation,Legendary Creature — Elemental,mythic
 1,Cut Down,Instant,uncommon
@@ -2222,6 +2268,7 @@
 1,Spear Spewer,Creature — Goblin Warrior,common
 1,Sword of Once and Future,Artifact — Equipment,mythic
 1,Hunter's Talent,Enchantment — Class,uncommon
+1,Teval, the Balanced Scale,Legendary Creature — Spirit Dragon,mythic
 1,Glass-Cast Heart,Artifact,rare
 1,Curate,Instant,common
 1,Surgehacker Mech,Artifact — Vehicle,rare
@@ -2231,7 +2278,7 @@
 4,Strixhaven Stadium,Artifact,rare
 1,Restless Vinestalk,Land,rare
 1,Stocking the Pantry,Enchantment,uncommon
-1,Yoshimaru, Ever Faithful,Legendary Creature — Dog,mythic
+2,Yoshimaru, Ever Faithful,Legendary Creature — Dog,mythic
 1,Azusa's Many Journeys // Likeness of the Seeker,Enchantment — Saga // Enchantment Creature — Human Monk,uncommon
 2,Elvish Rejuvenator,Creature — Elf Druid,common
 1,Growing Ranks,Enchantment,rare
@@ -2260,6 +2307,7 @@
 1,Merfolk Looter,Creature — Merfolk Rogue,uncommon
 1,Wojek Investigator,Creature — Angel Detective,rare
 2,Firemind Vessel,Artifact,common
+1,Exalted Sunborn,Creature — Angel Wizard,mythic
 1,Bloodroot Apothecary,Creature — Squirrel Druid,rare
 3,Blazing Crescendo,Instant,common
 2,Snapping Voidcraw,Creature — Eldrazi Turtle,common
@@ -2336,7 +2384,7 @@
 3,Nowhere to Run,Enchantment,uncommon
 4,Prophetic Prism,Artifact,common
 1,Kelpie Guide,Creature — Beast,uncommon
-1,Aerith Gainsborough,Legendary Creature — Human Cleric,rare
+2,Aerith Gainsborough,Legendary Creature — Human Cleric,rare
 1,Blacksmith's Talent,Enchantment — Class,uncommon
 1,Bramble Sovereign,Creature — Dryad,mythic
 11,Black Mage's Rod,Artifact — Equipment,common
@@ -2369,6 +2417,7 @@
 1,Trail of Crumbs,Enchantment,uncommon
 1,Kari Zev, Skyship Raider,Legendary Creature — Human Pirate,rare
 4,Sulfurous Mire,Snow Land — Swamp Mountain,common
+1,Rammas Echor, Ancient Shield,Legendary Artifact,rare
 1,Queza, Augur of Agonies,Legendary Creature — Octopus Advisor,uncommon
 1,The Eternity Elevator,Legendary Artifact — Spacecraft,rare
 1,The Kami War // O-Kagachi Made Manifest,Enchantment — Saga // Enchantment Creature — Dragon Spirit,mythic
@@ -2388,6 +2437,7 @@
 1,Redemption Arc,Enchantment — Aura,rare
 1,The Underworld Cookbook,Artifact,uncommon
 1,Replication Technique,Sorcery,rare
+1,Knuckles the Echidna,Legendary Creature — Echidna Warrior,mythic
 1,Murderous Redcap,Creature — Goblin Assassin,uncommon
 1,Erdwal Illuminator,Creature — Spirit,uncommon
 2,Inquisitor's Flail,Artifact — Equipment,uncommon
@@ -2405,6 +2455,7 @@
 1,Tishana, Voice of Thunder,Legendary Creature — Merfolk Shaman,mythic
 1,Vodalian Hexcatcher,Creature — Merfolk Wizard,rare
 1,Tuskguard Captain,Creature — Human Warrior,common
+1,Lightning, Army of One,Legendary Creature — Human Soldier,mythic
 1,Michiko's Reign of Truth // Portrait of Michiko,Enchantment — Saga // Enchantment Creature — Human Noble,uncommon
 1,Mobilizer Mech,Artifact — Vehicle,uncommon
 1,Coiling Rebirth,Sorcery,rare
@@ -2423,6 +2474,7 @@
 2,Cid, Freeflier Pilot,Legendary Creature — Human Warrior Pilot,rare
 1,Gift of Estates,Sorcery,uncommon
 1,Rhonas the Indomitable,Legendary Creature — God,mythic
+1,Tymna the Weaver,Legendary Creature — Human Cleric,rare
 2,Thraben Charm,Instant,common
 2,Izzet Generatorium,Artifact,uncommon
 10,Shrieking Drake,Creature — Drake,uncommon
@@ -2501,6 +2553,7 @@
 3,Offer Immortality,Instant,common
 1,Drover of the Mighty,Creature — Human Druid,uncommon
 1,Thada Adel, Acquisitor,Legendary Creature — Merfolk Rogue,rare
+1,Jegantha, the Wellspring,Legendary Creature — Elemental Elk,rare
 1,Kefnet's Monument,Legendary Artifact,uncommon
 2,Hypnotic Sprite // Mesmeric Glare,Creature — Faerie // Instant — Adventure,uncommon
 1,Zoyowa's Justice,Instant,uncommon
@@ -2574,6 +2627,7 @@
 3,Wandertale Mentor,Creature — Raccoon Bard,uncommon
 1,Tocasia's Dig Site,Land,common
 3,Overlord of the Mistmoors,Enchantment Creature — Avatar Horror,mythic
+2,The Soul Stone,Legendary Artifact — Infinity Stone,mythic
 1,Arcbond,Instant,rare
 1,Merfolk Mistbinder,Creature — Merfolk Shaman,uncommon
 1,Tinybones, Trinket Thief,Legendary Creature — Skeleton Rogue,mythic
@@ -2595,6 +2649,7 @@
 1,Platinum Emperion,Artifact Creature — Golem,mythic
 1,Obeka, Splitter of Seconds,Legendary Creature — Ogre Warlock,rare
 4,Ajani, Nacatl Pariah // Ajani, Nacatl Avenger,Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani,mythic
+3,Ouroboroid,Creature — Plant Wurm,mythic
 1,Whirler Virtuoso,Creature — Vedalken Artificer,uncommon
 1,Necrodominance,Legendary Enchantment,mythic
 9,Sisay's Ring,Artifact,common
@@ -2689,7 +2744,7 @@
 1,Voracious Vermin,Creature — Rat,common
 1,Chameleon Colossus,Creature — Shapeshifter,rare
 1,Eternal Scourge,Creature — Eldrazi Horror,rare
-1,Scrollshift,Instant,common
+2,Scrollshift,Instant,common
 3,No More Lies,Instant,uncommon
 4,Screaming Nemesis,Creature — Spirit,mythic
 1,Dazzling Sphinx,Creature — Sphinx,rare
@@ -2699,6 +2754,7 @@
 1,Yuna, Grand Summoner,Legendary Creature — Human Cleric,mythic
 1,Spellshock,Enchantment,uncommon
 1,Skullsnatcher,Creature — Rat Ninja,common
+1,Tom Bombadil,Legendary Creature — God Bard,mythic
 1,Francisco, Fowl Marauder,Legendary Creature — Bird Pirate,rare
 1,Red Sun's Twilight,Sorcery,rare
 1,Kotori, Pilot Prodigy,Legendary Creature — Moonfolk Pilot,mythic
@@ -2710,6 +2766,7 @@
 1,Pawpatch Formation,Instant,uncommon
 8,Crossroads Village,Land — Town,common
 1,Killer Service,Enchantment,rare
+1,Anticausal Vestige,Creature — Eldrazi,rare
 1,Mire Triton,Creature — Zombie Merfolk,common
 2,Orvar, the All-Form,Legendary Creature — Shapeshifter,mythic
 1,Duskwatch Recruiter // Krallenhorde Howler,Creature — Human Warrior Werewolf // Creature — Werewolf,uncommon
@@ -2747,6 +2804,7 @@
 2,Destroy Evil,Instant,common
 1,Magebane Lizard,Creature — Lizard,uncommon
 13,Pacifism,Enchantment — Aura,common
+1,Starfield Vocalist,Creature — Human Bard,rare
 1,Treetop Village,Land,uncommon
 1,Termagant Swarm,Creature — Tyranid,rare
 1,Judge's Familiar,Creature — Bird,common
@@ -2773,7 +2831,7 @@
 1,Filigree Familiar,Artifact Creature — Fox,common
 1,Hermes, Overseer of Elpis,Legendary Creature — Elder Wizard,rare
 1,Lord Windgrace,Legendary Planeswalker — Windgrace,mythic
-3,Faerie Vandal,Creature — Faerie Rogue,uncommon
+4,Faerie Vandal,Creature — Faerie Rogue,uncommon
 1,Press the Enemy,Instant,rare
 2,Gush,Instant,common
 1,Sixth Sense,Enchantment — Aura,uncommon
@@ -2897,12 +2955,14 @@
 1,Comet, Stellar Pup,Legendary Planeswalker — Comet,mythic
 1,Hot Pursuit,Enchantment,rare
 1,Summon: Magus Sisters,Enchantment Creature — Saga Faerie,rare
+1,Spitting Dilophosaurus,Creature — Dinosaur,rare
 1,Bond of Discipline,Sorcery,uncommon
 1,Descendants' Fury,Enchantment,rare
 1,Faerie Dreamthief,Creature — Faerie Warlock,uncommon
 2,Trickster's Elk,Enchantment Creature — Elk,uncommon
 1,Constricting Sliver,Creature — Sliver,uncommon
 1,Renari, Merchant of Marvels,Legendary Creature — Dragon Artificer,uncommon
+1,Super State,Legendary Enchantment — Aura,mythic
 2,Kefka, Dancing Mad,Legendary Creature — Human Wizard,rare
 1,You Are Already Dead,Instant,common
 1,Dawnbringer Cleric,Creature — Human Cleric,common
@@ -2996,6 +3056,7 @@
 4,Cori-Steel Cutter,Artifact — Equipment,rare
 1,Silverquill Campus,Land,common
 1,Dack Fayden,Legendary Planeswalker — Dack,mythic
+1,Dawnsire, Sunstar Dreadnought,Legendary Artifact — Spacecraft,mythic
 1,Elenda and Azor,Legendary Creature — Vampire Knight Sphinx,mythic
 1,Starscream, Power Hungry // Starscream, Seeker Leader,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
 1,Paladin Elizabeth Taggerdy,Legendary Creature — Human Knight,rare
@@ -3103,7 +3164,7 @@
 1,Baloth Prime,Creature — Beast,rare
 1,Mob Verdict,Sorcery,rare
 1,Voidwing Hybrid,Creature — Phyrexian Bat,uncommon
-1,Yuna, Hope of Spira,Legendary Creature — Human Cleric,mythic
+2,Yuna, Hope of Spira,Legendary Creature — Human Cleric,mythic
 1,Court Street Denizen,Creature — Human Soldier,common
 1,Broodhatch Nantuko,Creature — Insect Druid,uncommon
 1,Salvation Colossus,Artifact Creature — Construct,rare
@@ -3122,7 +3183,7 @@
 1,Mask of Riddles,Artifact — Equipment,uncommon
 1,Tributary Instructor,Creature — Merfolk Shaman,rare
 1,Merrow Commerce,Kindred Enchantment — Merfolk,uncommon
-1,Racers' Ring,Land,common
+2,Racers' Ring,Land,common
 2,Mass Appeal,Sorcery,uncommon
 1,Runadi, Behemoth Caller,Legendary Creature — Cat Shaman,rare
 1,Sharae of Numbing Depths,Legendary Creature — Merfolk Wizard,uncommon
@@ -3281,7 +3342,6 @@
 1,Craig Boone, Novac Guard,Legendary Creature — Human Soldier,uncommon
 1,Goblin Negotiation,Sorcery,uncommon
 1,Tarmogoyf Nest,Kindred Enchantment — Lhurgoyf Aura,rare
-1,Multiclass Baldric,Artifact — Equipment,rare
 1,Venerated Stormsinger,Creature — Orc Cleric,uncommon
 1,Petrify,Enchantment — Aura,common
 4,Garnet, Princess of Alexandria,Legendary Creature — Human Noble Cleric,uncommon
@@ -3418,6 +3478,7 @@
 1,Seal from Existence,Enchantment,uncommon
 3,Dwynen's Elite,Creature — Elf Warrior,common
 1,Jadelight Spelunker,Creature — Merfolk Scout,rare
+1,Arahbo, Roar of the World,Legendary Creature — Cat Avatar,mythic
 1,Bonder's Ornament,Artifact,common
 1,Show and Tell,Sorcery,mythic
 4,Gleaming Barrier,Artifact Creature — Wall,common
@@ -3476,6 +3537,7 @@
 1,Lifecraft Engine,Artifact — Vehicle,rare
 2,Horned Loch-Whale // Lagoon Breach,Creature — Whale // Instant — Adventure,rare
 1,Departed Deckhand,Creature — Spirit Pirate,uncommon
+1,Tannuk, Steadfast Second,Legendary Creature — Kavu Pilot,mythic
 2,Adventuring Gear,Artifact — Equipment,uncommon
 1,Temporal Extortion,Sorcery,rare
 1,Moonstone Eulogist,Creature — Bat Warlock,rare
@@ -3747,6 +3809,7 @@
 1,Gilded Pinions,Artifact — Equipment,common
 1,Legolas, Master Archer,Legendary Creature — Elf Archer,rare
 1,Martyr of Dusk,Creature — Vampire Soldier,common
+1,Shadow the Hedgehog,Legendary Creature — Hedgehog Mercenary,mythic
 1,Angelic Intervention,Instant,common
 2,Akawalli, the Seething Tower,Legendary Creature — Fungus,uncommon
 1,Orochi Merge-Keeper,Creature — Snake Druid,uncommon
@@ -3793,6 +3856,7 @@
 1,Roalesk, Apex Hybrid,Legendary Creature — Human Mutant,mythic
 3,Valgavoth's Faithful,Creature — Human Cleric,uncommon
 1,Final Judgment,Sorcery,rare
+1,Emet-Selch, Unsundered // Hades, Sorcerer of Eld,Legendary Creature — Elder Wizard // Legendary Creature — Avatar,mythic
 4,Spell Snare,Instant,uncommon
 1,Krile Baldesion,Legendary Creature — Dwarf Wizard,rare
 1,Bartz and Boko,Legendary Creature — Human Bird,rare
@@ -3896,7 +3960,9 @@
 1,Guildsworn Prowler,Creature — Tiefling Rogue Assassin,common
 2,Slickshot Show-Off,Creature — Bird Wizard,rare
 1,One Last Job,Sorcery,rare
+1,Sothera, the Supervoid,Legendary Enchantment,mythic
 1,Intrepid Adversary,Creature — Human Scout,mythic
+1,Mm'menon, the Right Hand,Legendary Creature — Jellyfish Advisor,rare
 1,Blade of the Oni,Artifact Creature — Equipment Demon,mythic
 9,Fight On!,Instant,common
 1,Jolrael, Voice of Zhalfir,Legendary Creature — Human Druid,rare
@@ -3925,7 +3991,7 @@
 7,Raucous Carnival,Land,common
 1,Yuna's Whistle,Instant,rare
 7,Glassworks // Shattered Yard,Enchantment — Room // Enchantment — Room,common
-1,Mage's Attendant,Creature — Cat Rogue,uncommon
+2,Mage's Attendant,Creature — Cat Rogue,uncommon
 1,Against All Odds,Sorcery,uncommon
 1,Hell's Caretaker,Creature — Horror,rare
 1,Citizen's Crowbar,Artifact — Equipment,uncommon
@@ -3995,6 +4061,7 @@
 1,Imperial Recovery Unit,Artifact — Vehicle,uncommon
 3,Fleeting Flight,Instant,common
 7,Thunder Magic,Instant,common
+1,Quicksilver Elemental,Creature — Elemental,rare
 1,Hide in Plain Sight,Sorcery,rare
 2,Rasaad yn Bashir,Legendary Creature — Human Monk,uncommon
 1,Claws of Valakut,Enchantment — Aura,common
@@ -4142,6 +4209,7 @@
 1,Kitt Kanto, Mayhem Diva,Legendary Creature — Cat Bard Druid,mythic
 1,Quest for the Necropolis,Enchantment,uncommon
 1,Flamewake Phoenix,Creature — Phoenix,rare
+1,Invasion of Alara // Awaken the Maelstrom,Battle — Siege // Sorcery,rare
 1,Kyodai, Soul of Kamigawa,Legendary Creature — Dragon Spirit,rare
 3,Glasses of Urza,Artifact,common
 1,Neerdiv, Devious Diver,Legendary Creature — Merfolk Rogue,rare
@@ -4352,7 +4420,7 @@
 1,Skittering Surveyor,Artifact Creature — Construct,common
 5,Stiltzkin, Moogle Merchant,Legendary Creature — Moogle,rare
 1,Disinformation Campaign,Enchantment,uncommon
-4,Sure Strike,Instant,common
+5,Sure Strike,Instant,common
 1,Spectacular Pileup,Sorcery,rare
 11,Sage's Nouliths,Artifact — Equipment,common
 1,Arm-Mounted Anchor,Artifact — Equipment,rare
@@ -4460,6 +4528,7 @@
 11,Gysahl Greens,Sorcery,common
 1,Sabin, Master Monk,Legendary Creature — Human Noble Monk,rare
 1,Rashel, Fist of Torm,Legendary Creature — Human Knight,rare
+1,Amy Rose,Legendary Creature — Hedgehog Warrior,mythic
 1,Body Dropper,Creature — Devil Warrior,common
 1,Inspiration from Beyond,Sorcery,uncommon
 1,Contagion,Instant,rare
@@ -4506,7 +4575,7 @@
 1,Toxic Scorpion,Creature — Scorpion,common
 2,Dispelling Exhale,Instant,common
 1,Savage Twister,Sorcery,uncommon
-1,Cut Short,Instant,common
+2,Cut Short,Instant,common
 1,Draconic Disciple,Creature — Human Shaman,uncommon
 1,Zabaz, the Glimmerwasp,Legendary Artifact Creature — Insect,rare
 5,Verdant Haven,Enchantment — Aura,common
@@ -4576,6 +4645,7 @@
 1,Smelting Vat,Artifact,rare
 1,Zookeeper Mechan,Artifact Creature — Robot,common
 1,Icefall Regent,Creature — Dragon,rare
+1,Dr. Eggman,Legendary Creature — Human Scientist,mythic
 1,Ashnod the Uncaring,Legendary Creature — Human Artificer,mythic
 1,Aethersphere Harvester,Artifact — Vehicle,rare
 1,Crocanura,Creature — Crocodile Frog,common
@@ -4598,6 +4668,7 @@
 1,Dream Halls,Enchantment,mythic
 1,Burning Prophet,Creature — Human Wizard,common
 5,Momentum Breaker,Enchantment,uncommon
+1,Sonic the Hedgehog,Legendary Creature — Hedgehog Warrior,mythic
 1,Sarinth Greatwurm,Creature — Wurm,mythic
 1,Phyrexian Plaguelord,Creature — Phyrexian Carrier,rare
 3,Mischievous Pup,Creature — Dog,uncommon
@@ -4909,6 +4980,7 @@
 5,Pillage,Sorcery,uncommon
 1,Monument to Perfection,Artifact,rare
 1,Plundering Pirate,Creature — Orc Pirate,common
+1,Change the Equation,Instant,uncommon
 1,Crystal Carapace,Enchantment — Aura,common
 1,Varchild's War-Riders,Creature — Human Warrior,rare
 10,Malboro,Creature — Plant Horror,common
@@ -4921,6 +4993,7 @@
 1,Scrapwork Mutt,Artifact Creature — Dog,common
 1,Rift Bolt,Sorcery,common
 2,Chittering Skitterling,Creature — Phyrexian Rat,uncommon
+1,Akki Scrapchomper,Creature — Phyrexian Goblin,common
 1,Kitchen Finks,Creature — Ouphe,uncommon
 1,Waterspout Warden,Creature — Frog Soldier,common
 1,Veteran Guardmouse,Creature — Mouse Soldier,common
@@ -4993,6 +5066,7 @@
 2,Minor Misstep,Instant,uncommon
 2,Cavern Stomper,Creature — Dinosaur,common
 8,Gorilla Berserkers,Creature — Ape Berserker,common
+1,Selesnya Locket,Artifact,common
 1,Oathsworn Giant,Creature — Giant Soldier,uncommon
 1,Benalish Sleeper,Creature — Phyrexian Human Soldier,common
 1,Hidden Dragonslayer,Creature — Human Warrior,rare
@@ -5046,7 +5120,7 @@
 1,Palace Sentinels,Creature — Human Soldier,common
 1,Cosmium Confluence,Sorcery,rare
 2,Blood Aspirant,Creature — Satyr Berserker,common
-2,Dreg Recycler,Creature — Phyrexian Beast,common
+3,Dreg Recycler,Creature — Phyrexian Beast,common
 1,Triplicate Spirits,Sorcery,common
 1,Uchbenbak, the Great Mistake,Legendary Creature — Skeleton Horror,uncommon
 3,Cargo Ship,Artifact — Vehicle,uncommon
@@ -5095,6 +5169,7 @@
 1,Rishadan Port,Land,rare
 3,Sunbeam Spellbomb,Artifact,common
 1,Curse of the Werefox,Sorcery,common
+1,Vile Consumption,Enchantment,rare
 3,Jalum Tome,Artifact,common
 1,Skinthinner,Creature — Zombie,common
 1,Spinewoods Armadillo,Creature — Armadillo,uncommon
@@ -5113,6 +5188,7 @@
 1,Dragonback Lancer,Creature — Human Soldier,common
 2,Sarpadian Simulacrum,Artifact Creature — Goblin,common
 2,Spider-Gwen, Free Spirit,Legendary Creature — Spider Human Hero,common
+1,Darkest Hour,Enchantment,rare
 2,Debt to the Kami,Instant,common
 8,Remove Soul,Instant,common
 2,Master Thief,Creature — Human Rogue,uncommon
@@ -5137,7 +5213,7 @@
 5,Daggermaw Megalodon,Creature — Shark,common
 1,Telekinetic Sliver,Creature — Sliver,uncommon
 1,Arcanist's Owl,Artifact Creature — Bird,uncommon
-1,Kitesail,Artifact — Equipment,common
+2,Kitesail,Artifact — Equipment,common
 3,Sidequest: Play Blitzball // World Champion, Celestial Weapon,Enchantment // Legendary Artifact — Equipment,uncommon
 1,Soltari Foot Soldier,Creature — Soltari Soldier,common
 1,Village Messenger // Moonrise Intruder,Creature — Human Werewolf // Creature — Werewolf,common
@@ -5151,6 +5227,7 @@
 4,Sea Scryer,Creature — Merfolk Wizard,common
 4,Desperate Bloodseeker,Creature — Vampire,common
 1,Prismatic Ending,Sorcery,uncommon
+1,Miles "Tails" Prower,Legendary Creature — Fox Artificer,mythic
 1,Invasion of Belenon // Belenon War Anthem,Battle — Siege // Enchantment,uncommon
 1,Coalhauler Swine,Creature — Boar Beast,common
 1,Sugar Rush,Instant,common
@@ -5192,6 +5269,7 @@
 1,Loam Lion,Creature — Cat,uncommon
 9,Appendage Amalgam,Enchantment Creature — Horror,common
 1,Breathstealer's Crypt,Enchantment,rare
+1,Quantum Riddler,Creature — Sphinx,mythic
 1,Darksteel Pendant,Artifact,common
 1,Oracle of Tragedy,Creature — Human Wizard,uncommon
 1,Abeyance,Instant,rare
@@ -5310,6 +5388,7 @@
 1,Ettercap // Web Shot,Creature — Spider Beast // Instant — Adventure,common
 7,The Crystal's Chosen,Sorcery,uncommon
 6,Quicksand,Land,uncommon
+1,Slaughter,Instant,uncommon
 1,Whispering Snitch,Creature — Vampire Rogue,uncommon
 1,Hungry Ghoul,Creature — Zombie,common
 2,Cactarantula,Creature — Plant Spider,common
@@ -5455,7 +5534,7 @@
 1,Undead Gladiator,Creature — Zombie Barbarian,uncommon
 3,Rustvine Cultivator,Creature — Phyrexian Elf Druid,common
 1,Wake Thrasher,Creature — Merfolk Soldier,rare
-2,Most Wanted,Enchantment — Aura,common
+3,Most Wanted,Enchantment — Aura,common
 2,Urban Utopia,Enchantment — Aura,common
 1,Dokuchi Shadow-Walker,Creature — Ogre Ninja,common
 1,Scrappy Bruiser,Creature — Raccoon Warrior,uncommon
@@ -5514,7 +5593,7 @@
 1,Mandible Justiciar,Artifact Creature — Phyrexian Cleric,common
 1,Canopy Spider,Creature — Spider,common
 1,Vigilante Justice,Enchantment,uncommon
-1,Incriminate,Sorcery,common
+2,Incriminate,Sorcery,common
 1,Ramosian Greatsword,Artifact — Equipment,uncommon
 1,Trawler Drake,Creature — Phyrexian Drake,uncommon
 1,Contortionist Troupe,Creature — Human,uncommon
@@ -5671,10 +5750,11 @@
 4,Goblin Boarders,Creature — Goblin Pirate,common
 1,Riftwing Cloudskate,Creature — Illusion,uncommon
 2,Ancient Crab,Creature — Crab,common
+1,Corruption of Towashi,Enchantment,uncommon
 2,Compleat Devotion,Instant,common
 1,Grim Feast,Enchantment,rare
 2,Joust Through,Instant,uncommon
-1,Celebrity Fencer,Creature — Elf Druid,common
+2,Celebrity Fencer,Creature — Elf Druid,common
 2,Foul Roads,Land,uncommon
 2,Griffin Canyon,Land,rare
 3,Fireslinger,Creature — Human Wizard,common
@@ -5705,6 +5785,7 @@
 1,Frost Trickster,Creature — Bird Wizard,common
 3,Goldwarden's Helm,Artifact — Equipment,common
 2,Vodalian Arcanist,Creature — Merfolk Wizard,common
+1,Hidden Gibbons,Enchantment,rare
 1,Invasion of Ulgrotha // Grandmother Ravi Sengir,Battle — Siege // Legendary Creature — Human Wizard,uncommon
 1,Unswerving Sloth,Creature — Sloth Mount,uncommon
 1,Besotted Knight // Betroth the Beast,Creature — Human Knight // Sorcery — Adventure,common
@@ -5731,6 +5812,7 @@
 3,Might of the Ancestors,Enchantment,uncommon
 2,Flood the Engine,Enchantment — Aura,common
 2,Borderland Ranger,Creature — Human Scout Ranger,common
+1,Case the Joint,Instant,common
 1,Glimmerpoint Stag,Creature — Elk,uncommon
 2,Goblin Balloon Brigade,Creature — Goblin Warrior,common
 2,Glaring Aegis,Enchantment — Aura,common
@@ -5996,7 +6078,7 @@
 1,Heirloom Mirror // Inherited Fiend,Artifact // Creature — Demon,uncommon
 1,Sudden Impact,Instant,uncommon
 3,Aether Chaser,Creature — Human Artificer,common
-2,Wary Thespian,Creature — Cat Druid,common
+3,Wary Thespian,Creature — Cat Druid,common
 1,Caustic Exhale,Instant,common
 1,Rain of Gore,Enchantment,rare
 1,Clattering Skeletons,Creature — Skeleton,common
@@ -6022,7 +6104,7 @@
 2,Abduction,Enchantment — Aura,uncommon
 1,Usher of the Fallen,Creature — Spirit Warrior,uncommon
 1,Bayou Groff,Creature — Plant Dog,common
-2,Eyes of Gitaxias,Sorcery,common
+3,Eyes of Gitaxias,Sorcery,common
 1,Flaring Pain,Instant,common
 1,Reverse Damage,Instant,rare
 1,Deeproot Champion,Creature — Merfolk Shaman,rare
@@ -6036,6 +6118,7 @@
 1,Elderleaf Mentor,Creature — Elf Warrior,common
 1,Transcendent Master,Creature — Human Cleric Avatar,mythic
 2,Cosmium Blast,Instant,common
+1,Wishcoin Crab,Creature — Crab,common
 2,Eerie Gravestone,Artifact,common
 3,Betrayer's Bargain,Instant,uncommon
 1,Cunning Coyote,Creature — Coyote,uncommon
@@ -6260,7 +6343,7 @@
 3,Orcish Artillery,Creature — Orc Warrior,uncommon
 1,Ritual of Restoration,Sorcery,common
 1,Belbe's Armor,Artifact,uncommon
-1,Fearless Skald,Creature — Dwarf Berserker,uncommon
+2,Fearless Skald,Creature — Dwarf Berserker,uncommon
 1,Flash Thompson, Spider-Fan,Legendary Creature — Human Citizen,uncommon
 1,Glamorous Outlaw,Creature — Vampire Rogue,common
 1,Devoted Retainer,Creature — Human Samurai,common
@@ -6355,7 +6438,7 @@
 1,Tidehollow Sculler,Artifact Creature — Zombie,uncommon
 1,Griffin Protector,Creature — Griffin,common
 1,Haunted Hellride,Artifact — Vehicle,uncommon
-1,Quick-Draw Dagger,Artifact — Equipment,common
+2,Quick-Draw Dagger,Artifact — Equipment,common
 1,Overwhelm,Sorcery,uncommon
 2,Flashfreeze,Instant,uncommon
 2,Jayemdae Tome,Artifact,uncommon
@@ -7288,7 +7371,7 @@
 1,Animate Artifact,Enchantment — Aura,uncommon
 1,Benthic Criminologists,Creature — Merfolk Wizard,common
 1,The Hive,Artifact,rare
-2,Bonded Herdbeast // Plated Kilnbeast,Creature — Beast // Creature — Phyrexian Beast,common
+3,Bonded Herdbeast // Plated Kilnbeast,Creature — Beast // Creature — Phyrexian Beast,common
 3,Dwarven Pony,Creature — Horse,rare
 1,Hematite Talisman,Artifact,uncommon
 2,Rashida Scalebane,Legendary Creature — Human Soldier,rare
@@ -7686,6 +7769,7 @@
 14,Nim Shrieker,Creature — Zombie,common
 2,Haunting Misery,Sorcery,common
 1,Spoils of War,Sorcery,rare
+1,Thrashing Frontliner,Creature — Phyrexian Lizard,common
 1,Drought,Enchantment,uncommon
 3,Cloak of Confusion,Enchantment — Aura,common
 1,Ebon Praetor,Creature — Avatar Praetor,rare
@@ -7854,6 +7938,7 @@
 1,Trial of Strength,Enchantment,uncommon
 4,Foreshadow,Instant,uncommon
 1,Goblin Hero,Creature — Goblin,common
+1,Rosemane Centaur,Creature — Centaur Soldier,common
 2,Enfeeblement,Enchantment — Aura,common
 3,Headstone,Instant,common
 1,Nyx Infusion,Enchantment — Aura,common
@@ -7863,7 +7948,7 @@
 25,Willow Faerie,Creature — Faerie,common
 1,Arcum's Weathervane,Artifact,uncommon
 1,Wall of Pine Needles,Creature — Plant Wall,uncommon
-3,Cabaretti Initiate,Creature — Raccoon Citizen,common
+4,Cabaretti Initiate,Creature — Raccoon Citizen,common
 3,Farrel's Mantle,Enchantment — Aura,uncommon
 1,Vodalian Knights,Creature — Merfolk Knight,uncommon
 1,Forge Armor,Instant,uncommon
@@ -8424,7 +8509,7 @@
 4,Dog,Token Creature — Dog,common
 4,Squirrel,Token Creature — Squirrel,common
 1,Duelists' Convocation International,Enchantment,rare
-180,Plains,Basic Land — Plains,common
+210,Plains,Basic Land — Plains,common
 7,Snow-Covered Forest,Basic Snow Land — Forest,common
 15,Copy,Token,common
 1,Omenpath to Naya,Land — Omenpath,rare
@@ -8548,7 +8633,7 @@
 2,Phyrexian Myr,Token Artifact Creature — Phyrexian Myr,common
 3,Kithkin Soldier,Token Creature — Kithkin Soldier,common
 1,Cleaver Blow,Instant,rare
-172,Forest,Basic Land — Forest,common
+202,Forest,Basic Land — Forest,common
 3,Dinosaur Beast,Token Creature — Dinosaur Beast,common
 1,Orochi Colony,Plane — Kamigawa,common
 14,Thopter,Token Artifact Creature — Thopter,common
@@ -8610,7 +8695,7 @@
 1,Flanking Licid,Summon Licid,rare
 1,Mox Emerald,Artifact,bonus
 1,Tax Taker,Creature — Rat Advisor,rare
-2,Rhino Warrior,Token Creature — Rhino Warrior,common
+3,Rhino Warrior,Token Creature — Rhino Warrior,common
 1,Munitions,Token Artifact,common
 13,Cat,Token Creature — Cat,common
 1,Mox Pearl,Artifact,bonus
@@ -8645,7 +8730,7 @@
 1,You Compleat Me,Sorcery,rare
 4,Alien Insect,Token Creature — Alien Insect,common
 2,Angelo,Token Legendary Creature — Dog,common
-161,Mountain,Basic Land — Mountain,common
+192,Mountain,Basic Land — Mountain,common
 1,The Caldaia,Plane — Capenna,common
 2,Dinosaur Egg,Token Creature — Dinosaur Egg,common
 1,Gold Mine,Land,rare
@@ -8667,7 +8752,7 @@
 2,Monster // Sorcerer,Token Enchantment — Aura Role // Token Enchantment — Aura Role,common
 1,Truga Jungle,Plane — Ergamon,common
 1,Octopus,Token Creature — Octopus,common
-172,Island,Basic Land — Island,common
+202,Island,Basic Land — Island,common
 9,Servo,Token Artifact Creature — Servo,common
 1,Questing Cosplayer,Creature — Human Bard,rare
 1,Chatzuk, Mighty Guitarist,Legendary Creature — Human Bard,rare
@@ -8702,7 +8787,7 @@
 2,Wolf,Token Creature — Wolf,common
 3,Bear,Token Creature — Bear,common
 7,Elf Warrior,Token Creature — Elf Warrior,common
-142,Swamp,Basic Land — Swamp,common
+181,Swamp,Basic Land — Swamp,common
 3,Toy,Token Artifact Creature — Toy,common
 4,Wurm,Token Creature — Wurm,common
 3,Frog,Token Creature — Frog,common

@@ -7,9 +7,10 @@
 7,Counterspell,Instant,uncommon
 5,Rogue's Passage,Land,uncommon
 8,Myriad Landscape,Land,uncommon
-3,Beast Within,Instant,uncommon
+4,Beast Within,Instant,uncommon
 10,Mind Stone,Artifact,uncommon
 1,An Offer You Can't Refuse,Instant,uncommon
+2,Three Visits,Sorcery,uncommon
 4,Generous Gift,Instant,uncommon
 12,Temple of the False God,Land,uncommon
 5,Talisman of Dominance,Artifact,uncommon
@@ -132,6 +133,7 @@
 1,Marionette Apprentice,Creature — Human Artificer,uncommon
 1,Disciple of Freyalise // Garden of Freyalise,Creature — Elf Druid // Land,uncommon
 2,Nesting Grounds,Land,uncommon
+1,Goreclaw, Terror of Qal Sisma,Legendary Creature — Bear,uncommon
 1,Open the Armory,Sorcery,uncommon
 1,Wizard Class,Enchantment — Class,uncommon
 1,Reprieve,Instant,uncommon
@@ -290,6 +292,7 @@
 1,Satyr Enchanter,Creature — Satyr Druid,uncommon
 1,Deathreap Ritual,Enchantment,uncommon
 2,Ancestral Mask,Enchantment — Aura,uncommon
+1,Glittering Stockpile,Artifact — Treasure,uncommon
 1,Llanowar Reborn,Land,uncommon
 1,Brave the Sands,Enchantment,uncommon
 2,Drown in Ichor,Sorcery,uncommon
@@ -311,7 +314,6 @@
 2,Vat of Rebirth,Artifact,uncommon
 1,Overpowering Attack,Sorcery,uncommon
 1,Lively Dirge,Sorcery,uncommon
-1,Combat Research,Enchantment — Aura,uncommon
 1,Power Depot,Artifact Land,uncommon
 1,Trophy Mage,Creature — Human Wizard,uncommon
 4,Sheltered by Ghosts,Enchantment — Aura,uncommon
@@ -319,6 +321,7 @@
 1,Scurry Oak,Creature — Treefolk,uncommon
 1,Dance of the Dead,Enchantment — Aura,uncommon
 1,Boltwave,Sorcery,uncommon
+1,Silver Shroud Costume,Artifact — Equipment,uncommon
 1,Flickerwisp,Creature — Elemental,uncommon
 1,Myr Convert,Artifact Creature — Phyrexian Myr,uncommon
 1,Ruby, Daring Tracker,Legendary Creature — Human Scout,uncommon
@@ -341,6 +344,7 @@
 7,Merchant Scroll,Sorcery,uncommon
 1,Treasonous Ogre,Creature — Ogre Shaman,uncommon
 1,Reckless Handling,Sorcery,uncommon
+1,Rograkh, Son of Rohgahh,Legendary Creature — Kobold Warrior,uncommon
 1,Prosperous Thief,Creature — Human Ninja,uncommon
 1,Lazotep Plating,Instant,uncommon
 1,Ranging Raptors,Creature — Dinosaur,uncommon
@@ -658,7 +662,7 @@
 2,Zombify,Sorcery,uncommon
 1,Gandalf, Friend of the Shire,Legendary Creature — Avatar Wizard,uncommon
 1,Rush of Inspiration // Crackling Falls,Instant // Land,uncommon
-3,Faerie Vandal,Creature — Faerie Rogue,uncommon
+4,Faerie Vandal,Creature — Faerie Rogue,uncommon
 1,Sixth Sense,Enchantment — Aura,uncommon
 1,Reinforced Ronin,Artifact Creature — Human Samurai,uncommon
 1,Signal Pest,Artifact Creature — Pest,uncommon
@@ -984,7 +988,7 @@
 1,Scrounging Skyray,Creature — Fish Pirate,uncommon
 1,Dauntless Bodyguard,Creature — Human Knight,uncommon
 1,Daily Bugle Building,Land,uncommon
-1,Mage's Attendant,Creature — Cat Rogue,uncommon
+2,Mage's Attendant,Creature — Cat Rogue,uncommon
 1,Against All Odds,Sorcery,uncommon
 1,Citizen's Crowbar,Artifact — Equipment,uncommon
 1,Gaea's Touch,Enchantment,uncommon
@@ -1304,6 +1308,7 @@
 1,Venom Connoisseur,Creature — Human Druid,uncommon
 3,Ignis Scientia,Legendary Creature — Human Advisor,uncommon
 5,Pillage,Sorcery,uncommon
+1,Change the Equation,Instant,uncommon
 1,Witchstalker Frenzy,Instant,uncommon
 1,Pyretic Rebirth,Instant,uncommon
 5,Omega, Heartless Evolution,Legendary Artifact Creature — Robot,uncommon
@@ -1433,6 +1438,7 @@
 4,Locke Cole,Legendary Creature — Human Rogue,uncommon
 7,The Crystal's Chosen,Sorcery,uncommon
 6,Quicksand,Land,uncommon
+1,Slaughter,Instant,uncommon
 1,Whispering Snitch,Creature — Vampire Rogue,uncommon
 1,Firebolt,Sorcery,uncommon
 2,Canyon Vaulter,Creature — Kor Pilot,uncommon
@@ -1567,6 +1573,7 @@
 4,Sleep Magic,Enchantment — Aura,uncommon
 2,Needletooth Pack,Creature — Dinosaur,uncommon
 1,Riftwing Cloudskate,Creature — Illusion,uncommon
+1,Corruption of Towashi,Enchantment,uncommon
 2,Joust Through,Instant,uncommon
 2,Foul Roads,Land,uncommon
 1,Rubblebelt Rioters,Creature — Human Berserker,uncommon
@@ -1764,7 +1771,7 @@
 1,Glistening Deluge,Sorcery,uncommon
 3,Orcish Artillery,Creature — Orc Warrior,uncommon
 1,Belbe's Armor,Artifact,uncommon
-1,Fearless Skald,Creature — Dwarf Berserker,uncommon
+2,Fearless Skald,Creature — Dwarf Berserker,uncommon
 1,Flash Thompson, Spider-Fan,Legendary Creature — Human Citizen,uncommon
 7,Leonin Scimitar,Artifact — Equipment,uncommon
 1,Belltoll Dragon,Creature — Dragon,uncommon

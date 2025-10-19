@@ -1,11 +1,9 @@
-Ancient Copper Dragon (PROXY)
 Ancient Greenwarden (PROXY)
 Ashaya, Soul of the Wild (PROXY)
 Beast Whisperer (PROXY)
 Birds of Paradise (PROXY)
 Cityscape Leveler (PROXY)
 Cultivator Colossus (PROXY)
-Delighted Halfling (PROXY)
 Doppelgang (PROXY)
 Dreamroot Cascade (PROXY)
 Genesis Ultimatum (PROXY)
@@ -22,9 +20,6 @@ Scute Swarm (PROXY)
 Skullclamp (PROXY)
 Talisman of Curiosity (PROXY)
 Temur Ascendancy (PROXY)
-Terror of the Peaks (PROXY)
-The Great Henge (PROXY)
-Tifa Lockhart (PROXY)
 Tribute to the World Tree (PROXY)
 Triumph of the Hordes (PROXY)
 Vorinclex, Monstrous Raider (PROXY)
@@ -39,6 +34,7 @@ Akal Pakal, First Among Equals
 Akoum Hellhound
 Altar of the Brood
 Anax, Hardened in the Forge
+Ancient Copper Dragon
 Archaeomancer
 Archive Trap
 Arena of Glory
@@ -93,6 +89,7 @@ Dack Fayden
 Daze
 Death-Greeter's Champion
 Defiler of Vigor
+Delighted Halfling
 Delver of Secrets // Insectile Aberration
 Dig Through Time
 Disciple of Freyalise // Garden of Freyalise
@@ -374,10 +371,12 @@ Tekuthal, Inquiry Dominus
 Temur Battlecrier
 Terisian Mindbreaker
 Urza, Lord High Artificer
+Terror of the Peaks
 The Endstone
 The First Tyrannic War
 The Mindskinner
 The One Ring
+The Great Henge
 The Regalia
 The Water Crystal
 Thing in the Ice // Awoken Horror
@@ -388,6 +387,7 @@ Thought Scour
 Thran Dynamo
 Through the Breach
 Thrummingbird
+Tifa Lockhart
 Time Warp
 Tinker
 Tireless Provisioner

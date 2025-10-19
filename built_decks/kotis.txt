@@ -1,10 +1,3 @@
-Assassin's Trophy (PROXY)
-Llanowar Wastes (PROXY)
-Morphic Pool (PROXY)
-Rejuvenating Springs (PROXY)
-Roaming Throne (PROXY)
-Undergrowth Stadium (PROXY)
-Yavimaya Coast (PROXY)
 Kotis, the Fangkeeper
 An Offer You Can't Refuse
 Aqueous Form
@@ -12,13 +5,13 @@ Arcane Denial
 Arcane Signet
 Audacity
 Bear Umbra
-Beast Within
 Birds of Paradise
 Blackblade Reforged
 Bloom Tender
 Bojuka Bog
 Breeding Pool
 Brotherhood Regalia
+Combat Research
 Command Tower
 Cultivate
 Cyclonic Rift
@@ -46,6 +39,7 @@ Forest
 Forgotten Ancient
 Glissa Sunslayer
 Gonti, Night Minister
+Guardian Augmenter
 Hinterland Harbor
 Hollowmurk Siege
 Indomitable Might
@@ -62,6 +56,7 @@ Leyline Axe
 Llanowar Elves
 Misty Rainforest
 Shadowspear
+Morphic Pool
 Negate
 Opulent Palace
 Overgrown Tomb
@@ -69,7 +64,9 @@ Polluted Delta
 Propaganda
 Rampant Growth
 Rancor
+Rejuvenating Springs
 Rhystic Study
+Roaming Throne
 Rogue's Passage
 Sakura-Tribe Elder
 Security Bypass
@@ -84,12 +81,15 @@ Swamp
 Swamp
 Swamp
 Swamp
+Swamp
 Swan Song
 Swiftfoot Boots
 Sword of Truth and Justice
 Talisman of Curiosity
+The Soul Stone
 Three Visits
 Toski, Bearer of Secrets
+Undergrowth Stadium
 Verdant Catacombs
 Villainous Wealth
 Watery Grave

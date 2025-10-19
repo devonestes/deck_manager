@@ -21,7 +21,6 @@
 1 Heroic Intervention (LTC) 249
 1 Invasion of Ikoria / Zilortha, Apex of Ikoria (MOM) 190
 1 Jolrael, Mwonvuli Recluse (MKC) 173
-1 Kogla, the Titan Ape (IKO) 162
 1 Kolvori, God of Kinship / The Ringhart Crest (KHM) 181
 1 Kona, Rescue Beastie (DSK) 358
 1 Last March of the Ents (LTR) 418
@@ -65,6 +64,7 @@
 1 Toski, Bearer of Secrets (KHM) 197
 1 Tribute to the World Tree (MOM) 211
 1 Turntimber Symbiosis / Turntimber, Serpentine Wood (ZNR) 364
+1 Tyvar, the Pummeler (DSK) 202
 1 Unnatural Growth (PMID) 206p
 1 Vorinclex / The Grand Evolution (MOM) 213
 1 Vorinclex, Monstrous Raider (KHM) 333

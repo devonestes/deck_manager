@@ -7,10 +7,8 @@
 1 Arcane Signet (MOC) 348
 1 Balamb Garden, SeeD Academy / Balamb Garden, Airborne (FIN) 354
 1 Birds of Paradise (4ED) 234
-1 Blossoming Tortoise (WOE) 163
 1 Boseiju, Who Endures (NEO) 501
 1 Breeding Pool (UNF) 286
-1 Burgeoning (STH) 102
 1 Cloudpost (M3C) 330
 1 Command Tower (MOC) 396
 1 Copy Land (M3C) 99
@@ -39,10 +37,10 @@
 1 Hydra Broodmaster (M3C) 233
 1 Hydroelectric Specimen / Hydroelectric Laboratory (MH3) 240
 1 Hydroid Krasis (RNA) 183
+1 Icetill Explorer (EOE) 343
 3 Island (J22) 101
 1 Kozilek, Butcher of Truth (ROE) 6
 1 Kozilek, the Great Distortion (CMM) 668
-1 Kura, the Boundless Sky (NEO) 200
 1 Lightning Greaves (LTC) 281
 1 Llanowar Elves (M12) 182
 1 Lord of the Unreal (J25) 322
@@ -51,6 +49,7 @@
 1 Mass Appeal (AVR) 66
 1 Master of the Pearl Trident (LCC) 162
 1 Misty Rainforest (MM3) 240
+1 Multiclass Baldric (CLB) 684
 1 Mystic Remora (ICE) 87
 1 Nylea's Intervention (THB) 188
 1 Omenpath Journey (BIG) 18
@@ -78,6 +77,7 @@
 1 Thespian's Stage (C19) 282
 1 Thrasios, Triton Hero (C16) 46
 1 Timber Protector (LRW) 238
+1 Titania's Command (BRO) 349
 1 Trenchpost (M3C) 135
 1 Tropical Island (3ED) 288
 1 Turntimber Symbiosis / Turntimber, Serpentine Wood (ZNR) 364

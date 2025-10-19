@@ -2,6 +2,7 @@
 1,Invasion of Kaldheim // Pyre of the World Tree,Battle — Siege // Enchantment,rare
 1,Invasion of New Capenna // Holy Frazzle-Cannon,Battle — Siege // Artifact — Equipment,uncommon
 1,Invasion of New Phyrexia // Teferi Akosa of Zhalfir,Battle — Siege // Legendary Planeswalker — Teferi,mythic
+1,Invasion of Alara // Awaken the Maelstrom,Battle — Siege // Sorcery,rare
 1,Invasion of Mercadia // Kyren Flamewright,Battle — Siege // Creature — Goblin Spellshaper,uncommon
 1,Invasion of Karsus // Refraction Elemental,Battle — Siege // Creature — Elemental,rare
 1,Invasion of Regatha // Disciples of the Inferno,Battle — Siege // Creature — Human Monk,uncommon

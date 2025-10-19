@@ -24,6 +24,7 @@
 2,Ugin, Eye of the Storms,Legendary Planeswalker — Ugin,mythic
 1,Minsc & Boo, Timeless Heroes,Legendary Planeswalker — Minsc,mythic
 1,Lolth, Spider Queen,Legendary Planeswalker — Lolth,mythic
+1,Tezzeret, Cruel Captain,Legendary Planeswalker — Tezzeret,mythic
 1,Garruk, Cursed Huntsman,Legendary Planeswalker — Garruk,mythic
 1,Vivien Reid,Legendary Planeswalker — Vivien,mythic
 1,Sorin, Imperious Bloodlord,Legendary Planeswalker — Sorin,mythic

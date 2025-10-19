@@ -3,9 +3,10 @@
 1,Blasphemous Act,Sorcery,rare
 7,Rampant Growth,Sorcery,common
 1,Kodama's Reach,Sorcery — Arcane,common
+2,Three Visits,Sorcery,uncommon
 5,Demonic Tutor,Sorcery,mythic
 1,Reanimate,Sorcery,rare
-1,Toxic Deluge,Sorcery,rare
+2,Toxic Deluge,Sorcery,rare
 2,Feed the Swarm,Sorcery,common
 2,Faithless Looting,Sorcery,common
 3,Jeska's Will,Sorcery,rare
@@ -14,7 +15,7 @@
 4,Farewell,Sorcery,rare
 1,Ponder,Sorcery,common
 3,Austere Command,Sorcery,rare
-2,Preordain,Sorcery,common
+3,Preordain,Sorcery,common
 2,Night's Whisper,Sorcery,common
 1,Sign in Blood,Sorcery,common
 1,Rishkar's Expertise,Sorcery,rare
@@ -22,7 +23,7 @@
 2,Explore,Sorcery,common
 2,Diabolic Intent,Sorcery,rare
 4,Harmonize,Sorcery,uncommon
-1,Damn,Sorcery,rare
+2,Damn,Sorcery,rare
 3,Finale of Devastation,Sorcery,mythic
 1,Shamanic Revelation,Sorcery,rare
 2,Sevinne's Reclamation,Sorcery,rare
@@ -189,7 +190,6 @@
 1,Chatterstorm,Sorcery,common
 1,Electroduplicate,Sorcery,rare
 1,Fell,Sorcery,uncommon
-1,Titania's Command,Sorcery,rare
 1,Renegade Tactics,Sorcery,common
 1,Transmute Artifact,Sorcery,rare
 1,Council's Judgment,Sorcery,rare
@@ -433,6 +433,7 @@
 6,Under the Skin,Sorcery,uncommon
 3,Let's Play a Game,Sorcery,uncommon
 1,Spark Harvest,Sorcery,common
+1,Invasion of Alara // Awaken the Maelstrom,Battle — Siege // Sorcery,rare
 1,Agate Assault,Sorcery,common
 1,Longstalk Brawl,Sorcery,common
 1,Horrific Assault,Sorcery,common
@@ -614,7 +615,7 @@
 1,Viral Spawning,Sorcery,uncommon
 3,Unnerving Grasp,Sorcery,uncommon
 1,Embrace Oblivion,Sorcery,common
-1,Incriminate,Sorcery,common
+2,Incriminate,Sorcery,common
 2,Shatterstorm,Sorcery,uncommon
 4,Deconstruct,Sorcery,common
 3,Imperial Oath,Sorcery,common
@@ -678,7 +679,7 @@
 1,Arc Trail,Sorcery,uncommon
 1,Rhino's Rampage,Sorcery,uncommon
 1,Infernal Contract,Sorcery,rare
-2,Eyes of Gitaxias,Sorcery,common
+3,Eyes of Gitaxias,Sorcery,common
 4,Tsunami,Sorcery,rare
 1,Drown in Sorrow,Sorcery,common
 2,Press for Answers,Sorcery,common

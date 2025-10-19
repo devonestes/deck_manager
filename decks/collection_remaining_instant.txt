@@ -1,9 +1,11 @@
 8,Swords to Plowshares,Instant,uncommon
 4,Path to Exile,Instant,uncommon
 7,Counterspell,Instant,uncommon
-3,Beast Within,Instant,uncommon
+4,Beast Within,Instant,uncommon
 6,Chaos Warp,Instant,rare
+1,Heroic Intervention,Instant,rare
 18,Dark Ritual,Instant,common
+1,Cyclonic Rift,Instant,mythic
 1,An Offer You Can't Refuse,Instant,uncommon
 4,Generous Gift,Instant,uncommon
 2,Negate,Instant,common
@@ -34,7 +36,7 @@
 3,Thrill of Possibility,Instant,common
 2,Rapid Hybridization,Instant,uncommon
 1,Opt,Instant,common
-1,Akroma's Will,Instant,rare
+2,Akroma's Will,Instant,rare
 1,Crop Rotation,Instant,uncommon
 1,Harrow,Instant,common
 2,Terminate,Instant,common
@@ -65,6 +67,7 @@
 1,Unbreakable Formation,Instant,rare
 3,Untimely Malfunction,Instant,uncommon
 1,Ephemerate,Instant,common
+1,Dawn's Truce,Instant,rare
 2,Dispatch,Instant,uncommon
 1,Krosan Grip,Instant,uncommon
 1,Valakut Awakening // Valakut Stoneforge,Instant // Land,rare
@@ -93,7 +96,7 @@
 1,Eladamri's Call,Instant,rare
 1,Demonic Consultation,Instant,uncommon
 1,Tyvar's Stand,Instant,uncommon
-8,Murder,Instant,common
+9,Murder,Instant,common
 1,Chain of Vapor,Instant,uncommon
 2,Tragic Slip,Instant,common
 1,Void Rend,Instant,rare
@@ -323,7 +326,7 @@
 1,Fateful Absence,Instant,rare
 1,Into the Story,Instant,uncommon
 5,Pyrokinesis,Instant,rare
-1,Scrollshift,Instant,common
+2,Scrollshift,Instant,common
 3,No More Lies,Instant,uncommon
 1,Sword Coast Serpent // Capsizing Wave,Creature — Serpent Dragon // Instant — Adventure,common
 1,Pawpatch Formation,Instant,uncommon
@@ -523,7 +526,7 @@
 1,Dismiss,Instant,uncommon
 1,Gnawing Crescendo,Instant,common
 16,Power Sink,Instant,uncommon
-4,Sure Strike,Instant,common
+5,Sure Strike,Instant,common
 9,Wail of the Nim,Instant,common
 1,Turn the Earth,Instant,uncommon
 1,Moment of Truth,Instant,common
@@ -545,7 +548,7 @@
 1,Rush of Vitality,Instant,common
 1,Dirgur Island Dragon // Skimming Strike,Creature — Dragon // Instant — Omen,common
 2,Dispelling Exhale,Instant,common
-1,Cut Short,Instant,common
+2,Cut Short,Instant,common
 3,Out of Air,Instant,common
 2,Band Together,Instant,common
 1,Corpse Dance,Instant,rare
@@ -603,6 +606,7 @@
 2,Volcanic Geyser,Instant,uncommon
 2,Duel for Dominance,Instant,common
 1,Make Disappear,Instant,common
+1,Change the Equation,Instant,uncommon
 1,Witchstalker Frenzy,Instant,uncommon
 1,Pyretic Rebirth,Instant,uncommon
 1,Rakshasa's Bargain,Instant,uncommon
@@ -675,6 +679,7 @@
 1,Ambitious Assault,Instant,common
 2,Brackish Blunder,Instant,common
 1,Ettercap // Web Shot,Creature — Spider Beast // Instant — Adventure,common
+1,Slaughter,Instant,uncommon
 2,Quick Draw,Instant,common
 2,Defend the Hearth,Instant,common
 1,Double Cleave,Instant,common
@@ -739,6 +744,7 @@
 2,Rend Flesh,Instant — Arcane,common
 1,Consuming Ashes,Instant,common
 1,Uncharted Voyage,Instant,common
+1,Case the Joint,Instant,common
 1,Ornamental Courage,Instant,common
 1,Predator's Howl,Instant,uncommon
 1,Hunger of the Howlpack,Instant,common

@@ -1,3 +1,4 @@
+1,Cyclonic Rift,Instant,mythic
 1,Smothering Tithe,Enchantment,mythic
 5,Demonic Tutor,Sorcery,mythic
 2,The One Ring,Legendary Artifact,mythic
@@ -8,7 +9,7 @@
 4,Mana Vault,Artifact,mythic
 2,Force of Will,Instant,mythic
 1,Gemstone Caverns,Legendary Land,mythic
-1,Cabal Coffers,Land,mythic
+2,Cabal Coffers,Land,mythic
 3,Mox Amber,Legendary Artifact,mythic
 1,Doubling Season,Enchantment,mythic
 2,Mox Diamond,Artifact,mythic
@@ -17,7 +18,7 @@
 1,Grand Abolisher,Creature — Human Cleric,mythic
 2,Sun Titan,Creature — Giant,mythic
 1,Avenger of Zendikar,Creature — Elemental,mythic
-3,Ragavan, Nimble Pilferer,Legendary Creature — Monkey Pirate,mythic
+4,Ragavan, Nimble Pilferer,Legendary Creature — Monkey Pirate,mythic
 3,Finale of Devastation,Sorcery,mythic
 1,Mana Crypt,Artifact,mythic
 3,Goldspan Dragon,Creature — Dragon,mythic
@@ -35,18 +36,20 @@
 2,Rise of the Dark Realms,Sorcery,mythic
 2,Jeweled Lotus,Artifact,mythic
 1,Sheoldred, Whispering One,Legendary Creature — Phyrexian Praetor,mythic
+1,Purphoros, God of the Forge,Legendary Enchantment Creature — God,mythic
 1,Grim Tutor,Sorcery,mythic
 1,Dockside Extortionist,Creature — Goblin Pirate,mythic
 3,Sea Gate Restoration // Sea Gate, Reborn,Sorcery // Land,mythic
 1,Bitterblossom,Kindred Enchantment — Faerie,mythic
 2,Elspeth, Sun's Champion,Legendary Planeswalker — Elspeth,mythic
-3,Ranger-Captain of Eos,Creature — Human Soldier Ranger,mythic
+4,Ranger-Captain of Eos,Creature — Human Soldier Ranger,mythic
 1,Lion's Eye Diamond,Artifact,mythic
 1,Liliana, Dreadhorde General,Legendary Planeswalker — Liliana,mythic
 1,Sword of Hearth and Home,Artifact — Equipment,mythic
 1,Avacyn, Angel of Hope,Legendary Creature — Angel,mythic
 1,Urza, Lord High Artificer,Legendary Creature — Human Artificer,mythic
 1,Kodama of the West Tree,Legendary Creature — Spirit,mythic
+1,Old Gnawbone,Legendary Creature — Dragon,mythic
 1,Fiery Emancipation,Enchantment,mythic
 1,Solphim, Mayhem Dominus,Legendary Creature — Phyrexian Horror,mythic
 1,Yawgmoth, Thran Physician,Legendary Creature — Human Cleric,mythic
@@ -57,8 +60,10 @@
 1,Alhammarret's Archive,Legendary Artifact,mythic
 2,Twilight Prophet,Creature — Vampire Cleric,mythic
 2,Combustible Gearhulk,Artifact Creature — Construct,mythic
+1,Nyxbloom Ancient,Enchantment Creature — Elemental,mythic
 1,The Gitrog Monster,Legendary Creature — Frog Horror,mythic
 2,Mechanized Production,Enchantment — Aura,mythic
+1,Zopandrel, Hunger Dominus,Legendary Creature — Phyrexian Horror,mythic
 2,Combat Celebrant,Creature — Human Warrior,mythic
 1,Kozilek, Butcher of Truth,Legendary Creature — Eldrazi,mythic
 1,Karlach, Fury of Avernus,Legendary Creature — Tiefling Barbarian,mythic
@@ -86,6 +91,7 @@
 2,Bonehoard Dracosaur,Creature — Dinosaur Dragon,mythic
 2,Embercleave,Legendary Artifact — Equipment,mythic
 1,Dragonmaster Outcast,Creature — Human Shaman,mythic
+1,Twinflame Tyrant,Creature — Dragon,mythic
 2,Agatha's Soul Cauldron,Legendary Artifact,mythic
 2,Adrix and Nev, Twincasters,Legendary Creature — Merfolk Wizard,mythic
 1,Finale of Revelation,Sorcery,mythic
@@ -187,6 +193,7 @@
 1,Rest in Peace,Enchantment,mythic
 1,Giant Adephage,Creature — Insect,mythic
 1,Linvala, Keeper of Silence,Legendary Creature — Angel,mythic
+1,Buster Sword,Artifact — Equipment,mythic
 1,Insurrection,Sorcery,mythic
 1,Prosper, Tome-Bound,Legendary Creature — Tiefling Warlock,mythic
 1,Archangel of Tithes,Creature — Angel,mythic
@@ -223,7 +230,9 @@
 1,Echo of Eons,Sorcery,mythic
 1,Generous Plunderer,Creature — Human Rogue,mythic
 1,Ichormoon Gauntlet,Artifact,mythic
+1,Summon: Bahamut,Enchantment Creature — Saga Dragon,mythic
 1,Witch-king of Angmar,Legendary Creature — Wraith Noble,mythic
+1,Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel,Legendary Creature — Human Avatar Soldier // Legendary Creature — Angel Nightmare Avatar,mythic
 1,Athreos, God of Passage,Legendary Enchantment Creature — God,mythic
 1,Vivi Ornitier,Legendary Creature — Wizard,mythic
 1,Nirkana Revenant,Creature — Vampire Shade,mythic
@@ -270,14 +279,17 @@
 1,Temporal Manipulation,Sorcery,mythic
 1,Minsc & Boo, Timeless Heroes,Legendary Planeswalker — Minsc,mythic
 1,Polyraptor,Creature — Dinosaur,mythic
+1,Evendo, Waking Haven,Land — Planet,mythic
 2,Mirror Room // Fractured Realm,Enchantment — Room // Enchantment — Room,mythic
 1,Gisa, the Hellraiser,Legendary Creature — Human Warlock,mythic
 1,Savage Beating,Instant,mythic
+1,Traveling Chocobo,Creature — Bird,mythic
 1,Meathook Massacre II,Legendary Enchantment,mythic
 1,Lolth, Spider Queen,Legendary Planeswalker — Lolth,mythic
 1,Elesh Norn // The Argent Etchings,Legendary Creature — Phyrexian Praetor // Enchantment — Saga,mythic
+1,Tezzeret, Cruel Captain,Legendary Planeswalker — Tezzeret,mythic
 1,Svyelun of Sea and Sky,Legendary Creature — Merfolk God,mythic
-1,Cloud, Midgar Mercenary,Legendary Creature — Human Soldier Mercenary,mythic
+2,Cloud, Midgar Mercenary,Legendary Creature — Human Soldier Mercenary,mythic
 2,Aragorn, King of Gondor,Legendary Creature — Human Noble,mythic
 1,Overlord of the Floodpits,Enchantment Creature — Avatar Horror,mythic
 1,Garruk, Cursed Huntsman,Legendary Planeswalker — Garruk,mythic
@@ -291,12 +303,12 @@
 1,Wildsear, Scouring Maw,Legendary Creature — Elemental Wolf,mythic
 1,Luxior, Giada's Gift,Legendary Artifact — Equipment,mythic
 1,World Breaker,Creature — Eldrazi,mythic
+1,Uthros, Titanic Godcore,Land — Planet,mythic
 1,Transmutation Font,Artifact,mythic
 2,Berserk,Instant,mythic
 1,Vivien Reid,Legendary Planeswalker — Vivien,mythic
 1,Fiendish Duo,Creature — Devil,mythic
 1,Zur, Eternal Schemer,Legendary Creature — Human Wizard,mythic
-1,Tyvar, the Pummeler,Legendary Creature — Elf Warrior,mythic
 1,Bello, Bard of the Brambles,Legendary Creature — Raccoon Bard,mythic
 1,Armageddon,Sorcery,mythic
 2,Serra Paragon,Creature — Angel,mythic
@@ -307,10 +319,12 @@
 2,Omnath, Locus of Creation,Legendary Creature — Elemental,mythic
 1,Marisi, Breaker of the Coil,Legendary Creature — Cat Warrior,mythic
 1,Sword of Once and Future,Artifact — Equipment,mythic
-1,Yoshimaru, Ever Faithful,Legendary Creature — Dog,mythic
+1,Teval, the Balanced Scale,Legendary Creature — Spirit Dragon,mythic
+2,Yoshimaru, Ever Faithful,Legendary Creature — Dog,mythic
 1,Teferi, Hero of Dominaria,Legendary Planeswalker — Teferi,mythic
 1,Calix, Destiny's Hand,Legendary Planeswalker — Calix,mythic
 1,Kumena, Tyrant of Orazca,Legendary Creature — Merfolk Shaman,mythic
+1,Exalted Sunborn,Creature — Angel Wizard,mythic
 1,Stella Lee, Wild Card,Legendary Creature — Human Rogue,mythic
 2,Sorin of House Markov // Sorin, Ravenous Neonate,Legendary Creature — Human Noble // Legendary Planeswalker — Sorin,mythic
 1,Ms. Bumbleflower,Legendary Creature — Rabbit Citizen,mythic
@@ -324,8 +338,10 @@
 1,Ulalek, Fused Atrocity,Legendary Creature — Eldrazi,mythic
 1,The Kami War // O-Kagachi Made Manifest,Enchantment — Saga // Enchantment Creature — Dragon Spirit,mythic
 1,Batterskull,Artifact — Equipment,mythic
+1,Knuckles the Echidna,Legendary Creature — Echidna Warrior,mythic
 2,Y'shtola Rhul,Legendary Creature — Cat Druid,mythic
 1,Tishana, Voice of Thunder,Legendary Creature — Merfolk Shaman,mythic
+1,Lightning, Army of One,Legendary Creature — Human Soldier,mythic
 1,Rhonas the Indomitable,Legendary Creature — God,mythic
 1,Phenax, God of Deception,Legendary Enchantment Creature — God,mythic
 1,Cayth, Famed Mechanist,Legendary Creature — Dwarf Artificer,mythic
@@ -352,10 +368,12 @@
 1,Whisperwood Elemental,Creature — Elemental,mythic
 1,Jace, the Perfected Mind,Legendary Planeswalker — Jace,mythic
 3,Overlord of the Mistmoors,Enchantment Creature — Avatar Horror,mythic
+2,The Soul Stone,Legendary Artifact — Infinity Stone,mythic
 1,Tinybones, Trinket Thief,Legendary Creature — Skeleton Rogue,mythic
 2,Riptide Gearhulk,Artifact Creature — Construct,mythic
 1,Platinum Emperion,Artifact Creature — Golem,mythic
 4,Ajani, Nacatl Pariah // Ajani, Nacatl Avenger,Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani,mythic
+3,Ouroboroid,Creature — Plant Wurm,mythic
 1,Necrodominance,Legendary Enchantment,mythic
 1,Arwen, Mortal Queen,Legendary Creature — Elf Noble,mythic
 2,Najeela, the Blade-Blossom,Legendary Creature — Human Warrior,mythic
@@ -374,6 +392,7 @@
 1,Betor, Kin to All,Legendary Creature — Spirit Dragon,mythic
 4,Screaming Nemesis,Creature — Spirit,mythic
 1,Yuna, Grand Summoner,Legendary Creature — Human Cleric,mythic
+1,Tom Bombadil,Legendary Creature — God Bard,mythic
 1,Kotori, Pilot Prodigy,Legendary Creature — Moonfolk Pilot,mythic
 1,Edward Kenway,Legendary Creature — Human Assassin Pirate,mythic
 1,Overlord of the Boilerbilges,Enchantment Creature — Avatar Horror,mythic
@@ -405,6 +424,7 @@
 1,Realm-Cloaked Giant // Cast Off,Creature — Giant // Sorcery — Adventure,mythic
 1,Jace, Vryn's Prodigy // Jace, Telepath Unbound,Legendary Creature — Human Wizard // Legendary Planeswalker — Jace,mythic
 1,Comet, Stellar Pup,Legendary Planeswalker — Comet,mythic
+1,Super State,Legendary Enchantment — Aura,mythic
 1,Magus Lucea Kane,Legendary Creature — Human Tyranid Wizard,mythic
 1,Dragonlord Silumgar,Legendary Creature — Elder Dragon,mythic
 1,The Wandering Rescuer,Legendary Creature — Human Samurai Noble,mythic
@@ -414,6 +434,7 @@
 1,Gogo, Master of Mimicry,Legendary Creature — Wizard,mythic
 6,Kaito, Bane of Nightmares,Legendary Planeswalker — Kaito,mythic
 1,Dack Fayden,Legendary Planeswalker — Dack,mythic
+1,Dawnsire, Sunstar Dreadnought,Legendary Artifact — Spacecraft,mythic
 1,Elenda and Azor,Legendary Creature — Vampire Knight Sphinx,mythic
 1,Starscream, Power Hungry // Starscream, Seeker Leader,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
 1,Satya, Aetherflux Genius,Legendary Creature — Human Artificer,mythic
@@ -432,7 +453,7 @@
 1,Memory Jar,Artifact,mythic
 1,Coram, the Undertaker,Legendary Creature — Human Warrior,mythic
 1,Admiral Brass, Unsinkable,Legendary Creature — Human Pirate,mythic
-1,Yuna, Hope of Spira,Legendary Creature — Human Cleric,mythic
+2,Yuna, Hope of Spira,Legendary Creature — Human Cleric,mythic
 1,Vivien on the Hunt,Legendary Planeswalker — Vivien,mythic
 1,Grindstone,Artifact,mythic
 1,Nexus of Becoming,Artifact,mythic
@@ -460,6 +481,7 @@
 1,Mirko, Obsessive Theorist,Legendary Creature — Vampire Detective,mythic
 1,Part the Waterveil,Sorcery,mythic
 1,Iron Man, Titan of Innovation,Legendary Artifact Creature — Human Hero,mythic
+1,Arahbo, Roar of the World,Legendary Creature — Cat Avatar,mythic
 1,Show and Tell,Sorcery,mythic
 1,Trapjaw Tyrant,Creature — Dinosaur,mythic
 1,Karrthus, Tyrant of Jund,Legendary Creature — Dragon,mythic
@@ -467,6 +489,7 @@
 1,Terra, Magical Adept // Esper Terra,Legendary Creature — Human Wizard Warrior // Legendary Enchantment Creature — Saga Wizard,mythic
 3,Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar,Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiyo,mythic
 1,Morska, Undersea Sleuth,Legendary Creature — Vedalken Fish Detective,mythic
+1,Tannuk, Steadfast Second,Legendary Creature — Kavu Pilot,mythic
 1,Nut Collector,Creature — Human Druid,mythic
 1,Storm, Force of Nature,Legendary Creature — Mutant Hero,mythic
 1,Worldfire,Sorcery,mythic
@@ -491,16 +514,19 @@
 1,Phabine, Boss's Confidant,Legendary Creature — Cat Advisor,mythic
 3,Absolute Virtue,Legendary Creature — Avatar Warrior,mythic
 1,Optimus Prime, Hero // Optimus Prime, Autobot Leader,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+1,Shadow the Hedgehog,Legendary Creature — Hedgehog Mercenary,mythic
 1,Inalla, Archmage Ritualist,Legendary Creature — Human Wizard,mythic
 1,Phyrexian Fleshgorger,Artifact Creature — Phyrexian Wurm,mythic
 1,Captain America, First Avenger,Legendary Creature — Human Soldier Hero,mythic
 1,Invasion of New Phyrexia // Teferi Akosa of Zhalfir,Battle — Siege // Legendary Planeswalker — Teferi,mythic
 1,Worst Fears,Sorcery,mythic
 1,Roalesk, Apex Hybrid,Legendary Creature — Human Mutant,mythic
+1,Emet-Selch, Unsundered // Hades, Sorcerer of Eld,Legendary Creature — Elder Wizard // Legendary Creature — Avatar,mythic
 3,Ketramose, the New Dawn,Legendary Creature — God,mythic
 1,Nethergoyf,Creature — Lhurgoyf,mythic
 1,Ancient Adamantoise,Creature — Turtle,mythic
 1,Mu Yanling, Wind Rider,Legendary Creature — Human Wizard Pilot,mythic
+1,Sothera, the Supervoid,Legendary Enchantment,mythic
 1,Intrepid Adversary,Creature — Human Scout,mythic
 1,Blade of the Oni,Artifact Creature — Equipment Demon,mythic
 3,Seasoned Pyromancer,Creature — Human Shaman,mythic
@@ -540,12 +566,15 @@
 1,Jetfire, Ingenious Scientist // Jetfire, Air Guardian,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
 1,Saruman of Many Colors,Legendary Creature — Avatar Wizard,mythic
 1,Humility,Enchantment,mythic
+1,Amy Rose,Legendary Creature — Hedgehog Warrior,mythic
 1,Muzzio, Visionary Architect,Legendary Creature — Human Artificer,mythic
 1,Collector's Cage,Artifact,mythic
+1,Dr. Eggman,Legendary Creature — Human Scientist,mythic
 1,Ashnod the Uncaring,Legendary Creature — Human Artificer,mythic
 1,Lotus Ring,Artifact — Equipment,mythic
 1,Auntie Blyte, Bad Influence,Legendary Creature — Devil Advisor,mythic
 1,Dream Halls,Enchantment,mythic
+1,Sonic the Hedgehog,Legendary Creature — Hedgehog Warrior,mythic
 1,Sarinth Greatwurm,Creature — Wurm,mythic
 1,Bloodthirsty Adversary,Creature — Vampire,mythic
 1,Flamewar, Brash Veteran // Flamewar, Streetwise Operative,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
@@ -571,7 +600,9 @@
 1,Soundwave, Sonic Spy // Soundwave, Superior Captain,Legendary Artifact Creature — Robot // Legendary Artifact,mythic
 1,Spider-Verse,Enchantment,mythic
 1,Legion Extruder,Artifact,mythic
+1,Miles "Tails" Prower,Legendary Creature — Fox Artificer,mythic
 1,Ghost-Spider, Gwen Stacy,Legendary Creature — Spider Human Hero,mythic
+1,Quantum Riddler,Creature — Sphinx,mythic
 1,Taeko, the Patient Avalanche,Legendary Creature — Turtle Ninja,mythic
 1,Subterranean Tremors,Sorcery,mythic
 4,Murktide Regent,Creature — Dragon,mythic

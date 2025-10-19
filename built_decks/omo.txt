@@ -1,9 +1,3 @@
-Blossoming Tortoise (PROXY)
-Burgeoning (PROXY)
-Kozilek, the Great Distortion (PROXY)
-Kura, the Boundless Sky (PROXY)
-Roaming Throne (PROXY)
-Turntimber Symbiosis // Turntimber, Serpentine Wood (PROXY)
 Omo, Queen of Vesuva
 Aggressive Biomancy
 Allosaurus Shepherd
@@ -45,10 +39,12 @@ Hour of Promise
 Hydra Broodmaster
 Hydroelectric Specimen // Hydroelectric Laboratory
 Hydroid Krasis
+Icetill Explorer
 Island
 Island
 Island
 Kozilek, Butcher of Truth
+Kozilek, the Great Distortion
 Lightning Greaves
 Llanowar Elves
 Lord of the Unreal
@@ -57,6 +53,7 @@ Mana Reflection
 Mass Appeal
 Master of the Pearl Trident
 Misty Rainforest
+Multiclass Baldric
 Mystic Remora
 Nylea's Intervention
 Omenpath Journey
@@ -69,6 +66,7 @@ Ramunap Excavator
 Realm Seekers
 Rejuvenating Springs
 Reshape the Earth
+Roaming Throne
 Scalding Tarn
 Scute Swarm
 Sea Gate Restoration // Sea Gate, Reborn
@@ -83,8 +81,10 @@ Sylvan Scrying
 Thespian's Stage
 Thrasios, Triton Hero
 Timber Protector
+Titania's Command
 Trenchpost
 Tropical Island
+Turntimber Symbiosis // Turntimber, Serpentine Wood
 Ulamog, the Ceaseless Hunger
 Ulvenwald Hydra
 Urza's Cave
