@@ -7,10 +7,11 @@
 1 Beast Whisperer (P30A) 26
 1 Boseiju, Who Endures (NEO) 501
 1 Bristly Bill, Spine Sower (OTJ) 157
+1 Bugenhagen, Wise Elder (FIC) 159
 1 Castle Garenbrig (ELD) 240
-1 Commander's Plate (CMR) 692
 1 Cultivate (J22) 644
 1 Delighted Halfling (LTR) 158
+1 Eladamri, Korvecdal (MH3) 369
 1 Emerald Medallion (CMM) 379
 23 Forest (J22) 110
 1 Garruk's Uprising (WOT) 53
@@ -20,16 +21,15 @@
 1 Heroic Intervention (LTC) 249
 1 Invasion of Ikoria / Zilortha, Apex of Ikoria (MOM) 190
 1 Jolrael, Mwonvuli Recluse (MKC) 173
-1 Kodama of the East Tree (BLC) 227
 1 Kogla, the Titan Ape (IKO) 162
 1 Kolvori, God of Kinship / The Ringhart Crest (KHM) 181
 1 Kona, Rescue Beastie (DSK) 358
 1 Last March of the Ents (LTR) 418
 1 Legolas Greenleaf (LTC) 40
+1 Lizard, Connors's Curse (SPM) 106
 1 Maze of Ith (DRK) 117
 1 Mosswort Bridge (LCC) 342
 1 Nature's Lore (DMR) 170
-1 Nissa, Ascended Animist (ONE) 339
 1 Nissa, Resurgent Animist (MAT) 22
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Ohran Frostfang (SLD) 237
@@ -46,26 +46,26 @@
 1 Rhonas's Monument (AKH) 236
 1 Rishkar's Expertise (NEC) 127
 1 Rogue's Passage (LTC) 326
+1 Saryth, the Viper's Fang (MKC) 185
 1 Sazh Katzroy (FIN) 199
 1 Selvala, Heart of the Wilds (JMP) 429
 1 Six (MH3) 370
 1 Sol Ring (MOC) 381
+1 Spider-Man, Miles Morales (SPE) 18
 1 Surrak, Elusive Hunter (TDM) 161
 1 Sword of Feast and Famine (2XM) 296
-1 Sylvan Library (CC1) 5
 1 The Party Tree (LTC) 348
 1 The Ring Goes South (LTR) 186
 1 The Shire (LTR) 345
-1 The Skullspore Nexus (LCI) 212
+1 Throne of Eldraine (WOC) 28
 1 Thrun, Breaker of Silence (ONE) 186
 1 Thrun, the Last Troll (MBS) 92
 1 Tifa Lockhart (FIN) 206
-1 Torgal, A Fine Hound (FIN) 208
+1 Torgal, A Fine Hound (FIN) 345
 1 Toski, Bearer of Secrets (KHM) 197
 1 Tribute to the World Tree (MOM) 211
 1 Turntimber Symbiosis / Turntimber, Serpentine Wood (ZNR) 364
 1 Unnatural Growth (PMID) 206p
-1 Virtue of Strength / Garenbrig Growth (WOE) 197
 1 Vorinclex / The Grand Evolution (MOM) 213
 1 Vorinclex, Monstrous Raider (KHM) 333
 1 War Room (WHO) 330

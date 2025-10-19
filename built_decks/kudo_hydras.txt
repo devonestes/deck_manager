@@ -36,7 +36,6 @@ Forest
 Forest
 Forest
 Forest
-Forest
 Gala Greeters
 Genesis Hydra
 Goldvein Hydra
@@ -61,6 +60,7 @@ Mikaeus, the Lunarch
 Nyxborn Hydra
 Overgrown Farmland
 Path to Exile
+Plains
 Plains
 Plains
 Plains

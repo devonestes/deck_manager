@@ -1,946 +1,1166 @@
-5,Sol Ring,Artifact,uncommon
-10,Arcane Signet,Artifact,uncommon
-3,Swiftfoot Boots,Artifact — Equipment,uncommon
-2,Lightning Greaves,Artifact — Equipment,uncommon
-9,Fellwar Stone,Artifact,uncommon
-5,Thought Vessel,Artifact,common
-6,Mind Stone,Artifact,uncommon
-8,Commander's Sphere,Artifact,common
+12,Sol Ring,Artifact,uncommon
+15,Arcane Signet,Artifact,common
+4,Swiftfoot Boots,Artifact — Equipment,uncommon
+8,Fellwar Stone,Artifact,uncommon
+6,Thought Vessel,Artifact,common
+10,Mind Stone,Artifact,uncommon
+9,Commander's Sphere,Artifact,common
 3,Solemn Simulacrum,Artifact Creature — Golem,rare
-5,Wayfarer's Bauble,Artifact,common
-1,Chromatic Lantern,Artifact,rare
-1,Esper Sentinel,Artifact Creature — Human Soldier,rare
+5,Esper Sentinel,Artifact Creature — Human Soldier,rare
+2,Chromatic Lantern,Artifact,rare
 2,The One Ring,Legendary Artifact,mythic
-3,Talisman of Dominance,Artifact,uncommon
+6,Wayfarer's Bauble,Artifact,common
+5,Talisman of Dominance,Artifact,uncommon
+3,Lotus Petal,Artifact,uncommon
+3,Talisman of Creativity,Artifact,uncommon
 4,Ashnod's Altar,Artifact,uncommon
 3,Dimir Signet,Artifact,common
-2,Lotus Petal,Artifact,uncommon
-3,Talisman of Creativity,Artifact,uncommon
+3,Talisman of Indulgence,Artifact,uncommon
+2,Chrome Mox,Artifact,mythic
 2,Rakdos Signet,Artifact,uncommon
-2,Herald's Horn,Artifact,uncommon
-2,Izzet Signet,Artifact,common
-1,Mana Vault,Artifact,mythic
-2,Talisman of Indulgence,Artifact,uncommon
-3,Orzhov Signet,Artifact,common
+4,Mana Vault,Artifact,mythic
 1,Talisman of Hierarchy,Artifact,uncommon
+2,Herald's Horn,Artifact,uncommon
+4,Izzet Signet,Artifact,common
+5,Talisman of Progress,Artifact,uncommon
+2,Talisman of Conviction,Artifact,uncommon
+3,Orzhov Signet,Artifact,common
 4,Azorius Signet,Artifact,uncommon
-2,Talisman of Progress,Artifact,uncommon
-2,Boros Signet,Artifact,uncommon
-1,Thran Dynamo,Artifact,uncommon
-3,Idol of Oblivion,Artifact,rare
-2,Everflowing Chalice,Artifact,uncommon
-2,Ornithopter of Paradise,Artifact Creature — Thopter,common
-2,Mox Opal,Legendary Artifact,mythic
+1,Boros Signet,Artifact,uncommon
+2,Idol of Oblivion,Artifact,rare
+3,Mox Amber,Legendary Artifact,mythic
+4,Everflowing Chalice,Artifact,uncommon
+1,Ornithopter of Paradise,Artifact Creature — Thopter,common
+2,Mox Diamond,Artifact,mythic
+3,Mox Opal,Legendary Artifact,mythic
 4,Mithril Coat,Legendary Artifact — Equipment,rare
-2,Mox Amber,Legendary Artifact,mythic
+2,Sword of the Animist,Legendary Artifact — Equipment,rare
+2,Bolas's Citadel,Legendary Artifact,rare
+3,Foundry Inspector,Artifact Creature — Construct,common
 3,Academy Manufactor,Artifact Creature — Assembly-Worker,rare
-2,Foundry Inspector,Artifact Creature — Construct,common
+2,Basilisk Collar,Artifact — Equipment,rare
+2,Phyrexian Metamorph,Artifact Creature — Phyrexian Shapeshifter,rare
+2,Darksteel Citadel,Artifact Land,uncommon
 3,Vanquisher's Banner,Artifact,rare
-5,Burnished Hart,Artifact Creature — Elk,uncommon
-2,Jeweled Lotus,Artifact,mythic
-1,Blackblade Reforged,Legendary Artifact — Equipment,rare
+1,Patchwork Banner,Artifact,uncommon
 1,Phyrexian Altar,Artifact,rare
-1,Basilisk Collar,Artifact — Equipment,rare
-1,Darksteel Citadel,Artifact Land,uncommon
-1,Phyrexian Metamorph,Artifact Creature — Phyrexian Shapeshifter,rare
-1,Shadowspear,Legendary Artifact — Equipment,rare
-1,Gilded Lotus,Artifact,rare
+1,The Ozolith,Legendary Artifact,rare
+1,Jet Medallion,Artifact,rare
+2,Shadowspear,Legendary Artifact — Equipment,rare
+5,Burnished Hart,Artifact Creature — Elk,uncommon
+1,Aetherflux Reservoir,Artifact,rare
+2,Baleful Strix,Artifact Creature — Bird,rare
 3,Bident of Thassa,Legendary Enchantment Artifact,rare
 2,Helm of the Host,Legendary Artifact — Equipment,rare
-1,Liquimetal Torque,Artifact,uncommon
-4,Simic Signet,Artifact,uncommon
-1,Jet Medallion,Artifact,rare
-1,Strionic Resonator,Artifact,rare
+2,Ruby Medallion,Artifact,rare
+1,Mana Crypt,Artifact,mythic
+1,Gilded Lotus,Artifact,rare
 1,Mystic Forge,Artifact,rare
-1,Hedron Archive,Artifact,uncommon
-3,Maskwood Nexus,Artifact,rare
-1,Psychosis Crawler,Artifact Creature — Phyrexian Horror,rare
-1,Ruby Medallion,Artifact,rare
-4,Talisman of Resilience,Artifact,uncommon
+2,Great Furnace,Artifact Land,common
 2,Cursed Mirror,Artifact,rare
-2,Midnight Clock,Artifact,rare
-1,Altar of Dementia,Artifact,rare
-3,Golgari Signet,Artifact,uncommon
-2,Gruul Signet,Artifact,common
+1,Liquimetal Torque,Artifact,uncommon
+1,Etherium Sculptor,Artifact Creature — Vedalken Artificer,common
+1,Psychosis Crawler,Artifact Creature — Phyrexian Horror,rare
+2,Maskwood Nexus,Artifact,rare
+2,Hedron Archive,Artifact,uncommon
+4,Simic Signet,Artifact,uncommon
+4,Talisman of Resilience,Artifact,uncommon
 1,Sapphire Medallion,Artifact,rare
+1,Wishclaw Talisman,Artifact,rare
+1,Strionic Resonator,Artifact,rare
+1,Walking Ballista,Artifact Creature — Construct,rare
+1,Basalt Monolith,Artifact,uncommon
+1,Ancient Den,Artifact Land,common
+1,Midnight Clock,Artifact,rare
 2,Commander's Plate,Artifact — Equipment,mythic
-2,Ozolith, the Shattered Spire,Legendary Artifact,rare
-2,Sword of Feast and Famine,Artifact — Equipment,mythic
-1,Sky Diamond,Artifact,common
-4,Talisman of Impulse,Artifact,uncommon
 1,Conjurer's Closet,Artifact,rare
-2,Pearl Medallion,Artifact,rare
-1,Howling Mine,Artifact,rare
-2,Meteor Golem,Artifact Creature — Golem,uncommon
-1,Sword of Hearth and Home,Artifact — Equipment,mythic
-1,Palladium Myr,Artifact Creature — Myr,uncommon
-1,Thousand-Year Elixir,Artifact,rare
-1,The Reaver Cleaver,Legendary Artifact — Equipment,rare
-1,Steel Hellkite,Artifact Creature — Dragon,rare
-1,Emerald Medallion,Artifact,rare
-1,Myr Retriever,Artifact Creature — Myr,common
-1,Scrap Trawler,Artifact Creature — Construct,rare
-2,Selesnya Signet,Artifact,common
-1,Whip of Erebos,Legendary Enchantment Artifact,rare
-2,Loxodon Warhammer,Artifact — Equipment,rare
+1,Sword of Feast and Famine,Artifact — Equipment,mythic
+1,Pearl Medallion,Artifact,rare
+1,Altar of Dementia,Artifact,rare
+4,Talisman of Impulse,Artifact,uncommon
+3,Golgari Signet,Artifact,uncommon
+1,Relic of Legends,Artifact,uncommon
+2,Vault of Whispers,Artifact Land,common
+2,Gruul Signet,Artifact,common
+2,The Reaver Cleaver,Legendary Artifact — Equipment,rare
+2,Jeweled Lotus,Artifact,mythic
+1,Ozolith, the Shattered Spire,Legendary Artifact,rare
+1,Springleaf Drum,Artifact,uncommon
+1,Sky Diamond,Artifact,common
+1,Grim Monolith,Artifact,rare
+1,Isochron Scepter,Artifact,rare
+3,Meteor Golem,Artifact Creature — Golem,uncommon
 1,Cloud Key,Artifact,rare
+1,Lion's Eye Diamond,Artifact,mythic
+1,Howling Mine,Artifact,rare
+1,Palladium Myr,Artifact Creature — Myr,uncommon
+1,Whip of Erebos,Legendary Enchantment Artifact,rare
+1,Sword of Hearth and Home,Artifact — Equipment,mythic
+1,Thought Monitor,Artifact Creature — Construct,rare
+1,Scrap Trawler,Artifact Creature — Construct,rare
+1,Myr Retriever,Artifact Creature — Myr,common
+1,Hammer of Nazahn,Legendary Artifact — Equipment,rare
+3,Haywire Mite,Artifact Creature — Insect,uncommon
 2,Heraldic Banner,Artifact,uncommon
 1,Forsaken Monument,Legendary Artifact,mythic
-1,Inspiring Statuary,Artifact,rare
-2,Haywire Mite,Artifact Creature — Insect,uncommon
-1,Alhammarret's Archive,Legendary Artifact,mythic
-1,Marble Diamond,Artifact,common
-1,Oketra's Monument,Legendary Artifact,uncommon
-1,Wurmcoil Engine,Artifact Creature — Phyrexian Wurm,mythic
-2,Nettlecyst,Artifact — Equipment,rare
-3,Lifecrafter's Bestiary,Artifact,rare
-1,Hammer of Nazahn,Legendary Artifact — Equipment,rare
+2,Inspiring Statuary,Artifact,rare
+2,Loxodon Warhammer,Artifact — Equipment,rare
+1,Thousand-Year Elixir,Artifact,rare
+1,Steel Overseer,Artifact Creature — Construct,rare
 1,Noxious Gearhulk,Artifact Creature — Construct,mythic
-2,Fireshrieker,Artifact — Equipment,uncommon
-6,Talisman of Unity,Artifact,uncommon
-1,Door of Destinies,Artifact,rare
-1,Staff of Domination,Artifact,rare
+1,The Reality Chip,Legendary Artifact Creature — Equipment Jellyfish,rare
+2,Selesnya Signet,Artifact,common
 1,Spellskite,Artifact Creature — Phyrexian Horror,rare
-1,Mindcrank,Artifact,uncommon
+2,Archaeomancer's Map,Artifact,rare
+1,Nettlecyst,Artifact — Equipment,rare
+6,Talisman of Unity,Artifact,uncommon
 1,Blade of Selves,Artifact — Equipment,rare
-1,Archaeomancer's Map,Artifact,rare
+1,Alhammarret's Archive,Legendary Artifact,mythic
+1,Fireshrieker,Artifact — Equipment,uncommon
+1,Oketra's Monument,Legendary Artifact,uncommon
+2,Champion's Helm,Artifact — Equipment,rare
+1,Razortide Bridge,Artifact Land,common
+1,Marble Diamond,Artifact,common
+4,Mask of Memory,Artifact — Equipment,uncommon
+2,Combustible Gearhulk,Artifact Creature — Construct,mythic
+3,Angel of the Ruins,Artifact Creature — Angel,rare
+1,Colossus Hammer,Artifact — Equipment,uncommon
+1,Staff of Domination,Artifact,rare
+1,Scrawling Crawler,Artifact Creature — Phyrexian Construct,rare
+1,Door of Destinies,Artifact,rare
+1,Manifold Key,Artifact,uncommon
+1,Dragon's Hoard,Artifact,rare
+3,Lifecrafter's Bestiary,Artifact,rare
+2,Darksteel Plate,Artifact — Equipment,rare
+1,Silverbluff Bridge,Artifact Land,common
+1,Kappa Cannoneer,Artifact Creature — Turtle Warrior,rare
+1,Tarrian's Soulcleaver,Legendary Artifact — Equipment,rare
 3,Mirage Mirror,Artifact,rare
-3,Mask of Memory,Artifact — Equipment,uncommon
-1,Mesmeric Orb,Artifact,rare
-1,Metallic Mimic,Artifact Creature — Shapeshifter,rare
+1,Zuran Orb,Artifact,uncommon
+1,Excalibur, Sword of Eden,Legendary Artifact — Equipment,rare
+1,Chromatic Orrery,Legendary Artifact,mythic
+1,Mishra's Bauble,Artifact,uncommon
 1,Shimmer Myr,Artifact Creature — Myr,uncommon
-2,Angel of the Ruins,Artifact Creature — Angel,uncommon
-1,Combustible Gearhulk,Artifact Creature — Construct,mythic
-1,Darksteel Plate,Artifact — Equipment,rare
+1,Rustvale Bridge,Artifact Land,common
+1,Rings of Brighthearth,Artifact,rare
 1,Pristine Talisman,Artifact,common
 1,Silver Myr,Artifact Creature — Myr,common
-1,Tarrian's Soulcleaver,Legendary Artifact — Equipment,rare
-2,Lithoform Engine,Legendary Artifact,mythic
-1,Embercleave,Legendary Artifact — Equipment,mythic
-1,Akroma's Memorial,Legendary Artifact,mythic
-1,Nyx Lotus,Legendary Artifact,rare
-1,Thran Power Suit,Artifact — Equipment,uncommon
+2,Embercleave,Legendary Artifact — Equipment,mythic
+1,Soul-Guide Lantern,Artifact,uncommon
+3,Coveted Jewel,Artifact,rare
+2,Agatha's Soul Cauldron,Legendary Artifact,mythic
 1,Gold Myr,Artifact Creature — Myr,common
+1,Millikin,Artifact Creature — Construct,uncommon
+1,Key to the City,Artifact,rare
+1,Scroll Rack,Artifact,mythic
 1,Staff of Compleation,Artifact,mythic
 1,Eldrazi Monument,Artifact,mythic
+1,Thran Power Suit,Artifact — Equipment,uncommon
+1,Brass's Tunnel-Grinder // Tecutlan, the Searing Rift,Legendary Artifact // Legendary Land — Cave,rare
+2,Lavaspur Boots,Artifact — Equipment,uncommon
+1,Lion Sash,Artifact Creature — Equipment Cat,rare
 2,Illusionist's Bracers,Artifact — Equipment,rare
-1,Vedalken Orrery,Artifact,rare
-1,Altar of the Brood,Artifact,rare
-2,Gingerbrute,Artifact Creature — Food Golem,common
-1,Champion's Helm,Artifact — Equipment,rare
-1,Agatha's Soul Cauldron,Legendary Artifact,mythic
 1,Sword of Vengeance,Artifact — Equipment,rare
-1,Nevinyrral's Disk,Artifact,rare
-2,Bloodline Pretender,Artifact Creature — Shapeshifter,uncommon
-1,Stonecoil Serpent,Artifact Creature — Snake,rare
-1,Coveted Jewel,Artifact,rare
-2,Dreamstone Hedron,Artifact,uncommon
-1,Halo Fountain,Artifact,mythic
-1,Trading Post,Artifact,rare
-1,Sword of Forge and Frontier,Artifact — Equipment,mythic
+2,Lithoform Engine,Legendary Artifact,mythic
+2,Gingerbrute,Artifact Creature — Food Golem,common
 1,Sword of Fire and Ice,Artifact — Equipment,mythic
-1,Excalibur, Sword of Eden,Legendary Artifact — Equipment,rare
-1,Grafdigger's Cage,Artifact,rare
-1,Bootleggers' Stash,Artifact,mythic
-1,Krark-Clan Ironworks,Artifact,uncommon
-1,Lavaspur Boots,Artifact — Equipment,uncommon
-1,Collector's Vault,Artifact,uncommon
-1,Goldmire Bridge,Artifact Land,common
-2,Brass's Tunnel-Grinder // Tecutlan, the Searing Rift,Legendary Artifact // Legendary Land — Cave,rare
-1,Tree of Tales,Artifact Land,common
-1,Platinum Angel,Artifact Creature — Angel,mythic
-1,Rhonas's Monument,Legendary Artifact,uncommon
-1,Teferi's Puzzle Box,Artifact,rare
-1,Universal Automaton,Artifact Creature — Shapeshifter,common
-1,Diamond Pick-Axe,Artifact — Equipment,uncommon
-1,Icon of Ancestry,Artifact,rare
-1,Sonic Screwdriver,Artifact,uncommon
-2,Brudiclad, Telchor Engineer,Legendary Artifact Creature — Phyrexian Artificer,rare
-2,Vat of Rebirth,Artifact,uncommon
-1,Winged Boots,Artifact — Equipment,rare
-1,Enthusiastic Mechanaut,Artifact Creature — Goblin Artificer,uncommon
-2,Molten Gatekeeper,Artifact Creature — Golem,common
-1,Carnelian Orb of Dragonkind,Artifact,common
-1,Metalwork Colossus,Artifact Creature — Construct,rare
-1,Bitterthorn, Nissa's Animus,Legendary Artifact — Equipment,rare
-1,Cloudstone Curio,Artifact,mythic
-2,Tormod's Crypt,Artifact,uncommon
-1,Myr Convert,Artifact Creature — Phyrexian Myr,uncommon
+1,Nyx Lotus,Legendary Artifact,rare
+4,Amulet of Vigor,Artifact,rare
 1,Nuka-Cola Vending Machine,Artifact,uncommon
-1,Sceptre of Eternal Glory,Legendary Artifact,rare
-5,Helm of Awakening,Artifact,rare
-1,Umbral Mantle,Artifact — Equipment,uncommon
-2,Spine of Ish Sah,Artifact,rare
-1,Stuffy Doll,Artifact Creature — Construct,rare
-3,Circuit Mender,Artifact Creature — Insect,uncommon
-1,Font of Mythos,Artifact,rare
-1,The Immortal Sun,Legendary Artifact,mythic
-1,Master of Etherium,Artifact Creature — Vedalken Wizard,rare
-1,Bloodthirsty Blade,Artifact — Equipment,uncommon
-2,Hedge Shredder,Artifact — Vehicle,rare
-1,The Chain Veil,Legendary Artifact,mythic
-1,Auton Soldier,Artifact Creature — Alien Soldier,rare
+2,Molten Gatekeeper,Artifact Creature — Golem,common
+1,Enthusiastic Mechanaut,Artifact Creature — Goblin Artificer,uncommon
+1,Kaldra Compleat,Legendary Artifact — Equipment,mythic
+1,Diamond Pick-Axe,Artifact — Equipment,uncommon
+1,Collector's Vault,Artifact,uncommon
+1,Dolmen Gate,Artifact,rare
 3,Marvin, Murderous Mimic,Legendary Artifact Creature — Toy,rare
-1,Blade of the Bloodchief,Artifact — Equipment,rare
-5,Goldvein Pick,Artifact — Equipment,common
-1,Ichormoon Gauntlet,Artifact,mythic
-1,Geode Golem,Artifact Creature — Golem,uncommon
-1,Wedding Ring,Artifact,mythic
-1,Halvar, God of Battle // Sword of the Realms,Legendary Creature — God // Legendary Artifact — Equipment,mythic
-1,Sword of Light and Shadow,Artifact — Equipment,mythic
-1,Beamtown Beatstick,Artifact — Equipment,common
-1,Mycosynth Wellspring,Artifact,common
-1,God-Pharaoh's Statue,Legendary Artifact,uncommon
+1,Vedalken Orrery,Artifact,rare
+1,Krark-Clan Ironworks,Artifact,uncommon
+1,Mistvault Bridge,Artifact Land,common
+1,Bloodline Pretender,Artifact Creature — Shapeshifter,uncommon
+1,Sonic Screwdriver,Artifact,uncommon
+2,Dreamstone Hedron,Artifact,uncommon
+2,Hedge Shredder,Artifact — Vehicle,rare
+1,Nevinyrral's Disk,Artifact,rare
+3,Tree of Tales,Artifact Land,common
+1,Sword of Forge and Frontier,Artifact — Equipment,mythic
+1,Bronze Guardian,Artifact Creature — Golem,rare
+1,Horn of Gondor,Legendary Artifact,rare
+1,Codsworth, Handy Helper,Legendary Artifact Creature — Robot,rare
+2,Conqueror's Flail,Artifact — Equipment,rare
+3,Smuggler's Copter,Artifact — Vehicle,rare
+1,Bootleggers' Stash,Artifact,mythic
+1,Grafdigger's Cage,Artifact,rare
+1,Halo Fountain,Artifact,mythic
 1,Threefold Thunderhulk,Artifact Creature — Gnome,rare
-1,Thornbite Staff,Kindred Artifact — Shaman Equipment,uncommon
-1,Darkmoss Bridge,Artifact Land,common
+1,Extraplanar Lens,Artifact,mythic
+1,Metalwork Colossus,Artifact Creature — Construct,rare
+1,Trading Post,Artifact,rare
+1,Platinum Angel,Artifact Creature — Angel,mythic
+1,Goldmire Bridge,Artifact Land,common
+1,Illustrious Wanderglyph,Artifact Creature — Golem,rare
+1,Vexing Bauble,Artifact,uncommon
+2,Tormod's Crypt,Artifact,uncommon
+1,Teferi's Puzzle Box,Artifact,rare
+1,Hero's Blade,Artifact — Equipment,uncommon
+1,Twinning Staff,Artifact,rare
+1,Imposter Mech,Artifact — Vehicle,rare
+2,Brudiclad, Telchor Engineer,Legendary Artifact Creature — Phyrexian Artificer,rare
+1,Icon of Ancestry,Artifact,rare
+1,Coldsteel Heart,Snow Artifact,uncommon
+1,Primal Amulet // Primal Wellspring,Artifact // Land,rare
+2,Shorikai, Genesis Engine,Legendary Artifact — Vehicle,mythic
+1,Auton Soldier,Artifact Creature — Alien Soldier,rare
+1,Drossforge Bridge,Artifact Land,common
+1,Carnelian Orb of Dragonkind,Artifact,common
+5,Helm of Awakening,Artifact,rare
+1,Sceptre of Eternal Glory,Legendary Artifact,rare
+1,Bitterthorn, Nissa's Animus,Legendary Artifact — Equipment,rare
+1,Explorer's Scope,Artifact — Equipment,common
+3,Circuit Mender,Artifact Creature — Insect,uncommon
+1,The Indomitable,Legendary Artifact — Vehicle,rare
+2,Vat of Rebirth,Artifact,uncommon
+1,Master of Etherium,Artifact Creature — Vedalken Wizard,rare
+1,Cloudstone Curio,Artifact,mythic
+1,Power Depot,Artifact Land,uncommon
+2,Spine of Ish Sah,Artifact,rare
+1,Wedding Ring,Artifact,mythic
+1,Stuffy Doll,Artifact Creature — Construct,rare
+1,Myr Convert,Artifact Creature — Phyrexian Myr,uncommon
+5,Goldvein Pick,Artifact — Equipment,common
+1,Herd Heirloom,Artifact,rare
+1,Bloodthirsty Blade,Artifact — Equipment,uncommon
+1,Umbral Mantle,Artifact — Equipment,uncommon
+1,Blade of the Bloodchief,Artifact — Equipment,rare
+1,Sword of Light and Shadow,Artifact — Equipment,mythic
+3,Twitching Doll,Artifact Creature — Spider Toy,rare
+1,Font of Mythos,Artifact,rare
+1,Mycosynth Wellspring,Artifact,common
+1,Sword of Wealth and Power,Artifact — Equipment,mythic
+1,The Fire Crystal,Legendary Artifact,rare
+1,Halvar, God of Battle // Sword of the Realms,Legendary Creature — God // Legendary Artifact — Equipment,mythic
+1,Horn of Greed,Artifact,rare
+1,The Earth Crystal,Legendary Artifact,rare
+1,The Immortal Sun,Legendary Artifact,mythic
 1,Memnite,Artifact Creature — Construct,uncommon
+2,Tome of Legends,Artifact,rare
+1,Throne of the God-Pharaoh,Legendary Artifact,rare
+1,Simulacrum Synthesizer,Artifact,mythic
+1,Weatherlight,Legendary Artifact — Vehicle,mythic
+1,God-Pharaoh's Statue,Legendary Artifact,uncommon
+1,Beamtown Beatstick,Artifact — Equipment,common
 1,Master Transmuter,Artifact Creature — Human Artificer,rare
 1,Urabrask's Forge,Artifact,rare
-1,Conqueror's Flail,Artifact — Equipment,rare
-1,Cultivator's Caravan,Artifact — Vehicle,rare
-1,Horn of Greed,Artifact,rare
-1,Ghirapur Orrery,Artifact,rare
-1,Time Sieve,Artifact,rare
-1,Vexing Bauble,Artifact,uncommon
-1,Mirrorworks,Artifact,rare
-1,Parhelion II,Legendary Artifact — Vehicle,rare
-1,Silver Shroud Costume,Artifact — Equipment,uncommon
-1,Winter Orb,Artifact,rare
-1,Komainu Battle Armor,Artifact Creature — Equipment Dog,rare
-1,Prized Statue,Artifact,common
-1,Robe of Stars,Artifact — Equipment,rare
-1,Syr Ginger, the Meal Ender,Legendary Artifact Creature — Food Knight,rare
-5,Aether Spellbomb,Artifact,common
-1,Ancient Stone Idol,Artifact Creature — Golem,rare
-1,Tanglepool Bridge,Artifact Land,common
-1,Tome of Legends,Artifact,rare
-1,Sundial of the Infinite,Artifact,rare
+1,Darkmoss Bridge,Artifact Land,common
 4,Grinding Station,Artifact,uncommon
-6,Phyrexian Walker,Artifact Creature — Phyrexian Construct,common
-1,Misleading Signpost,Artifact,rare
+1,Gold-Forged Thopteryx,Artifact Creature — Dinosaur Thopter,uncommon
+1,Prized Statue,Artifact,common
+2,The Wind Crystal,Legendary Artifact,rare
+1,Ghirapur Orrery,Artifact,rare
+1,Cultivator's Caravan,Artifact — Vehicle,rare
+1,Mindsplice Apparatus,Artifact,rare
+1,Time Sieve,Artifact,rare
+1,The Chain Veil,Legendary Artifact,mythic
 1,The Key to the Vault,Legendary Artifact — Equipment,rare
-1,Leyline Axe,Artifact — Equipment,rare
+1,Ancient Stone Idol,Artifact Creature — Golem,rare
+1,Geode Golem,Artifact Creature — Golem,uncommon
+1,Thornbite Staff,Kindred Artifact — Shaman Equipment,uncommon
+1,Ethersworn Canonist,Artifact Creature — Human Cleric,rare
+1,Alibou, Ancient Witness,Legendary Artifact Creature — Golem,mythic
+1,Syr Ginger, the Meal Ender,Legendary Artifact Creature — Food Knight,rare
+1,Ichormoon Gauntlet,Artifact,mythic
+4,Aether Spellbomb,Artifact,common
+1,Scene of the Crime,Artifact Land — Clue,uncommon
+1,Machine God's Effigy,Artifact,rare
+1,Pip-Boy 3000,Artifact — Equipment,rare
+1,Stridehangar Automaton,Artifact Creature — Construct,rare
+5,Arabella, Abandoned Doll,Legendary Artifact Creature — Toy,uncommon
+4,The Darkness Crystal,Legendary Artifact,rare
+1,Misleading Signpost,Artifact,rare
+1,Parhelion II,Legendary Artifact — Vehicle,rare
+1,Mirrorworks,Artifact,rare
+6,Phyrexian Walker,Artifact Creature — Phyrexian Construct,common
+1,Komainu Battle Armor,Artifact Creature — Equipment Dog,rare
+1,Robe of Stars,Artifact — Equipment,rare
+1,Tanglepool Bridge,Artifact Land,common
+2,Genji Glove,Artifact — Equipment,rare
+1,The Aetherspark,Legendary Artifact Planeswalker — Equipment,mythic
+1,Sundial of the Infinite,Artifact,rare
 2,Meekstone,Artifact,rare
+1,Winter Orb,Artifact,rare
+1,Coalition Relic,Artifact,rare
+1,Umezawa's Jitte,Legendary Artifact — Equipment,rare
+1,Winter Moon,Artifact,rare
+1,Chromatic Star,Artifact,common
+1,Power Conduit,Artifact,uncommon
+1,Aetherworks Marvel,Legendary Artifact,mythic
+1,Urza's Bauble,Artifact,uncommon
 3,Heirloom Blade,Artifact — Equipment,uncommon
 1,Slagwoods Bridge,Artifact Land,common
-1,Maul of the Skyclaves,Artifact — Equipment,rare
-1,Chromatic Star,Artifact,common
-3,Twitching Doll,Artifact Creature — Spider Toy,rare
-3,Moss Diamond,Artifact,common
-1,Umezawa's Jitte,Legendary Artifact — Equipment,rare
-1,Reckoner Bankbuster,Artifact — Vehicle,rare
-2,Simulacrum Synthesizer,Artifact,mythic
-1,Unstable Obelisk,Artifact,common
-1,Scavenged Brawler,Artifact Creature — Construct,rare
-1,Aetherworks Marvel,Legendary Artifact,mythic
-1,Luxior, Giada's Gift,Legendary Artifact — Equipment,mythic
-3,Welding Jar,Artifact,uncommon
-1,Doors of Durin,Legendary Artifact,rare
-2,Library of Leng,Artifact,common
-5,Arabella, Abandoned Doll,Legendary Artifact Creature — Toy,uncommon
-1,Chitterspitter,Artifact,rare
-1,Doubling Cube,Artifact,rare
-1,Jade Orb of Dragonkind,Artifact,common
-1,Infiltration Lens,Artifact — Equipment,uncommon
-1,Pip-Boy 3000,Artifact — Equipment,rare
-1,Copper Myr,Artifact Creature — Myr,common
 1,Slicer, Hired Muscle // Slicer, High-Speed Antagonist,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
-1,Power Conduit,Artifact,uncommon
+3,Welding Jar,Artifact,uncommon
+1,Solar Transformer,Artifact,uncommon
+1,Torrential Gearhulk,Artifact Creature — Construct,rare
+1,Chitterspitter,Artifact,rare
+1,Scavenged Brawler,Artifact Creature — Construct,rare
+1,Maul of the Skyclaves,Artifact — Equipment,rare
+1,Infiltration Lens,Artifact — Equipment,uncommon
+1,Unstable Obelisk,Artifact,common
+1,Scroll of Fate,Artifact,rare
+3,Moss Diamond,Artifact,common
+1,Horn of the Mark,Legendary Artifact,rare
+2,The Water Crystal,Legendary Artifact,rare
+1,Copper Myr,Artifact Creature — Myr,common
+1,Behemoth Sledge,Artifact — Equipment,uncommon
+1,Doubling Cube,Artifact,rare
+2,Library of Leng,Artifact,common
+1,Mycosynth Golem,Artifact Creature — Golem,rare
+1,Decoction Module,Artifact,uncommon
+1,Adaptive Omnitool,Artifact — Equipment,rare
+1,Seer's Sundial,Artifact,rare
+2,Resurrection Orb,Artifact — Equipment,rare
 1,Mage Slayer,Artifact — Equipment,uncommon
 2,Sword of Body and Mind,Artifact — Equipment,mythic
-1,Urza's Bauble,Artifact,uncommon
-1,Seer's Sundial,Artifact,rare
-1,Sword of Once and Future,Artifact — Equipment,mythic
-1,Scroll of Fate,Artifact,rare
-4,Viridian Longbow,Artifact — Equipment,common
-1,Peacewalker Colossus,Artifact — Vehicle,rare
-1,Mycosynth Golem,Artifact Creature — Golem,rare
-1,Liquimetal Coating,Artifact,uncommon
-1,Pilgrim's Eye,Artifact Creature — Thopter,common
+1,Doors of Durin,Legendary Artifact,rare
+1,Jade Orb of Dragonkind,Artifact,common
+1,Luxior, Giada's Gift,Legendary Artifact — Equipment,mythic
 1,Rogue's Gloves,Artifact — Equipment,uncommon
-1,Wand of Orcus,Legendary Artifact — Equipment,rare
+1,Currency Converter,Artifact,rare
+1,Transmutation Font,Artifact,mythic
+1,Cauldron of Souls,Artifact,rare
+1,Peacewalker Colossus,Artifact — Vehicle,rare
 1,Mechtitan Core,Artifact — Vehicle,rare
-2,Trinisphere,Artifact,mythic
-1,Fist of Suns,Artifact,rare
-1,Rabbit Battery,Artifact Creature — Equipment Rabbit,uncommon
-1,Glass-Cast Heart,Artifact,rare
-1,Solar Transformer,Artifact,uncommon
-1,Surgehacker Mech,Artifact — Vehicle,rare
-1,Decoction Module,Artifact,uncommon
-1,Elementalist's Palette,Artifact,rare
-1,Aerial Surveyor,Artifact — Vehicle,rare
-3,Shield Sphere,Artifact Creature — Wall,common
-2,Spawning Pit,Artifact,uncommon
-2,Firemind Vessel,Artifact,common
-4,Prophetic Prism,Artifact,common
-1,Terisian Mindbreaker,Artifact Creature — Juggernaut,rare
-1,Thornglint Bridge,Artifact Land,common
+1,Liquimetal Coating,Artifact,uncommon
 1,Sandstone Oracle,Artifact Creature — Sphinx,uncommon
-1,Wondrous Crucible,Artifact,rare
-1,Nihil Spellbomb,Artifact,common
-3,Crystal Shard,Artifact,uncommon
-1,Traxos, Scourge of Kroog,Legendary Artifact Creature — Construct,rare
-3,Oni-Cult Anvil,Artifact,uncommon
-1,Kefnet's Monument,Legendary Artifact,uncommon
-1,Bone Sabres,Artifact — Equipment,rare
+3,Shield Sphere,Artifact Creature — Wall,common
+1,Voyager Quickwelder,Artifact Creature — Robot Artificer,common
+1,Research Thief,Artifact Creature — Moonfolk Wizard,rare
+1,Pilgrim's Eye,Artifact Creature — Thopter,common
 1,Tithing Blade // Consuming Sepulcher,Artifact // Artifact,common
-1,Mobilizer Mech,Artifact — Vehicle,uncommon
-1,Cataclysmic Gearhulk,Artifact Creature — Construct,mythic
-1,Tanuki Transplanter,Artifact Creature — Equipment Dog,rare
-2,Oblivion Stone,Artifact,rare
+1,Sword of Once and Future,Artifact — Equipment,mythic
+1,Glass-Cast Heart,Artifact,rare
+1,Surgehacker Mech,Artifact — Vehicle,rare
+1,Securitron Squadron,Artifact Creature — Robot,rare
+4,Strixhaven Stadium,Artifact,rare
+1,Wand of Orcus,Legendary Artifact — Equipment,rare
+1,Fist of Suns,Artifact,rare
+4,Viridian Longbow,Artifact — Equipment,common
+2,Firemind Vessel,Artifact,common
+2,Spawning Pit,Artifact,uncommon
+1,Ruin Grinder,Artifact Creature — Construct,rare
 1,Arcbound Ravager,Artifact Creature — Beast,rare
-1,Tenza, Godo's Maul,Legendary Artifact — Equipment,uncommon
-1,Torrential Gearhulk,Artifact Creature — Construct,rare
-1,Fractured Powerstone,Artifact,common
-1,Hylda's Crown of Winter,Legendary Artifact,rare
-1,Scaretiller,Artifact Creature — Scarecrow,common
-2,Goldhound,Artifact Creature — Treasure Dog,common
+1,Phyrexian Revoker,Artifact Creature — Phyrexian Horror,rare
+2,Traxos, Scourge of Kroog,Legendary Artifact Creature — Construct,rare
+1,Wondrous Crucible,Artifact,rare
+1,Aerial Surveyor,Artifact — Vehicle,rare
+2,Trinisphere,Artifact,mythic
+1,Rolling Hamsphere,Artifact — Vehicle,rare
+1,Hero's Heirloom,Artifact — Equipment,uncommon
+1,Unstable Amulet,Artifact,uncommon
+2,Celestial Armor,Artifact — Equipment,rare
+1,Rabbit Battery,Artifact Creature — Equipment Rabbit,uncommon
+4,Prophetic Prism,Artifact,common
+11,Black Mage's Rod,Artifact — Equipment,common
+1,The Eternity Elevator,Legendary Artifact — Spacecraft,rare
+1,Thornglint Bridge,Artifact Land,common
+1,Batterskull,Artifact — Equipment,mythic
+1,Nihil Spellbomb,Artifact,common
 1,The Underworld Cookbook,Artifact,uncommon
-1,Crown of Gondor,Legendary Artifact — Equipment,rare
-1,Static Orb,Artifact,rare
-2,Lapis Orb of Dragonkind,Artifact,common
 2,Inquisitor's Flail,Artifact — Equipment,uncommon
-1,Bladehold War-Whip,Artifact — Equipment,uncommon
+1,Elementalist's Palette,Artifact,rare
+1,Relic of Progenitus,Artifact,uncommon
+1,Glimmer Lens,Artifact — Equipment,rare
+1,Mobilizer Mech,Artifact — Vehicle,uncommon
+1,Mendicant Core, Guidelight,Legendary Artifact Creature — Robot,rare
+2,Izzet Generatorium,Artifact,uncommon
+1,Cataclysmic Gearhulk,Artifact Creature — Construct,mythic
+2,Oblivion Stone,Artifact,rare
+1,Scaretiller,Artifact Creature — Scarecrow,common
+1,Short Bow,Artifact — Equipment,uncommon
+1,Hylda's Crown of Winter,Legendary Artifact,rare
+1,Lost Jitte,Legendary Artifact — Equipment,mythic
+1,Tenza, Godo's Maul,Legendary Artifact — Equipment,uncommon
+3,Goldhound,Artifact Creature — Treasure Dog,common
+1,Bone Sabres,Artifact — Equipment,rare
+1,Fractured Powerstone,Artifact,common
+1,Kefnet's Monument,Legendary Artifact,uncommon
+1,Tangletrove Kelp,Artifact Creature — Clue Plant,rare
+1,Sword of the Squeak,Artifact — Equipment,rare
+2,Dragonstorm Globe,Artifact,common
+1,Progenitor's Icon,Artifact,rare
+1,Pentad Prism,Artifact,uncommon
+2,Ghost Vacuum,Artifact,rare
+3,Chainsaw,Artifact — Equipment,rare
+3,Oni-Cult Anvil,Artifact,uncommon
+1,Hex Parasite,Artifact Creature — Phyrexian Insect,rare
+1,Crown of Gondor,Legendary Artifact — Equipment,rare
+3,Crystal Shard,Artifact,uncommon
+2,Riptide Gearhulk,Artifact Creature — Construct,mythic
+1,Wrecking Ball Arm,Legendary Artifact — Equipment,rare
+1,Servo Schematic,Artifact,uncommon
+1,Platinum Emperion,Artifact Creature — Golem,mythic
 9,Sisay's Ring,Artifact,common
+1,Ankh of Mishra,Artifact,rare
 1,Mirror of Galadriel,Legendary Artifact,uncommon
+1,Tanuki Transplanter,Artifact Creature — Equipment Dog,rare
+1,Knight Paladin,Artifact — Vehicle,rare
+1,Dowsing Device // Geode Grotto,Artifact // Land — Cave,uncommon
+1,Repurposing Bay,Artifact,rare
+1,Bladehold War-Whip,Artifact — Equipment,uncommon
+2,Ensnaring Bridge,Artifact,mythic
+1,Idol of False Gods,Kindred Artifact — Eldrazi,uncommon
+1,Aether Refinery,Artifact,rare
+6,Chocobo Racetrack,Artifact,uncommon
+1,Static Orb,Artifact,rare
+3,PuPu UFO,Artifact Creature — Construct Alien,uncommon
+1,Barkform Harvester,Artifact Creature — Shapeshifter,common
 1,Pendant of Prosperity,Artifact,rare
 1,Vorrac Battlehorns,Artifact — Equipment,common
-2,Ensnaring Bridge,Artifact,mythic
-1,Unstable Amulet,Artifact,uncommon
-1,Short Bow,Artifact — Equipment,uncommon
-1,Hex Parasite,Artifact Creature — Phyrexian Insect,rare
-1,Pithing Needle,Artifact,rare
-1,Ironsoul Enforcer,Artifact Creature — Human Samurai,rare
-1,Transmutation Font,Artifact,mythic
-1,Tangletrove Kelp,Artifact Creature — Clue Plant,rare
-1,Mindslaver,Legendary Artifact,mythic
-1,Reinforced Ronin,Artifact Creature — Human Samurai,uncommon
-2,Izzet Generatorium,Artifact,uncommon
-1,Signal Pest,Artifact Creature — Pest,uncommon
-1,Anvil of Bogardan,Artifact,rare
-1,Dimir Keyrune,Artifact,uncommon
-1,Tough Cookie,Artifact Creature — Food Golem,uncommon
 1,Myr Enforcer,Artifact Creature — Myr,common
+1,Anvil of Bogardan,Artifact,rare
 13,Chromatic Sphere,Artifact,common
-1,Breya, Etherium Shaper,Legendary Artifact Creature — Human,mythic
-1,Prodigy's Prototype,Artifact — Vehicle,uncommon
-1,Servo Schematic,Artifact,uncommon
-1,Filigree Familiar,Artifact Creature — Fox,common
-1,Mana Geode,Artifact,common
-1,Cliffhaven Kitesail,Artifact — Equipment,common
-1,Sword of the Squeak,Artifact — Equipment,rare
-1,Dowsing Device // Geode Grotto,Artifact // Land — Cave,uncommon
-1,Aether Vial,Artifact,rare
-1,Shield-Wall Sentinel,Artifact Creature — Golem,common
-1,Null Rod,Artifact,rare
-1,Lost Jitte,Legendary Artifact — Equipment,mythic
-1,Executioner's Capsule,Artifact,common
-1,Deluxe Dragster,Artifact — Vehicle,rare
-1,Iron Apprentice,Artifact Creature — Construct,common
-1,Greatsword of Tyr,Artifact — Equipment,common
-1,Three Tree Mascot,Artifact Creature — Shapeshifter,common
-1,Dino DNA,Artifact,rare
-1,Aether Refinery,Artifact,rare
-1,Idol of False Gods,Kindred Artifact — Eldrazi,uncommon
-1,Fractal Harness,Artifact — Equipment,rare
-5,Slagwurm Armor,Artifact — Equipment,common
-1,Candy Trail,Artifact — Food Clue,common
-1,Conversion Apparatus,Artifact,rare
-2,Phyrexian Atlas,Artifact,common
-3,Myr Kinsmith,Artifact Creature — Myr,common
-1,Scytheclaw,Artifact — Equipment,rare
-1,Ethersworn Adjudicator,Artifact Creature — Vedalken Knight,mythic
-1,Manalith,Artifact,common
-1,Invasion of New Capenna // Holy Frazzle-Cannon,Battle — Siege // Artifact — Equipment,uncommon
-2,Celestial Armor,Artifact — Equipment,rare
-2,Barkform Harvester,Artifact Creature — Shapeshifter,common
-3,Chainsaw,Artifact — Equipment,rare
-1,Starscream, Power Hungry // Starscream, Seeker Leader,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
-1,Noble's Purse,Artifact,uncommon
-3,Bespoke Battlewagon,Artifact — Vehicle,uncommon
-1,Ghost Vacuum,Artifact,rare
-1,Kolvori, God of Kinship // The Ringhart Crest,Legendary Creature — God // Legendary Artifact,rare
-1,Mask of Riddles,Artifact — Equipment,uncommon
-2,Izzet Locket,Artifact,common
-4,Hunter's Blowgun,Artifact — Equipment,common
-1,Patchwork Automaton,Artifact Creature — Construct,uncommon
-1,Multiclass Baldric,Artifact — Equipment,rare
 1,Sphinx of the Revelation,Artifact Creature — Sphinx,rare
-1,Memnarch,Legendary Artifact Creature — Wizard,rare
-1,Strata Scythe,Artifact — Equipment,rare
-1,Triarch Praetorian,Artifact Creature — Necron,uncommon
-1,Moonsnare Prototype,Artifact,common
-1,Barrow-Blade,Artifact — Equipment,uncommon
-1,Guardian Idol,Artifact,uncommon
-1,Colossal Plow,Artifact — Vehicle,uncommon
-3,Rust Elemental,Artifact Creature — Elemental,uncommon
-1,Bonder's Ornament,Artifact,common
-1,Model of Unity,Artifact,rare
-1,Sigiled Sword of Valeron,Artifact — Equipment,rare
-1,Salvation Colossus,Artifact Creature — Construct,rare
-1,Painter's Servant,Artifact Creature — Scarecrow,rare
-1,Grindstone,Artifact,mythic
-1,Skitterbeam Battalion,Artifact Creature — Construct,mythic
-1,Stone Idol Generator,Artifact,rare
-1,Magmatic Galleon,Artifact — Vehicle,rare
-1,Ring of Kalonia,Artifact — Equipment,uncommon
-1,Razorfield Ripper,Artifact Creature — Equipment Rhino,rare
-1,Blaster Hulk,Artifact Creature — Pirate,rare
-1,Raiders' Karve,Artifact — Vehicle,common
-1,Lothlórien Blade,Artifact — Equipment,rare
+1,Dino DNA,Artifact,rare
+2,Lapis Orb of Dragonkind,Artifact,common
+1,Filigree Familiar,Artifact Creature — Fox,common
+1,Chaos Defiler,Artifact Creature — Demon Construct,rare
+1,Reinforced Ronin,Artifact Creature — Human Samurai,uncommon
+1,Signal Pest,Artifact Creature — Pest,uncommon
+9,World Map,Artifact,common
+1,Conversion Apparatus,Artifact,rare
+1,Ironsoul Enforcer,Artifact Creature — Human Samurai,rare
+1,Pithing Needle,Artifact,rare
+1,Breya, Etherium Shaper,Legendary Artifact Creature — Human,mythic
+1,Dimir Keyrune,Artifact,uncommon
+1,The Warring Triad,Legendary Artifact Creature — God,rare
+3,Bespoke Battlewagon,Artifact — Vehicle,uncommon
+1,Tough Cookie,Artifact Creature — Food Golem,uncommon
+1,Aether Vial,Artifact,rare
+12,White Auracite,Artifact,common
+1,Iron Apprentice,Artifact Creature — Construct,common
+1,Cliffhaven Kitesail,Artifact — Equipment,common
+2,Conformer Shuriken,Legendary Artifact — Equipment,rare
+1,Aettir and Priwen,Legendary Artifact — Equipment,mythic
+1,Prodigy's Prototype,Artifact — Vehicle,uncommon
+7,Blitzball,Artifact,common
+4,The Masamune,Legendary Artifact — Equipment,rare
+2,Dancer's Chakrams,Artifact — Equipment,rare
+1,Deluxe Dragster,Artifact — Vehicle,rare
+1,Marketback Walker,Artifact Creature — Construct,rare
+1,Shield-Wall Sentinel,Artifact Creature — Golem,common
+1,Candy Trail,Artifact — Food Clue,common
+1,Mana Geode,Artifact,common
+4,Cori-Steel Cutter,Artifact — Equipment,rare
+1,Starscream, Power Hungry // Starscream, Seeker Leader,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+1,Executioner's Capsule,Artifact,common
+1,Greatsword of Tyr,Artifact — Equipment,common
+4,Hunter's Blowgun,Artifact — Equipment,common
+1,Noble's Purse,Artifact,uncommon
 1,Hourglass of the Lost,Artifact,rare
+1,Memory Jar,Artifact,mythic
+1,Scytheclaw,Artifact — Equipment,rare
+1,Salvation Colossus,Artifact Creature — Construct,rare
+5,Slagwurm Armor,Artifact — Equipment,common
+1,Mask of Riddles,Artifact — Equipment,uncommon
 1,Hunter's Bow,Artifact — Equipment,uncommon
-1,Uba Mask,Artifact,rare
+1,Stone Idol Generator,Artifact,rare
+1,Grindstone,Artifact,mythic
+1,Manalith,Artifact,common
+1,Magmatic Galleon,Artifact — Vehicle,rare
+1,Nexus of Becoming,Artifact,mythic
+3,Myr Kinsmith,Artifact Creature — Myr,common
+1,Astrologian's Planisphere,Artifact — Equipment,rare
+1,Razorfield Ripper,Artifact Creature — Equipment Rhino,rare
+2,Phyrexian Atlas,Artifact,common
+1,Blaster Hulk,Artifact Creature — Pirate,rare
+1,Sword of the Meek,Artifact — Equipment,rare
+1,Null Rod,Artifact,rare
+1,Patchwork Automaton,Artifact Creature — Construct,uncommon
+1,Fractal Harness,Artifact — Equipment,rare
+1,Multiclass Baldric,Artifact — Equipment,rare
+3,The Swarmweaver,Legendary Artifact Creature — Scarecrow,rare
+1,Barrow-Blade,Artifact — Equipment,uncommon
+2,Izzet Locket,Artifact,common
+1,Ethersworn Adjudicator,Artifact Creature — Vedalken Knight,mythic
+1,Thopter Foundry,Artifact,uncommon
+1,Cranial Ram,Artifact — Equipment,common
+1,Verdurous Gearhulk,Artifact Creature — Construct,mythic
+1,Memnarch,Legendary Artifact Creature — Wizard,rare
+1,Radiant Lotus,Artifact,mythic
+1,Armory Automaton,Artifact Creature — Construct,rare
+3,Rust Elemental,Artifact Creature — Elemental,uncommon
+1,Moonsnare Prototype,Artifact,common
+1,Triarch Praetorian,Artifact Creature — Necron,uncommon
+2,Unidentified Hovership,Artifact — Vehicle,rare
+1,Guardian Idol,Artifact,uncommon
+1,Strata Scythe,Artifact — Equipment,rare
+1,Colossal Plow,Artifact — Vehicle,uncommon
+1,Iron Man, Titan of Innovation,Legendary Artifact Creature — Human Hero,mythic
+1,Bonder's Ornament,Artifact,common
+4,Gleaming Barrier,Artifact Creature — Wall,common
+1,Ravenous Amulet,Artifact,uncommon
+1,Painter's Servant,Artifact Creature — Scarecrow,rare
+1,Model of Unity,Artifact,rare
+1,Careening Mine Cart,Artifact — Vehicle,uncommon
+1,Invasion of New Capenna // Holy Frazzle-Cannon,Battle — Siege // Artifact — Equipment,uncommon
+1,Subterranean Schooner,Artifact — Vehicle,rare
+1,Forger's Foundry,Artifact,rare
+1,Lifecraft Engine,Artifact — Vehicle,rare
+2,Adventuring Gear,Artifact — Equipment,uncommon
+1,Summoning Materia,Artifact — Equipment,rare
+1,Sigiled Sword of Valeron,Artifact — Equipment,rare
+1,The Grim Captain's Locker,Legendary Artifact,rare
+1,Lesser Masticore,Artifact Creature — Masticore,uncommon
+2,Arcbound Worker,Artifact Creature — Construct,common
+1,Blood Fountain,Artifact,common
+1,Panoptic Projektor,Artifact,rare
+2,Brightglass Gearhulk,Artifact Creature — Construct,mythic
+1,Ratchet, Field Medic // Ratchet, Rescue Racer,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+1,Luxurious Locomotive,Artifact — Vehicle,uncommon
+1,Raiders' Karve,Artifact — Vehicle,common
+1,Excalibur II,Legendary Artifact — Equipment,rare
+1,Arcbound Shikari,Artifact Creature — Cat Soldier,uncommon
+3,Reaper's Scythe,Artifact — Equipment,rare
+1,Blitzball Stadium,Artifact,rare
+1,Ring of Kalonia,Artifact — Equipment,uncommon
+1,Mirrorshell Crab,Artifact Creature — Crab,common
+1,Lothlórien Blade,Artifact — Equipment,rare
+1,Machinist's Arsenal,Artifact — Equipment,rare
+3,Chalice of the Void,Artifact,mythic
 1,Pyrite Spellbomb,Artifact,common
 1,Worldslayer,Artifact — Equipment,rare
-1,Transmogrant's Crown,Artifact — Equipment,rare
-1,Blood Fountain,Artifact,common
-2,Annex Sentry,Artifact Creature — Phyrexian Cleric,uncommon
-1,Cranial Ram,Artifact — Equipment,common
-3,Chalice of the Void,Artifact,mythic
-1,Phyrexian Fleshgorger,Artifact Creature — Phyrexian Wurm,mythic
-1,Hotshot Mechanic,Artifact Creature — Fox Pilot,uncommon
-3,Transplant Theorist,Artifact Creature — Phyrexian Artificer,uncommon
-2,Arcbound Worker,Artifact Creature — Construct,common
-4,Gleaming Barrier,Artifact Creature — Wall,common
-4,Magnifying Glass,Artifact,common
-1,Forger's Foundry,Artifact,rare
-1,Careening Mine Cart,Artifact — Vehicle,uncommon
-1,High-Speed Hoverbike,Artifact — Vehicle,uncommon
-1,Mirrorshell Crab,Artifact Creature — Crab,common
-1,Skeleton Key,Artifact — Equipment,uncommon
-1,The Grim Captain's Locker,Legendary Artifact,rare
-1,Panoptic Projektor,Artifact,rare
-1,Perilous Myr,Artifact Creature — Phyrexian Myr,common
-1,Ravenous Amulet,Artifact,uncommon
-1,Iron Man, Titan of Innovation,Legendary Artifact Creature — Human Hero,mythic
-2,Unidentified Hovership,Artifact — Vehicle,rare
-1,Drillworks Mole,Artifact Creature — Mole,uncommon
-2,Scrabbling Claws,Artifact,uncommon
-3,The Swarmweaver,Legendary Artifact Creature — Scarecrow,rare
-1,Lesser Masticore,Artifact Creature — Masticore,uncommon
-1,Shuko,Artifact — Equipment,uncommon
-1,Blade of the Oni,Artifact Creature — Equipment Demon,mythic
-1,Imperial Recovery Unit,Artifact — Vehicle,uncommon
-1,Prosthetic Injector,Artifact — Equipment,uncommon
-1,Gorgon Flail,Artifact — Equipment,uncommon
-2,Feldon's Cane,Artifact,uncommon
-2,Cathodion,Artifact Creature — Construct,common
-1,Luxurious Locomotive,Artifact — Vehicle,uncommon
-1,Puppet Strings,Artifact,uncommon
-1,Blitzwing, Cruel Tormentor // Blitzwing, Adaptive Assailant,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
-6,Icy Manipulator,Artifact,uncommon
-1,Citizen's Crowbar,Artifact — Equipment,uncommon
-1,Grafted Wargear,Artifact — Equipment,uncommon
-1,Simian Simulacrum,Artifact Creature — Ape,rare
 3,Splitskin Doll,Artifact Creature — Toy,uncommon
-4,Steel Wall,Artifact Creature — Wall,common
-2,Infested Fleshcutter,Artifact — Equipment,uncommon
-1,Dragonfire Blade,Artifact — Equipment,rare
-3,Mnemonic Sphere,Artifact,common
-1,Quick-Draw Katana,Artifact — Equipment,common
-1,Treasure Keeper,Artifact Creature — Construct,uncommon
-5,Dross Scorpion,Artifact Creature — Scorpion,common
-1,Experimental Synthesizer,Artifact,common
-1,Mukotai Ambusher,Artifact Creature — Rat Ninja,common
-2,Dusk Rose Reliquary,Artifact,uncommon
-1,Dragonstorm Globe,Artifact,common
-2,Meteoric Mace,Artifact — Equipment,uncommon
-2,Dune Mover,Artifact Creature — Phyrexian Golem,common
-1,Twinshot Sniper,Artifact Creature — Goblin Archer,uncommon
-1,Altar of the Goyf,Kindred Artifact — Lhurgoyf,uncommon
-1,Automated Artificer,Artifact Creature — Artificer,common
-8,Bonesplitter,Artifact — Equipment,common
-4,Frogmite,Artifact Creature — Frog,common
-1,Witching Well,Artifact,common
-1,Thran Spider,Artifact Creature — Spider,rare
-1,Filigree Attendant,Artifact Creature — Homunculus,common
+1,Blitzwing, Cruel Tormentor // Blitzwing, Adaptive Assailant,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+4,Magnifying Glass,Artifact,common
+4,Ring of the Lucii,Legendary Artifact,uncommon
+2,Scrabbling Claws,Artifact,uncommon
+1,Ultima Weapon,Legendary Artifact — Equipment,rare
+1,Uba Mask,Artifact,rare
+2,Feldon's Cane,Artifact,uncommon
+1,Lita, Mechanical Engineer,Legendary Artifact Creature — Artificer,mythic
+1,Marina Vendrell's Grimoire,Legendary Artifact,rare
+1,Hotshot Mechanic,Artifact Creature — Fox Pilot,uncommon
+1,Skeleton Key,Artifact — Equipment,uncommon
+1,High-Speed Hoverbike,Artifact — Vehicle,uncommon
+2,Annex Sentry,Artifact Creature — Phyrexian Cleric,uncommon
+1,Arcbound Mouser,Artifact Creature — Cat,common
 5,Osseous Sticktwister,Artifact Creature — Scarecrow,uncommon
 1,Dissection Tools,Artifact — Equipment,rare
-1,Gleaming Geardrake,Artifact Creature — Drake,uncommon
-1,Dragonwing Glider,Artifact — Equipment,rare
-1,Hexgold Hoverwings,Artifact — Equipment,uncommon
-1,Atraxa's Skitterfang,Artifact Creature — Phyrexian Insect,uncommon
-1,Silas Renn, Seeker Adept,Legendary Artifact Creature — Human,mythic
-1,Arcbound Condor,Artifact Creature — Bird,uncommon
-1,Marina Vendrell's Grimoire,Legendary Artifact,rare
-1,Simian Sling,Artifact Creature — Equipment Monkey,common
-1,Oasis Gardener,Artifact Creature — Scarecrow,common
-3,Glowcap Lantern,Artifact — Equipment,uncommon
-1,Skittering Surveyor,Artifact Creature — Construct,common
-1,Undercity Scrounger,Artifact Creature — Human Rogue,common
-1,Network Disruptor,Artifact Creature — Moonfolk Rogue,common
-3,Thundersteel Colossus,Artifact — Vehicle,common
-4,Ransom Note,Artifact — Clue,rare
-1,Coveted Falcon,Artifact Creature — Bird,rare
-2,Cryptic Coat,Artifact — Equipment,rare
-2,Adventuring Gear,Artifact — Equipment,uncommon
-1,Megatron, Tyrant // Megatron, Destructive Force,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
-1,Egon, God of Death // Throne of Death,Legendary Creature — God // Legendary Artifact,rare
-3,Dross Skullbomb,Artifact,common
-1,Dingus Staff,Artifact,uncommon
-1,Ichor Elixir,Artifact,rare
-1,Clay-Fired Bricks // Cosmium Kiln,Artifact // Artifact,uncommon
-1,Lifecraft Engine,Artifact — Vehicle,rare
-3,Phyrexian Dreadnought,Artifact Creature — Phyrexian Dreadnought,rare
-1,Combat Thresher,Artifact Creature — Construct,uncommon
+1,Blue Mage's Cane,Artifact — Equipment,rare
 1,Racers' Scoreboard,Artifact,uncommon
+1,Filigree Attendant,Artifact Creature — Homunculus,common
+1,Quick-Draw Katana,Artifact — Equipment,common
+1,Optimus Prime, Hero // Optimus Prime, Autobot Leader,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+1,Gilded Pinions,Artifact — Equipment,common
+1,Phyrexian Fleshgorger,Artifact Creature — Phyrexian Wurm,mythic
+1,Perilous Myr,Artifact Creature — Phyrexian Myr,common
+2,Dusk Rose Reliquary,Artifact,uncommon
+3,Transplant Theorist,Artifact Creature — Phyrexian Artificer,uncommon
+1,Altar of the Goyf,Kindred Artifact — Lhurgoyf,uncommon
+1,Candelabra of Tawnos,Artifact,rare
+2,Cryogen Relic,Artifact,common
+11,Instant Ramen,Artifact — Food,common
+1,Serah Farron // Crystallized Serah,Legendary Creature — Human Citizen // Legendary Artifact,rare
+1,Portable Hole,Artifact,uncommon
+2,Cathodion,Artifact Creature — Construct,common
+1,Drillworks Mole,Artifact Creature — Mole,uncommon
+1,Oasis Gardener,Artifact Creature — Scarecrow,common
+1,Gorgon Flail,Artifact — Equipment,uncommon
+1,Prosthetic Injector,Artifact — Equipment,uncommon
+4,Diversion Unit,Artifact Creature — Robot,uncommon
+1,Transmogrant's Crown,Artifact — Equipment,rare
+4,Diamond Weapon,Legendary Artifact Creature — Elemental,uncommon
+1,Experimental Synthesizer,Artifact,common
+1,Gleaming Geardrake,Artifact Creature — Drake,uncommon
+1,Balamb Garden, SeeD Academy // Balamb Garden, Airborne,Land — Town // Legendary Artifact — Vehicle,rare
+4,Interface Ace,Artifact Creature — Robot Pilot,common
+1,Grafted Wargear,Artifact — Equipment,uncommon
+2,Meteoric Mace,Artifact — Equipment,uncommon
+1,Puppet Strings,Artifact,uncommon
+1,Blade of the Oni,Artifact Creature — Equipment Demon,mythic
+1,Citizen's Crowbar,Artifact — Equipment,uncommon
+4,Ransom Note,Artifact — Clue,rare
+7,Samurai's Katana,Artifact — Equipment,uncommon
+1,Automated Artificer,Artifact Creature — Artificer,common
+1,Arcbound Tracker,Artifact Creature — Dog,common
+1,Arcbound Condor,Artifact Creature — Bird,uncommon
+1,Ancient Cornucopia,Artifact,mythic
+1,Shuko,Artifact — Equipment,uncommon
+4,Frogmite,Artifact Creature — Frog,common
+1,Imperial Recovery Unit,Artifact — Vehicle,uncommon
+1,Starting Column,Artifact,common
+1,Twinshot Sniper,Artifact Creature — Goblin Archer,uncommon
+1,Simian Simulacrum,Artifact Creature — Ape,rare
+2,Infested Fleshcutter,Artifact — Equipment,uncommon
+6,Icy Manipulator,Artifact,uncommon
+4,Steel Wall,Artifact Creature — Wall,common
+1,Thran Spider,Artifact Creature — Spider,rare
+4,Phoenix Down,Artifact,uncommon
+1,Treasure Keeper,Artifact Creature — Construct,uncommon
+5,Dross Scorpion,Artifact Creature — Scorpion,common
+1,Mukotai Ambusher,Artifact Creature — Rat Ninja,common
+1,Coveted Falcon,Artifact Creature — Bird,rare
+8,Bonesplitter,Artifact — Equipment,common
+1,Prowl, Stoic Strategist // Prowl, Pursuit Vehicle,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+2,Dune Mover,Artifact Creature — Phyrexian Golem,common
+3,Glowcap Lantern,Artifact — Equipment,uncommon
+3,Mnemonic Sphere,Artifact,common
+8,Clockwork Percussionist,Artifact Creature — Monkey Toy,common
+1,Dauntless Scrapbot,Artifact Creature — Robot,uncommon
 1,Oaken Siren,Artifact Creature — Siren Pirate,common
-1,Shrine Steward,Artifact Creature — Construct,common
+4,Phyrexian Dreadnought,Artifact Creature — Phyrexian Dreadnought,rare
+1,Pactdoll Terror,Artifact Creature — Toy,common
+2,The Falcon, Airship Restored,Legendary Artifact — Vehicle,rare
+1,Ichor Elixir,Artifact,rare
 3,Glasses of Urza,Artifact,common
-1,Smelting Vat,Artifact,rare
+2,Summoner's Grimoire,Artifact — Equipment,rare
+5,Crystal Fragments // Summon: Alexander,Artifact — Equipment // Enchantment Creature — Saga Construct,uncommon
+1,Cryptic Coat,Artifact — Equipment,rare
+1,Witching Well,Artifact,common
+1,Dragonwing Glider,Artifact — Equipment,rare
+1,Clay-Fired Bricks // Cosmium Kiln,Artifact // Artifact,uncommon
+5,Dragoon's Lance,Artifact — Equipment,uncommon
+1,Silas Renn, Seeker Adept,Legendary Artifact Creature — Human,mythic
+7,Ragged Playmate,Artifact Creature — Toy,common
+1,Atraxa's Skitterfang,Artifact Creature — Phyrexian Insect,uncommon
+1,Mandibular Kite,Artifact — Equipment,common
+1,Simian Sling,Artifact Creature — Equipment Monkey,common
+1,Network Disruptor,Artifact Creature — Moonfolk Rogue,common
+1,Hexgold Hoverwings,Artifact — Equipment,uncommon
+1,Arcbound Javelineer,Artifact Creature — Soldier,uncommon
+3,Thundersteel Colossus,Artifact — Vehicle,common
+1,Entropic Battlecruiser,Artifact — Spacecraft,rare
+1,Assimilation Aegis,Artifact — Equipment,mythic
+1,Guidelight Matrix,Artifact,common
+1,Goldbug, Humanity's Ally // Goldbug, Scrappy Scout,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+2,Gold Pan,Artifact — Equipment,common
+1,Egon, God of Death // Throne of Death,Legendary Creature — God // Legendary Artifact,rare
+1,Megatron, Tyrant // Megatron, Destructive Force,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+1,Nesting Bot,Artifact Creature — Robot,uncommon
+1,Undercity Scrounger,Artifact Creature — Human Rogue,common
+1,Dingus Staff,Artifact,uncommon
+1,Karn, Silver Golem,Legendary Artifact Creature — Golem,rare
+2,Retrofitted Transmogrant,Artifact Creature — Zombie,common
+1,Skittering Surveyor,Artifact Creature — Construct,common
+11,Sage's Nouliths,Artifact — Equipment,common
+1,Arm-Mounted Anchor,Artifact — Equipment,rare
+1,Jetfire, Ingenious Scientist // Jetfire, Air Guardian,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+3,Keys to the House,Artifact,uncommon
+1,Night Scythe,Artifact — Vehicle,uncommon
+1,All-Fates Scroll,Artifact,uncommon
+8,Red Mage's Rapier,Artifact — Equipment,common
+2,Riddle Gate Gargoyle,Artifact Creature — Gargoyle,common
+10,White Mage's Staff,Artifact — Equipment,common
+2,Master's Guide-Mural // Master's Manufactory,Artifact // Artifact,uncommon
+3,Wickerfolk Thresher,Artifact Creature — Scarecrow,uncommon
+4,Friendly Teddy,Artifact Creature — Bear Toy,common
+3,Dross Skullbomb,Artifact,common
+2,Boosted Sloop,Artifact — Vehicle,uncommon
+1,Flayer Husk,Artifact — Equipment,common
+1,Combat Thresher,Artifact Creature — Construct,uncommon
+1,Vault Skirge,Artifact Creature — Phyrexian Imp,common
+2,Shrine Steward,Artifact Creature — Construct,common
 2,Myr Custodian,Artifact Creature — Myr,common
-1,Riverchurn Monument,Artifact,rare
 1,Untethered Express,Artifact — Vehicle,uncommon
 1,Monkey Cage,Artifact,rare
-1,Vault Skirge,Artifact Creature — Phyrexian Imp,common
-1,Flayer Husk,Artifact — Equipment,common
-7,Ragged Playmate,Artifact Creature — Toy,common
-2,Retrofitted Transmogrant,Artifact Creature — Zombie,common
-2,Master's Guide-Mural // Master's Manufactory,Artifact // Artifact,uncommon
-1,Starting Column,Artifact,common
-1,Night Scythe,Artifact — Vehicle,uncommon
-1,Cephalopod Sentry,Artifact Creature — Phyrexian Squid,uncommon
-1,Assimilation Aegis,Artifact — Equipment,mythic
-8,Clockwork Percussionist,Artifact Creature — Monkey Toy,common
-1,Mysterious Limousine,Artifact — Vehicle,rare
-4,Interface Ace,Artifact Creature — Robot Pilot,common
-1,Bomat Courier,Artifact Creature — Construct,rare
-1,Millstone,Artifact,uncommon
-2,Riddle Gate Gargoyle,Artifact Creature — Gargoyle,common
-3,Tel-Jilad Stylus,Artifact,uncommon
-1,Ancestral Blade,Artifact — Equipment,common
-1,Kormus Bell,Artifact,rare
-1,Ward of Bones,Artifact,rare
-1,Ogre-Head Helm,Artifact Creature — Equipment Ogre,rare
-1,Arm-Mounted Anchor,Artifact — Equipment,rare
-1,Arcbound Prototype,Artifact Creature — Assembly-Worker,common
-3,Keys to the House,Artifact,uncommon
-6,Ashnod's Transmogrant,Artifact,common
-2,Gold Pan,Artifact — Equipment,common
-1,Aethersphere Harvester,Artifact — Vehicle,rare
-2,Sunbird Standard // Sunbird Effigy,Artifact // Artifact Creature — Bird Construct,uncommon
-1,Candelabra of Tawnos,Artifact,rare
-1,Helm of Obedience,Artifact,rare
-1,Flamewar, Brash Veteran // Flamewar, Streetwise Operative,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
-3,Dutiful Replicator,Artifact Creature — Assembly-Worker,common
-3,Spring-Loaded Sawblades // Bladewheel Chariot,Artifact // Artifact — Vehicle,uncommon
-1,Dire Flail // Dire Blunderbuss,Artifact — Equipment // Artifact — Equipment,rare
-3,Wickerfolk Thresher,Artifact Creature — Scarecrow,uncommon
-5,Fountain of Youth,Artifact,uncommon
-2,Inverted Iceberg // Iceberg Titan,Artifact // Artifact Creature — Golem,common
-2,Ancestral Katana,Artifact — Equipment,common
 1,Mobile Homestead,Artifact — Vehicle,uncommon
-1,Malcator's Watcher,Artifact Creature — Phyrexian Drone,common
-3,Diversion Unit,Artifact Creature — Robot,uncommon
-1,Brimstone Trebuchet,Artifact Creature — Wall,common
-1,Shambling Suit,Artifact Creature — Construct,uncommon
-1,Elsewhere Flask,Artifact,common
-1,Mandibular Kite,Artifact — Equipment,common
-1,Nesting Bot,Artifact Creature — Robot,uncommon
-1,Lotus Ring,Artifact — Equipment,mythic
-2,Surgical Skullbomb,Artifact,common
-1,Monument to Perfection,Artifact,rare
-1,Arcbound Whelp,Artifact Creature — Dragon,uncommon
-1,Simic Locket,Artifact,common
+11,Paladin's Arms,Artifact — Equipment,common
+1,Zabaz, the Glimmerwasp,Legendary Artifact Creature — Insect,rare
+1,Arcbound Slasher,Artifact Creature — Cat,common
 1,Collector's Cage,Artifact,mythic
+1,Arcbound Prototype,Artifact Creature — Assembly-Worker,common
+1,Shambling Suit,Artifact Creature — Construct,uncommon
+5,Fountain of Youth,Artifact,uncommon
+1,Ninja's Blades,Artifact — Equipment,rare
 1,Cobbled Wings,Artifact — Equipment,common
-3,Barbed Batterfist,Artifact — Equipment,common
-4,Campus Guide,Artifact Creature — Golem,common
-2,Boosted Sloop,Artifact — Vehicle,uncommon
-4,Friendly Teddy,Artifact Creature — Bear Toy,common
-2,Lodestone Needle // Guidestone Compass,Artifact // Artifact,uncommon
-3,Skeleton Shard,Artifact,uncommon
-1,Lifeline,Artifact,rare
-1,Wurmcoil Larva,Artifact Creature — Phyrexian Wurm,uncommon
+2,Sunbird Standard // Sunbird Effigy,Artifact // Artifact Creature — Bird Construct,uncommon
 1,Rune-Sealed Wall,Artifact Creature — Wall,uncommon
-1,Mishra's Research Desk,Artifact,uncommon
-1,Soundwave, Sonic Spy // Soundwave, Superior Captain,Legendary Artifact Creature — Robot // Legendary Artifact,mythic
-1,Pactdoll Terror,Artifact Creature — Toy,common
-7,Living Phone,Artifact Creature — Toy,common
-1,Hedgewitch's Mask,Artifact — Equipment,common
-2,Kor Halberd,Artifact — Equipment,common
-1,Etched Familiar,Artifact Creature — Phyrexian Fox,common
-1,Blaster, Combat DJ // Blaster, Morale Booster,Legendary Artifact Creature — Robot // Legendary Artifact,mythic
-2,Papercraft Decoy,Artifact Creature — Frog,common
-1,Smoldering Stagecoach,Artifact — Vehicle,rare
-3,Jalum Tome,Artifact,common
-1,Epochrasite,Artifact Creature — Construct,rare
-3,Patchwork Beastie,Artifact Creature — Beast,uncommon
-1,Filigree Racer,Artifact — Vehicle,rare
-1,Tinker's Tote,Artifact,common
-1,Guidelight Matrix,Artifact,common
-1,Boros Keyrune,Artifact,uncommon
-1,Bottle Gnomes,Artifact Creature — Gnome,uncommon
-1,Arcanist's Owl,Artifact Creature — Bird,uncommon
-2,Phyrexian Devourer,Artifact Creature — Phyrexian Construct,uncommon
-1,Reito Sentinel,Artifact Creature — Construct,uncommon
-1,Kitesail,Artifact — Equipment,common
-1,Halo Hopper,Artifact Creature — Frog,common
-3,Sunbeam Spellbomb,Artifact,common
-2,Gustha's Scepter,Artifact,rare
-4,Pirate Hat,Artifact — Equipment,common
-1,Barbed Spike,Artifact — Equipment,uncommon
-1,Darksteel Pendant,Artifact,common
-1,Drossclaw,Artifact — Equipment,common
-2,Nuisance Engine,Artifact,uncommon
-1,Exterminator Magmarch,Artifact Creature — Phyrexian Construct,rare
-3,Basilica Skullbomb,Artifact,common
-7,Delif's Cone,Artifact,common
-1,Jester's Cap,Artifact,rare
-1,Cursed Recording,Artifact,rare
-1,Urn of Godfire,Artifact,common
-1,Rope,Artifact — Clue Equipment,uncommon
-1,Dingus Egg,Artifact,rare
-3,Haunted Screen,Artifact,uncommon
-3,Piggy Bank,Artifact Creature — Boar Toy,uncommon
-1,Surge Engine,Artifact Creature — Construct,mythic
-1,Alacrian Armory,Artifact,uncommon
-1,Sunstone,Artifact,uncommon
-2,Mirran Bardiche,Artifact — Equipment,common
-3,Oteclan Landmark // Oteclan Levitator,Artifact // Artifact Creature — Golem,common
-2,Saheeli's Lattice // Mastercraft Raptor,Artifact // Artifact Creature — Dinosaur,uncommon
-1,Abzan Banner,Artifact,common
-1,Lodestone Bauble,Artifact,rare
-1,Ultra Magnus, Tactician // Ultra Magnus, Armored Carrier,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
-2,Ribskiff,Artifact — Vehicle,uncommon
-1,Throne of the Grim Captain // The Grim Captain,Legendary Artifact // Legendary Creature — Skeleton Spirit Pirate,rare
-2,Deconstruction Hammer,Artifact — Equipment,common
-2,Sarpadian Simulacrum,Artifact Creature — Goblin,common
-2,Armguard Familiar,Artifact Creature — Equipment Beast,common
-2,Colossal Dreadmask,Artifact — Equipment,common
-1,Foreboding Steamboat,Artifact — Vehicle,rare
+1,Smelting Vat,Artifact,rare
+1,Zookeeper Mechan,Artifact Creature — Robot,common
+1,Aethersphere Harvester,Artifact — Vehicle,rare
+1,Millstone,Artifact,uncommon
+9,Rook Turret,Artifact Creature — Construct,common
+1,Lotus Ring,Artifact — Equipment,mythic
+5,Elixir,Artifact,uncommon
+1,Dire Flail // Dire Blunderbuss,Artifact — Equipment // Artifact — Equipment,rare
+1,Infinite Guideline Station,Legendary Artifact — Spacecraft,rare
+1,Cephalopod Sentry,Artifact Creature — Phyrexian Squid,uncommon
+1,Ancestral Blade,Artifact — Equipment,common
+1,Flamewar, Brash Veteran // Flamewar, Streetwise Operative,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+2,Piggy Bank,Artifact Creature — Boar Toy,uncommon
+1,Kormus Bell,Artifact,rare
+3,Spring-Loaded Sawblades // Bladewheel Chariot,Artifact // Artifact — Vehicle,uncommon
+1,Cyclonus, the Saboteur // Cyclonus, Cybertronian Fighter,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+1,Mysterious Limousine,Artifact — Vehicle,rare
+1,Ward of Bones,Artifact,rare
+1,Bomat Courier,Artifact Creature — Construct,rare
+4,Campus Guide,Artifact Creature — Golem,common
+2,Inverted Iceberg // Iceberg Titan,Artifact // Artifact Creature — Golem,common
+1,Oildeep Gearhulk,Artifact Creature — Construct,mythic
+3,Tel-Jilad Stylus,Artifact,uncommon
 1,Broodheart Engine,Artifact,uncommon
-1,Thopter Squadron,Artifact Creature — Thopter,rare
-4,Serrated Arrows,Artifact,common
+1,Wurmcoil Larva,Artifact Creature — Phyrexian Wurm,uncommon
+1,Alacrian Armory,Artifact,uncommon
+1,Arcbound Whelp,Artifact Creature — Dragon,uncommon
+1,Helm of Obedience,Artifact,rare
+1,Elsewhere Flask,Artifact,common
+6,Ashnod's Transmogrant,Artifact,common
+1,Cursed Recording,Artifact,rare
+2,Lodestone Needle // Guidestone Compass,Artifact // Artifact,uncommon
+1,Gauntlet of Might,Artifact,rare
+1,Guidelight Optimizer,Artifact Creature — Robot,common
+1,Arcee, Sharpshooter // Arcee, Acrobatic Coupe,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+1,Filigree Racer,Artifact — Vehicle,rare
+3,Patchwork Beastie,Artifact Creature — Beast,uncommon
+1,Exterminator Magmarch,Artifact Creature — Phyrexian Construct,rare
+1,Ogre-Head Helm,Artifact Creature — Equipment Ogre,rare
+2,Ancestral Katana,Artifact — Equipment,common
+3,Dutiful Replicator,Artifact Creature — Assembly-Worker,common
+1,Coin of Fate,Artifact,rare
+1,Lifeline,Artifact,rare
+2,Surgical Skullbomb,Artifact,common
+3,Barbed Batterfist,Artifact — Equipment,common
+2,Gustha's Scepter,Artifact,rare
+1,Smoldering Stagecoach,Artifact — Vehicle,rare
+7,Living Phone,Artifact Creature — Toy,common
+1,Tinker's Tote,Artifact,common
+1,Monument to Perfection,Artifact,rare
+5,Omega, Heartless Evolution,Legendary Artifact Creature — Robot,uncommon
+1,Malcator's Watcher,Artifact Creature — Phyrexian Drone,common
+1,Scrapwork Mutt,Artifact Creature — Dog,common
+7,Delif's Cone,Artifact,common
+1,Brimstone Trebuchet,Artifact Creature — Wall,common
+1,Drossclaw,Artifact — Equipment,common
+1,Pinnacle Kill-Ship,Artifact — Spacecraft,common
+1,Guidelight Synergist,Artifact Creature — Robot Artificer,uncommon
+1,Simic Locket,Artifact,common
+12,Warrior's Sword,Artifact — Equipment,common
+1,Blaster, Combat DJ // Blaster, Morale Booster,Legendary Artifact Creature — Robot // Legendary Artifact,mythic
+1,Lodestone Bauble,Artifact,rare
+2,Gene Pollinator,Artifact Creature — Robot Insect,common
+3,Skeleton Shard,Artifact,uncommon
+4,Pirate Hat,Artifact — Equipment,common
+2,Saheeli's Lattice // Mastercraft Raptor,Artifact // Artifact Creature — Dinosaur,uncommon
+1,Soundwave, Sonic Spy // Soundwave, Superior Captain,Legendary Artifact Creature — Robot // Legendary Artifact,mythic
+1,Foreboding Steamboat,Artifact — Vehicle,rare
+1,Legion Extruder,Artifact,mythic
+1,Hedgewitch's Mask,Artifact — Equipment,common
+2,Colossal Dreadmask,Artifact — Equipment,common
+1,Panoptic Mirror,Artifact,rare
+3,Cargo Ship,Artifact — Vehicle,uncommon
+1,Rope,Artifact — Clue Equipment,uncommon
+3,Haunted Screen,Artifact,uncommon
+1,Epochrasite,Artifact Creature — Construct,rare
+2,Papercraft Decoy,Artifact Creature — Frog,common
+1,Clamorous Ironclad,Artifact — Vehicle,common
+4,Spider-Bot,Artifact Creature — Spider Robot Scout,common
+1,Boros Keyrune,Artifact,uncommon
+3,Sunbeam Spellbomb,Artifact,common
+3,Jalum Tome,Artifact,common
+2,Kor Halberd,Artifact — Equipment,common
+1,Bottle Gnomes,Artifact Creature — Gnome,uncommon
+1,Jester's Cap,Artifact,rare
+2,Sarpadian Simulacrum,Artifact Creature — Goblin,common
+1,Throne of the Grim Captain // The Grim Captain,Legendary Artifact // Legendary Creature — Skeleton Spirit Pirate,rare
+1,Barbed Spike,Artifact — Equipment,uncommon
+1,Mishra's Research Desk,Artifact,uncommon
+1,Arcanist's Owl,Artifact Creature — Bird,uncommon
+1,Kitesail,Artifact — Equipment,common
+3,Sidequest: Play Blitzball // World Champion, Celestial Weapon,Enchantment // Legendary Artifact — Equipment,uncommon
+4,Dark Knight's Greatsword,Artifact — Equipment,uncommon
+2,Deconstruction Hammer,Artifact — Equipment,common
+1,Stormbeacon Blade,Artifact — Equipment,uncommon
+3,Oteclan Landmark // Oteclan Levitator,Artifact // Artifact Creature — Golem,common
+2,Phyrexian Devourer,Artifact Creature — Phyrexian Construct,uncommon
+3,Basilica Skullbomb,Artifact,common
+1,Darksteel Pendant,Artifact,common
+2,Nuisance Engine,Artifact,uncommon
+1,Voyager Glidecar,Artifact — Vehicle,rare
 1,Yggdrasil, Rebirth Engine,Legendary Artifact,mythic
-2,Meteorite,Artifact,common
+5,Thief's Knife,Artifact — Equipment,uncommon
+3,Relentless X-ATM092,Artifact Creature — Robot Spider,uncommon
+1,Etched Familiar,Artifact Creature — Phyrexian Fox,common
+1,Reito Sentinel,Artifact Creature — Construct,uncommon
+11,Adventurer's Airship,Artifact — Vehicle,common
+1,Sunstone,Artifact,uncommon
+1,Dingus Egg,Artifact,rare
+1,Ultra Magnus, Tactician // Ultra Magnus, Armored Carrier,Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle,mythic
+1,Halo Hopper,Artifact Creature — Frog,common
+1,Mardu Monument,Artifact,uncommon
+8,Iron Giant,Artifact Creature — Demon,common
+1,Abzan Banner,Artifact,common
+2,Ribskiff,Artifact — Vehicle,uncommon
+1,Silver Deputy,Artifact Creature — Mercenary,common
+2,Boulderborn Dragon,Artifact Creature — Dragon,common
+2,Mirran Bardiche,Artifact — Equipment,common
+1,Thopter Squadron,Artifact Creature — Thopter,rare
+3,Phantom Train,Artifact — Vehicle,uncommon
+2,Runaway Boulder,Artifact,common
+1,Urn of Godfire,Artifact,common
+8,Glimmerlight,Artifact — Equipment,common
+2,Armguard Familiar,Artifact Creature — Equipment Beast,common
+1,Essence Reliquary,Artifact,uncommon
+1,Volatile Wanderglyph,Artifact Creature — Golem,common
+1,Copper Tablet,Artifact,uncommon
+8,Lunatic Pandora,Legendary Artifact,common
 2,Vulshok Splitter,Artifact — Equipment,common
-3,Brute Suit,Artifact — Vehicle,common
-1,Mandible Justiciar,Artifact Creature — Phyrexian Cleric,common
-1,Ramosian Greatsword,Artifact — Equipment,uncommon
+1,Jack-o'-Lantern,Artifact,common
 1,Jandor's Saddlebags,Artifact,rare
 6,Tooth of Chiss-Goria,Artifact,common
-1,Sultai Banner,Artifact,common
-2,Farsight Mask,Artifact,uncommon
-2,Moonfolk Puzzlemaker,Artifact Creature — Moonfolk Wizard,common
-1,Guidelight Synergist,Artifact Creature — Robot Artificer,uncommon
-1,The Rack,Artifact,special
-2,Runaway Boulder,Artifact,common
-1,Silver Deputy,Artifact Creature — Mercenary,common
-1,Guidelight Optimizer,Artifact Creature — Robot,common
-5,Scale of Chiss-Goria,Artifact,common
-2,Clockwork Hydra,Artifact Creature — Hydra,uncommon
-1,Clamorous Ironclad,Artifact — Vehicle,common
-1,Volatile Wanderglyph,Artifact Creature — Golem,common
-1,Jack-o'-Lantern,Artifact,common
-1,Dinotomaton,Artifact Creature — Dinosaur Gnome,common
-1,Voyager Glidecar,Artifact — Vehicle,rare
-3,Goldwarden's Helm,Artifact — Equipment,common
-2,Jade Monolith,Artifact,rare
-2,Furnace Skullbomb,Artifact,common
 1,Etherium Pteramander,Artifact Creature — Salamander Drake,uncommon
-3,Maze Skullbomb,Artifact,common
-1,Essence Reliquary,Artifact,uncommon
-1,Phyrexian Marauder,Artifact Creature — Phyrexian Construct,rare
+3,Brute Suit,Artifact — Vehicle,common
+2,Meteorite,Artifact,common
+2,Farsight Mask,Artifact,uncommon
 1,Leyline Dowser,Artifact,rare
-4,Attentive Sunscribe,Artifact Creature — Gnome,common
-1,Elven Bow,Artifact — Equipment,uncommon
-2,Didgeridoo,Artifact,uncommon
-8,Glimmerlight,Artifact — Equipment,common
-1,Civic Saber,Artifact — Equipment,uncommon
-1,Sickleslicer,Artifact — Equipment,common
-1,Veil of Assimilation,Artifact,uncommon
-1,Staff of the Wild Magus,Artifact,uncommon
-1,Renegade Freighter,Artifact — Vehicle,common
-1,Sterling Hound,Artifact Creature — Dog,common
 1,Detention Chariot,Artifact — Vehicle,uncommon
-1,Phyrexian Vault,Artifact,uncommon
-1,Hotfoot Gnome,Artifact Creature — Gnome,common
 3,Saw,Artifact — Equipment,uncommon
-4,Barbed Sextant,Artifact,common
-4,Cursed Windbreaker,Artifact — Equipment,uncommon
+1,Phyrexian Marauder,Artifact Creature — Phyrexian Construct,rare
+4,Serrated Arrows,Artifact,common
+1,Sultai Banner,Artifact,common
+1,Dinotomaton,Artifact Creature — Dinosaur Gnome,common
+1,Aetherjacket,Artifact Creature — Thopter,common
+8,Monk's Fist,Artifact — Equipment,common
+2,Obstinate Gargoyle,Artifact Creature — Gargoyle,common
+1,Mandible Justiciar,Artifact Creature — Phyrexian Cleric,common
+1,Ramosian Greatsword,Artifact — Equipment,uncommon
+1,Wreckage Wickerfolk,Artifact Creature — Scarecrow,common
+5,Scale of Chiss-Goria,Artifact,common
+1,The Rack,Artifact,special
+6,Valkyrie Aerial Unit,Artifact Creature — Construct,uncommon
+2,Moonfolk Puzzlemaker,Artifact Creature — Moonfolk Wizard,common
+4,Lion Heart,Artifact — Equipment,uncommon
+1,Carrion Cruiser,Artifact — Vehicle,uncommon
+2,Clockwork Hydra,Artifact Creature — Hydra,uncommon
+1,Atmospheric Greenhouse,Artifact — Spacecraft,uncommon
+3,Ether,Artifact,uncommon
+6,Wildfire Wickerfolk,Artifact Creature — Scarecrow,uncommon
+1,Civic Saber,Artifact — Equipment,uncommon
+1,Ticket Tortoise,Artifact Creature — Turtle,common
 1,Knife,Artifact — Clue Equipment,uncommon
+1,Sterling Hound,Artifact Creature — Dog,common
+4,Attentive Sunscribe,Artifact Creature — Gnome,common
+2,Furnace Skullbomb,Artifact,common
+2,Jade Monolith,Artifact,rare
+4,Cursed Windbreaker,Artifact — Equipment,uncommon
+1,Sickleslicer,Artifact — Equipment,common
+1,Magitek Scythe,Artifact — Equipment,rare
+1,The Last Ride,Legendary Artifact — Vehicle,mythic
+1,Burner Rocket,Artifact — Vehicle,common
+3,Goldwarden's Helm,Artifact — Equipment,common
+1,Hotfoot Gnome,Artifact Creature — Gnome,common
+3,Maze Skullbomb,Artifact,common
+1,Midnight Mangler,Artifact — Vehicle,common
+2,Coral Sword,Artifact — Equipment,uncommon
+2,Didgeridoo,Artifact,uncommon
+1,Elven Bow,Artifact — Equipment,uncommon
+1,Staff of the Wild Magus,Artifact,uncommon
+1,Tangle Tumbler,Artifact — Vehicle,uncommon
+1,Renegade Freighter,Artifact — Vehicle,common
+1,Veil of Assimilation,Artifact,uncommon
+1,Harvest Hand // Scrounged Scythe,Artifact Creature — Scarecrow // Artifact — Equipment,common
+1,Etched Slith,Artifact Creature — Phyrexian Slith,uncommon
+1,Forcefield,Artifact,rare
+9,Magic Pot,Artifact Creature — Goblin Construct,common
+1,Sanctuary Wall,Artifact Creature — Wall,uncommon
+1,Cloudspire Skycycle,Artifact — Vehicle,uncommon
+4,Barbed Sextant,Artifact,common
+4,Grim Bauble,Artifact,common
+1,Phyrexian Vault,Artifact,uncommon
 2,Heart-Piercer Bow,Artifact — Equipment,common
 1,Sanguine Statuette,Artifact,uncommon
-1,Harvest Hand // Scrounged Scythe,Artifact Creature — Scarecrow // Artifact — Equipment,common
-3,Gruul Keyrune,Artifact,uncommon
-3,Necrogen Spellbomb,Artifact,common
-6,Wildfire Wickerfolk,Artifact Creature — Scarecrow,uncommon
-2,Synod Sanctum,Artifact,uncommon
+9,Bard's Bow,Artifact — Equipment,common
 1,Mimic,Artifact — Treasure,common
-1,Heirloom Mirror // Inherited Fiend,Artifact // Creature — Demon,uncommon
-3,Squee's Toy,Artifact,common
-1,Tangle Tumbler,Artifact — Vehicle,uncommon
-1,Baton of Morale,Artifact,uncommon
-1,Skyblinder Staff,Artifact — Equipment,common
-1,Scrapwork Rager,Artifact Creature — Phyrexian Horror,common
-1,Shrapnel Slinger,Artifact Creature — Phyrexian Beast,common
-1,Incubation Sac,Artifact,uncommon
-1,Mardu Monument,Artifact,uncommon
-2,Incisor Glider,Artifact Creature — Phyrexian Construct,common
+3,Necrogen Spellbomb,Artifact,common
 2,Malamet Scythe,Artifact — Equipment,common
-1,Etched Slith,Artifact Creature — Phyrexian Slith,uncommon
-1,Bronze Cudgels,Artifact — Equipment,uncommon
-1,Churning Reservoir,Artifact,uncommon
-1,Saddle of the Cavalier,Artifact — Equipment,uncommon
-1,Ichorplate Golem,Artifact Creature — Phyrexian Golem,uncommon
-1,Helm of Chatzuk,Artifact,rare
-1,Viridian Claw,Artifact — Equipment,uncommon
-1,Aetherjacket,Artifact Creature — Thopter,common
-1,Sanctuary Wall,Artifact Creature — Wall,uncommon
-1,Cartographer's Companion,Artifact Creature — Gnome,common
-3,Chainflail Centipede,Artifact Creature — Equipment Insect,common
-1,Carrion Cruiser,Artifact — Vehicle,uncommon
-1,Dreadmobile,Artifact — Vehicle,uncommon
-1,Bubble Matrix,Artifact,rare
-1,Midnight Mangler,Artifact — Vehicle,common
-1,Belbe's Armor,Artifact,uncommon
-1,Ninja's Kunai,Artifact — Equipment,common
-1,Burner Rocket,Artifact — Vehicle,common
-1,Ominous Parcel,Artifact,common
-4,Clockwork Beetle,Artifact Creature — Insect,common
-3,Adaptive Gemguard,Artifact Creature — Gnome,common
-2,Orazca Puzzle-Door,Artifact,common
-1,Juggernaut,Artifact Creature — Juggernaut,uncommon
-1,Cloudspire Skycycle,Artifact — Vehicle,uncommon
-1,Shrine of Burning Rage,Artifact,uncommon
-1,Phyrexian Portal,Artifact,rare
-7,Leonin Scimitar,Artifact — Equipment,uncommon
 1,Smelted Chargebug,Artifact Creature — Insect,common
-3,Chrome Prowler,Artifact Creature — Phyrexian Cat,common
-3,Cogwork Wrestler,Artifact Creature — Gnome,common
-1,Misers' Cage,Artifact,rare
-1,Dramatist's Puppet,Artifact Creature — Construct,common
-1,Iron Bully,Artifact Creature — Golem,common
 2,Spotcycle Scouter,Artifact — Vehicle,common
-4,Attack-in-the-Box,Artifact Creature — Toy,uncommon
-6,Galvanic Key,Artifact,common
-1,Shining Armor,Artifact — Equipment,common
-1,Conch Horn,Artifact,rare
-1,Infinite Hourglass,Artifact,rare
-8,Malevolent Chandelier,Artifact Creature — Construct,common
-1,Oildeep Gearhulk,Artifact Creature — Construct,mythic
-1,Quick-Draw Dagger,Artifact — Equipment,common
-1,Ticket Tortoise,Artifact Creature — Turtle,common
-9,Found Footage,Artifact — Clue,common
-4,Conductive Machete,Artifact — Equipment,uncommon
-2,Jayemdae Tome,Artifact,uncommon
+1,Heirloom Mirror // Inherited Fiend,Artifact // Creature — Demon,uncommon
+1,Skyblinder Staff,Artifact — Equipment,common
+1,Memorial Vault,Artifact,rare
+1,Well of Knowledge,Artifact,rare
+3,Gruul Keyrune,Artifact,uncommon
+1,Baton of Morale,Artifact,uncommon
 1,Air Response Unit,Artifact — Vehicle,uncommon
-3,Book of Rass,Artifact,uncommon
-2,Boulderborn Dragon,Artifact Creature — Dragon,common
-2,Obstinate Gargoyle,Artifact Creature — Gargoyle,common
-1,Bottled Cloister,Artifact,rare
-1,Weapon Rack,Artifact,common
-1,The Last Ride,Legendary Artifact — Vehicle,mythic
-4,Neurok Hoversail,Artifact — Equipment,common
-1,Honed Khopesh,Artifact — Equipment,common
-3,Soldevi Digger,Artifact,uncommon
-2,Urabrask's Anointer,Artifact Creature — Phyrexian Wizard,uncommon
-2,Jade Seedstones // Jadeheart Attendant,Artifact // Artifact Creature — Golem,uncommon
-4,Killer's Mask,Artifact — Equipment,uncommon
-4,Baseball Bat,Artifact — Equipment,uncommon
-1,Cryptex,Artifact,rare
-2,Font of Progress,Artifact,uncommon
-1,Sunfire Torch,Artifact — Equipment,common
-1,Sylvok Battle-Chair,Artifact — Equipment,uncommon
-1,Feroz's Ban,Artifact,rare
-4,Grim Bauble,Artifact,common
-1,Cement Shoes,Artifact — Equipment,uncommon
-2,Roterothopter,Artifact Creature — Thopter,common
-1,Luxa River Shrine,Artifact,common
-2,Escaped Experiment,Artifact Creature — Phyrexian Beast,common
-1,Grinning Totem,Artifact,special
-2,Cutthroat Centurion,Artifact Creature — Phyrexian Warrior,common
-1,Snare Thopter,Artifact Creature — Thopter,uncommon
-1,Saiba Trespassers,Artifact Creature — Moonfolk Rogue,common
-1,Soldevi Sentry,Artifact Creature — Soldier,common
-1,Mangara's Tome,Artifact,rare
-6,Bear Trap,Artifact,common
-1,Disruptor Wanderglyph,Artifact Creature — Golem,common
-1,Cursed Rack,Artifact,uncommon
+1,Cartographer's Companion,Artifact Creature — Gnome,common
+2,Eerie Gravestone,Artifact,common
+1,Dreadmobile,Artifact — Vehicle,uncommon
+3,Cogwork Wrestler,Artifact Creature — Gnome,common
+2,Orazca Puzzle-Door,Artifact,common
+2,Synod Sanctum,Artifact,uncommon
+1,Helm of Chatzuk,Artifact,rare
+3,Squee's Toy,Artifact,common
+1,Phyrexian Portal,Artifact,rare
+4,Conductive Machete,Artifact — Equipment,uncommon
+9,Found Footage,Artifact — Clue,common
+2,Incisor Glider,Artifact Creature — Phyrexian Construct,common
+5,Mechanical Mobster,Artifact Creature — Human Robot Villain,common
+1,Juggernaut,Artifact Creature — Juggernaut,uncommon
+4,Attack-in-the-Box,Artifact Creature — Toy,uncommon
+1,Illvoi Light Jammer,Artifact — Equipment,common
+3,Adaptive Gemguard,Artifact Creature — Gnome,common
+3,Demon Wall,Artifact Creature — Demon Wall,uncommon
+1,Bronze Cudgels,Artifact — Equipment,uncommon
+1,Shrapnel Slinger,Artifact Creature — Phyrexian Beast,common
+1,Bubble Matrix,Artifact,rare
+1,Saddle of the Cavalier,Artifact — Equipment,uncommon
+8,Malevolent Chandelier,Artifact Creature — Construct,common
+1,Scrapwork Rager,Artifact Creature — Phyrexian Horror,common
+1,Churning Reservoir,Artifact,uncommon
+1,Ichorplate Golem,Artifact Creature — Phyrexian Golem,uncommon
+1,Viridian Claw,Artifact — Equipment,uncommon
+1,Incubation Sac,Artifact,uncommon
+4,Clockwork Beetle,Artifact Creature — Insect,common
+1,Misers' Cage,Artifact,rare
+1,Edge Rover,Artifact Creature — Robot Scout,uncommon
 1,Dune Drifter,Artifact — Vehicle,uncommon
-4,Serum Tank,Artifact,uncommon
+4,Baseball Bat,Artifact — Equipment,uncommon
+6,Galvanic Key,Artifact,common
+3,Chrome Prowler,Artifact Creature — Phyrexian Cat,common
+3,Chainflail Centipede,Artifact Creature — Equipment Insect,common
+1,Ninja's Kunai,Artifact — Equipment,common
+1,Belbe's Armor,Artifact,uncommon
+1,Ominous Parcel,Artifact,common
+1,Ripclaw Wrangler,Artifact — Vehicle,common
+7,Leonin Scimitar,Artifact — Equipment,uncommon
+1,Iron Bully,Artifact Creature — Golem,common
+1,Shrine of Burning Rage,Artifact,uncommon
+1,Infinite Hourglass,Artifact,rare
+4,Killer's Mask,Artifact — Equipment,uncommon
+1,Dramatist's Puppet,Artifact Creature — Construct,common
+1,Conch Horn,Artifact,rare
+6,Bear Trap,Artifact,common
+1,Shining Armor,Artifact — Equipment,common
+1,Tidehollow Sculler,Artifact Creature — Zombie,uncommon
+1,Haunted Hellride,Artifact — Vehicle,uncommon
+1,Quick-Draw Dagger,Artifact — Equipment,common
+2,Jayemdae Tome,Artifact,uncommon
+1,Temur Monument,Artifact,uncommon
+3,Book of Rass,Artifact,uncommon
+1,Cryptex,Artifact,rare
+2,Jade Seedstones // Jadeheart Attendant,Artifact // Artifact Creature — Golem,uncommon
+1,Bottled Cloister,Artifact,rare
+4,Neurok Hoversail,Artifact — Equipment,common
+1,Sunfire Torch,Artifact — Equipment,common
+1,Camera Launcher,Artifact Creature — Construct,common
+1,Weapon Rack,Artifact,common
+1,Grinning Totem,Artifact,special
+3,Sidequest: Card Collection // Magicked Card,Enchantment // Artifact — Vehicle,uncommon
+1,Sylvok Battle-Chair,Artifact — Equipment,uncommon
+1,Honed Khopesh,Artifact — Equipment,common
+1,Mangara's Tome,Artifact,rare
+2,Urabrask's Anointer,Artifact Creature — Phyrexian Wizard,uncommon
+1,Luxa River Shrine,Artifact,common
+1,Feroz's Ban,Artifact,rare
 1,Kaslem's Stonetree // Kaslem's Strider,Artifact // Artifact Creature — Golem,common
 1,Gravestone Strider,Artifact Creature — Golem,common
-1,Clockwork Servant,Artifact Creature — Gnome,uncommon
+1,Disruptor Wanderglyph,Artifact Creature — Golem,common
 5,Patched Plaything,Artifact Creature — Toy,uncommon
-7,Wizard Replica,Artifact Creature — Wizard,common
-1,Leonin Bola,Artifact — Equipment,common
-1,Marauder's Axe,Artifact — Equipment,common
+1,Cement Shoes,Artifact — Equipment,uncommon
+2,Font of Progress,Artifact,uncommon
 1,Sanitation Automaton,Artifact Creature — Construct,common
-1,Marauding Dreadship,Artifact — Vehicle,common
-1,Mantle of Tides,Artifact — Equipment,common
-1,Eye of Malcator,Artifact,common
-1,Phyrexian Splicer,Artifact,uncommon
-1,Ripclaw Wrangler,Artifact — Vehicle,common
-1,Haunted Hellride,Artifact — Vehicle,uncommon
-2,Myr Prototype,Artifact Creature — Myr,uncommon
+1,Snare Thopter,Artifact Creature — Thopter,uncommon
+3,Soldevi Digger,Artifact,uncommon
+1,Auxiliary Boosters,Artifact — Equipment,common
+1,Soldevi Sentry,Artifact Creature — Soldier,common
+1,Su-Chi,Artifact Creature — Construct,uncommon
+2,Roterothopter,Artifact Creature — Thopter,common
+10,Scorpion Sentinel,Artifact Creature — Robot Scorpion,common
+7,Wizard Replica,Artifact Creature — Wizard,common
+4,The Prima Vista,Legendary Artifact — Vehicle,uncommon
+2,Escaped Experiment,Artifact Creature — Phyrexian Beast,common
 1,Soul Separator,Artifact,uncommon
-1,Serpent Generator,Artifact,rare
+1,Cursed Rack,Artifact,uncommon
+2,Cutthroat Centurion,Artifact Creature — Phyrexian Warrior,common
+1,Mirror Universe,Artifact,rare
+1,Dragonbroods' Relic,Artifact,uncommon
+1,Steel Wrecking Ball,Artifact,common
+1,Saiba Trespassers,Artifact Creature — Moonfolk Rogue,common
+4,Serum Tank,Artifact,uncommon
+4,Magitek Armor,Artifact — Vehicle,uncommon
 1,Polygraph Orb,Artifact,uncommon
+1,Marauding Dreadship,Artifact — Vehicle,common
+1,Clockwork Servant,Artifact Creature — Gnome,uncommon
+2,Rangers' Aetherhive,Artifact — Vehicle,uncommon
+1,Mantle of Tides,Artifact — Equipment,common
+1,Marauder's Axe,Artifact — Equipment,common
+1,Ivory Cup,Artifact,uncommon
+1,Phyrexian Splicer,Artifact,uncommon
+1,Eye of Malcator,Artifact,common
+1,Armored Transport,Artifact Creature — Construct,common
+1,Scrap Compactor,Artifact,common
+1,Colossus of Sardia,Artifact Creature — Golem,rare
+1,Mindstorm Crown,Artifact,uncommon
+2,Myr Prototype,Artifact Creature — Myr,uncommon
+1,Leonin Bola,Artifact — Equipment,common
+1,Lifespark Spellbomb,Artifact,common
+1,Serpent Generator,Artifact,rare
 1,Thought Prison,Artifact,uncommon
 2,Unstoppable Ogre,Artifact Creature — Ogre Warrior,common
-1,Lifespark Spellbomb,Artifact,common
-4,Clockwork Steed,Artifact Creature — Horse,uncommon
-1,Mindstorm Crown,Artifact,uncommon
-1,Armored Transport,Artifact Creature — Construct,common
 2,Triangle of War,Artifact,uncommon
-1,Camera Launcher,Artifact Creature — Construct,common
-2,Rangers' Aetherhive,Artifact — Vehicle,uncommon
-1,Colossus of Sardia,Artifact Creature — Golem,rare
-1,Ivory Cup,Artifact,uncommon
-1,Porcelain Legionnaire,Artifact Creature — Phyrexian Soldier,common
-1,Temur Monument,Artifact,uncommon
-2,Bronze Horse,Artifact Creature — Horse,uncommon
+1,Ashnod's Cylix,Artifact,rare
 1,Granite Witness,Artifact Creature — Gargoyle Detective,common
-3,Mystic Compass,Artifact,uncommon
-1,Sol Grail,Artifact,common
 1,Pierce Strider,Artifact Creature — Phyrexian Construct,common
-2,Scarab of the Unseen,Artifact,uncommon
+4,Clockwork Steed,Artifact Creature — Horse,uncommon
+1,Selfcraft Mechan,Artifact Creature — Robot Artificer,common
+1,Tawnos's Coffin,Artifact,rare
+2,Bronze Horse,Artifact Creature — Horse,uncommon
+1,Mana Matrix,Artifact,rare
+3,Mystic Compass,Artifact,uncommon
+1,Thundering Broodwagon,Artifact — Vehicle,uncommon
+1,Porcelain Legionnaire,Artifact Creature — Phyrexian Soldier,common
 1,Ice Cauldron,Artifact,rare
-2,Clockwork Vorrac,Artifact Creature — Boar Beast,uncommon
+1,Throne of Bone,Artifact,uncommon
+3,Aesthir Glider,Artifact Creature — Bird Construct,common
+1,Sol Grail,Artifact,common
 1,Vulshok Morningstar,Artifact — Equipment,uncommon
-1,Meldweb Strider,Artifact — Vehicle,common
 1,Ebony Horse,Artifact,common
 3,Elf Replica,Artifact Creature — Elf,common
-1,Ashnod's Cylix,Artifact,rare
-1,Throne of Bone,Artifact,uncommon
-1,Dancing Scimitar,Artifact Creature — Spirit,uncommon
-1,Jackhammer,Artifact — Equipment,common
 2,Urza's Engine,Artifact Creature — Juggernaut,uncommon
-4,Vulshok Gauntlets,Artifact — Equipment,common
-1,Mana Prism,Artifact,common
+1,Masticore,Artifact Creature — Masticore,rare
+2,Jackhammer,Artifact — Equipment,common
 2,Pit Trap,Artifact,uncommon
-3,Aladdin's Ring,Artifact,rare
-1,Black Mana Battery,Artifact,rare
-1,Basalt Golem,Artifact Creature — Golem,uncommon
-1,Scrap Compactor,Artifact,common
-1,Wall of Spears,Artifact Creature — Wall,uncommon
-3,Aesthir Glider,Artifact Creature — Bird Construct,common
-1,The Hive,Artifact,rare
+4,Vulshok Gauntlets,Artifact — Equipment,common
+2,Clockwork Vorrac,Artifact Creature — Boar Beast,uncommon
+1,Meldweb Strider,Artifact — Vehicle,common
+1,Dancing Scimitar,Artifact Creature — Spirit,uncommon
+1,Mana Prism,Artifact,common
 6,Battering Ram,Artifact Creature — Construct,common
+1,Illusionary Mask,Artifact,rare
+1,Wall of Spears,Artifact Creature — Wall,uncommon
+3,Aladdin's Ring,Artifact,rare
+2,Scarab of the Unseen,Artifact,uncommon
 2,Soul Net,Artifact,uncommon
-1,Thundering Broodwagon,Artifact — Vehicle,uncommon
+1,Black Mana Battery,Artifact,rare
+1,The Hive,Artifact,rare
 1,Hematite Talisman,Artifact,uncommon
-11,Yotian Soldier,Artifact Creature — Soldier,common
+2,Mogg Cannon,Artifact,uncommon
+1,Basalt Golem,Artifact Creature — Golem,uncommon
 1,Clockwork Gnomes,Artifact Creature — Gnome,uncommon
-2,Dragon Mask,Artifact,uncommon
 1,Peace Strider,Artifact Creature — Construct,common
 1,Onyx Talisman,Artifact,uncommon
-3,Diamond Kaleidoscope,Artifact,rare
-1,Dragonbroods' Relic,Artifact,uncommon
+2,Dragon Mask,Artifact,uncommon
+1,Sword of the Ages,Artifact,rare
+11,Yotian Soldier,Artifact Creature — Soldier,common
 1,Ambulatory Edifice,Artifact Creature — Phyrexian Construct,uncommon
+5,Clockwork Condor,Artifact Creature — Bird,common
+3,Diamond Kaleidoscope,Artifact,rare
 5,Tanglebloom,Artifact,uncommon
-8,Astrolabe,Artifact,common
-8,Granite Shard,Artifact,uncommon
-2,Mogg Cannon,Artifact,uncommon
-1,Mirror Golem,Artifact Creature — Golem,uncommon
-3,Goblin Replica,Artifact Creature — Goblin,common
 1,Horn of Deafening,Artifact,uncommon
 4,Rod of Ruin,Artifact,uncommon
-5,Mourner's Shield,Artifact,uncommon
 2,Excavator,Artifact,uncommon
-1,Tawnos's Wand,Artifact,common
-5,Clockwork Condor,Artifact Creature — Bird,common
+8,Astrolabe,Artifact,common
+5,Mourner's Shield,Artifact,uncommon
+3,Goblin Replica,Artifact Creature — Goblin,common
+8,Granite Shard,Artifact,uncommon
 1,Red Mana Battery,Artifact,rare
 1,Urza's Avenger,Artifact Creature — Shapeshifter,rare
+1,Tawnos's Wand,Artifact,common
+1,Mirror Golem,Artifact Creature — Golem,uncommon
 1,Scrapyard Steelbreaker,Artifact Creature — Human Warrior,common
-1,Green Mana Battery,Artifact,rare
-1,Saheeli's Silverwing,Artifact Creature — Drake,common
-1,Ersatz Gnomes,Artifact Creature — Gnome,uncommon
-2,Magma Mine,Artifact,uncommon
-1,Ring of Gix,Artifact,rare
-1,Gargoyle Sentinel,Artifact Creature — Gargoyle,uncommon
-2,Wooden Sphere,Artifact,uncommon
-2,Iron Star,Artifact,uncommon
 2,Crystal Rod,Artifact,uncommon
-1,Thran Tome,Artifact,rare
-1,Tyrant's Machine,Artifact,common
-1,Telethopter,Artifact Creature — Thopter,common
-3,Mishra's Groundbreaker,Artifact,uncommon
+1,Saheeli's Silverwing,Artifact Creature — Drake,common
+2,Magma Mine,Artifact,uncommon
+2,Iron Star,Artifact,uncommon
+1,Green Mana Battery,Artifact,rare
+1,Gargoyle Sentinel,Artifact Creature — Gargoyle,uncommon
+1,Ersatz Gnomes,Artifact Creature — Gnome,uncommon
+2,Wooden Sphere,Artifact,uncommon
 1,Haunted Guardian,Artifact Creature — Construct,uncommon
-2,Living Armor,Artifact,common
-1,Delif's Cube,Artifact,rare
-1,Implements of Sacrifice,Artifact,rare
-1,Heartwood Shard,Artifact,uncommon
-2,Ventifact Bottle,Artifact,rare
-1,Nacre Talisman,Artifact,uncommon
+1,Tyrant's Machine,Artifact,common
+1,Ring of Gix,Artifact,rare
+1,Thran Tome,Artifact,rare
+9,Magitek Infantry,Artifact Creature — Robot Soldier,common
+1,Telethopter,Artifact Creature — Thopter,common
 1,Lumbering Laundry,Artifact Creature — Golem,uncommon
+1,Implements of Sacrifice,Artifact,rare
+2,Ventifact Bottle,Artifact,rare
+2,Living Armor,Artifact,common
 4,Clay Statue,Artifact Creature — Golem,uncommon
+1,Delif's Cube,Artifact,rare
 2,Clockwork Avian,Artifact Creature — Bird,uncommon
+1,Cyclopean Tomb,Artifact,rare
+1,Heartwood Shard,Artifact,uncommon
+1,Nacre Talisman,Artifact,uncommon
+3,Mishra's Groundbreaker,Artifact,uncommon
 7,Joven's Tools,Artifact,uncommon
-12,Phyrexian War Beast,Artifact Creature — Phyrexian Beast,uncommon
 1,Arcum's Weathervane,Artifact,uncommon
+12,Phyrexian War Beast,Artifact Creature — Phyrexian Beast,uncommon
 3,Coiled Tinviper,Artifact Creature — Snake,common
 3,Needlebug,Artifact Creature — Insect,uncommon
+1,Ring of Ma'rûf,Artifact,rare
 1,Ring of Renewal,Artifact,rare
+5,Amulet of Kroog,Artifact,common
+1,City in a Bottle,Artifact,mythic
+3,Obsianus Golem,Artifact Creature — Golem,common
 2,Clockwork Swarm,Artifact Creature — Insect,common
 1,Xanthic Statue,Artifact,rare
 1,Runed Arch,Artifact,rare
 1,Straw Golem,Artifact Creature — Golem,uncommon
-3,Obsianus Golem,Artifact Creature — Golem,common
-5,Malachite Golem,Artifact Creature — Golem,common
 1,Bone Mask,Artifact,rare
-5,Amulet of Kroog,Artifact,common
-1,Energizer,Artifact Creature — Juggernaut,rare
-2,Celestial Prism,Artifact,uncommon
-4,Whirling Catapult,Artifact,uncommon
 1,Apocalypse Chime,Artifact,rare
+1,Energizer,Artifact Creature — Juggernaut,rare
+4,Whirling Catapult,Artifact,uncommon
+1,Amulet of Unmaking,Artifact,rare
 1,Draconian Cylix,Artifact,rare
+2,War Chariot,Artifact,uncommon
 1,Jade Statue,Artifact,rare
 1,Razor Pendulum,Artifact,rare
+6,Goblin War Wagon,Artifact Creature — Juggernaut,common
+4,Duskworker,Artifact Creature — Construct,uncommon
+5,Malachite Golem,Artifact Creature — Golem,common
+2,Celestial Prism,Artifact,uncommon
+7,Grapeshot Catapult,Artifact Creature — Construct,uncommon
 1,Shield of the Ages,Artifact,uncommon
-1,Amulet of Unmaking,Artifact,rare
+4,Runesword,Artifact,common
+1,Acidic Dagger,Artifact,rare
+2,Patagia Golem,Artifact Creature — Golem,uncommon
 2,Tin-Wing Chimera,Artifact Creature — Chimera,uncommon
 1,Zelyon Sword,Artifact,rare
-6,Goblin War Wagon,Artifact Creature — Juggernaut,common
-2,War Chariot,Artifact,uncommon
-7,Grapeshot Catapult,Artifact Creature — Construct,uncommon
-4,Duskworker,Artifact Creature — Construct,uncommon
-1,Lead-Belly Chimera,Artifact Creature — Chimera,uncommon
-4,Runesword,Artifact,common
-1,Soldevi Golem,Artifact Creature — Golem,uncommon
-4,Brass-Talon Chimera,Artifact Creature — Chimera,uncommon
-2,Patagia Golem,Artifact Creature — Golem,uncommon
-1,Acidic Dagger,Artifact,rare
-1,Iron-Heart Chimera,Artifact Creature — Chimera,uncommon
 7,Rustspore Ram,Artifact Creature — Sheep,uncommon
+1,Lead-Belly Chimera,Artifact Creature — Chimera,uncommon
+4,Brass-Talon Chimera,Artifact Creature — Chimera,uncommon
+1,Iron-Heart Chimera,Artifact Creature — Chimera,uncommon
 1,Ashnod's Battle Gear,Artifact,uncommon
 6,Ebony Rhino,Artifact Creature — Rhino,common
+1,Soldevi Golem,Artifact Creature — Golem,uncommon
 11,Soldevi Steam Beast,Artifact Creature — Beast,common
-5,Pewter Golem,Artifact Creature — Golem,common
-1,Soldevi Simulacrum,Artifact Creature — Soldier,uncommon
-5,Cobalt Golem,Artifact Creature — Golem,common
-1,Floodwater Dam,Artifact,rare
 2,Diabolic Machine,Artifact Creature — Construct,uncommon
-3,Titanium Golem,Artifact Creature — Golem,common
+5,Pewter Golem,Artifact Creature — Golem,common
 1,Balm of Restoration,Artifact,rare
+1,Floodwater Dam,Artifact,rare
+1,Soldevi Simulacrum,Artifact Creature — Soldier,uncommon
 1,Sand Golem,Artifact Creature — Golem,uncommon
 1,Elven Lyre,Artifact,common
-1,Aegis of the Meek,Artifact,rare
-2,Unerring Sling,Artifact,uncommon
+5,Cobalt Golem,Artifact Creature — Golem,common
 2,Matopi Golem,Artifact Creature — Golem,uncommon
-1,Igneous Golem,Artifact Creature — Golem,uncommon
 7,Soldier Replica,Artifact Creature — Soldier,common
-1,Coral Helm,Artifact,uncommon
-1,Spirit Shield,Artifact,rare
-4,Hematite Golem,Artifact Creature — Golem,common
+2,Unerring Sling,Artifact,uncommon
+1,Aegis of the Meek,Artifact,rare
+3,Titanium Golem,Artifact Creature — Golem,common
 2,Goblin Dirigible,Artifact Creature — Construct,uncommon
 5,Nim Replica,Artifact Creature — Zombie,common
+1,Igneous Golem,Artifact Creature — Golem,uncommon
+1,Spirit Shield,Artifact,rare
+1,Coral Helm,Artifact,uncommon
 2,Conservator,Artifact,uncommon
+4,Hematite Golem,Artifact Creature — Golem,common
 1,Cogwork Librarian,Artifact Creature — Construct,common
+2,Lander,Token Artifact — Lander,common
+1,Black Lotus,Artifact,bonus
 2,Phyrexian Wurm,Token Artifact Creature — Phyrexian Wurm,common
 1,Chaos Orb,Artifact,rare
 1,Mox Poison,Artifact,rare
 3,Phyrexian Golem,Token Artifact Creature — Phyrexian Golem,common
 1,Vehicle,Token Artifact — Vehicle,common
+1,Mox Sapphire,Artifact,bonus
 1,Corrupted Key,Artifact — Key,rare
+1,Amulet of Quoz,Artifact,rare
 5,Myr,Token Artifact Creature — Myr,common
 8,Construct,Token Artifact Creature — Construct,common
+3,Robot Warrior,Token Artifact Creature — Robot Warrior,common
 8,Golem,Token Artifact Creature — Golem,common
 2,Gnome,Token Artifact Creature — Gnome,common
+2,Robot,Token Artifact Creature — Robot,common
 2,Phyrexian Myr,Token Artifact Creature — Phyrexian Myr,common
 14,Thopter,Token Artifact Creature — Thopter,common
 1,Mishra's Warform,Token Artifact Creature — Construct,common
@@ -949,14 +1169,22 @@
 1,Gnome Soldier,Token Artifact Creature — Gnome Soldier,common
 4,Powerstone,Token Artifact — Powerstone,common
 6,Ornithopter,Token Artifact Creature — Thopter,common
+1,Golos, Tireless Pilgrim,Legendary Artifact Creature — Scout,rare
+1,Sundering Titan,Artifact Creature — Golem,rare
 1,Time Vault,Artifact,mythic
 10,Incubator // Phyrexian,Token Artifact — Incubator // Token Artifact Creature — Phyrexian,common
+1,Mox Emerald,Artifact,bonus
+1,Munitions,Token Artifact,common
+1,Mox Pearl,Artifact,bonus
 3,Phyrexian Mite,Token Artifact Creature — Phyrexian Mite,common
+2,Drone,Token Artifact Creature — Drone,common
 1,The Hollow Sentinel,Token Legendary Artifact Creature — Phyrexian Golem,common
-3,Food,Token Artifact — Food,common
+6,Food,Token Artifact — Food,common
 1,Vuzzle Spaceship,Artifact Creature — Construct,rare
 11,Clue,Token Artifact — Clue,common
+1,Mox Ruby,Artifact,bonus
 2,Blood,Token Artifact — Blood,common
+1,Mox Jet,Artifact,bonus
 9,Servo,Token Artifact Creature — Servo,common
 3,Map,Token Artifact — Map,common
 1,Sicarian Infiltrator,Token Artifact Creature — Human Soldier,common

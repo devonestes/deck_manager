@@ -29,7 +29,7 @@
 1 Endless One (CMM) 804
 1 Enduring Vitality (PDSK) 176p
 1 Faithful Watchdog (MH3) 185
-8 Forest (J22) 112
+7 Forest (J22) 112
 1 Gala Greeters (SNC) 450
 1 Genesis Hydra (OTC) 193
 1 Goldvein Hydra (OTJ) 167
@@ -54,7 +54,7 @@
 1 Nyxborn Hydra (MH3) 164
 1 Overgrown Farmland (MID) 283
 1 Path to Exile (MOC) 198
-8 Plains (MKM) 277
+9 Plains (MKM) 277
 1 Primordial Hydra (J22) 712
 1 Quilled Greatwurm (FDN) 111
 1 Razorgrass Ambush / Razorgrass Field (MH3) 238

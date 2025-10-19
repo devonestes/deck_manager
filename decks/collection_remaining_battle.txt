@@ -1,13 +1,12 @@
-2,Invasion of Ikoria // Zilortha, Apex of Ikoria,Battle — Siege // Legendary Creature — Dinosaur,rare
+1,Invasion of Ikoria // Zilortha, Apex of Ikoria,Battle — Siege // Legendary Creature — Dinosaur,rare
 1,Invasion of Kaldheim // Pyre of the World Tree,Battle — Siege // Enchantment,rare
-1,Invasion of Tarkir // Defiant Thundermaw,Battle — Siege // Creature — Dragon,mythic
 1,Invasion of New Capenna // Holy Frazzle-Cannon,Battle — Siege // Artifact — Equipment,uncommon
 1,Invasion of New Phyrexia // Teferi Akosa of Zhalfir,Battle — Siege // Legendary Planeswalker — Teferi,mythic
 1,Invasion of Mercadia // Kyren Flamewright,Battle — Siege // Creature — Goblin Spellshaper,uncommon
 1,Invasion of Karsus // Refraction Elemental,Battle — Siege // Creature — Elemental,rare
 1,Invasion of Regatha // Disciples of the Inferno,Battle — Siege // Creature — Human Monk,uncommon
-1,Invasion of Moag // Bloomwielder Dryads,Battle — Siege // Creature — Dryad,uncommon
 1,Invasion of Belenon // Belenon War Anthem,Battle — Siege // Enchantment,uncommon
+1,Invasion of Moag // Bloomwielder Dryads,Battle — Siege // Creature — Dryad,uncommon
 1,Invasion of Ulgrotha // Grandmother Ravi Sengir,Battle — Siege // Legendary Creature — Human Wizard,uncommon
 1,Invasion of Pyrulea // Gargantuan Slabhorn,Battle — Siege // Creature — Beast,uncommon
 1,Invasion of Xerex // Vertex Paladin,Battle — Siege // Creature — Angel Knight,uncommon

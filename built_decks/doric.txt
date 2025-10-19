@@ -1,11 +1,9 @@
-Kodama of the East Tree (PROXY)
 Kogla, the Titan Ape (PROXY)
 Last March of the Ents (PROXY)
 Nissa, Resurgent Animist (PROXY)
 Old Gnawbone (PROXY)
 Selvala, Heart of the Wilds (PROXY)
 The Great Henge (PROXY)
-The Skullspore Nexus (PROXY)
 Casal, Lurkwood Pathfinder // Casal, Pathbreaker Owlbear
 Adventurers' Guildhouse
 Akroma's Memorial
@@ -15,10 +13,11 @@ Ashaya, Soul of the Wild
 Beast Whisperer
 Boseiju, Who Endures
 Bristly Bill, Spine Sower
+Bugenhagen, Wise Elder
 Castle Garenbrig
-Commander's Plate
 Cultivate
 Delighted Halfling
+Eladamri, Korvecdal
 Emerald Medallion
 Forest
 Forest
@@ -53,10 +52,10 @@ Jolrael, Mwonvuli Recluse
 Kolvori, God of Kinship // The Ringhart Crest
 Kona, Rescue Beastie
 Legolas Greenleaf
+Lizard, Connors's Curse
 Maze of Ith
 Mosswort Bridge
 Nature's Lore
-Nissa, Ascended Animist
 Nykthos, Shrine to Nyx
 Ohran Frostfang
 Okina, Temple to the Grandfathers
@@ -71,14 +70,16 @@ Return of the Wildspeaker
 Rhonas's Monument
 Rishkar's Expertise
 Rogue's Passage
+Saryth, the Viper's Fang
 Sazh Katzroy
 Six
 Sol Ring
+Spider-Man, Miles Morales
 Surrak, Elusive Hunter
 Sword of Feast and Famine
-Sylvan Library
 The Ring Goes South
 The Shire
+Throne of Eldraine
 Thrun, Breaker of Silence
 Thrun, the Last Troll
 Tifa Lockhart
@@ -87,7 +88,6 @@ Toski, Bearer of Secrets
 Tribute to the World Tree
 Turntimber Symbiosis // Turntimber, Serpentine Wood
 Unnatural Growth
-Virtue of Strength // Garenbrig Growth
 Vorinclex // The Grand Evolution
 Vorinclex, Monstrous Raider
 War Room
