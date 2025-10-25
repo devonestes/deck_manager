@@ -22,7 +22,6 @@ Talisman of Curiosity (PROXY)
 Temur Ascendancy (PROXY)
 Tribute to the World Tree (PROXY)
 Triumph of the Hordes (PROXY)
-Vorinclex, Monstrous Raider (PROXY)
 Yeva, Nature's Herald (PROXY)
 Abbot of Keral Keep
 Abhorrent Oculus
@@ -422,6 +421,7 @@ Vivien, Champion of the Wilds
 Volcanic Island
 Voldaren Epicure
 Voracious Greatshark
+Vorinclex, Monstrous Raider
 Walking Ballista
 Wandering Mind
 Wasteland
