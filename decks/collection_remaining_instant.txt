@@ -60,14 +60,14 @@
 1,Consider,Instant,common
 1,Mental Misstep,Instant,uncommon
 6,Pyroblast,Instant,uncommon
-3,Bedevil,Instant,rare
 1,Silence,Instant,rare
+3,Bedevil,Instant,rare
 5,Withering Torment,Instant,uncommon
 5,Seething Song,Instant,common
 1,Unbreakable Formation,Instant,rare
 3,Untimely Malfunction,Instant,uncommon
-1,Ephemerate,Instant,common
 1,Dawn's Truce,Instant,rare
+1,Ephemerate,Instant,common
 2,Dispatch,Instant,uncommon
 1,Krosan Grip,Instant,uncommon
 1,Valakut Awakening // Valakut Stoneforge,Instant // Land,rare
@@ -75,13 +75,13 @@
 1,Cabal Ritual,Instant,uncommon
 3,Chord of Calling,Instant,rare
 1,Mindbreak Trap,Instant — Trap,mythic
+2,Snakeskin Veil,Instant,common
 1,Fact or Fiction,Instant,uncommon
 1,Veil of Summer,Instant,uncommon
-2,Snakeskin Veil,Instant,common
 2,Corrupted Conviction,Instant,common
-3,Return to Nature,Instant,common
-2,Noxious Revival,Instant,uncommon
 1,Ghostly Flicker,Instant,common
+2,Noxious Revival,Instant,uncommon
+3,Return to Nature,Instant,common
 2,Dig Through Time,Instant,rare
 1,Muddle the Mixture,Instant,uncommon
 1,Second Harvest,Instant,rare
@@ -90,20 +90,20 @@
 1,Culling the Weak,Instant,common
 2,Abrupt Decay,Instant,rare
 1,Reprieve,Instant,uncommon
-1,Tainted Pact,Instant,rare
 1,Resculpt,Instant,common
+1,Tainted Pact,Instant,rare
 1,Clever Concealment,Instant,rare
 1,Eladamri's Call,Instant,rare
-1,Demonic Consultation,Instant,uncommon
 1,Tyvar's Stand,Instant,uncommon
+1,Demonic Consultation,Instant,uncommon
 9,Murder,Instant,common
 1,Chain of Vapor,Instant,uncommon
 2,Tragic Slip,Instant,common
 1,Void Rend,Instant,rare
 9,High Tide,Instant,uncommon
 1,Brain Freeze,Instant,uncommon
-3,Pull from Tomorrow,Instant,rare
 14,Fog,Instant,common
+3,Pull from Tomorrow,Instant,rare
 3,Snuff Out,Instant,common
 1,Hunter's Insight,Instant,uncommon
 4,Spell Pierce,Instant,uncommon
@@ -113,12 +113,12 @@
 1,Tear Asunder,Instant,uncommon
 4,Dismember,Instant,uncommon
 10,Disenchant,Instant,common
+1,Inkshield,Instant,rare
 1,Force of Vigor,Instant,rare
 1,Ram Through,Instant,common
-1,Inkshield,Instant,rare
 1,Unwind,Instant,common
-3,Return to Dust,Instant,uncommon
 1,Collective Resistance,Instant,uncommon
+3,Return to Dust,Instant,uncommon
 2,Essence Flux,Instant,common
 1,Pyretic Ritual,Instant,common
 1,Plumb the Forbidden,Instant,uncommon
@@ -128,23 +128,23 @@
 1,Delayed Blast Fireball,Instant,rare
 1,Grisly Salvage,Instant,common
 1,Ad Nauseam,Instant,rare
-1,Utter End,Instant,rare
 1,Prismari Command,Instant,rare
 1,Secure the Wastes,Instant,rare
+1,Utter End,Instant,rare
 1,Desperate Ritual,Instant — Arcane,uncommon
 1,Deflecting Palm,Instant,rare
-1,Mystic Confluence,Instant,rare
 3,Three Steps Ahead,Instant,rare
+1,Mystic Confluence,Instant,rare
 3,Experimental Augury,Instant,common
 1,Izzet Charm,Instant,uncommon
 1,Temur Battle Rage,Instant,common
 2,Murderous Rider // Swift End,Creature — Zombie Knight // Instant — Adventure,rare
 1,Flare of Duplication,Instant,rare
-1,Undying Malice,Instant,common
 2,Legolas's Quick Reflexes,Instant,rare
+1,Undying Malice,Instant,common
 1,Arachnogenesis,Instant,rare
-2,Lethal Scheme,Instant,rare
 1,Feign Death,Instant,common
+2,Lethal Scheme,Instant,rare
 4,Get Lost,Instant,rare
 1,Final Fortune,Instant,rare
 1,Legion Leadership // Legion Stronghold,Instant // Land,uncommon
@@ -152,8 +152,8 @@
 1,Golgari Charm,Instant,uncommon
 1,Khalni Ambush // Khalni Territory,Instant // Land,uncommon
 2,Galadriel's Dismissal,Instant,rare
-1,Misdirection,Instant,rare
 1,Flare of Denial,Instant,rare
+1,Misdirection,Instant,rare
 2,Evacuation,Instant,rare
 1,Sublime Epiphany,Instant,rare
 1,Rebuff the Wicked,Instant,uncommon
@@ -163,785 +163,785 @@
 1,Intuition,Instant,rare
 1,Long River's Pull,Instant,uncommon
 1,Shore Up,Instant,common
-1,Eureka Moment,Instant,common
-1,Hero's Downfall,Instant,uncommon
-1,Everybody Lives!,Instant,rare
 1,Null Elemental Blast,Instant,uncommon
+1,Hero's Downfall,Instant,uncommon
+1,Eureka Moment,Instant,common
+1,Everybody Lives!,Instant,rare
 3,Run Away Together,Instant,common
+2,Overprotect,Instant,uncommon
 6,Thirst for Knowledge,Instant,uncommon
 1,Inscription of Abundance,Instant,rare
 1,Crackling Doom,Instant,uncommon
-2,Overprotect,Instant,uncommon
-2,Perplexing Test,Instant,rare
 1,Drown in Dreams,Instant,rare
+2,Perplexing Test,Instant,rare
 2,Warping Wail,Instant,uncommon
 1,Doom Blade,Instant,uncommon
 2,Virtue of Loyalty // Ardenvale Fealty,Enchantment // Instant — Adventure,mythic
-3,Lim-Dûl's Vault,Instant,uncommon
 2,Cancel,Instant,common
+3,Lim-Dûl's Vault,Instant,uncommon
+1,Mana Tithe,Instant,common
 1,Vraska's Fall,Instant,common
 3,Grapple with the Past,Instant,common
-1,Mana Tithe,Instant,common
 4,Naturalize,Instant,common
 1,Final Showdown,Instant,mythic
 2,Displace,Instant,common
-4,Think Twice,Instant,common
 1,Darkness,Instant,special
+4,Think Twice,Instant,common
+1,Parting Gust,Instant,uncommon
 1,Otherworldly Gaze,Instant,common
 1,Sundering Growth,Instant,common
-1,Parting Gust,Instant,uncommon
-1,Not of This World,Kindred Instant — Eldrazi,uncommon
 1,Flicker of Fate,Instant,common
+1,Not of This World,Kindred Instant — Eldrazi,uncommon
 6,Disdainful Stroke,Instant,uncommon
-2,Crib Swap,Kindred Instant — Shapeshifter,common
-1,Soul's Fire,Instant,common
 1,Planar Incision,Instant,common
+1,Soul's Fire,Instant,common
+2,Crib Swap,Kindred Instant — Shapeshifter,common
 1,Surge of Salvation,Instant,uncommon
-6,Impulse,Instant,common
 1,Gut Shot,Instant,common
-1,Quick Study,Instant,common
+6,Impulse,Instant,common
 2,Shock,Instant,common
+1,Quick Study,Instant,common
+2,Refute,Instant,common
 1,Lazotep Plating,Instant,uncommon
 2,Starstorm,Instant,rare
-2,Refute,Instant,common
 1,Twinferno,Instant,uncommon
 1,Force of Despair,Instant,rare
+1,Gifts Ungiven,Instant,rare
 1,Valorous Stance,Instant,uncommon
 1,Prologue to Phyresis,Instant,common
-1,Gifts Ungiven,Instant,rare
 1,Galadhrim Ambush,Instant,rare
 1,Radstorm,Instant,rare
-1,See Double,Instant,rare
 1,Momentary Blink,Instant,common
-3,Bite Down,Instant,common
+1,See Double,Instant,rare
 1,Riot Control,Instant,common
+3,Bite Down,Instant,common
+2,Restoration Magic,Instant,uncommon
 1,Brazen Borrower // Petty Theft,Creature — Faerie Rogue // Instant — Adventure,mythic
 2,Fire Covenant,Instant,uncommon
-2,Restoration Magic,Instant,uncommon
 1,Cackling Counterpart,Instant,uncommon
-1,Kindred Summons,Instant,rare
+1,Lindblum, Industrial Regency // Mage Siege,Land — Town // Instant — Adventure,rare
 1,Commandeer,Instant,rare
 1,Manamorphose,Instant,uncommon
+1,Kindred Summons,Instant,rare
 1,Autumn's Veil,Instant,uncommon
-1,White Sun's Zenith,Instant,rare
-1,Lindblum, Industrial Regency // Mage Siege,Land — Town // Instant — Adventure,rare
-1,Galvanic Iteration,Instant,rare
 1,Consuming Corruption,Instant,uncommon
+1,White Sun's Zenith,Instant,rare
+1,Galvanic Iteration,Instant,rare
 14,Memory Lapse,Instant,common
 3,Shadow Rift,Instant,common
 1,And They Shall Know No Fear,Instant,uncommon
 1,Perch Protection,Instant,rare
-1,Crush Contraband,Instant,uncommon
 1,Elven Ambush,Instant,uncommon
 1,Invigorating Surge,Instant,uncommon
+1,Crush Contraband,Instant,uncommon
 1,Peerless Recycling,Instant,uncommon
 5,Unsummon,Instant,common
 1,Titan's Presence,Instant,uncommon
-1,Virtue of Courage // Embereth Blaze,Enchantment // Instant — Adventure,mythic
-1,Prizefight,Instant,common
 1,Reckoner's Bargain,Instant,common
+1,Prizefight,Instant,common
+1,Virtue of Courage // Embereth Blaze,Enchantment // Instant — Adventure,mythic
 1,Access Denied,Instant,rare
-1,Windgrace's Judgment,Instant,rare
 1,Shelter,Instant,common
-1,Kolaghan's Command,Instant,rare
-2,Songs of the Damned,Instant,uncommon
-4,Summoner's Pact,Instant,rare
 1,Bulk Up,Instant,uncommon
+1,Windgrace's Judgment,Instant,rare
+2,Songs of the Damned,Instant,uncommon
+1,Kolaghan's Command,Instant,rare
+4,Summoner's Pact,Instant,rare
 1,Ghostway,Instant,rare
 1,Comeuppance,Instant,rare
 1,Take the Bait,Instant,rare
 2,Essence Scatter,Instant,uncommon
-2,Gods Willing,Instant,common
 1,Savage Beating,Instant,mythic
-2,Decisive Denial,Instant,uncommon
+2,Gods Willing,Instant,common
 3,Fatal Push,Instant,uncommon
+2,Decisive Denial,Instant,uncommon
 1,Burnt Offering,Instant,common
 1,Settle the Wreckage,Instant,rare
 1,Windswift Slice,Instant,rare
-1,Price of Fame,Instant,uncommon
 2,Siege Smash,Instant,common
 2,Fanatical Offering,Instant,common
+1,Price of Fame,Instant,uncommon
 1,Realms Uncharted,Instant,rare
 2,Vitalize,Instant,common
-1,Illusionist's Gambit,Instant,rare
 2,Whisper of the Dross,Instant,common
+1,Illusionist's Gambit,Instant,rare
 1,Joint Exploration,Instant,uncommon
 15,Giant Growth,Instant,common
 1,Visions of Beyond,Instant,rare
 1,Black Sun's Twilight,Instant,rare
 2,Take Up the Shield,Instant,common
-1,Commune with Lava,Instant,rare
-1,Pile On,Instant,rare
 1,Rain of Filth,Instant,uncommon
-6,Broken Wings,Instant,common
+1,Pile On,Instant,rare
+1,Commune with Lava,Instant,rare
 2,Berserk,Instant,mythic
+6,Broken Wings,Instant,common
+5,Overkill,Instant,uncommon
 2,Lightning Strike,Instant,common
 1,Ruinous Intrusion,Instant,rare
-5,Overkill,Instant,uncommon
-3,Sultai Charm,Instant,uncommon
 1,Cut Down,Instant,uncommon
-1,Spit Flame,Instant,rare
+3,Sultai Charm,Instant,uncommon
 1,Curate,Instant,common
+1,Spit Flame,Instant,rare
 1,Foil,Instant,common
-3,Blazing Crescendo,Instant,common
+11,Laughing Mad,Instant,common
+1,Heritage Reclamation,Instant,common
 1,Voidslime,Instant,rare
 1,Mission Briefing,Instant,rare
-11,Laughing Mad,Instant,common
+3,Blazing Crescendo,Instant,common
 1,Transpose,Instant,rare
+1,Eviscerator's Insight,Instant,common
 1,Submerge,Instant,uncommon
 1,Quandrix Command,Instant,rare
-1,Heritage Reclamation,Instant,common
 1,Condemn,Instant,uncommon
-1,Eviscerator's Insight,Instant,common
 1,Ancient Animus,Instant,common
-1,Disorder in the Court,Instant,rare
 1,Remand,Instant,uncommon
+1,Disorder in the Court,Instant,rare
 1,Brightcap Badger // Fungus Frolic,Creature — Badger Druid // Instant — Adventure,rare
-1,Magmaquake,Instant,rare
 1,Capsize,Instant,uncommon
+1,Magmaquake,Instant,rare
 1,Cosmic Hunger,Instant,common
-1,Biomass Mutation,Instant,rare
-4,Stifle,Instant,rare
 2,Thraben Charm,Instant,common
+4,Stifle,Instant,rare
 1,Cast into the Fire,Instant,common
 1,Sapphire Dragon // Psionic Pulse,Creature — Dragon // Instant — Adventure,uncommon
 1,Ultimate Magic: Holy,Instant,rare
-1,Glimmer of Genius,Instant,uncommon
-1,Into the Roil,Instant,common
+1,Biomass Mutation,Instant,rare
 1,Raise the Alarm,Instant,common
+1,Into the Roil,Instant,common
 1,Shoot the Sheriff,Instant,uncommon
+1,Glimmer of Genius,Instant,uncommon
 3,Offer Immortality,Instant,common
-2,Hypnotic Sprite // Mesmeric Glare,Creature — Faerie // Instant — Adventure,uncommon
 1,Zoyowa's Justice,Instant,uncommon
 6,Unwanted Remake,Instant,uncommon
-2,Bonecrusher Giant // Stomp,Creature — Giant // Instant — Adventure,rare
 1,Might of the Meek,Instant,common
-1,Scour from Existence,Instant,common
 4,Drag to the Roots,Instant,uncommon
+2,Bonecrusher Giant // Stomp,Creature — Giant // Instant — Adventure,rare
+2,Hypnotic Sprite // Mesmeric Glare,Creature — Faerie // Instant — Adventure,uncommon
+1,Scour from Existence,Instant,common
 1,Arcbond,Instant,rare
-1,Ghostfire Slice,Instant,uncommon
 1,Duty Beyond Death,Instant,uncommon
-2,Meeting of Minds,Instant,common
+1,Ghostfire Slice,Instant,uncommon
 7,Syncopate,Instant,common
+2,Meeting of Minds,Instant,common
 1,Fateful Absence,Instant,rare
-1,Into the Story,Instant,uncommon
-5,Pyrokinesis,Instant,rare
-2,Scrollshift,Instant,common
 3,No More Lies,Instant,uncommon
-1,Sword Coast Serpent // Capsizing Wave,Creature — Serpent Dragon // Instant — Adventure,common
+2,Scrollshift,Instant,common
+5,Pyrokinesis,Instant,rare
 1,Pawpatch Formation,Instant,uncommon
+1,Sword Coast Serpent // Capsizing Wave,Creature — Serpent Dragon // Instant — Adventure,common
+1,Into the Story,Instant,uncommon
 3,Withering Boon,Instant,uncommon
 2,Defiant Strike,Instant,common
 2,Deduce,Instant,common
-2,Destroy Evil,Instant,common
 1,Rush of Inspiration // Crackling Falls,Instant // Land,uncommon
+2,Destroy Evil,Instant,common
 1,Sinister Sabotage,Instant,common
-1,Press the Enemy,Instant,rare
 2,Gush,Instant,common
-1,Riveteers Charm,Instant,uncommon
-1,Cache Grab,Instant,common
+1,Press the Enemy,Instant,rare
 1,Defend the Rider,Instant,uncommon
-1,Tempt with Mayhem,Instant,rare
+1,Cache Grab,Instant,common
 1,Essence Capture,Instant,uncommon
+1,Tempt with Mayhem,Instant,rare
+1,Riveteers Charm,Instant,uncommon
 1,Dreadmaw's Ire,Instant,uncommon
+1,Auroral Procession,Instant,uncommon
 1,Paradoxical Outcome,Instant,rare
 1,Disruption Protocol,Instant,common
 1,Mogg Salvage,Instant,uncommon
-1,Auroral Procession,Instant,uncommon
-1,Foulmire Knight // Profane Insight,Creature — Zombie Knight // Instant — Adventure,uncommon
 2,Trash the Town,Instant,uncommon
+1,Foulmire Knight // Profane Insight,Creature — Zombie Knight // Instant — Adventure,uncommon
 1,Lifestream's Blessing,Instant,rare
 2,Titanic Growth,Instant,common
-1,You Are Already Dead,Instant,common
 9,Annul,Instant,uncommon
 4,Fire Magic,Instant,uncommon
-1,Tune the Narrative,Instant,common
+1,You Are Already Dead,Instant,common
 1,Gideon's Sacrifice,Instant,common
-2,Temur Charm,Instant,uncommon
-1,Electrolyze,Instant,uncommon
+1,Tune the Narrative,Instant,common
 6,Don't Make a Sound,Instant,common
-2,Protection Magic,Instant,rare
+1,Electrolyze,Instant,uncommon
 4,Bake into a Pie,Instant,common
-1,Familiar's Ruse,Instant,uncommon
-2,Neutralize,Instant,uncommon
+2,Temur Charm,Instant,uncommon
 1,Unexplained Absence,Instant,rare
+1,Familiar's Ruse,Instant,uncommon
+2,Protection Magic,Instant,rare
+2,Neutralize,Instant,uncommon
 7,Horrid Vigor,Instant,common
-1,Dragon's Fire,Instant,common
 2,Abjure,Instant,common
-1,Cast Down,Instant,uncommon
-1,Rowan's Grim Search,Instant,common
-1,Moment's Peace,Instant,common
-1,Ranger's Guile,Instant,common
-1,Turn Aside,Instant,common
-1,Chemister's Insight,Instant,uncommon
-1,Condescend,Instant,uncommon
-1,Endless Detour,Instant,rare
+1,Dragon's Fire,Instant,common
 11,Magic Damper,Instant,common
-1,Bituminous Blast,Instant,uncommon
+1,Moment's Peace,Instant,common
+1,Cast Down,Instant,uncommon
+1,Turn Aside,Instant,common
+1,Rowan's Grim Search,Instant,common
+1,Ranger's Guile,Instant,common
+1,Condescend,Instant,uncommon
+1,Chemister's Insight,Instant,uncommon
 5,Get Out,Instant,uncommon
 1,Refocus,Instant,common
+1,Bituminous Blast,Instant,uncommon
+1,Endless Detour,Instant,rare
 2,Master's Rebuke,Instant,common
 1,Galvanic Discharge,Instant,common
 1,Breathe Your Last,Instant,common
 1,Armed and Armored,Instant,uncommon
 1,Sudden Substitution,Instant,rare
 1,Picklock Prankster // Free the Fae,Creature — Faerie Rogue // Instant — Adventure,uncommon
-2,Cloud's Limit Break,Instant,rare
-3,Radical Idea,Instant,common
 1,Ionize,Instant,rare
+3,Radical Idea,Instant,common
 1,Boon of Safety,Instant,common
+2,Cloud's Limit Break,Instant,rare
 1,Light of Hope,Instant,common
-1,Intellectual Offering,Instant,rare
 1,Primal Bellow,Instant,uncommon
+1,Intellectual Offering,Instant,rare
 1,Trap the Trespassers,Instant,rare
 1,Release to Memory,Instant,rare
-1,March of Reckless Joy,Instant,rare
 1,Frolicking Familiar // Blow Off Steam,Creature — Otter Wizard // Instant — Adventure,uncommon
-1,Soul Manipulation,Instant,uncommon
+1,March of Reckless Joy,Instant,rare
 1,Confounding Riddle,Instant,uncommon
+1,Soul Manipulation,Instant,uncommon
+11,Prishe's Wanderings,Instant,common
 1,Benefactor's Draught,Instant,rare
 1,Batwing Brume,Instant,uncommon
-2,Volt Charge,Instant,common
 1,Getaway Glamer,Instant,uncommon
+2,Volt Charge,Instant,common
 1,Justiciar's Portal,Instant,common
 11,Emerald Charm,Instant,common
-11,Prishe's Wanderings,Instant,common
-1,Immortal Obligation,Instant,rare
-1,Pledge of Unity,Instant,uncommon
-1,Power Word Kill,Instant,uncommon
-3,Titanic Brawl,Instant,common
 2,Goblin Surprise,Instant,common
+1,Pledge of Unity,Instant,uncommon
+1,Immortal Obligation,Instant,rare
+3,Titanic Brawl,Instant,common
+1,Power Word Kill,Instant,uncommon
 1,Unseal the Necropolis,Instant,common
 1,Fork,Instant,rare
-1,Leadership Vacuum,Instant,uncommon
 1,Slice from the Shadows,Instant,common
-1,Sprout Swarm,Instant,common
+1,Leadership Vacuum,Instant,uncommon
 4,Tifa's Limit Break,Instant,uncommon
-1,Dread Linnorm // Scale Deflection,Creature — Snake Dragon // Instant — Adventure,common
+1,Sprout Swarm,Instant,common
 1,Hatred,Instant,rare
+1,Dread Linnorm // Scale Deflection,Creature — Snake Dragon // Instant — Adventure,common
 1,Unbounded Potential,Instant,common
 1,Forbid,Instant,rare
 2,Horned Loch-Whale // Lagoon Breach,Creature — Whale // Instant — Adventure,rare
 2,Twitch,Instant,common
 1,Winds of Rebuke,Instant,common
-1,Sail into the West,Instant,rare
-3,Twiddle,Instant,common
-1,March of Wretched Sorrow,Instant,rare
-1,Signature Slam,Instant,uncommon
-1,Raze the Effigy,Instant,common
 9,Haste Magic,Instant,common
+3,Twiddle,Instant,common
+1,Signature Slam,Instant,uncommon
+1,March of Wretched Sorrow,Instant,rare
+1,Sail into the West,Instant,rare
+1,Raze the Effigy,Instant,common
 1,Another Chance,Instant,common
 14,Terror,Instant,common
-1,Discovery // Dispersal,Sorcery // Instant,uncommon
-1,Stern Scolding,Instant,uncommon
 4,Consign to Memory,Instant,uncommon
 5,Make Your Move,Instant,common
+1,Discovery // Dispersal,Sorcery // Instant,uncommon
+1,Stern Scolding,Instant,uncommon
 2,Might of the Masses,Instant,common
 1,Forsake the Worldly,Instant,common
 1,Summary Dismissal,Instant,uncommon
-2,Burst Lightning,Instant,common
 1,Tangle,Instant,common
+2,Burst Lightning,Instant,common
 1,Tithe,Instant,rare
-1,Confirm Suspicions,Instant,rare
 1,Bladebrand,Instant,common
 1,Rabid Gnaw,Instant,uncommon
+1,Confirm Suspicions,Instant,rare
 2,Turn to Frog,Instant,uncommon
 1,Exclude,Instant,common
 1,Angelic Intervention,Instant,common
 1,Echoing Truth,Instant,common
-2,Stoke the Flames,Instant,uncommon
-4,Spell Snare,Instant,uncommon
-1,Lost to Legend,Instant,uncommon
 1,Louisoix's Sacrifice,Instant,rare
+2,Stoke the Flames,Instant,uncommon
 1,Necrologia,Instant,rare
 2,Perilous Research,Instant,common
-1,Rowdy Research,Instant,uncommon
+4,Spell Snare,Instant,uncommon
 1,Mirrodin Avenged,Instant,common
 2,Charge of the Mites,Instant,common
-1,Demon Bolt,Instant,common
 4,Respite,Instant,common
+1,Demon Bolt,Instant,common
+1,Lost to Legend,Instant,uncommon
+1,Rowdy Research,Instant,uncommon
+9,Fight On!,Instant,common
 2,Stun,Instant,common
+2,Otherworldly Journey,Instant — Arcane,common
 1,Occult Epiphany,Instant,rare
 1,Fiery Cannonade,Instant,common
-2,Otherworldly Journey,Instant — Arcane,common
 1,Raking Claws,Instant,common
 1,Vampires' Vengeance,Instant,uncommon
-9,Fight On!,Instant,common
 1,Ethereal Haze,Instant — Arcane,common
 1,Counterpoint,Instant,rare
-1,Yuna's Whistle,Instant,rare
 1,Reality Heist,Instant,uncommon
 5,Dream's Grip,Instant,common
 3,Fleeting Distraction,Instant,common
+7,Thunder Magic,Instant,common
 1,Lookout's Dispersal,Instant,uncommon
 3,Fleeting Flight,Instant,common
-7,Thunder Magic,Instant,common
 2,Unfathomable Truths,Instant,common
-1,Learn from the Past,Instant,uncommon
+1,Yuna's Whistle,Instant,rare
 4,Ephara's Dispersal,Instant,common
-1,Bring the Ending,Instant,common
 1,Battle-Rage Blessing,Instant,common
+1,Bring the Ending,Instant,common
+1,Learn from the Past,Instant,uncommon
+11,Sephiroth's Intervention,Instant,common
+3,Unauthorized Exit,Instant,common
 2,Shallow Grave,Instant,rare
 1,Lose Focus,Instant,common
-3,Unauthorized Exit,Instant,common
+3,Opera Love Song,Instant,uncommon
 1,Pegasus Guardian // Rescue the Foal,Creature — Pegasus // Instant — Adventure,common
-11,Sephiroth's Intervention,Instant,common
+1,Skullcrack,Instant,uncommon
 1,Fall of the Hammer,Instant,common
 2,Hurkyl's Recall,Instant,rare
-1,Skullcrack,Instant,uncommon
-1,Brute Strength,Instant,common
 13,Boomerang,Instant,common
-1,Pulse of Murasa,Instant,uncommon
-6,Glimmerburst,Instant,common
-3,Opera Love Song,Instant,uncommon
+1,Brute Strength,Instant,common
 1,Gold Rush,Instant,uncommon
+6,Glimmerburst,Instant,common
 1,Tyrant's Scorn,Instant,uncommon
+1,Pulse of Murasa,Instant,uncommon
 1,Long Goodbye,Instant,uncommon
 1,Psychic Spiral,Instant,uncommon
 1,Treacherous Greed,Instant,rare
 1,Succumb to Temptation,Instant,common
-1,Infuse with Vitality,Instant,common
 7,Twist Reality,Instant,common
+1,Infuse with Vitality,Instant,common
 2,Luminous Rebuke,Instant,common
-1,Hildibrand Manderville // Gentleman's Rise,Legendary Creature — Human Detective // Instant — Adventure,rare
-3,Ephemeral Shields,Instant,common
 1,Death Denied,Instant — Arcane,common
-1,Miscalculation,Instant,common
-1,Young Red Dragon // Bathe in Gold,Creature — Dragon // Instant — Adventure,common
-2,Hieroglyphic Illumination,Instant,common
+3,Ephemeral Shields,Instant,common
 9,Vincent's Limit Break,Instant,common
-2,Rebel Salvo,Instant,uncommon
+1,Young Red Dragon // Bathe in Gold,Creature — Dragon // Instant — Adventure,common
+1,Miscalculation,Instant,common
+2,Hieroglyphic Illumination,Instant,common
 12,Blue Elemental Blast,Instant,uncommon
+2,Rebel Salvo,Instant,uncommon
 4,This Town Ain't Big Enough,Instant,uncommon
-1,Rebuild,Instant,uncommon
+1,Hildibrand Manderville // Gentleman's Rise,Legendary Creature — Human Detective // Instant — Adventure,rare
 1,Ride Down,Instant,uncommon
-1,Disrupt,Instant,uncommon
+1,Rebuild,Instant,uncommon
 5,Break Down the Door,Instant,uncommon
+1,Disrupt,Instant,uncommon
 2,Anoint with Affliction,Instant,common
 1,Bioshift,Instant,common
-1,Suffer the Past,Instant,uncommon
 1,Family Reunion,Instant,common
 1,Sheltering Word,Instant,common
-1,Downhill Charge,Instant,common
+16,Power Sink,Instant,uncommon
 1,Dismiss,Instant,uncommon
 1,Gnawing Crescendo,Instant,common
-16,Power Sink,Instant,uncommon
+1,Downhill Charge,Instant,common
 5,Sure Strike,Instant,common
 9,Wail of the Nim,Instant,common
-1,Turn the Earth,Instant,uncommon
-1,Moment of Truth,Instant,common
+1,Suffer the Past,Instant,uncommon
 3,Convolute,Instant,common
-1,Showstopping Surprise,Instant,rare
-2,Guided Strike,Instant,common
+1,Turn the Earth,Instant,uncommon
 1,Stab,Instant,common
-2,Boon of Boseiju,Instant,uncommon
+1,Moment of Truth,Instant,common
+2,Guided Strike,Instant,common
+1,Showstopping Surprise,Instant,rare
 1,Acrobatic Leap,Instant,common
-1,Grabby Giant // That's Mine,Creature — Giant // Instant — Adventure,common
-1,Light the Way,Instant,common
-1,Goryo's Vengeance,Instant — Arcane,rare
-2,Reckless Spite,Instant,uncommon
 11,Dreams of Laguna,Instant,common
-1,Grab the Reins,Instant,uncommon
+2,Boon of Boseiju,Instant,uncommon
+1,Light the Way,Instant,common
+1,Grabby Giant // That's Mine,Creature — Giant // Instant — Adventure,common
+1,Goryo's Vengeance,Instant — Arcane,rare
 2,Fumble,Instant,uncommon
+1,Grab the Reins,Instant,uncommon
 1,Explosive Derailment,Instant,common
-1,Contagion,Instant,rare
-1,Rush of Vitality,Instant,common
+2,Reckless Spite,Instant,uncommon
 1,Dirgur Island Dragon // Skimming Strike,Creature — Dragon // Instant — Omen,common
+1,Contagion,Instant,rare
 2,Dispelling Exhale,Instant,common
-2,Cut Short,Instant,common
+1,Amazing Acrobatics,Instant,common
+1,Rush of Vitality,Instant,common
+3,Self-Destruct,Instant,uncommon
 3,Out of Air,Instant,common
+1,Faebloom Trick,Instant,uncommon
+1,Divert Disaster,Instant,common
+2,Cut Short,Instant,common
 2,Band Together,Instant,common
 1,Corpse Dance,Instant,rare
-3,Self-Destruct,Instant,uncommon
 1,Fertilid's Favor,Instant,common
-1,Faebloom Trick,Instant,uncommon
 2,Dream Twist,Instant,common
 1,Deadly Plot,Instant,uncommon
 1,Mutant's Prey,Instant,common
-2,Deadly Derision,Instant,common
 4,Hydroblast,Instant,uncommon
-1,Fleeting Reflection,Instant,uncommon
-1,Staggering Size,Instant,common
-1,Divert Disaster,Instant,common
-1,Repeal,Instant,common
 4,Battle Menu,Instant,uncommon
+2,Deadly Derision,Instant,common
+1,Staggering Size,Instant,common
+1,Fleeting Reflection,Instant,uncommon
+1,Repeal,Instant,common
 1,Flip the Switch,Instant,common
 1,Shepherd of the Flock // Usher to Safety,Creature — Human Peasant // Instant — Adventure,uncommon
-1,Blessed Hippogriff // Tyr's Blessing,Creature — Hippogriff // Instant — Adventure,common
 1,Phantom Interference,Instant,common
+1,Blessed Hippogriff // Tyr's Blessing,Creature — Hippogriff // Instant — Adventure,common
 1,Unexpectedly Absent,Instant,rare
 1,Chandra's Pyrohelix,Instant,common
-1,Amazing Acrobatics,Instant,common
 1,Maximum Overdrive,Instant,common
-2,Delirium,Instant,uncommon
 1,Peer Past the Veil,Instant,rare
 3,Live or Die,Instant,uncommon
-1,Colossal Growth,Instant,common
-1,Quench,Instant,common
-1,Abolish,Instant,uncommon
-9,Scorching Dragonfire,Instant,common
-1,Sudden Spinnerets,Instant,common
+2,Delirium,Instant,uncommon
 4,Swallowed by Leviathan,Instant,uncommon
+1,Quench,Instant,common
+9,Scorching Dragonfire,Instant,common
+1,Colossal Growth,Instant,common
+1,Abolish,Instant,uncommon
 8,Turn Inside Out,Instant,common
-1,Bone Harvest,Instant,common
-10,Seized from Slumber,Instant,common
-1,Rebellious Strike,Instant,common
-3,Burnout,Instant,uncommon
+1,Sudden Spinnerets,Instant,common
 10,Ice Magic,Instant,common
-1,Prismatic Strands,Instant,common
+1,Rebellious Strike,Instant,common
+10,Seized from Slumber,Instant,common
+1,Bone Harvest,Instant,common
 1,Claws Out,Instant,uncommon
+3,Burnout,Instant,uncommon
+1,Prismatic Strands,Instant,common
 1,High Stride,Instant,common
-1,Wing It,Instant,common
-1,Once and Future,Instant,uncommon
 1,Broadside Barrage,Instant,uncommon
+1,Wing It,Instant,common
 1,Goblin Wizardry,Instant,common
+1,Once and Future,Instant,uncommon
 3,Assert Authority,Instant,uncommon
 1,Firestorm,Instant,rare
 1,Metamorphic Blast,Instant,uncommon
-1,Violent Outburst,Instant,common
 1,Out Cold,Instant,common
+1,Violent Outburst,Instant,common
 1,Haze of Pollen,Instant,common
 1,Erase,Instant,common
 1,Reality Ripple,Instant,common
 2,Volcanic Geyser,Instant,uncommon
 2,Duel for Dominance,Instant,common
-1,Make Disappear,Instant,common
-1,Change the Equation,Instant,uncommon
-1,Witchstalker Frenzy,Instant,uncommon
 1,Pyretic Rebirth,Instant,uncommon
-1,Rakshasa's Bargain,Instant,uncommon
+1,Make Disappear,Instant,common
 1,Coordinated Maneuver,Instant,common
+1,Change the Equation,Instant,uncommon
+1,Rakshasa's Bargain,Instant,uncommon
+1,Witchstalker Frenzy,Instant,uncommon
 1,Rabbit Response,Instant,common
+1,Arcane Epiphany,Instant,uncommon
 1,Spark Jolt,Instant,common
 1,Aspirant's Ascent,Instant,common
-1,Arcane Epiphany,Instant,uncommon
-1,Slice in Twain,Instant,uncommon
 1,Force Spike,Instant,common
 3,Vanish into Eternity,Instant,common
+1,Slice in Twain,Instant,uncommon
 1,Not on My Watch,Instant,uncommon
+11,Slash of Light,Instant,common
 1,Ultimate Price,Instant,uncommon
 2,Minor Misstep,Instant,uncommon
 1,Reach Through Mists,Instant — Arcane,common
 5,Incinerate,Instant,common
-11,Slash of Light,Instant,common
 1,Countermand,Instant,common
 1,Whispers of the Muse,Instant,common
 1,Mercy Killing,Instant,uncommon
 14,Shatter,Instant,common
-1,Demon's Due,Instant,common
 1,In the Presence of Ages,Instant,common
-1,Ratcatcher Trainee // Pest Problem,Creature — Human Peasant // Instant — Adventure,common
 1,Pause for Reflection,Instant,common
-1,Candy Grapple,Instant,common
-1,Otherworldly Outburst,Instant,common
+1,Demon's Due,Instant,common
+1,Ratcatcher Trainee // Pest Problem,Creature — Human Peasant // Instant — Adventure,common
 2,Hurl into History,Instant,uncommon
+1,Candy Grapple,Instant,common
 1,Reach of Branches,Kindred Instant — Treefolk,uncommon
+1,Otherworldly Outburst,Instant,common
+8,Airship Crash,Instant,common
 2,Enervate,Instant,common
 1,Surgical Extraction,Instant,rare
 2,Debt to the Kami,Instant,common
 8,Remove Soul,Instant,common
-8,Airship Crash,Instant,common
+1,Hypothesizzle,Instant,common
 2,Dangerous Wager,Instant,common
 2,Truce,Instant,rare
-1,Hypothesizzle,Instant,common
 9,Howl from Beyond,Instant,common
-1,Sugar Rush,Instant,common
-1,Predator's Rapport,Instant,common
 1,Assassin's Ink,Instant,uncommon
+1,Predator's Rapport,Instant,common
+1,Sugar Rush,Instant,common
 1,Dig Up the Body,Instant,common
 2,Take Out the Trash,Instant,common
 2,Call to Glory,Instant,common
 1,Fungal Infection,Instant,common
 1,Abeyance,Instant,rare
-2,Just the Wind,Instant,common
-1,Hunting Pack,Instant,uncommon
-1,Moment of Valor,Instant,common
 2,Eject,Instant,uncommon
+2,Just the Wind,Instant,common
 8,Give In to Violence,Instant,common
-1,Ardenvale Tactician // Dizzying Swoop,Creature — Human Knight // Instant — Adventure,common
+1,Moment of Valor,Instant,common
+8,Vayne's Treachery,Instant,common
 1,Commencement of Festivities,Instant,common
 1,Expose the Culprit,Instant,uncommon
-1,You're Confronted by Robbers,Instant,common
+1,Hunting Pack,Instant,uncommon
+1,Ardenvale Tactician // Dizzying Swoop,Creature — Human Knight // Instant — Adventure,common
 1,Chilling Trap,Instant,common
-1,Thrash // Threat,Instant // Sorcery,rare
 2,Depths of Desire,Instant,common
-8,Vayne's Treachery,Instant,common
-2,Soul Read,Instant,common
-1,Peer Through Depths,Instant — Arcane,common
+1,You're Confronted by Robbers,Instant,common
 1,Reset,Instant,rare
+2,Soul Read,Instant,common
 1,Massive Might,Instant,common
+1,Peer Through Depths,Instant — Arcane,common
 5,Jump Scare,Instant,common
 1,Assimilate Essence,Instant,common
-1,Trumpet Blast,Instant,common
+1,Thrash // Threat,Instant // Sorcery,rare
 1,Caught in the Crossfire,Instant,uncommon
-1,Mercadia's Downfall,Instant,uncommon
+1,Trumpet Blast,Instant,common
 1,Oona's Grace,Instant,common
 1,Ambitious Assault,Instant,common
+1,Mercadia's Downfall,Instant,uncommon
 2,Brackish Blunder,Instant,common
 1,Ettercap // Web Shot,Creature — Spider Beast // Instant — Adventure,common
 1,Slaughter,Instant,uncommon
-2,Quick Draw,Instant,common
 2,Defend the Hearth,Instant,common
+2,Quick Draw,Instant,common
 1,Double Cleave,Instant,common
 2,Sapphire Charm,Instant,common
-9,Divine Offering,Instant,common
 1,Conduct Electricity,Instant,common
+9,Divine Offering,Instant,common
+7,Martyrdom,Instant,common
+10,Blitzball Shot,Instant,common
 1,Punishing Fire,Instant,uncommon
 2,Kill Shot,Instant,common
 3,Burn Bright,Instant,common
+1,Wither and Bloom,Instant,common
+1,Dogpile,Instant,common
 3,Jolt,Instant,common
 1,Miraculous Recovery,Instant,uncommon
-10,Blitzball Shot,Instant,common
-1,Dogpile,Instant,common
-7,Martyrdom,Instant,common
-1,Wither and Bloom,Instant,common
-1,Elspeth's Smite,Instant,uncommon
 1,Mana Short,Instant,rare
+1,Elspeth's Smite,Instant,uncommon
+9,You're Not Alone,Instant,common
 3,Eyes in the Skies,Instant,common
-1,Rimrock Knight // Boulder Rush,Creature — Dwarf Knight // Instant — Adventure,common
-1,Disfigure,Instant,common
 1,Seize Opportunity,Instant,common
+1,Disfigure,Instant,common
+1,Rimrock Knight // Boulder Rush,Creature — Dwarf Knight // Instant — Adventure,common
 1,Reasonable Doubt,Instant,common
 5,Blessed Breath,Instant — Arcane,common
-9,You're Not Alone,Instant,common
 3,Panic,Instant,common
-1,Searing Spear,Instant,common
 1,Piercing Exhale,Instant,common
-4,No Escape,Instant,common
+1,Searing Spear,Instant,common
+1,Grow Extra Arms,Instant,common
 5,Awe Strike,Instant,common
-1,Debt of Loyalty,Instant,rare
 2,Bestow Greatness,Instant,common
+4,No Escape,Instant,common
 1,Fierce Retribution,Instant,common
-1,Mind Bend,Instant,rare
-1,Divide by Zero,Instant,uncommon
-2,Welding Sparks,Instant,common
+1,Debt of Loyalty,Instant,rare
 1,Run Over,Instant,common
+1,Mind Bend,Instant,rare
+2,Welding Sparks,Instant,common
+1,Mental Modulation,Instant,common
+1,Divide by Zero,Instant,uncommon
 2,Energy Arc,Instant,uncommon
 1,Afterlife,Instant,uncommon
-1,Center Soul,Instant,common
 11,Lat-Nam's Legacy,Instant,common
-7,Ray of Command,Instant,common
+1,Center Soul,Instant,common
 1,Mardu Charm,Instant,uncommon
-1,Sulfurous Blast,Instant,common
-1,Mental Modulation,Instant,common
+7,Ray of Command,Instant,common
 1,Huatli's Final Strike,Instant,common
-1,Grow Extra Arms,Instant,common
+1,Sulfurous Blast,Instant,common
 3,Violent Urge,Instant,uncommon
 1,Tragic Lesson,Instant,common
-1,Boiling Blood,Instant,common
-1,Tandem Takedown,Instant,uncommon
 1,Unleash the Inferno,Instant,rare
+1,Tandem Takedown,Instant,uncommon
+1,Boiling Blood,Instant,common
 10,Fireblast,Instant,uncommon
 1,Rampaging Growth,Instant,uncommon
-2,Compleat Devotion,Instant,common
 2,Joust Through,Instant,uncommon
+2,Compleat Devotion,Instant,common
 1,Galvanize,Instant,common
-1,Coming In Hot,Instant,common
 1,Clairvoyance,Instant,common
 1,Flame-Blessed Bolt,Instant,common
-1,Blindblast,Instant,common
+1,Coming In Hot,Instant,common
 1,Improvised Club,Instant,common
-2,Rend Flesh,Instant — Arcane,common
 1,Consuming Ashes,Instant,common
+1,Blindblast,Instant,common
+2,Rend Flesh,Instant — Arcane,common
 1,Uncharted Voyage,Instant,common
 1,Case the Joint,Instant,common
-1,Ornamental Courage,Instant,common
-1,Predator's Howl,Instant,uncommon
-1,Hunger of the Howlpack,Instant,common
-1,Repel the Vile,Instant,common
-8,Winter's Intervention,Instant,common
-3,Funeral Charm,Instant,special
-1,Reject,Instant,common
-1,Explosive Welcome,Instant,uncommon
-1,Fortifying Draught,Instant,uncommon
-1,Outlaws' Fury,Instant,common
-1,Judgment Bolt,Instant,rare
-4,Fists of the Anvil,Instant,common
 1,Double Trouble,Instant,rare
-4,Galuf's Final Act,Instant,uncommon
-1,Ride's End,Instant,common
-1,Infuse,Instant,common
-1,Crypsis,Instant,common
-11,Light of Judgment,Instant,common
-2,Pedal to the Metal,Instant,common
+1,Ornamental Courage,Instant,common
+8,Winter's Intervention,Instant,common
+1,Hunger of the Howlpack,Instant,common
+1,Predator's Howl,Instant,uncommon
+1,Repel the Vile,Instant,common
+1,Reject,Instant,common
+3,Funeral Charm,Instant,special
+1,Explosive Welcome,Instant,uncommon
+1,Judgment Bolt,Instant,rare
 1,Cerebral Download,Instant,uncommon
-1,Sorin's Thirst,Instant,common
-1,For the Family,Instant,common
+4,Galuf's Final Act,Instant,uncommon
+1,Outlaws' Fury,Instant,common
+1,Fortifying Draught,Instant,uncommon
+4,Fists of the Anvil,Instant,common
 12,Fate of the Sun-Cryst,Instant,common
-1,Relic's Roar,Instant,common
+11,Light of Judgment,Instant,common
+1,Ride's End,Instant,common
+2,Pedal to the Metal,Instant,common
+1,Crypsis,Instant,common
+1,Sorin's Thirst,Instant,common
+1,Infuse,Instant,common
+1,For the Family,Instant,common
 1,Spin Out,Instant,common
+1,Relic's Roar,Instant,common
 1,Obyra's Attendants // Desperate Parry,Creature — Faerie Wizard // Instant — Adventure,common
 5,Jinx,Instant,common
-1,Expel,Instant,common
 1,Illumination,Instant,uncommon
 1,Suit Up,Instant,common
 1,Seismic Wave,Instant,uncommon
+1,Expel,Instant,common
 1,Free from Flesh,Instant,common
-2,Torch Breath,Instant,uncommon
-1,Minecart Daredevil // Ride the Rails,Creature — Dwarf Knight // Instant — Adventure,common
 1,Hidetsugu's Second Rite,Instant,uncommon
 2,Kindled Fury,Instant,common
+1,Minecart Daredevil // Ride the Rails,Creature — Dwarf Knight // Instant — Adventure,common
+2,Torch Breath,Instant,uncommon
 1,Disturbed Slumber,Instant,common
 2,Nullify,Instant,common
-6,Weapon Surge,Instant,common
-5,Ebony Charm,Instant,common
-1,Spell Snuff,Instant,common
 1,Angel's Mercy,Instant,common
-1,Sudden Impact,Instant,uncommon
+1,Spell Snuff,Instant,common
+6,Weapon Surge,Instant,common
 1,Caustic Exhale,Instant,common
-2,Voltage Surge,Instant,common
-1,Shadow Prophecy,Instant,common
+5,Ebony Charm,Instant,common
 1,Dragon's Prey,Instant,common
+1,Sudden Impact,Instant,uncommon
+2,Voltage Surge,Instant,common
+2,Scorpion's Sting,Instant,common
+1,Shadow Prophecy,Instant,common
 6,Override,Instant,common
 1,Blood of the Martyr,Instant,uncommon
 4,Simulacrum,Instant,uncommon
 1,Flaring Pain,Instant,common
-1,Reverse Damage,Instant,rare
 2,Cosmium Blast,Instant,common
+1,Reverse Damage,Instant,rare
 3,Betrayer's Bargain,Instant,uncommon
 5,Active Volcano,Instant,uncommon
 1,Martial Glory,Instant,common
 1,Prismatic Boon,Instant,uncommon
 1,Behind the Mask,Instant,common
 9,Predator's Strike,Instant,common
+1,School Daze,Instant,uncommon
 5,Sleight of Mind,Instant,rare
 2,Chain Stasis,Instant,rare
 1,Fell the Pheasant,Instant,common
-1,Traumatic Visions,Instant,common
-2,Scorpion's Sting,Instant,common
-4,Seedling Charm,Instant,common
 2,Skulduggery,Instant,common
+4,Seedling Charm,Instant,common
+1,Traumatic Visions,Instant,common
 2,Exile,Instant,common
 2,Aleatory,Instant,uncommon
-1,Crippling Chill,Instant,common
-1,Brimstone Volley,Instant,uncommon
 8,Mighty Leap,Instant,common
-2,Crowd's Favor,Instant,common
+1,Crippling Chill,Instant,common
 1,Mending Touch,Instant,common
-1,Crash and Burn,Instant,common
+1,Brimstone Volley,Instant,uncommon
+2,Crowd's Favor,Instant,common
 2,Auspicious Arrival,Instant,common
 1,Dissenter's Deliverance,Instant,common
+1,Crash and Burn,Instant,common
 2,Jaya's Greeting,Instant,common
+2,Soulless Revival,Instant — Arcane,common
+4,Stolen Uniform,Instant,uncommon
 1,War Flare,Instant,common
 3,Remedy,Instant,common
-2,Soulless Revival,Instant — Arcane,common
-1,Reflect Damage,Instant,rare
 1,Burning Sun's Fury,Instant,common
-4,Stolen Uniform,Instant,uncommon
-1,School Daze,Instant,uncommon
-1,Word of Command,Instant,rare
+1,Reflect Damage,Instant,rare
 1,Chorus of Might,Instant,common
 3,Undercity's Embrace,Instant,common
+1,Word of Command,Instant,rare
 3,Disembowel,Instant,common
 1,Vanquish the Weak,Instant,common
 1,Grotesque Mutation,Instant,common
 1,Smite,Instant,common
 7,Inspiration,Instant,common
 4,Thunderbolt,Instant,common
-1,You Hear Something on Watch,Instant,common
 3,Quicksand Whirlpool,Instant,common
 1,On the Job,Instant,common
+1,You Hear Something on Watch,Instant,common
 2,Bewildering Blizzard,Instant,uncommon
-1,Gingerbread Hunter // Puny Snack,Creature — Giant // Instant — Adventure,uncommon
-10,Reprisal,Instant,uncommon
 2,Bloodscent,Instant,uncommon
+10,Reprisal,Instant,uncommon
 1,Staggershock,Instant,uncommon
 1,Moment of Defiance,Instant,common
-10,Reinforcements,Instant,common
-1,Flame Discharge,Instant,uncommon
+1,Gingerbread Hunter // Puny Snack,Creature — Giant // Instant — Adventure,uncommon
 1,Aerial Boost,Instant,common
-3,Storm Seeker,Instant,uncommon
 12,Dark Banishing,Instant,common
+1,Flame Discharge,Instant,uncommon
+10,Reinforcements,Instant,common
+3,Storm Seeker,Instant,uncommon
 1,Topple the Statue,Instant,uncommon
-8,Impossible Inferno,Instant,common
-1,Startling Development,Instant,common
-2,Flashfreeze,Instant,uncommon
 1,Divine Arrow,Instant,common
+1,Startling Development,Instant,common
+8,Impossible Inferno,Instant,common
+2,Flashfreeze,Instant,uncommon
 1,Tragic Fall,Instant,common
-1,Deem Worthy,Instant,uncommon
-1,Deal Gone Bad,Instant,common
-1,Eaten by Spiders,Instant,uncommon
-3,Ray of Erasure,Instant,common
 1,Radiant Strike,Instant,common
-1,Vision Charm,Instant,common
+1,Deem Worthy,Instant,uncommon
+1,Eaten by Spiders,Instant,uncommon
+1,Deal Gone Bad,Instant,common
+3,Ray of Erasure,Instant,common
 1,Warm Welcome,Instant,common
+1,Vision Charm,Instant,common
 1,Charge,Instant,common
 13,Spell Blast,Instant,common
 1,Kellan's Lightblades,Instant,common
 1,Dragonscale Boon,Instant,common
 5,Totally Lost,Instant,common
-4,Siren's Call,Instant,uncommon
 1,Steer Clear,Instant,common
-2,Scatter Arc,Instant,common
 1,Rites of Initiation,Instant,uncommon
-1,Flash of Insight,Instant,uncommon
-1,Roar of the Kha,Instant,uncommon
-3,Flash Flood,Instant,uncommon
-5,Death Ward,Instant,common
-1,Lethal Exploit,Instant,common
+4,Siren's Call,Instant,uncommon
+2,Scatter Arc,Instant,common
 4,Auron's Inspiration,Instant,uncommon
+1,Flash of Insight,Instant,uncommon
+5,Death Ward,Instant,common
+1,Zealous Display,Instant,common
+3,Flash Flood,Instant,uncommon
+1,Lethal Exploit,Instant,common
+1,Roar of the Kha,Instant,uncommon
+1,Gaea's Might,Instant,common
 2,Heal,Instant,common
 3,Chaos Charm,Instant,common
-1,Gaea's Might,Instant,common
-1,Zealous Display,Instant,common
+2,Lightshield Parry,Instant,common
+4,Tempest of Light,Instant,uncommon
+1,Diplomatic Relations,Instant,common
 3,Blood Lust,Instant,common
 1,Tangletrap,Instant,common
-4,Tempest of Light,Instant,uncommon
-2,Lightshield Parry,Instant,common
 1,Meddle,Instant,uncommon
-1,Diplomatic Relations,Instant,common
 3,Savage Surge,Instant,common
-1,Sylvan Might,Instant,common
 1,Rally the Peasants,Instant,uncommon
+1,Sylvan Might,Instant,common
 11,Vanish from Sight,Instant,common
 1,Jace's Scrutiny,Instant,common
+1,Eliminate the Impossible,Instant,uncommon
 1,Telim'Tor's Edict,Instant,rare
 1,Glacial Ray,Instant — Arcane,common
-1,Eliminate the Impossible,Instant,uncommon
-2,Unnatural Speed,Instant — Arcane,common
-4,Battlegrowth,Instant,common
 1,Djeru's Renunciation,Instant,common
 1,Stinging Shot,Instant,common
-1,Flame Javelin,Instant,uncommon
+4,Battlegrowth,Instant,common
+2,Unnatural Speed,Instant — Arcane,common
 1,Trip Up,Instant,common
 2,Crumble,Instant,common
+1,Flame Javelin,Instant,uncommon
 4,Betrayal of Flesh,Instant,uncommon
 1,Eye for an Eye,Instant,rare
-7,Healing Salve,Instant,common
 1,Collective Nightmare,Instant,uncommon
+7,Healing Salve,Instant,common
 3,Leave in the Dust,Instant,common
-1,Enchantment Alteration,Instant,uncommon
 2,Sonic Assault,Instant,common
+1,Enchantment Alteration,Instant,uncommon
 1,Altar's Light,Instant,uncommon
-1,Kaervek's Spite,Instant,rare
 1,Vengeant Earth,Instant,common
-1,Synchronized Eviction,Instant,uncommon
+1,Kaervek's Spite,Instant,rare
 3,Alabaster Potion,Instant,uncommon
 1,Uncanny Speed,Instant,common
 1,Bury in Books,Instant,common
 1,Mindstatic,Instant,common
+1,Synchronized Eviction,Instant,uncommon
 4,Hearth Charm,Instant,common
 1,Lightning Blast,Instant,common
-1,Prismatic Lace,Instant,rare
 3,Elvish Fury,Instant,common
+1,Prismatic Lace,Instant,rare
 2,Take into Custody,Instant,common
-4,Fissure,Instant,common
-1,Weave Fate,Instant,common
 2,Syphon Fuel,Instant,common
 1,Desert's Due,Instant,common
+4,Fissure,Instant,common
+1,Weave Fate,Instant,common
 7,Sandstorm,Instant,common
 1,Formation,Instant,rare
-1,Geist Snatch,Instant,common
 1,Bedeck // Bedazzle,Instant // Instant,rare
+1,Geist Snatch,Instant,common
 1,Grip of the Roil,Instant,uncommon
 1,Branching Bolt,Instant,common
 3,Hexgold Slash,Instant,common
-2,Updraft,Instant,common
-2,River Heralds' Boon,Instant,common
 1,Blastfire Bolt,Instant,common
+2,River Heralds' Boon,Instant,common
+2,Updraft,Instant,common
 1,Razor Barrier,Instant,common
-2,Electrostatic Bolt,Instant,common
 1,Blossoming Wreath,Instant,common
+2,Electrostatic Bolt,Instant,common
 2,Spontaneous Combustion,Instant,uncommon
 1,Sylvan Bounty,Instant,common
 1,Electrify,Instant,common
@@ -949,19 +949,19 @@
 1,Unlucky Drop,Instant,common
 1,Echoing Decay,Instant,common
 1,Choking Vines,Instant,common
-2,Sarkhan's Rage,Instant,common
 3,Arrows of Justice,Instant,uncommon
+2,Sarkhan's Rage,Instant,common
 2,Wild Hunger,Instant,uncommon
-10,Errand of Duty,Instant,uncommon
 1,Blaze of Glory,Instant,uncommon
+10,Errand of Duty,Instant,uncommon
 6,Jump,Instant,common
 1,Meditation Puzzle,Instant,common
 1,Dauntless Unity,Instant,common
-3,Soulshriek,Instant,common
 1,Lash of Malice,Instant,common
+3,Soulshriek,Instant,common
 3,Incite War,Instant,common
-2,Spinning Darkness,Instant,common
 1,Gravebind,Instant,common
+2,Spinning Darkness,Instant,common
 1,Furious Resistance,Instant,common
 1,Glyph of Destruction,Instant,common
 1,Lifecraft Awakening,Instant,uncommon
@@ -969,20 +969,20 @@
 1,Gallantry,Instant,uncommon
 1,Executioner's Swing,Instant,common
 1,Touch of Vitae,Instant,uncommon
-1,Omen of Fire,Instant,rare
 6,Foxfire,Instant,common
-1,Nature's Panoply,Instant,common
+1,Omen of Fire,Instant,rare
 1,Run Aground,Instant,common
 1,Chemister's Trick,Instant,common
+1,Nature's Panoply,Instant,common
 2,Jabari's Influence,Instant,rare
-2,Alarum,Instant,common
 6,Regress,Instant,common
+2,Alarum,Instant,common
 1,Three Wishes,Instant,rare
 5,Blinding Beam,Instant,common
 1,Bewilder,Instant,common
 1,Might Beyond Reason,Instant,common
-1,Pitfall Trap,Instant — Trap,common
 1,Blind Fury,Instant,uncommon
+1,Pitfall Trap,Instant — Trap,common
 1,Hydrosurge,Instant,common
 2,Decision Paralysis,Instant,common
 3,Shield Wall,Instant,common
@@ -992,51 +992,51 @@
 1,Time and Tide,Instant,uncommon
 1,Borrowed Grace,Instant,common
 2,Invulnerability,Instant,uncommon
-5,Disempower,Instant,common
 8,Tranquil Domain,Instant,common
+5,Disempower,Instant,common
 3,Dwarven Catapult,Instant,uncommon
 1,Precise Strike,Instant,common
 1,Punish the Enemy,Instant,common
 2,Vitalizing Cascade,Instant,uncommon
-1,Hope and Glory,Instant,uncommon
 1,Scars of the Veteran,Instant,rare
+1,Hope and Glory,Instant,uncommon
 1,Lightning Blow,Instant,common
+9,Rock Slide,Instant,common
 3,Turn to Dust,Instant,common
 13,Irradiate,Instant,common
-9,Rock Slide,Instant,common
 1,Stir the Pride,Instant,uncommon
 1,Natural Selection,Instant,rare
 6,Hope Charm,Instant,common
 5,Guerrilla Tactics,Instant,uncommon
 2,Feral Instinct,Instant,common
-1,Disarm,Instant,common
 2,Cinder Cloud,Instant,uncommon
+1,Disarm,Instant,common
 7,Ambush,Instant,common
 1,Force Void,Instant,uncommon
-2,Simoon,Instant,uncommon
 3,Ether Well,Instant,uncommon
+2,Simoon,Instant,uncommon
 1,Cunning Wish,Instant,rare
 2,Trailblazer,Instant,rare
 25,Aliban's Tower,Instant,common
 2,Anoint,Instant,common
 1,Barreling Attack,Instant,rare
 1,Lava Storm,Instant,common
-4,Foreshadow,Instant,uncommon
 3,Headstone,Instant,common
+4,Foreshadow,Instant,uncommon
 1,Forge Armor,Instant,uncommon
 1,Bring Low,Instant,common
 4,Dazzling Beauty,Instant,common
 1,Telekinesis,Instant,common
 1,Teleport,Instant,rare
 1,Soul Rend,Instant,uncommon
-20,Shrink,Instant,common
 7,Solfatara,Instant,common
+20,Shrink,Instant,common
 2,Ivory Charm,Instant,common
 1,Chronostutter,Instant,common
 5,Wicked Reward,Instant,common
 2,Broken Visage,Instant,uncommon
-2,Marsh Gas,Instant,common
 3,Yamabushi's Flame,Instant,common
+2,Marsh Gas,Instant,common
 1,Deathlace,Instant,rare
 5,Morale,Instant,common
 1,Pull Under,Instant — Arcane,common
@@ -1046,17 +1046,17 @@
 1,Shadowbane,Instant,uncommon
 2,Soul Nova,Instant,uncommon
 2,Wind Shear,Instant,uncommon
-1,Nocturnal Raid,Instant,uncommon
 5,Transmutation,Instant,common
+1,Nocturnal Raid,Instant,uncommon
 1,Guardian Angel,Instant,common
 1,Divine Retribution,Instant,rare
-4,Tunnel,Instant,uncommon
 2,Battle Frenzy,Instant,common
-2,Yare,Instant,rare
+4,Tunnel,Instant,uncommon
 5,Piety,Instant,common
+2,Yare,Instant,rare
 1,Rally,Instant,common
-2,Suffocation,Instant,uncommon
 2,Fanatical Fever,Instant,uncommon
+2,Suffocation,Instant,uncommon
 3,Kindle,Instant,common
 2,Word of Blasting,Instant,uncommon
 2,Rend Spirit,Instant,common

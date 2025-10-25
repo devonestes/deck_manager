@@ -7,6 +7,7 @@ Cultivator Colossus (PROXY)
 Doppelgang (PROXY)
 Dreamroot Cascade (PROXY)
 Genesis Ultimatum (PROXY)
+Lightning Greaves (PROXY)
 Maelstrom Wanderer (PROXY)
 Miirym, Sentinel Wyrm (PROXY)
 Nissa, Resurgent Animist (PROXY)
@@ -22,7 +23,6 @@ Talisman of Curiosity (PROXY)
 Temur Ascendancy (PROXY)
 Tribute to the World Tree (PROXY)
 Triumph of the Hordes (PROXY)
-Vorinclex, Monstrous Raider (PROXY)
 Yeva, Nature's Herald (PROXY)
 Abbot of Keral Keep
 Abhorrent Oculus
@@ -217,7 +217,6 @@ Laelia, the Blade Reforged
 Lathliss, Dragon Queen
 Lava Spike
 Lightning Bolt
-Lightning Greaves
 Lightning Strike
 Living Twister
 Llanowar Elves
@@ -422,6 +421,7 @@ Vivien, Champion of the Wilds
 Volcanic Island
 Voldaren Epicure
 Voracious Greatshark
+Vorinclex, Monstrous Raider
 Walking Ballista
 Wandering Mind
 Wasteland

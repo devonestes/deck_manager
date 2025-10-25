@@ -47,7 +47,6 @@ Kolvori, God of Kinship // The Ringhart Crest
 Kona, Rescue Beastie
 Last March of the Ents
 Legolas Greenleaf
-Lizard, Connors's Curse
 Maze of Ith
 Mosswort Bridge
 Nature's Lore
@@ -62,6 +61,7 @@ Questing Beast
 Radagast the Brown
 Rampant Growth
 Reki, the History of Kamigawa
+Relic of Legends
 Renata, Called to the Hunt
 Return of the Wildspeaker
 Rhonas's Monument
@@ -74,6 +74,7 @@ Six
 Sol Ring
 Spider-Man, Miles Morales
 Surrak, Elusive Hunter
+Sutina, Speaker of the Tajuru
 Sword of Feast and Famine
 The Great Henge
 The Ring Goes South
@@ -89,7 +90,6 @@ Turntimber Symbiosis // Turntimber, Serpentine Wood
 Tyvar, the Pummeler
 Unnatural Growth
 Vorinclex // The Grand Evolution
-Vorinclex, Monstrous Raider
 War Room
 Wilson, Refined Grizzly
 Witch's Clinic

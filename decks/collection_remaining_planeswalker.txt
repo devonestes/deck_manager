@@ -18,13 +18,13 @@
 2,Liliana of the Veil,Legendary Planeswalker — Liliana,mythic
 1,The Aetherspark,Legendary Artifact Planeswalker — Equipment,mythic
 1,Nissa, Ascended Animist,Legendary Planeswalker — Nissa,mythic
-1,Tamiyo, Field Researcher,Legendary Planeswalker — Tamiyo,mythic
 1,Tevesh Szat, Doom of Fools,Legendary Planeswalker — Szat,mythic
-1,Tezzeret, Betrayer of Flesh,Legendary Planeswalker — Tezzeret,mythic
 2,Ugin, Eye of the Storms,Legendary Planeswalker — Ugin,mythic
+1,Tamiyo, Field Researcher,Legendary Planeswalker — Tamiyo,mythic
+1,Tezzeret, Betrayer of Flesh,Legendary Planeswalker — Tezzeret,mythic
 1,Minsc & Boo, Timeless Heroes,Legendary Planeswalker — Minsc,mythic
-1,Lolth, Spider Queen,Legendary Planeswalker — Lolth,mythic
 1,Tezzeret, Cruel Captain,Legendary Planeswalker — Tezzeret,mythic
+1,Lolth, Spider Queen,Legendary Planeswalker — Lolth,mythic
 1,Garruk, Cursed Huntsman,Legendary Planeswalker — Garruk,mythic
 1,Vivien Reid,Legendary Planeswalker — Vivien,mythic
 1,Sorin, Imperious Bloodlord,Legendary Planeswalker — Sorin,mythic
@@ -42,12 +42,12 @@
 1,Elspeth, Knight-Errant,Legendary Planeswalker — Elspeth,mythic
 1,Sarkhan, Fireblood,Legendary Planeswalker — Sarkhan,mythic
 1,Kaito, Dancing Shadow,Legendary Planeswalker — Kaito,rare
-2,Nissa, Steward of Elements,Legendary Planeswalker — Nissa,mythic
-1,Serra the Benevolent,Legendary Planeswalker — Serra,mythic
 1,Lord Windgrace,Legendary Planeswalker — Windgrace,mythic
+1,Serra the Benevolent,Legendary Planeswalker — Serra,mythic
 1,Quintorius Kand,Legendary Planeswalker — Quintorius,mythic
-1,Jace, Vryn's Prodigy // Jace, Telepath Unbound,Legendary Creature — Human Wizard // Legendary Planeswalker — Jace,mythic
+2,Nissa, Steward of Elements,Legendary Planeswalker — Nissa,mythic
 1,Comet, Stellar Pup,Legendary Planeswalker — Comet,mythic
+1,Jace, Vryn's Prodigy // Jace, Telepath Unbound,Legendary Creature — Human Wizard // Legendary Planeswalker — Jace,mythic
 1,Kasmina, Enigmatic Mentor,Legendary Planeswalker — Kasmina,uncommon
 6,Kaito, Bane of Nightmares,Legendary Planeswalker — Kaito,mythic
 1,Dack Fayden,Legendary Planeswalker — Dack,mythic

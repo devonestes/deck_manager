@@ -25,7 +25,6 @@
 1 Kona, Rescue Beastie (DSK) 358
 1 Last March of the Ents (LTR) 418
 1 Legolas Greenleaf (LTC) 40
-1 Lizard, Connors's Curse (SPM) 106
 1 Maze of Ith (DRK) 117
 1 Mosswort Bridge (LCC) 342
 1 Nature's Lore (DMR) 170
@@ -40,6 +39,7 @@
 1 Radagast the Brown (LTR) 184
 1 Rampant Growth (M12) 190
 1 Reki, the History of Kamigawa (SOK) 142
+1 Relic of Legends (FIC) 354
 1 Renata, Called to the Hunt (THB) 267
 1 Return of the Wildspeaker (ELD) 172
 1 Rhonas's Monument (AKH) 236
@@ -52,6 +52,7 @@
 1 Sol Ring (MOC) 381
 1 Spider-Man, Miles Morales (SPE) 18
 1 Surrak, Elusive Hunter (TDM) 161
+1 Sutina, Speaker of the Tajuru (J25) 56
 1 Sword of Feast and Famine (2XM) 296
 1 The Party Tree (LTC) 348
 1 The Ring Goes South (LTR) 186
@@ -67,7 +68,6 @@
 1 Tyvar, the Pummeler (DSK) 202
 1 Unnatural Growth (PMID) 206p
 1 Vorinclex / The Grand Evolution (MOM) 213
-1 Vorinclex, Monstrous Raider (KHM) 333
 1 War Room (WHO) 330
 1 Wilson, Refined Grizzly (CLB) 411
 1 Witch's Clinic (C21) 407

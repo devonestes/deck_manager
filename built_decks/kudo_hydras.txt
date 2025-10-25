@@ -2,6 +2,7 @@ Kudo, King Among Bears
 Akroma's Will
 Angel of Invention
 Arcane Signet
+Arid Mesa
 Arwen, Weaver of Hope
 Avacyn's Pilgrim
 Banquet Guests
@@ -10,9 +11,7 @@ Benevolent Hydra
 Birds of Paradise
 Boseiju, Who Endures
 Bountiful Promenade
-Branching Evolution
 Branchloft Pathway // Boulderloft Pathway
-Bridgeworks Battle // Tanglespan Bridgeworks
 Brushland
 Canopy Vista
 Cathars' Crusade
@@ -29,6 +28,7 @@ Elesh Norn, Grand Cenobite
 Endless One
 Enduring Vitality
 Faithful Watchdog
+Flooded Strand
 Forest
 Forest
 Forest
@@ -36,7 +36,6 @@ Forest
 Forest
 Forest
 Forest
-Gala Greeters
 Genesis Hydra
 Goldvein Hydra
 Grand Crescendo
@@ -47,16 +46,17 @@ Hushwood Verge
 Innkeeper's Talent
 Inspiring Call
 Jacked Rabbit
-Jiang Yanggu, Wildcrafter
 Kalonian Hydra
 Kami of Whispered Hopes
 Karametra, God of Harvests
 Kodama of the West Tree
-Krosan Verge
 Kutzil, Malamet Exemplar
+Lightning Greaves
 Managorger Hydra
 March of the Multitudes
 Mikaeus, the Lunarch
+Misty Rainforest
+Mithril Coat
 Nyxborn Hydra
 Overgrown Farmland
 Path to Exile
@@ -71,9 +71,8 @@ Plains
 Plains
 Primordial Hydra
 Quilled Greatwurm
-Razorgrass Ambush // Razorgrass Field
 Restless Prairie
-Scattered Groves
+Savannah
 Scavenging Ooze
 Shelinda, Yevon Acolyte
 Sidar Kondo of Jamuraa
@@ -83,9 +82,9 @@ Sovereign Okinec Ahau
 Sphere Grid
 Steelbane Hydra
 Stonecoil Serpent
-Strength of the Harvest // Haven of the Harvest
 Sungrass Prairie
 Sunpetal Grove
+Swiftfoot Boots
 Swords to Plowshares
 Temple Garden
 Tervigon
@@ -96,5 +95,6 @@ Unbreakable Formation
 Vrestin, Menoptra Leader
 Warden of the Grove
 White Sun's Twilight
+Windswept Heath
 Witch Enchanter // Witch-Blessed Meadow
-Worldsoul Colossus
+Wooded Foothills
