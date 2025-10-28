@@ -29,7 +29,6 @@
 1 Etali, Primal Conqueror / Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
 1 Evercoat Ursine (BLC) 30
-1 Farseek (RVR) 138
 1 Fire-Lit Thicket (SHM) 271
 1 Flare of Cultivation (MH3) 154
 5 Forest (J22) 110
@@ -79,6 +78,7 @@
 1 Takenuma, Abandoned Mire (NEO) 416
 1 The Party Tree (LTC) 348
 1 The Skullspore Nexus (LCI) 212
+1 The Soul Stone (SPM) 66
 1 Toxic Deluge (C13) 96
 1 Twilight Mire (NCC) 443
 1 Up the Beanstalk (WOE) 195

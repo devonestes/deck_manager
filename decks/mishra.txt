@@ -70,7 +70,6 @@
 1 Steam Vents (UNF) 283
 1 Stormcarved Coast (VOW) 284
 1 Swamp (MOM) 279
-1 Swiftfoot Boots (NCC) 382
 1 Talisman of Creativity (MH1) 231
 1 Talisman of Dominance (MRD) 253
 1 Talisman of Indulgence (MRD) 255
@@ -79,6 +78,7 @@
 1 The Master, Multiplied (WHO) 146
 1 The One Ring (LTR) 451
 1 The Reality Chip (NEO) 74
+1 The Soul Stone (SPM) 66
 1 The Stasis Coffin (BRO) 245
 1 Thoughtcast (BRC) 99
 1 Thunderhawk Gunship (40K) 167

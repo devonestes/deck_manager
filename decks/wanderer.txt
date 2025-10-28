@@ -11,7 +11,6 @@
 1 Consecrated Sphinx (MBS) 21
 1 Cultivate (J22) 644
 1 Defense of the Heart (ULG) 100
-1 Delighted Halfling (LTR) 158
 1 Drakuseth, Maw of Flames (CLB) 790
 1 Dreamroot Cascade (VOW) 282
 1 Etali, Primal Conqueror / Etali, Primal Sickness (MOM) 137
@@ -22,6 +21,7 @@
 1 Food Chain (MMQ) 246
 8 Forest (J22) 110
 1 Genesis Ultimatum (IKO) 189
+1 Goreclaw, Terror of Qal Sisma (MUL) 27
 1 Hinterland Harbor (LTC) 317
 1 Hullbreaker Horror (WOC) 95
 1 Ilysian Caryatid (J22) 676

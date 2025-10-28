@@ -14,7 +14,6 @@ Nissa, Resurgent Animist (PROXY)
 Omnath, Locus of Rage (PROXY)
 Oracle of Mul Daya (PROXY)
 Ramunap Excavator (PROXY)
-Renata, Called to the Hunt (PROXY)
 Rockfall Vale (PROXY)
 Sarkhan Unbroken (PROXY)
 Scute Swarm (PROXY)
@@ -92,8 +91,6 @@ Defiler of Vigor
 Delighted Halfling
 Delver of Secrets // Insectile Aberration
 Dig Through Time
-Disciple of Freyalise // Garden of Freyalise
-Doomskar Warrior
 Dragon Turtle
 Dragon's Rage Channeler
 Dragonback Assault
@@ -123,7 +120,6 @@ Fabled Passage
 Faerie Mastermind
 Faithless Looting
 Fanatic of Rhonas
-Fathom Mage
 Field of the Dead
 Fiery Confluence
 Finale of Devastation
@@ -141,7 +137,6 @@ Fraying Sanity
 Frilled Mystic
 Frontier Bivouac
 Fury
-Garruk Wildspeaker
 Garruk's Uprising
 Genemorph Imago
 Generous Ent
@@ -150,6 +145,7 @@ Ghalta, Primal Hunger
 Ghitu Lavarunner
 Ghostfire Slice
 Gitaxian Probe
+Glacier Godmaw
 Gladiolus Amicitia
 Glorybringer
 Goblin Anarchomancer
@@ -242,9 +238,11 @@ Mine Collapse
 Minsc & Boo, Timeless Heroes
 Misty Rainforest
 Monastery Swiftspear
+Mossborn Hydra
 Murkfiend Liege
 Mutagenic Growth
 Myr Battlesphere
+Myr Convert
 Mystic Snake
 Nadu, Winged Wisdom
 Natural Order
@@ -264,6 +262,7 @@ Opt
 Orcish Lumberjack
 Ornithopter of Paradise
 Otawara, Soaring City
+Ouroboroid
 Outland Liberator // Frenzied Trapbreaker
 Ozolith, the Shattered Spire
 Palantír of Orthanc
@@ -291,6 +290,7 @@ Reckless Stormseeker // Storm-Charged Slasher
 Reckoner Bankbuster
 Relic of Sauron
 Repulsive Mutation
+Reservoir Kraken
 Retrofitter Foundry
 Rhythm of the Wild
 River's Rebuke
@@ -311,7 +311,6 @@ Scythecat Cub
 Sensei's Divining Top
 Sentinel of the Nameless City
 Serum Snare
-Shambleshark
 Shantotto, Tactician Magician
 Shard Volley
 Shivan Devastator
@@ -370,6 +369,7 @@ Tekuthal, Inquiry Dominus
 Temur Battlecrier
 Terisian Mindbreaker
 Urza, Lord High Artificer
+Terrapact Intimidator
 Terror of the Peaks
 The Endstone
 The First Tyrannic War

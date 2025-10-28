@@ -29,7 +29,6 @@ Delighted Halfling
 Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
 Evercoat Ursine
-Farseek
 Fire-Lit Thicket
 Flare of Cultivation
 Forest
@@ -86,6 +85,7 @@ Taiga
 Takenuma, Abandoned Mire
 The Great Henge
 The Skullspore Nexus
+The Soul Stone
 Toxic Deluge
 Twilight Mire
 Up the Beanstalk

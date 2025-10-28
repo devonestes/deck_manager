@@ -7,13 +7,14 @@ Bennie Bracks, Zoologist
 Cascade Bluffs
 Clifftop Retreat
 Command Tower
+Dawn's Truce
 Delney, Streetwise Lookout
 Deserted Beach
 Dusk // Dawn
-Elesh Norn, Mother of Machines
 Elspeth, Storm Slayer
 Enduring Courage
 Enduring Innocence
+Exalted Sunborn
 Flare of Fortitude
 Floodfarm Verge
 Glacial Fortress
@@ -62,7 +63,6 @@ Mountain
 Mountain
 Mountain
 Mystic Gate
-Ojer Taq, Deepest Foundation // Temple of Civilization
 Panharmonicon
 Path to Exile
 Pearl Medallion

@@ -7,13 +7,14 @@
 1 Cascade Bluffs (CMM) 990
 1 Clifftop Retreat (LTC) 300
 1 Command Tower (MOC) 396
+1 Dawn's Truce (BLB) 295
 1 Delney, Streetwise Lookout (MKM) 337
 1 Deserted Beach (MID) 281
 1 Dusk / Dawn (PLST) CLB-691
-1 Elesh Norn, Mother of Machines (ONE) 10
 1 Elspeth, Storm Slayer (TDM) 398
 1 Enduring Courage (DSK) 133
 1 Enduring Innocence (DSK) 6
+1 Exalted Sunborn (EOE) 15
 1 Flare of Fortitude (MH3) 391
 1 Floodfarm Verge (DSK) 259
 1 Glacial Fortress (LTC) 315
@@ -27,7 +28,6 @@
 1 Mondrak, Glory Dominus (ONE) 23
 4 Mountain (J22) 107
 1 Mystic Gate (CMM) 1013
-1 Ojer Taq, Deepest Foundation / Temple of Civilization (LCI) 26
 1 Panharmonicon (TSR) 399
 1 Path to Exile (MOC) 198
 1 Pearl Medallion (MH3) 294

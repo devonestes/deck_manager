@@ -11,7 +11,6 @@ Command Tower
 Consecrated Sphinx
 Cultivate
 Defense of the Heart
-Delighted Halfling
 Drakuseth, Maw of Flames
 Dreamroot Cascade
 Etali, Primal Conqueror // Etali, Primal Sickness
@@ -29,6 +28,7 @@ Forest
 Forest
 Forest
 Genesis Ultimatum
+Goreclaw, Terror of Qal Sisma
 Hinterland Harbor
 Hullbreaker Horror
 Ilysian Caryatid

@@ -36,9 +36,9 @@
 1 Halimar Depths (C18) 253
 1 Hedge Maze (MKM) 326
 1 Hydroid Krasis (RNA) 183
+1 Icetill Explorer (EOE) 343
 5 Island (MOM) 278
 1 Jungle Basin (VIS) 164
-1 Kodama of the East Tree (BLC) 227
 1 Koma, Cosmos Serpent (KHM) 221
 1 Koma, World-Eater (FDN) 121
 1 Last March of the Ents (LTR) 418

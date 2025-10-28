@@ -70,7 +70,6 @@ Sol Ring
 Steam Vents
 Stormcarved Coast
 Swamp
-Swiftfoot Boots
 Talisman of Creativity
 Talisman of Dominance
 Talisman of Indulgence
@@ -79,6 +78,7 @@ The Lunar Whale
 The Master, Multiplied
 The One Ring
 The Reality Chip
+The Soul Stone
 The Stasis Coffin
 Thoughtcast
 Thunderhawk Gunship

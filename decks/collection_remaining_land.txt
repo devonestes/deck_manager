@@ -8,15 +8,15 @@
 22,Terramorphic Expanse,Land,common
 3,Bojuka Bog,Land,common
 3,Polluted Delta,Land,rare
-4,Misty Rainforest,Land,rare
-7,Flooded Strand,Land,rare
+3,Misty Rainforest,Land,rare
+6,Flooded Strand,Land,rare
 4,Bloodstained Mire,Land,rare
 3,Verdant Catacombs,Land,rare
-3,Windswept Heath,Land,rare
+2,Windswept Heath,Land,rare
 5,Scalding Tarn,Land,rare
 4,Marsh Flats,Land,rare
-3,Wooded Foothills,Land,rare
-6,Arid Mesa,Land,rare
+2,Wooded Foothills,Land,rare
+5,Arid Mesa,Land,rare
 2,Watery Grave,Land — Island Swamp,rare
 4,Ancient Tomb,Land,rare
 12,Temple of the False God,Land,uncommon
@@ -27,10 +27,10 @@
 4,Hallowed Fountain,Land — Plains Island,rare
 5,Stomping Ground,Land — Mountain Forest,rare
 2,Yavimaya, Cradle of Growth,Legendary Land,rare
-6,Sunken Hollow,Land — Island Swamp,rare
 2,Steam Vents,Land — Island Mountain,rare
-6,Cinder Glade,Land — Mountain Forest,rare
+6,Sunken Hollow,Land — Island Swamp,rare
 1,Blood Crypt,Land — Swamp Mountain,rare
+6,Cinder Glade,Land — Mountain Forest,rare
 5,Sacred Foundry,Land — Mountain Plains,rare
 3,Temple Garden,Land — Forest Plains,rare
 3,Otawara, Soaring City,Legendary Land,rare
@@ -41,8 +41,8 @@
 9,Prairie Stream,Land — Plains Island,rare
 1,City of Brass,Land,rare
 1,Isolated Chapel,Land,rare
-1,Hinterland Harbor,Land,rare
 2,Cavern of Souls,Land,mythic
+1,Hinterland Harbor,Land,rare
 3,Glacial Fortress,Land,rare
 1,Mana Confluence,Land,rare
 3,Urza's Saga,Enchantment Land — Urza's Saga,rare
@@ -51,23 +51,23 @@
 1,Morphic Pool,Land,rare
 1,Rejuvenating Springs,Land,rare
 1,War Room,Land,rare
-1,Rootbound Crag,Land,rare
 4,Training Center,Land,rare
+1,Rootbound Crag,Land,rare
 3,Sunpetal Grove,Land,rare
 2,Luxury Suite,Land,rare
 4,Sea of Clouds,Land,rare
 2,Vault of Champions,Land,rare
 2,Underground River,Land,rare
 3,Spectator Seating,Land,rare
-9,Ash Barrens,Land,common
-1,Sulfurous Springs,Land,rare
 1,Mystic Sanctuary,Land — Island,common
+1,Sulfurous Springs,Land,rare
+9,Ash Barrens,Land,common
 2,Adarkar Wastes,Land,rare
 1,Gemstone Caverns,Legendary Land,mythic
 1,Undergrowth Stadium,Land,rare
 2,Cabal Coffers,Land,mythic
-3,Mosswort Bridge,Land,rare
 1,Prismatic Vista,Land,rare
+3,Mosswort Bridge,Land,rare
 4,Spire Garden,Land,rare
 1,Buried Ruin,Land,uncommon
 3,Bountiful Promenade,Land,rare
@@ -80,238 +80,239 @@
 2,Temple of Epiphany,Land,rare
 4,Temple of Silence,Land,rare
 2,Simic Growth Chamber,Land,uncommon
-1,Brushland,Land,rare
 1,Sink into Stupor // Soporific Springs,Instant // Land,uncommon
+1,Brushland,Land,rare
 4,Choked Estuary,Land,rare
 4,Temple of Triumph,Land,rare
 6,Temple of Mystery,Land,rare
-8,Temple of Enlightenment,Land,rare
 2,Temple of Deceit,Land,rare
-4,Darkwater Catacombs,Land,rare
-4,Jungle Shrine,Land,uncommon
+8,Temple of Enlightenment,Land,rare
 1,Haunted Ridge,Land,rare
 1,Deserted Beach,Land,rare
+4,Jungle Shrine,Land,uncommon
+4,Darkwater Catacombs,Land,rare
 3,Dimir Aqueduct,Land,uncommon
 1,Inventors' Fair,Legendary Land,rare
-2,Foreboding Ruins,Land,rare
 2,Darksteel Citadel,Artifact Land,uncommon
 3,Golgari Rot Farm,Land,uncommon
-5,Fortified Village,Land,rare
+2,Foreboding Ruins,Land,rare
 1,Underground Sea,Land — Island Swamp,rare
 3,Scavenger Grounds,Land — Desert,rare
+5,Fortified Village,Land,rare
 6,Port Town,Land,rare
 4,Temple of Malady,Land,rare
 5,Game Trail,Land,rare
-3,Arcane Sanctum,Land,uncommon
 1,Orzhov Basilica,Land,uncommon
+3,Arcane Sanctum,Land,uncommon
+1,Jetmir's Garden,Land — Mountain Forest Plains,rare
 3,Frostboil Snarl,Land,rare
 3,Crumbling Necropolis,Land,uncommon
-1,Jetmir's Garden,Land — Mountain Forest Plains,rare
 1,Izzet Boilerworks,Land,uncommon
-6,Skycloud Expanse,Land,rare
-3,Flooded Grove,Land,rare
 2,Kessig Wolf Run,Land,rare
+3,Flooded Grove,Land,rare
 6,Furycalm Snarl,Land,rare
 3,Nomad Outpost,Land,uncommon
+6,Skycloud Expanse,Land,rare
 2,Cascade Bluffs,Land,rare
 1,Rugged Prairie,Land,rare
+1,Volcanic Island,Land — Island Mountain,rare
 4,Spire of Industry,Land,rare
 2,Temple of Malice,Land,rare
 4,Mystic Monastery,Land,uncommon
-1,Volcanic Island,Land — Island Mountain,rare
-1,Opulent Palace,Land,uncommon
 3,Gruul Turf,Land,common
 1,Geier Reach Sanitarium,Legendary Land,rare
-1,Frontier Bivouac,Land,uncommon
+1,Opulent Palace,Land,uncommon
 1,Spara's Headquarters,Land — Forest Plains Island,rare
 4,Tundra,Land — Plains Island,rare
+1,Frontier Bivouac,Land,uncommon
 3,Azorius Chancery,Land,uncommon
-5,Seaside Citadel,Land,uncommon
 1,Scrubland,Land — Plains Swamp,rare
-5,Demolition Field,Land,uncommon
+5,Seaside Citadel,Land,uncommon
 2,Boros Garrison,Land,common
+5,Demolition Field,Land,uncommon
 1,Tainted Field,Land,uncommon
-3,Shadowblood Ridge,Land,rare
-5,Sungrass Prairie,Land,rare
-4,Temple of Abandon,Land,rare
 1,Badlands,Land — Swamp Mountain,rare
 2,Raffine's Tower,Land — Plains Island Swamp,rare
-5,Temple of Plenty,Land,rare
+3,Shadowblood Ridge,Land,rare
+4,Temple of Abandon,Land,rare
 1,Hall of Heliod's Generosity,Legendary Land,rare
-4,Shineshadow Snarl,Land,rare
+5,Sungrass Prairie,Land,rare
 1,Rakdos Carnarium,Land,common
-1,Fetid Heath,Land,rare
+5,Temple of Plenty,Land,rare
+4,Shineshadow Snarl,Land,rare
 2,Great Furnace,Artifact Land,common
+1,Fetid Heath,Land,rare
 2,Tainted Wood,Land,uncommon
 1,Indatha Triome,Land — Plains Swamp Forest,rare
 1,Bayou,Land — Swamp Forest,rare
-1,Tainted Isle,Land,uncommon
 1,Taiga,Land — Mountain Forest,rare
+1,Tainted Isle,Land,uncommon
 1,Witch Enchanter // Witch-Blessed Meadow,Creature — Human Warlock // Land,uncommon
 3,Selesnya Sanctuary,Land,common
-1,Vault of the Archangel,Land,rare
 3,Plateau,Land — Mountain Plains,rare
+1,Vault of the Archangel,Land,rare
 1,Gaea's Cradle,Legendary Land,rare
-5,Mossfire Valley,Land,rare
 2,Shifting Woodland,Land,rare
-3,Savannah,Land — Forest Plains,rare
-1,Twilight Mire,Land,rare
+2,Savannah,Land — Forest Plains,rare
 3,Raugrin Triome,Land — Island Mountain Plains,rare
-1,Sandsteppe Citadel,Land,uncommon
+5,Mossfire Valley,Land,rare
 1,Ziatora's Proving Ground,Land — Swamp Mountain Forest,rare
+1,Twilight Mire,Land,rare
+1,Sandsteppe Citadel,Land,uncommon
 1,Tainted Peak,Land,uncommon
-4,Vineglimmer Snarl,Land,rare
 1,Valakut Awakening // Valakut Stoneforge,Instant // Land,rare
 3,Undercity Sewers,Land — Island Swamp,rare
-1,Academy Ruins,Legendary Land,rare
 1,Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun,Legendary Enchantment // Legendary Land,rare
-1,Thespian's Stage,Land,rare
-2,Bonders' Enclave,Land,rare
+1,Academy Ruins,Legendary Land,rare
+4,Vineglimmer Snarl,Land,rare
 2,Arena of Glory,Land,rare
+1,Thespian's Stage,Land,rare
 1,Ancient Den,Artifact Land,common
+2,Bonders' Enclave,Land,rare
 2,Underground Mortuary,Land — Swamp Forest,rare
 1,Emergence Zone,Land,uncommon
 1,Access Tunnel,Land,uncommon
+1,Hedge Maze,Land — Forest Island,rare
 1,Forbidden Orchard,Land,rare
 1,Minamo, School at Water's Edge,Legendary Land,rare
-1,Hedge Maze,Land — Forest Island,rare
 2,Vault of Whispers,Artifact Land,common
 1,Opal Palace,Land,common
 2,Mortuary Mire,Land,common
 2,Castle Ardenvale,Land,rare
 2,Windbrisk Heights,Land,rare
 2,Raucous Theater,Land — Swamp Mountain,rare
-4,Sheltered Thicket,Land — Mountain Forest,rare
 1,Shadowy Backstreet,Land — Plains Swamp,rare
-2,Krosan Verge,Land,uncommon
+4,Sheltered Thicket,Land — Mountain Forest,rare
 1,Castle Locthwain,Land,rare
-1,Disciple of Freyalise // Garden of Freyalise,Creature — Elf Druid // Land,uncommon
+3,Krosan Verge,Land,uncommon
+2,Disciple of Freyalise // Garden of Freyalise,Creature — Elf Druid // Land,uncommon
 3,Sea Gate Restoration // Sea Gate, Reborn,Sorcery // Land,mythic
 2,Savage Lands,Land,uncommon
 3,Scoured Barrens,Land,common
 2,Nesting Grounds,Land,uncommon
 1,Clearwater Pathway // Murkwater Pathway,Land // Land,rare
-2,Oran-Rief, the Vastwood,Land,rare
+1,Ojer Taq, Deepest Foundation // Temple of Civilization,Legendary Creature — God // Land,mythic
 1,Brightclimb Pathway // Grimclimb Pathway,Land // Land,rare
+2,Oran-Rief, the Vastwood,Land,rare
 3,Forgotten Cave,Land,common
-2,Irrigated Farmland,Land — Plains Island,rare
 1,Talon Gates of Madara,Land — Gate,rare
 2,Commercial District,Land — Mountain Forest,rare
-2,Field of Ruin,Land,uncommon
 1,Thundering Falls,Land — Island Mountain,rare
+2,Irrigated Farmland,Land — Plains Island,rare
+2,Field of Ruin,Land,uncommon
 1,Blightstep Pathway // Searstep Pathway,Land // Land,rare
 1,Pinnacle Monk // Mystic Peak,Creature — Djinn Monk // Land,uncommon
-2,Fiery Islet,Land,rare
-9,Jungle Hollow,Land,common
-1,Canyon Slough,Land — Swamp Mountain,rare
 3,Mistrise Village,Land,rare
+9,Jungle Hollow,Land,common
+2,Fiery Islet,Land,rare
+1,Canyon Slough,Land — Swamp Mountain,rare
 1,Riveteers Overlook,Land,common
-1,Fetid Pools,Land — Island Swamp,rare
 3,Dryad Arbor,Land Creature — Forest Dryad,rare
-2,Scattered Groves,Land — Forest Plains,rare
 1,Lush Portico,Land — Forest Plains,rare
+1,Fetid Pools,Land — Island Swamp,rare
+3,Scattered Groves,Land — Forest Plains,rare
 2,Urza's Tower,Land — Urza's Tower,common
-3,Overflowing Basin,Land,rare
 2,Sokenzan, Crucible of Defiance,Legendary Land,rare
 7,Urza's Mine,Land — Urza's Mine,common
-6,Urza's Power Plant,Land — Urza's Power-Plant,common
 3,Meticulous Archive,Land — Plains Island,rare
+6,Urza's Power Plant,Land — Urza's Power-Plant,common
+3,Overflowing Basin,Land,rare
+2,Castle Vantress,Land,rare
 1,Barren Moor,Land,uncommon
 5,Tranquil Thicket,Land,common
-2,Castle Vantress,Land,rare
 1,Cephalid Coliseum,Land,uncommon
 3,Bloodfell Caves,Land,common
-1,Viridescent Bog,Land,rare
-5,Dismal Backwater,Land,common
 1,Tyrite Sanctum,Land,rare
+5,Dismal Backwater,Land,common
+1,Viridescent Bog,Land,rare
 1,Cragcrown Pathway // Timbercrown Pathway,Land // Land,rare
-6,Thornwood Falls,Land,common
 3,Gloomlake Verge,Land,rare
-3,Bridgeworks Battle // Tanglespan Bridgeworks,Sorcery // Land,uncommon
 2,Elegant Parlor,Land — Mountain Plains,rare
+4,Bridgeworks Battle // Tanglespan Bridgeworks,Sorcery // Land,uncommon
+6,Thornwood Falls,Land,common
 1,Castle Embereth,Land,rare
-2,Ferrous Lake,Land,rare
 1,Cabaretti Courtyard,Land,common
 1,Mystic Gate,Land,rare
+2,Ferrous Lake,Land,rare
 2,Waterlogged Grove,Land,rare
 1,Razortide Bridge,Artifact Land,common
 2,Wind-Scarred Crag,Land,common
 5,Swiftwater Cliffs,Land,common
 3,Floodfarm Verge,Land,rare
 2,Sundering Eruption // Volcanic Fissure,Sorcery // Land,uncommon
-8,Tranquil Cove,Land,common
 1,Homeward Path,Land,rare
+8,Tranquil Cove,Land,common
 6,Blossoming Sands,Land,common
 1,Escape Tunnel,Land,common
-1,Sunscorched Divide,Land,rare
-4,Haunted Mire,Land — Swamp Forest,common
 5,Blackcleave Cliffs,Land,rare
+4,Haunted Mire,Land — Swamp Forest,common
 2,Hushwood Verge,Land,rare
+1,Sunscorched Divide,Land,rare
+1,Lotus Field,Land,rare
 1,Silverbluff Bridge,Artifact Land,common
 1,Tangled Islet,Land — Forest Island,common
-1,Lotus Field,Land,rare
 2,Shrine of the Forsaken Gods,Land,rare
-7,Thriving Heath,Land,common
 1,Arcane Lighthouse,Land,uncommon
 1,Emeria, the Sky Ruin,Land,rare
-9,Thriving Isle,Land,common
-2,Slayers' Stronghold,Land,rare
-1,Swarmyard,Land,rare
+7,Thriving Heath,Land,common
 4,Wasteland,Land,rare
-2,Maestros Theater,Land,common
+9,Thriving Isle,Land,common
+1,Swarmyard,Land,rare
+2,Slayers' Stronghold,Land,rare
 1,Concealed Courtyard,Land,rare
+2,Maestros Theater,Land,common
 1,Shatterskull Smashing // Shatterskull, the Hammer Pass,Sorcery // Land,mythic
-2,Desolate Mire,Land,rare
 2,Simic Guildgate,Land — Gate,common
-1,Secluded Steppe,Land,common
 1,Rustvale Bridge,Artifact Land,common
 2,Sunken Ruins,Land,rare
+2,Desolate Mire,Land,rare
 1,Cascading Cataracts,Land,rare
-9,Thriving Bluff,Land,common
+1,Secluded Steppe,Land,common
 1,Rugged Highlands,Land,common
-3,Seachrome Coast,Land,rare
 2,Darkslick Shores,Land,rare
-6,Radiant Grove,Land — Forest Plains,common
+3,Seachrome Coast,Land,rare
+9,Thriving Bluff,Land,common
 5,Golgari Guildgate,Land — Gate,common
-6,Thriving Moor,Land,common
-1,Dakmor Salvage,Land,uncommon
+6,Radiant Grove,Land — Forest Plains,common
 1,Ojer Axonil, Deepest Might // Temple of Power,Legendary Creature — God // Land,mythic
 1,Brass's Tunnel-Grinder // Tecutlan, the Searing Rift,Legendary Artifact // Legendary Land — Cave,rare
+6,Thriving Moor,Land,common
+1,Dakmor Salvage,Land,uncommon
+1,Westvale Abbey // Ormendahl, Profane Prince,Land // Legendary Creature — Demon,rare
+1,Blast Zone,Land,rare
 1,Fire-Lit Thicket,Land,rare
 9,Thriving Grove,Land,common
-1,Blast Zone,Land,rare
-1,Westvale Abbey // Ormendahl, Profane Prince,Land // Legendary Creature — Demon,rare
 1,Kher Keep,Legendary Land,rare
-1,City of Traitors,Land,rare
 2,Copperline Gorge,Land,rare
-5,Wooded Ridgeline,Land — Mountain Forest,common
+1,City of Traitors,Land,rare
 1,Nurturing Peatland,Land,rare
 1,Izzet Guildgate,Land — Gate,common
 2,Sunbaked Canyon,Land,rare
-2,Razorverge Thicket,Land,rare
 1,Stump Stomp // Burnwillow Clearing,Sorcery // Land,uncommon
+2,Razorverge Thicket,Land,rare
+5,Wooded Ridgeline,Land — Mountain Forest,common
 3,Dimir Guildgate,Land — Gate,common
-1,Valakut, the Molten Pinnacle,Land,rare
 1,Legion Leadership // Legion Stronghold,Instant // Land,uncommon
-1,Eldrazi Temple,Land,uncommon
+1,Valakut, the Molten Pinnacle,Land,rare
 2,Bleachbone Verge,Land,rare
+1,Eldrazi Temple,Land,uncommon
 1,Horizon Canopy,Land,rare
 1,Silent Clearing,Land,rare
 2,Sunhome, Fortress of the Legion,Land,uncommon
-8,Sacred Peaks,Land — Mountain Plains,common
+2,Sunbillow Verge,Land,rare
 2,Tomb of the Spirit Dragon,Land,uncommon
 1,Mistvault Bridge,Artifact Land,common
-2,Sunbillow Verge,Land,rare
-1,Khalni Ambush // Khalni Territory,Instant // Land,uncommon
 1,Inspiring Vantage,Land,rare
+1,Khalni Ambush // Khalni Territory,Instant // Land,uncommon
+8,Sacred Peaks,Land — Mountain Plains,common
 1,Blooming Marsh,Land,rare
 3,Riverpyre Verge,Land,rare
-6,Sunlit Marsh,Land — Plains Swamp,common
 3,Tree of Tales,Artifact Land,common
+6,Sunlit Marsh,Land — Plains Swamp,common
 1,Crystal Vein,Land,uncommon
+1,Botanical Sanctum,Land,rare
 1,Horizon of Progress,Land,rare
 1,Monumental Henge,Land,rare
-1,Botanical Sanctum,Land,rare
 1,Spirebluff Canal,Land,rare
 2,Rakdos Guildgate,Land — Gate,common
 1,Gruul Guildgate,Land — Gate,common
@@ -322,35 +323,37 @@
 1,Desolate Lighthouse,Land,rare
 1,Crypt of Agadeem,Land,rare
 4,Twisted Landscape,Land,common
-1,Drownyard Temple,Land,rare
 1,Foreboding Landscape,Land,common
-1,Forge of Heroes,Land,common
-1,Llanowar Reborn,Land,uncommon
+1,Drownyard Temple,Land,rare
 1,Valgavoth's Lair,Enchantment Land,rare
-1,Primal Amulet // Primal Wellspring,Artifact // Land,rare
 2,Willowrush Verge,Land,rare
-5,Contaminated Aquifer,Land — Island Swamp,common
+1,Primal Amulet // Primal Wellspring,Artifact // Land,rare
+1,Llanowar Reborn,Land,uncommon
+1,Forge of Heroes,Land,common
 1,Drossforge Bridge,Artifact Land,common
-1,Arch of Orazca,Land,rare
-3,Rimewood Falls,Snow Land — Forest Island,common
 4,Wastewood Verge,Land,rare
+3,Rimewood Falls,Snow Land — Forest Island,common
+5,Contaminated Aquifer,Land — Island Swamp,common
+1,Arch of Orazca,Land,rare
 1,Sea Gate,Land — Gate,common
 2,Tranquil Landscape,Land,common
-1,Shattered Landscape,Land,common
-5,Geothermal Bog,Land — Swamp Mountain,common
 1,Deserted Temple,Land,rare
-5,Idyllic Beachfront,Land — Plains Island,common
+1,Shattered Landscape,Land,common
 1,Power Depot,Artifact Land,uncommon
 1,Shinka, the Bloodsoaked Keep,Legendary Land,rare
-1,Grim Backwoods,Land,rare
+5,Geothermal Bog,Land — Swamp Mountain,common
 1,Muraganda Raceway,Land,rare
-1,Glacial Chasm,Land,rare
-1,River of Tears,Land,rare
 1,Seething Landscape,Land,common
+1,Glacial Chasm,Land,rare
+1,Grim Backwoods,Land,rare
 1,Voldaren Estate,Land,rare
 1,Conduit Pylons,Land — Desert,common
+5,Idyllic Beachfront,Land — Plains Island,common
+1,River of Tears,Land,rare
 4,Molten Tributary,Land — Island Mountain,common
+1,Razorgrass Ambush // Razorgrass Field,Instant // Land,uncommon
 1,Lair of the Hydra,Land,rare
+1,Strength of the Harvest // Haven of the Harvest,Enchantment — Aura // Land,uncommon
 1,Inkmoth Nexus,Land,rare
 1,Lazotep Quarry,Land — Desert,rare
 4,Woodland Chasm,Snow Land — Swamp Forest,common
@@ -361,71 +364,71 @@
 1,Mirrex,Land — Sphere,rare
 1,Darkmoss Bridge,Artifact Land,common
 1,Basilisk Gate,Land — Gate,common
-2,Deceptive Landscape,Land,common
 1,Contaminated Landscape,Land,common
 2,Sheltering Landscape,Land,common
 1,Aclazotz, Deepest Betrayal // Temple of the Dead,Legendary Creature — Bat God // Land,mythic
+2,Deceptive Landscape,Land,common
 1,Zhalfirin Void,Land,uncommon
 4,Highland Forest,Snow Land — Mountain Forest,common
 1,Creeping Tar Pit,Land,rare
 1,Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time,Legendary Creature — God // Land,mythic
 4,Mishra's Factory,Land,uncommon
 1,Restless Cottage,Land,rare
-1,Scene of the Crime,Artifact Land — Clue,uncommon
 2,Ishgard, the Holy See // Faith & Grief,Land — Town // Sorcery — Adventure,rare
-1,Hidden Nursery,Land — Cave,common
-1,Mirrorpool,Land,mythic
-1,Abraded Bluffs,Land — Desert,common
+1,Scene of the Crime,Artifact Land — Clue,uncommon
 1,Volrath's Stronghold,Legendary Land,mythic
+1,Abraded Bluffs,Land — Desert,common
+1,Hidden Nursery,Land — Cave,common
 1,Boseiju, Who Shelters All,Legendary Land,rare
-1,Nephalia Drownyard,Land,rare
+1,Mirrorpool,Land,mythic
 1,Hall of the Bandit Lord,Legendary Land,rare
+1,Nephalia Drownyard,Land,rare
 1,Hidden Grotto,Land,common
-1,Desert of the Indomitable,Land — Desert,common
 1,Lindblum, Industrial Regency // Mage Siege,Land — Town // Instant — Adventure,rare
 1,Emeria's Call // Emeria, Shattered Skyclave,Sorcery // Land,mythic
+1,Desert of the Indomitable,Land — Desert,common
 1,Flagstones of Trokair,Legendary Land,rare
 2,Raging Ravine,Land,rare
-1,Tanglepool Bridge,Artifact Land,common
-1,Tarnished Citadel,Land,rare
 2,Uncharted Haven,Land,common
+1,Tanglepool Bridge,Artifact Land,common
 1,Serra's Sanctum,Legendary Land,rare
+1,Tarnished Citadel,Land,rare
 4,Arctic Treeline,Snow Land — Forest Plains,common
-1,Aether Hub,Land,uncommon
 1,Mech Hangar,Land,uncommon
 1,Den of the Bugbear,Land,rare
-2,Port of Karfell,Land,uncommon
-2,Desert of the Mindful,Land — Desert,common
+1,Aether Hub,Land,uncommon
+1,Evendo, Waking Haven,Land — Planet,mythic
 4,Snowfield Sinkhole,Snow Land — Plains Swamp,common
 1,Hidden Volcano,Land — Cave,common
-5,Mountain Valley,Land,uncommon
-1,Evendo, Waking Haven,Land — Planet,mythic
+2,Port of Karfell,Land,uncommon
 2,Bristling Backwoods,Land — Desert,common
+1,Mistveil Plains,Land — Plains,uncommon
+2,Desert of the Mindful,Land — Desert,common
 1,Ramunap Ruins,Land — Desert,uncommon
 1,Gemstone Mine,Land,rare
-1,Mistveil Plains,Land — Plains,uncommon
 1,Slagwoods Bridge,Artifact Land,common
-1,Rocky Tar Pit,Land,uncommon
 4,Glacial Floodplain,Snow Land — Plains Island,common
+5,Mountain Valley,Land,uncommon
 1,Amonkhet Raceway,Land,uncommon
 8,Adventurer's Inn,Land — Town,common
+1,Rocky Tar Pit,Land,uncommon
 1,Animal Sanctuary,Land,rare
 4,Ice Tunnel,Snow Land — Island Swamp,common
 1,Oakhollow Village,Land,uncommon
-1,Tectonic Edge,Land,uncommon
 1,Jagged Barrens,Land — Desert,common
+1,Tectonic Edge,Land,uncommon
 4,Alpine Meadow,Snow Land — Mountain Plains,common
 1,Restless Bivouac,Land,rare
-1,Hashep Oasis,Land — Desert,uncommon
-1,Mage-Ring Network,Land,uncommon
 1,Glasswing Grace // Age-Graced Chapel,Enchantment — Aura // Land,uncommon
 1,Restless Fortress,Land,rare
+1,Mage-Ring Network,Land,uncommon
 1,Restless Anchorage,Land,rare
+1,Hashep Oasis,Land — Desert,uncommon
 1,Vivid Grove,Land,uncommon
-1,Vivid Creek,Land,uncommon
 1,Eroded Canyon,Land — Desert,common
-4,Mirage Mesa,Land — Desert,common
 1,Uthros, Titanic Godcore,Land — Planet,mythic
+1,Vivid Creek,Land,uncommon
+4,Mirage Mesa,Land — Desert,common
 1,Jwar Isle Refuge,Land,uncommon
 2,Remote Isle,Land,common
 1,Lumbering Falls,Land,rare
@@ -433,107 +436,107 @@
 3,Grasslands,Land,uncommon
 3,Hidden Cataract,Land — Cave,common
 1,Eiganjo Castle,Legendary Land,rare
-1,Labyrinth of Skophos,Land,rare
-2,Throne of the High City,Land,rare
 2,Restless Ridgeline,Land,rare
-1,Faerie Conclave,Land,uncommon
+1,Labyrinth of Skophos,Land,rare
 4,Volatile Fjord,Snow Land — Island Mountain,common
 1,Desert,Land — Desert,uncommon
-1,Restless Vinestalk,Land,rare
+1,Faerie Conclave,Land,uncommon
+2,Throne of the High City,Land,rare
 1,Lilypad Village,Land,uncommon
+1,Restless Vinestalk,Land,rare
 1,Restless Vents,Land,rare
 1,Idyllic Grange,Land — Plains,common
 6,Hidden Courtyard,Land — Cave,common
-2,Woodland Stream,Land,common
 1,Restless Spire,Land,rare
 1,Glimmervoid,Land,rare
+2,Woodland Stream,Land,common
+2,Hidden Necropolis,Land — Cave,common
 2,Lush Oasis,Land — Desert,common
 1,Foul Orchard,Land,uncommon
-1,Sea Gate Wreckage,Land,rare
-1,Quandrix Campus,Land,common
-2,Hidden Necropolis,Land — Cave,common
 4,Sulfurous Mire,Snow Land — Swamp Mountain,common
+1,Sea Gate Wreckage,Land,rare
 1,Thornglint Bridge,Artifact Land,common
+1,Quandrix Campus,Land,common
 1,Welcome to . . . // Jurassic Park,Enchantment — Saga // Legendary Land,rare
-1,Sunken Palace,Land — Cave,rare
 1,Barbarian Ring,Land,uncommon
-1,Ominous Cemetery,Land,uncommon
+1,Sunken Palace,Land — Cave,rare
 1,Mishra's Workshop,Land,mythic
 1,Needle Spires,Land,rare
+1,Ominous Cemetery,Land,uncommon
 2,Avishkar Raceway,Land,common
 1,Tocasia's Dig Site,Land,common
 1,Dalkovan Encampment,Land,rare
 1,Dowsing Device // Geode Grotto,Artifact // Land — Cave,uncommon
 1,Captivating Cave,Land — Cave,common
+8,Crossroads Village,Land — Town,common
 1,Celestial Colonnade,Land,rare
 1,Corrupted Crossroads,Land,rare
-8,Crossroads Village,Land — Town,common
 1,Prismari Campus,Land,common
 5,Karoo,Land,uncommon
 1,Lake of the Dead,Land,rare
-1,Treetop Village,Land,uncommon
 1,Rush of Inspiration // Crackling Falls,Instant // Land,uncommon
+1,Treetop Village,Land,uncommon
 1,Waterfront District,Land,common
 1,Bad River,Land,uncommon
 1,Zanarkand, Ancient Metropolis // Lasting Fayth,Land — Town // Sorcery — Adventure,rare
 5,The Gold Saucer,Land — Town,uncommon
 1,Botanical Plaza,Land,common
 2,Tramway Station,Land,common
-1,Novijen, Heart of Progress,Land,uncommon
 2,The Fair Basilica,Land — Sphere,common
+1,Novijen, Heart of Progress,Land,uncommon
 6,Eden, Seat of the Sanctum,Land — Town,uncommon
 3,The Hunter Maze,Land — Sphere,common
 4,Capital City,Land — Town,uncommon
+1,Sandstorm Verge,Land — Desert,uncommon
 1,Silverquill Campus,Land,common
 1,Zoetic Cavern,Land,uncommon
-1,Sandstorm Verge,Land — Desert,uncommon
 1,The Dross Pits,Land — Sphere,common
 1,Branch of Vitu-Ghazi,Land,uncommon
 2,Racers' Ring,Land,common
-1,Skybridge Towers,Land,common
 2,Lonely Arroyo,Land — Desert,common
-1,Wandering Fumarole,Land,rare
+1,Skybridge Towers,Land,common
 1,Haunted Fengraf,Land,common
+1,Wandering Fumarole,Land,rare
 1,Soulstone Sanctuary,Land,rare
 1,Witherbloom Campus,Land,common
 6,Baron, Airship Kingdom,Land — Town,common
 10,Treno, Dark City,Land — Town,common
 11,Rabanastre, Royal City,Land — Town,common
-1,Lorehold Campus,Land,common
 8,Sharlayan, Nation of Scholars,Land — Town,common
+1,Lorehold Campus,Land,common
 3,Clive's Hideaway,Land — Town,rare
 1,Suppression Ray // Orderly Plaza,Sorcery // Land,uncommon
-1,Mobilized District,Land,rare
 7,Guadosalam, Farplane Gateway,Land — Town,common
-1,Cradle of the Accursed,Land — Desert,common
 8,Windurst, Federation Center,Land — Town,common
 6,Vector, Imperial Capital,Land — Town,common
-1,Hostile Desert,Land — Desert,rare
-1,Night Market,Land,common
+1,Cradle of the Accursed,Land — Desert,common
+1,Mobilized District,Land,rare
 8,Insomnia, Crown City,Land — Town,common
 1,The Surgical Bay,Land — Sphere,common
-3,Dwarven Ruins,Land,uncommon
+1,Hostile Desert,Land — Desert,rare
+1,Night Market,Land,common
 7,Gongaga, Reactor Town,Land — Town,common
-1,Memorial to Genius,Land,uncommon
+3,Dwarven Ruins,Land,uncommon
 1,Miren, the Moaning Well,Legendary Land,rare
+1,Memorial to Genius,Land,uncommon
 1,Scrying Sheets,Snow Land,rare
 7,Gohn, Town of Ruin,Land — Town,common
-1,Secluded Starforge,Land,rare
 1,Daily Bugle Building,Land,uncommon
+1,Secluded Starforge,Land,rare
 3,Public Thoroughfare,Land,common
-6,Razortrap Gorge,Land,common
-1,The Tabernacle at Pendrell Vale,Legendary Land,rare
 1,Archway Commons,Land,common
+6,Razortrap Gorge,Land,common
 1,Balamb Garden, SeeD Academy // Balamb Garden, Airborne,Land — Town // Legendary Artifact — Vehicle,rare
-2,Dormant Volcano,Land,uncommon
+1,The Tabernacle at Pendrell Vale,Legendary Land,rare
 6,Neglected Manor,Land,common
-1,Bretagard Stronghold,Land,uncommon
+2,Dormant Volcano,Land,uncommon
 7,Raucous Carnival,Land,common
+1,Bretagard Stronghold,Land,uncommon
 1,Havenwood Battleground,Land,uncommon
 2,Twists and Turns // Mycoid Maze,Enchantment // Land — Cave,uncommon
 6,Peculiar Lighthouse,Land,common
-3,Crumbling Vestige,Land,common
 6,Strangled Cemetery,Land,common
+3,Crumbling Vestige,Land,common
 1,Cryptic Spires,Land,common
 6,Murky Sewer,Land,common
 1,Country Roads,Land,uncommon
@@ -560,11 +563,11 @@
 1,Dwarven Hold,Land,rare
 1,Sand Silos,Land,rare
 1,City of Shadows,Land,rare
+1,Savage Mansion,Land,common
 1,Undiscovered Paradise,Land,rare
 2,Ruins of Trokair,Land,uncommon
-1,Savage Mansion,Land,common
-2,Foul Roads,Land,uncommon
 1,University Campus,Land,common
+2,Foul Roads,Land,uncommon
 2,Griffin Canyon,Land,rare
 1,Diamond Valley,Land,rare
 1,Balduvian Trading Post,Land,rare
