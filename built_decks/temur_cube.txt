@@ -2,14 +2,11 @@ Ancient Greenwarden (PROXY)
 Ashaya, Soul of the Wild (PROXY)
 Beast Whisperer (PROXY)
 Birds of Paradise (PROXY)
-Boseiju, Who Endures (PROXY)
 Cityscape Leveler (PROXY)
 Cultivator Colossus (PROXY)
 Doppelgang (PROXY)
 Dreamroot Cascade (PROXY)
-Garruk's Uprising (PROXY)
 Genesis Ultimatum (PROXY)
-Ghalta, Primal Hunger (PROXY)
 Lightning Greaves (PROXY)
 Maelstrom Wanderer (PROXY)
 Miirym, Sentinel Wyrm (PROXY)
@@ -23,7 +20,6 @@ Scute Swarm (PROXY)
 Skullclamp (PROXY)
 Talisman of Curiosity (PROXY)
 Temur Ascendancy (PROXY)
-The Great Henge (PROXY)
 Tribute to the World Tree (PROXY)
 Triumph of the Hordes (PROXY)
 Yeva, Nature's Herald (PROXY)
@@ -60,6 +56,7 @@ Bloomvine Regent // Claim Territory
 Blossoming Defense
 Boltwave
 Borborygmos and Fblthp
+Boseiju, Who Endures
 Bounding Krasis
 Brazen Borrower // Petty Theft
 Breeding Pool
@@ -140,9 +137,11 @@ Fraying Sanity
 Frilled Mystic
 Frontier Bivouac
 Fury
+Garruk's Uprising
 Genemorph Imago
 Generous Ent
 Generous Plunderer
+Ghalta, Primal Hunger
 Ghitu Lavarunner
 Ghostfire Slice
 Gitaxian Probe
@@ -376,6 +375,7 @@ The Endstone
 The First Tyrannic War
 The Mindskinner
 The One Ring
+The Great Henge
 The Regalia
 The Water Crystal
 Thing in the Ice // Awoken Horror

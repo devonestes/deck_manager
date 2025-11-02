@@ -1,12 +1,3 @@
-Entish Restoration (PROXY)
-Last March of the Ents (PROXY)
-Mirari's Wake (PROXY)
-Nature's Lore (PROXY)
-Rockfall Vale (PROXY)
-Sundown Pass (PROXY)
-The Skullspore Nexus (PROXY)
-Urza's Incubator (PROXY)
-Wooded Bastion (PROXY)
 Gishath, Sun's Avatar
 Agonasaur Rex
 Akroma's Will
@@ -16,7 +7,7 @@ Arcane Signet
 Arid Mesa
 Bloodstained Mire
 Bonehoard Dracosaur
-Boseiju, Who Endures
+Bountiful Promenade
 Carnage Tyrant
 Cavern of Souls
 Chandra's Ignition
@@ -25,24 +16,24 @@ Cultivate
 Curious Altisaur
 Defense of the Heart
 Deflecting Swat
-Delighted Halfling
 Dinosaurs on a Spaceship
+Enduring Courage
 Etali, Primal Conqueror // Etali, Primal Sickness
+Fanatic of Rhonas
 Farseek
-Finale of Devastation
 Fire-Lit Thicket
 Flawless Maneuver
 Flooded Strand
 Forest
 Forest
 Forest
-Garruk's Uprising
+Forest
+Forest
 Ghalta and Mavren
-Ghalta, Primal Hunger
+Herald's Horn
 Heroic Intervention
 Hulking Raptor
 Hunting Velociraptor
-Invasion of Ikoria // Zilortha, Apex of Ikoria
 Jetmir's Garden
 Kodama's Reach
 Kogla and Yidaro
@@ -58,11 +49,13 @@ Palani's Hatcher
 Pantlaza, Sun-Favored
 Plains
 Plains
+Plains
 Polyraptor
 Prismatic Vista
 Quartzwood Crasher
 Rampant Growth
 Ranging Raptors
+Ravenous Tyrannosaurus
 Regal Behemoth
 Regal Imperiosaur
 Regisaur Alpha
@@ -73,7 +66,9 @@ Roaming Throne
 Sacred Foundry
 Savage Order
 Scalding Tarn
+Scion of Calamity
 Secluded Courtyard
+Smothering Tithe
 Sol Ring
 Spectator Seating
 Spire Garden
@@ -81,15 +76,19 @@ Stomping Ground
 Sunfrill Imitator
 Sunhome, Fortress of the Legion
 Sunpetal Grove
+Swords to Plowshares
+Talisman of Impulse
 Teferi's Protection
 Temple Altisaur
 Temple Garden
-The Great Henge
 Thrashing Brontodon
+Three Visits
+Thunderherd Migration
 Tithe
 Topiary Stomper
 Trapjaw Tyrant
 Unclaimed Territory
+Unnatural Growth
 Urza's Saga
 Verdant Catacombs
 Welcome to . . . // Jurassic Park
@@ -97,4 +96,5 @@ Windswept Heath
 Wooded Foothills
 Wrathful Raptors
 Xenagos, God of Revels
+Yavimaya, Cradle of Growth
 Zacama, Primal Calamity
