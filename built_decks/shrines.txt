@@ -11,23 +11,23 @@ Brushland
 Cacophony Unleashed
 City of Brass
 Command Tower
+Crescent Island Temple
 Cyclonic Rift
 Demonic Tutor
 Destiny Spinner
 Dryad of the Ilysian Grove
 Eidolon of Blossoms
 Enchantress's Presence
-Enlightened Tutor
 Entity Tracker
 Exotic Orchard
 Extinguish All Hope
 Eye of Nidhogg
 Fierce Guardianship
 Forest
+Forest
 Ghostly Prison
 Ghoulish Impetus
 Glacial Fortress
-Gloomlake Verge
 Go-Shintai of Ancient Wars
 Go-Shintai of Boundless Vigor
 Go-Shintai of Hidden Cruelty
@@ -44,29 +44,30 @@ Honden of Seeing Winds
 Indatha Triome
 Inquisitive Glimmer
 Island
+Island
 Jetmir's Garden
 Jukai Naturalist
 Ketria Triome
+Kyoshi Island Plaza
 Lush Portico
-Mirari's Wake
 Misty Rainforest
 Moat
 Moon-Blessed Cleric
+Mountain
 Mystic Remora
 Nessian Wanderer
+Northern Air Temple
 Overgrown Farmland
 Overgrown Tomb
 Paradox Haze
 Plains
-Reliquary Tower
+Plains
 Replenish
 Retribution of the Meek
 Rhystic Study
-Roaring Furnace // Steaming Sauna
 Sanctum of All
 Sanctum of Calm Waters
 Sanctum of Fruitful Harvest
-Sanctum of Shattered Heights
 Sanctum of Stone Fangs
 Sanctum of Tranquil Light
 Sanctum Weaver
@@ -82,6 +83,7 @@ Sterling Grove
 Sunpetal Grove
 Swamp
 Swan Song
+Swords to Plowshares
 Sythis, Harvest's Hand
 Teferi's Protection
 Temple Garden
@@ -91,9 +93,7 @@ Valgavoth's Lair
 Verdant Catacombs
 Verduran Enchantress
 Watery Grave
-Weftwalking
 Windswept Heath
-Wooded Bastion
 Wooded Foothills
 Zagoth Triome
 Ziatora's Proving Ground

@@ -36,6 +36,7 @@
 1 Mana Confluence (JOU) 163
 1 Marauding Raptor (LCC) 228
 1 Marsh Flats (MM3) 239
+1 Mirari's Wake (C17) 181
 1 Misty Rainforest (MM3) 240
 3 Mountain (J22) 107
 1 Otepec Huntmaster (LCC) 229
@@ -80,7 +81,6 @@
 1 Topiary Stomper (LCC) 261
 1 Trapjaw Tyrant (RIX) 29
 1 Unclaimed Territory (LCC) 366
-1 Unnatural Growth (SLD) 865
 1 Urza's Saga (MH2) 259
 1 Verdant Catacombs (MM3) 249
 1 Welcome to . . . / Jurassic Park (REX) 7

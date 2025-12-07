@@ -11,23 +11,22 @@
 1 Cacophony Unleashed (CMM) 730
 1 City of Brass (5ED) 413
 1 Command Tower (MOC) 396
+1 Crescent Island Temple (TLA) 129
 1 Cyclonic Rift (RTR) 35
 1 Demonic Tutor (3ED) 105
 1 Destiny Spinner (THB) 168
 1 Dryad of the Ilysian Grove (THB) 169
 1 Eidolon of Blossoms (JOU) 122
 1 Enchantress's Presence (MH2) 283
-1 Enlightened Tutor (MIR) 14
 1 Entity Tracker (DSK) 53
 1 Exotic Orchard (C19) 242
 1 Extinguish All Hope (JOU) 68
 1 Eye of Nidhogg (FIC) 44
 1 Fierce Guardianship (C20) 35
-1 Forest (ONE) 266
+2 Forest (ONE) 266
 1 Ghostly Prison (ONC) 71
 1 Ghoulish Impetus (CMM) 732
 1 Glacial Fortress (LTC) 315
-1 Gloomlake Verge (DSK) 331
 1 Go-Shintai of Ancient Wars (NEO) 144
 1 Go-Shintai of Boundless Vigor (NEO) 187
 1 Go-Shintai of Hidden Cruelty (NEO) 97
@@ -43,30 +42,29 @@
 1 Honden of Seeing Winds (CHK) 69
 1 Indatha Triome (IKO) 309
 1 Inquisitive Glimmer (DSK) 217
-1 Island (ONE) 263
+2 Island (ONE) 263
 1 Jetmir's Garden (SNC) 291
 1 Jukai Naturalist (NEO) 225
 1 Ketria Triome (IKO) 310
+1 Kyoshi Island Plaza (TLA) 184
 1 Lush Portico (MKM) 327
-1 Mirari's Wake (C17) 181
 1 Misty Rainforest (MM3) 240
 1 Moat (LEG) 28
 1 Moon-Blessed Cleric (AFR) 26
+1 Mountain (TLA) 285
 1 Mystic Remora (ICE) 87
 1 Nessian Wanderer (THB) 183
+1 Northern Air Temple (TLA) 111
 1 Overgrown Farmland (WHO) 292
 1 Overgrown Tomb (UNF) 284
 1 Paradox Haze (TSP) 71
-1 Plains (3ED) 292
-1 Reliquary Tower (BRC) 196
+2 Plains (3ED) 292
 1 Replenish (UDS) 15
 1 Retribution of the Meek (VIS) 19
 1 Rhystic Study (J22) 114
-1 Roaring Furnace / Steaming Sauna (DSK) 230
 1 Sanctum of All (M21) 225
 1 Sanctum of Calm Waters (M21) 68
 1 Sanctum of Fruitful Harvest (M21) 203
-1 Sanctum of Shattered Heights (M21) 157
 1 Sanctum of Stone Fangs (M21) 120
 1 Sanctum of Tranquil Light (M21) 33
 1 Sanctum Weaver (MH2) 171
@@ -82,6 +80,7 @@
 1 Sunpetal Grove (SLD) 460
 1 Swamp (MOM) 279
 1 Swan Song (LTC) 197
+1 Swords to Plowshares (4ED) 52
 1 Sythis, Harvest's Hand (MH2) 214
 1 Teferi's Protection (C17) 8
 1 Temple Garden (UNF) 281
@@ -91,9 +90,7 @@
 1 Verdant Catacombs (MM3) 249
 1 Verduran Enchantress (4ED) 281
 1 Watery Grave (UNF) 278
-1 Weftwalking (EOE) 86
 1 Windswept Heath (EXP) 20
-1 Wooded Bastion (SHM) 281
 1 Wooded Foothills (KTK) 249
 1 Zagoth Triome (IKO) 313
 1 Ziatora's Proving Ground (SNC) 295

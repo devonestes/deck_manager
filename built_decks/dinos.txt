@@ -40,6 +40,7 @@ Kogla and Yidaro
 Mana Confluence
 Marauding Raptor
 Marsh Flats
+Mirari's Wake
 Misty Rainforest
 Mountain
 Mountain
@@ -88,7 +89,6 @@ Tithe
 Topiary Stomper
 Trapjaw Tyrant
 Unclaimed Territory
-Unnatural Growth
 Urza's Saga
 Verdant Catacombs
 Welcome to . . . // Jurassic Park

@@ -13,7 +13,8 @@
 1 Delighted Halfling (LTR) 158
 1 Eladamri, Korvecdal (MH3) 369
 1 Emerald Medallion (CMM) 379
-23 Forest (J22) 110
+22 Forest (J22) 110
+1 Gaea's Touch (DRK) 77
 1 Garruk's Uprising (WOT) 53
 1 Ghalta, Primal Hunger (CMM) 292
 1 Ghalta, Stampede Tyrant (LCI) 326
