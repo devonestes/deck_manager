@@ -1,4 +1,3 @@
-Ancient Greenwarden (PROXY)
 Ashaya, Soul of the Wild (PROXY)
 Beast Whisperer (PROXY)
 Birds of Paradise (PROXY)
@@ -6,22 +5,26 @@ Cityscape Leveler (PROXY)
 Cultivator Colossus (PROXY)
 Doppelgang (PROXY)
 Dreamroot Cascade (PROXY)
+Eaten by Piranhas (PROXY)
+Frenzied Baloth (PROXY)
+Fresh Start (PROXY)
 Genesis Ultimatum (PROXY)
+Glistener Elf (PROXY)
 Lightning Greaves (PROXY)
 Maelstrom Wanderer (PROXY)
 Miirym, Sentinel Wyrm (PROXY)
 Nissa, Resurgent Animist (PROXY)
 Omnath, Locus of Rage (PROXY)
 Oracle of Mul Daya (PROXY)
-Ramunap Excavator (PROXY)
+Plague Myr (PROXY)
 Rockfall Vale (PROXY)
-Sarkhan Unbroken (PROXY)
 Scute Swarm (PROXY)
 Skullclamp (PROXY)
 Talisman of Curiosity (PROXY)
 Temur Ascendancy (PROXY)
 Tribute to the World Tree (PROXY)
 Triumph of the Hordes (PROXY)
+Yavimaya Coast (PROXY)
 Yeva, Nature's Herald (PROXY)
 Abbot of Keral Keep
 Abhorrent Oculus
@@ -34,10 +37,11 @@ Akoum Hellhound
 Altar of the Brood
 Anax, Hardened in the Forge
 Ancient Copper Dragon
+Animist's Might
 Archaeomancer
-Archive Trap
 Arena of Glory
 Ashroot Animist
+Aspirant's Ascent
 Primeval Titan
 Astrologian's Planisphere
 Atsushi, the Blazing Sky
@@ -48,6 +52,7 @@ Bard Class
 Basalt Monolith
 Behold the Multiverse
 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+Blight Mamba
 Blighted Agent
 Blightsteel Colossus
 Bloated Contaminator
@@ -55,7 +60,6 @@ Bloodbraid Elf
 Bloomvine Regent // Claim Territory
 Blossoming Defense
 Boltwave
-Borborygmos and Fblthp
 Boseiju, Who Endures
 Bounding Krasis
 Brazen Borrower // Petty Theft
@@ -70,6 +74,7 @@ Bruvac the Grandiloquent
 Burn Down the House
 Burning-Tree Emissary
 Calamity, Galloping Inferno
+Cankerbloom
 Chain Lightning
 Chandra, Awakened Inferno
 Chandra, Torch of Defiance
@@ -78,6 +83,7 @@ Chrome Host Seedshark
 Consider
 Contentious Plan
 Coruscation Mage
+Cosmic Hunger
 Crackling Drake
 Craterhoof Behemoth
 Cryptic Coat
@@ -91,14 +97,13 @@ Defiler of Vigor
 Delighted Halfling
 Delver of Secrets // Insectile Aberration
 Dig Through Time
-Dragon Turtle
 Dragon's Rage Channeler
 Dragonback Assault
 Dragonborn Champion
 Dragonclaw Strike
 Dragonhawk, Fate's Tempest
 Dreadhorde Arcanist
-Dreamtide Whale
+Elder Gargaroth
 Electrostatic Infantry
 Elvish Mystic
 Emry, Lurker of the Loch
@@ -113,6 +118,7 @@ Etali, Primal Conqueror // Etali, Primal Sickness
 Eternal Witness
 Evolution Sage
 Evolution Witness
+Evolving Adaptive
 Explore
 Expressive Iteration
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
@@ -131,9 +137,7 @@ Force of Negation
 Force of Will
 Forensic Gadgeteer
 Forked Bolt
-Fractured Sanity
 Frantic Search
-Fraying Sanity
 Frilled Mystic
 Frontier Bivouac
 Fury
@@ -141,11 +145,9 @@ Garruk's Uprising
 Genemorph Imago
 Generous Ent
 Generous Plunderer
-Ghalta, Primal Hunger
 Ghitu Lavarunner
 Ghostfire Slice
 Gitaxian Probe
-Glacier Godmaw
 Gladiolus Amicitia
 Glorybringer
 Goblin Anarchomancer
@@ -157,27 +159,27 @@ Grim Lavamancer
 Growth Spiral
 Gruul Turf
 Guided Passage
-Guildpact Informant
 Gut, True Soul Zealot
 Guttersnipe
 Gyre Sage
 Gyruda, Doom of Depths
 Hajar, Loyal Bodyguard
+Halana and Alena, Partners
+Hard-Hitting Question
 Headliner Scarlett
 Hedron Crab
 Hexdrinker
 Hinterland Harbor
 Hugs, Grisly Guardian
+Hunter's Talent
 Ichorclaw Myr
 Ilharg, the Raze-Boar
 Ill-Timed Explosion
 Impulse
-Inexorable Tide
 Infectious Bite
 Inferno Titan
 Inga and Esika
 Innkeeper's Talent
-Inspiring Call
 Inti, Seneschal of the Sun
 Intrude on the Mind
 Invasion of Tarkir // Defiant Thundermaw
@@ -188,19 +190,19 @@ Ivora, Insatiable Heir
 Iymrith, Desert Doom
 Izzet Boilerworks
 Jace, the Mind Sculptor
-Jace, the Perfected Mind
 Jegantha, the Wellspring
 Jidoor, Aristocratic Capital // Overture
 Jugan Defends the Temple // Remnant of the Rising Star
 Jwari Disruption // Jwari Ruins
 Kaheera, the Orphanguard
 Kappa Cannoneer
-Karakyk Guardian
 Kari Zev, Skyship Raider
 Karn Liberated
 Karn, Scion of Urza
+Karplusan Forest
 Kazandu Mammoth // Kazandu Valley
 Kazuul's Fury // Kazuul's Cliffs
+Keen-Eyed Curator
 Keruga, the Macrosage
 Ketria Triome
 Kiln Fiend
@@ -220,23 +222,26 @@ Lórien Revealed
 Lotus Cobra
 Lovestruck Beast // Heart's Desire
 Lutri, the Spellchaser
+Magda, Brazen Outlaw
 Magma Opus
 Malcolm, Alluring Scoundrel
 Malevolent Rumble
 Mana Drain
 Mana Leak
 Manamorphose
+Mawloc
+Meltstrider's Resolve
 Memory Deluge
 Memory Lapse
 Merfolk Skydiver
-Mesmeric Orb
 Midnight Clock
 Migloz, Maze Crusher
-Mindcrank
-Mindslaver
+Mind Stone
 Mine Collapse
 Minsc & Boo, Timeless Heroes
+Mishra's Bauble
 Misty Rainforest
+Molten Tributary
 Monastery Swiftspear
 Mossborn Hydra
 Murkfiend Liege
@@ -278,11 +283,11 @@ Portal to Phyrexia
 Primal Might
 Prologue to Phyresis
 Psychic Corrosion
-Pteramander
 Pyrogoyf
 Questing Beast
 Ragavan, Nimble Pilferer
 Railway Brawler
+Ram Through
 Rampaging Baloths
 Rattleclaw Mystic
 Reckless Impulse
@@ -314,8 +319,8 @@ Serum Snare
 Shantotto, Tactician Magician
 Shard Volley
 Shivan Devastator
+Shivan Reef
 Simic Growth Chamber
-Simic Sky Swallower
 Simulacrum Synthesizer
 Skewer the Critics
 Skitterbeam Battalion
@@ -328,7 +333,6 @@ Smoldering Egg // Ashmouth Dragon
 Snakeskin Veil
 Snap
 Snapcaster Mage
-Sneak Attack
 Solemn Simulacrum
 Songcrafter Mage
 Soul-Scar Mage
@@ -355,19 +359,17 @@ Summon: Leviathan
 Suplex
 Surge Engine
 Surrak Dragonclaw
-Sweltering Suns
-Sylvan Scavenging
 Taiga
 Tainted Observer
 Talisman of Creativity
 Talisman of Impulse
 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+Tangled Islet
 Tasha's Hideous Laughter
 Tatyova, Benthic Druid
 Teferi, Temporal Pilgrim
 Tekuthal, Inquiry Dominus
 Temur Battlecrier
-Terisian Mindbreaker
 Urza, Lord High Artificer
 Terrapact Intimidator
 Terror of the Peaks
@@ -376,7 +378,7 @@ The First Tyrannic War
 The Mindskinner
 The One Ring
 The Great Henge
-The Regalia
+Smuggler's Copter
 The Water Crystal
 Thing in the Ice // Awoken Horror
 Third Path Iconoclast
@@ -384,7 +386,6 @@ Thirsting Roots
 Thornspire Verge
 Thought Scour
 Thran Dynamo
-Through the Breach
 Thrummingbird
 Tifa Lockhart
 Time Warp
@@ -394,51 +395,50 @@ Tishana's Tidebinder
 Torbran, Thane of Red Fell
 Torrential Gearhulk
 Toski, Bearer of Secrets
-Tovolar's Huntmaster // Tovolar's Packleader
 Traveling Chocobo
 Treachery
 Triplicate Titan
 Tropical Island
 Trumpeting Carnosaur
+Tyrranax Atrocity
 Umezawa's Jitte
 Umori, the Collector
+Unable to Scream
 Undergrowth Champion
 Unholy Heat
 Unnatural Restoration
 Ureni, the Song Unending
 Uro, Titan of Nature's Wrath
 Ursine Monstrosity
+Urza's Bauble
 Urza's Saga
 Utopia Sprawl
 Vaultborn Tyrant
+Fynn, the Fangbearer
 Vendilion Clique
 Venerated Rotpriest
 Vines of Vastwood
 Viral Drake
+Viridian Corrupter
 Virulent Silencer
 Vivi Ornitier
 Vivien, Champion of the Wilds
 Volcanic Island
 Voldaren Epicure
 Voracious Greatshark
-Vorinclex, Monstrous Raider
 Walking Ballista
 Wandering Mind
 Wasteland
-Wavebreak Hippocamp
 Werewolf Pack Leader
 Wheel of Fortune
 Wild Growth
 Counterspell
 Wild Slash
 Wildborn Preserver
-Wilderness Reclamation
 Wildwood Scourge
 Willowrush Verge
 Wooded Foothills
-Woodfall Primus
-Workshop Warchief
-Worldspine Wurm
+Wooded Ridgeline
 Wrenn and Six
 Wurmcoil Engine
 Yorion, Sky Nomad
