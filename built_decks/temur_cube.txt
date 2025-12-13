@@ -11,7 +11,6 @@ Fresh Start (PROXY)
 Genesis Ultimatum (PROXY)
 Glistener Elf (PROXY)
 Lightning Greaves (PROXY)
-Maelstrom Wanderer (PROXY)
 Miirym, Sentinel Wyrm (PROXY)
 Nissa, Resurgent Animist (PROXY)
 Omnath, Locus of Rage (PROXY)
@@ -60,6 +59,7 @@ Bloodbraid Elf
 Bloomvine Regent // Claim Territory
 Blossoming Defense
 Boltwave
+Bonecrusher Giant // Stomp
 Boseiju, Who Endures
 Bounding Krasis
 Brazen Borrower // Petty Theft
@@ -109,7 +109,6 @@ Elvish Mystic
 Emry, Lurker of the Loch
 Brainstorm
 Enthusiastic Mechanaut
-Eris, Roar of the Storm
 Escape to the Wilds
 Eshki Dragonclaw
 Eshki, Temur's Roar
@@ -141,6 +140,7 @@ Frantic Search
 Frilled Mystic
 Frontier Bivouac
 Fury
+Fyndhorn Elves
 Garruk's Uprising
 Genemorph Imago
 Generous Ent
@@ -158,7 +158,6 @@ Green Sun's Zenith
 Grim Lavamancer
 Growth Spiral
 Gruul Turf
-Guided Passage
 Gut, True Soul Zealot
 Guttersnipe
 Gyre Sage
@@ -170,7 +169,7 @@ Headliner Scarlett
 Hedron Crab
 Hexdrinker
 Hinterland Harbor
-Hugs, Grisly Guardian
+Horned Loch-Whale // Lagoon Breach
 Hunter's Talent
 Ichorclaw Myr
 Ilharg, the Raze-Boar
@@ -185,7 +184,6 @@ Intrude on the Mind
 Invasion of Tarkir // Defiant Thundermaw
 Invert Polarity
 Invoke the Ancients
-Irencrag Feat
 Ivora, Insatiable Heir
 Iymrith, Desert Doom
 Izzet Boilerworks
@@ -206,6 +204,7 @@ Keen-Eyed Curator
 Keruga, the Macrosage
 Ketria Triome
 Kiln Fiend
+Kinnan, Bonder Prodigy
 Kird Ape
 Kolaghan Warmonger
 Koma, Cosmos Serpent
@@ -218,6 +217,7 @@ Lightning Bolt
 Lightning Strike
 Living Twister
 Llanowar Elves
+Loot, the Pathfinder
 Lórien Revealed
 Lotus Cobra
 Lovestruck Beast // Heart's Desire
@@ -245,6 +245,7 @@ Molten Tributary
 Monastery Swiftspear
 Mossborn Hydra
 Murkfiend Liege
+Murktide Regent
 Mutagenic Growth
 Myr Battlesphere
 Myr Convert
@@ -257,7 +258,6 @@ Nettlecyst
 Nightpack Ambusher
 Nissa, Ascended Animist
 Nissa, Who Shakes the World
-Niv-Mizzet, Parun
 Obosh, the Preypiercer
 Oko, Thief of Crowns
 Old-Growth Troll
@@ -316,10 +316,10 @@ Scythecat Cub
 Sensei's Divining Top
 Sentinel of the Nameless City
 Serum Snare
-Shantotto, Tactician Magician
 Shard Volley
 Shivan Devastator
 Shivan Reef
+Silent Hallcreeper
 Simic Growth Chamber
 Simulacrum Synthesizer
 Skewer the Critics
@@ -353,6 +353,7 @@ Stormcatch Mentor
 Strangle
 Strip Mine
 Sublime Epiphany
+Subterranean Schooner
 Subtlety
 Sulfur Falls
 Summon: Leviathan
@@ -407,7 +408,6 @@ Unable to Scream
 Undergrowth Champion
 Unholy Heat
 Unnatural Restoration
-Ureni, the Song Unending
 Uro, Titan of Nature's Wrath
 Ursine Monstrosity
 Urza's Bauble
@@ -429,13 +429,13 @@ Voracious Greatshark
 Walking Ballista
 Wandering Mind
 Wasteland
+Wayfarer's Bauble
 Werewolf Pack Leader
 Wheel of Fortune
 Wild Growth
 Counterspell
 Wild Slash
 Wildborn Preserver
-Wildwood Scourge
 Willowrush Verge
 Wooded Foothills
 Wooded Ridgeline
