@@ -46,7 +46,6 @@ Ixidron
 Kadena's Silencer
 Kheru Spellsnatcher
 Leyline of Anticipation
-Liberator, Urza's Battlethopter
 Mischievous Quanar
 Misty Rainforest
 Morphic Pool
@@ -76,6 +75,7 @@ Swamp
 Swamp
 Teferi, Mage of Zhalfir
 Temur Sabertooth
+The Blue Spirit
 Thelonite Hermit
 Thieving Amalgam
 Thousand Winds

@@ -13,7 +13,6 @@
 1 Command Tower (MOC) 396
 1 Crescent Island Temple (TLA) 129
 1 Cyclonic Rift (RTR) 35
-1 Demonic Tutor (3ED) 105
 1 Destiny Spinner (THB) 168
 1 Dryad of the Ilysian Grove (THB) 169
 1 Eidolon of Blossoms (JOU) 122
@@ -59,6 +58,7 @@
 1 Overgrown Tomb (UNF) 284
 1 Paradox Haze (TSP) 71
 2 Plains (3ED) 292
+1 Propaganda (OTC) 108
 1 Replenish (UDS) 15
 1 Retribution of the Meek (VIS) 19
 1 Rhystic Study (J22) 114
@@ -79,11 +79,11 @@
 1 Sterling Grove (MH2) 293
 1 Sunpetal Grove (SLD) 460
 1 Swamp (MOM) 279
-1 Swan Song (LTC) 197
 1 Swords to Plowshares (4ED) 52
 1 Sythis, Harvest's Hand (MH2) 214
 1 Teferi's Protection (C17) 8
 1 Temple Garden (UNF) 281
+1 The Spirit Oasis (TLA) 72
 1 The World Tree (KHM) 373
 1 Undergrowth Stadium (CMM) 666
 1 Valgavoth's Lair (DSK) 271

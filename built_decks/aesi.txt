@@ -33,7 +33,6 @@ Forest
 Forest
 Forest
 Forest
-Forest
 Greensleeves, Maro-Sorcerer
 Growth Spiral
 Guildless Commons
@@ -41,7 +40,6 @@ Halimar Depths
 Hedge Maze
 Hydroid Krasis
 Icetill Explorer
-Island
 Island
 Island
 Island
@@ -66,6 +64,7 @@ Overlord of the Hauntwoods
 Planar Genesis
 Polluted Delta
 Prismatic Vista
+Rain-Slicked Copse
 Rampaging Baloths
 Ramunap Excavator
 Reliquary Tower
@@ -81,6 +80,7 @@ Sink into Stupor // Soporific Springs
 Skyserpent Seeker
 Snow-Covered Forest
 Snow-Covered Island
+Sodden Verdure
 Sol Ring
 Spelunking
 Springheart Nantuko

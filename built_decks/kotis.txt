@@ -13,6 +13,7 @@ Breeding Pool
 Brotherhood Regalia
 Combat Research
 Command Tower
+Crystalline Armor
 Cultivate
 Cyclonic Rift
 Damnation
@@ -61,7 +62,6 @@ Negate
 Opulent Palace
 Overgrown Tomb
 Polluted Delta
-Propaganda
 Rampant Growth
 Rancor
 Rejuvenating Springs

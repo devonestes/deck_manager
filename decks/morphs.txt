@@ -38,7 +38,6 @@
 1 Kadena's Silencer (C19) 8
 1 Kheru Spellsnatcher (C19) 89
 1 Leyline of Anticipation (CLB) 726
-1 Liberator, Urza's Battlethopter (BRO) 237
 1 Mischievous Quanar (SCG) 42
 1 Misty Rainforest (MM3) 240
 1 Morphic Pool (BBD) 83
@@ -66,6 +65,7 @@
 3 Swamp (MOM) 279
 1 Teferi, Mage of Zhalfir (IMA) 75
 1 Temur Sabertooth (NCC) 315
+1 The Blue Spirit (TLE) 90
 1 Thelonite Hermit (C19) 184
 1 Thieving Amalgam (C19) 21
 1 Thousand Winds (C19) 100

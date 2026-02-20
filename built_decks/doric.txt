@@ -2,7 +2,6 @@ Casal, Lurkwood Pathfinder // Casal, Pathbreaker Owlbear
 Adventurers' Guildhouse
 Akroma's Memorial
 Anara, Wolvid Familiar
-Arasta of the Endless Web
 Ashaya, Soul of the Wild
 Beast Whisperer
 Boseiju, Who Endures
@@ -35,10 +34,10 @@ Forest
 Forest
 Forest
 Forest
+Forest
 Gaea's Touch
 Garruk's Uprising
 Ghalta, Primal Hunger
-Ghalta, Stampede Tyrant
 Goreclaw, Terror of Qal Sisma
 Heroic Intervention
 Invasion of Ikoria // Zilortha, Apex of Ikoria
@@ -47,6 +46,7 @@ Kolvori, God of Kinship // The Ringhart Crest
 Kona, Rescue Beastie
 Last March of the Ents
 Legolas Greenleaf
+Master's Guidance
 Maze of Ith
 Mosswort Bridge
 Nature's Lore

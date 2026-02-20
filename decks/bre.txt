@@ -1,0 +1,81 @@
+1 Bre of Clan Stoutarm (ECL) 207
+1 Adventurer's Inn (FIN) 271
+1 Aerith Gainsborough (FIN) 4
+1 Aetherflux Reservoir (KLD) 192
+1 Akroma's Will (LCC) 125
+1 Alhammarret's Archive (C21) 233
+1 Arcane Signet (SLD) 1641
+1 Archangel of Thune (M14) 5
+1 Arid Mesa (MH2) 436
+1 Aurelia, the Law Above (MKM) 188
+1 Austere Command (LCC) 126
+1 Authority of the Consuls (KLD) 5
+1 Battlefield Forge (BRO) 257
+1 Big Score (SNC) 102
+1 Blasphemous Act (BRC) 113
+1 Boros Garrison (C21) 282
+1 Boros Signet (ONC) 126
+1 Clifftop Retreat (LTC) 300
+1 Command Tower (MOC) 396
+1 Cut a Deal (BLC) 105
+1 Daxos, Blessed by the Sun (MUL) 2
+1 Deflecting Palm (MKC) 205
+1 Elegant Parlor (MKM) 325
+1 Elenda's Hierophant (LCC) 71
+1 Enduring Innocence (DSK) 6
+1 Esper Sentinel (H2R) 2
+1 Excalibur II (FIN) 352
+1 Exemplar of Light (FDN) 11
+1 Fellwar Stone (MOC) 356
+1 Full Throttle (DFT) 127
+1 Fumigate (MKC) 66
+1 Furycalm Snarl (LTC) 313
+1 Generous Gift (CMM) 624
+1 Gisela, Blade of Goldnight (MKC) 211
+1 Griffin Aerie (WOT) 5
+1 Guide of Souls (MH3) 29
+1 Heliod, Sun-Crowned (THB) 18
+1 Hinterland Sanctifier (FDN) 730
+1 Kirol, Attentive First-Year (ECL) 231
+1 Land Tax (2XM) 20
+1 Legion Leadership / Legion Stronghold (MH3) 255
+1 Leyline of Hope (DSK) 18
+1 Lightning Helix (RVR) 372
+1 Lightning, Army of One (FIN) 545
+1 Loran of the Third Path (BRO) 12
+1 Mangara, the Diplomat (BLC) 145
+1 Morgul-Knife (LTC) 353
+1 Mother of Runes (ULG) 14
+8 Mountain (NEO) 299
+1 Ocelot Pride (MH3) 394
+1 Odric, Lunarch Marshal (PLST) SOI-31
+1 Path to Exile (MOC) 198
+1 Phlage, Titan of Fire's Fury (MH3) 197
+13 Plains (NEO) 293
+1 Professional Face-Breaker (J22) 581
+1 Quintorius Kand (LCI) 238
+1 Radiant Fountain (M21) 248
+1 Radiant Summit (EOC) 23
+1 Resplendent Angel (M19) 34
+1 Restoration Magic (FIN) 30
+1 Rugged Prairie (BLC) 327
+1 Sacred Foundry (RVR) 409
+1 Serra Ascendant (IMA) 31
+1 Sol Ring (MOC) 381
+1 Solemn Simulacrum (BRC) 161
+1 Spectator Seating (CMM) 664
+1 Spirit Link (5ED) 64
+1 Sun Titan (MKC) 87
+1 Sunbillow Verge (DFT) 264
+1 Suture Priest (NPH) 25
+1 Swiftfoot Boots (BRC) 166
+1 Swords to Plowshares (MB2) 153
+1 Talisman of Conviction (LTC) 285
+1 Taunt from the Rampart (LTC) 71
+1 Teferi's Protection (SLD) 1691
+1 Temple of Triumph (M20) 257
+1 The Jolly Balloon Man (DSK) 219
+1 The Wind Crystal (FIN) 330
+1 Trouble in Pairs (MKC) 15
+1 Vandalblast (OTC) 183
+1 Witch Enchanter / Witch-Blessed Meadow (MH3) 239

@@ -13,6 +13,7 @@
 1 Brotherhood Regalia (ACR) 71
 1 Combat Research (DMU) 44
 1 Command Tower (MOC) 396
+1 Crystalline Armor (TLE) 137
 1 Cultivate (J22) 644
 1 Cyclonic Rift (RVR) 313
 1 Damnation (TSR) 106
@@ -51,7 +52,6 @@
 1 Opulent Palace (DMC) 223
 1 Overgrown Tomb (RVR) 407
 1 Polluted Delta (MH3) 438
-1 Propaganda (OTC) 108
 1 Rampant Growth (M12) 190
 1 Rancor (2X2) 156
 1 Rejuvenating Springs (LTC) 325

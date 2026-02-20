@@ -13,7 +13,6 @@ City of Brass
 Command Tower
 Crescent Island Temple
 Cyclonic Rift
-Demonic Tutor
 Destiny Spinner
 Dryad of the Ilysian Grove
 Eidolon of Blossoms
@@ -62,6 +61,7 @@ Overgrown Tomb
 Paradox Haze
 Plains
 Plains
+Propaganda
 Replenish
 Retribution of the Meek
 Rhystic Study
@@ -82,11 +82,11 @@ Starfield Mystic
 Sterling Grove
 Sunpetal Grove
 Swamp
-Swan Song
 Swords to Plowshares
 Sythis, Harvest's Hand
 Teferi's Protection
 Temple Garden
+The Spirit Oasis
 The World Tree
 Undergrowth Stadium
 Valgavoth's Lair
