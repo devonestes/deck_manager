@@ -3,24 +3,23 @@ Beast Whisperer (PROXY)
 Birds of Paradise (PROXY)
 Cityscape Leveler (PROXY)
 Cultivator Colossus (PROXY)
-Doppelgang (PROXY)
 Dreamroot Cascade (PROXY)
-Eaten by Piranhas (PROXY)
+Eternal Witness (PROXY)
 Frenzied Baloth (PROXY)
-Fresh Start (PROXY)
 Genesis Ultimatum (PROXY)
-Glistener Elf (PROXY)
+Goblin Anarchomancer (PROXY)
 Lightning Greaves (PROXY)
+Lotus Cobra (PROXY)
 Miirym, Sentinel Wyrm (PROXY)
 Nissa, Resurgent Animist (PROXY)
 Omnath, Locus of Rage (PROXY)
 Oracle of Mul Daya (PROXY)
-Plague Myr (PROXY)
 Rockfall Vale (PROXY)
 Scute Swarm (PROXY)
 Skullclamp (PROXY)
 Talisman of Curiosity (PROXY)
 Temur Ascendancy (PROXY)
+Toski, Bearer of Secrets (PROXY)
 Tribute to the World Tree (PROXY)
 Triumph of the Hordes (PROXY)
 Yavimaya Coast (PROXY)
@@ -97,12 +96,14 @@ Defiler of Vigor
 Delighted Halfling
 Delver of Secrets // Insectile Aberration
 Dig Through Time
+Doppelgang
 Dragon's Rage Channeler
 Dragonback Assault
 Dragonborn Champion
 Dragonclaw Strike
 Dragonhawk, Fate's Tempest
 Dreadhorde Arcanist
+Eaten by Piranhas
 Elder Gargaroth
 Electrostatic Infantry
 Elvish Mystic
@@ -114,7 +115,6 @@ Eshki Dragonclaw
 Eshki, Temur's Roar
 Esika's Chariot
 Etali, Primal Conqueror // Etali, Primal Sickness
-Eternal Witness
 Evolution Sage
 Evolution Witness
 Evolving Adaptive
@@ -137,6 +137,7 @@ Force of Will
 Forensic Gadgeteer
 Forked Bolt
 Frantic Search
+Fresh Start
 Frilled Mystic
 Frontier Bivouac
 Fury
@@ -149,8 +150,8 @@ Ghitu Lavarunner
 Ghostfire Slice
 Gitaxian Probe
 Gladiolus Amicitia
+Glistener Elf
 Glorybringer
-Goblin Anarchomancer
 Goblin Guide
 Goblin Rabblemaster
 Goldspan Dragon
@@ -219,7 +220,6 @@ Living Twister
 Llanowar Elves
 Loot, the Pathfinder
 Lórien Revealed
-Lotus Cobra
 Lovestruck Beast // Heart's Desire
 Lutri, the Spellchaser
 Magda, Brazen Outlaw
@@ -275,6 +275,7 @@ Pest Infestation
 Phylath, World Sculptor
 Phyrexian Swarmlord
 Piggy Bank
+Plague Myr
 Planar Genesis
 Plasm Capture
 Play with Fire
@@ -395,7 +396,6 @@ Tireless Provisioner
 Tishana's Tidebinder
 Torbran, Thane of Red Fell
 Torrential Gearhulk
-Toski, Bearer of Secrets
 Traveling Chocobo
 Treachery
 Triplicate Titan

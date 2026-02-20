@@ -5,11 +5,10 @@
 1 Altar of Dementia (MH1) 218
 1 Amulet of Vigor (WWK) 121
 1 Arcane Signet (SLD) 1641
-1 Ashaya, Soul of the Wild (ZNR) 179
 1 Ashnod's Altar (5ED) 349
 1 Baloth Prime (EOC) 13
 1 Beast Within (ONC) 104
-1 Blasphemous Act (BRC) 113
+1 Beastmaster Ascension (PLST) ZEN-159
 1 Bristling Backwoods (OTJ) 253
 1 Cascading Cataracts (M3C) 326
 1 Chaos Warp (PW24) 7
@@ -22,7 +21,8 @@
 1 Cycle of Renewal (TLA) 170
 1 Darksteel Citadel (MB2) 107
 1 Disciple of Freyalise / Garden of Freyalise (MH3) 250
-1 Entish Restoration (LTR) 163
+1 Eldritch Evolution (EMN) 155
+1 Elvish Reclaimer (M20) 169
 1 Eternal Witness (M3C) 227
 1 Evendo Brushrazer (EOC) 10
 1 Evolution Sage (PLST) WAR-159
@@ -35,25 +35,24 @@
 1 Harrow (ZNC) 69
 1 Heroic Intervention (LTC) 249
 1 Icetill Explorer (EOE) 343
+1 Impolite Entrance (ECL) 146
 1 Inspiring Call (MOC) 304
 1 Lotus Cobra (ZNR) 307
 1 Lotus Field (M20) 249
+1 Manamorphose (MMA) 191
 1 Misty Rainforest (MH2) 438
 1 Moraug, Fury of Akoum (ZNR) 300
+1 Mossborn Hydra (FDN) 107
 1 Mosswort Bridge (LCC) 342
 6 Mountain (NEO) 299
 1 Myriad Landscape (MOC) 416
-1 Nature's Lore (DMR) 170
-1 Nesting Dragon (CMM) 245
 1 Newfound Adventure (FCA) 45
-1 Omnath, Locus of Rage (BFZ) 217
-1 Orcish Lumberjack (ICE) 210
+1 Origin of Metalbending (TLA) 187
 1 Ozolith, the Shattered Spire (MOM) 198
 1 Phyrexian Altar (INV) 306
 1 Pinnacle Monk / Mystic Peak (MH3) 246
 1 Rampant Growth (M12) 190
 1 Return of the Wildspeaker (ELD) 172
-1 Rockfall Vale (INR) 282
 1 Roiling Regrowth (EOC) 105
 1 Rootbound Crag (SLD) 459
 1 Sabotender (FIN) 153
@@ -67,7 +66,6 @@
 1 Spawning Pit (PLST) TD2-69
 1 Spire Garden (ZNE) 19
 1 Spiteful Prankster (PLST) JMP-26
-1 Springheart Nantuko (MH3) 341
 1 Stomping Ground (RVR) 413
 1 Sylvan Safekeeper (MH3) 287
 1 Talon Gates of Madara (M3C) 134
@@ -78,10 +76,12 @@
 1 Tireless Provisioner (PLST) MH2-180
 1 Titania, Protector of Argoth (PLST) MH2-287
 1 Toph, the Blind Bandit (TLA) 198
+1 Toski, Bearer of Secrets (KHM) 197
 1 Tributary Instructor (LCC) 96
 1 Urza's Saga (MB2) 114
 1 Valakut Exploration (ZNR) 303
 1 Verdant Catacombs (MH2) 440
+1 Walk-In Closet / Forgotten Cellar (DSK) 205
 1 Windswept Heath (MH3) 440
 1 Wooded Foothills (MH3) 441
 1 Yavimaya, Cradle of Growth (MH2) 441

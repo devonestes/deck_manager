@@ -7,7 +7,9 @@
 1 Arcane Signet (SLD) 1641
 1 Archangel of Thune (M14) 5
 1 Arid Mesa (MH2) 436
+1 Aunt May (SPM) 3
 1 Aurelia, the Law Above (MKM) 188
+1 Auriok Champion (5DN) 3
 1 Austere Command (LCC) 126
 1 Authority of the Consuls (KLD) 5
 1 Battlefield Forge (BRO) 257
@@ -30,7 +32,6 @@
 1 Full Throttle (DFT) 127
 1 Fumigate (MKC) 66
 1 Furycalm Snarl (LTC) 313
-1 Generous Gift (CMM) 624
 1 Gisela, Blade of Goldnight (MKC) 211
 1 Griffin Aerie (WOT) 5
 1 Guide of Souls (MH3) 29
@@ -46,12 +47,12 @@
 1 Mangara, the Diplomat (BLC) 145
 1 Morgul-Knife (LTC) 353
 1 Mother of Runes (ULG) 14
-8 Mountain (NEO) 299
+7 Mountain (NEO) 299
 1 Ocelot Pride (MH3) 394
 1 Odric, Lunarch Marshal (PLST) SOI-31
 1 Path to Exile (MOC) 198
 1 Phlage, Titan of Fire's Fury (MH3) 197
-13 Plains (NEO) 293
+14 Plains (NEO) 293
 1 Professional Face-Breaker (J22) 581
 1 Quintorius Kand (LCI) 238
 1 Radiant Fountain (M21) 248
@@ -65,7 +66,6 @@
 1 Solemn Simulacrum (BRC) 161
 1 Spectator Seating (CMM) 664
 1 Spirit Link (5ED) 64
-1 Sun Titan (MKC) 87
 1 Sunbillow Verge (DFT) 264
 1 Suture Priest (NPH) 25
 1 Swiftfoot Boots (BRC) 166

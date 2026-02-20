@@ -7,7 +7,9 @@ Alhammarret's Archive
 Arcane Signet
 Archangel of Thune
 Arid Mesa
+Aunt May
 Aurelia, the Law Above
+Auriok Champion
 Austere Command
 Authority of the Consuls
 Battlefield Forge
@@ -30,7 +32,6 @@ Fellwar Stone
 Full Throttle
 Fumigate
 Furycalm Snarl
-Generous Gift
 Gisela, Blade of Goldnight
 Griffin Aerie
 Guide of Souls
@@ -53,11 +54,11 @@ Mountain
 Mountain
 Mountain
 Mountain
-Mountain
 Ocelot Pride
 Odric, Lunarch Marshal
 Path to Exile
 Phlage, Titan of Fire's Fury
+Plains
 Plains
 Plains
 Plains
@@ -84,7 +85,6 @@ Sol Ring
 Solemn Simulacrum
 Spectator Seating
 Spirit Link
-Sun Titan
 Sunbillow Verge
 Suture Priest
 Swiftfoot Boots

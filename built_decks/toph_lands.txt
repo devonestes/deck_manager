@@ -1,11 +1,5 @@
-Ashaya, Soul of the Wild (PROXY)
-Blasphemous Act (PROXY)
 Constant Mists (PROXY)
-Entish Restoration (PROXY)
 Moraug, Fury of Akoum (PROXY)
-Nature's Lore (PROXY)
-Omnath, Locus of Rage (PROXY)
-Rockfall Vale (PROXY)
 Scute Swarm (PROXY)
 Skullclamp (PROXY)
 Toph, Hardheaded Teacher
@@ -18,6 +12,7 @@ Arcane Signet
 Ashnod's Altar
 Baloth Prime
 Beast Within
+Beastmaster Ascension
 Bristling Backwoods
 Cascading Cataracts
 Chaos Warp
@@ -29,6 +24,8 @@ Cultivate
 Cycle of Renewal
 Darksteel Citadel
 Disciple of Freyalise // Garden of Freyalise
+Eldritch Evolution
+Elvish Reclaimer
 Eternal Witness
 Evendo Brushrazer
 Evolution Sage
@@ -47,10 +44,13 @@ Hardened Scales
 Harrow
 Heroic Intervention
 Icetill Explorer
+Impolite Entrance
 Inspiring Call
 Lotus Cobra
 Lotus Field
+Manamorphose
 Misty Rainforest
+Mossborn Hydra
 Mosswort Bridge
 Mountain
 Mountain
@@ -59,9 +59,8 @@ Mountain
 Mountain
 Mountain
 Myriad Landscape
-Nesting Dragon
 Farseek
-Orcish Lumberjack
+Origin of Metalbending
 Ozolith, the Shattered Spire
 Phyrexian Altar
 Pinnacle Monk // Mystic Peak
@@ -78,7 +77,6 @@ Sol Ring
 Spawning Pit
 Spire Garden
 Spiteful Prankster
-Springheart Nantuko
 Stomping Ground
 Sylvan Safekeeper
 Talon Gates of Madara
@@ -89,10 +87,12 @@ Three Visits
 Tireless Provisioner
 Titania, Protector of Argoth
 Toph, the Blind Bandit
+Toski, Bearer of Secrets
 Tributary Instructor
 Urza's Saga
 Valakut Exploration
 Verdant Catacombs
+Walk-In Closet // Forgotten Cellar
 Windswept Heath
 Wooded Foothills
 Yavimaya, Cradle of Growth
