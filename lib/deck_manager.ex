@@ -11,9 +11,10 @@ defmodule DeckManager do
     # {"monarch", "aHQmX2i_i0-hUQpdq0ta5w", "d5af5f3f-60ef-442e-a378-ac21792a1471"},
     {"shrines", "YontiLZZZEmugFVEqOhXKA", "828cf477-a6f5-450d-b14b-7b74f1dde4cb"},
     {"gitrog_ride", "wo9B3RfmDk-HnA_ywmH9NQ", "23d12b36-bb8b-4e6f-9f9a-07b9eafcb5d0"},
-    {"hare_apparant", "juBb7nCb4UuPDDrc0PHp3Q", "6e7d9747-56d6-40c6-a0e1-27bb6822bae0"},
+    #{"hare_apparant", "juBb7nCb4UuPDDrc0PHp3Q", "6e7d9747-56d6-40c6-a0e1-27bb6822bae0"},
     # {"bant_tokens", "1CtjbDS54kOSqeGlg2t22Q", "ff27a0e1-a95e-4d84-951e-a491ab20f1e4"},
-    {"wanderer", "IoR8Jb5aB0ulmNOtWs5RZg", "e59cf956-680f-436a-b200-068f5962eaf1"},
+    #{"wanderer", "IoR8Jb5aB0ulmNOtWs5RZg", "e59cf956-680f-436a-b200-068f5962eaf1"},
+    {"wanderer_keruga", "bosn_sFCE02yiTSRRZ2Wqw", "9c1d77f1-04c0-48ae-84a9-a5a024a4ea40"},
     {"ur_dragon", "KSVzZ4Os-UKKFXud4-5Vnw", "acc8bcd4-3eea-4ada-9a4e-a70b43623366"},
     {"moogles", "8o8fBI0BcUWZrUH0Ixr_Vg", "e122a676-348f-4b85-b253-2b2036184d31"},
     {"terra", "HOYxYwvKpUS9DEKGKbSo1Q/", "469a46e4-84bd-4c72-a802-e10b52347ab8"},
@@ -28,7 +29,7 @@ defmodule DeckManager do
     # {"meria", "Bu_ZwfjumUuFD1KuH2_FqQ", "40faed00-3b8a-4fbc-a711-aa8f753f1ab0"},
     # {"aristocats", "TYqGCS46qEaJMRKsasgcCQ", "be34ece7-5d32-44c3-b0e4-fa452b151cbc"},
     {"dinos", "3Ekcem0mLk6xskQ8U5FJBg", "b80cc791-fcd2-4abc-af12-e7d8b18240f0"},
-    {"kudo_hydras", "IC5cJBoBUUaQm9lrskUF6A", "51a8d379-9bc2-4f10-b584-68695873c4f8"},
+    #{"kudo_hydras", "IC5cJBoBUUaQm9lrskUF6A", "51a8d379-9bc2-4f10-b584-68695873c4f8"},
     # {"rusko", "M1VrL9dGFUiGiBL8eVTLqA", "d6aee0a6-2152-41c9-937f-6e06d6e16a45"},
     # {"izzet_spells", "HDyCBqmROkW0McecXAyHlQ", "87941965-d7b5-4e8b-996c-438ad40c6933"},
     # {"wolverine_3_drops", "JjsS9GSxWEq4JUP2Wpgk1A", "aaa89c83-9ecf-4bbc-b339-5ae439d46bad"},
@@ -81,8 +82,10 @@ defmodule DeckManager do
     # {"pauper_cube", "xTLumPuQs0e-4oWb2izZyw", "a615477e-c305-484a-b10b-eca8200aa213"},
     # {"final_fantasy_remastered", "LKCKJ78Ao0ibohPEq2QRlQ", "2535f467-fd2d-4157-a395-b19fd6520c46"},
     # {"duskmourn_remastered", "In_QeFJrrk-6lenOjdG73w", "49cc2a21-50bd-4e09-9baa-d8740fb39c99"},
-    {"temur_cube", "9aAuKWFZv0iOIzb_dHaQRQ", "e084d46c-ccdf-4bd9-a461-12711b6cb375"}
+    #{"temur_cube", "9aAuKWFZv0iOIzb_dHaQRQ", "e084d46c-ccdf-4bd9-a461-12711b6cb375"}
+    {"on_a_stick", "3eM_REBGcEWHhsn3lHyTkA", "3412c47a-8d2b-4966-85ec-91b727e931fc"}
     # {"cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"}
+    #
   ]
 
   def run() do
@@ -491,7 +494,9 @@ defmodule DeckManager do
   defp normalize_name("Terra Branford"), do: "Urza, Lord High Artificer"
   defp normalize_name("Wild Rose Rebellion"), do: "Counterspell"
   defp normalize_name("The Strahl"), do: "Smuggler's Copter"
+  defp normalize_name("Golbez, Clad In Darkness"), do: "Yawgmoth, Thran Physician"
   defp normalize_name("Vayne Carudas Solidor"), do: "Fynn, the Fangbearer"
+  defp normalize_name("Vaan, Aspiring Sky Pirate"), do: "Captain Lannery Storm"
 
   defp normalize_name("Doric, Nature's Warden // Doric, Owlbear Avenger"),
     do: "Casal, Lurkwood Pathfinder // Casal, Pathbreaker Owlbear"
