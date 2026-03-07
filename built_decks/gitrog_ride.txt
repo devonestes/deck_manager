@@ -4,6 +4,7 @@ Assassin's Trophy
 Avenger of Zendikar
 Beanstalk Giant // Fertile Footsteps
 Beast Within
+Bebop & Rocksteady
 Berserk
 Birds of Paradise
 Bojuka Bog
@@ -28,7 +29,6 @@ Forest
 Forest
 Forest
 Forest
-Forest
 Garruk's Uprising
 Ghalta, Primal Hunger
 Golgari Rot Farm
@@ -36,7 +36,6 @@ Greensleeves, Maro-Sorcerer
 Groundbreaker
 Heroic Intervention
 Honest Rutstein
-Hungry Mist
 Hunted Bonebrute
 Hunted Horror
 Hunted Troll
@@ -90,6 +89,7 @@ Underground Mortuary
 Undergrowth Stadium
 Unnatural Growth
 Verdant Catacombs
+Vernal Fen
 Viridescent Bog
 Waning Wurm
 Whispersilk Cloak

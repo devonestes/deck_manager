@@ -2,15 +2,12 @@ Agonasaur Rex (PROXY)
 Boggart Trawler // Boggart Bog (PROXY)
 Cruel Celebrant (PROXY)
 Cyberman Patrol (PROXY)
-Dokuchi Silencer (PROXY)
 Dusk Legion Duelist (PROXY)
-Flitterwing Nuisance (PROXY)
 Yawgmoth, Thran Physician (PROXY)
 Hydroelectric Specimen // Hydroelectric Laboratory (PROXY)
 Icetill Explorer (PROXY)
 Lumra, Bellow of the Woods (PROXY)
 Mentor of the Meek (PROXY)
-Moonsnare Specialist (PROXY)
 Overgrown Tomb (PROXY)
 Solitude (PROXY)
 Squee, Goblin Nabob (PROXY)
@@ -53,6 +50,7 @@ Breeding Pool
 Bruna, the Fading Light
 Bulwark Ox
 Burrenton Bombardier
+Captain Lannery Storm
 Carnage, Crimson Chaos
 Cataclysmic Gearhulk
 Cecil, Dark Knight // Cecil, Redeemed Paladin
@@ -72,6 +70,7 @@ Diamond Weapon
 Dirge Bat
 Disciple of Freyalise // Garden of Freyalise
 Disruptor of Currents
+Dokuchi Silencer
 Doomed Traveler
 Dorothea, Vengeful Victim // Dorothea's Retribution
 Dryad Arbor
@@ -104,6 +103,7 @@ Fear of Missing Out
 Fell Stinger
 Flamecache Gecko
 Flametongue Kavu
+Flitterwing Nuisance
 Flooded Strand
 Floodpits Drowner
 Forensic Gadgeteer
@@ -194,6 +194,7 @@ Mistblade Shinobi
 Misty Rainforest
 Momo, Friendly Flier
 Moon-Circuit Hacker
+Moonsnare Specialist
 Mulldrifter
 Murderous Rider // Swift End
 Myr Battlesphere
@@ -329,7 +330,6 @@ Umbral Collar Zealot
 Undercity Sewers
 Underground Mortuary
 Uro, Titan of Nature's Wrath
-Captain Lannery Storm
 Vengevine
 Verdant Catacombs
 Verdurous Gearhulk

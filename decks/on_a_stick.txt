@@ -38,6 +38,7 @@
 1 Bruna, the Fading Light (INR) 14
 1 Bulwark Ox (DFT) 7
 1 Burrenton Bombardier (MOR) 3
+1 Captain Lannery Storm (LCC) 218
 1 Carnage, Crimson Chaos (SPM) 125
 1 Cataclysmic Gearhulk (NEC) 81
 1 Cecil, Dark Knight / Cecil, Redeemed Paladin (FIN) 91
@@ -329,7 +330,6 @@
 1 Undercity Sewers (MKM) 332
 1 Underground Mortuary (MKM) 333
 1 Uro, Titan of Nature's Wrath (MB2) 93
-1 Vaan, Aspiring Sky Pirate (FCA) 38
 1 Vengevine (ROE) 212
 1 Verdant Catacombs (MH2) 440
 1 Verdurous Gearhulk (KLD) 172

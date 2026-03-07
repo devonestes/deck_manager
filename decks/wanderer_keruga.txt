@@ -43,9 +43,9 @@
 1 Nyxbloom Ancient (THB) 190
 1 Omnath, Locus of Rage (BFZ) 217
 1 Otawara, Soaring City (NEO) 271
-1 Pathbreaker Ibex (SLD) 307
 1 Pyrewood Gearhulk (DFT) 216
 1 Ranger's Path (M13) 186
+1 Raph & Mikey, Troublemakers (TMT) 167
 1 Rishkar's Expertise (NEC) 127
 1 Riverglide Pathway / Lavaglide Pathway (ZNR) 289
 1 Rockfall Vale (MID) 266

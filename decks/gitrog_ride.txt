@@ -4,6 +4,7 @@
 1 Avenger of Zendikar (C13) 135
 1 Beanstalk Giant / Fertile Footsteps (ELD) 149
 1 Beast Within (ONC) 104
+1 Bebop & Rocksteady (TMT) 140
 1 Berserk (SLD) 1738
 1 Birds of Paradise (M12) 165
 1 Bojuka Bog (MOC) 391
@@ -16,7 +17,7 @@
 1 Darkbore Pathway / Slitherbore Pathway (KHM) 292
 1 Deadly Rollick (CMM) 695
 1 Farseek (RVR) 138
-13 Forest (J22) 112
+12 Forest (J22) 112
 1 Garruk's Uprising (WOT) 53
 1 Ghalta, Primal Hunger (FDN) 222
 1 Golgari Rot Farm (IMA) 236
@@ -24,7 +25,6 @@
 1 Groundbreaker (PLC) 148
 1 Heroic Intervention (LTC) 249
 1 Honest Rutstein (OTJ) 207
-1 Hungry Mist (HML) 88b
 1 Hunted Bonebrute (MKM) 87
 1 Hunted Horror (CLB) 758
 1 Hunted Troll (RAV) 170
@@ -71,6 +71,7 @@
 1 Undergrowth Stadium (CMM) 666
 1 Unnatural Growth (SLD) 865
 1 Verdant Catacombs (MH2) 440
+1 Vernal Fen (TMC) 81
 1 Viridescent Bog (BLC) 352
 1 Waning Wurm (PLC) 83
 1 Whispersilk Cloak (LTC) 292
