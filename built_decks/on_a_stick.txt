@@ -1,7 +1,6 @@
 Agonasaur Rex (PROXY)
 Boggart Trawler // Boggart Bog (PROXY)
 Cruel Celebrant (PROXY)
-Cyberman Patrol (PROXY)
 Dusk Legion Duelist (PROXY)
 Yawgmoth, Thran Physician (PROXY)
 Hydroelectric Specimen // Hydroelectric Laboratory (PROXY)
@@ -16,6 +15,7 @@ Aang, at the Crossroads // Aang, Destined Savior
 Abhorrent Oculus
 Abzan Falconer
 Accursed Marauder
+Aerial Extortionist
 Aether Channeler
 Aftermath Analyst
 Agate Instigator
@@ -31,9 +31,9 @@ Athreos, God of Passage
 Augur of Autumn
 Aven Interrupter
 Azure Beastbinder
+Baleful Strix
 Bannerhide Krushok
 Barrowgoyf
-Basking Broodscale
 Big Game Hunter
 Biting-Palm Ninja
 Blazing Rootwalla
@@ -50,14 +50,13 @@ Breeding Pool
 Bruna, the Fading Light
 Bulwark Ox
 Burrenton Bombardier
-Captain Lannery Storm
 Carnage, Crimson Chaos
 Cataclysmic Gearhulk
 Cecil, Dark Knight // Cecil, Redeemed Paladin
 Chainer, Nightmare Adept
 Charming Scoundrel
 Cheering Crowd
-Chitin Gravestalker
+Chrome Dome
 Colossal Skyturtle
 Combustible Gearhulk
 Commercial District
@@ -67,15 +66,16 @@ Courser of Kruphix
 Dauntless Scrapbot
 Detective's Phoenix
 Diamond Weapon
-Dirge Bat
+Dion, Bahamut's Dominant // Bahamut, Warden of Light
 Disciple of Freyalise // Garden of Freyalise
+Disruptive Stormbrood // Petty Revenge
 Disruptor of Currents
 Dokuchi Silencer
 Doomed Traveler
 Dorothea, Vengeful Victim // Dorothea's Retribution
+Dragon's Rage Channeler
 Dryad Arbor
 Duelist of the Mind
-Dust Animus
 Dyadrine, Synthesis Amalgam
 Eagles of the North
 Edge Rover
@@ -91,7 +91,6 @@ Enduring Curiosity
 Enduring Innocence
 Enduring Vitality
 Enthusiastic Mechanaut
-Etherium Sculptor
 Evolution Witness
 Evolved Sleeper
 Faerie Mastermind
@@ -106,7 +105,6 @@ Flametongue Kavu
 Flitterwing Nuisance
 Flooded Strand
 Floodpits Drowner
-Forensic Gadgeteer
 Forsaken Miner
 Fury
 Generous Ent
@@ -114,9 +112,7 @@ Generous Plunderer
 Ghor-Clan Rampager
 Giant Killer // Chop Down
 Gisela, the Broken Blade
-Gleaming Geardrake
 Gloryheath Lynx
-Glyph Elemental
 Godless Shrine
 Gogo, Master of Mimicry
 Goldhound
@@ -130,7 +126,7 @@ Harvester of Misery
 Hauntwoods Shrieker
 Hedge Maze
 Hero of Bladehold
-Higure, the Still Wind
+Hildibrand Manderville // Gentleman's Rise
 Hogaak, Arisen Necropolis
 Honest Rutstein
 Hope-Ender Coatl
@@ -143,7 +139,6 @@ Illithid Harvester // Plant Tadpoles
 Imodane's Recruiter // Train Troops
 Indebted Spirit
 Inga and Esika
-Ingenious Infiltrator
 Ink-Eyes, Servant of Oni
 Inti, Seneschal of the Sun
 Iron Spider, Stark Upgrade
@@ -155,8 +150,7 @@ Jetmir, Nexus of Revels
 Jhoira, Weatherlight Captain
 Jill, Shiva's Dominant // Shiva, Warden of Ice
 Junji, the Midnight Sky
-Kappa Cannoneer
-Keruga, the Macrosage
+Kellan, Inquisitive Prodigy // Tail the Suspect
 Kessig Cagebreakers
 Kitesail Larcenist
 Knight-Errant of Eos
@@ -168,11 +162,14 @@ Lasyd Prowler
 Ledger Shredder
 Legion Warboss
 Lion Sash
+Lita, Little Orphan Amphibian
 Lizard Blades
+Locke Cole
 Loot, Exuberant Explorer
 Loot, the Pathfinder
 Luminarch Aspirant
 Luminous Broodmoth
+Lurrus of the Dream-Den
 Lush Portico
 Magda, Brazen Outlaw
 Magmakin Artillerist
@@ -184,9 +181,9 @@ Massacre Girl
 Massacre Wurm
 Master of Etherium
 Metamorphosis Fanatic
-Metastatic Evangel
 Meteor Golem
 Meticulous Archive
+Mighty Mutanimals
 Mikaeus, the Lunarch
 Millikin
 Mirrorshell Crab
@@ -194,10 +191,10 @@ Mistblade Shinobi
 Misty Rainforest
 Momo, Friendly Flier
 Moon-Circuit Hacker
-Moonsnare Specialist
 Mulldrifter
 Murderous Rider // Swift End
 Myr Battlesphere
+Mystic Snake
 Nashi, Moon Sage's Scion
 Necrogoyf
 Nesting Bot
@@ -205,20 +202,18 @@ Network Disruptor
 Nevermaker
 Night Incarnate
 Nighthowler
-Nightshade Assassin
 Nimble Obstructionist
 Ninja of the Deep Hours
 Nova Hellkite
 Noxious Gearhulk
-Nyxborn Hydra
 Nyxborn Unicorn
 Oaken Siren
+Ogre-Head Helm
 Oliphaunt
 Olivia, Mobilized for War
 Omnivorous Flytrap
 Ophiomancer
 Ornery Tumblewagg
-Ornithopter
 Ornithopter of Paradise
 Outcaster Trailblazer
 Overlord of the Balemurk
@@ -230,7 +225,6 @@ Ox of Agonas
 Palladium Myr
 Party Thrasher
 Patchwork Beastie
-Patrolling Peacemaker
 Phyrexian Fleshgorger
 Piggy Bank
 Pinnacle Emissary
@@ -252,8 +246,8 @@ Rishkar, Peema Renegade
 Royal Assassin
 Sacred Foundry
 Sakashima's Student
+Sally Pride, Lioness Leader
 Sanguine Evangelist
-Satoru, the Infiltrator
 Satya, Aetherflux Genius
 Satyr Wayfinder
 Sauron, the Dark Lord
@@ -272,7 +266,6 @@ Sharp-Eyed Rookie
 Shigeki, Jukai Visionary
 Shriekmaw
 Silent Hallcreeper
-Silver-Fur Master
 Sin, Spira's Punishment
 Siren Stormtamer
 Six
@@ -299,8 +292,10 @@ Summon: Leviathan
 Summon: Titan
 Summon: Yojimbo
 Sunbillow Verge
+Surge Engine
 Tajic, Legion's Edge
 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+Tangled Florahedron // Tangled Vale
 Temple Garden
 Tenacious Underdog
 Terra, Magical Adept // Esper Terra
@@ -310,19 +305,22 @@ Thalia, Heretic Cathar
 The Reality Chip
 The Unagi of Kyoshi Island
 The Wandering Rescuer
+Thief of Sanity
 Thought Monitor
 Thraben Inspector
 Thundering Falls
 Timeless Dragon
 Timeline Culler
+Tinybones, the Pickpocket
 Tireless Tracker
 Tishana's Tidebinder
 Transcendent Dragon
-Traxos, Scourge of Kroog
 Trickster's Elk
 Troll of Khazad-dûm
 Trumpeting Carnosaur
+Turncoat Kunoichi
 Twining Twins // Swift Spiral
+Twinmaw Stormbrood // Charring Bite
 Twinshot Sniper
 Twitching Doll
 Ty Lee, Chi Blocker
@@ -330,6 +328,8 @@ Umbral Collar Zealot
 Undercity Sewers
 Underground Mortuary
 Uro, Titan of Nature's Wrath
+Ursine Monstrosity
+Captain Lannery Storm
 Vengevine
 Verdant Catacombs
 Verdurous Gearhulk
