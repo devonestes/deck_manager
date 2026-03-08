@@ -493,6 +493,7 @@ defmodule DeckManager do
   defp normalize_name("Endwalker"), do: "Brainstorm"
   defp normalize_name("Terra Branford"), do: "Urza, Lord High Artificer"
   defp normalize_name("Wild Rose Rebellion"), do: "Counterspell"
+  defp normalize_name("The Imperial City of Archades"), do: "Wall of Omens"
   defp normalize_name("The Strahl"), do: "Smuggler's Copter"
   defp normalize_name("Golbez, Clad In Darkness"), do: "Yawgmoth, Thran Physician"
   defp normalize_name("Vayne Carudas Solidor"), do: "Fynn, the Fangbearer"

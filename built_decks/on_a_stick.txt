@@ -1,19 +1,27 @@
 Agonasaur Rex (PROXY)
+Aurelia, the Law Above (PROXY)
+Bloodbraid Challenger (PROXY)
 Boggart Trawler // Boggart Bog (PROXY)
 Cruel Celebrant (PROXY)
+Deathcap Glade (PROXY)
+Dreamroot Cascade (PROXY)
 Dusk Legion Duelist (PROXY)
 Yawgmoth, Thran Physician (PROXY)
+High Fae Trickster (PROXY)
 Hydroelectric Specimen // Hydroelectric Laboratory (PROXY)
 Icetill Explorer (PROXY)
-Lumra, Bellow of the Woods (PROXY)
 Mentor of the Meek (PROXY)
 Overgrown Tomb (PROXY)
+Rockfall Vale (PROXY)
+Shattered Sanctum (PROXY)
 Solitude (PROXY)
 Squee, Goblin Nabob (PROXY)
-Thousand-Faced Shadow (PROXY)
+Sundown Pass (PROXY)
+Yeva, Nature's Herald (PROXY)
 Aang, at the Crossroads // Aang, Destined Savior
 Abhorrent Oculus
 Abzan Falconer
+Academy Loremaster
 Accursed Marauder
 Aerial Extortionist
 Aether Channeler
@@ -36,34 +44,38 @@ Bannerhide Krushok
 Barrowgoyf
 Big Game Hunter
 Biting-Palm Ninja
+Blackcleave Cliffs
 Blazing Rootwalla
 Blood Artist
 Blood Crypt
 Bloodghast
 Bloodsoaked Champion
 Bloodstained Mire
+Blooming Marsh
 Bloomvine Regent // Claim Territory
 Bonecrusher Giant // Stomp
+Botanical Sanctum
+Bounding Krasis
 Bramble Familiar // Fetch Quest
 Brazen Borrower // Petty Theft
 Breeding Pool
 Bruna, the Fading Light
 Bulwark Ox
-Burrenton Bombardier
 Carnage, Crimson Chaos
 Cataclysmic Gearhulk
-Cecil, Dark Knight // Cecil, Redeemed Paladin
 Chainer, Nightmare Adept
-Charming Scoundrel
 Cheering Crowd
 Chrome Dome
-Colossal Skyturtle
+Cloudblazer
 Combustible Gearhulk
 Commercial District
+Concealed Courtyard
 Conclave Mentor
 Containment Construct
+Copperline Gorge
 Courser of Kruphix
-Dauntless Scrapbot
+Darkslick Shores
+Deserted Beach
 Detective's Phoenix
 Diamond Weapon
 Dion, Bahamut's Dominant // Bahamut, Warden of Light
@@ -72,47 +84,38 @@ Disruptive Stormbrood // Petty Revenge
 Disruptor of Currents
 Dokuchi Silencer
 Doomed Traveler
-Dorothea, Vengeful Victim // Dorothea's Retribution
 Dragon's Rage Channeler
 Dryad Arbor
-Duelist of the Mind
 Dyadrine, Synthesis Amalgam
 Eagles of the North
-Edge Rover
+Elas il-Kor, Sadistic Pilgrim
 Elegy Acolyte
 Elenda, the Dusk Rose
 Elesh Norn // The Argent Etchings
-Emeria Angel
-Empyrean Eagle
-Emry, Lurker of the Loch
 Endurance
 Enduring Courage
 Enduring Curiosity
 Enduring Innocence
 Enduring Vitality
-Enthusiastic Mechanaut
 Evolution Witness
-Evolved Sleeper
 Faerie Mastermind
-Faerie Seer
 Fallen Shinobi
-Fanatic of Rhonas
 Fear of Being Hunted
 Fear of Missing Out
 Fell Stinger
 Flamecache Gecko
 Flametongue Kavu
+Flickerwisp
 Flitterwing Nuisance
 Flooded Strand
 Floodpits Drowner
 Forsaken Miner
+Frilled Mystic
 Fury
 Generous Ent
-Generous Plunderer
 Ghor-Clan Rampager
 Giant Killer // Chop Down
 Gisela, the Broken Blade
-Gloryheath Lynx
 Godless Shrine
 Gogo, Master of Mimicry
 Goldhound
@@ -120,11 +123,13 @@ Golgari Grave-Troll
 Greasewrench Goblin
 Greater Tanuki
 Grief
+Grim Lavamancer
 Guul Draz Assassin
 Hallowed Fountain
 Harvester of Misery
-Hauntwoods Shrieker
+Haunted Ridge
 Hedge Maze
+Helpful Hunter
 Hero of Bladehold
 Hildibrand Manderville // Gentleman's Rise
 Hogaak, Arisen Necropolis
@@ -133,13 +138,9 @@ Hope-Ender Coatl
 Hopeful Initiate
 Hormagaunt Horde
 Horned Loch-Whale // Lagoon Breach
-Hulking Raptor
-Hunted Witness
-Illithid Harvester // Plant Tadpoles
 Imodane's Recruiter // Train Troops
 Indebted Spirit
-Inga and Esika
-Ink-Eyes, Servant of Oni
+Inspiring Vantage
 Inti, Seneschal of the Sun
 Iron Spider, Stark Upgrade
 Ironhoof Boar
@@ -147,28 +148,21 @@ Ivora, Insatiable Heir
 Izoni, Center of the Web
 Jacked Rabbit
 Jetmir, Nexus of Revels
-Jhoira, Weatherlight Captain
 Jill, Shiva's Dominant // Shiva, Warden of Ice
 Junji, the Midnight Sky
-Kellan, Inquisitive Prodigy // Tail the Suspect
 Kessig Cagebreakers
-Kitesail Larcenist
 Knight-Errant of Eos
 Krenko, Tin Street Kingpin
 Krosan Tusker
 Kutzil, Malamet Exemplar
 Laelia, the Blade Reforged
 Lasyd Prowler
-Ledger Shredder
-Legion Warboss
 Lion Sash
 Lita, Little Orphan Amphibian
 Lizard Blades
 Locke Cole
-Loot, Exuberant Explorer
 Loot, the Pathfinder
 Luminarch Aspirant
-Luminous Broodmoth
 Lurrus of the Dream-Den
 Lush Portico
 Magda, Brazen Outlaw
@@ -189,9 +183,7 @@ Millikin
 Mirrorshell Crab
 Mistblade Shinobi
 Misty Rainforest
-Momo, Friendly Flier
 Moon-Circuit Hacker
-Mulldrifter
 Murderous Rider // Swift End
 Myr Battlesphere
 Mystic Snake
@@ -202,12 +194,12 @@ Network Disruptor
 Nevermaker
 Night Incarnate
 Nighthowler
+Nightpack Ambusher
+Niko, Light of Hope
 Nimble Obstructionist
 Ninja of the Deep Hours
-Nova Hellkite
 Noxious Gearhulk
 Nyxborn Unicorn
-Oaken Siren
 Ogre-Head Helm
 Oliphaunt
 Olivia, Mobilized for War
@@ -216,13 +208,13 @@ Ophiomancer
 Ornery Tumblewagg
 Ornithopter of Paradise
 Outcaster Trailblazer
+Overgrown Farmland
 Overlord of the Balemurk
 Overlord of the Boilerbilges
 Overlord of the Floodpits
 Overlord of the Hauntwoods
 Overlord of the Mistmoors
 Ox of Agonas
-Palladium Myr
 Party Thrasher
 Patchwork Beastie
 Phyrexian Fleshgorger
@@ -238,9 +230,12 @@ Qarsi Revenant
 Quantum Riddler
 Raffine, Scheming Seer
 Raucous Theater
+Razorverge Thicket
 Realm-Cloaked Giant // Cast Off
 Reckless Detective
 Renata, Called to the Hunt
+Research Thief
+Reservoir Kraken
 Restoration Angel
 Rishkar, Peema Renegade
 Royal Assassin
@@ -257,14 +252,18 @@ Scavenger Regent // Exude Toxin
 Scrapwork Mutt
 Scrawling Crawler
 Sea-Dasher Octopus
+Seachrome Coast
 Searslicer Goblin
 Seedship Broodtender
 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+Serum Visionary
 Shadowy Backstreet
 Shambling Ghast
 Sharp-Eyed Rookie
 Shigeki, Jukai Visionary
+Shipwreck Marsh
 Shriekmaw
+Sicarian Infiltrator
 Silent Hallcreeper
 Sin, Spira's Punishment
 Siren Stormtamer
@@ -273,17 +272,21 @@ Skitterbeam Battalion
 Skyclave Apparition
 Solemn Simulacrum
 Soul of Windgrace
+Soulherder
 Sovereign Okinec Ahau
 Sower of Temptation
+Spectral Adversary
+Spirebluff Canal
 Springheart Nantuko
 Starfield Shepherd
 Starving Revenant
 Steam Vents
 Steel Overseer
-Steel Seraph
 Stingerback Terror
 Stitcher's Supplier
+Stoic Sphinx
 Stomping Ground
+Stormcarved Coast
 Subtlety
 Summon: Brynhildr
 Summon: Fenrir
@@ -293,26 +296,24 @@ Summon: Titan
 Summon: Yojimbo
 Sunbillow Verge
 Surge Engine
+Sygg, River Cutthroat
 Tajic, Legion's Edge
-Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
 Tangled Florahedron // Tangled Vale
+Tatyova, Benthic Druid
 Temple Garden
 Tenacious Underdog
 Terra, Magical Adept // Esper Terra
 Tersa Lightshatter
 Thalia and The Gitrog Monster
-Thalia, Heretic Cathar
-The Reality Chip
+Wall of Omens
 The Unagi of Kyoshi Island
 The Wandering Rescuer
 Thief of Sanity
 Thought Monitor
 Thraben Inspector
 Thundering Falls
-Timeless Dragon
 Timeline Culler
 Tinybones, the Pickpocket
-Tireless Tracker
 Tishana's Tidebinder
 Transcendent Dragon
 Trickster's Elk
@@ -323,7 +324,6 @@ Twining Twins // Swift Spiral
 Twinmaw Stormbrood // Charring Bite
 Twinshot Sniper
 Twitching Doll
-Ty Lee, Chi Blocker
 Umbral Collar Zealot
 Undercity Sewers
 Underground Mortuary
@@ -335,14 +335,13 @@ Verdant Catacombs
 Verdurous Gearhulk
 Voice of Victory
 Voracious Greatshark
-Warden of Evos Isle
-Warkite Marauder
 Wasteland Viper
-Watcher of the Spheres
 Watery Grave
-Weathered Wayfarer
 Welcoming Vampire
+Whirlwing Stormbrood // Dynamic Soar
 Wickerfolk Thresher
+Wight of the Reliquary
+Wildborn Preserver
 Wildfire Wickerfolk
 Windswept Heath
 Witch Enchanter // Witch-Blessed Meadow
@@ -352,9 +351,10 @@ Wrecking Ogre
 Wren's Run Hydra
 Wurmcoil Engine
 Xenagos, God of Revels
+Y'shtola Rhul
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
+Yorion, Sky Nomad
 Zack Fair
 Zahur, Glory's Past
-Zephyr Singer
 Zurgo Stormrender
