@@ -4,7 +4,6 @@
 1 Averna, the Chaos Bloom (CMR) 269
 1 Balefire Dragon (ISD) 129
 1 Barkchannel Pathway / Tidechannel Pathway (KHM) 290
-1 Bloodbraid Challenger (M3C) 122
 1 Cascade Bluffs (CMM) 990
 1 Command Tower (MOC) 396
 1 Commander's Sphere (MOC) 352
@@ -43,6 +42,7 @@
 1 Nyxbloom Ancient (THB) 190
 1 Omnath, Locus of Rage (BFZ) 217
 1 Otawara, Soaring City (NEO) 271
+1 Pathbreaker Ibex (SLD) 307
 1 Pyrewood Gearhulk (DFT) 216
 1 Ranger's Path (M13) 186
 1 Raph & Mikey, Troublemakers (TMT) 167

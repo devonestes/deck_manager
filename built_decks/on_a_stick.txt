@@ -1,13 +1,9 @@
 Agonasaur Rex (PROXY)
-Aurelia, the Law Above (PROXY)
-Bloodbraid Challenger (PROXY)
 Boggart Trawler // Boggart Bog (PROXY)
 Cruel Celebrant (PROXY)
 Deathcap Glade (PROXY)
 Dreamroot Cascade (PROXY)
 Dusk Legion Duelist (PROXY)
-Yawgmoth, Thran Physician (PROXY)
-High Fae Trickster (PROXY)
 Hydroelectric Specimen // Hydroelectric Laboratory (PROXY)
 Icetill Explorer (PROXY)
 Mentor of the Meek (PROXY)
@@ -48,6 +44,7 @@ Blackcleave Cliffs
 Blazing Rootwalla
 Blood Artist
 Blood Crypt
+Bloodbraid Challenger
 Bloodghast
 Bloodsoaked Champion
 Bloodstained Mire
@@ -59,8 +56,10 @@ Bounding Krasis
 Bramble Familiar // Fetch Quest
 Brazen Borrower // Petty Theft
 Breeding Pool
+Brineborn Cutthroat
 Bruna, the Fading Light
 Bulwark Ox
+Captain Lannery Storm
 Carnage, Crimson Chaos
 Cataclysmic Gearhulk
 Chainer, Nightmare Adept
@@ -98,6 +97,7 @@ Enduring Curiosity
 Enduring Innocence
 Enduring Vitality
 Evolution Witness
+Ezio, Brash Novice
 Faerie Mastermind
 Fallen Shinobi
 Fear of Being Hunted
@@ -129,7 +129,6 @@ Hallowed Fountain
 Harvester of Misery
 Haunted Ridge
 Hedge Maze
-Helpful Hunter
 Hero of Bladehold
 Hildibrand Manderville // Gentleman's Rise
 Hogaak, Arisen Necropolis
@@ -277,6 +276,7 @@ Sovereign Okinec Ahau
 Sower of Temptation
 Spectral Adversary
 Spirebluff Canal
+Spirited Companion
 Springheart Nantuko
 Starfield Shepherd
 Starving Revenant
@@ -297,6 +297,7 @@ Summon: Yojimbo
 Sunbillow Verge
 Surge Engine
 Sygg, River Cutthroat
+Syr Konrad, the Grim
 Tajic, Legion's Edge
 Tangled Florahedron // Tangled Vale
 Tatyova, Benthic Druid
@@ -305,7 +306,6 @@ Tenacious Underdog
 Terra, Magical Adept // Esper Terra
 Tersa Lightshatter
 Thalia and The Gitrog Monster
-Wall of Omens
 The Unagi of Kyoshi Island
 The Wandering Rescuer
 Thief of Sanity
@@ -329,12 +329,12 @@ Undercity Sewers
 Underground Mortuary
 Uro, Titan of Nature's Wrath
 Ursine Monstrosity
-Captain Lannery Storm
 Vengevine
 Verdant Catacombs
 Verdurous Gearhulk
 Voice of Victory
 Voracious Greatshark
+Wall of Omens
 Wasteland Viper
 Watery Grave
 Welcoming Vampire

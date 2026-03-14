@@ -4,7 +4,6 @@ Avenger of Zendikar
 Averna, the Chaos Bloom
 Balefire Dragon
 Barkchannel Pathway // Tidechannel Pathway
-Bloodbraid Challenger
 Cascade Bluffs
 Command Tower
 Commander's Sphere
@@ -60,6 +59,7 @@ Nissa, Ascended Animist
 Nyxbloom Ancient
 Omnath, Locus of Rage
 Otawara, Soaring City
+Pathbreaker Ibex
 Pyrewood Gearhulk
 Ranger's Path
 Raph & Mikey, Troublemakers
