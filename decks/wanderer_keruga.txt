@@ -1,5 +1,6 @@
 1 Maelstrom Wanderer (CMM) 684
 1 Apex Devastator (CMR) 674
+1 Auton Soldier (WHO) 36
 1 Avenger of Zendikar (C13) 135
 1 Averna, the Chaos Bloom (CMR) 269
 1 Balefire Dragon (ISD) 129
@@ -9,13 +10,11 @@
 1 Commander's Sphere (MOC) 352
 1 Consecrated Sphinx (MBS) 21
 1 Cultivate (J22) 644
-1 Defense of the Heart (ULG) 100
 1 Drakuseth, Maw of Flames (CLB) 790
 1 Dreamroot Cascade (VOW) 282
 1 Etali, Primal Conqueror / Etali, Primal Sickness (MOM) 137
 1 Etali, Primal Storm (AFC) 126
 1 Flooded Grove (LTC) 309
-1 Food Chain (MMQ) 246
 8 Forest (J22) 110
 1 Genesis Ultimatum (IKO) 189
 1 Goldspan Dragon (J22) 550
@@ -23,7 +22,7 @@
 1 Greater Good (BLC) 223
 1 Hinterland Harbor (LTC) 317
 1 Hullbreaker Horror (WOC) 95
-1 Imoti, Celebrant of Bounty (MUL) 43
+1 Inferno Titan (BLC) 198
 5 Island (J22) 101
 1 Jumbo Cactuar (FIN) 191
 1 Keeper of Secrets (40K) 78
@@ -34,7 +33,6 @@
 1 Kozilek's Unsealing (MH3) 65
 1 Lurking Predators (C16) 156
 1 Migration Path (IKO) 164
-1 Monstrous Vortex (MH3) 162
 1 Moraug, Fury of Akoum (ZNR) 300
 7 Mountain (J22) 107
 1 Nexus of Fate (SLD) 1498
@@ -64,6 +62,7 @@
 1 Sulfur Falls (LTC) 333
 1 Sun Quan, Lord of Wu (CMM) 123
 1 Sunbird's Invocation (SCD) 159
+1 Surrak Dragonclaw (KTK) 206
 1 Tatyova, Benthic Druid (FDN) 247
 1 Temur Sabertooth (NCC) 315
 1 Terror of the Peaks (M21) 369
@@ -79,3 +78,4 @@
 1 Wood Elves (LTC) 263
 1 Wurmcoil Engine (2XM) 308
 1 Yavimaya Coast (DMU) 261
+1 Zilortha, Strength Incarnate (CMM) 366

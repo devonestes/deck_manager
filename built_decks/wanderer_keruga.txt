@@ -1,5 +1,6 @@
 Maelstrom Wanderer
 Apex Devastator
+Auton Soldier
 Avenger of Zendikar
 Averna, the Chaos Bloom
 Balefire Dragon
@@ -9,13 +10,11 @@ Command Tower
 Commander's Sphere
 Consecrated Sphinx
 Cultivate
-Defense of the Heart
 Drakuseth, Maw of Flames
 Dreamroot Cascade
 Etali, Primal Conqueror // Etali, Primal Sickness
 Etali, Primal Storm
 Flooded Grove
-Food Chain
 Forest
 Forest
 Forest
@@ -30,7 +29,7 @@ Goreclaw, Terror of Qal Sisma
 Greater Good
 Hinterland Harbor
 Hullbreaker Horror
-Imoti, Celebrant of Bounty
+Inferno Titan
 Island
 Island
 Island
@@ -45,7 +44,6 @@ Kogla and Yidaro
 Kozilek's Unsealing
 Lurking Predators
 Migration Path
-Monstrous Vortex
 Moraug, Fury of Akoum
 Mountain
 Mountain
@@ -83,6 +81,7 @@ Stormscale Scion
 Sulfur Falls
 Sun Quan, Lord of Wu
 Sunbird's Invocation
+Surrak Dragonclaw
 Tatyova, Benthic Druid
 Temur Sabertooth
 Terror of the Peaks
@@ -98,3 +97,4 @@ Vorinclex // The Grand Evolution
 Wood Elves
 Wurmcoil Engine
 Yavimaya Coast
+Zilortha, Strength Incarnate
