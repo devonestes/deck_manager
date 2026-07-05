@@ -100,7 +100,13 @@ defmodule DeckManager.Archetypes.Assignment do
         for %{card: card, homes: homes} <- assignments,
             home <- homes,
             home.archetype == name and home.role in [:signpost, :synergy] do
-          %{card: card, role: home.role, matched: home.matched, score: home.score}
+          %{
+            card: card,
+            role: home.role,
+            matched: home.matched,
+            core: home.core,
+            score: home.score
+          }
         end
         |> Enum.sort_by(& &1.score, :desc)
 
@@ -197,6 +203,7 @@ defmodule DeckManager.Archetypes.Assignment do
         tier: arch.tier,
         role: role,
         matched: matched,
+        core: core,
         artifact_themed?: arch.artifact_themed?,
         score: score(role, length(core))
       }

@@ -31,24 +31,62 @@ defmodule DeckManager.Archetypes.Gallery do
       |> Enum.with_index()
       |> Enum.map(fn {{arch, members}, i} -> archetype_section(arch, members, i) end)
 
+    body =
+      Enum.join(sections, "\n") <>
+        flex_section("flex", "Flex / role-players", nonland) <>
+        flex_section("fixing", "Fixing / lands", lands)
+
+    document(
+      "#{esc(String.upcase(list))} — archetype gallery",
+      "#{length(cards)} cards · #{length(archetypes)} archetypes",
+      nav(supply, length(nonland), length(lands)),
+      body
+    )
+  end
+
+  @doc """
+  HTML page of add suggestions: one section per archetype, showing the owned
+  candidate cards. `sections` is `[{archetype_map, [member]}]` in the same member
+  shape `Assignment.by_archetype/2` produces.
+  """
+  def suggestions_html(list, sections) do
+    body =
+      sections
+      |> Enum.with_index()
+      |> Enum.map_join("\n", fn {{arch, members}, i} -> archetype_section(arch, members, i) end)
+
+    nav =
+      sections
+      |> Enum.with_index()
+      |> Enum.map_join("", fn {{arch, members}, i} ->
+        ~s(<a href="#a#{i}">#{pips(arch["colors"])}<span>#{esc(arch["archetype"])}</span><b>#{length(members)}</b></a>)
+      end)
+
+    document(
+      "#{esc(String.upcase(list))} — add suggestions",
+      "owned cards that fit under-supplied archetypes",
+      nav,
+      body
+    )
+  end
+
+  defp document(title, subtitle, nav, body) do
     """
     <!doctype html>
     <html lang="en">
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>#{esc(String.upcase(list))} — archetype gallery</title>
+    <title>#{title}</title>
     <style>#{css()}</style>
     </head>
     <body>
     <header class="top">
-      <h1>#{esc(String.upcase(list))} <span class="sub">#{length(cards)} cards · #{length(archetypes)} archetypes</span></h1>
-      <nav class="jump">#{nav(supply, length(nonland), length(lands))}</nav>
+      <h1>#{title} <span class="sub">#{subtitle}</span></h1>
+      <nav class="jump">#{nav}</nav>
     </header>
     <main>
-    #{Enum.join(sections, "\n")}
-    #{flex_section("flex", "Flex / role-players", nonland)}
-    #{flex_section("fixing", "Fixing / lands", lands)}
+    #{body}
     </main>
     </body>
     </html>
