@@ -1,0 +1,7 @@
+# Re-downloadable / large / derived caches — keep these out of git.
+scryfall/
+17lands/
+models/
+
+# Tags (data/tags/tags.jsonl) are expensive to regenerate (hours of local
+# inference) but small, so they stay tracked for resumability across machines.

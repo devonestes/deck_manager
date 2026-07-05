@@ -1,0 +1,128 @@
+{
+  "archetypes": [
+    {
+      "altitude": "strategic",
+      "archetype": "WU tempo/fliers",
+      "colors": "WU",
+      "key_mechanics": [
+        "fliers/evasion",
+        "bounce/tempo-interaction",
+        "surveil",
+        "prepared"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "WB repartee graveyard-value",
+      "colors": "WB",
+      "key_mechanics": [
+        "repartee",
+        "graveyard",
+        "surveil",
+        "spell that targets a creature"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "WR Spirits (flashback/graveyard)",
+      "colors": "WR",
+      "key_mechanics": [
+        "Spirit typal",
+        "flashback",
+        "graveyard",
+        "discard/madness"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "WG +1/+1 counters & tokens",
+      "colors": "WG",
+      "key_mechanics": [
+        "+1/+1 counters",
+        "tokens",
+        "ramp",
+        "vigilance"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "strategic",
+      "archetype": "UB control/tempo",
+      "colors": "UB",
+      "key_mechanics": [
+        "fliers/evasion",
+        "ward",
+        "surveil",
+        "prepared",
+        "discard/madness"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "UR spellslinger (opus/copy spells)",
+      "colors": "UR",
+      "key_mechanics": [
+        "opus",
+        "spells-matter",
+        "cast that spell",
+        "tokens",
+        "discard/madness"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "UG increment (spell-cost counters/big mana)",
+      "colors": "UG",
+      "key_mechanics": [
+        "increment",
+        "+1/+1 counters",
+        "trample",
+        "fractal",
+        "ramp"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "strategic",
+      "archetype": "BR sacrifice/aggro",
+      "colors": "BR",
+      "key_mechanics": [
+        "sacrifice/aristocrats",
+        "discard/madness",
+        "spells-matter",
+        "attack/aggro"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "BG lifegain",
+      "colors": "BG",
+      "key_mechanics": [
+        "lifegain",
+        "infusion",
+        "gained life this turn",
+        "attack/aggro"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "strategic",
+      "archetype": "RG monsters/converge",
+      "colors": "RG",
+      "key_mechanics": [
+        "reach",
+        "converge",
+        "trample",
+        "tokens",
+        "attack/aggro"
+      ],
+      "tier": "support"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "archetypes": [
+    {
+      "altitude": "mechanical",
+      "archetype": "Blink/Flicker ETB value",
+      "colors": "WU",
+      "key_mechanics": [
+        "blink/flicker",
+        "flash",
+        "fliers/evasion",
+        "scry"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Aristocrats / sacrifice",
+      "colors": "WB",
+      "key_mechanics": [
+        "sacrifice/aristocrats",
+        "tokens",
+        "lifelink",
+        "creature dies",
+        "loses life"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "strategic",
+      "archetype": "Go-wide aggro",
+      "colors": "WR",
+      "key_mechanics": [
+        "attack/aggro",
+        "tokens",
+        "+1/+1 counters",
+        "type:human"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "+1/+1 counters",
+      "colors": "WG",
+      "key_mechanics": [
+        "+1/+1 counters",
+        "bestow",
+        "power-matters",
+        "vigilance"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Ninjas / tempo",
+      "colors": "UB",
+      "key_mechanics": [
+        "ninjutsu",
+        "combat damage",
+        "fliers/evasion",
+        "deathtouch"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Artifacts / spells",
+      "colors": "UR",
+      "key_mechanics": [
+        "artifacts",
+        "artifact creatures",
+        "discard/madness"
+      ],
+      "tier": "fringe"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Flash tempo",
+      "colors": "UG",
+      "key_mechanics": [
+        "flash",
+        "fliers/evasion",
+        "lifegain",
+        "+1/+1 counters"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Madness / graveyard aggro",
+      "colors": "BR",
+      "key_mechanics": [
+        "discard/madness",
+        "graveyard",
+        "menace",
+        "trample"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Graveyard midrange",
+      "colors": "BG",
+      "key_mechanics": [
+        "graveyard",
+        "mill",
+        "escape",
+        "lifegain"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Delirium / bloodrush aggro",
+      "colors": "RG",
+      "key_mechanics": [
+        "delirium/threshold",
+        "trample",
+        "bloodrush",
+        "channel"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Angels",
+      "colors": "mono-W",
+      "key_mechanics": [
+        "type:angel",
+        "fliers/evasion",
+        "vigilance"
+      ],
+      "tier": "fringe"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Sagas",
+      "colors": "WURG",
+      "key_mechanics": [
+        "type:saga",
+        "transform"
+      ],
+      "tier": "fringe"
+    }
+  ]
+}

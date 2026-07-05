@@ -1,0 +1,143 @@
+{
+  "archetypes": [
+    {
+      "altitude": "strategic",
+      "archetype": "Fliers tempo",
+      "colors": "WU",
+      "key_mechanics": [
+        "flash",
+        "flying/evasion",
+        "bounce/tempo-interaction",
+        "blink/flicker",
+        "vigilance"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "strategic",
+      "archetype": "Lifegain / attacks-alone heroes",
+      "colors": "WB",
+      "key_mechanics": [
+        "lifelink",
+        "attacks alone",
+        "soldiers",
+        "graveyard-recursion"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "strategic",
+      "archetype": "Heroes go-wide aggro",
+      "colors": "WR",
+      "key_mechanics": [
+        "prowess",
+        "strike/spells-matter",
+        "attack triggers",
+        "worthy/Double",
+        "teamwork"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Heroes +1/+1 counters",
+      "colors": "WG",
+      "key_mechanics": [
+        "+1/+1 counters",
+        "hero payoffs",
+        "reach",
+        "vigilance"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Connive / draw-your-second-card",
+      "colors": "UB",
+      "key_mechanics": [
+        "connive",
+        "draw second card",
+        "discard/madness",
+        "graveyard",
+        "fliers"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Artifacts / Robots",
+      "colors": "UR",
+      "key_mechanics": [
+        "artifacts",
+        "artifact creatures",
+        "robot payoffs",
+        "spells-matter",
+        "fliers"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "+1/+1 counters",
+      "colors": "UG",
+      "key_mechanics": [
+        "+1/+1 counters",
+        "tokens",
+        "counter on target",
+        "hero payoffs",
+        "power-up"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Villains sacrifice/aristocrats",
+      "colors": "BR",
+      "key_mechanics": [
+        "villain tokens",
+        "sacrifice/aristocrats",
+        "discard/madness",
+        "menace",
+        "black villain payoffs"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Graveyard sacrifice midrange",
+      "colors": "BG",
+      "key_mechanics": [
+        "graveyard",
+        "sacrifice/aristocrats",
+        "creature cards in graveyard",
+        "deathtouch",
+        "villains"
+      ],
+      "tier": "support"
+    },
+    {
+      "altitude": "mechanical",
+      "archetype": "Power-up monsters",
+      "colors": "RG",
+      "key_mechanics": [
+        "power-up",
+        "fight",
+        "trample",
+        "+1/+1 counters",
+        "reach"
+      ],
+      "tier": "primary"
+    },
+    {
+      "altitude": "strategic",
+      "archetype": "Villains",
+      "colors": "mono-B",
+      "key_mechanics": [
+        "villain payoffs",
+        "villain creature tokens",
+        "sacrifice"
+      ],
+      "tier": "fringe"
+    }
+  ]
+}
