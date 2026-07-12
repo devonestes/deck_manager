@@ -40,6 +40,29 @@ defmodule DeckManager.Scryfall do
     opts |> oracle_cards() |> Map.new(fn card -> {card.name, card} end)
   end
 
+  @card_url "https://api.scryfall.com/cards"
+
+  @doc """
+  Look up one exact printing by its set code and collector number
+  (e.g. "eoe", "42"). Returns `{:ok, map}` with the raw Scryfall card (string
+  keys — includes `"name"`, `"set"`, `"collector_number"`) or `{:error, reason}`.
+
+  This is the identity Moxfield imports on, so we hit Scryfall's per-printing
+  endpoint rather than the oracle bulk (which has no collector numbers).
+  """
+  def card_by_set_number(set, number) do
+    set = set |> to_string() |> String.trim() |> String.downcase()
+    number = number |> to_string() |> String.trim()
+    url = "#{@card_url}/#{URI.encode(set)}/#{URI.encode(number)}"
+
+    case Req.get(url, headers: @headers) do
+      {:ok, %{status: 200, body: %{} = card}} -> {:ok, card}
+      {:ok, %{status: 404}} -> {:error, {:not_found, set, number}}
+      {:ok, %{status: status, body: body}} -> {:error, {:scryfall_status, status, body}}
+      {:error, exception} -> {:error, {:scryfall, Exception.message(exception)}}
+    end
+  end
+
   @search_url "https://api.scryfall.com/cards/search"
 
   @doc """
