@@ -1,5 +1,4 @@
 1 Aang, at the Crossroads / Aang, Destined Savior (TLA) 203
-1 Abhorrent Oculus (DSK) 42
 1 Abzan Falconer (MIC) 77
 1 Academy Loremaster (DMU) 40
 1 Accursed Marauder (MH3) 80
@@ -45,6 +44,7 @@
 1 Brineborn Cutthroat (FDN) 152
 1 Bruna, the Fading Light (INR) 14
 1 Bulwark Ox (DFT) 7
+1 Canyon Slough (M3C) 325
 1 Captain Lannery Storm (LCC) 218
 1 Carnage, Crimson Chaos (SPM) 125
 1 Cataclysmic Gearhulk (NEC) 81
@@ -52,6 +52,7 @@
 1 Cheering Crowd (SPM) 126
 1 Chrome Dome (TMT) 172
 1 Cloudblazer (BLC) 249
+1 Coastal Peak (MSC) 232
 1 Combustible Gearhulk (M3C) 210
 1 Commercial District (MKM) 324
 1 Concealed Courtyard (KLD) 245
@@ -83,9 +84,6 @@
 1 Elesh Norn / The Argent Etchings (MOM) 12
 1 Endurance (H2R) 14
 1 Enduring Courage (DSK) 133
-1 Enduring Curiosity (DSK) 51
-1 Enduring Innocence (DSK) 6
-1 Enduring Vitality (DSK) 176
 1 Evolution Witness (MH3) 151
 1 Ezio, Brash Novice (ACR) 145
 1 Faerie Mastermind (MOM) 352
@@ -93,6 +91,8 @@
 1 Fear of Being Hunted (DSK) 134
 1 Fear of Missing Out (DSK) 136
 1 Fell Stinger (VOW) 112
+1 Festering Thicket (EOC) 21
+1 Fetid Pools (MKC) 261
 1 Flamecache Gecko (BLB) 135
 1 Flametongue Kavu (DMR) 432
 1 Flickerwisp (CMR) 374
@@ -106,6 +106,7 @@
 1 Ghor-Clan Rampager (MM3) 165
 1 Giant Killer / Chop Down (ELD) 14
 1 Gisela, the Broken Blade (EMN) 28
+1 Glittering Massif (EOC) 22
 1 Godless Shrine (RVR) 401
 1 Gogo, Master of Mimicry (FIN) 437
 1 Goldhound (SNC) 108
@@ -135,6 +136,7 @@
 1 Inti, Seneschal of the Sun (LCI) 156
 1 Iron Spider, Stark Upgrade (SPM) 279
 1 Ironhoof Boar (NEO) 148
+1 Irrigated Farmland (AKH) 245
 1 Ivora, Insatiable Heir (J25) 50
 1 Izoni, Center of the Web (MKM) 362
 1 Jacked Rabbit (BLC) 9
@@ -159,7 +161,6 @@
 1 Magda, Brazen Outlaw (KHM) 142
 1 Magmakin Artillerist (DFT) 137
 1 Malcolm, Alluring Scoundrel (LCI) 63
-1 Marionette Apprentice (MH3) 100
 1 Marsh Flats (MH2) 437
 1 Marvin, Murderous Mimic (DSK) 253
 1 Massacre Girl (WAR) 99
@@ -208,7 +209,6 @@
 1 Overlord of the Hauntwoods (DSK) 194
 1 Overlord of the Mistmoors (DSK) 23
 1 Ox of Agonas (THB) 147
-1 Party Thrasher (MH3) 129
 1 Patchwork Beastie (DSK) 195
 1 Phyrexian Fleshgorger (BRO) 332
 1 Piggy Bank (DSK) 148
@@ -217,11 +217,11 @@
 1 Polluted Delta (MH3) 438
 1 Professional Face-Breaker (J22) 581
 1 Prosperous Thief (NEO) 336
-1 Purphoros, God of the Forge (THS) 135
 1 Pyrogoyf (M3C) 111
 1 Qarsi Revenant (TDM) 338
 1 Quantum Riddler (EOE) 305
 1 Raffine, Scheming Seer (SNC) 213
+1 Rain-Slicked Copse (ECC) 23
 1 Raucous Theater (MKM) 329
 1 Razorverge Thicket (ONE) 257
 1 Realm-Cloaked Giant / Cast Off (BLC) 149
@@ -236,12 +236,12 @@
 1 Sacred Foundry (RVR) 409
 1 Sakashima's Student (PCA) 24
 1 Sally Pride, Lioness Leader (TMT) 24
-1 Sanguine Evangelist (LCI) 34
 1 Satya, Aetherflux Genius (M3C) 3
 1 Satyr Wayfinder (BNG) 136
 1 Sauron, the Dark Lord (LTR) 224
 1 Savior of Ollenbock (VOW) 352
 1 Scalding Tarn (MH2) 439
+1 Scattered Groves (PLST) AKH-247
 1 Scavenger Regent / Exude Toxin (TDM) 90
 1 Scrapwork Mutt (BRO) 164
 1 Scrawling Crawler (FDN) 354
@@ -255,6 +255,7 @@
 1 Shambling Ghast (AFR) 119
 1 Sharp-Eyed Rookie (MKM) 176
 1 Shattered Sanctum (INR) 283
+1 Sheltered Thicket (PLST) AKH-248
 1 Shigeki, Jukai Visionary (NEO) 206
 1 Shipwreck Marsh (MID) 285
 1 Shriekmaw (MKC) 139
@@ -277,7 +278,6 @@
 1 Springheart Nantuko (MH3) 341
 1 Squee, Goblin Nabob (C19) 152
 1 Starfield Shepherd (EOE) 37
-1 Starving Revenant (LCI) 338
 1 Steam Vents (RVR) 412
 1 Steel Overseer (PIP) 241
 1 Stingerback Terror (OTJ) 147
@@ -291,7 +291,6 @@
 1 Summon: Kujata (FIC) 61
 1 Summon: Leviathan (FIN) 77
 1 Summon: Titan (FIN) 204
-1 Summon: Yojimbo (FIC) 28
 1 Sunbillow Verge (DFT) 264
 1 Sundown Pass (WHO) 310
 1 Surge Engine (BRO) 81
@@ -324,6 +323,7 @@
 1 Twinshot Sniper (NEO) 168
 1 Twitching Doll (DSK) 201
 1 Umbral Collar Zealot (EOE) 395
+1 Umbral Expanse (SOC) 60
 1 Undercity Sewers (MKM) 332
 1 Underground Mortuary (MKM) 333
 1 Uro, Titan of Nature's Wrath (MB2) 93

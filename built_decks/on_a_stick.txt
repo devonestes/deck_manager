@@ -1,5 +1,6 @@
 Agonasaur Rex (PROXY)
 Boggart Trawler // Boggart Bog (PROXY)
+Coastal Peak (PROXY)
 Cruel Celebrant (PROXY)
 Dreamroot Cascade (PROXY)
 Dusk Legion Duelist (PROXY)
@@ -7,13 +8,14 @@ Hydroelectric Specimen // Hydroelectric Laboratory (PROXY)
 Icetill Explorer (PROXY)
 Mentor of the Meek (PROXY)
 Overgrown Tomb (PROXY)
+Rain-Slicked Copse (PROXY)
 Rockfall Vale (PROXY)
 Shattered Sanctum (PROXY)
 Solitude (PROXY)
 Squee, Goblin Nabob (PROXY)
+Umbral Expanse (PROXY)
 Yeva, Nature's Herald (PROXY)
 Aang, at the Crossroads // Aang, Destined Savior
-Abhorrent Oculus
 Abzan Falconer
 Academy Loremaster
 Accursed Marauder
@@ -57,6 +59,7 @@ Breeding Pool
 Brineborn Cutthroat
 Bruna, the Fading Light
 Bulwark Ox
+Canyon Slough
 Captain Lannery Storm
 Carnage, Crimson Chaos
 Cataclysmic Gearhulk
@@ -92,9 +95,6 @@ Elenda, the Dusk Rose
 Elesh Norn // The Argent Etchings
 Endurance
 Enduring Courage
-Enduring Curiosity
-Enduring Innocence
-Enduring Vitality
 Evolution Witness
 Ezio, Brash Novice
 Faerie Mastermind
@@ -102,6 +102,8 @@ Fallen Shinobi
 Fear of Being Hunted
 Fear of Missing Out
 Fell Stinger
+Festering Thicket
+Fetid Pools
 Flamecache Gecko
 Flametongue Kavu
 Flickerwisp
@@ -115,6 +117,7 @@ Generous Ent
 Ghor-Clan Rampager
 Giant Killer // Chop Down
 Gisela, the Broken Blade
+Glittering Massif
 Godless Shrine
 Gogo, Master of Mimicry
 Goldhound
@@ -142,6 +145,7 @@ Inspiring Vantage
 Inti, Seneschal of the Sun
 Iron Spider, Stark Upgrade
 Ironhoof Boar
+Irrigated Farmland
 Ivora, Insatiable Heir
 Izoni, Center of the Web
 Jacked Rabbit
@@ -166,7 +170,6 @@ Lush Portico
 Magda, Brazen Outlaw
 Magmakin Artillerist
 Malcolm, Alluring Scoundrel
-Marionette Apprentice
 Marsh Flats
 Marvin, Murderous Mimic
 Massacre Girl
@@ -213,7 +216,6 @@ Overlord of the Floodpits
 Overlord of the Hauntwoods
 Overlord of the Mistmoors
 Ox of Agonas
-Party Thrasher
 Patchwork Beastie
 Phyrexian Fleshgorger
 Piggy Bank
@@ -222,7 +224,6 @@ Plumecreed Escort
 Polluted Delta
 Professional Face-Breaker
 Prosperous Thief
-Purphoros, God of the Forge
 Pyrogoyf
 Qarsi Revenant
 Quantum Riddler
@@ -240,12 +241,12 @@ Royal Assassin
 Sacred Foundry
 Sakashima's Student
 Sally Pride, Lioness Leader
-Sanguine Evangelist
 Satya, Aetherflux Genius
 Satyr Wayfinder
 Sauron, the Dark Lord
 Savior of Ollenbock
 Scalding Tarn
+Scattered Groves
 Scavenger Regent // Exude Toxin
 Scrapwork Mutt
 Scrawling Crawler
@@ -258,6 +259,7 @@ Serum Visionary
 Shadowy Backstreet
 Shambling Ghast
 Sharp-Eyed Rookie
+Sheltered Thicket
 Shigeki, Jukai Visionary
 Shipwreck Marsh
 Shriekmaw
@@ -278,7 +280,6 @@ Spirebluff Canal
 Spirited Companion
 Springheart Nantuko
 Starfield Shepherd
-Starving Revenant
 Steam Vents
 Steel Overseer
 Stingerback Terror
@@ -292,7 +293,6 @@ Summon: Fenrir
 Summon: Kujata
 Summon: Leviathan
 Summon: Titan
-Summon: Yojimbo
 Sunbillow Verge
 Sundown Pass
 Surge Engine
