@@ -4,7 +4,9 @@ Akroma's Memorial
 Anara, Wolvid Familiar
 Ashaya, Soul of the Wild
 Beast Whisperer
+Berserk
 Boseiju, Who Endures
+Bridgeworks Battle // Tanglespan Bridgeworks
 Bristly Bill, Spine Sower
 Bugenhagen, Wise Elder
 Castle Garenbrig
@@ -34,22 +36,19 @@ Forest
 Forest
 Forest
 Forest
-Forest
 Gaea's Touch
-Garruk's Uprising
+Germination Practicum
 Ghalta, Primal Hunger
-Goreclaw, Terror of Qal Sisma
 Heroic Intervention
 Invasion of Ikoria // Zilortha, Apex of Ikoria
-Jolrael, Mwonvuli Recluse
 Kolvori, God of Kinship // The Ringhart Crest
 Kona, Rescue Beastie
 Last March of the Ents
 Legolas Greenleaf
+Lizard, Connors's Curse
 Master's Guidance
 Maze of Ith
 Mosswort Bridge
-Nature's Lore
 Nissa, Resurgent Animist
 Nykthos, Shrine to Nyx
 Ohran Frostfang
@@ -59,11 +58,11 @@ Omnath, Locus of Mana
 Plaza of Heroes
 Questing Beast
 Radagast the Brown
-Rampant Growth
 Reki, the History of Kamigawa
 Relic of Legends
 Renata, Called to the Hunt
 Return of the Wildspeaker
+Rhonas the Indomitable
 Rhonas's Monument
 Rishkar's Expertise
 Rogue's Passage
@@ -73,16 +72,17 @@ Selvala, Heart of the Wilds
 Six
 Sol Ring
 Spider-Man, Miles Morales
+Super-Adaptoid
 Surrak, Elusive Hunter
 Sutina, Speaker of the Tajuru
 Sword of Feast and Famine
+The Immortal Sun
 The Great Henge
 The Ring Goes South
 The Shire
 Throne of Eldraine
 Thrun, Breaker of Silence
 Thrun, the Last Troll
-Tifa Lockhart
 Torgal, A Fine Hound
 Toski, Bearer of Secrets
 Tribute to the World Tree

@@ -1,7 +1,6 @@
 Agonasaur Rex (PROXY)
 Boggart Trawler // Boggart Bog (PROXY)
 Cruel Celebrant (PROXY)
-Deathcap Glade (PROXY)
 Dreamroot Cascade (PROXY)
 Dusk Legion Duelist (PROXY)
 Hydroelectric Specimen // Hydroelectric Laboratory (PROXY)
@@ -12,7 +11,6 @@ Rockfall Vale (PROXY)
 Shattered Sanctum (PROXY)
 Solitude (PROXY)
 Squee, Goblin Nabob (PROXY)
-Sundown Pass (PROXY)
 Yeva, Nature's Herald (PROXY)
 Aang, at the Crossroads // Aang, Destined Savior
 Abhorrent Oculus
@@ -74,6 +72,7 @@ Containment Construct
 Copperline Gorge
 Courser of Kruphix
 Darkslick Shores
+Deathcap Glade
 Deserted Beach
 Detective's Phoenix
 Diamond Weapon
@@ -295,6 +294,7 @@ Summon: Leviathan
 Summon: Titan
 Summon: Yojimbo
 Sunbillow Verge
+Sundown Pass
 Surge Engine
 Sygg, River Cutthroat
 Syr Konrad, the Grim
