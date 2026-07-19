@@ -3,17 +3,23 @@ Boggart Trawler // Boggart Bog (PROXY)
 Coastal Peak (PROXY)
 Cruel Celebrant (PROXY)
 Dreamroot Cascade (PROXY)
-Dusk Legion Duelist (PROXY)
+Emeritus of Abundance // Regrowth (PROXY)
+Grave Researcher // Reanimate (PROXY)
 Hydroelectric Specimen // Hydroelectric Laboratory (PROXY)
 Icetill Explorer (PROXY)
 Mentor of the Meek (PROXY)
+Mikey & Leo, Chaos & Order (PROXY)
+Moonshadow (PROXY)
 Overgrown Tomb (PROXY)
 Rain-Slicked Copse (PROXY)
 Rockfall Vale (PROXY)
 Shattered Sanctum (PROXY)
 Solitude (PROXY)
 Squee, Goblin Nabob (PROXY)
+Stalactite Stalker (PROXY)
 Umbral Expanse (PROXY)
+Vastlands Scavenger // Bind to Life (PROXY)
+Vibrance (PROXY)
 Yeva, Nature's Herald (PROXY)
 Aang, at the Crossroads // Aang, Destined Savior
 Abzan Falconer
@@ -25,14 +31,13 @@ Aftermath Analyst
 Agate Instigator
 Alesha, Who Laughs at Fate
 Anax, Hardened in the Forge
+Ancient Adamantoise
 Anim Pakal, Thousandth Moon
 Anje's Ravager
 Anticausal Vestige
 Arabella, Abandoned Doll
 Archfiend of Ifnir
 Arid Mesa
-Athreos, God of Passage
-Augur of Autumn
 Aven Interrupter
 Azure Beastbinder
 Baleful Strix
@@ -110,7 +115,6 @@ Flickerwisp
 Flitterwing Nuisance
 Flooded Strand
 Floodpits Drowner
-Forsaken Miner
 Frilled Mystic
 Fury
 Generous Ent
@@ -155,10 +159,7 @@ Junji, the Midnight Sky
 Kessig Cagebreakers
 Knight-Errant of Eos
 Krenko, Tin Street Kingpin
-Krosan Tusker
 Kutzil, Malamet Exemplar
-Laelia, the Blade Reforged
-Lasyd Prowler
 Lion Sash
 Lita, Little Orphan Amphibian
 Lizard Blades
@@ -175,6 +176,7 @@ Marvin, Murderous Mimic
 Massacre Girl
 Massacre Wurm
 Master of Etherium
+Mawloc
 Metamorphosis Fanatic
 Meteor Golem
 Meticulous Archive
@@ -189,7 +191,6 @@ Murderous Rider // Swift End
 Myr Battlesphere
 Mystic Snake
 Nashi, Moon Sage's Scion
-Necrogoyf
 Nesting Bot
 Network Disruptor
 Nevermaker
@@ -208,7 +209,6 @@ Omnivorous Flytrap
 Ophiomancer
 Ornery Tumblewagg
 Ornithopter of Paradise
-Outcaster Trailblazer
 Overgrown Farmland
 Overlord of the Balemurk
 Overlord of the Boilerbilges
@@ -217,11 +217,11 @@ Overlord of the Hauntwoods
 Overlord of the Mistmoors
 Ox of Agonas
 Patchwork Beastie
-Phyrexian Fleshgorger
 Piggy Bank
 Pinnacle Emissary
 Plumecreed Escort
 Polluted Delta
+Preacher of the Schism
 Professional Face-Breaker
 Prosperous Thief
 Pyrogoyf
@@ -232,6 +232,7 @@ Raucous Theater
 Razorverge Thicket
 Realm-Cloaked Giant // Cast Off
 Reckless Detective
+Reinforced Ronin
 Renata, Called to the Hunt
 Research Thief
 Reservoir Kraken
@@ -240,7 +241,6 @@ Rishkar, Peema Renegade
 Royal Assassin
 Sacred Foundry
 Sakashima's Student
-Sally Pride, Lioness Leader
 Satya, Aetherflux Genius
 Satyr Wayfinder
 Sauron, the Dark Lord
@@ -254,6 +254,7 @@ Sea-Dasher Octopus
 Seachrome Coast
 Searslicer Goblin
 Seedship Broodtender
+Sentinel of the Nameless City
 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 Serum Visionary
 Shadowy Backstreet
@@ -302,9 +303,9 @@ Tajic, Legion's Edge
 Tangled Florahedron // Tangled Vale
 Tatyova, Benthic Druid
 Temple Garden
-Tenacious Underdog
 Terra, Magical Adept // Esper Terra
 Tersa Lightshatter
+Teysa, Opulent Oligarch
 Thalia and The Gitrog Monster
 The Unagi of Kyoshi Island
 The Wandering Rescuer
@@ -329,7 +330,6 @@ Undercity Sewers
 Underground Mortuary
 Uro, Titan of Nature's Wrath
 Ursine Monstrosity
-Vengevine
 Verdant Catacombs
 Verdurous Gearhulk
 Voice of Victory
@@ -343,6 +343,7 @@ Wickerfolk Thresher
 Wight of the Reliquary
 Wildborn Preserver
 Wildfire Wickerfolk
+Wildgrowth Archaic
 Windswept Heath
 Witch Enchanter // Witch-Blessed Meadow
 Woe Strider
@@ -350,7 +351,6 @@ Wooded Foothills
 Wrecking Ogre
 Wren's Run Hydra
 Wurmcoil Engine
-Xenagos, God of Revels
 Y'shtola Rhul
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
