@@ -12,11 +12,19 @@ defmodule DeckManager.CardScanner do
 
       DeckManager.CardScanner.to_csv("https://example.com/cards.jpg")
       DeckManager.CardScanner.to_csv(["front.jpg", "back.jpg"])
+      DeckManager.CardScanner.to_csv("photos/2026-08-01")
 
   Returns `{:ok, csv_string, warnings}` or `{:error, reason}`.
   """
 
   alias DeckManager.{Anthropic, Moxfield, Scryfall}
+
+  # Photos are scanned one request each, so this is how many are in flight at
+  # once. Kept low because each request carries a full-resolution image and the
+  # account's rate limit is measured in input tokens per minute, not requests.
+  @max_concurrency 4
+
+  @image_extensions ~w(.jpg .jpeg .png .gif .webp)
 
   @schema %{
     type: "object",
@@ -80,14 +88,87 @@ defmodule DeckManager.CardScanner do
   Full pipeline: read the image(s), resolve every card against Scryfall, and
   return `{:ok, csv, warnings}` where `csv` is Moxfield import text and
   `warnings` is a list of human-readable strings for cards that couldn't be
-  resolved.
+  read or resolved.
+
+  A directory reference is expanded into the images inside it, and every image
+  gets its own vision request rather than being stacked into one — a folder of
+  photos is more than a single request can read accurately, and per-request
+  failures then only cost that one photo. Results are pooled before resolution,
+  so a printing that appears in two photos merges into one entry with a count of
+  two. Only a run where every image failed returns `{:error, reason}`.
+
+  Options: `:max_concurrency` (how many images to scan at once, default
+  #{@max_concurrency}) and `:on_image`, a two-arity function called with the
+  reference and its `{:ok, cards}` / `{:error, reason}` result as each image
+  finishes, for progress reporting. Anything else is passed to `scan/2`.
   """
   def to_csv(image_refs, opts \\ []) do
-    with {:ok, extracted} <- scan(image_refs, opts) do
+    {max_concurrency, opts} = Keyword.pop(opts, :max_concurrency)
+    {on_image, opts} = Keyword.pop(opts, :on_image, fn _ref, _result -> :ok end)
+
+    refs = expand_refs(image_refs)
+    {extracted, failures} = scan_each(refs, max_concurrency || @max_concurrency, on_image, opts)
+
+    if refs != [] and length(failures) == length(refs) do
+      {_ref, reason} = hd(failures)
+      {:error, reason}
+    else
       {entries, warnings} = resolve(extracted)
-      {:ok, Moxfield.to_csv(entries), warnings}
+      {:ok, Moxfield.to_csv(entries), Enum.map(failures, &unreadable/1) ++ warnings}
     end
   end
+
+  @doc """
+  Expand image references, replacing any local directory with the image files
+  directly inside it (sorted by name, not recursive). URLs, plain file paths and
+  `{media_type, base64}` tuples pass through untouched.
+  """
+  def expand_refs(image_refs) do
+    image_refs |> List.wrap() |> Enum.flat_map(&expand_ref/1)
+  end
+
+  defp expand_ref("http://" <> _ = url), do: [url]
+  defp expand_ref("https://" <> _ = url), do: [url]
+
+  defp expand_ref(path) when is_binary(path) do
+    if File.dir?(Path.expand(path)) do
+      path
+      |> Path.expand()
+      |> File.ls!()
+      |> Enum.filter(&image?/1)
+      |> Enum.sort()
+      |> Enum.map(&Path.join(path, &1))
+    else
+      [path]
+    end
+  end
+
+  defp expand_ref(other), do: [other]
+
+  defp image?(name),
+    do: name |> Path.extname() |> String.downcase() |> Kernel.in(@image_extensions)
+
+  defp scan_each(refs, max_concurrency, on_image, opts) do
+    refs
+    |> Task.async_stream(
+      fn ref ->
+        result = scan(ref, opts)
+        on_image.(ref, result)
+        {ref, result}
+      end,
+      max_concurrency: max_concurrency,
+      timeout: :infinity,
+      ordered: true
+    )
+    |> Enum.reduce({[], []}, fn {:ok, {ref, result}}, {cards, failures} ->
+      case result do
+        {:ok, found} -> {cards ++ found, failures}
+        {:error, reason} -> {cards, failures ++ [{ref, reason}]}
+      end
+    end)
+  end
+
+  defp unreadable({ref, reason}), do: "Could not scan #{ref} — #{inspect(reason)}"
 
   @doc """
   Just the vision step: returns `{:ok, [%{set, collector_number, quantity, foil,
