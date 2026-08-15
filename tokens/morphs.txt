@@ -1,10 +1,5 @@
 Construct (0/0 colorless Artifact Creature — Construct)
-    Urza's Saga
-Ooze (0/0 green Creature — Ooze)
-    Printlifter Ooze
+Ooze (0/0 green Creature — Ooze) [Trample]
 Saproling (1/1 green Creature — Saproling)
-    Thelonite Hermit
 Snake (1/1 green Creature — Snake)
-    Hooded Hydra
 Treasure (Artifact — Treasure)
-    Orochi Soul-Reaver

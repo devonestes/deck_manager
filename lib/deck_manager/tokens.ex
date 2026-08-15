@@ -5,8 +5,8 @@ defmodule DeckManager.Tokens do
   Every line in `decks/<deck>.txt` names an exact printing, so we hand those
   printings to Scryfall's `/cards/collection` endpoint and read their
   `all_parts` links — the same relationships Scryfall shows under "Tokens" on a
-  card page. The linked token printings are fetched once more to pick up power,
-  toughness and colors, which `all_parts` doesn't carry.
+  card page. The linked token printings are fetched once more to pick up stats,
+  colors and rules text, which `all_parts` doesn't carry.
 
   Both halves of that lookup are cached in `data/scryfall/token_parts.json`
   (gitignored), keyed by printing, so a re-run only hits the network for cards
@@ -50,10 +50,8 @@ defmodule DeckManager.Tokens do
   end
 
   @doc """
-  The tokens a deck needs, as `{token, sources}` pairs sorted by token name.
-
-  `token` is the trimmed Scryfall token map and `sources` the names of the deck's
-  cards that make it. Threads the printing cache through so callers can reuse it.
+  The distinct tokens a deck needs, as trimmed Scryfall token maps sorted by
+  name. Threads the printing cache through so callers can reuse it.
   """
   def for_deck(deck, cache) do
     path = "decks/#{deck}.txt"
@@ -101,17 +99,16 @@ defmodule DeckManager.Tokens do
   end
 
   @doc """
-  Render `{token, sources}` pairs as the contents of a `tokens/<deck>.txt` file:
-  one line per distinct token, with the cards that make it indented beneath.
+  Render tokens as the contents of a `tokens/<deck>.txt` file: one line per
+  distinct token. Rules text follows in brackets, which is what separates two
+  tokens that share a name and stats.
 
-      Squirrel (1/1 green Creature — Squirrel)
-          Chatterfang, Squirrel General
-          Deranged Hermit
+      Spirit (1/1 white Creature — Spirit)
+      Spirit (1/1 white Creature — Spirit) [Flying]
   """
   def render(tokens) do
-    Enum.map_join(tokens, fn {token, sources} ->
-      sources = sources |> Enum.sort() |> Enum.map_join(fn source -> "    #{source}\n" end)
-      "#{token["name"]} (#{descriptor(token)})\n" <> sources
+    Enum.map_join(tokens, fn token ->
+      "#{token["name"]} (#{descriptor(token)})#{rules(token)}\n"
     end)
   end
 
@@ -210,7 +207,7 @@ defmodule DeckManager.Tokens do
     end
   end
 
-  @token_fields ~w(oracle_id name type_line power toughness colors layout)
+  @token_fields ~w(oracle_id name type_line oracle_text power toughness colors layout)
 
   defp trim(token) do
     token
@@ -235,14 +232,11 @@ defmodule DeckManager.Tokens do
       _ ->
         true
     end)
-    |> Enum.map(fn {token, source, _id} -> {token, source} end)
-    |> Enum.group_by(fn {token, _} -> token["oracle_id"] end, fn {token, source} ->
-      {token, source}
+    |> Enum.map(fn {token, _source, _id} -> token end)
+    |> Enum.uniq_by(fn token -> token["oracle_id"] end)
+    |> Enum.sort_by(fn token ->
+      {String.downcase(token["name"]), descriptor(token), rules(token)}
     end)
-    |> Enum.map(fn {_oracle_id, [{token, _} | _] = pairs} ->
-      {token, pairs |> Enum.map(fn {_, source} -> source end) |> Enum.uniq()}
-    end)
-    |> Enum.sort_by(fn {token, _} -> {String.downcase(token["name"]), descriptor(token)} end)
   end
 
   # --- rendering ----------------------------------------------------------
@@ -268,6 +262,59 @@ defmodule DeckManager.Tokens do
 
   defp stats(_), do: nil
 
+  # What actually separates the two 1/1 white Spirits you own: one is blank and
+  # the other says "Flying". Scryfall derives a token's `keywords` from this
+  # same text, so printing the text covers them without saying it twice.
+  defp rules(%{"layout" => "double_faced_token", "card_faces" => [_ | _] = faces}) do
+    faces
+    |> Enum.map(fn face -> {face["name"], text(face)} end)
+    |> Enum.reject(fn {_name, text} -> text == "" end)
+    |> case do
+      [] ->
+        ""
+
+      faces ->
+        " [" <> Enum.map_join(faces, "; ", fn {name, text} -> "#{name}: #{text}" end) <> "]"
+    end
+  end
+
+  defp rules(token) do
+    case text(token) do
+      "" -> ""
+      text -> " [#{text}]"
+    end
+  end
+
+  # These tokens read the same everywhere they turn up, so their text says
+  # nothing you don't already know. The 0/0 Construct is the Karnstruct, always
+  # "+1/+1 for each artifact"; Constructs with printed stats vary, so they keep
+  # their text.
+  @boilerplate [
+    "Blood",
+    "Clue",
+    "Eldrazi Scion",
+    "Eldrazi Spawn",
+    "Everywhere",
+    "Fanatic of Rhonas",
+    "Food",
+    "Incubator",
+    "Map",
+    "Powerstone",
+    "Treasure"
+  ]
+
+  defp text(%{"name" => "Construct", "power" => "0", "toughness" => "0"}), do: ""
+  defp text(%{"name" => name}) when name in @boilerplate, do: ""
+
+  # Reminder text is dead weight on a list you're reading to tell two tokens
+  # apart — it's the same on every token that has the keyword.
+  defp text(token) do
+    (token["oracle_text"] || "")
+    |> String.replace(~r/\s*\([^()]*\)/, "")
+    |> String.split("\n", trim: true)
+    |> Enum.map_join("; ", &String.trim/1)
+  end
+
   # Only creatures get a color, so a Treasure reads as "Artifact — Treasure"
   # rather than "colorless Artifact — Treasure".
   defp colors(%{"power" => power} = token) when is_binary(power) do
@@ -292,12 +339,18 @@ defmodule DeckManager.Tokens do
 
   defp path(deck), do: Path.join(@out_dir, "#{deck}.txt")
 
-  defp empty_cache, do: %{"printings" => %{}, "tokens" => %{}}
+  # Bump when the shape of what we keep per token changes, so an older cache is
+  # refetched rather than rendering the fields it was never asked for as blank.
+  @cache_version 2
+
+  defp empty_cache, do: %{"version" => @cache_version, "printings" => %{}, "tokens" => %{}}
 
   defp load_cache do
-    case File.read(@cache_path) do
-      {:ok, body} -> Map.merge(empty_cache(), Jason.decode!(body))
-      {:error, _} -> empty_cache()
+    with {:ok, body} <- File.read(@cache_path),
+         %{"version" => @cache_version} = cache <- Jason.decode!(body) do
+      Map.merge(empty_cache(), cache)
+    else
+      _ -> empty_cache()
     end
   end
 

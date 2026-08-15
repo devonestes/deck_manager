@@ -1,24 +1,8 @@
-Astartes Warrior (2/2 white Creature — Astartes Warrior)
-    Thunderhawk Gunship
+Astartes Warrior (2/2 white Creature — Astartes Warrior) [Vigilance]
 Construct (0/0 colorless Artifact Creature — Construct)
-    Simulacrum Synthesizer
-    Urza's Saga
-    Urza, Lord High Artificer
 Copy (copy)
-    Esoteric Duplicator
-    The Master, Multiplied
-    Worldwalker Helm
 Eldrazi (10/10 colorless Creature — Eldrazi)
-    Idol of Oblivion
 Map (Artifact — Map)
-    Worldwalker Helm
 Mishra's Warform (4/4 colorless Artifact Creature — Construct)
-    Mishra, Eminent One
 Powerstone (Artifact — Powerstone)
-    Cityscape Leveler
 Treasure (Artifact — Treasure)
-    Deadly Dispute
-    Magmatic Galleon
-    RMS Titanic
-    The Belligerent
-    Treasure Vault

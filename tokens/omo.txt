@@ -1,21 +1,9 @@
 Bear (2/2 green Creature — Bear)
-    Titania's Command
-Bird (2/2 blue Creature — Bird)
-    Swan Song
+Bird (2/2 blue Creature — Bird) [Flying]
 Copy (copy)
-    Aggressive Biomancy
-    Doppelgang
-    Scute Swarm
 Hydra (*/* green Creature — Hydra)
-    Hydra Broodmaster
 Insect (1/1 green Creature — Insect)
-    Scute Swarm
 Kraken (9/9 blue Creature — Kraken)
-    Spawning Kraken
-Marit Lage (20/20 black Legendary Creature — Avatar)
-    Dark Depths
+Marit Lage (20/20 black Legendary Creature — Avatar) [Flying, indestructible]
 Treasure (Artifact — Treasure)
-    An Offer You Can't Refuse
 Zombie (2/2 black Creature — Zombie)
-    Field of the Dead
-    Hour of Promise

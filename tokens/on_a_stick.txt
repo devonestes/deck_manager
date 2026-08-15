@@ -1,102 +1,41 @@
-Agate Instigator (1/1 red Creature — Lizard Rogue)
-    Agate Instigator
-Bird (1/1 white Creature — Bird)
-    Aether Channeler
+Agate Instigator (1/1 red Creature — Lizard Rogue) [Whenever another creature you control enters, this creature deals 1 damage to each opponent.]
+Bird (1/1 white Creature — Bird) [Flying]
 Blood (Artifact — Blood)
-    Ivora, Insatiable Heir
 Clue (Artifact — Clue)
-    Sharp-Eyed Rookie
-    Teysa, Opulent Oligarch
-    Thraben Inspector
 Copy (copy)
-    Chrome Dome
-    Satya, Aetherflux Genius
-    Sin, Spira's Punishment
-    Springheart Nantuko
-    Terra, Magical Adept // Esper Terra
-Drone (1/1 colorless Artifact Creature — Drone)
-    Pinnacle Emissary
+Drone (1/1 colorless Artifact Creature — Drone) [Flying; This token can block only creatures with flying.]
 Everywhere (Land)
-    Overlord of the Hauntwoods
-Fish (1/1 blue Creature — Fish)
-    Reservoir Kraken
+Fish (1/1 blue Creature — Fish) [This creature can't be blocked.]
 Food (Artifact — Food)
-    Generous Ent
-    Lita, Little Orphan Amphibian
 Gnome (1/1 colorless Artifact Creature — Gnome)
-    Anim Pakal, Thousandth Moon
 Goat (0/1 white Creature — Goat)
-    Woe Strider
 Goblin (1/1 red Creature — Goblin)
-    Krenko, Tin Street Kingpin
-    Searslicer Goblin
 Illusion (*/* blue Creature — Illusion)
-    Skyclave Apparition
 Incubator // Phyrexian (Artifact — Incubator // 0/0 colorless Artifact Creature — Phyrexian)
-    Elesh Norn // The Argent Etchings
 Insect (1/1 green Creature — Insect)
-    Springheart Nantuko
-Insect (2/1 white Creature — Insect)
-    Overlord of the Mistmoors
+Insect (2/1 white Creature — Insect) [Flying]
 Knight (2/2 white Creature — Knight)
-    Dion, Bahamut's Dominant // Bahamut, Warden of Light
-Knight (2/2 white Creature — Knight)
-    Imodane's Recruiter // Train Troops
+Knight (2/2 white Creature — Knight) [Vigilance]
 Map (Artifact — Map)
-    Sentinel of the Nameless City
 Mutant (2/2 red Creature — Mutant)
-    Mighty Mutanimals
 Myr (1/1 colorless Artifact Creature — Myr)
-    Myr Battlesphere
 Orc Army (0/0 black Creature — Orc Army)
-    Sauron, the Dark Lord
 Rabbit (1/1 white Creature — Rabbit)
-    Jacked Rabbit
 Robot (2/2 colorless Artifact Creature — Robot)
-    Dyadrine, Synthesis Amalgam
-    Elegy Acolyte
-Satyr (1/1 red Creature — Satyr)
-    Anax, Hardened in the Forge
+Satyr (1/1 red Creature — Satyr) [This creature can't block.]
 Servo (1/1 colorless Artifact Creature — Servo)
-    Nesting Bot
-Shard (Enchantment — Shard)
-    Niko, Light of Hope
-Sicarian Infiltrator (1/2 blue Artifact Creature — Human Soldier)
-    Sicarian Infiltrator
-Snake (1/1 black Creature — Snake)
-    Ophiomancer
+Shard (Enchantment — Shard) [{2}, Sacrifice this enchantment: Scry 1, then draw a card.]
+Sicarian Infiltrator (1/2 blue Artifact Creature — Human Soldier) [When Sicarian Infiltrator enters the battlefield, draw a card.]
+Snake (1/1 black Creature — Snake) [Deathtouch]
 Soldier (1/1 white Creature — Soldier)
-    Hero of Bladehold
-Spider (2/1 black/green Creature — Spider)
-    Izoni, Center of the Web
-Spider (2/2 green Creature — Spider)
-    Twitching Doll
-Spirit (1/1 black/white Creature — Spirit)
-    Indebted Spirit
-    Teysa, Opulent Oligarch
-Spirit (1/1 white Creature — Spirit)
-    Doomed Traveler
+Spider (2/1 black/green Creature — Spider) [Menace, reach]
+Spider (2/2 green Creature — Spider) [Reach]
+Spirit (1/1 black/white Creature — Spirit) [Flying]
+Spirit (1/1 white Creature — Spirit) [Flying]
 Treasure (Artifact — Treasure)
-    Ancient Adamantoise
-    Captain Lannery Storm
-    Magda, Brazen Outlaw
-    Piggy Bank
-    Professional Face-Breaker
-    Prosperous Thief
-    Shambling Ghast
-Vampire (1/1 white Creature — Vampire)
-    Elenda, the Dusk Rose
-    Preacher of the Schism
+Vampire (1/1 white Creature — Vampire) [Lifelink]
 Warrior (1/1 red Creature — Warrior)
-    Voice of Victory
-    Zurgo Stormrender
 Wolf (2/2 green Creature — Wolf)
-    Kessig Cagebreakers
-    Nightpack Ambusher
-Wurm (3/3 colorless Artifact Creature — Wurm)
-    Wurmcoil Engine
-Wurm (3/3 colorless Artifact Creature — Wurm)
-    Wurmcoil Engine
+Wurm (3/3 colorless Artifact Creature — Wurm) [Deathtouch]
+Wurm (3/3 colorless Artifact Creature — Wurm) [Lifelink]
 Zombie (2/2 black Creature — Zombie)
-    Hildibrand Manderville // Gentleman's Rise
-    Zahur, Glory's Past

@@ -1,15 +1,7 @@
-Angel (4/4 white Creature — Angel)
-    Resplendent Angel
+Angel (4/4 white Creature — Angel) [Flying, vigilance]
 Cat (1/1 white Creature — Cat)
-    Ocelot Pride
 Copy (copy)
-    The Jolly Balloon Man
-Griffin (2/2 white Creature — Griffin)
-    Griffin Aerie
+Griffin (2/2 white Creature — Griffin) [Flying]
 Spirit (3/2 red/white Creature — Spirit)
-    Quintorius Kand
 Treasure (Artifact — Treasure)
-    Big Score
-    Professional Face-Breaker
-Vampire (1/1 white Creature — Vampire)
-    Elenda's Hierophant
+Vampire (1/1 white Creature — Vampire) [Lifelink]

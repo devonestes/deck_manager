@@ -1,14 +1,4 @@
 Copy (copy)
-    Ulalek, Fused Atrocity
 Eldrazi Scion (1/1 colorless Creature — Eldrazi Scion)
-    Eldrazi Confluence
 Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
-    Awakening Zone
-    Drowner of Truth // Drowned Jungle
-    Glaring Fleshraker
-    Kozilek's Command
-    Kozilek's Unsealing
-    Path of Annihilation
-    Writhing Chrysalis
 Spirit (2/2 colorless Creature — Spirit)
-    Ugin, the Ineffable

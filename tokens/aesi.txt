@@ -1,26 +1,11 @@
 Badger (3/3 green Creature — Badger)
-    Greensleeves, Maro-Sorcerer
 Beast (4/4 green Creature — Beast)
-    Rampaging Baloths
-Beau (*/* blue Legendary Creature — Ox)
-    Bonny Pall, Clearcutter
+Beau (*/* blue Legendary Creature — Ox) [This creature's power and toughness are each equal to the number of lands you control.]
 Copy (copy)
-    Doppelgang
-    Scute Swarm
-    Springheart Nantuko
 Elemental (5/3 green Creature — Elemental)
-    Titania, Protector of Argoth
 Everywhere (Land)
-    Overlord of the Hauntwoods
 Forest Dryad (1/1 green Land Creature — Forest Dryad)
-    Awaken the Woods
 Hero (1/1 colorless Creature — Hero)
-    Zanarkand, Ancient Metropolis // Lasting Fayth
 Insect (1/1 green Creature — Insect)
-    Scute Swarm
-    Springheart Nantuko
 Koma's Coil (3/3 blue Creature — Serpent)
-    Koma, Cosmos Serpent
-    Koma, World-Eater
 Plant (0/1 green Creature — Plant)
-    Avenger of Zendikar

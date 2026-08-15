@@ -1,5 +1,2 @@
-Bird (2/2 blue Creature — Bird)
-    Swan Song
+Bird (2/2 blue Creature — Bird) [Flying]
 Treasure (Artifact — Treasure)
-    An Offer You Can't Refuse
-    Gonti, Night Minister

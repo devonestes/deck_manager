@@ -1,17 +1,8 @@
 Copy (copy)
-    Auton Soldier
-    Vaultborn Tyrant
 Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
-    Kozilek's Unsealing
 Elemental (5/5 green/red Creature — Elemental)
-    Omnath, Locus of Rage
 Phyrexian Horror (*/* green Creature — Phyrexian Horror)
-    Nissa, Ascended Animist
 Plant (0/1 green Creature — Plant)
-    Avenger of Zendikar
 Treasure (Artifact — Treasure)
-    Goldspan Dragon
-Wurm (3/3 colorless Artifact Creature — Wurm)
-    Wurmcoil Engine
-Wurm (3/3 colorless Artifact Creature — Wurm)
-    Wurmcoil Engine
+Wurm (3/3 colorless Artifact Creature — Wurm) [Deathtouch]
+Wurm (3/3 colorless Artifact Creature — Wurm) [Lifelink]

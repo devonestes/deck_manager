@@ -1,15 +1,6 @@
 Copy (copy)
-    Miirym, Sentinel Wyrm
 Dinosaur (3/1 red Creature — Dinosaur)
-    Bonehoard Dracosaur
-Dragon (4/4 red Creature — Dragon)
-    Rith, Liberated Primeval
-    Sarkhan Unbroken
-Dragon (6/6 red Creature — Dragon)
-    Utvara Hellkite
-Pest (1/1 black/green Creature — Pest)
-    Beledros Witherbloom
+Dragon (4/4 red Creature — Dragon) [Flying]
+Dragon (6/6 red Creature — Dragon) [Flying]
+Pest (1/1 black/green Creature — Pest) [When this creature dies, you gain 1 life.]
 Treasure (Artifact — Treasure)
-    Bonehoard Dracosaur
-    Cavern-Hoard Dragon
-    Goldlust Triad

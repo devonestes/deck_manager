@@ -1,18 +1,8 @@
 Construct (0/0 colorless Artifact Creature — Construct)
-    Urza's Saga
-Shapeshifter (3/2 colorless Creature — Shapeshifter)
-    Black Market Connections
+Shapeshifter (3/2 colorless Creature — Shapeshifter) [Changeling]
 Treasure (Artifact — Treasure)
-    Black Market Connections
-    Smothering Tithe
 Vampire (1/1 black Creature — Vampire)
-    Edgar Markov
-Vampire (1/1 black/white Creature — Vampire)
-    Edgar, Charmed Groom // Edgar Markov's Coffin
-Vampire (1/1 white Creature — Vampire)
-    Charismatic Conqueror
-    Elenda, the Dusk Rose
-Vampire (2/2 black Creature — Vampire)
-    Bloodline Keeper // Lord of Lineage
-Vampire Demon (4/3 black/white Creature — Vampire Demon)
-    Clavileño, First of the Blessed
+Vampire (1/1 black/white Creature — Vampire) [Lifelink]
+Vampire (1/1 white Creature — Vampire) [Lifelink]
+Vampire (2/2 black Creature — Vampire) [Flying]
+Vampire Demon (4/3 black/white Creature — Vampire Demon) [Flying]
