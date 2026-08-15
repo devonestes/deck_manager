@@ -1,19 +1,19 @@
 Agonasaur Rex (PROXY)
 Boggart Trawler // Boggart Bog (PROXY)
 Coastal Peak (PROXY)
-Cruel Celebrant (PROXY)
 Dreamroot Cascade (PROXY)
 Emeritus of Abundance // Regrowth (PROXY)
 Grave Researcher // Reanimate (PROXY)
 Hydroelectric Specimen // Hydroelectric Laboratory (PROXY)
-Icetill Explorer (PROXY)
 Mentor of the Meek (PROXY)
 Mikey & Leo, Chaos & Order (PROXY)
 Moonshadow (PROXY)
+Overgrown Farmland (PROXY)
 Overgrown Tomb (PROXY)
 Rain-Slicked Copse (PROXY)
 Rockfall Vale (PROXY)
 Shattered Sanctum (PROXY)
+Shipwreck Marsh (PROXY)
 Solitude (PROXY)
 Squee, Goblin Nabob (PROXY)
 Stalactite Stalker (PROXY)
@@ -32,6 +32,7 @@ Agate Instigator
 Alesha, Who Laughs at Fate
 Anax, Hardened in the Forge
 Ancient Adamantoise
+Angel of Invention
 Anim Pakal, Thousandth Moon
 Anje's Ravager
 Anticausal Vestige
@@ -79,12 +80,12 @@ Conclave Mentor
 Containment Construct
 Copperline Gorge
 Courser of Kruphix
+Cruel Celebrant
 Darkslick Shores
 Deathcap Glade
 Deserted Beach
 Detective's Phoenix
 Diamond Weapon
-Dion, Bahamut's Dominant // Bahamut, Warden of Light
 Disciple of Freyalise // Garden of Freyalise
 Disruptive Stormbrood // Petty Revenge
 Disruptor of Currents
@@ -143,6 +144,7 @@ Hope-Ender Coatl
 Hopeful Initiate
 Hormagaunt Horde
 Horned Loch-Whale // Lagoon Breach
+Icetill Explorer
 Imodane's Recruiter // Train Troops
 Indebted Spirit
 Inspiring Vantage
@@ -209,7 +211,6 @@ Omnivorous Flytrap
 Ophiomancer
 Ornery Tumblewagg
 Ornithopter of Paradise
-Overgrown Farmland
 Overlord of the Balemurk
 Overlord of the Boilerbilges
 Overlord of the Floodpits
@@ -262,7 +263,6 @@ Shambling Ghast
 Sharp-Eyed Rookie
 Sheltered Thicket
 Shigeki, Jukai Visionary
-Shipwreck Marsh
 Shriekmaw
 Sicarian Infiltrator
 Silent Hallcreeper

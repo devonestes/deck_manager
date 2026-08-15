@@ -11,7 +11,6 @@
 1 Boseiju, Who Endures (NEO) 266
 1 Bountiful Promenade (ZNE) 20
 1 Bristly Bill, Spine Sower (OTJ) 157
-1 Bulwark Ox (DFT) 7
 1 Caretaker's Talent (BLB) 6
 1 Cauldron of Souls (SHM) 248
 1 Chulane, Teller of Tales (ELD) 326
@@ -22,6 +21,7 @@
 1 Danny Pink (WHO) 39
 1 Delighted Halfling (LTR) 158
 1 Detective of the Month (MKC) 21
+1 Dionus, Elvish Archdruid (J25) 52
 1 District Mascot (DFT) 158
 1 Dreamroot Cascade (VOW) 282
 1 Dryad Arbor (FUT) 174
@@ -36,12 +36,12 @@
 1 Fanatic of Rhonas (MH3) 458
 1 Farseek (C19) 165
 1 Felidar Retreat (CMM) 821
-1 Fierce Guardianship (C20) 35
 1 Flooded Grove (LTC) 309
 1 Floodfarm Verge (DSK) 259
-5 Forest (LTR) 270
+6 Forest (LTR) 270
 1 Gala Greeters (SNC) 450
 1 Galadhrim Ambush (LTC) 38
+1 Galadriel's Dismissal (LTC) 500
 1 Glen Elendra Archmage (MMA) 47
 1 Gruff Triplets (WOE) 172
 1 Gyre Sage (MOC) 300
@@ -50,6 +50,7 @@
 1 Herd Baloth (MH2) 165
 1 Hinterland Harbor (LTC) 317
 1 Hushwood Verge (DSK) 261
+1 Illustrious Wanderglyph (LCC) 9
 1 Imperious Perfect (J22) 677
 1 Incubation Druid (MOC) 302
 1 Inspiring Call (MOC) 304
@@ -63,8 +64,8 @@
 1 Otawara, Soaring City (NEO) 503
 1 Overgrown Farmland (WHO) 292
 1 Overwhelming Stampede (LTC) 254
+1 Perch Protection (BLC) 11
 5 Plains (J22) 98
-1 Rhystic Study (J22) 114
 1 Ripples of Potential (LCC) 77
 1 Safehold Elite (SHM) 239
 1 Sea of Clouds (ZNE) 16
@@ -76,8 +77,6 @@
 1 Suppression Ray / Orderly Plaza (MH3) 260
 1 Temple Garden (UNF) 281
 1 Tendershoot Dryad (RIX) 147
-1 The Earth Crystal (FIN) 184
-1 Thirsting Roots (ONE) 185
 1 Tyvar, the Pummeler (DSK) 202
 1 Wave Goodbye (LCC) 79
 1 Whitemane Lion (DMR) 277

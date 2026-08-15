@@ -9,6 +9,7 @@
 1 Birds of Paradise (4ED) 234
 1 Boseiju, Who Endures (NEO) 501
 1 Breeding Pool (UNF) 286
+1 Cartographer's Survey (VOW) 190
 1 Cloudpost (M3C) 330
 1 Command Tower (MOC) 396
 1 Copy Land (M3C) 99
@@ -27,6 +28,7 @@
 1 Field of the Dead (M20) 247
 1 Finale of Devastation (WAR) 160
 1 Finale of Revelation (MKC) 106
+1 Flooded Strand (KTK) 233
 1 Force of Negation (MH1) 52
 3 Forest (J22) 110
 1 Fyndhorn Elves (ICE) 244
@@ -80,7 +82,6 @@
 1 Titania's Command (BRO) 349
 1 Trenchpost (M3C) 135
 1 Tropical Island (3ED) 288
-1 Turntimber Symbiosis / Turntimber, Serpentine Wood (ZNR) 364
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 1 Ulvenwald Hydra (M3C) 250
 1 Urza's Cave (MH3) 234
@@ -92,5 +93,4 @@
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249
 1 Xolatoyac, the Smiling Flood (LCC) 8
-1 Yavimaya Coast (DMU) 261
 1 Yavimaya, Cradle of Growth (MH2) 441

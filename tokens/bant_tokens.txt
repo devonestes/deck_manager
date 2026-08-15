@@ -1,4 +1,5 @@
 Beast (4/4 green Creature — Beast)
+Bird (2/2 blue Creature — Bird) [Flying]
 Cat Beast (2/2 white Creature — Cat Beast)
 Copy (copy)
 Detective (2/2 blue/white Creature — Detective)
@@ -6,6 +7,7 @@ Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
 Elf Warrior (1/1 green Creature — Elf Warrior)
 Faerie Dragon (1/1 blue Creature — Faerie Dragon) [Flying]
 Fanatic of Rhonas (4/4 black Creature — Zombie Snake Druid)
+Gnome (1/1 colorless Artifact Creature — Gnome)
 Plant (0/1 green Creature — Plant)
 Saproling (1/1 green Creature — Saproling)
 Spirit (1/1 white Creature — Spirit) [Flying]

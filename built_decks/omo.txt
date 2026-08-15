@@ -9,6 +9,7 @@ Balamb Garden, SeeD Academy // Balamb Garden, Airborne
 Birds of Paradise
 Boseiju, Who Endures
 Breeding Pool
+Cartographer's Survey
 Cloudpost
 Command Tower
 Copy Land
@@ -27,6 +28,7 @@ Faerie Mastermind
 Field of the Dead
 Finale of Devastation
 Finale of Revelation
+Flooded Strand
 Force of Negation
 Forest
 Forest
@@ -84,7 +86,6 @@ Timber Protector
 Titania's Command
 Trenchpost
 Tropical Island
-Turntimber Symbiosis // Turntimber, Serpentine Wood
 Ulamog, the Ceaseless Hunger
 Ulvenwald Hydra
 Urza's Cave
@@ -96,5 +97,4 @@ Vesuva
 Windswept Heath
 Wooded Foothills
 Xolatoyac, the Smiling Flood
-Yavimaya Coast
 Yavimaya, Cradle of Growth

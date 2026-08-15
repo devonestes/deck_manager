@@ -52,7 +52,6 @@
 1 Miirym, Sentinel Wyrm (CLB) 284
 1 Morophon, the Boundless (CMM) 669
 2 Mountain (J22) 107
-1 Mox Jasper (TDM) 246
 1 Nature's Lore (DMR) 170
 1 Omniscience (WOT) 70
 1 Orb of Dragonkind (AFR) 157
@@ -77,6 +76,7 @@
 1 Scrubland (3ED) 286
 1 Shivan Reef (OTC) 320
 1 Simic Growth Chamber (CM2) 267
+1 Smaug the Magnificent (HOB) 110
 1 Smuggler's Surprise (OTJ) 180
 1 Sol Ring (MOC) 381
 1 Spara's Headquarters (SNC) 293

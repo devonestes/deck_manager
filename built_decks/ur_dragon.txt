@@ -54,7 +54,6 @@ Miirym, Sentinel Wyrm
 Morophon, the Boundless
 Mountain
 Mountain
-Mox Jasper
 Nature's Lore
 Omniscience
 Orb of Dragonkind
@@ -79,6 +78,7 @@ Scourge of Valkas
 Scrubland
 Shivan Reef
 Simic Growth Chamber
+Smaug the Magnificent
 Smuggler's Surprise
 Sol Ring
 Spara's Headquarters

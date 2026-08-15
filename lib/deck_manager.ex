@@ -3,7 +3,7 @@ defmodule DeckManager do
 
   @decks [
     # {"thrasios_yoshimaru", "Bdwllw3tYka3tSfVrO6K5w", "d8b70926-1071-4c85-ac12-3b23ee79399b"},
-    {"vampires", "jOUImhiaykKSYanHfKmkLA", "28309948-82fd-41f6-ab59-c18e3689e77d"},
+    # {"vampires", "jOUImhiaykKSYanHfKmkLA", "28309948-82fd-41f6-ab59-c18e3689e77d"},
     {"morphs", "RX85WnSoI0KVaeQhOJ8wQA", "cbc7f5e6-9ec9-4a65-9308-4a529df379be"},
     {"henzie", "l4YgSzpNmkG-UpBAuusAhg", "1d47b6aa-b250-48e0-abd6-29b83286d34d"},
     # {"jetmir", "4T4sW6V7JUSmN7OpnQ_hrQ", "a89a5213-f8c6-4d19-a5d1-bed98927932a"},
@@ -14,7 +14,7 @@ defmodule DeckManager do
     {"shrines", "YontiLZZZEmugFVEqOhXKA", "828cf477-a6f5-450d-b14b-7b74f1dde4cb"},
     {"gitrog_ride", "wo9B3RfmDk-HnA_ywmH9NQ", "23d12b36-bb8b-4e6f-9f9a-07b9eafcb5d0"},
     # {"hare_apparant", "juBb7nCb4UuPDDrc0PHp3Q", "6e7d9747-56d6-40c6-a0e1-27bb6822bae0"},
-    # {"bant_tokens", "1CtjbDS54kOSqeGlg2t22Q", "ff27a0e1-a95e-4d84-951e-a491ab20f1e4"},
+    {"bant_tokens", "1CtjbDS54kOSqeGlg2t22Q", "ff27a0e1-a95e-4d84-951e-a491ab20f1e4"},
     # {"wanderer", "IoR8Jb5aB0ulmNOtWs5RZg", "e59cf956-680f-436a-b200-068f5962eaf1"},
     {"wanderer_keruga", "bosn_sFCE02yiTSRRZ2Wqw", "9c1d77f1-04c0-48ae-84a9-a5a024a4ea40"},
     {"ur_dragon", "KSVzZ4Os-UKKFXud4-5Vnw", "acc8bcd4-3eea-4ada-9a4e-a70b43623366"},
@@ -39,12 +39,12 @@ defmodule DeckManager do
     # {"eldrazi", "sB9e88BQ5UqFwb6tBUS2_w", "ae56d72e-baeb-4dee-9719-befc8c4d2256"},
     # {"mono_blue_aggro", "v9iSDv4nO0im3LQ2sgpm0g", "3c6ed9e8-51d7-449e-be16-dbed52c101d8"},
     # {"korvold", "z3o8vEq1lEm0sk7cGP9_9g", "74060e7a-59a6-4e84-877f-9ff761c4237b"},
-    # {"x_spells", "i1LRiXwbGEy1FC6weByOdQ", "f9c228f7-a0fa-4043-ab01-6505e1218c64"},
+    {"x_spells", "i1LRiXwbGEy1FC6weByOdQ", "f9c228f7-a0fa-4043-ab01-6505e1218c64"},
     # {"merfolk", "ekHtx3vytky4yfEHOIpi2A", "0e516b67-5914-40fe-8bc3-31aaf4d63b73"},
     {"omo", "YYF3-rUpU02AHaNF9AnSbg", "cda4a737-1336-40a2-9e26-880d4984462b"},
     {"kotis", "9FkAIHVAsUG4ebZGjsIlIw", "93ebcd39-823e-4c7f-8e29-f485e371fb8e"},
-    {"bre", "tvofERlUL0C89KgfU02wYw", "72e60645-b2d1-45c8-aed8-c8dc011e53ce"},
-    {"toph_lands", "qdK3zk6PLUOsQFggu0J4XQ", "a7e487ba-ae40-4b70-af6a-ed39d8072241"},
+    # {"bre", "tvofERlUL0C89KgfU02wYw", "72e60645-b2d1-45c8-aed8-c8dc011e53ce"},
+    # {"toph_lands", "qdK3zk6PLUOsQFggu0J4XQ", "a7e487ba-ae40-4b70-af6a-ed39d8072241"},
     # {"doran", "ApmbqKuzXkyR9r0VeX9r4Q", "7af6f4a7-ba2f-4a88-adfc-2e45be4d8626"},
     # {"vincent_voltron", "36wJSLbar0qFUjR3SAsazw", "c7ee1c30-2e40-4663-8fa5-8d4e2a0bc4cc"},
     # {"sephiroth_sac", "aZNHRA_KiU6R56T9Z7XdAA", "ea90e3a1-d286-47d0-aff9-85b8d2730a12"},
@@ -70,12 +70,12 @@ defmodule DeckManager do
     # {"bello", "-QsvG9tl8EaN277EkwtBTw", "1557dceb-cb08-4c08-921a-893a0c0ac8e1"},
     # {"goyfs", "zlM5lMPXqEu88EgNmF-h8A", "a6e9261f-3165-4a08-bcab-1bf86cf3280e"},
     # {"clues", "KKyqOseMpUqZDN1HrhXDKg", "15839e34-90bf-404d-a30b-3f2d0ad024e8"},
-    # {"mw_control", "j8XE7zIQ70O5vRXmD5Ua3g", "bcad72f6-57ea-474d-aef7-a19a9f74931f"},
+    {"mw_control", "j8XE7zIQ70O5vRXmD5Ua3g", "bcad72f6-57ea-474d-aef7-a19a9f74931f"},
     # {"mirko", "yYJUeFoCNEaoTg8kBQgt6w", "cfcdd050-f39b-4302-8689-5b244bb2ddfd"},
     # {"chatterfang", "qEQ49yCVEUqgPw9CG6w3cw", "e6c047ef-21c6-45d6-91a9-a7217d324de0"},
     # {"nazgul", "qp4inpYaK0Sm0gpwS0XXqQ", "80b455f0-e71b-4cb2-8186-1d594c8504ea"},
     # {"thalrog", "pXSEOh3nJUun86gLXS-DmQ", "710dd6ff-eebe-40c8-b4ef-ab416d2b616c"},
-    # {"knights", "5F_piVq7KUKAwdAP2tw9Rw", "f4990f31-316c-4447-991d-a6aa77fabb7e"},
+    {"knights", "5F_piVq7KUKAwdAP2tw9Rw", "f4990f31-316c-4447-991d-a6aa77fabb7e"},
     # {"storm", "5QhHPYUuA0WaXwbL1L9JXg", "f90e064f-a71a-48ef-856f-0eab72cd5e8e"},
     # {"galadriel_cedh", "WT-etujvYUWLAa_ux-wUgA", "c20fbf07-be33-482f-996f-3a8d9800ff9b"},
     # {"dimir_standard", "-htf3CURw0qUOSaKDyHfkw", "9ae96343-774f-42aa-83a2-47da2aa26b4e"},
@@ -542,6 +542,8 @@ defmodule DeckManager do
   defp normalize_name("Golbez, Clad In Darkness"), do: "Yawgmoth, Thran Physician"
   defp normalize_name("Vayne Carudas Solidor"), do: "Fynn, the Fangbearer"
   defp normalize_name("Vaan, Aspiring Sky Pirate"), do: "Captain Lannery Storm"
+  defp normalize_name("Argonath, Pillars of the Kings"), do: "The Ozolith"
+  defp normalize_name("Aggro Amalgam"), do: "Voracious Hydra"
 
   defp normalize_name("Doric, Nature's Warden // Doric, Owlbear Avenger"),
     do: "Casal, Lurkwood Pathfinder // Casal, Pathbreaker Owlbear"

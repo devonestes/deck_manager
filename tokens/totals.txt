@@ -1,70 +1,76 @@
-16 Treasure (Artifact — Treasure)
-    bre
+17 Treasure (Artifact — Treasure)
+    bant_tokens
     dinos
     doric
     gitrog_ride
     henzie
+    knights
     kotis
     mishra
     moogles
     morphs
+    mw_control
     omo
     on_a_stick
     terra
-    toph_lands
     ur_dragon
-    vampires
     wanderer_keruga
-15 Copy (copy)
+    x_spells
+16 Copy (copy)
     5c_eldrazi
     aesi
-    bre
+    bant_tokens
     dandan
     dinos
     henzie
+    knights
     mishra
     moogles
     omo
     on_a_stick
     slivers
     terra
-    toph_lands
     ur_dragon
     wanderer_keruga
-6 Construct (0/0 colorless Artifact Creature — Construct)
+    x_spells
+4 Construct (0/0 colorless Artifact Creature — Construct)
     dinos
     mishra
     morphs
     terra
-    toph_lands
-    vampires
-4 Food (Artifact — Food)
+4 Plant (0/1 green Creature — Plant)
+    aesi
+    bant_tokens
+    gitrog_ride
+    wanderer_keruga
+3 Beast (4/4 green Creature — Beast)
+    aesi
+    bant_tokens
+    gitrog_ride
+3 Bird (2/2 blue Creature — Bird) [Flying]
+    bant_tokens
+    kotis
+    omo
+3 Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
+    5c_eldrazi
+    bant_tokens
+    wanderer_keruga
+3 Food (Artifact — Food)
     doric
     gitrog_ride
     on_a_stick
-    toph_lands
-4 Insect (1/1 green Creature — Insect)
+3 Gnome (1/1 colorless Artifact Creature — Gnome)
+    bant_tokens
+    on_a_stick
+    terra
+3 Insect (1/1 green Creature — Insect)
     aesi
     omo
     on_a_stick
-    toph_lands
-4 Vampire (1/1 white Creature — Vampire) [Lifelink]
-    bre
-    dinos
+3 Soldier (1/1 white Creature — Soldier)
+    moogles
+    mw_control
     on_a_stick
-    vampires
-3 Beast (4/4 green Creature — Beast)
-    aesi
-    gitrog_ride
-    toph_lands
-3 Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
-    5c_eldrazi
-    toph_lands
-    wanderer_keruga
-3 Plant (0/1 green Creature — Plant)
-    aesi
-    gitrog_ride
-    wanderer_keruga
 3 Wurm (3/3 colorless Artifact Creature — Wurm) [Deathtouch]
     henzie
     on_a_stick
@@ -83,33 +89,24 @@
 2 Badger (3/3 green Creature — Badger)
     aesi
     gitrog_ride
-2 Beast (3/3 green Creature — Beast)
-    gitrog_ride
-    toph_lands
-2 Bird (2/2 blue Creature — Bird) [Flying]
-    kotis
-    omo
-2 Cat (1/1 white Creature — Cat)
-    bre
-    moogles
+2 Blood (Artifact — Blood)
+    knights
+    on_a_stick
 2 Dinosaur (3/1 red Creature — Dinosaur)
     dinos
     ur_dragon
 2 Eldrazi (10/10 colorless Creature — Eldrazi)
     mishra
     moogles
-2 Elemental (5/3 green Creature — Elemental)
-    aesi
-    toph_lands
 2 Everywhere (Land)
     aesi
     on_a_stick
+2 Fanatic of Rhonas (4/4 black Creature — Zombie Snake Druid)
+    bant_tokens
+    dinos
 2 Fungus Dinosaur (*/* green Creature — Fungus Dinosaur)
     gitrog_ride
     henzie
-2 Gnome (1/1 colorless Artifact Creature — Gnome)
-    on_a_stick
-    terra
 2 Hero (1/1 colorless Creature — Hero)
     aesi
     moogles
@@ -117,20 +114,26 @@
     on_a_stick
     terra
 2 Knight (2/2 white Creature — Knight)
-    on_a_stick
+    knights
     terra
+2 Knight (2/2 white Creature — Knight) [Vigilance]
+    knights
+    on_a_stick
 2 Map (Artifact — Map)
     mishra
     on_a_stick
 2 Orc Army (0/0 black Creature — Orc Army)
     on_a_stick
     terra
-2 Soldier (1/1 white Creature — Soldier)
-    moogles
+2 Saproling (1/1 green Creature — Saproling)
+    bant_tokens
+    morphs
+2 Spirit (1/1 white Creature — Spirit) [Flying]
+    bant_tokens
     on_a_stick
-2 Spirit (1/1 colorless Creature — Spirit)
-    shrines
-    toph_lands
+2 Vampire (1/1 white Creature — Vampire) [Lifelink]
+    dinos
+    on_a_stick
 2 Wolf (2/2 green Creature — Wolf)
     gitrog_ride
     on_a_stick
@@ -141,13 +144,15 @@
 
 aesi
     Beau (*/* blue Legendary Creature — Ox)
+    Elemental (5/3 green Creature — Elemental)
     Forest Dryad (1/1 green Land Creature — Forest Dryad)
     Koma's Coil (3/3 blue Creature — Serpent)
 
-bre
-    Angel (4/4 white Creature — Angel) [Flying, vigilance]
-    Griffin (2/2 white Creature — Griffin) [Flying]
-    Spirit (3/2 red/white Creature — Spirit)
+bant_tokens
+    Cat Beast (2/2 white Creature — Cat Beast)
+    Detective (2/2 blue/white Creature — Detective)
+    Elf Warrior (1/1 green Creature — Elf Warrior)
+    Faerie Dragon (1/1 blue Creature — Faerie Dragon) [Flying]
 
 dinos
     Dinosaur (*/* green Creature — Dinosaur)
@@ -156,9 +161,9 @@ dinos
     Dinosaur (3/3 green Creature — Dinosaur) [Trample]
     Dinosaur Beast (*/* green Creature — Dinosaur Beast) [Trample]
     Dinosaur Egg (0/1 green Creature — Dinosaur Egg)
-    Fanatic of Rhonas (4/4 black Creature — Zombie Snake Druid)
 
 gitrog_ride
+    Beast (3/3 green Creature — Beast)
     Centaur (3/3 green Creature — Centaur) [Protection from black]
     Dog (1/1 white Creature — Dog)
     Faerie (1/1 blue Creature — Faerie) [Flying]
@@ -167,6 +172,12 @@ gitrog_ride
 henzie
     Spirit (*/* green Creature — Spirit)
 
+knights
+    Human (1/1 white Creature — Human)
+    Knight (2/2 blue/white Creature — Knight) [Vigilance]
+    Shapeshifter (3/2 colorless Creature — Shapeshifter) [Changeling]
+    Vampire Knight (1/1 black Creature — Vampire Knight) [Lifelink]
+
 mishra
     Astartes Warrior (2/2 white Creature — Astartes Warrior) [Vigilance]
     Mishra's Warform (4/4 colorless Artifact Creature — Construct)
@@ -174,6 +185,7 @@ mishra
 
 moogles
     Beast (4/4 white Creature — Beast) [This creature can't attack or block alone.]
+    Cat (1/1 white Creature — Cat)
     Citizen (1/1 green/white Creature — Citizen)
     Elephant (3/3 green Creature — Elephant)
     Moogle (1/2 white Creature — Moogle) [Lifelink]
@@ -182,8 +194,13 @@ moogles
 
 morphs
     Ooze (0/0 green Creature — Ooze) [Trample]
-    Saproling (1/1 green Creature — Saproling)
     Snake (1/1 green Creature — Snake)
+
+mw_control
+    Angel (4/4 white Creature — Angel) [Flying, vigilance]
+    Angel (4/4 white Creature — Angel) [Flying]
+    Angel Warrior (4/4 white Creature — Angel Warrior) [Flying]
+    Phyrexian Germ (0/0 black Creature — Phyrexian Germ)
 
 omo
     Bear (2/2 green Creature — Bear)
@@ -193,7 +210,6 @@ omo
 
 on_a_stick
     Bird (1/1 white Creature — Bird) [Flying]
-    Blood (Artifact — Blood)
     Clue (Artifact — Clue)
     Drone (1/1 colorless Artifact Creature — Drone) [Flying; This token can block only creatures with flying.]
     Fish (1/1 blue Creature — Fish) [This creature can't be blocked.]
@@ -201,7 +217,6 @@ on_a_stick
     Goblin (1/1 red Creature — Goblin)
     Incubator // Phyrexian (Artifact — Incubator // 0/0 colorless Artifact Creature — Phyrexian)
     Insect (2/1 white Creature — Insect) [Flying]
-    Knight (2/2 white Creature — Knight) [Vigilance]
     Mutant (2/2 red Creature — Mutant)
     Myr (1/1 colorless Artifact Creature — Myr)
     Rabbit (1/1 white Creature — Rabbit)
@@ -214,12 +229,12 @@ on_a_stick
     Spider (2/1 black/green Creature — Spider) [Menace, reach]
     Spider (2/2 green Creature — Spider) [Reach]
     Spirit (1/1 black/white Creature — Spirit) [Flying]
-    Spirit (1/1 white Creature — Spirit) [Flying]
     Warrior (1/1 red Creature — Warrior)
 
 shrines
     Monk (1/1 red Creature — Monk) [Prowess]
     Shrine (1/1 colorless Enchantment Creature — Shrine)
+    Spirit (1/1 colorless Creature — Spirit)
 
 slivers
     Sliver (1/1 colorless Creature — Sliver)
@@ -233,13 +248,10 @@ ur_dragon
     Dragon (6/6 red Creature — Dragon) [Flying]
     Pest (1/1 black/green Creature — Pest) [When this creature dies, you gain 1 life.]
 
-vampires
-    Shapeshifter (3/2 colorless Creature — Shapeshifter) [Changeling]
-    Vampire (1/1 black Creature — Vampire)
-    Vampire (1/1 black/white Creature — Vampire) [Lifelink]
-    Vampire (2/2 black Creature — Vampire) [Flying]
-    Vampire Demon (4/3 black/white Creature — Vampire Demon) [Flying]
-
 wanderer_keruga
     Elemental (5/5 green/red Creature — Elemental)
     Phyrexian Horror (*/* green Creature — Phyrexian Horror)
+
+x_spells
+    Rat (1/1 black Creature — Rat) [This token can't block.]
+    Tyranid (1/1 green Creature — Tyranid)

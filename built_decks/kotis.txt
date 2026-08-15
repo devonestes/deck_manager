@@ -20,7 +20,6 @@ Damnation
 Deadly Rollick
 Delighted Halfling
 Dragonfire Blade
-Dreamroot Cascade
 Drowned Catacomb
 Elves of Deep Shadow
 Elvish Mystic
@@ -31,6 +30,7 @@ Fellwar Stone
 Fierce Guardianship
 Final Act
 Fireshrieker
+Forest
 Forest
 Forest
 Forest

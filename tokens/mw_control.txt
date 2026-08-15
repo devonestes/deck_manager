@@ -1,7 +1,6 @@
 Angel (4/4 white Creature — Angel) [Flying, vigilance]
 Angel (4/4 white Creature — Angel) [Flying]
 Angel Warrior (4/4 white Creature — Angel Warrior) [Flying]
-Copy (copy)
 Phyrexian Germ (0/0 black Creature — Phyrexian Germ)
 Soldier (1/1 white Creature — Soldier)
 Treasure (Artifact — Treasure)

@@ -20,7 +20,6 @@
 1 Deadly Rollick (CMM) 695
 1 Delighted Halfling (LTR) 402
 1 Dragonfire Blade (TDM) 240
-1 Dreamroot Cascade (VOW) 282
 1 Drowned Catacomb (SLD) 457
 1 Elves of Deep Shadow (RAV) 161
 1 Elvish Mystic (CMM) 648
@@ -31,7 +30,7 @@
 1 Fierce Guardianship (CMM) 694
 1 Final Act (M3C) 104
 1 Fireshrieker (NEC) 151
-6 Forest (UNF) 244
+7 Forest (UNF) 244
 1 Forgotten Ancient (NCC) 291
 1 Glissa Sunslayer (ONE) 202
 1 Gonti, Night Minister (DFT) 87

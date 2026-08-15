@@ -12,8 +12,8 @@ Bugenhagen, Wise Elder
 Castle Garenbrig
 Cultivate
 Delighted Halfling
-Eladamri, Korvecdal
 Emerald Medallion
+Forest
 Forest
 Forest
 Forest
@@ -41,6 +41,7 @@ Germination Practicum
 Ghalta, Primal Hunger
 Heroic Intervention
 Invasion of Ikoria // Zilortha, Apex of Ikoria
+Kaysa
 Kolvori, God of Kinship // The Ringhart Crest
 Kona, Rescue Beastie
 Last March of the Ents
@@ -68,6 +69,7 @@ Rhonas's Monument
 Rishkar's Expertise
 Rogue's Passage
 Saryth, the Viper's Fang
+Sazh Katzroy
 Selvala, Heart of the Wilds
 Six
 Sol Ring
@@ -87,13 +89,11 @@ Torgal, A Fine Hound
 Toski, Bearer of Secrets
 Tribute to the World Tree
 Turntimber Symbiosis // Turntimber, Serpentine Wood
-Tyvar, the Pummeler
 Unnatural Growth
 Vorinclex // The Grand Evolution
 War Room
 Wilson, Refined Grizzly
 Witch's Clinic
-Yavimaya Hollow
 Yavimaya, Cradle of Growth
 Yeva, Nature's Herald
 Yorvo, Lord of Garenbrig

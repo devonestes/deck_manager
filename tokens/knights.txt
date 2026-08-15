@@ -4,6 +4,6 @@ Human (1/1 white Creature — Human)
 Knight (2/2 blue/white Creature — Knight) [Vigilance]
 Knight (2/2 white Creature — Knight)
 Knight (2/2 white Creature — Knight) [Vigilance]
-Soldier (1/1 white Creature — Soldier)
+Shapeshifter (3/2 colorless Creature — Shapeshifter) [Changeling]
 Treasure (Artifact — Treasure)
 Vampire Knight (1/1 black Creature — Vampire Knight) [Lifelink]
