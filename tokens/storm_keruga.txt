@@ -1,0 +1,7 @@
+Bird (1/1 blue Creature — Bird) [Flying]
+Clue (Artifact — Clue)
+Copy (copy)
+Goblin (1/1 red Creature — Goblin)
+Spider (1/2 green Creature — Spider) [Reach]
+Treasure (Artifact — Treasure)
+Zombie (2/2 black Creature — Zombie)

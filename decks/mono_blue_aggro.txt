@@ -5,7 +5,7 @@
 1 Bident of Thassa (LCC) 146
 1 Blue Sun's Twilight (ONE) 379
 1 Brainstorm (ICE) 61
-1 Brazen Borrower // Petty Theft (SLD) 234
+1 Brazen Borrower / Petty Theft (SLD) 234
 1 Bribery (8ED) 64
 1 Broodbirth Viper (PLST) C15-10
 1 Capture of Jingzhou (CMM) 79
@@ -22,7 +22,7 @@
 1 Halimar Depths (C18) 253
 1 High Tide (FEM) 18c
 1 Horn of the Mark (LTR) 241
-1 Horned Loch-Whale // Lagoon Breach (WOE) 53
+1 Horned Loch-Whale / Lagoon Breach (WOE) 53
 25 Island (J22) 101
 1 Kefnet's Monument (AKH) 231
 1 Kukemssa Pirates (MIR) 71
@@ -35,7 +35,7 @@
 1 Military Intelligence (J22) 322
 1 Minamo, School at Water's Edge (CHK) 279
 1 Mind Stone (MOC) 364
-1 Mischievous Catgeist // Catlike Curiosity (VOW) 69
+1 Mischievous Catgeist / Catlike Curiosity (VOW) 69
 1 Myriad Landscape (MOC) 416
 1 Mystic Remora (ICE) 87
 1 Nadir Kraken (NCC) 228
@@ -51,7 +51,7 @@
 1 Rhystic Study (J22) 114
 1 Sapphire Medallion (TMP) 306
 1 Schema Thief (MOC) 24
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 333
 1 Sol Ring (MOC) 381
 1 Soldevi Excavations (ALL) 143
 1 Soulknife Spy (AFR) 75

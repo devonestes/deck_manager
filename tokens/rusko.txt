@@ -1,0 +1,7 @@
+Ape (3/3 green Creature — Ape)
+Construct (0/0 colorless Artifact Creature — Construct)
+Copy (copy)
+Drake (2/2 blue Creature — Drake) [Flying]
+Shark (*/* blue Creature — Shark) [Flying]
+Treasure (Artifact — Treasure)
+Wraith (3/3 black Creature — Wraith) [Menace]

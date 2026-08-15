@@ -13,7 +13,7 @@
 1 Deflecting Swat (C20) 50
 1 Earthquake (4ED) 189
 1 Extraplanar Lens (MRD) 169
-1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
+1 Fable of the Mirror-Breaker / Reflection of Kiki-Jiki (NEO) 141
 1 Fiendish Duo (MKC) 153
 1 Fiery Emancipation (M21) 366
 1 Fires of Mount Doom (LTR) 294
@@ -35,11 +35,11 @@
 1 Mechanized Warfare (BRO) 139
 28 Mountain (J22) 107
 1 Nykthos, Shrine to Nyx (THS) 223
-1 Ojer Axonil, Deepest Might // Temple of Power (LCI) 158
+1 Ojer Axonil, Deepest Might / Temple of Power (LCI) 158
 1 Oliphaunt (LTR) 426
 1 Orcish Artillery (4ED) 214
 1 Orcish Cannoneers (ICE) 205
-1 Pinnacle Monk // Mystic Peak (MH3) 246
+1 Pinnacle Monk / Mystic Peak (MH3) 246
 1 Platinum Emperion (SOM) 193
 1 Pyrohemia (CMA) 86
 1 Pyrostatic Pillar (SCG) 100
@@ -50,22 +50,22 @@
 1 Ruby Medallion (CMM) 405
 1 Scrawling Crawler (FDN) 354
 1 Shadowspear (THB) 345
-1 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354
-1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist (BOT) 6
+1 Shatterskull Smashing / Shatterskull, the Hammer Pass (ZNR) 354
+1 Slicer, Hired Muscle / Slicer, High-Speed Antagonist (BOT) 6
 1 Smoke (4ED) 222
 1 Sol Ring (MOC) 381
 1 Solphim, Mayhem Dominus (ONE) 312
 1 Spear Spewer (J22) 82
 1 Spellshock (EXO) 104
 1 Sulfuric Vortex (DMR) 144
-1 Sundering Eruption // Volcanic Fissure (MH3) 248
+1 Sundering Eruption / Volcanic Fissure (MH3) 248
 1 Sunspine Lynx (BLB) 155
 1 Sword of the Animist (AFC) 218
 1 Tarnished Citadel (ODY) 329
 1 Themberchaud (SLD) 728
 1 Throne of Eldraine (WOC) 28
 1 Torbran, Thane of Red Fell (ELD) 147
-1 Valakut Awakening // Valakut Stoneforge (ZNR) 174
+1 Valakut Awakening / Valakut Stoneforge (ZNR) 174
 1 War Room (WHO) 330
 1 Wheel of Misfortune (CMR) 211
 1 Winter Moon (MH3) 213

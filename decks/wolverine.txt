@@ -1,4 +1,5 @@
 1 Wolverine, Best There Is (SLD) 1737
+1 Adamantium Bonding Tank (SLD) 1741
 1 Ancient Animus (DOM) 154
 1 Animist's Might (MAT) 70
 1 Anzrag, the Quake-Mole (MKM) 186
@@ -11,7 +12,7 @@
 1 Biophagus (40K) 87★
 1 Bite Down (FDN) 212
 1 Branching Evolution (LCC) 234
-1 Bridgeworks Battle // Tanglespan Bridgeworks (MH3) 249
+1 Bridgeworks Battle / Tanglespan Bridgeworks (MH3) 249
 1 Chandra's Ignition (LCC) 220
 1 Cinder Glade (DMC) 203
 1 Command Tower (MOC) 396
@@ -37,7 +38,7 @@
 1 Kalonian Hydra (BLC) 226
 1 Kami of Whispered Hopes (MOM) 196
 1 Kessig Wolf Run (LCC) 340
-1 Khalni Ambush // Khalni Territory (ZNR) 192
+1 Khalni Ambush / Khalni Territory (ZNR) 192
 1 Lion Umbra (MH3) 160
 1 Llanowar Elves (3ED) 211
 1 Misty Rainforest (MH2) 438
@@ -67,7 +68,6 @@
 1 Stomping Ground (RVR) 413
 1 Swiftfoot Boots (BRC) 166
 1 Talisman of Impulse (MRD) 254
-1 The Ozolith (SLD) 1741
 1 The Reaver Cleaver (DMC) 8
 1 Titanic Brawl (RVR) 158
 1 Toski, Bearer of Secrets (KHM) 197

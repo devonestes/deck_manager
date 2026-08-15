@@ -1,0 +1,4 @@
+Bird (2/2 blue Creature — Bird) [Flying]
+Saproling (1/1 green Creature — Saproling)
+Spirit (1/1 colorless Creature — Spirit)
+Treasure (Artifact — Treasure)

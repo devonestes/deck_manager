@@ -179,6 +179,20 @@ defmodule DeckManager.TokensTest do
                "Treasure (Artifact — Treasure)\n"
     end
 
+    test "leaves it off a token named for a card, which its name already gives away" do
+      beau = %{
+        "name" => "Beau",
+        "type_line" => "Token Legendary Creature — Ox",
+        "power" => "*",
+        "toughness" => "*",
+        "colors" => ["U"],
+        "oracle_text" =>
+          "This creature's power and toughness are each equal to the number of lands you control."
+      }
+
+      assert Tokens.render([beau]) == "Beau (*/* blue Legendary Creature — Ox)\n"
+    end
+
     test "leaves it off a boilerplate face of a double-faced token too" do
       incubator = %{
         "name" => "Incubator // Phyrexian",
@@ -245,6 +259,70 @@ defmodule DeckManager.TokensTest do
       }
 
       assert Tokens.render([token]) =~ "(2/2 blue/black"
+    end
+  end
+
+  describe "totals/1" do
+    test "counts the decks needing each token, most-wanted first, and names them" do
+      decks = [
+        {"kotis", "Treasure (Artifact — Treasure)\nSquirrel (1/1 green Creature — Squirrel)\n"},
+        {"aesi", "Treasure (Artifact — Treasure)\n"},
+        {"bre", "Treasure (Artifact — Treasure)\nBeast (3/3 green Creature — Beast)\n"}
+      ]
+
+      assert Tokens.totals(decks) == """
+             3 Treasure (Artifact — Treasure)
+                 aesi
+                 bre
+                 kotis
+
+             bre
+                 Beast (3/3 green Creature — Beast)
+
+             kotis
+                 Squirrel (1/1 green Creature — Squirrel)
+             """
+    end
+
+    test "gathers everything only one deck needs under that deck" do
+      decks = [
+        {"gitrog_ride", "Badger (3/3 green Creature — Badger)\nDog (1/1 white Creature — Dog)\n"},
+        {"aesi", "Beau (*/* blue Legendary Creature — Ox)\n"}
+      ]
+
+      assert Tokens.totals(decks) == """
+             aesi
+                 Beau (*/* blue Legendary Creature — Ox)
+
+             gitrog_ride
+                 Badger (3/3 green Creature — Badger)
+                 Dog (1/1 white Creature — Dog)
+             """
+    end
+
+    test "counts tokens that differ only in rules text separately" do
+      plain = "Knight (2/2 white Creature — Knight)\n"
+      vigilant = "Knight (2/2 white Creature — Knight) [Vigilance]\n"
+      decks = [{"dinos", plain}, {"doric", plain}, {"henzie", vigilant}, {"omo", vigilant}]
+
+      assert Tokens.totals(decks) == """
+             2 Knight (2/2 white Creature — Knight)
+                 dinos
+                 doric
+             2 Knight (2/2 white Creature — Knight) [Vigilance]
+                 henzie
+                 omo
+             """
+    end
+
+    test "counts a deck once however many of its cards make the token" do
+      body = "Treasure (Artifact — Treasure)\nTreasure (Artifact — Treasure)\n"
+
+      assert Tokens.totals([{"aesi", body}]) == "aesi\n    Treasure (Artifact — Treasure)\n"
+    end
+
+    test "has nothing to say about decks that need no tokens" do
+      assert Tokens.totals([{"bre", ""}, {"dandan", ""}]) == ""
     end
   end
 

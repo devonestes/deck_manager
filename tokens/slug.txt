@@ -1,0 +1,3 @@
+Copy (copy)
+Goblin Shaman (2/2 red Creature — Goblin Shaman) [Whenever this creature attacks, create a Treasure token.]
+Treasure (Artifact — Treasure)

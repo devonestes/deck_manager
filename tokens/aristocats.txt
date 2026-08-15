@@ -1,0 +1,13 @@
+Angel (4/4 white Creature — Angel) [Flying]
+Construct (0/0 colorless Artifact Creature — Construct)
+Faerie Rogue (1/1 black Creature — Faerie Rogue) [Flying]
+Human (1/1 white Creature — Human)
+Human Cleric (1/1 black/white Creature — Human Cleric)
+Inkling (2/1 black/white Creature — Inkling) [Flying]
+Iridescent Vinelasher (1/1 black Creature — Lizard Assassin) [Landfall — Whenever a land you control enters, this creature deals 1 damage to target opponent.]
+Map (Artifact — Map)
+Orc Army (0/0 black Creature — Orc Army)
+Servo (1/1 colorless Artifact Creature — Servo)
+Skeleton (2/1 black Creature — Skeleton)
+Treasure (Artifact — Treasure)
+Zombie (2/2 black Creature — Zombie)

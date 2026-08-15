@@ -1,4 +1,4 @@
-1 Optimus Prime, Hero // Optimus Prime, Autobot Leader (BOT) 13
+1 Optimus Prime, Hero / Optimus Prime, Autobot Leader (BOT) 13
 1 Abzan Battle Priest (KTK) 1
 1 Abzan Falconer (MIC) 77
 1 Adarkar Wastes (ICE) 351
@@ -10,7 +10,8 @@
 1 Arcbound Shikari (MH2) 184
 1 Arcbound Slasher (MH2) 111
 1 Arcbound Tracker (MH2) 112
-1 Arcee, Sharpshooter // Arcee, Acrobatic Coupe (BOT) 7
+1 Arcee, Sharpshooter / Arcee, Acrobatic Coupe (BOT) 7
+1 Argonath, Pillars of the Kings (LTC) 351
 1 Battlefield Forge (BRO) 257
 1 Blasphemous Act (BRC) 113
 1 Cascade Bluffs (CMM) 990
@@ -31,7 +32,7 @@
 1 Imposter Mech (NEC) 13
 7 Island (J22) 101
 1 Izzet Signet (NCC) 369
-1 Jetfire, Ingenious Scientist // Jetfire, Air Guardian (BOT) 3
+1 Jetfire, Ingenious Scientist / Jetfire, Air Guardian (BOT) 3
 1 Kappa Cannoneer (NEC) 14
 1 Karn's Bastion (CMM) 1007
 1 Lita, Mechanical Engineer (J22) 6
@@ -48,8 +49,8 @@
 1 Padeem, Consul of Innovation (BRC) 91
 6 Plains (J22) 98
 1 Power Depot (MH2) 251
-1 Prowl, Stoic Strategist // Prowl, Pursuit Vehicle (BOT) 1
-1 Ratchet, Field Medic // Ratchet, Rescue Racer (BOT) 2
+1 Prowl, Stoic Strategist / Prowl, Pursuit Vehicle (BOT) 1
+1 Ratchet, Field Medic / Ratchet, Rescue Racer (BOT) 2
 1 Raugrin Triome (IKO) 311
 1 Razortide Bridge (MH2) 252
 1 Reluctant Role Model (DSK) 303
@@ -72,7 +73,6 @@
 1 Talisman of Conviction (LTC) 285
 1 Teferi's Protection (C17) 8
 1 The Indomitable (LCC) 75
-1 The Ozolith (LTC) 351
 1 The Reality Chip (NEO) 74
 1 Thopter Spy Network (J22) 361
 1 Thought Monitor (MKC) 121

@@ -1,0 +1,6 @@
+Beast (3/3 green Creature — Beast)
+Copy (copy)
+Phyrexian Germ (0/0 black Creature — Phyrexian Germ)
+Powerstone (Artifact — Powerstone)
+Sword (Artifact — Equipment) [Equipped creature gets +1/+1; Equip {2}]
+Treasure (Artifact — Treasure)

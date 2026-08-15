@@ -1,0 +1,13 @@
+Beast (3/3 green Creature — Beast)
+Cat (2/2 green Creature — Cat)
+Clue (Artifact — Clue)
+Construct (0/0 colorless Artifact Creature — Construct)
+Copy (copy)
+Detective (2/2 blue/white Creature — Detective)
+Drake (2/2 blue Creature — Drake) [Flying]
+Eldrazi (10/10 colorless Creature — Eldrazi)
+Food (Artifact — Food)
+Human Soldier (1/1 white Creature — Human Soldier)
+Phyrexian Germ (0/0 black Creature — Phyrexian Germ)
+Spirit (1/1 white Creature — Spirit) [Flying]
+Treasure (Artifact — Treasure)

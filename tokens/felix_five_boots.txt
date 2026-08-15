@@ -1,0 +1,4 @@
+Beast (3/3 green Creature — Beast)
+Copy (copy)
+Treasure (Artifact — Treasure)
+Vanguard Suppressor (3/2 blue Creature — Astartes Warrior) [Flying; Whenever Vanguard Suppressor deals combat damage to a player, draw a card.]

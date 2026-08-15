@@ -1,6 +1,6 @@
 Badger (3/3 green Creature — Badger)
 Beast (4/4 green Creature — Beast)
-Beau (*/* blue Legendary Creature — Ox) [This creature's power and toughness are each equal to the number of lands you control.]
+Beau (*/* blue Legendary Creature — Ox)
 Copy (copy)
 Elemental (5/3 green Creature — Elemental)
 Everywhere (Land)

@@ -1,0 +1,8 @@
+Copy (copy)
+Dragon (4/4 red Creature — Dragon) [Flying]
+Eldrazi (10/10 colorless Creature — Eldrazi)
+Goblin (1/1 red Creature — Goblin)
+Myr (1/1 colorless Artifact Creature — Myr)
+Treasure (Artifact — Treasure)
+Wurm (3/3 colorless Artifact Creature — Wurm) [Deathtouch]
+Wurm (3/3 colorless Artifact Creature — Wurm) [Lifelink]

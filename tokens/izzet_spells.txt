@@ -1,0 +1,4 @@
+Ape (3/3 green Creature — Ape)
+Construct (0/0 colorless Artifact Creature — Construct)
+Treasure (Artifact — Treasure)
+Wicked // Cursed (Enchantment — Aura Role // Enchantment — Aura Role)

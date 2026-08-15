@@ -1,0 +1,6 @@
+Cat Beast (2/2 white Creature — Cat Beast)
+Construct (0/0 colorless Artifact Creature — Construct)
+Copy (copy)
+Pilot (1/1 colorless Creature — Pilot) [This creature crews Vehicles as though its power were 2 greater.]
+Servo (1/1 colorless Artifact Creature — Servo)
+Thopter (1/1 colorless Artifact Creature — Thopter) [Flying]

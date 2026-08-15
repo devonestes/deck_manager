@@ -1,0 +1,20 @@
+Badger (3/3 green Creature — Badger)
+Beast (3/3 green Creature — Beast)
+Beast (4/4 green Creature — Beast)
+Cat Beast (2/2 white Creature — Cat Beast)
+Clue (Artifact — Clue)
+Construct (0/0 colorless Artifact Creature — Construct)
+Copy (copy)
+Elemental (5/3 green Creature — Elemental)
+Faerie Rogue (1/1 black Creature — Faerie Rogue) [Flying]
+Food (Artifact — Food)
+Forest Dryad (1/1 green Land Creature — Forest Dryad)
+Illusion (*/* blue Creature — Illusion)
+Insect (1/1 green Creature — Insect)
+Iridescent Vinelasher (1/1 black Creature — Lizard Assassin) [Landfall — Whenever a land you control enters, this creature deals 1 damage to target opponent.]
+Pest (1/1 black/green Creature — Pest) [When this creature dies, you gain 1 life.]
+Phyrexian Beast (4/4 green Creature — Phyrexian Beast)
+Plant (0/1 green Creature — Plant)
+Snake (1/1 black Creature — Snake) [Deathtouch]
+Treasure (Artifact — Treasure)
+Zombie (2/2 black Creature — Zombie)

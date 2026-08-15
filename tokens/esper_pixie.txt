@@ -1,0 +1,3 @@
+Map (Artifact — Map)
+Otter (1/1 red/blue Creature — Otter) [Prowess]
+Wicked // Cursed (Enchantment — Aura Role // Enchantment — Aura Role)

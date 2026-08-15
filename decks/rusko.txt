@@ -6,9 +6,8 @@
 1 Baleful Strix (MKC) 200
 1 Blood Money (LCC) 183
 1 Bojuka Bog (MOC) 391
-1 Bolas's Citadel (SLD) 1187
 1 Brainstorm (MB2) 155
-1 Clearwater Pathway // Murkwater Pathway (ZNR) 286
+1 Clearwater Pathway / Murkwater Pathway (ZNR) 286
 1 Command Tower (MOC) 396
 1 Conjurer's Closet (AVR) 214
 1 Consider (MKC) 98
@@ -25,7 +24,7 @@
 1 Essence Flux (SOI) 61
 1 Feed the Swarm (BRC) 106
 1 Fell (BLB) 95
-1 Fell the Profane // Fell Mire (MH3) 244
+1 Fell the Profane / Fell Mire (MH3) 244
 1 Fellwar Stone (MOC) 356
 1 Fierce Guardianship (CMM) 694
 1 Frantic Search (CMM) 96
@@ -47,8 +46,9 @@
 1 Polluted Delta (MH3) 438
 1 Ponder (SLP) 19
 1 Pongify (OTC) 106
+1 Post's Citadel (SLD) 1187
 1 Preordain (LTC) 196
-1 Primal Amulet // Primal Wellspring (XLN) 243
+1 Primal Amulet / Primal Wellspring (XLN) 243
 1 Propaganda (OTC) 108
 1 Psychosis Crawler (MKC) 234
 1 Reliquary Tower (BRC) 196
@@ -63,7 +63,7 @@
 1 Sol Ring (MOC) 381
 1 Solemn Simulacrum (BRC) 161
 1 Spark Double (RVR) 319
-1 Starscream, Power Hungry // Starscream, Seeker Leader (BOT) 5
+1 Starscream, Power Hungry / Starscream, Seeker Leader (BOT) 5
 1 Sunken Hollow (MOC) 428
 5 Swamp (LCI) 397
 1 Swiftfoot Boots (BRC) 166
@@ -79,7 +79,7 @@
 1 Undercity Sewers (MKM) 332
 1 Underground River (BRO) 267
 1 Unwinding Clock (NPH) 164
-1 Waterlogged Teachings // Inundated Archive (MH3) 261
+1 Waterlogged Teachings / Inundated Archive (MH3) 261
 1 Watery Grave (RVR) 415
 1 Windfall (LCC) 180
 1 Withering Torment (DSK) 124

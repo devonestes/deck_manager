@@ -43,7 +43,7 @@
 1 Jolrael, Mwonvuli Recluse (MKC) 173
 1 Junk Winder (MKC) 107
 1 Kappa Cannoneer (NEC) 14
-1 Kellan, Inquisitive Prodigy // Tail the Suspect (MKM) 334
+1 Kellan, Inquisitive Prodigy / Tail the Suspect (MKM) 334
 1 Lightning Greaves (LTC) 281
 1 Lonis, Cryptozoologist (MKC) 215
 1 Mana Drain (CMR) 80
@@ -64,7 +64,7 @@
 1 Rhystic Study (J22) 114
 1 Rise and Shine (MH2) 58
 1 Rogue's Passage (LTC) 326
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 333
 1 Sea of Clouds (BBD) 84
 1 Seaside Citadel (C13) 318
 1 Seedborn Muse (C19) 179

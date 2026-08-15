@@ -1,0 +1,33 @@
+Bear (2/2 green Creature — Bear)
+Bird (1/1 white Creature — Bird) [Flying]
+Bird Illusion (1/1 blue Creature — Bird Illusion) [Flying]
+Blood (Artifact — Blood)
+Clue (Artifact — Clue)
+Crab (0/3 blue Creature — Crab)
+Dog (1/1 white Creature — Dog)
+Eldrazi Scion (1/1 colorless Creature — Eldrazi Scion)
+Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
+Elemental (1/1 red/blue Creature — Elemental)
+Elemental (3/3 red/blue Creature — Elemental) [Flying]
+Elephant (3/3 green Creature — Elephant)
+Food (Artifact — Food)
+Glimmer (1/1 white Enchantment Creature — Glimmer)
+Goblin (1/1 red Creature — Goblin)
+Human Soldier (1/1 white Creature — Human Soldier)
+Phyrexian Germ (0/0 black Creature — Phyrexian Germ)
+Rat (1/1 black Creature — Rat) [This token can't block.]
+Rebel (2/2 red Creature — Rebel)
+Samurai (2/2 white Creature — Samurai) [Vigilance]
+Saproling (1/1 green Creature — Saproling)
+Servo (1/1 colorless Artifact Creature — Servo)
+Soldier (1/1 white Creature — Soldier)
+Soldier (2/2 white Creature — Soldier)
+Spirit (1/1 white Creature — Spirit)
+Spirit (1/1 white Creature — Spirit) [Flying]
+Spirit (2/2 white Creature — Spirit) [Flying]
+Squirrel (1/1 green Creature — Squirrel)
+Treasure (Artifact — Treasure)
+Warrior (1/1 red Creature — Warrior)
+Zombie (2/2 black Creature — Zombie)
+Zombie (2/2 black Creature — Zombie) [Decayed]
+Zombie Army (0/0 black Creature — Zombie Army)

@@ -1,0 +1,12 @@
+Angel (4/4 white Creature — Angel) [Flying]
+Beast (3/3 green Creature — Beast)
+Copy (copy)
+Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
+Everywhere (Land)
+Food (Artifact — Food)
+Insect (1/1 green Creature — Insect)
+Insect (2/1 white Creature — Insect) [Flying]
+Knight (2/2 white Creature — Knight)
+Moogle (1/2 white Creature — Moogle) [Lifelink]
+Spirit Cleric (*/* white Creature — Spirit Cleric) [This creature's power and toughness are each equal to the number of Spirits you control.]
+Treasure (Artifact — Treasure)

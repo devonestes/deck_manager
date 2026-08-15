@@ -1,0 +1,61 @@
+Angel (3/3 white Creature — Angel) [Flying]
+Bat (1/1 black Creature — Bat) [Flying]
+Beau (*/* blue Legendary Creature — Ox) [This creature's power and toughness are each equal to the number of lands you control.]
+Blood (Artifact — Blood)
+Boo (1/1 red Legendary Creature — Hamster) [Trample, haste]
+Cat (1/1 white Creature — Cat)
+Cat (2/2 green Creature — Cat)
+Cat Warrior (2/1 white Creature — Cat Warrior)
+Clue (Artifact — Clue)
+Construct (0/0 colorless Artifact Creature — Construct)
+Construct (4/4 colorless Artifact Creature — Construct)
+Copy (copy)
+Dinosaur (3/1 red Creature — Dinosaur)
+Dragon Elemental (4/4 red Creature — Dragon Elemental) [Flying; Prowess]
+Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
+Elemental (1/1 red Creature — Elemental)
+Elemental (5/3 green Creature — Elemental)
+Everywhere (Land)
+Faerie Dragon (1/1 blue Creature — Faerie Dragon) [Flying]
+Fanatic of Rhonas (4/4 black Creature — Zombie Snake Druid)
+Food (Artifact — Food)
+Goblin (1/1 red Creature — Goblin)
+Goblin Shaman (2/2 red Creature — Goblin Shaman) [Whenever this creature attacks, create a Treasure token.]
+Golem (3/3 colorless Artifact Creature — Golem)
+Golem (3/3 colorless Artifact Creature — Golem) [Flying]
+Golem (3/3 colorless Artifact Creature — Golem) [Trample]
+Golem (3/3 colorless Artifact Creature — Golem) [Vigilance]
+Human (1/1 white Creature — Human)
+Human Knight (2/2 red Creature — Human Knight) [Trample, haste]
+Human Warrior (1/1 white Creature — Human Warrior)
+Illusion (*/* blue Creature — Illusion)
+Incubator // Phyrexian (Artifact — Incubator // 0/0 colorless Artifact Creature — Phyrexian)
+Insect (1/1 black/green Creature — Insect)
+Insect (1/1 green Creature — Insect)
+Knight (2/2 white Creature — Knight)
+Map (Artifact — Map)
+Marit Lage (20/20 black Legendary Creature — Avatar) [Flying, indestructible]
+Mercenary (1/1 red Creature — Mercenary) [{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.]
+Monk (1/1 white Creature — Monk) [Prowess]
+Myr (1/1 colorless Artifact Creature — Myr)
+Orc Army (0/0 black Creature — Orc Army)
+Pest (1/1 black/green Creature — Pest) [When this creature dies, you gain 1 life.]
+Phyrexian Germ (0/0 black Creature — Phyrexian Germ)
+Pilot (1/1 colorless Creature — Pilot) [This creature crews Vehicles as though its power were 2 greater.]
+Rabbit (1/1 white Creature — Rabbit)
+Rebel (2/2 red Creature — Rebel)
+Rogue (2/2 black Creature — Rogue)
+Samurai (2/2 white Creature — Samurai) [Vigilance]
+Servo (1/1 colorless Artifact Creature — Servo)
+Skeleton (4/1 black Creature — Skeleton) [Menace]
+Soldier (1/1 colorless Artifact Creature — Soldier)
+Soldier (1/1 white Creature — Soldier)
+Spirit (1/1 white Creature — Spirit) [Flying]
+Squirrel (1/1 green Creature — Squirrel)
+Thopter (1/1 blue Artifact Creature — Thopter) [Flying]
+Thopter (1/1 colorless Artifact Creature — Thopter) [Flying]
+Treasure (Artifact — Treasure)
+Vampire (1/1 white Creature — Vampire) [Lifelink]
+Warrior (1/1 red Creature — Warrior)
+Wurm (5/5 green Creature — Wurm) [Trample]
+Zombie (2/2 black Creature — Zombie)

@@ -4,6 +4,7 @@
 1 Alchemist's Refuge (LCC) 318
 1 Ancient Tomb (TMP) 315
 1 Arcane Signet (LCC) 299
+1 Argonath, Pillars of the Kings (LTC) 351
 1 Beast Within (LCC) 233
 1 Bident of Thassa (LCC) 146
 1 Boseiju, Who Endures (NEO) 501
@@ -76,12 +77,11 @@
 1 Swan Song (LTC) 197
 1 Tatyova, Benthic Druid (LCC) 290
 1 Thada Adel, Acquisitor (WWK) 40
-1 The Ozolith (LTC) 351
 1 Thieving Skydiver (LCC) 177
 1 Thrasios, Triton Hero (C16) 46
 1 Tishana's Tidebinder (LCI) 81
 1 Topography Tracker (LCC) 95
-1 Twists and Turns // Mycoid Maze (LCI) 217
+1 Twists and Turns / Mycoid Maze (LCI) 217
 1 Unclaimed Territory (LCC) 366
 1 Vodalian Hexcatcher (DMU) 398
 1 Wave Goodbye (LCC) 79

@@ -3,12 +3,13 @@
 1 Ancient Tomb (TMP) 315
 1 Arcane Denial (ALL) 22a
 1 Arcane Signet (MOC) 348
+1 Archmage of Runes (FDN) 30
 1 Black Market Connections (CLB) 620
 1 Brainstorm (ICE) 61
 1 Capture of Jingzhou (CMM) 79
 1 Cavern of Souls (AVR) 226
 1 Changeling Outcast (MH1) 82
-1 Clearwater Pathway // Murkwater Pathway (ZNR) 286
+1 Clearwater Pathway / Murkwater Pathway (ZNR) 286
 1 Command Tower (MOC) 396
 1 Counterspell (TMP) 57
 1 Cyclonic Rift (2XM) 339
@@ -26,14 +27,12 @@
 1 Frantic Search (UMA) 57
 1 Go for the Throat (BRO) 102
 1 Impulse (VIS) 34
-9 Island (J22) 101
+10 Island (J22) 101
 1 Isochron Scepter (MRD) 188
-1 Jeweled Lotus (CMR) 319
 1 Kindred Discovery (CLB) 81
 1 Lightning Greaves (LTC) 281
 1 Lim-Dûl's Vault (ALL) 107
 1 Lórien Revealed (LTR) 60
-1 Mana Crypt (2XM) 270
 1 Mana Drain (CMR) 80
 1 Mana Vault (2ED) 260
 1 Misty Rainforest (MM3) 240
@@ -49,7 +48,6 @@
 1 Nazgûl (LTR) 338
 1 Nazgûl (LTR) 339
 1 Negate (STA) 18
-1 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time (LCI) 67
 1 Opposition Agent (CMR) 141
 1 Opt (LTC) 194
 1 Orcish Bowmasters (LTR) 103
@@ -63,7 +61,7 @@
 1 Rhystic Study (J22) 114
 1 Roaming Throne (LCI) 344
 1 Sakashima of a Thousand Faces (CMR) 89
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 333
 1 See Double (MOM) 353
 1 Shadow Rift (TMP) 86
 1 Shipwreck Marsh (MID) 285
@@ -72,7 +70,7 @@
 1 Spark Double (RVR) 319
 1 Sunken Hollow (MOC) 428
 1 Sunken Ruins (SHM) 280
-7 Swamp (J22) 106
+8 Swamp (J22) 106
 1 Swan Song (LTC) 197
 1 Talisman of Dominance (MRD) 253
 1 The One Ring (LTR) 451

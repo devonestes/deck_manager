@@ -1,0 +1,7 @@
+Cat Warrior (2/2 green Creature — Cat Warrior) [Forestwalk]
+Insect (1/1 black/green Creature — Insect)
+Plant (0/1 green Creature — Plant)
+Shapeshifter (2/2 blue Creature — Shapeshifter) [Changeling]
+Shapeshifter (3/2 colorless Creature — Shapeshifter) [Changeling]
+Tarmogoyf (*/1+* green Creature — Lhurgoyf) [Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.]
+Treasure (Artifact — Treasure)

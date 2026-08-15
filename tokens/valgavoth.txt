@@ -1,0 +1,4 @@
+Bat (1/1 black Creature — Bat) [Flying]
+Demon (6/6 black Creature — Demon) [Flying]
+Shapeshifter (3/2 colorless Creature — Shapeshifter) [Changeling]
+Treasure (Artifact — Treasure)

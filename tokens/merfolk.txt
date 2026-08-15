@@ -1,0 +1,7 @@
+Beast (3/3 green Creature — Beast)
+Bird (2/2 blue Creature — Bird) [Flying]
+Copy (copy)
+Drake (2/2 blue Creature — Drake) [Flying]
+Map (Artifact — Map)
+Merfolk (1/1 blue Creature — Merfolk)
+Merfolk (1/1 blue Creature — Merfolk) [Hexproof]

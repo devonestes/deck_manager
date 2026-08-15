@@ -6,7 +6,7 @@ Dog (1/1 white Creature — Dog)
 Faerie (1/1 blue Creature — Faerie) [Flying]
 Food (Artifact — Food)
 Fungus Dinosaur (*/* green Creature — Fungus Dinosaur)
-Iridescent Vinelasher (1/1 black Creature — Lizard Assassin) [Landfall — Whenever a land you control enters, this creature deals 1 damage to target opponent.]
+Iridescent Vinelasher (1/1 black Creature — Lizard Assassin)
 Plant (0/1 green Creature — Plant)
 Treasure (Artifact — Treasure)
 Wolf (2/2 green Creature — Wolf)

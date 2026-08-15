@@ -1,0 +1,5 @@
+Hero (1/1 colorless Creature — Hero)
+Inkling (2/1 black/white Creature — Inkling) [Flying]
+Shapeshifter (3/2 colorless Creature — Shapeshifter) [Changeling]
+Treasure (Artifact — Treasure)
+Wizard (0/1 black Creature — Wizard) [Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.]

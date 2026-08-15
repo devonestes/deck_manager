@@ -1,0 +1,7 @@
+Construct (0/0 colorless Artifact Creature — Construct)
+Copy (copy)
+Goblin (1/1 red Creature — Goblin)
+Phyrexian Germ (0/0 black Creature — Phyrexian Germ)
+Rebel (2/2 red Creature — Rebel)
+Sword (Artifact — Equipment) [Equipped creature gets +1/+1; Equip {2}]
+Treasure (Artifact — Treasure)

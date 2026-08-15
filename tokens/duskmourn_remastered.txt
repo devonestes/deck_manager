@@ -1,0 +1,16 @@
+Beast (4/4 white Creature — Beast) [This creature can't attack or block alone.]
+Copy (copy)
+Demon (6/6 black Creature — Demon) [Flying]
+Everywhere (Land)
+Glimmer (1/1 white Enchantment Creature — Glimmer)
+Gremlin (1/1 red Creature — Gremlin)
+Horror (2/2 black Enchantment Creature — Horror)
+Insect (1/1 black/green Creature — Insect) [Flying]
+Insect (2/1 white Creature — Insect) [Flying]
+Primo, the Indivisible (0/0 green/blue Legendary Creature — Fractal)
+Shard (Enchantment — Shard) [{2}, Sacrifice this enchantment: Scry 1, then draw a card.]
+Spider (2/2 green Creature — Spider) [Reach]
+Spirit (*/* blue Creature — Spirit) [Flying]
+Spirit (3/1 white Creature — Spirit) [Flying]
+Toy (1/1 white Artifact Creature — Toy)
+Treasure (Artifact — Treasure)

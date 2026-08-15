@@ -36,6 +36,7 @@
 1 Omnath, Locus of Mana (CMM) 310
 1 Plaza of Heroes (DMU) 421
 1 Questing Beast (ELD) 171
+1 Radagast of Rhosgobel (HOB) 136
 1 Radagast the Brown (LTR) 184
 1 Reki, the History of Kamigawa (SOK) 142
 1 Relic of Legends (FIC) 354
@@ -46,7 +47,6 @@
 1 Rishkar's Expertise (NEC) 127
 1 Rogue's Passage (LTC) 326
 1 Saryth, the Viper's Fang (MKC) 185
-1 Sazh Katzroy (FIN) 199
 1 Selvala, Heart of the Wilds (JMP) 429
 1 Six (MH3) 370
 1 Sol Ring (MOC) 381

@@ -26,7 +26,7 @@
 1 Etrata, Deadly Fugitive (MKM) 200
 1 Exotic Orchard (MOC) 398
 1 Farseek (RVR) 138
-1 Fell the Profane // Fell Mire (MH3) 244
+1 Fell the Profane / Fell Mire (MH3) 244
 1 Fireshrieker (NEC) 151
 4 Forest (J22) 110
 1 Giant Adephage (CLU) 164
@@ -48,7 +48,7 @@
 1 Morphic Pool (BBD) 83
 1 Nature's Lore (DMR) 170
 1 Ohran Frostfang (SLD) 237
-1 Ojer Kaslem, Deepest Growth // Temple of Cultivation (LCI) 204
+1 Ojer Kaslem, Deepest Growth / Temple of Cultivation (LCI) 204
 1 Old Gnawbone (AFR) 197
 1 Opulent Palace (DMC) 223
 1 Orochi Soul-Reaver (OTC) 22
@@ -59,7 +59,7 @@
 1 Reconnaissance Mission (WOC) 105
 1 Rejuvenating Springs (LTC) 325
 1 Reliquary Tower (BRC) 196
-1 Revitalizing Repast // Old-Growth Grove (MH3) 256
+1 Revitalizing Repast / Old-Growth Grove (MH3) 256
 1 Rogue's Passage (LTC) 326
 1 Schema Thief (MOC) 24
 1 Scion of Calamity (LCC) 93

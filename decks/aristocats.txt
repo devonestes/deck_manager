@@ -1,6 +1,6 @@
 1 Bartolomé del Presidio (LCI) 224
 1 Accursed Marauder (MH3) 80
-1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90
 1 Amalia Benavides Aguirre (LCI) 221
 1 Anguished Unmaking (SLD) 138
 1 Animate Dead (3ED) 93
@@ -9,7 +9,7 @@
 1 Blood Artist (LCC) 182
 1 Bloodchief Ascension (CMM) 636
 1 Bloodghast (LCC) 184
-1 Brightclimb Pathway // Grimclimb Pathway (ZNR) 285
+1 Brightclimb Pathway / Grimclimb Pathway (ZNR) 285
 1 Case of the Stashed Skeleton (MKM) 80
 1 Castle Ardenvale (MKC) 253
 1 Castle Locthwain (ELD) 389
@@ -26,7 +26,7 @@
 1 Deadly Dispute (P30A) 29
 1 Dewdrop Cure (BLB) 10
 1 Dune Drifter (DFT) 200
-1 Dusk // Dawn (PLST) CLB-691
+1 Dusk / Dawn (PLST) CLB-691
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
 1 Esper Sentinel (MH2) 12
@@ -55,7 +55,7 @@
 1 Priest of Forgotten Gods (RVR) 90
 1 Putrid Goblin (MH1) 101
 1 Raise the Past (FDN) 22
-1 Razorgrass Ambush // Razorgrass Field (MH3) 238
+1 Razorgrass Ambush / Razorgrass Field (MH3) 238
 1 Ripples of Undeath (MH3) 107
 1 Rogue's Passage (LTC) 326
 1 Selfless Savior (M21) 36
@@ -84,6 +84,6 @@
 1 Viscera Seer (PLST) M11-120
 1 Vraan, Executioner Thane (ONE) 114
 1 Weathered Wayfarer (LTC) 183
-1 Westvale Abbey // Ormendahl, Profane Prince (SOI) 281
+1 Westvale Abbey / Ormendahl, Profane Prince (SOI) 281
 1 Zahur, Glory's Past (DFT) 229
 1 Zulaport Cutthroat (CLB) 775

@@ -6,23 +6,23 @@
 1 Bloated Contaminator (ONE) 159
 1 Boar Umbra (UMA) 158
 1 Bone Sabres (40K) 88
-1 Bonecrusher Giant // Stomp (PLST) ELD-115
+1 Bonecrusher Giant / Stomp (PLST) ELD-115
 1 Branching Evolution (LCC) 234
-1 Bridgeworks Battle // Tanglespan Bridgeworks (MH3) 249
+1 Bridgeworks Battle / Tanglespan Bridgeworks (MH3) 249
 1 Cartouche of Strength (AKH) 158
 1 Cinder Glade (DMC) 203
 1 Combat Celebrant (LTC) 212
 1 Command Tower (MOC) 396
 1 Communal Brewing (BLC) 29
 1 Court of Garenbrig (WOC) 25
-1 Cragcrown Pathway // Timbercrown Pathway (ZNR) 287
+1 Cragcrown Pathway / Timbercrown Pathway (ZNR) 287
 1 Curse of the Werefox (WOE) 167
 1 Detective's Phoenix (MH3) 116
 1 Domri, Anarch of Bolas (BLC) 98
 1 Enchantress's Presence (MH2) 283
 1 Etali's Favor (LCI) 149
 1 Evolution Sage (WAR) 159
-1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (NEO) 141
+1 Fable of the Mirror-Breaker / Reflection of Kiki-Jiki (NEO) 141
 13 Forest (J22) 110
 1 Game Trail (LCC) 334
 1 Grumgully, the Generous (BLC) 253
@@ -32,10 +32,10 @@
 1 Invigorate (DDD) 19
 1 Invigorating Hot Spring (NEO) 223
 1 Jeska's Will (CMR) 668
-1 Jugan Defends the Temple // Remnant of the Rising Star (NEO) 194
+1 Jugan Defends the Temple / Remnant of the Rising Star (NEO) 194
 1 Karplusan Forest (M3C) 351
 1 Kessig Wolf Run (LCC) 340
-1 Khalni Ambush // Khalni Territory (ZNR) 192
+1 Khalni Ambush / Khalni Territory (ZNR) 192
 1 King Harald's Revenge (KHM) 180
 1 Kodama of the West Tree (NEO) 392
 1 Komainu Battle Armor (PLST) NEC-21

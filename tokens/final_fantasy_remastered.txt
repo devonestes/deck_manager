@@ -1,0 +1,19 @@
+Angelo (1/1 green/white Legendary Creature — Dog)
+Bird (2/2 green Creature — Bird) [Whenever a land you control enters, this token gets +1/+0 until end of turn.]
+Construct (0/0 colorless Artifact Creature — Construct)
+Copy (copy)
+Darkstar (2/2 black/white Legendary Creature — Dog)
+Elemental (2/2 black/green/red/blue/white Creature — Elemental) [This token is all colors.]
+Food (Artifact — Food)
+Frog (1/1 green Creature — Frog)
+Hero (1/1 colorless Creature — Hero)
+Horror (2/2 black Creature — Horror)
+Human (1/1 white Creature — Human)
+Knight (2/2 white Creature — Knight)
+Moogle (1/2 white Creature — Moogle) [Lifelink]
+Rebel (2/2 red Creature — Rebel)
+Robot Warrior (3/3 blue Artifact Creature — Robot Warrior)
+Treasure (Artifact — Treasure)
+Warrior (1/1 white Creature — Warrior)
+Wizard (0/1 black Creature — Wizard) [Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.]
+Zombie (2/2 black Creature — Zombie)

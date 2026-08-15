@@ -1,0 +1,13 @@
+Beast (4/4 green Creature — Beast)
+Cat Beast (2/2 white Creature — Cat Beast)
+Construct (0/0 colorless Artifact Creature — Construct)
+Copy (copy)
+Elemental (5/3 green Creature — Elemental)
+Food (Artifact — Food)
+Insect (1/1 black/green Creature — Insect)
+Insect (1/1 green Creature — Insect)
+Iridescent Vinelasher (1/1 black Creature — Lizard Assassin) [Landfall — Whenever a land you control enters, this creature deals 1 damage to target opponent.]
+Orc Army (0/0 black Creature — Orc Army)
+Plant (0/1 green Creature — Plant)
+Treasure (Artifact — Treasure)
+Zombie (2/2 black Creature — Zombie)

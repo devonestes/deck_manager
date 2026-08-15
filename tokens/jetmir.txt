@@ -1,0 +1,22 @@
+Agate Instigator (1/1 red Creature — Lizard Rogue) [Whenever another creature you control enters, this creature deals 1 damage to each opponent.]
+Bat (1/1 black Creature — Bat) [Flying]
+Cat (1/1 white Creature — Cat)
+Cat Warrior (2/1 white Creature — Cat Warrior)
+Citizen (1/1 green/white Creature — Citizen)
+Copy (copy)
+Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
+Elf Warrior (1/1 green/white Creature — Elf Warrior)
+Gnome (1/1 colorless Artifact Creature — Gnome)
+Goblin (1/1 red Creature — Goblin)
+Human (1/1 white Creature — Human)
+Human Knight (2/2 red Creature — Human Knight) [Trample, haste]
+Insect (1/1 green Creature — Insect)
+Map (Artifact — Map)
+Rat (1/1 black Creature — Rat) [This token can't block.]
+Saproling (1/1 green Creature — Saproling)
+Soldier (1/1 colorless Artifact Creature — Soldier)
+Spirit (1/1 colorless Creature — Spirit)
+Treasure (Artifact — Treasure)
+Vampire (1/1 white Creature — Vampire) [Lifelink]
+Warrior (1/1 red Creature — Warrior)
+Warrior (1/1 white Creature — Warrior)

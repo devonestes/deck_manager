@@ -1,9 +1,9 @@
 1 Magus Lucea Kane (40K) 174
 1 Aberrant (40K) 86
 1 All Will Be One (ONE) 118
-1 Ancient Tomb (TMP) 315
 1 Animist's Awakening (ORI) 169
 1 Arcane Signet (MOC) 348
+1 Argonath, Pillars of the Kings (LTC) 351
 1 Awaken the Woods (BRO) 344
 1 Benevolent Hydra (J22) 38
 1 Bloom Tender (EVE) 66
@@ -27,7 +27,7 @@
 1 Fierce Guardianship (C20) 35
 1 Finale of Devastation (WAR) 160
 1 Flooded Grove (LTC) 309
-2 Forest (J22) 110
+3 Forest (J22) 110
 1 Fractal Harness (C21) 61
 1 Frontier Bivouac (40K) 281
 1 Goldvein Hydra (OTJ) 167
@@ -40,7 +40,7 @@
 1 Incubation Druid (MOC) 302
 1 Inspiring Call (MOC) 304
 1 Instill Energy (5ED) 304
-1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190
+1 Invasion of Ikoria / Zilortha, Apex of Ikoria (MOM) 190
 2 Island (J22) 101
 1 Izzet Boilerworks (BRC) 188
 1 Kalonian Hydra (M14) 181
@@ -66,9 +66,9 @@
 1 Rosheen, Roaring Prophet (MH3) 380
 1 Runadi, Behemoth Caller (J22) 44
 1 Scalding Tarn (MM3) 244
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 333
 1 Selvala, Heart of the Wilds (JMP) 429
-1 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354
+1 Shatterskull Smashing / Shatterskull, the Hammer Pass (ZNR) 354
 1 Simic Growth Chamber (CM2) 267
 1 Sol Ring (MOC) 381
 1 Song of Totentanz (WOE) 150
@@ -82,10 +82,9 @@
 1 Temur Ascendancy (KTK) 207
 1 Termagant Swarm (40K) 99
 1 Tervigon (40K) 100
-1 The Ozolith (LTC) 351
 1 Thousand-Year Elixir (C13) 266
 1 Training Center (CMR) 713
-1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
+1 Turntimber Symbiosis / Turntimber, Serpentine Wood (ZNR) 364
 1 Twinning Staff (NCC) 383
 1 Tyrant Guard (40K) 103
 1 Unbound Flourishing (MH1) 189

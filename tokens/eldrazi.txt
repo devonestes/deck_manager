@@ -1,0 +1,6 @@
+Construct (0/0 colorless Artifact Creature — Construct)
+Copy (copy)
+Eldrazi (10/10 colorless Creature — Eldrazi)
+Eldrazi Scion (1/1 colorless Creature — Eldrazi Scion)
+Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
+Spirit (2/2 colorless Creature — Spirit)

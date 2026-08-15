@@ -1,4 +1,4 @@
-Agate Instigator (1/1 red Creature — Lizard Rogue) [Whenever another creature you control enters, this creature deals 1 damage to each opponent.]
+Agate Instigator (1/1 red Creature — Lizard Rogue)
 Bird (1/1 white Creature — Bird) [Flying]
 Blood (Artifact — Blood)
 Clue (Artifact — Clue)
@@ -24,8 +24,8 @@ Rabbit (1/1 white Creature — Rabbit)
 Robot (2/2 colorless Artifact Creature — Robot)
 Satyr (1/1 red Creature — Satyr) [This creature can't block.]
 Servo (1/1 colorless Artifact Creature — Servo)
-Shard (Enchantment — Shard) [{2}, Sacrifice this enchantment: Scry 1, then draw a card.]
-Sicarian Infiltrator (1/2 blue Artifact Creature — Human Soldier) [When Sicarian Infiltrator enters the battlefield, draw a card.]
+Shard (Enchantment — Shard)
+Sicarian Infiltrator (1/2 blue Artifact Creature — Human Soldier)
 Snake (1/1 black Creature — Snake) [Deathtouch]
 Soldier (1/1 white Creature — Soldier)
 Spider (2/1 black/green Creature — Spider) [Menace, reach]

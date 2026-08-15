@@ -1,0 +1,8 @@
+Copy (copy)
+Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
+Elemental (5/5 green/red Creature — Elemental)
+Fanatic of Rhonas (4/4 black Creature — Zombie Snake Druid)
+Phyrexian Horror (*/* green Creature — Phyrexian Horror)
+Plant (0/1 green Creature — Plant)
+Wurm (3/3 colorless Artifact Creature — Wurm) [Deathtouch]
+Wurm (3/3 colorless Artifact Creature — Wurm) [Lifelink]

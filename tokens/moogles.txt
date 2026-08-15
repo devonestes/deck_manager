@@ -1,4 +1,4 @@
-Agate Instigator (1/1 red Creature — Lizard Rogue) [Whenever another creature you control enters, this creature deals 1 damage to each opponent.]
+Agate Instigator (1/1 red Creature — Lizard Rogue)
 Beast (4/4 white Creature — Beast) [This creature can't attack or block alone.]
 Cat (1/1 white Creature — Cat)
 Citizen (1/1 green/white Creature — Citizen)

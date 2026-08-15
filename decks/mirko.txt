@@ -16,7 +16,7 @@
 1 Castle Vantress (ELD) 390
 1 Charnel Serenade (MKC) 26
 1 Command Tower (MKC) 256
-1 Connive // Concoct (MKC) 203
+1 Connive / Concoct (MKC) 203
 1 Consecrated Sphinx (MBS) 21
 1 Copy Catchers (MKC) 20
 1 Curate (MKC) 99
@@ -63,9 +63,9 @@
 1 Rise of the Dark Realms (MKC) 138
 1 Rogue's Passage (MKC) 284
 1 Sakashima's Student (PCA) 24
-1 Sea Gate Restoration // Sea Gate, Reborn (ZNR) 333
+1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 333
 1 See Double (MOM) 353
-1 Sheoldred // The True Scriptures (MOM) 125
+1 Sheoldred / The True Scriptures (MOM) 125
 1 Sheoldred, Whispering One (NPH) 73
 1 Shipwreck Marsh (MID) 285
 1 Shizo, Death's Storehouse (CHK) 283
@@ -89,7 +89,7 @@
 1 Urza's Saga (MH2) 259
 1 Vampiric Tutor (VIS) 72
 1 Victimize (EMA) 113
-1 Virtue of Persistence // Locthwain Scorn (WOE) 115
+1 Virtue of Persistence / Locthwain Scorn (WOE) 115
 1 Volrath's Stronghold (STH) 143
 1 Watery Grave (UNF) 278
 1 Windfall (LCC) 180

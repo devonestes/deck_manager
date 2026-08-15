@@ -1,0 +1,13 @@
+Alien Insect (1/1 green/white Creature — Alien Insect) [Flying]
+Citizen (1/1 green/white Creature — Citizen)
+Gnome (1/1 colorless Artifact Creature — Gnome)
+Human Soldier (1/1 green/white Creature — Human Soldier) [Training]
+Phyrexian Mite (1/1 colorless Artifact Creature — Phyrexian Mite) [Toxic 1; This creature can't block.]
+Rabbit (1/1 white Creature — Rabbit)
+Robot (2/2 colorless Artifact Creature — Robot)
+Servo (1/1 colorless Artifact Creature — Servo)
+Snake (1/1 green Creature — Snake)
+Soldier (1/1 white Creature — Soldier) [Lifelink]
+Spirit (*/* white Creature — Spirit)
+Treasure (Artifact — Treasure)
+Tyranid (1/1 green Creature — Tyranid)

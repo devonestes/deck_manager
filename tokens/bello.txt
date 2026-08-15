@@ -1,0 +1,6 @@
+Beast (3/3 green Creature — Beast)
+Cat (2/2 green Creature — Cat)
+Copy (copy)
+Everywhere (Land)
+Fanatic of Rhonas (4/4 black Creature — Zombie Snake Druid)
+Hamster (1/1 red Creature — Hamster)

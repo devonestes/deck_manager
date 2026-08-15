@@ -1,0 +1,5 @@
+Boo (1/1 red Legendary Creature — Hamster) [Trample, haste]
+Copy (copy)
+Fungus Dinosaur (*/* green Creature — Fungus Dinosaur)
+Hamster (1/1 red Creature — Hamster)
+Treasure (Artifact — Treasure)

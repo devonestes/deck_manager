@@ -14,13 +14,17 @@ defmodule DeckManager.Tokens do
 
   The rendered list lands in `tokens/<deck>.txt`, which *is* tracked in git:
   after `mix download`, `git diff tokens/` shows how each deck's token needs
-  changed.
+  changed. `tokens/totals.txt` sums those lists across every active deck, so you
+  can see how many copies of a token to bring in total.
   """
+
+  require Logger
 
   alias DeckManager.Scryfall
 
   @cache_path "data/scryfall/token_parts.json"
   @out_dir "tokens"
+  @totals_file "totals.txt"
 
   @doc """
   Regenerate `tokens/<deck>.txt` for each named deck, reusing one loaded cache
@@ -36,17 +40,78 @@ defmodule DeckManager.Tokens do
         case for_deck(deck, cache) do
           {:ok, tokens, cache} ->
             File.write!(path(deck), render(tokens))
-            IO.puts("#{deck}: #{length(tokens)} tokens")
             {:ok, cache}
 
           {:error, reason, cache} ->
-            IO.puts("Could not list tokens for #{deck} - #{describe(reason)}")
+            Logger.warning("Could not list tokens for #{deck} - #{describe(reason)}")
             {:error, cache}
         end
       end)
 
     save_cache(cache)
     :ok
+  end
+
+  @doc """
+  Tally `tokens/totals.txt`: every token any active deck needs, prefixed with
+  how many decks need it, most-wanted first. Reads the per-deck files rather
+  than Scryfall, so the totals can't drift from the lists they're drawn from.
+  """
+  def write_totals(decks) do
+    body =
+      decks
+      |> Enum.map(&{&1, path(&1)})
+      |> Enum.filter(fn {_deck, path} -> File.exists?(path) end)
+      |> Enum.map(fn {deck, path} -> {deck, File.read!(path)} end)
+      |> totals()
+
+    File.write!(Path.join(@out_dir, @totals_file), body)
+  end
+
+  @doc """
+  Count how many of the given `{deck, rendered}` pairs list each token, naming
+  the decks that want it underneath.
+
+  Tokens that only one deck needs are collected under that deck instead, so the
+  tail of the file reads as "and these are the ones only <deck> asks for"
+  rather than a hundred separate entries of one.
+
+      2 Treasure (Artifact — Treasure)
+          aesi
+          gitrog_ride
+
+      chatterfang
+          Squirrel (1/1 green Creature — Squirrel)
+  """
+  def totals(rendered_decks) do
+    {shared, sole} =
+      rendered_decks
+      |> Enum.flat_map(fn {deck, body} ->
+        body |> String.split("\n", trim: true) |> Enum.uniq() |> Enum.map(&{&1, deck})
+      end)
+      |> Enum.group_by(fn {token, _deck} -> token end, fn {_token, deck} -> deck end)
+      |> Enum.split_with(fn {_token, decks} -> length(decks) > 1 end)
+
+    [by_token(shared), by_deck(sole)]
+    |> Enum.reject(&(&1 == ""))
+    |> Enum.join("\n")
+  end
+
+  defp by_token(shared) do
+    shared
+    |> Enum.sort_by(fn {token, decks} -> {-length(decks), token} end)
+    |> Enum.map_join(fn {token, decks} ->
+      "#{length(decks)} #{token}\n" <> Enum.map_join(Enum.sort(decks), &"    #{&1}\n")
+    end)
+  end
+
+  defp by_deck(sole) do
+    sole
+    |> Enum.group_by(fn {_token, [deck]} -> deck end, fn {token, _decks} -> token end)
+    |> Enum.sort()
+    |> Enum.map_join("\n", fn {deck, tokens} ->
+      "#{deck}\n" <> Enum.map_join(Enum.sort(tokens), &"    #{&1}\n")
+    end)
   end
 
   @doc """
@@ -62,7 +127,7 @@ defmodule DeckManager.Tokens do
 
       {:ok, body} ->
         {cards, unparsed} = identifiers(body)
-        Enum.each(unparsed, &IO.puts("  #{deck}: could not read line #{inspect(&1)}"))
+        Enum.each(unparsed, &Logger.warning("#{deck}: could not read line #{inspect(&1)}"))
 
         cache = cache |> fetch_parts(cards) |> fetch_tokens()
         {:ok, collect(cards, cache), cache}
@@ -162,11 +227,11 @@ defmodule DeckManager.Tokens do
     Enum.reduce(unresolved, printings, fn key, acc ->
       case Map.get(by_name, String.downcase(names[key])) do
         nil ->
-          IO.puts("  no Scryfall card for #{names[key]} (#{key})")
+          Logger.warning("No Scryfall card for #{names[key]} (#{key})")
           acc
 
         card ->
-          IO.puts("  #{names[key]}: no printing #{key}, used #{printing_key(card)} instead")
+          Logger.warning("#{names[key]}: no printing #{key}, used #{printing_key(card)} instead")
           Map.put(acc, key, token_ids(card))
       end
     end)
@@ -196,7 +261,7 @@ defmodule DeckManager.Tokens do
       cache
     else
       {found, missing} = Scryfall.cards_by_identifiers(Enum.map(unknown, &%{"id" => &1}))
-      Enum.each(missing, &IO.puts("  no Scryfall token for #{inspect(&1)}"))
+      Enum.each(missing, &Logger.warning("No Scryfall token for #{inspect(&1)}"))
 
       tokens =
         Enum.reduce(found, cache["tokens"], fn token, acc ->
@@ -226,7 +291,7 @@ defmodule DeckManager.Tokens do
     end)
     |> Enum.filter(fn
       {nil, source, id} ->
-        IO.puts("  no cached token #{id} (linked from #{source})")
+        Logger.warning("No cached token #{id} (linked from #{source})")
         false
 
       _ ->
@@ -290,6 +355,8 @@ defmodule DeckManager.Tokens do
   # "+1/+1 for each artifact"; Constructs with printed stats vary, so they keep
   # their text.
   @boilerplate [
+    "Agate Instigator",
+    "Beau",
     "Blood",
     "Clue",
     "Eldrazi Scion",
@@ -298,8 +365,11 @@ defmodule DeckManager.Tokens do
     "Fanatic of Rhonas",
     "Food",
     "Incubator",
+    "Iridescent Vinelasher",
     "Map",
     "Powerstone",
+    "Shard",
+    "Sicarian Infiltrator",
     "Treasure"
   ]
 

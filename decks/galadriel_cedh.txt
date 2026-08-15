@@ -49,7 +49,7 @@
 1 Grand Abolisher (SLD) 1285
 1 Green Sun's Zenith (2X2) 150
 1 Hallowed Fountain (UNF) 277
-1 Invasion of Ikoria // Zilortha, Apex of Ikoria (MOM) 190
+1 Invasion of Ikoria / Zilortha, Apex of Ikoria (MOM) 190
 1 Jeweled Lotus (CMR) 319
 1 Kinnan, Bonder Prodigy (IKO) 338
 1 Kutzil, Malamet Exemplar (LCI) 304

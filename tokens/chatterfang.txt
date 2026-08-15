@@ -1,0 +1,17 @@
+Beast (3/3 green Creature — Beast)
+Copy (copy)
+Eldrazi (10/10 colorless Creature — Eldrazi)
+Elf Warrior (1/1 green Creature — Elf Warrior)
+Faerie Rogue (1/1 black Creature — Faerie Rogue) [Flying]
+Food (Artifact — Food)
+Forest Dryad (1/1 green Land Creature — Forest Dryad)
+Human Soldier (1/1 white Creature — Human Soldier)
+Pest (1/1 black/green Creature — Pest) [When this creature dies, you gain 1 life.]
+Plant (0/1 green Creature — Plant)
+Shapeshifter (3/2 colorless Creature — Shapeshifter) [Changeling]
+Snake (1/1 black Creature — Snake) [Deathtouch]
+Spider (1/2 green Creature — Spider) [Reach]
+Squirrel (1/1 green Creature — Squirrel)
+Treasure (Artifact — Treasure)
+Treefolk (*/* green Creature — Treefolk)
+Zombie (2/2 black Creature — Zombie)

@@ -1,0 +1,13 @@
+Clue (Artifact — Clue)
+Construct (0/0 colorless Artifact Creature — Construct)
+Construct (1/1 colorless Artifact Creature — Construct)
+Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
+Faerie Rogue (1/1 black Creature — Faerie Rogue) [Flying]
+Food (Artifact — Food)
+Orc Army (0/0 black Creature — Orc Army)
+Pest (1/1 black/green Creature — Pest) [When this creature dies, you gain 1 life.]
+Servo (1/1 colorless Artifact Creature — Servo)
+Shapeshifter (3/2 colorless Creature — Shapeshifter) [Changeling]
+Squirrel (1/1 green Creature — Squirrel)
+Treasure (Artifact — Treasure)
+Zombie (2/2 black Creature — Zombie)

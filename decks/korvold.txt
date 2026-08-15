@@ -1,7 +1,7 @@
 1 Korvold, Fae-Cursed King (ELD) 329
 1 Academy Manufactor (MH2) 219
 1 Accursed Marauder (MH3) 80
-1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90
 1 Alchemist's Talent (BLC) 22
 1 Ancient Brass Dragon (CLB) 367
 1 Ancient Copper Dragon (CLB) 161
@@ -16,11 +16,10 @@
 1 Birds of Paradise (4ED) 234
 1 Bitterblossom (MOR) 58
 1 Black Market Connections (CLB) 620
-1 Black Sun's Twilight (ONE) 383
+1 Blasphemous Edict (FDN) 317
 1 Blood Crypt (UNF) 279
 1 Bloodstained Mire (KTK) 230
 1 Boseiju, Who Endures (NEO) 501
-1 Case of the Stashed Skeleton (MKM) 80
 1 Chatterfang, Squirrel General (MH2) 316
 1 Command Tower (MOC) 396
 1 Corpse Dance (TMP) 116
@@ -39,7 +38,7 @@
 1 Fabled Passage (ELD) 244
 1 Field of the Dead (M20) 247
 1 Finale of Devastation (WAR) 160
-1 Forest (J22) 110
+2 Forest (J22) 110
 1 Goldspan Dragon (J22) 550
 1 Heroic Intervention (LTC) 249
 1 Ignoble Hierarch (MH2) 166
@@ -54,8 +53,7 @@
 1 Mayhem Devil (WAR) 204
 1 Mirkwood Bats (LTR) 95
 1 Misty Rainforest (MM3) 240
-1 Mountain (J22) 107
-1 Necromancy (VIS) 64
+2 Mountain (J22) 107
 1 Old Gnawbone (AFR) 197
 1 Oni-Cult Anvil (BRC) 127
 1 Opposition Agent (CMR) 141
@@ -75,13 +73,13 @@
 1 Rottenmouth Viper (BLB) 290
 1 Scalding Tarn (MM3) 244
 1 Shallow Grave (MIR) 141
-1 Shatterskull Smashing // Shatterskull, the Hammer Pass (ZNR) 354
+1 Shatterskull Smashing / Shatterskull, the Hammer Pass (ZNR) 354
 1 Skullclamp (DST) 140
 1 Sol Ring (MOC) 381
 1 Spire Garden (ZNE) 19
 1 Squandered Resources (VIS) 137
 1 Stomping Ground (UNF) 280
-1 Swamp (J22) 106
+2 Swamp (J22) 106
 1 Taiga (3ED) 287
 1 The Meathook Massacre (MID) 112
 1 Tinder Wall (ICE) 270
@@ -96,5 +94,4 @@
 1 Wheel of Fortune (3ED) 185
 1 Windswept Heath (KTK) 248
 1 Wooded Foothills (KTK) 249
-1 Ziatora, the Incinerator (M3C) 279
 1 Ziatora's Proving Ground (SNC) 295

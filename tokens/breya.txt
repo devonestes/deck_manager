@@ -1,0 +1,13 @@
+Blood (Artifact — Blood)
+Clue (Artifact — Clue)
+Construct (0/0 colorless Artifact Creature — Construct)
+Copy (copy)
+Food (Artifact — Food)
+Map (Artifact — Map)
+Myr (1/1 colorless Artifact Creature — Myr)
+Phyrexian Germ (0/0 black Creature — Phyrexian Germ)
+Phyrexian Myr (2/1 blue Artifact Creature — Phyrexian Myr)
+Servo (1/1 colorless Artifact Creature — Servo)
+Thopter (1/1 blue Artifact Creature — Thopter) [Flying]
+Thopter (1/1 colorless Artifact Creature — Thopter) [Flying]
+Treasure (Artifact — Treasure)

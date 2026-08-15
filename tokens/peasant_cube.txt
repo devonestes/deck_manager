@@ -1,0 +1,77 @@
+Alien Warrior (2/2 red Creature — Alien Warrior)
+Ally (1/1 white Creature — Ally)
+Bear (2/2 green Creature — Bear)
+Beast (3/3 green Creature — Beast)
+Bird (1/1 white Creature — Bird) [Flying]
+Bird (2/2 green Creature — Bird) [Whenever a land you control enters, this token gets +1/+0 until end of turn.]
+Bird Illusion (1/1 blue Creature — Bird Illusion) [Flying]
+Blood (Artifact — Blood)
+Centaur (3/3 green Creature — Centaur)
+Clue (Artifact — Clue)
+Copy (copy)
+Coruscation Mage (1/1 red Creature — Otter Wizard) [Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.]
+Crab (0/3 blue Creature — Crab)
+Demon (5/5 black Creature — Demon) [Flying]
+Dragon (4/4 red Creature — Dragon) [Flying]
+Drake (2/2 blue Creature — Drake) [Flying]
+Eldrazi Scion (1/1 colorless Creature — Eldrazi Scion)
+Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
+Elemental (1/1 red Creature — Elemental)
+Elephant (3/3 green Creature — Elephant)
+Elf Warrior (1/1 green Creature — Elf Warrior)
+Faerie (1/1 blue Creature — Faerie) [Flying]
+Food (Artifact — Food)
+Goblin (1/1 black/red Creature — Goblin)
+Goblin (1/1 red Creature — Goblin)
+Goblin Soldier (1/1 red/white Creature — Goblin Soldier)
+Gremlin (1/1 red Creature — Gremlin)
+Hero (1/1 colorless Creature — Hero)
+Honored Hydra (6/6 white Creature — Zombie Snake Hydra) [Trample]
+Human Soldier (1/1 white Creature — Human Soldier)
+Inkling (1/1 black/white Creature — Inkling) [Flying]
+Insect (1/1 green Creature — Insect)
+Insect (3/3 green Creature — Insect)
+Kithkin Soldier (1/1 white Creature — Kithkin Soldier)
+Knight (2/2 white Creature — Knight) [Vigilance]
+Knight (3/3 white Creature — Knight)
+Lander (Artifact — Lander) [{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.]
+Lightning Rager (5/1 red Creature — Elemental) [Trample, haste; At the beginning of the end step, sacrifice this creature.]
+Map (Artifact — Map)
+Mercenary (1/1 red Creature — Mercenary) [{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.]
+Monster // Sorcerer (Enchantment — Aura Role // Enchantment — Aura Role)
+Mutant (2/2 red Creature — Mutant)
+Necron Warrior (2/2 black Artifact Creature — Necron Warrior)
+Ninja Turtle Spirit (1/1 white Creature — Ninja Turtle Spirit)
+Pest (1/1 black/green Creature — Pest) [Whenever this token attacks, you gain 1 life.]
+Phyrexian Germ (0/0 black Creature — Phyrexian Germ)
+Phyrexian Wurm (1/2 black Artifact Creature — Phyrexian Wurm) [Deathtouch]
+Phyrexian Wurm (2/1 black Artifact Creature — Phyrexian Wurm) [Lifelink]
+Plant (0/1 green Creature — Plant)
+Rat (1/1 black Creature — Rat)
+Rat (1/1 black Creature — Rat) [This token can't block.]
+Rhino (4/4 green Creature — Rhino) [Trample]
+Robot (2/2 colorless Artifact Creature — Robot)
+Samurai (2/2 white Creature — Samurai) [Vigilance]
+Saproling (1/1 green Creature — Saproling)
+Servo (1/1 colorless Artifact Creature — Servo)
+Sicarian Infiltrator (1/2 blue Artifact Creature — Human Soldier) [When Sicarian Infiltrator enters the battlefield, draw a card.]
+Skeleton (4/1 black Creature — Skeleton) [Menace]
+Soldier (1/1 colorless Artifact Creature — Soldier)
+Soldier (1/1 white Creature — Soldier)
+Spider (1/2 green Creature — Spider) [Reach]
+Spirit (1/1 black/white Creature — Spirit) [Flying]
+Spirit (1/1 white Creature — Spirit)
+Spirit (1/1 white Creature — Spirit) [Flying]
+Spirit (2/2 white Creature — Spirit) [Flying]
+Splash Lasher (1/1 blue Creature — Frog Wizard) [When this creature enters, tap up to one target creature and put a stun counter on it.]
+Squirrel (1/1 green Creature — Squirrel)
+Thopter (1/1 colorless Artifact Creature — Thopter) [Flying]
+Timeless Witness (4/4 black Creature — Zombie Human Shaman) [When Timeless Witness enters the battlefield, return target card from your graveyard to your hand.]
+Treasure (Artifact — Treasure)
+Warrior (1/1 red Creature — Warrior)
+Warrior (1/1 white Creature — Warrior) [Vigilance]
+Wizard (1/1 blue Creature — Wizard) [{1}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.]
+Wizard (2/2 blue Creature — Wizard)
+Wolf (2/2 green Creature — Wolf)
+Zabu (2/2 green Legendary Creature — Cat) [Landfall — Whenever a land you control enters, put a +1/+1 counter on Zabu.]
+Zombie (2/2 black Creature — Zombie)

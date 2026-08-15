@@ -1,5 +1,5 @@
 1 Thalia and The Gitrog Monster (SCH) 12
-1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90
 1 Ancient Greenwarden (ZNR) 178
 1 Arcane Signet (MOC) 348
 1 Archaeomancer's Map (C21) 339
@@ -81,7 +81,7 @@
 1 Titania, Protector of Argoth (CMA) 157
 1 Tithe (VIS) 23
 1 Toski, Bearer of Secrets (KHM) 197
-1 Turntimber Symbiosis // Turntimber, Serpentine Wood (ZNR) 364
+1 Turntimber Symbiosis / Turntimber, Serpentine Wood (ZNR) 364
 1 Tymna the Weaver (C16) 48
 1 Undergrowth Stadium (CMR) 714
 1 Urza's Saga (MH2) 259

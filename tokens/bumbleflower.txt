@@ -1,0 +1,7 @@
+Bird (2/2 blue Creature — Bird) [Flying]
+Cat (2/2 green Creature — Cat)
+Elemental (4/4 white Creature — Elemental) [Flying]
+Elephant (3/3 green Creature — Elephant)
+Knight (2/2 white Creature — Knight)
+Squid (1/1 blue Creature — Squid) [Islandwalk]
+Treasure (Artifact — Treasure)

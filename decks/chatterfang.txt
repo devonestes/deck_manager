@@ -1,6 +1,5 @@
 1 Chatterfang, Squirrel General (MH2) 316
-1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
-1 Ancient Imperiosaur (MOM) 368
+1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90
 1 Arachnogenesis (CMM) 647
 1 Ashnod's Altar (5ED) 349
 1 Assassin's Trophy (GRN) 152
@@ -13,13 +12,11 @@
 1 Bitterblossom (MOR) 58
 1 Black Market Connections (CLB) 620
 1 Blood Artist (LCC) 182
-1 Bolas's Citadel (SLD) 1187
 1 Bootleggers' Stash (BLC) 207
-1 Case of the Stashed Skeleton (MKM) 80
 1 Circle of Dreams Druid (AFR) 176
 1 Command Tower (MOC) 396
 1 Craterhoof Behemoth (AVR) 172
-1 Darkbore Pathway // Slitherbore Pathway (KHM) 292
+1 Darkbore Pathway / Slitherbore Pathway (KHM) 292
 1 Deadly Rollick (C20) 42
 1 Deathrite Shaman (RTR) 213
 1 Deranged Hermit (ULG) 101
@@ -28,7 +25,7 @@
 1 Earthcraft (TMP) 222
 1 Fabled Passage (ELD) 244
 1 Farseek (C19) 165
-7 Forest (J22) 110
+8 Forest (J22) 110
 1 Gala Greeters (SNC) 450
 1 Galadhrim Ambush (LTC) 38
 1 Golgari Rot Farm (IMA) 236
@@ -52,6 +49,7 @@
 1 Phyrexian Altar (INV) 306
 1 Phyrexian Tower (JMP) 493
 1 Pitiless Plunderer (LCC) 208
+1 Post's Citadel (SLD) 1187
 1 Reliquary Tower (BRC) 196
 1 Return of the Wildspeaker (ELD) 172
 1 Rootcast Apprenticeship (BLC) 32
@@ -62,7 +60,7 @@
 1 Skullclamp (DST) 140
 1 Sol Ring (MOC) 381
 1 Squirrel Nest (DMR) 177
-6 Swamp (J22) 106
+7 Swamp (J22) 106
 1 Swarmyard (TSP) 278
 1 Swarmyard Massacre (BLC) 20
 1 Sword of the Squeak (BLC) 40

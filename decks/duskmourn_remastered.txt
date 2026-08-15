@@ -16,15 +16,15 @@
 3 Betrayer's Bargain (DSK) 126
 6 Bleeding Woods (DSK) 257
 4 Boilerbilges Ripper (DSK) 127
-3 Bottomless Pool // Locker Room (DSK) 43
+3 Bottomless Pool / Locker Room (DSK) 43
 3 Break Down the Door (DSK) 170
 3 Broodspinner (DSK) 211
 4 Cackling Slasher (DSK) 85
 3 Cathartic Parting (DSK) 171
 4 Cautious Survivor (DSK) 172
-2 Central Elevator // Promising Stairs (DSK) 336
+2 Central Elevator / Promising Stairs (DSK) 336
 1 Chainsaw (DSK) 128
-1 Charred Foyer // Warped Space (DSK) 129
+1 Charred Foyer / Warped Space (DSK) 129
 4 Clammy Prowler (DSK) 45
 4 Clockwork Percussionist (DSK) 295
 2 Come Back Wrong (DSK) 86
@@ -40,15 +40,15 @@
 3 Cynical Loner (DSK) 89
 4 Daggermaw Megalodon (DSK) 48
 3 Dashing Bloodsucker (DSK) 90
-1 Dazzling Theater // Prop Room (DSK) 3
+1 Dazzling Theater / Prop Room (DSK) 3
 3 Defiant Survivor (DSK) 175
-3 Defiled Crypt // Cadaver Lab (DSK) 91
-4 Derelict Attic // Widow's Walk (DSK) 93
+3 Defiled Crypt / Cadaver Lab (DSK) 91
+4 Derelict Attic / Widow's Walk (DSK) 93
 1 Dissection Tools (DSK) 245
 1 Disturbing Mirth (DSK) 212
 2 Disturbing Mirth (DSK) 212
 3 Diversion Specialist (DSK) 132
-1 Dollmaker's Shop // Porcelain Gallery (DSK) 4
+1 Dollmaker's Shop / Porcelain Gallery (DSK) 4
 4 Don't Make a Sound (DSK) 49
 3 Drag to the Roots (DSK) 213
 3 Duskmourn's Domination (DSK) 50
@@ -87,20 +87,20 @@
 4 Frantic Strength (DSK) 179
 4 Friendly Ghost (DSK) 12
 4 Friendly Teddy (DSK) 247
-1 Funeral Room // Awakening Hall (DSK) 100
+1 Funeral Room / Awakening Hall (DSK) 100
 3 Get Out (DSK) 60
 1 Ghost Vacuum (DSK) 248
 1 Ghostly Dancers (DSK) 302
 3 Ghostly Keybearer (DSK) 61
 4 Give In to Violence (DSK) 101
-4 Glassworks // Shattered Yard (DSK) 137
+4 Glassworks / Shattered Yard (DSK) 137
 3 Glimmer Seeker (DSK) 14
 4 Glimmerburst (DSK) 62
 4 Glimmerlight (DSK) 249
 4 Grab the Prize (DSK) 138
-4 Grand Entryway // Elegant Rotunda (DSK) 287
+4 Grand Entryway / Elegant Rotunda (DSK) 287
 4 Grasping Longneck (DSK) 180
-3 Greenhouse // Rickety Gazebo (DSK) 181
+3 Greenhouse / Rickety Gazebo (DSK) 181
 3 Gremlin Tamer (DSK) 215
 3 Growing Dread (DSK) 216
 4 Hand That Feeds (DSK) 139
@@ -132,12 +132,12 @@
 4 Malevolent Chandelier (DSK) 252
 4 Manifest Dread (DSK) 189
 1 Marina Vendrell (DSK) 360
-4 Meat Locker // Drowned Diner (DSK) 65
+4 Meat Locker / Drowned Diner (DSK) 65
 1 Meathook Massacre II (DSK) 311
 3 Miasma Demon (DSK) 109
 3 Midnight Mayhem (DSK) 222
-1 Mirror Room // Fractured Realm (DSK) 337
-4 Moldering Gym // Weight Room (DSK) 190
+1 Mirror Room / Fractured Realm (DSK) 337
+4 Moldering Gym / Weight Room (DSK) 190
 4 Monstrous Emergence (DSK) 191
 4 Most Valuable Slayer (DSK) 144
 4 Murder (DSK) 110
@@ -159,7 +159,7 @@
 1 Overlord of the Floodpits (DSK) 373
 1 Overlord of the Hauntwoods (DSK) 194
 1 Overlord of the Mistmoors (DSK) 23
-3 Painter's Studio // Defaced Gallery (DSK) 147
+3 Painter's Studio / Defaced Gallery (DSK) 147
 3 Paranormal Analyst (DSK) 69
 3 Patched Plaything (DSK) 24
 3 Patchwork Beastie (DSK) 195
@@ -177,12 +177,12 @@
 1 Razorkin Needlehead (DSK) 153
 6 Razortrap Gorge (DSK) 267
 1 Reluctant Role Model (DSK) 303
-1 Restricted Office // Lecture Hall (DSK) 227
+1 Restricted Office / Lecture Hall (DSK) 227
 4 Resurrected Cultist (DSK) 115
 1 Rip, Spawn Hunter (DSK) 228
 4 Ripchain Razorkin (DSK) 154
 3 Rite of the Moth (DSK) 229
-2 Roaring Furnace // Steaming Sauna (DSK) 230
+2 Roaring Furnace / Steaming Sauna (DSK) 230
 3 Rootwise Survivor (DSK) 196
 3 Savior of the Small (DSK) 27
 3 Saw (DSK) 254
@@ -200,7 +200,7 @@
 1 Silent Hallcreeper (DSK) 72
 3 Skullsnap Nuisance (DSK) 234
 4 Slavering Branchsnapper (DSK) 198
-4 Smoky Lounge // Misty Salon (DSK) 235
+4 Smoky Lounge / Misty Salon (DSK) 235
 4 Spectral Snatcher (DSK) 116
 4 Spineseeker Centipede (DSK) 199
 1 Split Up (DSK) 32
@@ -209,7 +209,7 @@
 4 Stalked Researcher (DSK) 73
 3 Stay Hidden, Stay Silent (DSK) 291
 6 Strangled Cemetery (DSK) 268
-3 Surgical Suite // Hospital Room (DSK) 34
+3 Surgical Suite / Hospital Room (DSK) 34
 4 Terramorphic Expanse (DSK) 269
 1 The Jolly Balloon Man (DSK) 219
 1 The Mindskinner (DSK) 357
@@ -217,7 +217,7 @@
 1 The Swarmweaver (DSK) 236
 1 The Wandering Rescuer (DSK) 351
 3 Threats Around Every Corner (DSK) 200
-4 Ticket Booth // Tunnel of Hate (DSK) 158
+4 Ticket Booth / Tunnel of Hate (DSK) 158
 1 Toby, Beastie Befriender (DSK) 35
 4 Trapped in the Screen (DSK) 36
 3 Trial of Agony (DSK) 159
@@ -229,8 +229,8 @@
 4 Unable to Scream (DSK) 78
 1 Undead Sprinter (DSK) 237
 3 Under the Skin (DSK) 203
-4 Underwater Tunnel // Slimy Aquarium (DSK) 79
-1 Unholy Annex // Ritual Chamber (DSK) 339
+4 Underwater Tunnel / Slimy Aquarium (DSK) 79
+1 Unholy Annex / Ritual Chamber (DSK) 339
 1 Unidentified Hovership (DSK) 37
 3 Unnerving Grasp (DSK) 80
 4 Unsettling Twins (DSK) 38

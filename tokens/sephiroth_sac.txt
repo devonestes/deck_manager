@@ -1,0 +1,8 @@
+Faerie Rogue (1/1 black Creature — Faerie Rogue) [Flying]
+Human Soldier (1/1 white Creature — Human Soldier)
+Servo (1/1 colorless Artifact Creature — Servo)
+Shapeshifter (3/2 colorless Creature — Shapeshifter) [Changeling]
+Snake (1/1 black Creature — Snake) [Deathtouch]
+Treasure (Artifact — Treasure)
+Zombie (2/2 black Creature — Zombie)
+Zombie Rogue (2/2 black/blue Creature — Zombie Rogue)

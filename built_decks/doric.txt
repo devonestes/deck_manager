@@ -57,6 +57,7 @@ Old Gnawbone
 Omnath, Locus of Mana
 Plaza of Heroes
 Questing Beast
+Radagast of Rhosgobel
 Radagast the Brown
 Reki, the History of Kamigawa
 Relic of Legends
@@ -67,7 +68,6 @@ Rhonas's Monument
 Rishkar's Expertise
 Rogue's Passage
 Saryth, the Viper's Fang
-Sazh Katzroy
 Selvala, Heart of the Wilds
 Six
 Sol Ring

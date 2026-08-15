@@ -1,0 +1,4 @@
+Construct (0/0 colorless Artifact Creature — Construct)
+Copy (copy)
+Slug (1/1 black Creature — Slug)
+Zombie (2/2 black Creature — Zombie)

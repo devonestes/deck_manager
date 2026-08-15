@@ -1,6 +1,6 @@
 1 Disa the Restless (M3C) 1
 1 Abrupt Decay (OTP) 34
-1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90
 1 Anger (M3C) 208
 1 Arcane Signet (MOC) 348
 1 Archon of Cruelty (MH2) 75
@@ -10,7 +10,7 @@
 1 Blood Crypt (UNF) 279
 1 Bloodstained Mire (KTK) 230
 1 Bojuka Bog (MOC) 391
-1 Brass's Tunnel-Grinder // Tecutlan, the Searing Rift (LCI) 135
+1 Brass's Tunnel-Grinder / Tecutlan, the Searing Rift (LCI) 135
 1 Buried Alive (WTH) 63
 1 Chainer, Nightmare Adept (C19) 39
 1 Chameleon Colossus (MOR) 116
@@ -29,7 +29,7 @@
 1 Fabled Passage (ELD) 244
 1 Farseek (RVR) 138
 1 Fecund Greenshell (BLB) 362
-1 Find // Finality (RVR) 245
+1 Find / Finality (RVR) 245
 1 Forest (J22) 110
 1 Forgotten Cave (J22) 814
 1 Garruk's Uprising (WOT) 53
@@ -42,12 +42,13 @@
 1 Hermit Druid (STH) 108
 1 Ignoble Hierarch (MH2) 166
 1 Insidious Roots (MKM) 208
-1 Invasion of Kaldheim // Pyre of the World Tree (MOM) 145
+1 Invasion of Kaldheim / Pyre of the World Tree (MOM) 145
 1 Lhurgoyf (M3C) 235
 1 Life from the Loam (RAV) 172
 1 Lightning Bolt (4ED) 208
 1 Lightning Greaves (LTC) 281
 1 Llanowar Wastes (BRO) 299
+1 Lord Windgrace (SLD) 1184
 1 Lotus Petal (TMP) 294
 1 Magnivore (9ED) 202
 1 Maskwood Nexus (PLST) KHM-240
@@ -56,7 +57,6 @@
 1 Mountain (J22) 107
 1 Necrogoyf (M3C) 202
 1 Nethergoyf (MH3) 454
-1 Orcish Bowmasters (LTR) 103
 1 Overgrown Tomb (UNF) 284
 1 Palantír of Orthanc (LTR) 381
 1 Phyrexian Arena (MKC) 133

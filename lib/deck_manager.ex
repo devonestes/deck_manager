@@ -85,7 +85,7 @@ defmodule DeckManager do
     # {"pauper_cube", "xTLumPuQs0e-4oWb2izZyw", "a615477e-c305-484a-b10b-eca8200aa213"},
     # {"final_fantasy_remastered", "LKCKJ78Ao0ibohPEq2QRlQ", "2535f467-fd2d-4157-a395-b19fd6520c46"},
     # {"duskmourn_remastered", "In_QeFJrrk-6lenOjdG73w", "49cc2a21-50bd-4e09-9baa-d8740fb39c99"},
-    # {"temur_cube", "9aAuKWFZv0iOIzb_dHaQRQ", "e084d46c-ccdf-4bd9-a461-12711b6cb375"}
+    # {"temur_cube", "9aAuKWFZv0iOIzb_dHaQRQ", "e084d46c-ccdf-4bd9-a461-12711b6cb375"},
     {"on_a_stick", "3eM_REBGcEWHhsn3lHyTkA", "3412c47a-8d2b-4966-85ec-91b727e931fc"}
     # {"vintage_cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"}
     #
@@ -104,8 +104,16 @@ defmodule DeckManager do
   re-downloading. Reads `decks/`, not the collection — which tokens a deck needs
   has nothing to do with which copies you own.
   """
-  def tokens(), do: Tokens.write_all(deck_names())
-  def tokens(deck), do: Tokens.write_all([deck])
+  def tokens(), do: refresh_tokens(deck_names())
+  def tokens(deck), do: refresh_tokens([deck])
+
+  # The totals always cover every active deck, even when only one deck's list
+  # was refreshed — a total drawn from one deck would be a miscount, not a
+  # partial one.
+  defp refresh_tokens(decks) do
+    Tokens.write_all(decks)
+    Tokens.write_totals(deck_names())
+  end
 
   def show_remaining() do
     build_decks() |> write_unused()
@@ -113,38 +121,57 @@ defmodule DeckManager do
 
   def download() do
     Enum.each(@decks, fn {deck, id, export_id} ->
-      deck_list =
-        id
-        |> list_url(export_id)
-        |> Req.get!()
-        |> Map.get(:body)
-        |> String.split("SIDEBOARD:")
-        |> case do
-          [deck_list] -> deck_list
-          [deck_list, _] -> deck_list
-        end
-        |> String.trim_trailing()
+      case fetch_list(id, export_id) do
+        {:ok, deck_list} ->
+          count = count_cards(deck_list)
 
-      count =
-        deck_list
-        |> String.split("\n")
-        |> Enum.reduce(0, fn card, acc ->
-          regex = ~r/(\d*) (.*) \((.*)\) (\d*)/
-          [_, count, _, _set, _collector_number] = Regex.run(regex, card)
-          {count, _} = Integer.parse(count)
-          count + acc
-        end)
+          if count == 100 or count > 150 or count <= 80 do
+            File.write!("decks/#{deck}.txt", deck_list)
+          else
+            IO.puts("Could not download #{deck} - Invalid number of cards: #{count}")
+          end
 
-      if count == 100 or count > 150 or count <= 80 do
-        File.write!("decks/#{deck}.txt", deck_list)
-      else
-        IO.puts("Could not download #{deck} - Invalid number of cards: #{count}")
+        {:error, reason} ->
+          IO.puts("Could not download #{deck} - #{reason}")
       end
 
       :timer.sleep(1000)
     end)
 
     tokens()
+  end
+
+  # A deck that's been deleted, renamed, or made private answers with a JSON
+  # error body, which Req hands back as a map — so anything that isn't a plain
+  # string export is a miss to report and skip, not a decklist to parse.
+  defp fetch_list(id, export_id) do
+    case id |> list_url(export_id) |> Req.get() do
+      {:ok, %{status: 200, body: body}} when is_binary(body) ->
+        {:ok, body |> String.split("SIDEBOARD:") |> hd() |> String.trim_trailing()}
+
+      {:ok, %{status: 200, body: body}} ->
+        {:error, "Moxfield returned #{inspect(body)}"}
+
+      {:ok, %{status: status}} ->
+        {:error, "Moxfield returned #{status}"}
+
+      {:error, exception} ->
+        {:error, Exception.message(exception)}
+    end
+  end
+
+  # Only lines shaped like a printing are cards. Blank lines and any section
+  # header the export picks up aren't, so they're skipped rather than crashing
+  # the whole download.
+  defp count_cards(deck_list) do
+    deck_list
+    |> String.split("\n")
+    |> Enum.reduce(0, fn card, acc ->
+      case Regex.run(~r/^\s*(\d+) (.*) \((.*)\) (\d*)/, card) do
+        [_, count | _] -> String.to_integer(count) + acc
+        nil -> acc
+      end
+    end)
   end
 
   def run(deck) do

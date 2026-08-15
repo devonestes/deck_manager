@@ -1,0 +1,7 @@
+Bird (2/2 blue Creature — Bird) [Flying]
+Copy (copy)
+Goblin Shaman (2/2 red Creature — Goblin Shaman) [Whenever this creature attacks, create a Treasure token.]
+Hero (1/1 colorless Creature — Hero)
+Knight (2/2 white Creature — Knight)
+Moogle (1/2 white Creature — Moogle) [Lifelink]
+Treasure (Artifact — Treasure)

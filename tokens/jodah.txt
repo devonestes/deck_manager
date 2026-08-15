@@ -1,0 +1,7 @@
+Copy (copy)
+Elemental (2/2 black/green/red/blue/white Creature — Elemental) [This token is all colors.]
+Food (Artifact — Food)
+Human (1/1 white Creature — Human)
+Knight (2/2 white Creature — Knight)
+Treasure (Artifact — Treasure)
+Warrior (1/1 white Creature — Warrior)

@@ -33,7 +33,7 @@
 1 Kodama's Reach (CLB) 826
 1 Legolas's Quick Reflexes (LTC) 493
 1 Leyline of Anticipation (CLB) 726
-1 Luka Stadium (FCA) 63
+1 Luca Stadium (FCA) 63
 1 Midnight Clock (OTC) 100
 1 Mirror Image (J22) 62
 1 Misty Rainforest (MH2) 438

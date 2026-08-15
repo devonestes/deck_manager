@@ -1,0 +1,4 @@
+Copy (copy)
+Squid (1/1 blue Creature — Squid) [Islandwalk]
+Tentacle (1/1 blue Creature — Tentacle)
+Vanguard Suppressor (3/2 blue Creature — Astartes Warrior) [Flying; Whenever Vanguard Suppressor deals combat damage to a player, draw a card.]

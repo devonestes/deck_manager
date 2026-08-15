@@ -7,7 +7,7 @@
 1 Blackblade Reforged (DMC) 178
 1 Blacksmith's Talent (BLB) 125
 1 Bladegraft Aspirant (ONE) 122
-1 Bridgeworks Battle // Tanglespan Bridgeworks (MH3) 249
+1 Bridgeworks Battle / Tanglespan Bridgeworks (MH3) 249
 1 Buried Ruin (BRC) 177
 1 Champion's Helm (PIP) 228
 1 Chandra's Ignition (LCC) 220
@@ -15,13 +15,13 @@
 1 Cinder Glade (DMC) 203
 1 Command Tower (MOC) 396
 1 Copperline Gorge (ONE) 371
-1 Cragcrown Pathway // Timbercrown Pathway (ZNR) 287
+1 Cragcrown Pathway / Timbercrown Pathway (ZNR) 287
 1 Darksteel Citadel (MM2) 238
 1 Darksteel Plate (2X2) 304
 1 Deflecting Swat (C20) 50
 1 Diamond Pick-Axe (LCI) 143
-1 Dire Flail // Dire Blunderbuss (LCI) 145
-1 Disciple of Freyalise // Garden of Freyalise (MH3) 250
+1 Dire Flail / Dire Blunderbuss (LCI) 145
+1 Disciple of Freyalise / Garden of Freyalise (MH3) 250
 1 Displaced Dinosaurs (WHO) 100
 1 Elder Gargaroth (M21) 373
 1 Emrakul, the Promised End (SLD) 1160
@@ -71,7 +71,7 @@
 1 Sol Ring (MOC) 381
 1 Stomping Ground (UNF) 280
 1 Strong Back (PIP) 83
-1 Stump Stomp // Burnwillow Clearing (MH3) 259
+1 Stump Stomp / Burnwillow Clearing (MH3) 259
 1 Swiftfoot Boots (BRC) 166
 1 Sword of Feast and Famine (2XM) 296
 1 Sword of Fire and Ice (2XM) 297

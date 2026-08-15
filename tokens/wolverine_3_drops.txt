@@ -1,0 +1,6 @@
+Copy (copy)
+Elf Warrior (1/1 green Creature — Elf Warrior)
+Goblin Shaman (2/2 red Creature — Goblin Shaman) [Whenever this creature attacks, create a Treasure token.]
+Human Monk (1/1 green Creature — Human Monk) [{T}: Add {G}.]
+Monster // Sorcerer (Enchantment — Aura Role // Enchantment — Aura Role)
+Treasure (Artifact — Treasure)
