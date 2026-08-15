@@ -1,0 +1,27 @@
+Construct (0/0 colorless Artifact Creature — Construct)
+    Urza's Saga
+Copy (copy)
+    Polyraptor
+    Scion of Calamity
+Dinosaur (*/* green Creature — Dinosaur)
+    Ghalta and Mavren
+Dinosaur (2/2 red/white Creature — Dinosaur)
+    Dinosaurs on a Spaceship
+Dinosaur (3/1 red Creature — Dinosaur)
+    Bonehoard Dracosaur
+Dinosaur (3/3 green Creature — Dinosaur)
+    Palani's Hatcher
+Dinosaur (3/3 green Creature — Dinosaur)
+    Regisaur Alpha
+    Welcome to . . . // Jurassic Park
+Dinosaur Beast (*/* green Creature — Dinosaur Beast)
+    Quartzwood Crasher
+Dinosaur Egg (0/1 green Creature — Dinosaur Egg)
+    Palani's Hatcher
+Fanatic of Rhonas (4/4 black Creature — Zombie Snake Druid)
+    Fanatic of Rhonas
+Treasure (Artifact — Treasure)
+    Bonehoard Dracosaur
+    Smothering Tithe
+Vampire (1/1 white Creature — Vampire)
+    Ghalta and Mavren

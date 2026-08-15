@@ -9,6 +9,7 @@ Berserk
 Birds of Paradise
 Bojuka Bog
 Bygone Colossus
+Chief Warg's Company
 Colossal Rattlewurm
 Command Tower
 Cultivate
@@ -96,5 +97,4 @@ Whispersilk Cloak
 Xu-Ifit, Osteoharmonist
 Yargle and Multani
 Yargle, Glutton of Urborg
-Zendikar's Roil
 Zopandrel, Hunger Dominus

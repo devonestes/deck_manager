@@ -12,7 +12,7 @@ defmodule DeckManager.Anthropic do
 
   @url "https://api.anthropic.com/v1/messages"
   @version "2023-06-01"
-  @default_model "claude-opus-4-8"
+  @default_model "claude-opus-5"
   @token_file "~/.config/anthropic/token"
 
   @doc """
@@ -104,7 +104,7 @@ defmodule DeckManager.Anthropic do
 
     body = %{
       model: Keyword.get(opts, :model, @default_model),
-      max_tokens: Keyword.get(opts, :max_tokens, 4096),
+      max_tokens: Keyword.get(opts, :max_tokens, 16_000),
       thinking: %{type: "adaptive"},
       output_config: output_config,
       messages: [%{role: "user", content: content(prompt, Keyword.get(opts, :images, []))}]

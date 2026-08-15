@@ -1,0 +1,16 @@
+Copy (copy)
+    Gruff Triplets
+    Vaultborn Tyrant
+Fungus Dinosaur (*/* green Creature — Fungus Dinosaur)
+    The Skullspore Nexus
+Spirit (*/* green Creature — Spirit)
+    Kura, the Boundless Sky
+Treasure (Artifact — Treasure)
+    Ancient Copper Dragon
+    Atsushi, the Blazing Sky
+    Old Gnawbone
+    Ziatora, the Incinerator
+Wurm (3/3 colorless Artifact Creature — Wurm)
+    Wurmcoil Engine
+Wurm (3/3 colorless Artifact Creature — Wurm)
+    Wurmcoil Engine

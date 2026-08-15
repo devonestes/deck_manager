@@ -1,0 +1,4 @@
+Food (Artifact — Food)
+    The Shire
+Treasure (Artifact — Treasure)
+    Old Gnawbone

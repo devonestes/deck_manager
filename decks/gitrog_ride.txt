@@ -9,6 +9,7 @@
 1 Birds of Paradise (M12) 165
 1 Bojuka Bog (MOC) 391
 1 Bygone Colossus (EOE) 235
+1 Chief Warg's Company (HOB) 151
 1 Colossal Rattlewurm (OTJ) 159
 1 Command Tower (MOC) 396
 1 Cultivate (J22) 644
@@ -78,5 +79,4 @@
 1 Xu-Ifit, Osteoharmonist (EOE) 127
 1 Yargle and Multani (MOM) 256
 1 Yargle, Glutton of Urborg (CMM) 202
-1 Zendikar's Roil (ORI) 209
 1 Zopandrel, Hunger Dominus (ONE) 195

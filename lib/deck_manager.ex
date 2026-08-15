@@ -1,4 +1,6 @@
 defmodule DeckManager do
+  alias DeckManager.Tokens
+
   @decks [
     # {"thrasios_yoshimaru", "Bdwllw3tYka3tSfVrO6K5w", "d8b70926-1071-4c85-ac12-3b23ee79399b"},
     {"vampires", "jOUImhiaykKSYanHfKmkLA", "28309948-82fd-41f6-ab59-c18e3689e77d"},
@@ -22,6 +24,7 @@ defmodule DeckManager do
     {"slivers", "G69IYzuFrkKvwQMumlgJog", "0c02b3ee-7672-4446-8178-b1fe4005a0ae"},
     # {"storm_keruga", "GyHvudWmvkOgn3jMS4haqQ", "8e84f597-a92e-46ea-bfff-302db88991b1"},
     {"doric", "r-Uw7LJz-EC5xeTvSLxcqg", "abd873c1-6927-422e-aef8-269d4d6e92d4"},
+    # {"bears", "F1FEKYKUhES1ay8JQ9OA6Q", "dc469fb2-965a-4390-80b6-dbf8d79a4e4f"},
     # {"wolverine", "rrjD_aYBqk-KQ5dxPkOQJg", "a430ce29-b4ec-44b6-a7e7-e959b02abcba"},
     # {"optimus_prime", "pLyCNHUPG02p0v5oY7HJLQ", "1f758cc9-15db-47c5-b78d-2b8f62e83a72"},
     # {"slug", "3F4O9kcJ1Ea6YK0wPlUSSw", "eb09e94c-031d-411f-8301-0592285445cf"},
@@ -84,13 +87,25 @@ defmodule DeckManager do
     # {"duskmourn_remastered", "In_QeFJrrk-6lenOjdG73w", "49cc2a21-50bd-4e09-9baa-d8740fb39c99"},
     # {"temur_cube", "9aAuKWFZv0iOIzb_dHaQRQ", "e084d46c-ccdf-4bd9-a461-12711b6cb375"}
     {"on_a_stick", "3eM_REBGcEWHhsn3lHyTkA", "3412c47a-8d2b-4966-85ec-91b727e931fc"}
-    # {"cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"}
+    # {"vintage_cube", "mU2WbFAfmk6iB0MJxIt-fg", "c602d42e-df1b-4565-9d9f-0b763aac6e6d"}
     #
   ]
 
   def run() do
     build_decks()
   end
+
+  @doc "The decks we track, in the order they're built."
+  def deck_names(), do: Enum.map(@decks, fn {name, _, _} -> name end)
+
+  @doc """
+  Regenerate `tokens/<deck>.txt` from the downloaded decklists. Runs as the last
+  step of `download/0`; call it directly (`mix tokens [deck]`) to refresh without
+  re-downloading. Reads `decks/`, not the collection — which tokens a deck needs
+  has nothing to do with which copies you own.
+  """
+  def tokens(), do: Tokens.write_all(deck_names())
+  def tokens(deck), do: Tokens.write_all([deck])
 
   def show_remaining() do
     build_decks() |> write_unused()
@@ -128,6 +143,8 @@ defmodule DeckManager do
 
       :timer.sleep(1000)
     end)
+
+    tokens()
   end
 
   def run(deck) do

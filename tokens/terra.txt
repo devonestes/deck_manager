@@ -1,0 +1,23 @@
+Bird (3/4 white Creature — Bird)
+    Wingmate Roc
+Construct (0/0 colorless Artifact Creature — Construct)
+    Urza's Saga
+Copy (copy)
+    Espers to Magicite
+    Preston, the Vanisher
+Gnome (1/1 colorless Artifact Creature — Gnome)
+    Threefold Thunderhulk
+Illusion (*/* blue Creature — Illusion)
+    Skyclave Apparition
+Knight (2/2 white Creature — Knight)
+    Summon: Knights of Round
+Orc Army (0/0 black Creature — Orc Army)
+    Orcish Bowmasters
+Treasure (Artifact — Treasure)
+    Grim Hireling
+    Locke, Treasure Hunter
+    Pitiless Plunderer
+    Ragavan, Nimble Pilferer
+    Rev, Tithe Extractor
+Zombie (2/2 black Creature — Zombie)
+    Kalitas, Traitor of Ghet

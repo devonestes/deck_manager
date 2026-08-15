@@ -24,6 +24,7 @@ defmodule DeckManager.MixProject do
       build: &build/1,
       show_remaining: &show_remaining/1,
       download: &download/1,
+      tokens: &tokens/1,
       diff: &diff/1
     ]
   end
@@ -41,6 +42,16 @@ defmodule DeckManager.MixProject do
   defp download([]) do
     Mix.Task.run("app.start")
     DeckManager.download()
+  end
+
+  defp tokens([]) do
+    Mix.Task.run("app.start")
+    DeckManager.tokens()
+  end
+
+  defp tokens([deck]) do
+    Mix.Task.run("app.start")
+    DeckManager.tokens(deck)
   end
 
   defp diff([first, second]) do

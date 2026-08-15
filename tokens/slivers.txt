@@ -1,0 +1,9 @@
+Copy (copy)
+    Reflections of Littjara
+    Sliver Gravemother
+Sliver (1/1 colorless Creature — Sliver)
+    Brood Sliver
+    Sliver Hive
+    Sliver Queen
+Sliver Army (0/0 black Creature — Sliver Army)
+    Lazotep Sliver

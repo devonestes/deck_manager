@@ -1,8 +1,8 @@
 1 Mishra, Eminent One (BRC) 1
 1 Arcane Signet (BRC) 132
 1 Arcum Dagsson (CSP) 27
+1 Audacious Reshapers (BRC) 112
 1 Badlands (3ED) 282
-1 Baleful Strix (MKC) 200
 1 Basalt Monolith (3ED) 235
 1 Basim Ibn Ishaq (ACR) 141
 1 Blasphemous Act (BRC) 113
@@ -13,7 +13,6 @@
 1 Chimil, the Inner Sun (LCI) 249
 1 Cityscape Leveler (BRO) 363
 1 Command Tower (BRC) 178
-1 Cursed Mirror (BRC) 115
 1 Cyberdrive Awakener (NEC) 12
 1 Cyberman Patrol (WHO) 779
 1 Darksteel Citadel (DST) 164
@@ -22,6 +21,7 @@
 1 Demonic Junker (DFT) 83
 1 Determined Iteration (NCC) 45
 1 Drowned Catacomb (SLD) 457
+1 Echo, Perceptive Prodigy (PW26) 11
 1 Emry, Lurker of the Loch (MUL) 9
 1 Esoteric Duplicator (BIG) 35
 1 Etherium Sculptor (ALA) 42
@@ -38,7 +38,6 @@
 1 Island (MOM) 278
 1 Jackdaw (ACR) 58
 1 Kappa Cannoneer (NEC) 14
-1 Karn, Legacy Reforged (MAT) 184
 1 Knight Paladin (40K) 160
 1 Lightning Greaves (LTC) 281
 1 Luxury Suite (ZNE) 18
@@ -58,6 +57,7 @@
 1 Portal to Phyrexia (BRO) 365
 1 Reaver Titan (40K) 163
 1 Relic of Sauron (LTC) 79
+1 Repurposing Bay (DFT) 56
 1 RMS Titanic (WHO) 93
 1 Scalding Tarn (MM3) 244
 1 Seat of the Synod (BRC) 198

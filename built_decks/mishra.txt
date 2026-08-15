@@ -1,8 +1,8 @@
 Mishra, Eminent One
 Arcane Signet
 Arcum Dagsson
+Audacious Reshapers
 Badlands
-Baleful Strix
 Basalt Monolith
 Basim Ibn Ishaq
 Blasphemous Act
@@ -13,7 +13,6 @@ Bloodstained Mire
 Chimil, the Inner Sun
 Cityscape Leveler
 Command Tower
-Cursed Mirror
 Cyberdrive Awakener
 Cyberman Patrol
 Darksteel Citadel
@@ -22,6 +21,7 @@ Deadly Dispute
 Demonic Junker
 Determined Iteration
 Drowned Catacomb
+Echo, Perceptive Prodigy
 Emry, Lurker of the Loch
 Esoteric Duplicator
 Etherium Sculptor
@@ -38,7 +38,6 @@ Idol of Oblivion
 Island
 Jackdaw
 Kappa Cannoneer
-Karn, Legacy Reforged
 Knight Paladin
 Lightning Greaves
 Luxury Suite
@@ -58,6 +57,7 @@ Polluted Delta
 Portal to Phyrexia
 Reaver Titan
 Relic of Sauron
+Repurposing Bay
 RMS Titanic
 Scalding Tarn
 Seat of the Synod

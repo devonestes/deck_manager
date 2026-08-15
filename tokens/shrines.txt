@@ -1,0 +1,7 @@
+Monk (1/1 red Creature — Monk)
+    Crescent Island Temple
+Shrine (1/1 colorless Enchantment Creature — Shrine)
+    Go-Shintai of Life's Origin
+Spirit (1/1 colorless Creature — Spirit)
+    Go-Shintai of Shared Purpose
+    Honden of Life's Web

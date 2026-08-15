@@ -1,0 +1,24 @@
+Badger (3/3 green Creature — Badger)
+    Greensleeves, Maro-Sorcerer
+Beast (3/3 green Creature — Beast)
+    Beast Within
+Beast (4/4 green Creature — Beast)
+    Rampaging Baloths
+Centaur (3/3 green Creature — Centaur)
+    Hunted Horror
+Dog (1/1 white Creature — Dog)
+    Hunted Bonebrute
+Faerie (1/1 blue Creature — Faerie)
+    Hunted Troll
+Food (Artifact — Food)
+    Tireless Provisioner
+Fungus Dinosaur (*/* green Creature — Fungus Dinosaur)
+    The Skullspore Nexus
+Iridescent Vinelasher (1/1 black Creature — Lizard Assassin)
+    Iridescent Vinelasher
+Plant (0/1 green Creature — Plant)
+    Avenger of Zendikar
+Treasure (Artifact — Treasure)
+    Tireless Provisioner
+Wolf (2/2 green Creature — Wolf)
+    Chief Warg's Company

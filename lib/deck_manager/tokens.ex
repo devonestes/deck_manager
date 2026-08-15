@@ -1,0 +1,310 @@
+defmodule DeckManager.Tokens do
+  @moduledoc """
+  Works out which tokens (and emblems) each decklist needs.
+
+  Every line in `decks/<deck>.txt` names an exact printing, so we hand those
+  printings to Scryfall's `/cards/collection` endpoint and read their
+  `all_parts` links — the same relationships Scryfall shows under "Tokens" on a
+  card page. The linked token printings are fetched once more to pick up power,
+  toughness and colors, which `all_parts` doesn't carry.
+
+  Both halves of that lookup are cached in `data/scryfall/token_parts.json`
+  (gitignored), keyed by printing, so a re-run only hits the network for cards
+  it hasn't seen before.
+
+  The rendered list lands in `tokens/<deck>.txt`, which *is* tracked in git:
+  after `mix download`, `git diff tokens/` shows how each deck's token needs
+  changed.
+  """
+
+  alias DeckManager.Scryfall
+
+  @cache_path "data/scryfall/token_parts.json"
+  @out_dir "tokens"
+
+  @doc """
+  Regenerate `tokens/<deck>.txt` for each named deck, reusing one loaded cache
+  for the whole run. Pass `force: true` to re-ask Scryfall about printings we've
+  already looked up.
+  """
+  def write_all(decks, opts \\ []) do
+    cache = if Keyword.get(opts, :force, false), do: empty_cache(), else: load_cache()
+    File.mkdir_p!(@out_dir)
+
+    {_results, cache} =
+      Enum.map_reduce(decks, cache, fn deck, cache ->
+        case for_deck(deck, cache) do
+          {:ok, tokens, cache} ->
+            File.write!(path(deck), render(tokens))
+            IO.puts("#{deck}: #{length(tokens)} tokens")
+            {:ok, cache}
+
+          {:error, reason, cache} ->
+            IO.puts("Could not list tokens for #{deck} - #{describe(reason)}")
+            {:error, cache}
+        end
+      end)
+
+    save_cache(cache)
+    :ok
+  end
+
+  @doc """
+  The tokens a deck needs, as `{token, sources}` pairs sorted by token name.
+
+  `token` is the trimmed Scryfall token map and `sources` the names of the deck's
+  cards that make it. Threads the printing cache through so callers can reuse it.
+  """
+  def for_deck(deck, cache) do
+    path = "decks/#{deck}.txt"
+
+    case File.read(path) do
+      {:error, reason} ->
+        {:error, {:unreadable, path, reason}, cache}
+
+      {:ok, body} ->
+        {cards, unparsed} = identifiers(body)
+        Enum.each(unparsed, &IO.puts("  #{deck}: could not read line #{inspect(&1)}"))
+
+        cache = cache |> fetch_parts(cards) |> fetch_tokens()
+        {:ok, collect(cards, cache), cache}
+    end
+  end
+
+  @doc """
+  Parse a decklist into `{printings, unparsed_lines}`.
+
+  Lines look like `1 Arcane Denial (ALL) 22a` — the set code and collector
+  number are the identity Scryfall indexes on, and the printed name is kept for
+  attributing tokens back to the card that makes them.
+  """
+  def identifiers(body) do
+    body
+    |> String.trim()
+    |> String.split("\n", trim: true)
+    |> Enum.reduce({[], []}, fn line, {cards, unparsed} ->
+      case Regex.run(~r/^\s*\d+\s+(.+?)\s+\(([^)]+)\)\s+(\S+)/, line) do
+        [_, name, set, number] ->
+          card = %{
+            name: String.replace(name, " / ", " // "),
+            set: String.downcase(set),
+            number: number
+          }
+
+          {[card | cards], unparsed}
+
+        nil ->
+          {cards, [line | unparsed]}
+      end
+    end)
+    |> then(fn {cards, unparsed} -> {Enum.reverse(cards), Enum.reverse(unparsed)} end)
+  end
+
+  @doc """
+  Render `{token, sources}` pairs as the contents of a `tokens/<deck>.txt` file:
+  one line per distinct token, with the cards that make it indented beneath.
+
+      Squirrel (1/1 green Creature — Squirrel)
+          Chatterfang, Squirrel General
+          Deranged Hermit
+  """
+  def render(tokens) do
+    Enum.map_join(tokens, fn {token, sources} ->
+      sources = sources |> Enum.sort() |> Enum.map_join(fn source -> "    #{source}\n" end)
+      "#{token["name"]} (#{descriptor(token)})\n" <> sources
+    end)
+  end
+
+  # --- lookup -------------------------------------------------------------
+
+  # Ask Scryfall about any printing we haven't already recorded token links for.
+  # A printing that makes no tokens caches as `[]`, so it's asked about once.
+  defp fetch_parts(cache, cards) do
+    names = Map.new(cards, &{printing_key(&1), &1.name})
+
+    unknown =
+      names
+      |> Map.keys()
+      |> Enum.reject(&Map.has_key?(cache["printings"], &1))
+
+    if unknown == [] do
+      cache
+    else
+      identifiers =
+        Enum.map(unknown, fn key ->
+          [set, number] = String.split(key, "/", parts: 2)
+          %{"set" => set, "collector_number" => number}
+        end)
+
+      {found, _missing} = Scryfall.cards_by_identifiers(identifiers)
+
+      printings =
+        Enum.reduce(found, cache["printings"], fn card, acc ->
+          Map.put(acc, printing_key(card), token_ids(card))
+        end)
+
+      unknown
+      |> Enum.reject(&Map.has_key?(printings, &1))
+      |> by_name(names, printings)
+      |> then(&%{cache | "printings" => &1})
+    end
+  end
+
+  # Moxfield and Scryfall occasionally disagree about a collector number, so a
+  # printing we can't find is looked up by name instead. Which printing we land
+  # on barely matters — token links are the same across a card's printings far
+  # more often than not, and a wrong-but-close answer beats silently dropping
+  # every token that card makes.
+  defp by_name([], _names, printings), do: printings
+
+  defp by_name(unresolved, names, printings) do
+    identifiers = Enum.map(unresolved, &%{"name" => names[&1]})
+    {found, _missing} = Scryfall.cards_by_identifiers(identifiers)
+    by_name = Map.new(found, &{String.downcase(&1["name"]), &1})
+
+    Enum.reduce(unresolved, printings, fn key, acc ->
+      case Map.get(by_name, String.downcase(names[key])) do
+        nil ->
+          IO.puts("  no Scryfall card for #{names[key]} (#{key})")
+          acc
+
+        card ->
+          IO.puts("  #{names[key]}: no printing #{key}, used #{printing_key(card)} instead")
+          Map.put(acc, key, token_ids(card))
+      end
+    end)
+  end
+
+  # `all_parts` also links combo pieces and meld halves; only the token
+  # component (which covers emblems) is something you have to bring to a game.
+  defp token_ids(card) do
+    card
+    |> Map.get("all_parts", [])
+    |> Kernel.||([])
+    |> Enum.filter(fn part -> part["component"] == "token" end)
+    |> Enum.map(fn part -> part["id"] end)
+  end
+
+  # `all_parts` carries only name and type line, so fetch the token printings
+  # themselves for power, toughness, colors and the oracle id we dedupe on.
+  defp fetch_tokens(cache) do
+    unknown =
+      cache["printings"]
+      |> Map.values()
+      |> List.flatten()
+      |> Enum.uniq()
+      |> Enum.reject(&Map.has_key?(cache["tokens"], &1))
+
+    if unknown == [] do
+      cache
+    else
+      {found, missing} = Scryfall.cards_by_identifiers(Enum.map(unknown, &%{"id" => &1}))
+      Enum.each(missing, &IO.puts("  no Scryfall token for #{inspect(&1)}"))
+
+      tokens =
+        Enum.reduce(found, cache["tokens"], fn token, acc ->
+          Map.put(acc, token["id"], trim(token))
+        end)
+
+      %{cache | "tokens" => tokens}
+    end
+  end
+
+  @token_fields ~w(oracle_id name type_line power toughness colors layout)
+
+  defp trim(token) do
+    token
+    |> Map.take(@token_fields)
+    |> Map.put("card_faces", Enum.map(token["card_faces"] || [], &Map.take(&1, @token_fields)))
+  end
+
+  # One entry per distinct token, keyed on oracle id so two Beasts with
+  # different stats stay apart while the same Treasure from six cards collapses.
+  defp collect(cards, cache) do
+    cards
+    |> Enum.flat_map(fn card ->
+      cache["printings"]
+      |> Map.get(printing_key(card), [])
+      |> Enum.map(&{Map.get(cache["tokens"], &1), card.name, &1})
+    end)
+    |> Enum.filter(fn
+      {nil, source, id} ->
+        IO.puts("  no cached token #{id} (linked from #{source})")
+        false
+
+      _ ->
+        true
+    end)
+    |> Enum.map(fn {token, source, _id} -> {token, source} end)
+    |> Enum.group_by(fn {token, _} -> token["oracle_id"] end, fn {token, source} ->
+      {token, source}
+    end)
+    |> Enum.map(fn {_oracle_id, [{token, _} | _] = pairs} ->
+      {token, pairs |> Enum.map(fn {_, source} -> source end) |> Enum.uniq()}
+    end)
+    |> Enum.sort_by(fn {token, _} -> {String.downcase(token["name"]), descriptor(token)} end)
+  end
+
+  # --- rendering ----------------------------------------------------------
+
+  @colors %{"W" => "white", "U" => "blue", "B" => "black", "R" => "red", "G" => "green"}
+
+  # Double-faced tokens carry their stats per face, so describe both sides.
+  defp descriptor(%{"layout" => "double_faced_token", "card_faces" => [_ | _] = faces}) do
+    Enum.map_join(faces, " // ", &face_descriptor/1)
+  end
+
+  defp descriptor(token), do: face_descriptor(token)
+
+  defp face_descriptor(token) do
+    [stats(token), colors(token), type(token)]
+    |> Enum.reject(&(&1 == nil))
+    |> Enum.join(" ")
+  end
+
+  defp stats(%{"power" => power, "toughness" => toughness})
+       when is_binary(power) and is_binary(toughness),
+       do: "#{power}/#{toughness}"
+
+  defp stats(_), do: nil
+
+  # Only creatures get a color, so a Treasure reads as "Artifact — Treasure"
+  # rather than "colorless Artifact — Treasure".
+  defp colors(%{"power" => power} = token) when is_binary(power) do
+    case token["colors"] || [] do
+      [] -> "colorless"
+      colors -> colors |> Enum.map(&Map.get(@colors, &1, &1)) |> Enum.join("/")
+    end
+  end
+
+  defp colors(_), do: nil
+
+  # Token type lines are prefixed "Token " ("Token Creature — Squirrel"), which
+  # is noise in a file that's entirely tokens. Copy tokens are just "Token".
+  defp type(%{"type_line" => "Token"}), do: "copy"
+  defp type(%{"type_line" => type}) when is_binary(type), do: String.replace(type, "Token ", "")
+  defp type(_), do: nil
+
+  # --- cache --------------------------------------------------------------
+
+  defp printing_key(%{set: set, number: number}), do: "#{set}/#{number}"
+  defp printing_key(%{"set" => set, "collector_number" => number}), do: "#{set}/#{number}"
+
+  defp path(deck), do: Path.join(@out_dir, "#{deck}.txt")
+
+  defp empty_cache, do: %{"printings" => %{}, "tokens" => %{}}
+
+  defp load_cache do
+    case File.read(@cache_path) do
+      {:ok, body} -> Map.merge(empty_cache(), Jason.decode!(body))
+      {:error, _} -> empty_cache()
+    end
+  end
+
+  defp save_cache(cache) do
+    File.mkdir_p!(Path.dirname(@cache_path))
+    File.write!(@cache_path, Jason.encode!(cache))
+  end
+
+  defp describe({:unreadable, path, reason}), do: "#{path}: #{:file.format_error(reason)}"
+end

@@ -1,0 +1,20 @@
+Beast (3/3 green Creature — Beast)
+    Beast Within
+Beast (4/4 green Creature — Beast)
+    Baloth Prime
+Construct (0/0 colorless Artifact Creature — Construct)
+    Urza's Saga
+Copy (copy)
+    Scute Swarm
+Eldrazi Spawn (0/1 colorless Creature — Eldrazi Spawn)
+    Skittering Precursor
+Elemental (5/3 green Creature — Elemental)
+    Titania, Protector of Argoth
+Food (Artifact — Food)
+    Tireless Provisioner
+Insect (1/1 green Creature — Insect)
+    Scute Swarm
+Spirit (1/1 colorless Creature — Spirit)
+    Akki Ember-Keeper
+Treasure (Artifact — Treasure)
+    Tireless Provisioner

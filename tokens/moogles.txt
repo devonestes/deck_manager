@@ -1,0 +1,32 @@
+Agate Instigator (1/1 red Creature — Lizard Rogue)
+    Agate Instigator
+Beast (4/4 white Creature — Beast)
+    Toby, Beastie Befriender
+Cat (1/1 white Creature — Cat)
+    Ocelot Pride
+Citizen (1/1 green/white Creature — Citizen)
+    Master of Ceremonies
+Copy (copy)
+    Summon: Good King Mog XII
+Eldrazi (10/10 colorless Creature — Eldrazi)
+    Idol of Oblivion
+Elephant (3/3 green Creature — Elephant)
+    Generous Gift
+Hero (1/1 colorless Creature — Hero)
+    Champions from Beyond
+Moogle (1/2 white Creature — Moogle)
+    Mog, Moogle Warrior
+    Moogles' Valor
+    Summon: Good King Mog XII
+Shapeshifter (2/2 blue Creature — Shapeshifter)
+    Maskwood Nexus
+Shapeshifter (2/2 colorless Creature — Shapeshifter)
+    Irregular Cohort
+Soldier (1/1 white Creature — Soldier)
+    Elspeth, Storm Slayer
+Treasure (Artifact — Treasure)
+    Big Score
+    Master of Ceremonies
+    Monument to Endurance
+    Professional Face-Breaker
+    Tataru Taru
