@@ -3,7 +3,6 @@
 1 Accursed Marauder (MH3) 80
 1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90
 1 Alchemist's Talent (BLC) 22
-1 Ancient Brass Dragon (CLB) 367
 1 Ancient Copper Dragon (CLB) 161
 1 Ancient Tomb (TMP) 315
 1 Animate Dead (3ED) 93
@@ -19,10 +18,11 @@
 1 Blasphemous Edict (FDN) 317
 1 Blood Crypt (UNF) 279
 1 Bloodstained Mire (KTK) 230
+1 Bootleggers' Stash (BLC) 207
 1 Boseiju, Who Endures (NEO) 501
+1 Burnt Offering (ICE) 116
 1 Chatterfang, Squirrel General (MH2) 316
 1 Command Tower (MOC) 396
-1 Corpse Dance (TMP) 116
 1 Crop Rotation (DMR) 154
 1 Crucible of Worlds (10E) 319
 1 Culling the Weak (EXO) 55
@@ -37,16 +37,15 @@
 1 Eldrazi Repurposer (MH3) 150
 1 Fabled Passage (ELD) 244
 1 Field of the Dead (M20) 247
-1 Finale of Devastation (WAR) 160
-2 Forest (J22) 110
+3 Forest (J22) 110
 1 Goldspan Dragon (J22) 550
 1 Heroic Intervention (LTC) 249
+1 Icetill Explorer (EOE) 343
 1 Ignoble Hierarch (MH2) 166
 1 Juri, Master of the Revue (MUL) 46
+1 Lich-Knights' Conquest (WOE) 96
 1 Life from the Loam (RAV) 172
 1 Lightning Greaves (LTC) 281
-1 Liliana, Dreadhorde General (WAR) 97
-1 Lotus Petal (TMP) 294
 1 Luxury Suite (ZNE) 18
 1 Marionette Apprentice (MH3) 100
 1 Marsh Flats (MM3) 239
@@ -63,25 +62,24 @@
 1 Phyrexian Altar (INV) 306
 1 Phyrexian Tower (JMP) 493
 1 Pitiless Plunderer (LCC) 208
+1 Planar Engineering (SOS) 158
 1 Polluted Delta (KTK) 239
 1 Professional Face-Breaker (J22) 581
 1 Ragavan, Nimble Pilferer (MUL) 21
 1 Reanimate (TMP) 151
 1 Reassembling Skeleton (J22) 125
 1 Reliquary Tower (BRC) 196
-1 Rhythm of the Wild (LCC) 287
-1 Rottenmouth Viper (BLB) 290
 1 Scalding Tarn (MM3) 244
-1 Shallow Grave (MIR) 141
 1 Shatterskull Smashing / Shatterskull, the Hammer Pass (ZNR) 354
 1 Skullclamp (DST) 140
 1 Sol Ring (MOC) 381
 1 Spire Garden (ZNE) 19
 1 Squandered Resources (VIS) 137
 1 Stomping Ground (UNF) 280
-2 Swamp (J22) 106
+3 Swamp (J22) 106
 1 Taiga (3ED) 287
 1 The Meathook Massacre (MID) 112
+1 The Sackville-Bagginses (HOB) 83
 1 Tinder Wall (ICE) 270
 1 Tireless Provisioner (MH2) 180
 1 Toxic Deluge (C13) 96

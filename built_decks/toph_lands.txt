@@ -1,7 +1,7 @@
 Constant Mists (PROXY)
+Heroic Intervention (PROXY)
 Moraug, Fury of Akoum (PROXY)
 Scute Swarm (PROXY)
-Skullclamp (PROXY)
 Toph, Hardheaded Teacher
 Abrade
 The Ozolith
@@ -42,7 +42,6 @@ Forest
 Goblin Anarchomancer
 Hardened Scales
 Harrow
-Heroic Intervention
 Icetill Explorer
 Impolite Entrance
 Inspiring Call
@@ -72,6 +71,7 @@ Sabotender
 Secret Tunnel
 Seismic Sense
 Skittering Precursor
+Skullclamp
 Slagwoods Bridge
 Sol Ring
 Spawning Pit

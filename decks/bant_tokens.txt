@@ -14,6 +14,7 @@
 1 Caretaker's Talent (BLB) 6
 1 Cauldron of Souls (SHM) 248
 1 Chulane, Teller of Tales (ELD) 326
+1 Clever Concealment (ONC) 5
 1 Cloud of Faeries (DMR) 43
 1 Command Tower (LTC) 301
 1 Cyclonic Rift (RTR) 35
@@ -21,7 +22,6 @@
 1 Danny Pink (WHO) 39
 1 Delighted Halfling (LTR) 158
 1 Detective of the Month (MKC) 21
-1 Dionus, Elvish Archdruid (J25) 52
 1 District Mascot (DFT) 158
 1 Dreamroot Cascade (VOW) 282
 1 Dryad Arbor (FUT) 174

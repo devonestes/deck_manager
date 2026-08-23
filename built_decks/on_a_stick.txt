@@ -1,15 +1,20 @@
 Agonasaur Rex (PROXY)
 Boggart Trawler // Boggart Bog (PROXY)
 Coastal Peak (PROXY)
+Deserted Beach (PROXY)
 Dreamroot Cascade (PROXY)
 Emeritus of Abundance // Regrowth (PROXY)
 Grave Researcher // Reanimate (PROXY)
 Hydroelectric Specimen // Hydroelectric Laboratory (PROXY)
+Icetill Explorer (PROXY)
 Mentor of the Meek (PROXY)
 Mikey & Leo, Chaos & Order (PROXY)
+Misty Rainforest (PROXY)
 Moonshadow (PROXY)
 Overgrown Farmland (PROXY)
 Overgrown Tomb (PROXY)
+Polluted Delta (PROXY)
+Professional Face-Breaker (PROXY)
 Rain-Slicked Copse (PROXY)
 Rockfall Vale (PROXY)
 Shattered Sanctum (PROXY)
@@ -17,9 +22,15 @@ Shipwreck Marsh (PROXY)
 Solitude (PROXY)
 Squee, Goblin Nabob (PROXY)
 Stalactite Stalker (PROXY)
+Stormcarved Coast (PROXY)
+Troll of Khazad-dûm (PROXY)
 Umbral Expanse (PROXY)
 Vastlands Scavenger // Bind to Life (PROXY)
+Verdant Catacombs (PROXY)
 Vibrance (PROXY)
+Watery Grave (PROXY)
+Windswept Heath (PROXY)
+Wooded Foothills (PROXY)
 Yeva, Nature's Herald (PROXY)
 Aang, at the Crossroads // Aang, Destined Savior
 Abzan Falconer
@@ -83,7 +94,6 @@ Courser of Kruphix
 Cruel Celebrant
 Darkslick Shores
 Deathcap Glade
-Deserted Beach
 Detective's Phoenix
 Diamond Weapon
 Disciple of Freyalise // Garden of Freyalise
@@ -144,7 +154,6 @@ Hope-Ender Coatl
 Hopeful Initiate
 Hormagaunt Horde
 Horned Loch-Whale // Lagoon Breach
-Icetill Explorer
 Imodane's Recruiter // Train Troops
 Indebted Spirit
 Inspiring Vantage
@@ -187,7 +196,6 @@ Mikaeus, the Lunarch
 Millikin
 Mirrorshell Crab
 Mistblade Shinobi
-Misty Rainforest
 Moon-Circuit Hacker
 Murderous Rider // Swift End
 Myr Battlesphere
@@ -221,9 +229,7 @@ Patchwork Beastie
 Piggy Bank
 Pinnacle Emissary
 Plumecreed Escort
-Polluted Delta
 Preacher of the Schism
-Professional Face-Breaker
 Prosperous Thief
 Pyrogoyf
 Qarsi Revenant
@@ -287,7 +293,6 @@ Stingerback Terror
 Stitcher's Supplier
 Stoic Sphinx
 Stomping Ground
-Stormcarved Coast
 Subtlety
 Summon: Brynhildr
 Summon: Fenrir
@@ -318,7 +323,6 @@ Tinybones, the Pickpocket
 Tishana's Tidebinder
 Transcendent Dragon
 Trickster's Elk
-Troll of Khazad-dûm
 Trumpeting Carnosaur
 Turncoat Kunoichi
 Twining Twins // Swift Spiral
@@ -330,13 +334,11 @@ Undercity Sewers
 Underground Mortuary
 Uro, Titan of Nature's Wrath
 Ursine Monstrosity
-Verdant Catacombs
 Verdurous Gearhulk
 Voice of Victory
 Voracious Greatshark
 Wall of Omens
 Wasteland Viper
-Watery Grave
 Welcoming Vampire
 Whirlwing Stormbrood // Dynamic Soar
 Wickerfolk Thresher
@@ -344,10 +346,8 @@ Wight of the Reliquary
 Wildborn Preserver
 Wildfire Wickerfolk
 Wildgrowth Archaic
-Windswept Heath
 Witch Enchanter // Witch-Blessed Meadow
 Woe Strider
-Wooded Foothills
 Wrecking Ogre
 Wren's Run Hydra
 Wurmcoil Engine

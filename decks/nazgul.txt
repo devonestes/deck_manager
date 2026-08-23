@@ -3,17 +3,16 @@
 1 Ancient Tomb (TMP) 315
 1 Arcane Denial (ALL) 22a
 1 Arcane Signet (MOC) 348
+1 Archmage Emeritus (OTC) 90
 1 Archmage of Runes (FDN) 30
 1 Black Market Connections (CLB) 620
 1 Brainstorm (ICE) 61
 1 Capture of Jingzhou (CMM) 79
 1 Cavern of Souls (AVR) 226
-1 Changeling Outcast (MH1) 82
 1 Clearwater Pathway / Murkwater Pathway (ZNR) 286
 1 Command Tower (MOC) 396
 1 Counterspell (TMP) 57
 1 Cyclonic Rift (2XM) 339
-1 Damnation (TSR) 106
 1 Dark Ritual (3ED) 99
 1 Deadly Rollick (C20) 42
 1 Demonic Tutor (3ED) 105
@@ -31,7 +30,6 @@
 1 Isochron Scepter (MRD) 188
 1 Kindred Discovery (CLB) 81
 1 Lightning Greaves (LTC) 281
-1 Lim-Dûl's Vault (ALL) 107
 1 Lórien Revealed (LTR) 60
 1 Mana Drain (CMR) 80
 1 Mana Vault (2ED) 260
@@ -54,6 +52,7 @@
 1 Otawara, Soaring City (NEO) 271
 1 Pact of Negation (FUT) 42
 1 Polluted Delta (KTK) 239
+1 Ponder (SLP) 19
 1 Preordain (LTC) 196
 1 Rapid Hybridization (LCC) 166
 1 Reanimate (TMP) 151
@@ -70,7 +69,7 @@
 1 Spark Double (RVR) 319
 1 Sunken Hollow (MOC) 428
 1 Sunken Ruins (SHM) 280
-8 Swamp (J22) 106
+9 Swamp (J22) 106
 1 Swan Song (LTC) 197
 1 Talisman of Dominance (MRD) 253
 1 The One Ring (LTR) 451

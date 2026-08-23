@@ -14,6 +14,7 @@ Bristly Bill, Spine Sower
 Caretaker's Talent
 Cauldron of Souls
 Chulane, Teller of Tales
+Clever Concealment
 Cloud of Faeries
 Command Tower
 Cyclonic Rift
@@ -21,7 +22,6 @@ Damning Verdict
 Danny Pink
 Delighted Halfling
 Detective of the Month
-Dionus, Elvish Archdruid
 District Mascot
 Dreamroot Cascade
 Dryad Arbor
