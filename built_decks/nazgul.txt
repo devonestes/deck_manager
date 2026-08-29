@@ -4,36 +4,33 @@ Cavern of Souls (PROXY)
 Cyclonic Rift (PROXY)
 Deadly Rollick (PROXY)
 Drowned Catacomb (PROXY)
-Fierce Guardianship (PROXY)
 Kindred Discovery (PROXY)
 Lightning Greaves (PROXY)
 Lórien Revealed (PROXY)
 Morphic Pool (PROXY)
-Opposition Agent (PROXY)
 Otawara, Soaring City (PROXY)
 Reanimate (PROXY)
 Sea Gate Restoration // Sea Gate, Reborn (PROXY)
 Shipwreck Marsh (PROXY)
 Lord of the Nazgûl
 An Offer You Can't Refuse
-Ancient Tomb
 Arcane Denial
 Arcane Signet
 Archmage Emeritus
 Archmage of Runes
+Bloodline Pretender
 Brainstorm
 Clearwater Pathway // Murkwater Pathway
 Command Tower
 Counterspell
 Dark Ritual
-Demonic Tutor
 Dimir Signet
 Feed the Swarm
 Fellwar Stone
 Force of Negation
-Force of Will
 Frantic Search
 Go for the Throat
+Graveshifter
 Impulse
 Island
 Island
@@ -46,10 +43,9 @@ Island
 Island
 Island
 Isochron Scepter
+Lim-Dûl's Vault
 Mana Drain
-Mana Vault
 Misty Rainforest
-Mystical Tutor
 Nazgûl
 Nazgûl
 Nazgûl
@@ -60,6 +56,7 @@ Nazgûl
 Nazgûl
 Nazgûl
 Negate
+Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time
 Opt
 Orcish Bowmasters
 Pact of Negation
@@ -73,6 +70,7 @@ Roaming Throne
 Sakashima of a Thousand Faces
 See Double
 Shadow Rift
+Snap
 Snuff Out
 Sol Ring
 Spark Double
@@ -87,14 +85,16 @@ Swamp
 Swamp
 Swamp
 Swamp
+Swamp
 Swan Song
 Talisman of Dominance
-The One Ring
+Thought Scour
 Time Warp
 Toxic Deluge
 Underground River
 Underground Sea
 Urborg, Tomb of Yawgmoth
-Vampiric Tutor
 Watery Grave
+Wavebreak Hippocamp
 Witch-king of Angmar
+Withering Torment

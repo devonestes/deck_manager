@@ -30,6 +30,7 @@
 1 Godless Shrine (RVR) 401
 1 Graven Cairns (SHM) 272
 1 Grim Hireling (PLST) AFC-25
+1 Havoc Eater (MKC) 31
 1 High Market (FIC) 402
 1 Isolated Chapel (LCC) 337
 1 Joshua, Phoenix's Dominant / Phoenix, Warden of Fire (FIN) 397
@@ -48,7 +49,6 @@
 1 Pinnacle Monk / Mystic Peak (MH3) 246
 1 Pitiless Plunderer (MB2) 46
 5 Plains (UNF) 240
-1 Preston, the Vanisher (J22) 8
 1 Ragavan, Nimble Pilferer (MUL) 21
 1 Reanimate (TMP) 151
 1 Rev, Tithe Extractor (J25) 45

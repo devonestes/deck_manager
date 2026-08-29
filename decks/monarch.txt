@@ -20,7 +20,6 @@
 1 Court of Grace (ONC) 62
 1 Court of Ire (LTC) 213
 1 Court of Vantress (WOC) 22
-1 Deserted Beach (MID) 281
 1 Disrupt Decorum (CMM) 1067
 1 Dolmen Gate (LRW) 256
 1 Elegant Parlor (MKM) 325
@@ -30,6 +29,7 @@
 1 Fierce Guardianship (C20) 35
 1 Flawless Maneuver (C20) 26
 1 Flooded Strand (KTK) 233
+1 Floodfarm Verge (DSK) 259
 1 Galadriel's Dismissal (LTC) 500
 1 Ghostly Prison (PLST) CHK-10
 1 Glacial Fortress (LTC) 315

@@ -1,4 +1,5 @@
 Copy (copy)
+Fractal (0/0 green/blue Creature — Fractal)
 Rat (1/1 black Creature — Rat) [This token can't block.]
 Treasure (Artifact — Treasure)
 Tyranid (1/1 green Creature — Tyranid)

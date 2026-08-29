@@ -30,7 +30,6 @@ Eternal Witness
 Evendo Brushrazer
 Evolution Sage
 Evolving Wilds
-Explore
 Fabled Passage
 Forest
 Forest
@@ -63,6 +62,7 @@ Origin of Metalbending
 Ozolith, the Shattered Spire
 Phyrexian Altar
 Pinnacle Monk // Mystic Peak
+Planar Engineering
 Rampant Growth
 Return of the Wildspeaker
 Roiling Regrowth

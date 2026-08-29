@@ -1,7 +1,6 @@
 Agonasaur Rex (PROXY)
 Boggart Trawler // Boggart Bog (PROXY)
 Coastal Peak (PROXY)
-Deserted Beach (PROXY)
 Dreamroot Cascade (PROXY)
 Emeritus of Abundance // Regrowth (PROXY)
 Grave Researcher // Reanimate (PROXY)
@@ -94,6 +93,7 @@ Courser of Kruphix
 Cruel Celebrant
 Darkslick Shores
 Deathcap Glade
+Deserted Beach
 Detective's Phoenix
 Diamond Weapon
 Disciple of Freyalise // Garden of Freyalise

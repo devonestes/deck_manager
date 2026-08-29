@@ -19,16 +19,15 @@
 1 Command Tower (MOC) 396
 1 Court of Garenbrig (WOC) 25
 1 Crackle with Power (STX) 308
-1 Cyclonic Rift (RTR) 35
 1 Deflecting Swat (C20) 50
 1 Delighted Halfling (LTR) 158
 1 Doppelgang (MKM) 198
 1 Elementalist's Palette (C21) 76
 1 Exocrine (40K) 76
-1 Fierce Guardianship (C20) 35
 1 Finale of Devastation (WAR) 160
 1 Flooded Grove (LTC) 309
-3 Forest (J22) 110
+4 Forest (J22) 110
+1 Fractal Harness (C21) 61
 1 Frontier Bivouac (40K) 281
 1 Geometer's Arthropod (SOS) 191
 1 Goldvein Hydra (OTJ) 167

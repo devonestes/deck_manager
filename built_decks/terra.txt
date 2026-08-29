@@ -30,6 +30,7 @@ Goblin Bombardment
 Godless Shrine
 Graven Cairns
 Grim Hireling
+Havoc Eater
 High Market
 Isolated Chapel
 Joshua, Phoenix's Dominant // Phoenix, Warden of Fire
@@ -56,7 +57,6 @@ Plains
 Plains
 Plains
 Plains
-Preston, the Vanisher
 Ragavan, Nimble Pilferer
 Reanimate
 Rev, Tithe Extractor

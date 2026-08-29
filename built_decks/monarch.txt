@@ -25,7 +25,6 @@ Coppercoat Vanguard
 Court of Grace
 Court of Ire
 Court of Vantress
-Deserted Beach
 Disrupt Decorum
 Dolmen Gate
 Elegant Parlor
@@ -34,6 +33,7 @@ Faramir, Prince of Ithilien
 Faramir, Steward of Gondor
 Fierce Guardianship
 Flooded Strand
+Floodfarm Verge
 Galadriel's Dismissal
 Glacial Fortress
 Goldbug, Humanity's Ally // Goldbug, Scrappy Scout

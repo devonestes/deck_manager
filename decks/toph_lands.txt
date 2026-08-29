@@ -27,7 +27,6 @@
 1 Evendo Brushrazer (EOC) 10
 1 Evolution Sage (PLST) WAR-159
 1 Evolving Wilds (FDN) 262
-1 Explore (C19) 164
 1 Fabled Passage (ELD) 244
 7 Forest (UNF) 244
 1 Goblin Anarchomancer (MH2) 200
@@ -51,6 +50,7 @@
 1 Ozolith, the Shattered Spire (MOM) 198
 1 Phyrexian Altar (INV) 306
 1 Pinnacle Monk / Mystic Peak (MH3) 246
+1 Planar Engineering (SOS) 158
 1 Rampant Growth (M12) 190
 1 Return of the Wildspeaker (ELD) 172
 1 Roiling Regrowth (EOC) 105

@@ -313,5 +313,6 @@ wanderer_keruga
     Phyrexian Horror (*/* green Creature — Phyrexian Horror)
 
 x_spells
+    Fractal (0/0 green/blue Creature — Fractal)
     Rat (1/1 black Creature — Rat) [This token can't block.]
     Tyranid (1/1 green Creature — Tyranid)
