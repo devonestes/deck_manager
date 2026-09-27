@@ -20,7 +20,6 @@
 1 Crucible of Worlds (10E) 319
 1 Cultivator Colossus (VOW) 195
 1 Doppelgang (MKM) 198
-1 Dryad of the Ilysian Grove (THB) 169
 1 Elvish Reclaimer (M20) 169
 1 Entish Restoration (LTR) 163
 1 Exploration (CNS) 164
@@ -87,6 +86,7 @@
 1 Titania, Protector of Argoth (CMA) 157
 1 Traveling Chocobo (FIN) 210
 1 Undiscovered Paradise (VIS) 167
+1 Verdant Kraken (FRA) 118
 1 Vorinclex / The Grand Evolution (MOM) 213
 1 Wayward Swordtooth (LCC) 263
 1 Windswept Heath (KTK) 248

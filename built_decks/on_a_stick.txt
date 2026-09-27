@@ -15,7 +15,6 @@ Overgrown Tomb (PROXY)
 Polluted Delta (PROXY)
 Professional Face-Breaker (PROXY)
 Rain-Slicked Copse (PROXY)
-Rockfall Vale (PROXY)
 Shattered Sanctum (PROXY)
 Shipwreck Marsh (PROXY)
 Solitude (PROXY)
@@ -245,6 +244,7 @@ Research Thief
 Reservoir Kraken
 Restoration Angel
 Rishkar, Peema Renegade
+Rockfall Vale
 Royal Assassin
 Sacred Foundry
 Sakashima's Student

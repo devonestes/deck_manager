@@ -199,6 +199,7 @@
 aesi
     Beau (*/* blue Legendary Creature — Ox)
     Forest Dryad (1/1 green Land Creature — Forest Dryad)
+    Forest Tentacle (3/3 green Land Creature — Forest Tentacle)
     Koma's Coil (3/3 blue Creature — Serpent)
 
 bant_tokens

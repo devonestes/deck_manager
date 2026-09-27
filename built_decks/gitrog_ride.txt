@@ -2,7 +2,6 @@ The Gitrog, Ravenous Ride
 Arcane Signet
 Assassin's Trophy
 Avenger of Zendikar
-Beanstalk Giant // Fertile Footsteps
 Beast Within
 Bebop & Rocksteady
 Berserk
@@ -30,11 +29,11 @@ Forest
 Forest
 Forest
 Forest
+Forest
 Garruk's Uprising
 Ghalta, Primal Hunger
 Golgari Rot Farm
 Greensleeves, Maro-Sorcerer
-Groundbreaker
 Heroic Intervention
 Honest Rutstein
 Hunted Bonebrute
@@ -60,6 +59,7 @@ Reanimate
 Relic Golem
 Reliquary Tower
 Retreat to Hagra
+Rise of the Deathbringer
 Roaring Earth
 Rogue's Passage
 Selvala, Heart of the Wilds

@@ -20,7 +20,6 @@ Craterhoof Behemoth
 Crucible of Worlds
 Cultivator Colossus
 Doppelgang
-Dryad of the Ilysian Grove
 Elvish Reclaimer
 Entish Restoration
 Exploration
@@ -93,6 +92,7 @@ Tifa Lockhart
 Titania, Protector of Argoth
 Traveling Chocobo
 Undiscovered Paradise
+Verdant Kraken
 Vorinclex // The Grand Evolution
 Wayward Swordtooth
 Windswept Heath
