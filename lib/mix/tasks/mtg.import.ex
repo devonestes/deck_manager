@@ -12,10 +12,32 @@ defmodule Mix.Tasks.Mtg.Import do
       mix mtg.import front.jpg back.jpg --out reports/new_cards.csv
       mix mtg.import photos/2026-08-01 --out reports/new_cards.csv
 
-  Accepts one or more image references: http(s) URLs, local file paths, or a
-  directory, which stands in for every image file directly inside it (not
-  recursive). AirDropped iPhone originals (`.heic`) are transcoded to JPEG on
-  the way to the API, so a folder straight out of AirDrop works as-is.
+  Accepts one or more image or video references: http(s) URLs, local file
+  paths, or a directory, which stands in for every image and video file
+  directly inside it (not recursive). AirDropped iPhone originals (`.heic`) are
+  transcoded to JPEG on the way to the API, so a folder straight out of AirDrop
+  works as-is.
+
+  ## Videos
+
+      mix mtg.import IMG_1815.MOV IMG_1816.MOV
+
+  A video (`.mov`, `.mp4`, `.m4v`; needs `ffmpeg`) is read as a slideshow of
+  single cards: hold each card still for a second or two, then take it fully
+  out of frame before the next. The gap is what separates two cards, so
+  duplicates can be shown back to back. Record in 4K if you can — the collector
+  line is the smallest print on the card.
+
+  Each card's sharpest still frame is cropped to the card and read for its
+  name, set code, collector number, language and foil mark, then looked up on
+  Scryfall in that language. **Foils need no input**: modern cards print a ★
+  between the set code and language on a foil and a • on a non-foil, and that
+  mark is what is read. A row is flagged for the review when the mark can't be
+  read, or when the name on the card doesn't match the printing its number
+  points at. Finding the cards takes a minute or two per video (cached, so a
+  re-run starts reading at once); the card images are listed in the review.
+
+  ## Photos
 
   Every image is scanned unattended:
 
@@ -28,9 +50,11 @@ defmodule Mix.Tasks.Mtg.Import do
 
   Then, once, for everything scanned:
 
-    3. **Review.** One table of every row, grouped by photo. Correct, drop or
-       add rows until it matches the cards in your hand.
-    4. **Foils.** You say which rows are foil.
+    3. **Review.** One table of every row, grouped by photo or video. Correct,
+       drop or add rows until it matches the cards in your hand. A language
+       code can follow the number (`3 fra 81 de`); a fixed row keeps its own.
+    4. **Foils.** You say which rows are foil — for a video, you confirm the
+       ones read off the ★.
 
   The CSV is rewritten after each image and again after the review, so an
   interrupted run keeps its work. Cards are identified against Scryfall, so you
@@ -40,7 +64,7 @@ defmodule Mix.Tasks.Mtg.Import do
 
     * `--out FILE` — where to write the CSV (default `#{@default_out}`)
     * `--passes N` — independent counting passes per image (default 3)
-    * `--yes` — skip the review entirely, and mark nothing as foil
+    * `--yes` — skip the review entirely; only foils read off a ★ are marked
 
   Requires an Anthropic API key (env `ANTHROPIC_API_KEY` or
   `~/.config/anthropic/token`). Import the result at Moxfield → Collection → Import.
@@ -48,7 +72,7 @@ defmodule Mix.Tasks.Mtg.Import do
 
   use Mix.Task
 
-  alias DeckManager.CardScanner
+  alias DeckManager.{CardScanner, Language, Video}
 
   @impl Mix.Task
   def run(argv) do
@@ -81,7 +105,9 @@ defmodule Mix.Tasks.Mtg.Import do
       |> Enum.reduce([], fn {ref, index}, acc ->
         Mix.shell().info("\n#{IO.ANSI.bright()}[#{index}/#{total}] #{label(ref)}#{reset()}")
 
-        case scan_image(ref, opts) do
+        scan = if Video.video?(ref), do: scan_video(ref), else: scan_image(ref, opts)
+
+        case scan do
           {:ok, rows} ->
             acc = acc ++ rows
             # Written after every image, so an interrupted run keeps its work.
@@ -118,6 +144,62 @@ defmodule Mix.Tasks.Mtg.Import do
     if dropped != [] do
       Mix.shell().error("  #{length(dropped)} unresolved row(s) left out:")
       Enum.each(dropped, fn row -> Mix.shell().error("    #{describe(row)}") end)
+    end
+
+    # Only reachable with flags still on them under --yes, or when a row was
+    # deliberately left as it was — either way, worth a look in Moxfield.
+    case Enum.filter(kept, &notes?/1) do
+      [] ->
+        :ok
+
+      flagged ->
+        Mix.shell().info("  #{length(flagged)} written row(s) carry a note:")
+
+        Enum.each(flagged, fn row ->
+          Mix.shell().info("    #{pad(row.position)}  #{describe(row)}")
+        end)
+    end
+  end
+
+  # Find the cards, read them in batches, resolve. Nothing is asked here either:
+  # the review at the end is where a flagged row gets looked at.
+  defp scan_video(ref) do
+    Mix.shell().info("  Finding cards (decoding the video takes a minute or two) ...")
+
+    with {:ok, cards} <- Video.cards(ref) do
+      report_cards(cards)
+      Mix.shell().info("  Reading #{length(cards)} card(s) ...")
+      {:ok, rows} = CardScanner.read_cards(Enum.map(cards, & &1.image))
+
+      rows =
+        rows
+        |> Enum.zip(cards)
+        |> Enum.map(fn {row, card} -> from_video(row, card) end)
+        |> CardScanner.resolve()
+        |> Enum.map(&Map.put(&1, :source, label(ref)))
+
+      report_reads(rows)
+      {:ok, rows}
+    end
+  end
+
+  defp from_video(row, card) do
+    row = Map.merge(row, %{at: card.at, image: card.image})
+
+    if card.brief,
+      do: Map.update!(row, :notes, &(&1 ++ ["barely shown — image may be blurred"])),
+      else: row
+  end
+
+  defp report_cards(cards) do
+    Mix.shell().info("  #{length(cards)} card(s) found.")
+
+    case Enum.count(cards, & &1.brief) do
+      0 ->
+        :ok
+
+      brief ->
+        Mix.shell().error("  ! #{brief} shown too briefly to hold still — check them below.")
     end
   end
 
@@ -199,6 +281,14 @@ defmodule Mix.Tasks.Mtg.Import do
           "  #{length(rows)} row(s), #{unresolved} unmatched — fix at the review."
         )
     end
+
+    foils = Enum.count(rows, & &1.foil)
+    flagged = Enum.count(rows, &(&1.resolved and notes?(&1)))
+
+    if foils > 0, do: Mix.shell().info("  #{foils} foil (★ on the card).")
+
+    if flagged > 0,
+      do: Mix.shell().error("  #{flagged} matched row(s) flagged — check at the review.")
   end
 
   # Step 3: one review over everything scanned, then one pass of foils. Asking
@@ -242,34 +332,63 @@ defmodule Mix.Tasks.Mtg.Import do
           Enum.reject(rows, &(&1.position == row.position))
         end)
 
-      ["+", set, number] ->
-        added =
-          lookup(%{
-            position: next_position(rows),
-            set: set,
-            collector_number: number,
-            name: "",
-            foil: false,
-            source: "added by hand"
-          })
+      ["+", set, number | language] when length(language) <= 1 ->
+        with {:ok, language} <- language(language, "en") do
+          added =
+            lookup(%{
+              position: next_position(rows),
+              set: set,
+              collector_number: number,
+              name: "",
+              language: language,
+              foil: false,
+              source: "added by hand"
+            })
 
-        Mix.shell().info("    #{pad(added.position)}  #{describe(added)}")
-        rows ++ [added]
+          Mix.shell().info("    #{pad(added.position)}  #{describe(added)}")
+          rows ++ [added]
+        else
+          :error -> bad_language(rows, language)
+        end
 
-      [index, set, number] ->
+      [index, set, number | language] when length(language) <= 1 ->
         with_index(rows, index, fn row ->
-          fixed = lookup(%{row | set: set, collector_number: number})
-          Mix.shell().info("    #{pad(row.position)}  #{describe(fixed)}")
-          replace(rows, fixed)
+          case language(language, Map.get(row, :language, "en")) do
+            {:ok, language} ->
+              fixed =
+                lookup(Map.merge(row, %{set: set, collector_number: number, language: language}))
+
+              Mix.shell().info("    #{pad(row.position)}  #{describe(fixed)}")
+              replace(rows, fixed)
+
+            :error ->
+              bad_language(rows, language)
+          end
         end)
 
       _ ->
         Mix.shell().error(
-          "  ? try: `3 hob 124` to fix row 3, `d 5` to drop row 5, `+ hob 44` to add"
+          "  ? try: `3 hob 124` to fix row 3, `3 fra 81 de` to fix it in German, " <>
+            "`d 5` to drop row 5, `+ hob 44` to add"
         )
 
         rows
     end
+  end
+
+  # An optional trailing language code on an edit; absent keeps `default`.
+  defp language([], default), do: {:ok, default}
+
+  defp language([code], _default) do
+    case Language.scryfall_code(code) do
+      nil -> :error
+      language -> {:ok, language}
+    end
+  end
+
+  defp bad_language(rows, [code]) do
+    Mix.shell().error("  ? #{code} is not a language code — e.g. en, de, fr, it, es, jp")
+    rows
   end
 
   # Row numbers are handed out once and never reshuffled mid-review: the table
@@ -295,11 +414,14 @@ defmodule Mix.Tasks.Mtg.Import do
     end
   end
 
+  # A row you have just corrected starts with a clean slate: its old notes were
+  # about the old reading. The name check runs again against the new printing.
   defp lookup(row) do
     row
     |> Map.merge(%{
       set: row.set |> String.trim() |> String.downcase(),
-      collector_number: String.trim(row.collector_number)
+      collector_number: String.trim(row.collector_number),
+      notes: []
     })
     |> List.wrap()
     |> CardScanner.resolve()
@@ -316,12 +438,29 @@ defmodule Mix.Tasks.Mtg.Import do
     rows |> Enum.with_index(1) |> Enum.map(fn {row, index} -> %{row | position: index} end)
   end
 
-  # Step 4: foils. The model is never asked — the person holding the cards can
-  # see the sheen, and a wrong guess here silently creates the wrong printing.
+  # Step 4: foils. The model never guesses from sheen — on a photo the person
+  # holding the cards says which; off a video the ★ printed on the card already
+  # has, and this just confirms it. A wrong answer silently creates the wrong
+  # printing, so either way it is put to a human once.
   defp foils(rows) do
-    case ask("  Which are foil? (e.g. `2 5-7`, `all`, Enter for none): ") do
+    marked = rows |> Enum.filter(& &1.foil) |> Enum.map(& &1.position)
+
+    prompt =
+      case marked do
+        [] ->
+          "  Which are foil? (e.g. `2 5-7`, `all`, Enter for none): "
+
+        marked ->
+          "  Foil, from the ★ on the card: #{Enum.join(marked, " ")}. " <>
+            "Enter to keep, or list every foil row (`none` for none): "
+      end
+
+    case ask(prompt) do
       "" ->
         rows
+
+      "none" ->
+        Enum.map(rows, &%{&1 | foil: false})
 
       "all" ->
         Enum.map(rows, &%{&1 | foil: true})
@@ -396,7 +535,7 @@ defmodule Mix.Tasks.Mtg.Import do
     rows
     |> Enum.chunk_by(& &1.source)
     |> Enum.each(fn group ->
-      Mix.shell().info("  #{IO.ANSI.faint()}#{hd(group).source}#{reset()}")
+      Mix.shell().info("  #{IO.ANSI.faint()}#{hd(group).source}#{images(group)}#{reset()}")
 
       Enum.each(group, fn row ->
         Mix.shell().info("    #{pad(row.position)}  #{describe(row)}")
@@ -404,14 +543,55 @@ defmodule Mix.Tasks.Mtg.Import do
     end)
   end
 
+  # Where a video's card images are, so a flagged row can be looked at — the
+  # `@1:23` on each row is the same card in the video itself.
+  defp images(group) do
+    case Enum.find(group, & &1[:image]) do
+      nil -> ""
+      row -> " — card images in #{Path.dirname(row.image)}"
+    end
+  end
+
   defp describe(%{resolved: true} = row) do
-    "#{cell(row.set, 5)} #{cell(row.collector_number, 6)} #{row.name}"
+    "#{cell(row.set, 5)} #{cell(row.collector_number, 6)} #{row.name}#{extras(row)}"
   end
 
   defp describe(row) do
     label = if row.name == "", do: "(unreadable)", else: row.name
 
-    "#{IO.ANSI.red()}#{cell(row.set, 5)} #{cell(row.collector_number, 6)} ?? #{label}#{reset()}"
+    "#{IO.ANSI.red()}#{cell(row.set, 5)} #{cell(row.collector_number, 6)} ?? #{label}#{reset()}" <>
+      extras(row)
+  end
+
+  # Foil, a non-English language, where in the video, and anything to check.
+  defp extras(row) do
+    foil = if row.foil, do: " ★", else: ""
+
+    language =
+      case Map.get(row, :language, "en") do
+        "en" -> ""
+        language -> " [#{String.upcase(language)}]"
+      end
+
+    at =
+      case row[:at] do
+        nil -> ""
+        seconds -> " #{IO.ANSI.faint()}@#{timestamp(seconds)}#{reset()}"
+      end
+
+    notes =
+      if notes?(row),
+        do: " #{IO.ANSI.yellow()}! #{Enum.join(row.notes, "; ")}#{reset()}",
+        else: ""
+
+    foil <> language <> at <> notes
+  end
+
+  defp notes?(row), do: Map.get(row, :notes, []) != []
+
+  defp timestamp(seconds) do
+    total = trunc(seconds)
+    "#{div(total, 60)}:#{total |> rem(60) |> to_string() |> String.pad_leading(2, "0")}"
   end
 
   defp cell(value, width), do: value |> to_string() |> String.pad_trailing(width)

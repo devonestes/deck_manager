@@ -24,7 +24,7 @@ defmodule DeckManager.CardScanner do
   photo is guesswork, and the person holding the cards already knows.
   """
 
-  alias DeckManager.{Anthropic, Image, Moxfield, Scryfall}
+  alias DeckManager.{Anthropic, Image, Language, Moxfield, Scryfall, Video}
 
   # Counting passes are cheap next to the cost of finding out later that a photo
   # was half missed, so the default runs a few and shows the spread.
@@ -284,6 +284,206 @@ defmodule DeckManager.CardScanner do
     """
   end
 
+  # Cards per vision request when reading single-card images. Small enough that
+  # a model keeps every label straight, large enough that a video of a hundred
+  # cards is a dozen requests rather than a hundred.
+  @batch_size 8
+  @batch_concurrency 4
+
+  @cards_schema %{
+    type: "object",
+    properties: %{
+      cards: %{
+        type: "array",
+        items: %{
+          type: "object",
+          properties: %{
+            card: %{
+              type: "integer",
+              description: "The label number of the image this entry describes (\"Card 3\" → 3)."
+            },
+            printed_name: %{
+              type: "string",
+              description:
+                "The name in the card's title bar exactly as printed, in the card's own language. Empty string if unreadable."
+            },
+            collector_number: %{
+              type: "string",
+              description:
+                "The collector number from the bottom-left collector line (e.g. \"0081\", \"112a\"). Empty string if unreadable."
+            },
+            set: %{
+              type: "string",
+              description:
+                "The set code from the collector line (e.g. \"FRA\", \"EOE\", \"MH3\"). Empty string if unreadable."
+            },
+            foil_mark: %{
+              type: "string",
+              enum: ["star", "dot", "unreadable"],
+              description:
+                "The symbol between the set code and the language code: \"star\" for ★, \"dot\" for •."
+            },
+            language: %{
+              type: "string",
+              description:
+                "The language code after that symbol (e.g. \"EN\", \"DE\", \"JP\"). Empty string if unreadable."
+            }
+          },
+          required: ["card", "printed_name", "collector_number", "set", "foil_mark", "language"],
+          additionalProperties: false
+        }
+      }
+    },
+    required: ["cards"],
+    additionalProperties: false
+  }
+
+  @doc """
+  Read a list of images that each hold exactly one card — the frames pulled
+  from a video. Returns `{:ok, rows}` with one row per image, in order, as
+  `%{position, set, collector_number, name, printed_name, language, foil, notes}`.
+
+  Because each image is known to be one card, there is nothing to count: the
+  row count is fixed before the model is asked anything, and a card that can't
+  be read still gets a (blank) row rather than silently going missing.
+
+  Foil comes from the printed collector line — a ★ between set and language
+  on a foil, a • on a non-foil — never from how shiny the card looks. An
+  unreadable mark is left non-foil and noted for the review.
+  """
+  def read_cards(images, opts \\ []) do
+    rows =
+      images
+      |> Enum.with_index(1)
+      |> Enum.chunk_every(@batch_size)
+      |> Task.async_stream(&read_batch(&1, opts),
+        max_concurrency: @batch_concurrency,
+        timeout: :infinity,
+        ordered: true
+      )
+      |> Enum.flat_map(fn {:ok, rows} -> rows end)
+
+    {:ok, rows}
+  end
+
+  defp read_batch(batch, opts) do
+    with {:ok, content} <- batch_content(batch),
+         {:ok, text} <-
+           Anthropic.generate(
+             cards_prompt(length(batch)),
+             [images: content, format: @cards_schema, max_tokens: @max_tokens] ++ opts
+           ),
+         {:ok, %{"cards" => cards}} <- decode(text) do
+      card_rows(batch, cards)
+    else
+      error -> Enum.map(batch, fn {_image, position} -> unread_row(position, error) end)
+    end
+  end
+
+  # Images are relabelled 1..n inside the batch so the prompt can say exactly
+  # how many to expect, whatever their position in the video.
+  defp batch_content(batch) do
+    batch
+    |> Enum.with_index(1)
+    |> Enum.reduce_while({:ok, []}, fn {{image, _position}, label}, {:ok, acc} ->
+      with {:ok, ref} <- Image.prepare(image),
+           {:ok, block} <- Anthropic.image_block(ref) do
+        {:cont, {:ok, acc ++ [%{type: "text", text: "Card #{label}:"}, block]}}
+      else
+        error -> {:halt, error}
+      end
+    end)
+  end
+
+  @doc false
+  # One row per image in the batch, matched by label rather than by order —
+  # an entry the model skipped becomes a blank row, not a shift of every row
+  # after it.
+  def card_rows(batch, cards) do
+    by_label = Map.new(cards, fn card -> {card["card"], card} end)
+
+    batch
+    |> Enum.with_index(1)
+    |> Enum.map(fn {{_image, position}, label} ->
+      case Map.fetch(by_label, label) do
+        {:ok, card} -> card_row(position, card)
+        :error -> unread_row(position, :not_returned)
+      end
+    end)
+  end
+
+  defp card_row(position, card) do
+    printed = card["language"] |> to_string() |> String.trim()
+    language = Language.scryfall_code(printed)
+    printed_name = card["printed_name"] |> to_string() |> String.trim()
+
+    notes =
+      Enum.reject(
+        [
+          if(card["foil_mark"] == "unreadable", do: "foil mark unreadable — check for ★"),
+          if(printed != "" and language == nil, do: "unknown language #{printed}")
+        ],
+        &is_nil/1
+      )
+
+    %{
+      position: position,
+      set: card["set"] |> to_string() |> String.trim() |> String.downcase(),
+      collector_number: card["collector_number"] |> to_string() |> String.trim(),
+      name: printed_name,
+      printed_name: printed_name,
+      language: language || "en",
+      foil: card["foil_mark"] == "star",
+      notes: notes
+    }
+  end
+
+  defp unread_row(position, reason) do
+    %{
+      position: position,
+      set: "",
+      collector_number: "",
+      name: "",
+      printed_name: "",
+      language: "en",
+      foil: false,
+      notes: ["not read — #{inspect(reason)}"]
+    }
+  end
+
+  defp cards_prompt(count) do
+    """
+    Each of the #{count} images above is a photo of ONE Magic: The Gathering card,
+    labelled "Card 1" to "Card #{count}". For every card, read:
+
+    - printed_name: the name in the title bar, exactly as printed, in the card's
+      own language.
+    - collector_number and set: from the collector line in the bottom-left
+      corner. On a modern card it is two short lines, for example
+
+          C 0081
+          FRA ★ DE
+
+      The letter before the number is the rarity (C, U, R, M) and is not part of
+      the number. The set code is the 3-4 character group that starts the second
+      line.
+    - foil_mark: the small symbol between the set code and the language code. A
+      star (★) means the card is foil; a dot (•) means it is not. Report "star"
+      or "dot", or "unreadable" if you genuinely cannot tell which. Judge this
+      ONLY from the printed symbol — never from shine, glare or colour.
+    - language: the code after that symbol (EN, DE, FR, IT, ES, PT, JP, KO, RU,
+      CS, CT).
+
+    Rules:
+    - Return exactly #{count} entries, one per card, with "card" set to its label.
+    - Read what is printed. Do not substitute a set or number you think the card
+      ought to have.
+    - The copyright line on the right of the bottom edge is not the collector line.
+    - If something is genuinely unreadable, give an empty string rather than a
+      guess. A blank gets checked by a human; a confident wrong guess does not.
+    """
+  end
+
   @doc """
   Look every row up on Scryfall, returning rows annotated with `:resolved`
   (boolean) and, when found, the canonical `:name`, `:set` and
@@ -304,7 +504,7 @@ defmodule DeckManager.CardScanner do
     # Scryfall asks for a small delay between requests; this is well inside it.
     Process.sleep(100)
 
-    case Scryfall.card_by_set_number(set, number) do
+    case Scryfall.card_by_set_number(set, number, row[:language]) do
       {:ok, printing} ->
         %{
           row
@@ -313,6 +513,7 @@ defmodule DeckManager.CardScanner do
             collector_number: printing["collector_number"]
         }
         |> Map.put(:resolved, true)
+        |> check_name(printing)
 
       {:error, _reason} ->
         Map.put(row, :resolved, false)
@@ -321,15 +522,55 @@ defmodule DeckManager.CardScanner do
 
   defp resolve_row(row), do: Map.put(row, :resolved, false)
 
+  # A misread digit usually lands on a real card — just the wrong one — so a
+  # resolved row is not yet a right row. When the name was read off the card
+  # too, it has to agree with the printing Scryfall returned. Only compared in
+  # the same language: a German name against an English fallback proves nothing.
+  defp check_name(%{printed_name: read} = row, printing) when read != "" do
+    names = printed_names(printing)
+    same_language = printing["lang"] == Map.get(row, :language, "en")
+
+    if same_language and not Enum.any?(names, &same_name?(read, &1)) do
+      add_note(
+        row,
+        "name on card reads “#{read}”, #{row.set} #{row.collector_number} is “#{hd(names)}”"
+      )
+    else
+      row
+    end
+  end
+
+  defp check_name(row, _printing), do: row
+
+  # Every name the card could be showing. A multi-face card (prepare, adventure,
+  # split, transform) has no top-level printed name in a localised printing —
+  # each face carries its own — and the title bar shows only the front face's.
+  defp printed_names(printing) do
+    faces =
+      printing
+      |> Map.get("card_faces", [])
+      |> Enum.flat_map(fn face -> [face["printed_name"], face["name"]] end)
+
+    [printing["printed_name"] | faces]
+    |> Enum.concat([printing["name"]])
+    |> Enum.reject(&(&1 in [nil, ""]))
+  end
+
+  defp same_name?(a, b), do: String.jaro_distance(normalise(a), normalise(b)) >= 0.85
+
+  defp normalise(name), do: name |> String.downcase() |> String.replace(~r/[^\p{L}\p{N}]+/u, "")
+
+  defp add_note(row, note), do: Map.update(row, :notes, [note], &(&1 ++ [note]))
+
   @doc """
   Render reviewed rows as Moxfield import CSV. Only resolved rows are included;
-  identical printings (same set, collector number and foil) merge into one line
-  with a count.
+  identical printings (same set, collector number, foil and language) merge
+  into one line with a count. Rows without a `:language` are English.
   """
   def to_csv(rows) do
     rows
     |> Enum.filter(& &1[:resolved])
-    |> Enum.group_by(fn row -> {row.set, row.collector_number, row.foil} end)
+    |> Enum.group_by(fn row -> {row.set, row.collector_number, row.foil, row[:language]} end)
     |> Enum.map(fn {_key, group} ->
       row = hd(group)
 
@@ -338,7 +579,8 @@ defmodule DeckManager.CardScanner do
         name: row.name,
         edition: row.set,
         collector_number: row.collector_number,
-        foil: row.foil
+        foil: row.foil,
+        language: Language.moxfield_name(row[:language])
       }
     end)
     |> Enum.sort_by(& &1.name)
@@ -346,8 +588,8 @@ defmodule DeckManager.CardScanner do
   end
 
   @doc """
-  Expand image references, replacing any local directory with the image files
-  directly inside it (sorted by name, not recursive). URLs, plain file paths and
+  Expand image references, replacing any local directory with the image and
+  video files directly inside it (sorted by name, not recursive). URLs, plain file paths and
   `{media_type, base64}` tuples pass through untouched.
   """
   def expand_refs(image_refs) do
@@ -372,8 +614,10 @@ defmodule DeckManager.CardScanner do
 
   defp expand_ref(other), do: [other]
 
-  defp image?(name),
-    do: name |> Path.extname() |> String.downcase() |> Kernel.in(@image_extensions)
+  defp image?(name) do
+    extension = name |> Path.extname() |> String.downcase()
+    extension in @image_extensions or extension in Video.extensions()
+  end
 
   @doc """
   Returns a warning string when an image is small enough that the corner print

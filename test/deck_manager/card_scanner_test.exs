@@ -50,6 +50,15 @@ defmodule DeckManager.CardScannerTest do
              ]
     end
 
+    test "includes videos alongside photos", %{dir: dir} do
+      for name <- ["IMG_1815.MOV", "a.jpg"], do: File.touch!(Path.join(dir, name))
+
+      assert CardScanner.expand_refs(dir) == [
+               Path.join(dir, "IMG_1815.MOV"),
+               Path.join(dir, "a.jpg")
+             ]
+    end
+
     test "returns an empty list for a directory holding no images", %{dir: dir} do
       File.touch!(Path.join(dir, "notes.txt"))
 
@@ -94,6 +103,14 @@ defmodule DeckManager.CardScannerTest do
       assert [_headers, _line] = String.split(csv, "\n")
     end
 
+    test "writes the row's language, and keeps languages of one printing apart" do
+      csv = CardScanner.to_csv([row(position: 1, language: "de"), row(position: 2)])
+
+      assert [_headers | lines] = String.split(csv, "\n")
+      assert Enum.count(lines, &(&1 =~ ~s("German"))) == 1
+      assert Enum.count(lines, &(&1 =~ ~s("English"))) == 1
+    end
+
     test "sorts lines by card name" do
       rows = [
         row(position: 1, name: "Zealot"),
@@ -103,6 +120,63 @@ defmodule DeckManager.CardScannerTest do
       assert [_headers, first, second] = CardScanner.to_csv(rows) |> String.split("\n")
       assert first =~ "Aardvark"
       assert second =~ "Zealot"
+    end
+  end
+
+  describe "card_rows/2" do
+    defp batch(n), do: Enum.map(1..n, fn i -> {"card-#{i}.jpg", 40 + i} end)
+
+    defp read(label, attrs \\ %{}) do
+      Map.merge(
+        %{
+          "card" => label,
+          "printed_name" => "Trommelfell-Traktiererin",
+          "collector_number" => "0081",
+          "set" => "FRA",
+          "foil_mark" => "dot",
+          "language" => "DE"
+        },
+        attrs
+      )
+    end
+
+    test "reads set, number and language, keeping the video position" do
+      assert [row] = CardScanner.card_rows(batch(1), [read(1)])
+
+      assert %{position: 41, set: "fra", collector_number: "0081", language: "de", foil: false} =
+               row
+
+      assert row.notes == []
+    end
+
+    test "marks a card foil only from a ★" do
+      rows = CardScanner.card_rows(batch(2), [read(1, %{"foil_mark" => "star"}), read(2)])
+
+      assert Enum.map(rows, & &1.foil) == [true, false]
+    end
+
+    test "notes an unreadable foil mark rather than guessing" do
+      [row] = CardScanner.card_rows(batch(1), [read(1, %{"foil_mark" => "unreadable"})])
+
+      refute row.foil
+      assert [note] = row.notes
+      assert note =~ "foil mark"
+    end
+
+    test "matches entries by label, so a skipped card is a blank row, not a shift" do
+      rows = CardScanner.card_rows(batch(3), [read(3, %{"collector_number" => "3"}), read(1)])
+
+      assert Enum.map(rows, & &1.collector_number) == ["0081", "", "3"]
+      assert Enum.map(rows, & &1.position) == [41, 42, 43]
+      assert [note] = Enum.at(rows, 1).notes
+      assert note =~ "not read"
+    end
+
+    test "falls back to English for an unknown language, and says so" do
+      [row] = CardScanner.card_rows(batch(1), [read(1, %{"language" => "XX"})])
+
+      assert row.language == "en"
+      assert row.notes == ["unknown language XX"]
     end
   end
 

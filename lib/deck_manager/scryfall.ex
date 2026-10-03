@@ -55,16 +55,35 @@ defmodule DeckManager.Scryfall do
   A number read straight off a card is usually zero-padded ("0182") while
   Scryfall indexes it bare ("182"), so a miss is retried once without the
   padding before being reported.
+
+  `lang` is a Scryfall language code ("de"). The localised printing carries the
+  English `"name"` Moxfield matches on plus the `"printed_name"` actually on the
+  card. Scryfall doesn't index every language of every printing, so a miss in
+  the language falls back to the English printing — the set and number are
+  still right, and the caller keeps the language it read.
   """
-  def card_by_set_number(set, number) do
+  def card_by_set_number(set, number, lang \\ nil) do
     set = set |> to_string() |> String.trim() |> String.downcase()
     number = number |> to_string() |> String.trim()
 
-    case fetch_printing(set, number) do
+    case lang do
+      lang when lang in [nil, "", "en"] ->
+        printing(set, number, nil)
+
+      lang ->
+        case printing(set, number, lang) do
+          {:error, {:not_found, _set, _number}} -> printing(set, number, nil)
+          result -> result
+        end
+    end
+  end
+
+  defp printing(set, number, lang) do
+    case fetch_printing(set, number, lang) do
       {:error, {:not_found, _set, _number}} = miss ->
         case unpad(number) do
           ^number -> miss
-          unpadded -> fetch_printing(set, unpadded)
+          unpadded -> fetch_printing(set, unpadded, lang)
         end
 
       result ->
@@ -75,8 +94,9 @@ defmodule DeckManager.Scryfall do
   # Only strips zeros that are padding — "0" stays "0", and "0012a" becomes "12a".
   defp unpad(number), do: String.replace(number, ~r/^0+(?=\d)/, "")
 
-  defp fetch_printing(set, number) do
+  defp fetch_printing(set, number, lang) do
     url = "#{@card_url}/#{URI.encode(set)}/#{URI.encode(number)}"
+    url = if lang, do: url <> "/" <> URI.encode(lang), else: url
 
     case Req.get(url, headers: @headers) do
       {:ok, %{status: 200, body: %{} = card}} -> {:ok, card}
