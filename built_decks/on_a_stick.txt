@@ -167,7 +167,6 @@ Jetmir, Nexus of Revels
 Jill, Shiva's Dominant // Shiva, Warden of Ice
 Junji, the Midnight Sky
 Kessig Cagebreakers
-Knight-Errant of Eos
 Krenko, Tin Street Kingpin
 Kutzil, Malamet Exemplar
 Lion Sash
@@ -240,6 +239,7 @@ Realm-Cloaked Giant // Cast Off
 Reckless Detective
 Reinforced Ronin
 Renata, Called to the Hunt
+Repurposed Enforcer
 Research Thief
 Reservoir Kraken
 Restoration Angel
@@ -305,7 +305,6 @@ Surge Engine
 Sygg, River Cutthroat
 Syr Konrad, the Grim
 Tajic, Legion's Edge
-Tangled Florahedron // Tangled Vale
 Tatyova, Benthic Druid
 Temple Garden
 Terra, Magical Adept // Esper Terra
@@ -355,6 +354,7 @@ Y'shtola Rhul
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Yorion, Sky Nomad
+Yoshimaru, Scrappy Stray
 Zack Fair
 Zahur, Glory's Past
 Zurgo Stormrender

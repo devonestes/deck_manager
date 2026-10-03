@@ -143,7 +143,6 @@
 1 Jill, Shiva's Dominant / Shiva, Warden of Ice (FIN) 58
 1 Junji, the Midnight Sky (NEO) 409
 1 Kessig Cagebreakers (J22) 681
-1 Knight-Errant of Eos (MOM) 346
 1 Krenko, Tin Street Kingpin (J25) 572
 1 Kutzil, Malamet Exemplar (LCI) 304
 1 Lion Sash (PLST) NEO-26
@@ -225,6 +224,7 @@
 1 Reckless Detective (MKM) 141
 1 Reinforced Ronin (NEO) 158
 1 Renata, Called to the Hunt (MUL) 28
+1 Repurposed Enforcer (FRA) 19
 1 Research Thief (NEC) 16
 1 Reservoir Kraken (SNC) 56
 1 Restoration Angel (BLC) 150
@@ -296,7 +296,6 @@
 1 Sygg, River Cutthroat (ZNC) 103
 1 Syr Konrad, the Grim (M3C) 207
 1 Tajic, Legion's Edge (RVR) 385
-1 Tangled Florahedron / Tangled Vale (ZNR) 211
 1 Tatyova, Benthic Druid (FDN) 247
 1 Temple Garden (RVR) 414
 1 Terra, Magical Adept / Esper Terra (FIN) 323
@@ -355,6 +354,7 @@
 1 Yawgmoth, Thran Physician (TSR) 336
 1 Yeva, Nature's Herald (RVR) 162
 1 Yorion, Sky Nomad (MUL) 64
+1 Yoshimaru, Scrappy Stray (FRA) 269
 1 Zack Fair (FIN) 45
 1 Zahur, Glory's Past (DFT) 229
 1 Zurgo Stormrender (TDC) 10
