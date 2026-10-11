@@ -21,6 +21,7 @@ Fiery Inscription
 Fiery Islet
 Frantic Search
 Galvanic Iteration
+Geist of Saint Thalia
 Gitaxian Probe
 Goblin Electromancer
 Grapeshot
@@ -57,7 +58,6 @@ Mountain
 Mountain
 Mountain
 Mountain
-Mystic Remora
 Mystic Sanctuary
 Opt
 Ponder

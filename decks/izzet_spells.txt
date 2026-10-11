@@ -21,6 +21,7 @@
 1 Fiery Islet (MH1) 238
 1 Frantic Search (UMA) 57
 1 Galvanic Iteration (OTC) 227
+1 Geist of Saint Thalia (FRA) 214
 1 Gitaxian Probe (NPH) 35
 1 Goblin Electromancer (OTC) 228
 1 Grapeshot (STA) 39
@@ -39,7 +40,6 @@
 1 Mizzix's Mastery (OTC) 175
 1 Mogg Salvage (MH2) 282
 10 Mountain (J22) 107
-1 Mystic Remora (ICE) 87
 1 Mystic Sanctuary (MKC) 277
 1 Opt (LTC) 194
 1 Ponder (OTC) 105

@@ -46,6 +46,7 @@ Isochron Scepter
 Lim-Dûl's Vault
 Mana Drain
 Misty Rainforest
+Mystic Remora
 Nazgûl
 Nazgûl
 Nazgûl
@@ -68,7 +69,6 @@ Reliquary Tower
 Rhystic Study
 Roaming Throne
 Sakashima of a Thousand Faces
-See Double
 Shadow Rift
 Snap
 Snuff Out

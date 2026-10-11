@@ -33,6 +33,7 @@
 1 Mana Drain (CMR) 80
 1 Misty Rainforest (MM3) 240
 1 Morphic Pool (BBD) 83
+1 Mystic Remora (ICE) 87
 1 Nazgûl (LTR) 100
 1 Nazgûl (LTR) 332
 1 Nazgûl (LTR) 333
@@ -58,7 +59,6 @@
 1 Roaming Throne (LCI) 344
 1 Sakashima of a Thousand Faces (CMR) 89
 1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 333
-1 See Double (MOM) 353
 1 Shadow Rift (TMP) 86
 1 Shipwreck Marsh (MID) 285
 1 Snap (DMR) 66

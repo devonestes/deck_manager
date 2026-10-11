@@ -1,6 +1,5 @@
 1 Toph, Hardheaded Teacher (TLA) 246
 1 Abrade (FDN) 188
-1 Adamantium Bonding Tank (SLD) 1741
 1 Akki Ember-Keeper (NEO) 130
 1 Altar of Dementia (MH1) 218
 1 Amulet of Vigor (WWK) 121
@@ -28,14 +27,15 @@
 1 Evolution Sage (PLST) WAR-159
 1 Evolving Wilds (FDN) 262
 1 Fabled Passage (ELD) 244
-7 Forest (UNF) 244
+1 Farseek (FIC) 302
+6 Forest (UNF) 244
 1 Goblin Anarchomancer (MH2) 200
-1 Hardened Scales (WOT) 55
 1 Harrow (ZNC) 69
 1 Heroic Intervention (LTC) 249
 1 Icetill Explorer (EOE) 343
 1 Impolite Entrance (ECL) 146
 1 Inspiring Call (MOC) 304
+1 Koth, the Geomancer (FRA) 248
 1 Lotus Cobra (ZNR) 307
 1 Lotus Field (M20) 249
 1 Manamorphose (MMA) 191
@@ -45,7 +45,6 @@
 1 Mosswort Bridge (LCC) 342
 6 Mountain (NEO) 299
 1 Myriad Landscape (MOC) 416
-1 Newfound Adventure (FCA) 45
 1 Origin of Metalbending (TLA) 187
 1 Ozolith, the Shattered Spire (MOM) 198
 1 Phyrexian Altar (INV) 306
@@ -53,6 +52,7 @@
 1 Planar Engineering (SOS) 158
 1 Rampant Growth (M12) 190
 1 Return of the Wildspeaker (ELD) 172
+1 Rockfall Vale (INR) 282
 1 Roiling Regrowth (EOC) 105
 1 Rootbound Crag (SLD) 459
 1 Sabotender (FIN) 153
@@ -72,6 +72,7 @@
 1 Tannuk, Memorial Ensign (EOE) 233
 1 Terramorphic Expanse (DSK) 269
 1 The Earth Crystal (FIN) 184
+1 The Ozolith (PIKO) 237p
 1 Three Visits (MKC) 189
 1 Tireless Provisioner (PLST) MH2-180
 1 Titania, Protector of Argoth (PLST) MH2-287

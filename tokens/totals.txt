@@ -21,7 +21,7 @@
     ur_dragon
     wanderer_keruga
     x_spells
-19 Copy (copy)
+18 Copy (copy)
     5c_eldrazi
     aesi
     bant_tokens
@@ -32,7 +32,6 @@
     mishra
     monarch
     moogles
-    nazgul
     omo
     on_a_stick
     slivers

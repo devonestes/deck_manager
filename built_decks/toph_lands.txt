@@ -4,7 +4,6 @@ Moraug, Fury of Akoum (PROXY)
 Scute Swarm (PROXY)
 Toph, Hardheaded Teacher
 Abrade
-The Ozolith
 Akki Ember-Keeper
 Altar of Dementia
 Amulet of Vigor
@@ -31,7 +30,7 @@ Evendo Brushrazer
 Evolution Sage
 Evolving Wilds
 Fabled Passage
-Forest
+Farseek
 Forest
 Forest
 Forest
@@ -39,11 +38,11 @@ Forest
 Forest
 Forest
 Goblin Anarchomancer
-Hardened Scales
 Harrow
 Icetill Explorer
 Impolite Entrance
 Inspiring Call
+Koth, the Geomancer
 Lotus Cobra
 Lotus Field
 Manamorphose
@@ -57,7 +56,6 @@ Mountain
 Mountain
 Mountain
 Myriad Landscape
-Farseek
 Origin of Metalbending
 Ozolith, the Shattered Spire
 Phyrexian Altar
@@ -65,6 +63,7 @@ Pinnacle Monk // Mystic Peak
 Planar Engineering
 Rampant Growth
 Return of the Wildspeaker
+Rockfall Vale
 Roiling Regrowth
 Rootbound Crag
 Sabotender
@@ -83,6 +82,7 @@ Talon Gates of Madara
 Tannuk, Memorial Ensign
 Terramorphic Expanse
 The Earth Crystal
+The Ozolith
 Three Visits
 Tireless Provisioner
 Titania, Protector of Argoth

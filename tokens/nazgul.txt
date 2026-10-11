@@ -1,5 +1,4 @@
 Bird (2/2 blue Creature — Bird) [Flying]
-Copy (copy)
 Frog Lizard (3/3 green Creature — Frog Lizard)
 Orc Army (0/0 black Creature — Orc Army)
 Shapeshifter (3/2 colorless Creature — Shapeshifter) [Changeling]
