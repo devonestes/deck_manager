@@ -27,7 +27,6 @@ Gilded Lotus
 Heliod, Sun-Crowned
 Keeper of the Accord
 Kjeldoran Outpost
-Knight of the White Orchid
 Land Tax
 Linvala, Keeper of Silence
 Loran of the Third Path
@@ -38,6 +37,7 @@ Mother of Runes
 Myriad Landscape
 Nevinyrral's Disk
 Nyx Lotus
+Ob Nixilis, the Ascended
 Peacekeeper
 Pearl Medallion
 Plains

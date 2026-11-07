@@ -7,7 +7,6 @@
 1 Aftermath Analyst (MKM) 148
 1 Agate Instigator (BLC) 21
 1 Agonasaur Rex (DFT) 151
-1 Alesha, Who Laughs at Fate (FDN) 343
 1 Anax, Hardened in the Forge (THB) 125
 1 Ancient Adamantoise (FIN) 172
 1 Angel of Invention (M3C) 166
@@ -15,16 +14,18 @@
 1 Anje's Ravager (C19) 22
 1 Anticausal Vestige (EOE) 357
 1 Arabella, Abandoned Doll (DSK) 208
+1 Archetype of Aggression (BNG) 88
 1 Archfiend of Ifnir (ECC) 70
 1 Arid Mesa (MH2) 436
+1 Armus, Skin of Evil (TRK) 91
 1 Aven Interrupter (PWCS) 2024-08
 1 Azure Beastbinder (BLB) 41
 1 Baleful Strix (MKC) 200
 1 Bannerhide Krushok (MH2) 149
-1 Barrowgoyf (M3C) 102
 1 Big Game Hunter (PLC) 63
 1 Biting-Palm Ninja (NEO) 88
 1 Blackcleave Cliffs (OTC) 272
+1 Blade of the Oni (NEO) 377
 1 Blazing Rootwalla (MH2) 404
 1 Blood Artist (LCC) 182
 1 Blood Crypt (RVR) 397
@@ -61,10 +62,12 @@
 1 Copperline Gorge (ONE) 371
 1 Courser of Kruphix (J22) 641
 1 Cruel Celebrant (LCC) 267
+1 Crystalline Entity (TRK) 261
+1 Cuboid Colony (SOS) 183
 1 Darkslick Shores (ZNE) 12
+1 Data, New Life (TRK) 52
 1 Deathcap Glade (VOW) 281
 1 Deserted Beach (MID) 281
-1 Detective's Phoenix (MH3) 116
 1 Diamond Weapon (FIN) 183
 1 Disciple of Freyalise / Garden of Freyalise (MH3) 250
 1 Disruptive Stormbrood / Petty Revenge (TDM) 178
@@ -76,6 +79,7 @@
 1 Dryad Arbor (FUT) 174
 1 Dyadrine, Synthesis Amalgam (EOE) 298
 1 Eagles of the North (LTR) 7
+1 Edge Rover (EOE) 179
 1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
 1 Elegy Acolyte (EOE) 97
 1 Elenda, the Dusk Rose (LCC) 268
@@ -88,8 +92,8 @@
 1 Faerie Mastermind (MOM) 352
 1 Fallen Shinobi (MH1) 199
 1 Fear of Being Hunted (DSK) 134
+1 Fear of Burning Alive (DSK) 135
 1 Fear of Missing Out (DSK) 136
-1 Fell Stinger (VOW) 112
 1 Festering Thicket (EOC) 21
 1 Fetid Pools (MKC) 261
 1 Flamecache Gecko (BLB) 135
@@ -114,7 +118,9 @@
 1 Greater Tanuki (NEO) 189
 1 Grief (MH2) 87
 1 Grim Lavamancer (DMR) 126
+1 Guiding Hydra (FRA) 11
 1 Guul Draz Assassin (ROE) 112
+1 Halana, Kessig Ranger (CMR) 231
 1 Hallowed Fountain (RVR) 404
 1 Harvester of Misery (BIG) 39
 1 Haunted Ridge (INR) 280
@@ -144,6 +150,7 @@
 1 Junji, the Midnight Sky (NEO) 409
 1 Kessig Cagebreakers (J22) 681
 1 Krenko, Tin Street Kingpin (J25) 572
+1 Kurn, Son of Mogh (TRC) 60
 1 Kutzil, Malamet Exemplar (LCI) 304
 1 Lion Sash (PLST) NEO-26
 1 Lita, Little Orphan Amphibian (TMT) 19
@@ -161,9 +168,7 @@
 1 Massacre Girl (WAR) 99
 1 Massacre Wurm (MKC) 130
 1 Master of Etherium (NEC) 94
-1 Mawloc (40K) 133★
 1 Mentor of the Meek (INR) 34
-1 Metamorphosis Fanatic (DSC) 21
 1 Meteor Golem (FDN) 256
 1 Meticulous Archive (MKM) 328
 1 Mighty Mutanimals (TMT) 21
@@ -189,7 +194,6 @@
 1 Nimble Obstructionist (HOU) 40
 1 Ninja of the Deep Hours (BOK) 44
 1 Noxious Gearhulk (BRC) 110
-1 Nyxborn Unicorn (MH3) 37
 1 Ogre-Head Helm (NEO) 155
 1 Oliphaunt (LTR) 426
 1 Olivia, Mobilized for War (SLD) 699
@@ -206,6 +210,7 @@
 1 Overlord of the Mistmoors (DSK) 23
 1 Ox of Agonas (THB) 147
 1 Patchwork Beastie (DSK) 195
+1 Pia, Aether Ascetic (FRA) 264
 1 Piggy Bank (DSK) 148
 1 Pinnacle Emissary (EOE) 223
 1 Plumecreed Escort (BLB) 65
@@ -213,26 +218,23 @@
 1 Preacher of the Schism (LCI) 113
 1 Professional Face-Breaker (J22) 581
 1 Prosperous Thief (NEO) 336
-1 Pyrogoyf (M3C) 111
 1 Qarsi Revenant (TDM) 338
-1 Quantum Riddler (EOE) 305
 1 Raffine, Scheming Seer (SNC) 213
 1 Rain-Slicked Copse (ECC) 23
 1 Raucous Theater (MKM) 329
 1 Razorverge Thicket (ONE) 257
 1 Realm-Cloaked Giant / Cast Off (BLC) 149
-1 Reckless Detective (MKM) 141
 1 Reinforced Ronin (NEO) 158
 1 Renata, Called to the Hunt (MUL) 28
 1 Repurposed Enforcer (FRA) 19
 1 Research Thief (NEC) 16
 1 Reservoir Kraken (SNC) 56
 1 Restoration Angel (BLC) 150
-1 Rishkar, Peema Renegade (BLC) 235
 1 Rockfall Vale (INR) 282
 1 Royal Assassin (ACR) 93
 1 Sacred Foundry (RVR) 409
 1 Sakashima's Student (PCA) 24
+1 Salt Vampire (TRK) 127
 1 Satya, Aetherflux Genius (M3C) 3
 1 Satyr Wayfinder (BNG) 136
 1 Sauron, the Dark Lord (LTR) 224
@@ -250,11 +252,8 @@
 1 Sephiroth, Fabled SOLDIER / Sephiroth, One-Winged Angel (FIN) 451
 1 Serum Visionary (MH3) 69
 1 Shadowy Backstreet (MKM) 330
-1 Shambling Ghast (AFR) 119
-1 Sharp-Eyed Rookie (MKM) 176
 1 Shattered Sanctum (INR) 283
 1 Sheltered Thicket (PLST) AKH-248
-1 Shigeki, Jukai Visionary (NEO) 206
 1 Shipwreck Marsh (MID) 285
 1 Shriekmaw (MKC) 139
 1 Sicarian Infiltrator (40K) 25
@@ -284,6 +283,7 @@
 1 Stoic Sphinx (OTJ) 71
 1 Stomping Ground (RVR) 413
 1 Stormcarved Coast (VOW) 284
+1 Subcommander T'Pol (TRK) 82
 1 Subtlety (H2R) 6
 1 Summon: Brynhildr (FIN) 160
 1 Summon: Fenrir (FIN) 203
@@ -320,12 +320,11 @@
 1 Twinmaw Stormbrood / Charring Bite (TDM) 232
 1 Twinshot Sniper (NEO) 168
 1 Twitching Doll (DSK) 201
+1 Typhoid Mary, Fractured (MSC) 99
 1 Umbral Collar Zealot (EOE) 395
 1 Umbral Expanse (SOC) 60
 1 Undercity Sewers (MKM) 332
 1 Underground Mortuary (MKM) 333
-1 Uro, Titan of Nature's Wrath (MB2) 93
-1 Ursine Monstrosity (DSC) 63
 1 Vastlands Scavenger / Bind to Life (SOS) 166
 1 Verdant Catacombs (MH2) 440
 1 Verdurous Gearhulk (KLD) 172
@@ -342,6 +341,7 @@
 1 Wildborn Preserver (ELD) 182
 1 Wildfire Wickerfolk (DSK) 239
 1 Wildgrowth Archaic (SOS) 168
+1 Wildsear, Scouring Maw (BLC) 8
 1 Windswept Heath (MH3) 440
 1 Witch Enchanter / Witch-Blessed Meadow (MH3) 239
 1 Woe Strider (BLC) 189

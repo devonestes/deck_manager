@@ -27,7 +27,6 @@
 1 Heliod, Sun-Crowned (THB) 18
 1 Keeper of the Accord (MKC) 70
 1 Kjeldoran Outpost (ALL) 139
-1 Knight of the White Orchid (MOC) 193
 1 Land Tax (2XM) 20
 1 Linvala, Keeper of Silence (ROE) 33
 1 Loran of the Third Path (BRO) 12
@@ -38,6 +37,7 @@
 1 Myriad Landscape (MOC) 416
 1 Nevinyrral's Disk (MH2) 298
 1 Nyx Lotus (THB) 344
+1 Ob Nixilis, the Ascended (FRC) 5
 1 Peacekeeper (WTH) 22
 1 Pearl Medallion (TMP) 300
 31 Plains (3ED) 292

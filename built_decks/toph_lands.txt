@@ -1,5 +1,4 @@
 Constant Mists (PROXY)
-Heroic Intervention (PROXY)
 Moraug, Fury of Akoum (PROXY)
 Scute Swarm (PROXY)
 Toph, Hardheaded Teacher
@@ -39,6 +38,7 @@ Forest
 Forest
 Goblin Anarchomancer
 Harrow
+Heroic Intervention
 Icetill Explorer
 Impolite Entrance
 Inspiring Call

@@ -1,30 +1,28 @@
 Agonasaur Rex (PROXY)
+Archetype of Aggression (PROXY)
+Armus, Skin of Evil (PROXY)
 Boggart Trawler // Boggart Bog (PROXY)
-Coastal Peak (PROXY)
+Crystalline Entity (PROXY)
+Data, New Life (PROXY)
 Dreamroot Cascade (PROXY)
 Emeritus of Abundance // Regrowth (PROXY)
 Grave Researcher // Reanimate (PROXY)
 Hydroelectric Specimen // Hydroelectric Laboratory (PROXY)
 Icetill Explorer (PROXY)
-Mentor of the Meek (PROXY)
-Mikey & Leo, Chaos & Order (PROXY)
+Kurn, Son of Mogh (PROXY)
 Misty Rainforest (PROXY)
 Moonshadow (PROXY)
 Overgrown Farmland (PROXY)
 Overgrown Tomb (PROXY)
 Polluted Delta (PROXY)
-Professional Face-Breaker (PROXY)
-Rain-Slicked Copse (PROXY)
 Rockfall Vale (PROXY)
+Salt Vampire (PROXY)
 Shattered Sanctum (PROXY)
 Shipwreck Marsh (PROXY)
 Solitude (PROXY)
 Squee, Goblin Nabob (PROXY)
-Stalactite Stalker (PROXY)
 Stormcarved Coast (PROXY)
-Troll of Khazad-dûm (PROXY)
-Umbral Expanse (PROXY)
-Vastlands Scavenger // Bind to Life (PROXY)
+Subcommander T'Pol (PROXY)
 Verdant Catacombs (PROXY)
 Vibrance (PROXY)
 Watery Grave (PROXY)
@@ -39,7 +37,6 @@ Aerial Extortionist
 Aether Channeler
 Aftermath Analyst
 Agate Instigator
-Alesha, Who Laughs at Fate
 Anax, Hardened in the Forge
 Ancient Adamantoise
 Angel of Invention
@@ -53,10 +50,10 @@ Aven Interrupter
 Azure Beastbinder
 Baleful Strix
 Bannerhide Krushok
-Barrowgoyf
 Big Game Hunter
 Biting-Palm Ninja
 Blackcleave Cliffs
+Blade of the Oni
 Blazing Rootwalla
 Blood Artist
 Blood Crypt
@@ -83,6 +80,7 @@ Chainer, Nightmare Adept
 Cheering Crowd
 Chrome Dome
 Cloudblazer
+Coastal Peak
 Combustible Gearhulk
 Commercial District
 Concealed Courtyard
@@ -91,10 +89,10 @@ Containment Construct
 Copperline Gorge
 Courser of Kruphix
 Cruel Celebrant
+Cuboid Colony
 Darkslick Shores
 Deathcap Glade
 Deserted Beach
-Detective's Phoenix
 Diamond Weapon
 Disciple of Freyalise // Garden of Freyalise
 Disruptive Stormbrood // Petty Revenge
@@ -105,6 +103,7 @@ Dragon's Rage Channeler
 Dryad Arbor
 Dyadrine, Synthesis Amalgam
 Eagles of the North
+Edge Rover
 Elas il-Kor, Sadistic Pilgrim
 Elegy Acolyte
 Elenda, the Dusk Rose
@@ -116,8 +115,8 @@ Ezio, Brash Novice
 Faerie Mastermind
 Fallen Shinobi
 Fear of Being Hunted
+Fear of Burning Alive
 Fear of Missing Out
-Fell Stinger
 Festering Thicket
 Fetid Pools
 Flamecache Gecko
@@ -141,7 +140,9 @@ Greasewrench Goblin
 Greater Tanuki
 Grief
 Grim Lavamancer
+Guiding Hydra
 Guul Draz Assassin
+Halana, Kessig Ranger
 Hallowed Fountain
 Harvester of Misery
 Haunted Ridge
@@ -186,12 +187,12 @@ Marvin, Murderous Mimic
 Massacre Girl
 Massacre Wurm
 Master of Etherium
-Mawloc
-Metamorphosis Fanatic
+Mentor of the Meek
 Meteor Golem
 Meticulous Archive
 Mighty Mutanimals
 Mikaeus, the Lunarch
+Mikey & Leo, Chaos & Order
 Millikin
 Mirrorshell Crab
 Mistblade Shinobi
@@ -210,7 +211,6 @@ Niko, Light of Hope
 Nimble Obstructionist
 Ninja of the Deep Hours
 Noxious Gearhulk
-Nyxborn Unicorn
 Ogre-Head Helm
 Oliphaunt
 Olivia, Mobilized for War
@@ -225,26 +225,25 @@ Overlord of the Hauntwoods
 Overlord of the Mistmoors
 Ox of Agonas
 Patchwork Beastie
+Pia, Aether Ascetic
 Piggy Bank
 Pinnacle Emissary
 Plumecreed Escort
 Preacher of the Schism
+Professional Face-Breaker
 Prosperous Thief
-Pyrogoyf
 Qarsi Revenant
-Quantum Riddler
 Raffine, Scheming Seer
+Rain-Slicked Copse
 Raucous Theater
 Razorverge Thicket
 Realm-Cloaked Giant // Cast Off
-Reckless Detective
 Reinforced Ronin
 Renata, Called to the Hunt
 Repurposed Enforcer
 Research Thief
 Reservoir Kraken
 Restoration Angel
-Rishkar, Peema Renegade
 Royal Assassin
 Sacred Foundry
 Sakashima's Student
@@ -265,10 +264,7 @@ Sentinel of the Nameless City
 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
 Serum Visionary
 Shadowy Backstreet
-Shambling Ghast
-Sharp-Eyed Rookie
 Sheltered Thicket
-Shigeki, Jukai Visionary
 Shriekmaw
 Sicarian Infiltrator
 Silent Hallcreeper
@@ -286,6 +282,7 @@ Spectral Adversary
 Spirebluff Canal
 Spirited Companion
 Springheart Nantuko
+Stalactite Stalker
 Starfield Shepherd
 Steam Vents
 Steel Overseer
@@ -322,17 +319,19 @@ Tinybones, the Pickpocket
 Tishana's Tidebinder
 Transcendent Dragon
 Trickster's Elk
+Troll of Khazad-dûm
 Trumpeting Carnosaur
 Turncoat Kunoichi
 Twining Twins // Swift Spiral
 Twinmaw Stormbrood // Charring Bite
 Twinshot Sniper
 Twitching Doll
+Typhoid Mary, Fractured
 Umbral Collar Zealot
+Umbral Expanse
 Undercity Sewers
 Underground Mortuary
-Uro, Titan of Nature's Wrath
-Ursine Monstrosity
+Vastlands Scavenger // Bind to Life
 Verdurous Gearhulk
 Voice of Victory
 Voracious Greatshark
@@ -345,6 +344,7 @@ Wight of the Reliquary
 Wildborn Preserver
 Wildfire Wickerfolk
 Wildgrowth Archaic
+Wildsear, Scouring Maw
 Witch Enchanter // Witch-Blessed Meadow
 Woe Strider
 Wrecking Ogre

@@ -35,7 +35,6 @@
 1 Loran of the Third Path (BRO) 12
 1 Maskwood Nexus (PLST) KHM-240
 1 Master of Ceremonies (NCC) 119
-1 Mentor of the Meek (INR) 34
 1 Metallic Mimic (LCC) 308
 1 Mirror Entity (MKC) 75
 1 Monument to Endurance (DFT) 394
@@ -73,4 +72,5 @@
 1 Three Tree Mascot (BLB) 251
 1 Toby, Beastie Befriender (DSK) 35
 1 Universal Automaton (J22) 803
+1 Valor (JUD) 32
 1 Vandalblast (OTC) 183

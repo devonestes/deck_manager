@@ -1,8 +1,8 @@
 1 Stella Lee, Wild Card (OTC) 3
 1 Arcane Bombardment (OTC) 154
-1 Arcane Signet (MOC) 348
 1 Archmage Emeritus (OTC) 90
 1 Big Score (SNC) 102
+1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 123
 1 Brainstorm (ICE) 61
 1 Capture of Jingzhou (CMM) 79
 1 Cascade Bluffs (CMM) 990
@@ -10,7 +10,6 @@
 1 Command Tower (MOC) 396
 1 Consider (MKC) 98
 1 Crash Through (M19) 133
-1 Curiosity (WOT) 17
 1 Cyclonic Rift (2XM) 339
 1 Deflecting Swat (C20) 50
 1 Desperate Ritual (CHK) 163
@@ -19,24 +18,27 @@
 1 Faithless Looting (BRC) 116
 1 Fiery Inscription (LTR) 126
 1 Fiery Islet (MH1) 238
+1 Fireblast (PLST) VIS-79
 1 Frantic Search (UMA) 57
-1 Galvanic Iteration (OTC) 227
 1 Geist of Saint Thalia (FRA) 214
 1 Gitaxian Probe (NPH) 35
 1 Goblin Electromancer (OTC) 228
 1 Grapeshot (STA) 39
 1 Gut Shot (NPH) 86
 1 Haughty Djinn (OTC) 99
+1 Hawkeye's Bow (MSH) 132
 1 Hidden Strings (Q06) 5
 1 Impulse (VIS) 34
 10 Island (J22) 101
 1 Jeska's Will (CMR) 668
 1 Lightning Bolt (4ED) 208
 1 Lórien Revealed (LTR) 60
+1 Lotus Petal (TMP) 294
 1 Mana Drain (CMR) 80
 1 Mana Geyser (PLST) 5DN-75
 1 Marvin, Murderous Mimic (DSK) 253
 1 Mindsplice Apparatus (ONE) 63
+1 Mishra's Bauble (MB2) 97
 1 Mizzix's Mastery (OTC) 175
 1 Mogg Salvage (MH2) 282
 10 Mountain (J22) 107
@@ -46,11 +48,12 @@
 1 Pongify (OTC) 106
 1 Preordain (LTC) 196
 1 Pyretic Ritual (SOA) 46
+1 Pyrokinesis (ALL) 78
 1 Refocus (FRF) 47
 1 Reliquary Tower (BRC) 196
 1 Restless Spire (PWOE) 260p
+1 Rite of Flame (MB2) 59
 1 Riverpyre Verge (DFT) 260
-1 Rousing Refrain (OTC) 178
 1 Scalding Tarn (MM3) 244
 1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 333
 1 Seething Song (MRD) 104
@@ -67,8 +70,6 @@
 1 Stormcatch Mentor (BLB) 234
 1 Submerge (PLST) NEM-48
 1 Sulfur Falls (LTC) 333
-1 Temporal Manipulation (UMA) 77
-1 The One Ring (LTR) 451
 1 Thunderclap Drake (OTC) 17
 1 Time Warp (STA) 22
 1 Training Center (CMR) 713
@@ -77,6 +78,5 @@
 1 Twitch (TMP) 99
 1 Urabrask / The Great Work (MOM) 169
 1 Urza's Saga (MH2) 259
-1 Veyran, Voice of Duality (OTC) 248
 1 Volcanic Island (3ED) 291
 1 Wheel of Fortune (3ED) 185

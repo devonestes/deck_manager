@@ -16,6 +16,7 @@ Insect (1/1 green Creature — Insect)
 Insect (2/1 white Creature — Insect) [Flying]
 Jace (Planeswalker — Jace) [−1: Surveil 1.; −3: Draw a card.]
 Knight (2/2 white Creature — Knight) [Vigilance]
+Lander (Artifact — Lander) [{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.]
 Map (Artifact — Map)
 Mutant (2/2 red Creature — Mutant)
 Myr (1/1 colorless Artifact Creature — Myr)

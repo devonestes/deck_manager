@@ -1,8 +1,8 @@
 Stella Lee, Wild Card
 Arcane Bombardment
-Arcane Signet
 Archmage Emeritus
 Big Score
+Birgi, God of Storytelling // Harnfel, Horn of Bounty
 Brainstorm
 Capture of Jingzhou
 Cascade Bluffs
@@ -10,7 +10,6 @@ Castle Vantress
 Command Tower
 Consider
 Crash Through
-Curiosity
 Cyclonic Rift
 Deflecting Swat
 Desperate Ritual
@@ -19,14 +18,15 @@ Expressive Iteration
 Faithless Looting
 Fiery Inscription
 Fiery Islet
+Fireblast
 Frantic Search
-Galvanic Iteration
 Geist of Saint Thalia
 Gitaxian Probe
 Goblin Electromancer
 Grapeshot
 Gut Shot
 Haughty Djinn
+Hawkeye's Bow
 Hidden Strings
 Impulse
 Island
@@ -42,10 +42,12 @@ Island
 Jeska's Will
 Lightning Bolt
 Lórien Revealed
+Lotus Petal
 Mana Drain
 Mana Geyser
 Marvin, Murderous Mimic
 Mindsplice Apparatus
+Mishra's Bauble
 Mizzix's Mastery
 Mogg Salvage
 Mountain
@@ -64,11 +66,12 @@ Ponder
 Pongify
 Preordain
 Pyretic Ritual
+Pyrokinesis
 Refocus
 Reliquary Tower
 Restless Spire
+Rite of Flame
 Riverpyre Verge
-Rousing Refrain
 Scalding Tarn
 Sea Gate Restoration // Sea Gate, Reborn
 Seething Song
@@ -85,8 +88,6 @@ Storm-Kiln Artist
 Stormcatch Mentor
 Submerge
 Sulfur Falls
-Temporal Manipulation
-The One Ring
 Thunderclap Drake
 Time Warp
 Training Center
@@ -95,6 +96,5 @@ Twisted Fealty
 Twitch
 Urabrask // The Great Work
 Urza's Saga
-Veyran, Voice of Duality
 Volcanic Island
 Wheel of Fortune

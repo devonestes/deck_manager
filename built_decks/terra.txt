@@ -1,7 +1,6 @@
 Terra, Herald of Hope
 Accursed Marauder
 Alesha, Who Laughs at Fate
-Alesha, Who Smiles at Death
 Animate Dead
 Arcane Signet
 Archivist of Oghma
@@ -88,6 +87,7 @@ Swords to Plowshares
 Talisman of Conviction
 Talisman of Hierarchy
 Talisman of Indulgence
+Tamiyo, Upriser Crowned
 Teferi's Protection
 Threefold Thunderhulk
 Thrill of Possibility

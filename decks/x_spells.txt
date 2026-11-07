@@ -4,7 +4,6 @@
 1 All Will Be One (ONE) 118
 1 Altered Ego (FIC) 317
 1 Arcane Signet (MOC) 348
-1 Argonath, Pillars of the Kings (LTC) 351
 1 Benevolent Hydra (J22) 38
 1 Biophagus (40K) 87★
 1 Bloom Tender (EVE) 66
@@ -20,7 +19,6 @@
 1 Court of Garenbrig (WOC) 25
 1 Crackle with Power (STX) 308
 1 Deflecting Swat (C20) 50
-1 Delighted Halfling (LTR) 158
 1 Doppelgang (MKM) 198
 1 Elementalist's Palette (C21) 76
 1 Exocrine (40K) 76
@@ -32,17 +30,17 @@
 1 Geometer's Arthropod (SOS) 191
 1 Goldvein Hydra (OTJ) 167
 1 Gyre Sage (MOC) 300
-1 Hardened Scales (WOT) 55
-1 Heroic Intervention (LTC) 249
 1 Hinterland Harbor (LTC) 317
 1 Hydroid Krasis (RNA) 183
 1 Incubation Druid (MOC) 302
+1 Ingenious Prodigy (SOC) 115
 1 Inspiring Call (MOC) 304
 1 Instill Energy (5ED) 304
 1 Invasion of Ikoria / Zilortha, Apex of Ikoria (MOM) 190
 3 Island (J22) 101
 1 Izzet Boilerworks (BRC) 188
 1 Kalonian Hydra (M14) 181
+1 Kami of Whispered Hopes (MOM) 196
 1 Karn's Bastion (CMM) 1007
 1 Ketria Triome (IKO) 310
 1 Kiora's Follower (LCC) 273
@@ -78,6 +76,7 @@
 1 Sulfur Falls (LTC) 333
 1 Termagant Swarm (40K) 99
 1 Tervigon (40K) 100
+1 The Ozolith (PIKO) 237p
 1 The Party Tree (LTC) 348
 1 Thousand-Year Elixir (C13) 266
 1 Training Center (CMR) 713
@@ -90,4 +89,5 @@
 1 Winged Hive Tyrant (40K) 148
 1 Wooded Foothills (KTK) 249
 1 Yavimaya Coast (DMU) 261
+1 Zimone, Infinite Analyst (SOC) 10
 1 Zoanthrope (40K) 149

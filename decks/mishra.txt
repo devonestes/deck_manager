@@ -27,6 +27,7 @@
 1 Etherium Sculptor (ALA) 42
 1 Fabricate (MRD) 35
 1 Fomori Vault (BIG) 59
+1 Getaway Barrel (HOB) 98
 1 Gloomlake Verge (DSK) 331
 1 Gonti's Aether Heart (M3C) 294
 1 Great Furnace (BRC) 187
@@ -60,6 +61,7 @@
 1 Repurposing Bay (DFT) 56
 1 RMS Titanic (WHO) 93
 1 Scalding Tarn (MM3) 244
+1 Scientist Supreme of A.I.M. (MSH) 225
 1 Seat of the Synod (BRC) 198
 1 Sensei's Divining Top (2X2) 398
 1 Shipwreck Marsh (MID) 285
@@ -76,7 +78,6 @@
 1 The Belligerent (LCI) 225
 1 The Lunar Whale (FIN) 60
 1 The Master, Multiplied (WHO) 146
-1 The One Ring (LTR) 451
 1 The Reality Chip (NEO) 74
 1 The Soul Stone (SPM) 66
 1 The Stasis Coffin (BRO) 245
@@ -96,5 +97,4 @@
 1 Warmaker Gunship (EOE) 167
 1 Watery Grave (UNF) 278
 1 Weatherlight (DOM) 237
-1 Worldwalker Helm (BIG) 37
 1 Xander's Lounge (SNC) 294

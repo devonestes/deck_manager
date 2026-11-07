@@ -2,22 +2,22 @@ Assassin's Trophy (PROXY)
 Boseiju, Who Endures (PROXY)
 Crucible of Worlds (PROXY)
 Damnation (PROXY)
-Delighted Halfling (PROXY)
 Heroic Intervention (PROXY)
 Icetill Explorer (PROXY)
 Lightning Greaves (PROXY)
 Overgrown Tomb (PROXY)
-Phyrexian Altar (PROXY)
 Shatterskull Smashing // Shatterskull, the Hammer Pass (PROXY)
 Skullclamp (PROXY)
 Korvold, Fae-Cursed King
 Academy Manufactor
 Accursed Marauder
 Agadeem's Awakening // Agadeem, the Undercrypt
+Agatha's Soul Cauldron
 Alchemist's Talent
 Ancient Copper Dragon
 Ancient Tomb
 Animate Dead
+Arcane Signet
 Arid Mesa
 Ashnod's Altar
 Badlands
@@ -33,13 +33,13 @@ Bootleggers' Stash
 Burnt Offering
 Chatterfang, Squirrel General
 Command Tower
-Crop Rotation
 Culling the Weak
 Dark Ritual
 Deadly Dispute
 Deadly Rollick
 Deathrite Shaman
 Deflecting Swat
+Delighted Halfling
 Dictate of Erebos
 Eldrazi Repurposer
 Fabled Passage
@@ -60,6 +60,7 @@ Mirkwood Bats
 Misty Rainforest
 Mountain
 Mountain
+Mountain
 Old Gnawbone
 Oni-Cult Anvil
 Opposition Agent
@@ -69,7 +70,6 @@ Phyrexian Tower
 Pitiless Plunderer
 Planar Engineering
 Polluted Delta
-Professional Face-Breaker
 Ragavan, Nimble Pilferer
 Reanimate
 Reassembling Skeleton
@@ -82,13 +82,13 @@ Stomping Ground
 Swamp
 Swamp
 Swamp
+Swamp
 Taiga
 The Meathook Massacre
 The Sackville-Bagginses
 Tinder Wall
 Tireless Provisioner
 Toxic Deluge
-Troll of Khazad-dûm
 Undergrowth Stadium
 Urborg, Tomb of Yawgmoth
 Urza's Saga

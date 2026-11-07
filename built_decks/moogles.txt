@@ -35,7 +35,6 @@ Lightning Greaves
 Loran of the Third Path
 Maskwood Nexus
 Master of Ceremonies
-Mentor of the Meek
 Metallic Mimic
 Mirror Entity
 Monument to Endurance
@@ -97,4 +96,5 @@ The Wind Crystal
 Three Tree Mascot
 Toby, Beastie Befriender
 Universal Automaton
+Valor
 Vandalblast

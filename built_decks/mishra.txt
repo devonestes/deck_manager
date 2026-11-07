@@ -27,6 +27,7 @@ Esoteric Duplicator
 Etherium Sculptor
 Fabricate
 Fomori Vault
+Getaway Barrel
 Gloomlake Verge
 Gonti's Aether Heart
 Great Furnace
@@ -60,6 +61,7 @@ Relic of Sauron
 Repurposing Bay
 RMS Titanic
 Scalding Tarn
+Scientist Supreme of A.I.M.
 Seat of the Synod
 Sensei's Divining Top
 Shipwreck Marsh
@@ -76,7 +78,6 @@ Talisman of Indulgence
 The Belligerent
 The Lunar Whale
 The Master, Multiplied
-The One Ring
 The Reality Chip
 The Soul Stone
 The Stasis Coffin
@@ -96,5 +97,4 @@ Volcanic Island
 Warmaker Gunship
 Watery Grave
 Weatherlight
-Worldwalker Helm
 Xander's Lounge

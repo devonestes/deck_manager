@@ -34,13 +34,13 @@
 1 Misty Rainforest (MM3) 240
 1 Morphic Pool (BBD) 83
 1 Mystic Remora (ICE) 87
+1 Nazgûl (LTR) 337
+1 Nazgûl (LTR) 336
+1 Nazgûl (LTR) 335
 1 Nazgûl (LTR) 100
 1 Nazgûl (LTR) 332
-1 Nazgûl (LTR) 333
 1 Nazgûl (LTR) 334
-1 Nazgûl (LTR) 335
-1 Nazgûl (LTR) 336
-1 Nazgûl (LTR) 337
+1 Nazgûl (LTR) 333
 1 Nazgûl (LTR) 338
 1 Nazgûl (LTR) 339
 1 Negate (STA) 18

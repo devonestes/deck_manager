@@ -1,7 +1,6 @@
 1 Terra, Herald of Hope (FIC) 4
 1 Accursed Marauder (MH3) 80
 1 Alesha, Who Laughs at Fate (FDN) 343
-1 Alesha, Who Smiles at Death (FRF) 90
 1 Animate Dead (LEB) 93
 1 Arcane Signet (SLD) 1641
 1 Archivist of Oghma (PLST) CLB-4
@@ -76,6 +75,7 @@
 1 Talisman of Conviction (LTC) 285
 1 Talisman of Hierarchy (LCC) 315
 1 Talisman of Indulgence (MRD) 255
+1 Tamiyo, Upriser Crowned (FRC) 11
 1 Teferi's Protection (SLD) 1691
 1 Threefold Thunderhulk (LCI) 265
 1 Thrill of Possibility (FDN) 210

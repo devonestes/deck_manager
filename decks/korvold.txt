@@ -2,10 +2,12 @@
 1 Academy Manufactor (MH2) 219
 1 Accursed Marauder (MH3) 80
 1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90
+1 Agatha's Soul Cauldron (WOE) 366
 1 Alchemist's Talent (BLC) 22
 1 Ancient Copper Dragon (CLB) 161
 1 Ancient Tomb (TMP) 315
 1 Animate Dead (3ED) 93
+1 Arcane Signet (MOC) 348
 1 Arid Mesa (MM3) 229
 1 Ashnod's Altar (5ED) 349
 1 Assassin's Trophy (GRN) 152
@@ -23,7 +25,6 @@
 1 Burnt Offering (ICE) 116
 1 Chatterfang, Squirrel General (MH2) 316
 1 Command Tower (MOC) 396
-1 Crop Rotation (DMR) 154
 1 Crucible of Worlds (10E) 319
 1 Culling the Weak (EXO) 55
 1 Damnation (TSR) 106
@@ -52,19 +53,17 @@
 1 Mayhem Devil (WAR) 204
 1 Mirkwood Bats (LTR) 95
 1 Misty Rainforest (MM3) 240
-2 Mountain (J22) 107
+3 Mountain (J22) 107
 1 Old Gnawbone (AFR) 197
 1 Oni-Cult Anvil (BRC) 127
 1 Opposition Agent (CMR) 141
 1 Orcish Bowmasters (LTR) 103
 1 Orcish Lumberjack (ICE) 210
 1 Overgrown Tomb (UNF) 284
-1 Phyrexian Altar (INV) 306
 1 Phyrexian Tower (JMP) 493
 1 Pitiless Plunderer (LCC) 208
 1 Planar Engineering (SOS) 158
 1 Polluted Delta (KTK) 239
-1 Professional Face-Breaker (J22) 581
 1 Ragavan, Nimble Pilferer (MUL) 21
 1 Reanimate (TMP) 151
 1 Reassembling Skeleton (J22) 125
@@ -76,14 +75,13 @@
 1 Spire Garden (ZNE) 19
 1 Squandered Resources (VIS) 137
 1 Stomping Ground (UNF) 280
-3 Swamp (J22) 106
+4 Swamp (J22) 106
 1 Taiga (3ED) 287
 1 The Meathook Massacre (MID) 112
 1 The Sackville-Bagginses (HOB) 83
 1 Tinder Wall (ICE) 270
 1 Tireless Provisioner (MH2) 180
 1 Toxic Deluge (C13) 96
-1 Troll of Khazad-dûm (LTR) 111
 1 Undergrowth Stadium (CMR) 714
 1 Urborg, Tomb of Yawgmoth (TSR) 287
 1 Urza's Saga (MH2) 259

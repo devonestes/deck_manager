@@ -4,7 +4,6 @@ Voracious Hydra
 All Will Be One
 Altered Ego
 Arcane Signet
-The Ozolith
 Benevolent Hydra
 Biophagus
 Bloom Tender
@@ -20,7 +19,6 @@ Command Tower
 Court of Garenbrig
 Crackle with Power
 Deflecting Swat
-Delighted Halfling
 Doppelgang
 Elementalist's Palette
 Exocrine
@@ -35,11 +33,10 @@ Frontier Bivouac
 Geometer's Arthropod
 Goldvein Hydra
 Gyre Sage
-Hardened Scales
-Heroic Intervention
 Hinterland Harbor
 Hydroid Krasis
 Incubation Druid
+Ingenious Prodigy
 Inspiring Call
 Instill Energy
 Invasion of Ikoria // Zilortha, Apex of Ikoria
@@ -48,6 +45,7 @@ Island
 Island
 Izzet Boilerworks
 Kalonian Hydra
+Kami of Whispered Hopes
 Karn's Bastion
 Ketria Triome
 Kiora's Follower
@@ -85,6 +83,7 @@ Stormcarved Coast
 Sulfur Falls
 Termagant Swarm
 Tervigon
+The Ozolith
 The Great Henge
 Thousand-Year Elixir
 Training Center
@@ -97,4 +96,5 @@ Vorinclex, Monstrous Raider
 Winged Hive Tyrant
 Wooded Foothills
 Yavimaya Coast
+Zimone, Infinite Analyst
 Zoanthrope

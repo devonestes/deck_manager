@@ -2,7 +2,6 @@ Astartes Warrior (2/2 white Creature — Astartes Warrior) [Vigilance]
 Construct (0/0 colorless Artifact Creature — Construct)
 Copy (copy)
 Eldrazi (10/10 colorless Creature — Eldrazi)
-Map (Artifact — Map)
 Mishra's Warform (4/4 colorless Artifact Creature — Construct)
 Powerstone (Artifact — Powerstone)
 Treasure (Artifact — Treasure)
